@@ -11,8 +11,8 @@ OL,5,                   B
 OL,6,D]                 G\GNews ---------G101
 OL,7,D]CNEWS             \BFinance ------G130
 OL,8,D]                  \FWeather ------G150
-OL,9,D]GThe day's top    \BTravel -------G160
-OL,10,D]Gstories at home  \FTech Station -G180
+OL,9,D]GThe day's top    \BTravel -------G175
+OL,10,D]Gstories at home  \FTech Station -G190
 OL,11,D]Gand abroad.      \BTV Listings --G200
 OL,12,D]G                 \FRadio ListingsG260
 OL,13,D]G                 \BTV Zone UK ---G300
@@ -38,8 +38,8 @@ OL,5,                   B
 OL,6,V]                 G\FNews ---------G101
 OL,7,V]AFINANCE          \GFinance ------G130
 OL,8,V]                  \FWeather ------G150
-OL,9,V]DThe day's top    \BTravel -------G160
-OL,10,V]Dfinancial news   \FTech Station -G180
+OL,9,V]DThe day's top    \BTravel -------G175
+OL,10,V]Dfinancial news   \FTech Station -G190
 OL,11,V]Dstories at home  \BTV Listings --G200
 OL,12,V]Dand abroad.      \FRadio ListingsG260
 OL,13,V]G                 \BTV Zone UK ---G300
@@ -65,8 +65,8 @@ OL,5,                   B
 OL,6,A]                 G\FNews ---------G101
 OL,7,A]CWEATHER          \BFinance ------G130
 OL,8,A]                  \GWeather ------G150
-OL,9,A]GFind out where   \BTravel -------G160
-OL,10,A]Gthe global       \FTech Station -G180
+OL,9,A]GFind out where   \BTravel -------G175
+OL,10,A]Gthe global       \FTech Station -G190
 OL,11,A]Ghotspots are.    \BTV Listings --G200
 OL,12,A]G                 \FRadio ListingsG260
 OL,13,A]GCatch up on the  \BTV Zone UK ---G300
@@ -92,8 +92,8 @@ OL,5,                   B
 OL,6,E]                 G\FNews ---------G101
 OL,7,E]CTRAVEL           \BFinance ------G130
 OL,8,E]                  \FWeather ------G150
-OL,9,E]GDetails will     \GTravel -------G160
-OL,10,E]Gappear in this   \FTech Station -G180
+OL,9,E]GDetails will     \GTravel -------G175
+OL,10,E]Gappear in this   \FTech Station -G190
 OL,11,E]Gspace.           \BTV Listings --G200
 OL,12,E]G                 \FRadio ListingsG260
 OL,13,E]GDetails will     \BTV Zone UK ---G300
@@ -119,8 +119,8 @@ OL,5,                   B
 OL,6,C]                 G\FNews ---------G101
 OL,7,C]ATECH STATION     \BFinance ------G130
 OL,8,C]                  \FWeather ------G150
-OL,9,C]DDetails will     \BTravel -------G160
-OL,10,C]Dappear in this   \GTech Station -G180
+OL,9,C]DDetails will     \BTravel -------G175
+OL,10,C]Dappear in this   \GTech Station -G190
 OL,11,C]Dspace.           \BTV Listings --G200
 OL,12,C]D                 \FRadio ListingsG260
 OL,13,C]DDetails will     \BTV Zone UK ---G300
