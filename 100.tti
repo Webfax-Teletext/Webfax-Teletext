@@ -1,135 +1,26 @@
-PN,10001
-CT,05,T
+PN,10000
 DE,Front Page
 PS,8000
-SC,0001
+SC,0000
 OL,1,W|4|h4|||h||4|||h||4|4|                 
 OL,2,W5j5u3jz%u3jz5ou?CTeletext on     
 OL,3,W5j57qjk47!jk5~7}Cthe internet    
 OL,4,W////%///*//%/% */*%/%/R,,,,,,,,,,,,,,,,
 OL,5,                   B                    
-OL,6,D]                 G\GNews ---------G101
-OL,7,D]CNEWS             \BFinance ------G130
-OL,8,D]                  \FWeather ------G150
-OL,9,D]GThe day's top    \BTravel -------G175
-OL,10,D]Gstories at home  \FTech Station -G190
-OL,11,D]Gand abroad.      \BTV Listings --G200
-OL,12,D]G                 \FRadio ListingsG260
-OL,13,D]G                 \BTV Zone UK ---G300
-OL,14,D]G                 \FOn This Day --G320
-OL,15,D]                  \BClean Feed ---G340
-OL,16,D]                  \FReview -------G360
-OL,17,D]C PAGE 101       \BSport --------G400
-OL,18,D]                  \FAdvertising --G600
+OL,6,B]                  \GNews ---------G101
+OL,7,B]ANEWS             \BFinance ------G150
+OL,8,B]                  \FTV Listings --G200
+OL,9,B]DDetails will     \BRadio ListingsG260
+OL,10,B]Dappear in this   \FTV Zone UK ---G300
+OL,11,B]Dspace.           \BOn This Day --G320
+OL,12,B]D                 \FClean Feed ---G340
+OL,13,B]DDetails will     \BTech Station -G360
+OL,14,B]Dappear in this   \FSport --------G400
+OL,15,B]Dspace.           \BWeather ------G600
+OL,16,B]A                 \FTravel -------G650
+OL,17,B]A ON PAGE 101    \BAbout Webfax -G698
+OL,18,B]                  \FA - Z Index --G699
 OL,19,                   B                    
 OL,20,CLet us know what you think about WEBFAX
 OL,21,C          feedback@webfax.org          
-OL,23,B]DFull A - Z Index -------------- 699  
-PN,10002
-CT,05,T
-DE,Front Page
-PS,8000
-SC,0002
-OL,1,W|4|h4|||h||4|||h||4|4|                 
-OL,2,W5j5u3jz%u3jz5ou?CTeletext on     
-OL,3,W5j57qjk47!jk5~7}Cthe internet    
-OL,4,W////%///*//%/% */*%/%/R,,,,,,,,,,,,,,,,
-OL,5,                   B                    
-OL,6,V]                 G\FNews ---------G101
-OL,7,V]AFINANCE          \GFinance ------G130
-OL,8,V]                  \FWeather ------G150
-OL,9,V]DThe day's top    \BTravel -------G175
-OL,10,V]Dfinancial news   \FTech Station -G190
-OL,11,V]Dstories at home  \BTV Listings --G200
-OL,12,V]Dand abroad.      \FRadio ListingsG260
-OL,13,V]G                 \BTV Zone UK ---G300
-OL,14,V]G                 \FOn This Day --G320
-OL,15,V]                  \BClean Feed ---G340
-OL,16,V]                  \FReview -------G360
-OL,17,V]A PAGE 130       \BSport --------G400
-OL,18,V]                  \FAdvertising --G600
-OL,19,                   B                    
-OL,20,CLet us know what you think about WEBFAX
-OL,21,C          feedback@webfax.org          
-OL,23,B]DFull A - Z Index -------------- 699  
-PN,10003
-CT,05,T
-DE,Front Page
-PS,8000
-SC,0003
-OL,1,W|4|h4|||h||4|||h||4|4|                 
-OL,2,W5j5u3jz%u3jz5ou?CTeletext on     
-OL,3,W5j57qjk47!jk5~7}Cthe internet    
-OL,4,W////%///*//%/% */*%/%/R,,,,,,,,,,,,,,,,
-OL,5,                   B                    
-OL,6,A]                 G\FNews ---------G101
-OL,7,A]CWEATHER          \BFinance ------G130
-OL,8,A]                  \GWeather ------G150
-OL,9,A]GFind out where   \BTravel -------G175
-OL,10,A]Gthe global       \FTech Station -G190
-OL,11,A]Ghotspots are.    \BTV Listings --G200
-OL,12,A]G                 \FRadio ListingsG260
-OL,13,A]GCatch up on the  \BTV Zone UK ---G300
-OL,14,A]Gforecast for     \FOn This Day --G320
-OL,15,A]Gtoday at home.   \BClean Feed ---G340
-OL,16,A]G                 \FReview -------G360
-OL,17,A]C PAGE 150       \BSport --------G400
-OL,18,A]                  \FAdvertising --G600
-OL,19,                   B                    
-OL,20,CLet us know what you think about WEBFAX
-OL,21,C          feedback@webfax.org          
-OL,23,B]DFull A - Z Index -------------- 699  
-PN,10004
-CT,05,T
-DE,Front Page
-PS,8000
-SC,0004
-OL,1,W|4|h4|||h||4|||h||4|4|                 
-OL,2,W5j5u3jz%u3jz5ou?CTeletext on     
-OL,3,W5j57qjk47!jk5~7}Cthe internet    
-OL,4,W////%///*//%/% */*%/%/R,,,,,,,,,,,,,,,,
-OL,5,                   B                    
-OL,6,E]                 G\FNews ---------G101
-OL,7,E]CTRAVEL           \BFinance ------G130
-OL,8,E]                  \FWeather ------G150
-OL,9,E]GDetails will     \GTravel -------G175
-OL,10,E]Gappear in this   \FTech Station -G190
-OL,11,E]Gspace.           \BTV Listings --G200
-OL,12,E]G                 \FRadio ListingsG260
-OL,13,E]GDetails will     \BTV Zone UK ---G300
-OL,14,E]Gappear in this   \FOn This Day --G320
-OL,15,E]Gspace.           \BClean Feed ---G340
-OL,16,E]G                 \FReview -------G360
-OL,17,E]C PAGE 175       \BSport --------G400
-OL,18,E]                  \FAdvertising --G600
-OL,19,                   B                    
-OL,20,CLet us know what you think about WEBFAX
-OL,21,C          feedback@webfax.org          
-OL,23,B]DFull A - Z Index -------------- 699  
-PN,10005
-CT,05,T
-DE,Front Page
-PS,8000
-SC,0005
-OL,1,W|4|h4|||h||4|||h||4|4|                 
-OL,2,W5j5u3jz%u3jz5ou?CTeletext on     
-OL,3,W5j57qjk47!jk5~7}Cthe internet    
-OL,4,W////%///*//%/% */*%/%/R,,,,,,,,,,,,,,,,
-OL,5,                   B                    
-OL,6,C]                 G\FNews ---------G101
-OL,7,C]ATECH STATION     \BFinance ------G130
-OL,8,C]                  \FWeather ------G150
-OL,9,C]DDetails will     \BTravel -------G175
-OL,10,C]Dappear in this   \GTech Station -G190
-OL,11,C]Dspace.           \BTV Listings --G200
-OL,12,C]D                 \FRadio ListingsG260
-OL,13,C]DDetails will     \BTV Zone UK ---G300
-OL,14,C]Dappear in this   \FOn This Day --G320
-OL,15,C]Dspace.           \BClean Feed ---G340
-OL,16,C]G                 \FReview -------G360
-OL,17,C]A PAGE 190       \BSport --------G400
-OL,18,C]                  \FAdvertising --G600
-OL,19,                   B                    
-OL,20,CLet us know what you think about WEBFAX
-OL,21,C          feedback@webfax.org          
-OL,23,B]DFull A - Z Index -------------- 699  
+OL,23,B]D Follow us on Twitter @webfaxttext   
