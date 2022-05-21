@@ -43,7 +43,7 @@ OL,18,    Fheight across two rows
 OL,20,FGNASDAQ   C 11354.62FA- 33.88 G(CLSE) 
 OL,21,FGNIKKEI   C 26739.03 F+336.19 G(CLSE) 
 OL,22,B                                       
-OL,23,F]DShare Price Index ------------- 180  
+OL,23,F]DShare Prices Index ------------ 180  
 PN,15003
 CT,8,T
 DE,Finance index
@@ -79,7 +79,7 @@ OL,5,M170FMarket Data Index
 OL,7,     Markets: UK, Europe, US, Asia      
 OL,8,     Currencies: GBP, USD, EUR, JPY     
 OL,9,     Commodities: Oil, Gold, Gas        
-OL,11,M180FShare Price Index                  
+OL,11,M180FShare Prices Index                  
 OL,13,     Full alphabetic listing from the   
 OL,14,     London Stock Exchange              
 OL,20,FGOIL      C   110.35 F+  0.46 G(CLSE) 
