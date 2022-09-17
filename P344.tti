@@ -1,64 +1,124 @@
 PN,34401
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F344A1662211378
-OL,6,FThere was a breakdown on the BBC      
-OL,7,FScotland Channel shortly after 9.25pm 
-OL,8,Ftonight, when live coverage of the    
-OL,9,FHearts v FC Zurich match was          
-OL,10,Finterrupted due to "satellite issues".
-OL,12,FThe breakdown lasted over ten minutes.
-OL,13,FPrior to the appearance of the        
-OL,14,Fbreakdown slide, there was a few      
-OL,15,Fminutes or so of largely frozen       
-OL,16,Fpicture/sound, with brief flashes of  
-OL,17,Fblack screen (though we're told the   
-OL,18,Fblack flashes were unique to BBC      
-OL,19,FiPlayer).                             
-OL,3,CBBC Scotland Channel loses live       
-OL,4,Cfootball for over ten minutes         
-OL,22,                                   G1/3
+OL,0,        ECIMSBWebfax     F344A1663456596
+OL,6,FThere was a minor playout error tonight
+OL,7,Fon BBC Two, immediately after         
+OL,8,FNewsnight.                            
+OL,10,FAs usual, we exited Newsnight and went
+OL,11,Fstraight to the Weather. However, one 
+OL,12,Fsecond into the weather bulletin, we  
+OL,13,Fmoved on to the next event in the     
+OL,14,Fplayout schedule: a slide for Newscast.
+OL,3,CPlayout error impacts BBC Two weather 
+OL,4,Cbulletin                              
+OL,22,                                   G1/6
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 PN,34402
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F344A1662211378
-OL,6,FDuring the short periods of black on  
-OL,7,FiPlayer, the channel DOG also         
-OL,8,Fdisappeared.                          
-OL,10,FThe breakdown slide was accompanied by
-OL,11,Fbirdsong. Audio from BBC Radio Scotland
-OL,12,Fcoverage of the match might've been a 
-OL,13,Fmore suitable substitute.             
-OL,15,FJust prior to returning to the live   
-OL,16,Ffootball, there were more brief flashes
-OL,17,Fof black, interrupting the breakdown  
-OL,18,Fcaption. Again the black flashes were,
-OL,19,Fapparently, on the BBC iPlayer only.  
-OL,3,CBBC Scotland Channel loses live       
-OL,4,Cfootball for over ten minutes         
-OL,22,                                   G2/3
+OL,0,        ECIMSBWebfax     F344A1663456596
+OL,6,FThe announcer would normally have     
+OL,7,Fvoiced the Newscast slide  but not   
+OL,8,Fhere. A trail for Laura Kuenssberg's  
+OL,9,FSunday morning political programme then
+OL,10,Fplayed out in full, before the        
+OL,11,Fpre-recorded Weather was recued and   
+OL,12,Fplayed out in full.                   
+OL,14,FThe subsequent network junction played
+OL,15,Fout normally.                         
+OL,17,FPlayout operations in Northern Ireland
+OL,18,Fand Wales would have had to make      
+OL,19,Fadjustments to their respective playout
+OL,20,Fschedules as a result of the network  
+OL,21,Ferror.                                
+OL,3,CPlayout error impacts BBC Two weather 
+OL,4,Cbulletin                              
+OL,22,                                   G2/6
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 PN,34403
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F344A1662211378
-OL,6,FRepeated black flashes also caused the
-OL,7,FiPlayer to crash out of the live stream
-OL,8,Fon a number of occasions during the   
-OL,9,Fperiod affected by the satellite      
-OL,10,Fproblem.                              
-OL,12,FAnd there were some gremlins with the 
-OL,13,Fon-screen scorecard near the end of   
-OL,14,Ftonight's match. When the extra time  
-OL,15,Felement was added to the on-screen    
-OL,16,Ftimer, FC Zurich lost their goal. It  
-OL,17,Fwas reinstated about and              
-OL,18,Fminute-and-a-half later.              
-OL,3,CBBC Scotland Channel loses live       
-OL,4,Cfootball for over ten minutes         
-OL,22,                                   G3/3
+OL,0,        ECIMSBWebfax     F344A1663456596
+OL,6,FOn BBC Two Wales, the playout         
+OL,7,Fdirector/announcer had already gone in
+OL,8,Fcircuit before the end of Newsnight and
+OL,9,Fwas utilising the clean feed of BBC   
+OL,10,FTwo.                                  
+OL,12,FThe clean feed version of BBC One and 
+OL,13,FBBC Two provides network programme    
+OL,14,Fcontent to the playout operations in  
+OL,15,FBelfast, Glasgow and Cardiff  and    
+OL,16,Fexcludes the bits between the         
+OL,17,Fprogrammes.                           
+OL,19,FThis allows the nations to join and   
+OL,20,Fexit networked programmes without     
+OL,21,Fcatching bits of network junctions.   
+OL,3,CPlayout error impacts BBC Two weather 
+OL,4,Cbulletin                              
+OL,22,                                   G3/6
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,34404
+SC,0004
+PS,c000
+OL,0,        ECIMSBWebfax     F344A1663456596
+OL,6,FBetween programmes, the clean feed    
+OL,7,Fdisplays a generic BBC-branded        
+OL,8,Fanimation and soundtrack.             
+OL,10,FWhen network exited the Weather       
+OL,11,Fprematurely and moved on to junction  
+OL,12,Fcontent, the clean feed switched to the
+OL,13,Fgeneric animation. And that's what    
+OL,14,Fviewers in Wales saw.                 
+OL,16,FThe network director quickly          
+OL,17,Frepositioned the Weather bulletin in  
+OL,18,Fthe playout schedule.                 
+OL,3,CPlayout error impacts BBC Two weather 
+OL,4,Cbulletin                              
+OL,22,                                   G4/6
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,34405
+SC,0005
+PS,c000
+OL,0,        ECIMSBWebfax     F344A1663456596
+OL,6,FProgramme content is available on the 
+OL,7,Fclean feed for approximately 5 seconds
+OL,8,Flonger (at each end) than on the      
+OL,9,Fconventional network feed. That's why 
+OL,10,FWelsh viewers will have seen the second
+OL,11,Fairing of the Weather bulletin held on
+OL,12,Fits opening frame for 5 seconds, before
+OL,13,Fplaying.                              
+OL,15,FThe lack of live voiceover (by the    
+OL,16,FWelsh announcer) on the Newscast slide
+OL,17,Ffollowing the Weather was presumably  
+OL,18,Fbecause the BBC Two Wales             
+OL,19,Fdirector/announcer was still adjusting
+OL,20,Fthe local playout schedule to         
+OL,21,Fcompensate for the network error.     
+OL,3,CPlayout error impacts BBC Two weather 
+OL,4,Cbulletin                              
+OL,22,                                   G5/6
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,34406
+SC,0006
+PS,c000
+OL,0,        ECIMSBWebfax     F344A1663456596
+OL,6,FBBC Two Northern Ireland remained with
+OL,7,Fthe network feed after Newsnight and  
+OL,8,Ftherefore relayed the network error in
+OL,9,Ffull, including the junction content  
+OL,10,Fprior to the replay of the Weather. The
+OL,11,Fremainder of the junction was covered 
+OL,12,Ffully by the local playout            
+OL,13,Fdirector/announcer.                   
+OL,3,CPlayout error impacts BBC Two weather 
+OL,4,Cbulletin                              
+OL,22,                                   G6/6
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
