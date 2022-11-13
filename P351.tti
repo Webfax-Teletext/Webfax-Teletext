@@ -1,21 +1,279 @@
-PN,35100
-SC,0000
-PS,8000
-OL,0,        ECIMSBWebfax     F351A1668302462
-OL,5,GColour bars made an unexpected
-OL,6,Gappearance during the ITV Evening News
-OL,7,Gearlier.
-OL,9,FPresenter Lucrezia Millarini had just
-OL,10,Fkicked off a studio-based interview
-OL,11,Fwith political editor Robert Peston
-OL,12,Fwhen the test signal appeared,
-OL,13,Faccompanied by tone.
-OL,15,FNormal service was resumed after 15
-OL,16,Fseconds.
-OL,18,FIt's not known if the glitch was
-OL,19,Ftransmitted nationally or confined to
-OL,20,Fcertain regions.
-OL,3,CITV Evening News interrupted briefly by
-OL,4,Ccolour bars
+PN,35101
+SC,0001
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,GIf you have a newer Freeview Play TV or
+OL,6,Gbox, you may have noticed something
+OL,7,Gstrange happening to BBC Four on your
+OL,8,Gchannel list.
+OL,10,FSince last week, some receivers have
+OL,11,Freplaced BBC Four SD on channel 9
+OL,12,F(channel 24 in Scotland) with BBC Four
+OL,13,FHD. The SD channel is now found on
+OL,14,Fchannel 614.
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                  G1/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35102
+SC,0002
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FAt the moment, this is happening on
+OL,6,Frelatively few TVs and boxes. So, if
+OL,7,Fyou bought a Freeview Play TV in time
+OL,8,Ffor the last FIFA Men's World Cup in
+OL,9,F2018, or even bought one during the
+OL,10,Ffirst lockdown, your device will have
+OL,11,Fbeen manufactured before the new
+OL,12,Ffunctionality was added to the Freeview
+OL,13,FPlay spec.
+OL,15,FIt's part of a new functionality called
+OL,16,FChannel List Management (CLM).
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                  G2/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35103
+SC,0003
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FUntil now, there's been a one size fits
+OL,6,Fall channel numbering system in place
+OL,7,Fon Freeview, applying to both HD and SD
+OL,8,Fdevices. On Sky or Freesat, if you have
+OL,9,Fan HD receiver, HD versions of channels
+OL,10,Freplace SD versions. This hasn't
+OL,11,Fhappened on Freeview.
+OL,13,FAlongside the Freeview broadcast
+OL,14,Fsignal, there's data telling TVs and
+OL,15,Fset top boxes which channel number
+OL,16,Fshould be assigned to each service  a
+OL,17,Fso-called LCN, or logical channel
+OL,18,Fnumber. Under this system, if an HD
+OL,19,Fchannel was to swap places with a SD
+OL,20,Fchannel, this would happen across all
+OL,21,Fdevices.
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                  G3/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35104
+SC,0004
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FUsing the above example of BBC Four,
+OL,6,Fthis would mean granny's old SD-only
+OL,7,FFreeview box would suddenly move BBC
+OL,8,FFour to 614, leaving channel 9 (24 in
+OL,9,FScotland) blank. This would fall foul
+OL,10,Fof Ofcom channel prominence rules,
+OL,11,Fwhich stipulates BBC Four should appear
+OL,12,Fin the first 24 channel slots.
+OL,14,FCLM gets around this by delivering an
+OL,15,Falternative channel number allocation
+OL,16,Fdelivered via the internet to
+OL,17,Fcompatible devices. This then overrides
+OL,18,Fthe terrestrially broadcast channel
+OL,19,Fnumber data.
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                  G4/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35105
+SC,0005
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FAs a result, newer Freeview Play
+OL,6,Fdevices connected to the internet add
+OL,7,FBBC Four HD to channel 9 (24 in
+OL,8,FScotland)  everyone else gets BBC Four
+OL,9,FSD and Ofcom is happy.
+OL,11,FTVs (and set top boxes) need to support
+OL,12,FCLM, which they need to be able to
+OL,13,Fobtain the alternative channel number
+OL,14,Finformation via the internet. Most
+OL,15,Fdevices in use at the moment that are
+OL,16,Fable to receive Freeview HD channels
+OL,17,Fhave no way of supporting this feature.
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                  G5/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35106
+SC,0006
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FIncidentally, a similar arrangement
+OL,6,Fapplies in England and Northern Ireland
+OL,7,Ffor BBC Three SD/BBC Three HD and
+OL,8,Facross the UK for CBBC and CBeebies
+OL,9,FHD/SD.
+OL,11,FIn England and Northern Ireland, BBC
+OL,12,FThree HD will appear on 23 and SD moves
+OL,13,Fto 613. It's not possible to initiate a
+OL,14,Fswitch around in Scotland and Wales, as
+OL,15,FBBC Three HD isn't available on
+OL,16,FFreeview in these nations. (You get BBC
+OL,17,FScotland HD and S4C HD respectively
+OL,18,Finstead.)
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                  G6/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35107
+SC,0007
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FCBBC and CBeebies swap between 201/202
+OL,6,Fand 204/205. (Moving the SD versions of
+OL,7,Fthose channels to the 610s would put
+OL,8,Fthem adjacent to the adult channels in
+OL,9,Fthe list, which is a no-no.)
+OL,11,FThe CBBC swap was first piloted on a
+OL,12,Fsmall number of Panasonic TVs in
+OL,13,Flate-2020.
+OL,15,FOn many, but not all CLM-supporting
+OL,16,Fdevices, viewers will see BBC Three HD
+OL,17,Fand BBC Four HD appear twice in the
+OL,18,Fchannel list: appearing on 9 (24) and
+OL,19,F23 and again at 106 and 109.
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                  G7/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35108
+SC,0008
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FIndeed, that is one of the next steps
+OL,6,Ffor CLM: IP fallback aims to offer
+OL,7,Fviewers the option to access online
+OL,8,Fstreams of terrestrial channels. That's
+OL,9,Fideal if you don't have an aerial or
+OL,10,Finsufficient coverage from your local
+OL,11,Fmast.
+OL,13,FSuch channels are referred to in the
+OL,14,Findustry as FAST channels  Free,
+OL,15,FAd-Supported Streaming Television
+OL,16,Fchannels. And yes, that's another step
+OL,17,Fthat Freeview has prepared for, also
+OL,18,Funder the umbrella of CLM.
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                  G8/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35109
+SC,0009
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FYou'll hear a lot more about FAST
+OL,6,Fchannels very soon in association with
+OL,7,FITVX  as the service will come with a
+OL,8,Fselection of extra specially curated
+OL,9,Fchannels not available on other
+OL,10,Fplatforms.
+OL,12,FFreeview has allocated channel numbers
+OL,13,Fabove 300 for these IP-delivered
+OL,14,Fchannels.
+OL,16,FThe rules on this are:
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                  G9/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35110
+SC,0010
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FThe channel numbers will be allocated
+OL,6,Fin the order that the apps appear on
+OL,7,FFreeview Play devices  i.e. BBC
+OL,8,FiPlayer first, ITVX next, All4 then
+OL,9,FMy5. If you live in STV's broadcast
+OL,10,Farea, then STV Player is second in the
+OL,11,Fpecking order, pushing ITVX behind
+OL,12,FMy5's allocation.
+OL,14,FOther types of streamed channel  i.e.,
+OL,15,Fthose from the likes of Vision TV,
+OL,16,FChannelbox, Fail Army and Arise News 
+OL,17,Fwill continue to exist in the 260  299
+OL,18,Fchannel range.
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                 G10/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35111
+SC,0011
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FIt is arguable that in time, as devices
+OL,6,Fwith the newer Freeview Play spec
+OL,7,Fbecome common that the case will be
+OL,8,Fmade to move these services and portals
+OL,9,Fdown behind the PSB-originated FAST
+OL,10,Fchannels.
+OL,12,FIt does however mean that there will be
+OL,13,Fa two-tier Freeview Play service going
+OL,14,Fforward  something that I suspect
+OL,15,Fwon't be mentioned much by Freeview or
+OL,16,Fits broadcast partners.
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                 G11/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35112
+SC,0012
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FOf course, some of this two-tier system
+OL,6,Fcould have been avoided if the UK had
+OL,7,Factively pursued a switch to HD.
+OL,8,FLooking at the UK's immediate
+OL,9,Fneighbours, it's striking to see how SD
+OL,10,Fservices have been replaced by HD only
+OL,11,Fservices.
+OL,13,FIn the Republic of Ireland, RTE One and
+OL,14,FRTE 2 are HD only. France, the
+OL,15,FNetherlands, Germany have migrated to
+OL,16,FHD terrestrial TV. There's no SD/HD
+OL,17,Fsimulcast and as a result no need to
+OL,18,Fuse something like CLM to initiate a
+OL,19,FSD/HD swap. Spain is planning for HD
+OL,20,Fmigration.
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                 G12/13
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+PN,35113
+SC,0013
+PS,c000
+OL,0,        ECIMSBWebfax     F351A1668381426
+OL,5,FIn the meantime, if you're buying a new
+OL,6,FFreeview Play TV or box and are
+OL,7,Finterested in the new features, try and
+OL,8,Ffind out when the model was
+OL,9,Fmanufactured. Look for 2021/22 models.
+OL,11,F2020 was a transition year, depending
+OL,12,Fon when the model launched, so if in
+OL,13,Fdoubt, avoid. Particularly as Black
+OL,14,FFriday approaches, you will find
+OL,15,Fretailers trying to offload older
+OL,16,FFreeview Play devices with the pre-2020
+OL,17,Fspec.
+OL,3,CNext-gen Freeview starts with an HD
+OL,4,Cswap
+OL,22,                                 G13/13
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
