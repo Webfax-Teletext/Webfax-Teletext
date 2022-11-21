@@ -1,7 +1,7 @@
 PN,34101
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F341A1668989033
+OL,0,        ECIMSBWebfax     F341A1668989348
 OL,5,GHidden channels on DSAT appear to
 OL,6,Gconfirm the BBC plans to close down
 OL,7,Gstandard definition TV services next
@@ -20,20 +20,21 @@ OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 PN,34102
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F341A1668989033
+OL,0,        ECIMSBWebfax     F341A1668989348
 OL,5,F"From early 2023, the SD versions of
 OL,6,FBBC channels will not carry local
 OL,7,Fprogramming from your area. And later
 OL,8,Fin the year, SD versions of BBC
 OL,9,Fchannels on satellite will close
 OL,10,Fentirely."
-OL,12,FViewers with old, SD-only Sky/Freesat
-OL,13,Freceivers will have to upgrade or risk
-OL,14,Flosing their BBC TV services next year.
-OL,16,FThe BBC has not yet publicly confirmed
-OL,17,Fthe closure of SD services, though a
-OL,18,Fpublic information campaign is expected
-OL,19,Fto kick off within days.
+OL,12,FThe messages on the (currently) hidden
+OL,13,Fchannels will soon be presented on
+OL,14,Fchannel 799 on Freesat, instructing
+OL,15,Fviewers on whether or not their
+OL,16,Fsatellite receiver needs upgraded.
+OL,18,FViewers with old, SD-only Sky/Freesat
+OL,19,Freceivers will have to upgrade or risk
+OL,20,Flosing their BBC TV services next year.
 OL,3,CBBC planning to close SD TV services
 OL,4,Cnext year
 OL,22,                                   G2/3
@@ -42,10 +43,14 @@ OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 PN,34103
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F341A1668989033
-OL,5,FOur thanks to Steve Cowie for alerting
-OL,6,Fus about the content of the hidden test
-OL,7,Fchannels.
+OL,0,        ECIMSBWebfax     F341A1668989348
+OL,5,FThe BBC has not yet publicly confirmed
+OL,6,Fthe closure of SD services, though a
+OL,7,Fpublic information campaign is expected
+OL,8,Fto kick off within days.
+OL,10,FOur thanks to Steve Cowie for alerting
+OL,11,Fus about the content of the hidden test
+OL,12,Fchannels.
 OL,3,CBBC planning to close SD TV services
 OL,4,Cnext year
 OL,22,                                   G3/3
