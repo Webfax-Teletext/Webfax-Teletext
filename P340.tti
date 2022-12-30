@@ -1,7 +1,7 @@
 PN,34001
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1672366165
+OL,0,        ECIMSBWebfax     F340A1672420805
 OL,5,G341GOPINIONFTime to rethink the
 OL,6,FChristmas curtailing of BBC One news?
 OL,8,G342GBLOOPERSFPrerecorded continuity
@@ -21,7 +21,7 @@ OL,22,                                   G1/4
 PN,34002
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1672366165
+OL,0,        ECIMSBWebfax     F340A1672420805
 OL,5,G346GOPINIONFNo, the BBC doesn't want to
 OL,6,Fstop terrestrial TV in 2030 ` it knows
 OL,7,Fwe need more time
@@ -43,17 +43,19 @@ OL,22,                                   G2/4
 PN,34003
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1672366165
-OL,5,G351GFEATURESFThe junction where the
-OL,6,FCBBC presenter was the BBC One
-OL,7,Fannouncer
-OL,9,G352GPRESWATCHFNew BBC One Christmas
-OL,10,Fidents launch this evening
-OL,12,G353GPRESWATCHFITV launches Christmas
-OL,13,Fpresentation
-OL,15,G354GNEWSFOfcom scrutinises BBC News and
-OL,16,FLocal Radio changes
-OL,18,G355GNEWSFITN reveals updated branding
+OL,0,        ECIMSBWebfax     F340A1672420805
+OL,5,G351GPRESWATCHFNew BBC One Christmas
+OL,6,Fidents launch this evening
+OL,8,G352GPRESWATCHFITV launches Christmas
+OL,9,Fpresentation
+OL,11,G353GNEWSFOfcom scrutinises BBC News and
+OL,12,FLocal Radio changes
+OL,14,G354GNEWSFITN reveals updated branding
+OL,16,G355GOPINIONFWhat the World Cup means
+OL,17,Ffor the prioritisation of news on BBC
+OL,18,FOne v ITV 1
+OL,20,G356GBLOOPERSF11pm BBC News programme
+OL,21,Fdelayed slightly
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
@@ -62,17 +64,14 @@ OL,22,                                   G3/4
 PN,34004
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1672366165
-OL,5,G356GOPINIONFWhat the World Cup means
-OL,6,Ffor the prioritisation of news on BBC
-OL,7,FOne v ITV 1
-OL,9,G357GBLOOPERSF11pm BBC News programme
-OL,10,Fdelayed slightly
-OL,12,G358GNEWSFFinal stage of BBC One HD
-OL,13,Frollout confirmed as BBC sets out
-OL,14,Ftimeline for coming years
-OL,16,G359GNEWSFBBC planning to close SD TV
-OL,17,Fservices next year
+OL,0,        ECIMSBWebfax     F340A1672420805
+OL,5,G357GNEWSFFinal stage of BBC One HD
+OL,6,Frollout confirmed as BBC sets out
+OL,7,Ftimeline for coming years
+OL,9,G358GNEWSFBBC planning to close SD TV
+OL,10,Fservices next year
+OL,12,G359GOPINIONFDoes UTV have a future as
+OL,13,Fan ITV 1 sub-brand?
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
