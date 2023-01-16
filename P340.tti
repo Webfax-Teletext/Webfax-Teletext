@@ -1,7 +1,7 @@
 PN,34001
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1673546355
+OL,0,        ECIMSBWebfax     F340A1673872546
 OL,5,G341GNEWSFBBC boss defends TV news
 OL,6,Fchannel merger
 OL,8,G342GOPINIONFLinear TV still packing a
@@ -21,7 +21,7 @@ OL,22,                                   G1/4
 PN,34002
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1673546355
+OL,0,        ECIMSBWebfax     F340A1673872546
 OL,5,G346GNEWS+FFeatures articles have moved
 OL,6,Fto the Rewind website
 OL,8,G347GNEWSFBBC drops nightly newspaper
@@ -41,16 +41,16 @@ OL,22,                                   G2/4
 PN,34003
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1673546355
+OL,0,        ECIMSBWebfax     F340A1673872546
 OL,5,G351GNEWSFBBC Cambridge and Oxford TV
 OL,6,Fnews operations close
 OL,8,G352GOPINIONFRegional BBC viewers thrown
 OL,9,Finto a black hole
-OL,11,G353GOPINIONFNo, the BBC doesn't want to
-OL,12,Fstop terrestrial TV in 2030 ` it knows
-OL,13,Fwe need more time
-OL,15,G354GNEWS+FState of play: a UK IP-TV
-OL,16,Fswitchover
+OL,11,G353GNEWS+FState of play: a UK IP-TV
+OL,12,Fswitchover
+OL,14,G354GOPINIONFNo, the BBC doesn't want to
+OL,15,Fstop terrestrial TV in 2030 ` it knows
+OL,16,Fwe need more time
 OL,18,G355GOPINIONFAn internet-only BBC and
 OL,19,FITV ditching its PSB status: how
 OL,20,Flikely?
@@ -62,7 +62,7 @@ OL,22,                                   G3/4
 PN,34004
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1673546355
+OL,0,        ECIMSBWebfax     F340A1673872546
 OL,5,G356GNEWSFCampaign to save terrestrial
 OL,6,FTV hits a snag
 OL,8,G357GPRESWATCHFChannel 4 marks 40th
