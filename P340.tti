@@ -1,17 +1,19 @@
 PN,34001
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1674003032
-OL,5,G341GOPINIONFReflections on the history
-OL,6,Fof BBC breakfast TV
-OL,8,G342GNEWSFOlympics: no going back to
-OL,9,Fwall-to-wall free-to-air coverage
-OL,11,G343GNEWSFBBC East Midlands Today moves
-OL,12,Fto new set
-OL,14,G344GOPINIONFAre we slowly drifting from
-OL,15,FNews at Ten to News at When again?
-OL,17,G345GPRESWATCHFNew variation of Seaside
-OL,18,Fident airs on ITV 2
+OL,0,        ECIMSBWebfax     F340A1674090022
+OL,5,G341GBLOOPERSFThe test card puts in an
+OL,6,Funscheduled appearance on Sportsday
+OL,8,G342GOPINIONFReflections on the history
+OL,9,Fof BBC breakfast TV
+OL,11,G343GBLOOPERSFPornographic noises heard
+OL,12,Fduring live BBC football programme
+OL,14,G344GNEWSFOlympics: no going back to
+OL,15,Fwall-to-wall free-to-air coverage
+OL,17,G345GNEWSFBBC East Midlands Today moves
+OL,18,Fto new set
+OL,20,G346GOPINIONFAre we slowly drifting from
+OL,21,FNews at Ten to News at When again?
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
@@ -20,18 +22,18 @@ OL,22,                                   G1/4
 PN,34002
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1674003032
-OL,5,G346GNEWSFBBC Northern Ireland
-OL,6,Fjournalists hold consultative ballot
-OL,7,Ffor industrial action
-OL,9,G347GNEWSFBBC boss defends TV news
-OL,10,Fchannel merger
-OL,12,G348GOPINIONFLinear TV still packing a
-OL,13,Fpunch
-OL,15,G349GNEWSFHow BBC Breakfast will mark
-OL,16,Fits next big milestone
-OL,18,G350GNEWSFLocals voice opposition to BBC
-OL,19,FRadio Foyle cuts at public meeting
+OL,0,        ECIMSBWebfax     F340A1674090022
+OL,5,G347GPRESWATCHFNew variation of Seaside
+OL,6,Fident airs on ITV 2
+OL,8,G348GNEWSFBBC Northern Ireland
+OL,9,Fjournalists hold consultative ballot
+OL,10,Ffor industrial action
+OL,12,G349GNEWSFBBC boss defends TV news
+OL,13,Fchannel merger
+OL,15,G350GOPINIONFLinear TV still packing a
+OL,16,Fpunch
+OL,18,G351GNEWSFHow BBC Breakfast will mark
+OL,19,Fits next big milestone
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
@@ -40,18 +42,18 @@ OL,22,                                   G2/4
 PN,34003
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1674003032
-OL,5,G351GOPINIONFRevisited: Time to rethink
-OL,6,Fthe Christmas curtailing of BBC One
-OL,7,Fnews?
-OL,9,G352GNEWS+FFeatures articles have moved
-OL,10,Fto the Rewind website
-OL,12,G353GNEWSFBBC drops nightly newspaper
-OL,13,Freview
-OL,15,G354GOPINIONFTime to rethink the
-OL,16,FChristmas curtailing of BBC One news?
-OL,18,G355GBLOOPERSFPrerecorded continuity
-OL,19,Fannouncement interrupts ITV News
+OL,0,        ECIMSBWebfax     F340A1674090022
+OL,5,G352GNEWSFLocals voice opposition to BBC
+OL,6,FRadio Foyle cuts at public meeting
+OL,8,G353GOPINIONFRevisited: Time to rethink
+OL,9,Fthe Christmas curtailing of BBC One
+OL,10,Fnews?
+OL,12,G354GNEWS+FFeatures articles have moved
+OL,13,Fto the Rewind website
+OL,15,G355GNEWSFBBC drops nightly newspaper
+OL,16,Freview
+OL,18,G356GOPINIONFTime to rethink the
+OL,19,FChristmas curtailing of BBC One news?
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
@@ -60,17 +62,14 @@ OL,22,                                   G3/4
 PN,34004
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1674003032
-OL,5,G356GOPINIONFStriving to be all things
-OL,6,Fto all people not possible with current
-OL,7,FBBC funding
-OL,9,G357GNEWSFBBC Cambridge and Oxford TV
-OL,10,Fnews operations close
-OL,12,G358GOPINIONFRegional BBC viewers thrown
-OL,13,Finto a black hole
-OL,15,G359GOPINIONFNo, the BBC doesn't want to
-OL,16,Fstop terrestrial TV in 2030 ` it knows
-OL,17,Fwe need more time
+OL,0,        ECIMSBWebfax     F340A1674090022
+OL,5,G357GBLOOPERSFPrerecorded continuity
+OL,6,Fannouncement interrupts ITV News
+OL,8,G358GOPINIONFStriving to be all things
+OL,9,Fto all people not possible with current
+OL,10,FBBC funding
+OL,12,G359GNEWSFBBC Cambridge and Oxford TV
+OL,13,Fnews operations close
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
