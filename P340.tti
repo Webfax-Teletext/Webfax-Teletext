@@ -1,20 +1,20 @@
 PN,34001
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1677273943
-OL,5,G341GNEWSFJoint UK/international BBC
-OL,6,FNews service from March
-OL,8,G342GNEWS+FBBC HD satellite upgrade:
-OL,9,Fwhat happened and why not all regions
-OL,10,Fare truly HD
-OL,12,G343GNEWSFExplosive new branding for BT
-OL,13,FSport, as TNT Sports arrives in the UK
-OL,14,Fand Ireland
-OL,16,G344GOPINIONFSky Kids: the new CBeebies
-OL,17,Fis not just another channel launch
-OL,19,G345GOPINIONFBBC soaps and continuing
-OL,20,Fdramas: erratic scheduling and
-OL,21,Fshort-runs
+OL,0,        ECIMSBWebfax     F340A1677408342
+OL,5,G341GOPINIONF"Broadcasting to viewers in
+OL,6,Fthe UK and around the world, this is
+OL,7,FBBC News"
+OL,9,G342GNEWSFJoint UK/international BBC
+OL,10,FNews service from March
+OL,12,G343GNEWS+FBBC HD satellite upgrade:
+OL,13,Fwhat happened and why not all regions
+OL,14,Fare truly HD
+OL,16,G344GNEWSFExplosive new branding for BT
+OL,17,FSport, as TNT Sports arrives in the UK
+OL,18,Fand Ireland
+OL,20,G345GOPINIONFSky Kids: the new CBeebies
+OL,21,Fis not just another channel launch
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
@@ -23,19 +23,18 @@ OL,22,                                   G1/4
 PN,34002
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1677273943
-OL,5,G346GBLOOPERSFAfternoon edition of
-OL,6,FCountdown falls off air
-OL,8,G347GOPINIONFITV and Channel 4 respond
-OL,9,Fto consultation on ad rule changes
-OL,11,G348GBLOOPERSFMic issue causes headlines
-OL,12,Fto be abandoned on BBC News
-OL,14,G349GNEWSFNew look BBC Midlands Today
-OL,15,Flaunches
-OL,17,G350GOPINIONFStriking a balance between
-OL,18,Flinear TV and streaming
-OL,20,G351GNEWSFFirst preparations for BBC One
-OL,21,FHD English regions on Freeview
+OL,0,        ECIMSBWebfax     F340A1677408342
+OL,5,G346GOPINIONFBBC soaps and continuing
+OL,6,Fdramas: erratic scheduling and
+OL,7,Fshort-runs
+OL,9,G347GBLOOPERSFAfternoon edition of
+OL,10,FCountdown falls off air
+OL,12,G348GOPINIONFITV and Channel 4 respond
+OL,13,Fto consultation on ad rule changes
+OL,15,G349GBLOOPERSFMic issue causes headlines
+OL,16,Fto be abandoned on BBC News
+OL,18,G350GNEWSFNew look BBC Midlands Today
+OL,19,Flaunches
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
@@ -44,19 +43,19 @@ OL,22,                                   G2/4
 PN,34003
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1677273943
-OL,5,G352GNEWSFComcast is launching its
-OL,6,Fsecond free-to-air channel on Ireland's
-OL,7,Fdigital terrestrial television service
-OL,8,FSaorview
-OL,10,G353GOPINIONFSky/Freesat changes leaving
-OL,11,FFreeview in the dust
-OL,13,G354GPRESWATCHFNew Cafe ident airs on
-OL,14,FITV 1
-OL,16,G355GBLOOPERSFShort breakdowns during
-OL,17,Fovernight casino show on Channel 5
-OL,19,G356GPRESWATCHFSpecial Channel 5 ident
-OL,20,Fto promote new drama
+OL,0,        ECIMSBWebfax     F340A1677408342
+OL,5,G351GOPINIONFStriking a balance between
+OL,6,Flinear TV and streaming
+OL,8,G352GNEWSFFirst preparations for BBC One
+OL,9,FHD English regions on Freeview
+OL,11,G353GNEWSFComcast is launching its
+OL,12,Fsecond free-to-air channel on Ireland's
+OL,13,Fdigital terrestrial television service
+OL,14,FSaorview
+OL,16,G354GOPINIONFSky/Freesat changes leaving
+OL,17,FFreeview in the dust
+OL,19,G355GPRESWATCHFNew Cafe ident airs on
+OL,20,FITV 1
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
@@ -65,13 +64,15 @@ OL,22,                                   G3/4
 PN,34004
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F340A1677273943
-OL,5,G357GNEWSFBBC HD satellite upgrade
-OL,6,Ftimetable
-OL,8,G358GOPINIONFTime for an urgent review
-OL,9,Fof the DTT system
-OL,11,G359GNEWSFUK versus the World (Service):
-OL,12,FBBC chair calls for funding switch
+OL,0,        ECIMSBWebfax     F340A1677408342
+OL,5,G356GBLOOPERSFShort breakdowns during
+OL,6,Fovernight casino show on Channel 5
+OL,8,G357GPRESWATCHFSpecial Channel 5 ident
+OL,9,Fto promote new drama
+OL,11,G358GNEWSFBBC HD satellite upgrade
+OL,12,Ftimetable
+OL,14,G359GOPINIONFTime for an urgent review
+OL,15,Fof the DTT system
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
