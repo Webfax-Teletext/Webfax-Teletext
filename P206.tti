@@ -1,197 +1,205 @@
 PN,20601
 SC,0001
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1679978697
+OL,0,        ECIMSBWebfax     F206A1679982339
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0500FBreakfast
-OL,5,     GThe latest news, sport, business      
-OL,6,     Gand weather from the BBC's            
-OL,7,     GBreakfast team. [S]                   
-OL,8, 0800FBBC News
-OL,9,     GThe latest headlines, breaking        
-OL,10,     Gnews and sport from the BBC           
-OL,11,     Gnewsroom. [S]                         
-OL,12, 0900FBBC News
-OL,13,     GTwenty-four hours a day, the          
-OL,14,     Glatest national and                   
-OL,15,     Ginternational stories as they         
-OL,16,     Gbreak. [S]                            
-OL,17, 1030FWorld Business Report
-OL,18,     GThe latest business news with         
-OL,19,     Ginformed analysis from the            
-OL,20,     Gworld's financial centres. [S]        
+OL,4, 0800FBBC News
+OL,5,     GThe latest headlines, breaking        
+OL,6,     Gnews and sport from the BBC           
+OL,7,     Gnewsroom. [S]                         
+OL,8, 0900FBBC News
+OL,9,     GTwenty-four hours a day, the          
+OL,10,     Glatest national and                   
+OL,11,     Ginternational stories as they         
+OL,12,     Gbreak. [S]                            
+OL,13, 1030FWorld Business Report
+OL,14,     GThe latest business news with         
+OL,15,     Ginformed analysis from the            
+OL,16,     Gworld's financial centres. [S]        
+OL,17, 1045FBBC News
+OL,18,     GTwenty-four hours a day, the          
+OL,19,     Glatest national and                   
+OL,20,     Ginternational stories as they         
+OL,21,     Gbreak. [S]                            
 PN,20602
 SC,0002
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1679978697
+OL,0,        ECIMSBWebfax     F206A1679982339
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 1045FBBC News
-OL,5,     GTwenty-four hours a day, the          
-OL,6,     Glatest national and                   
-OL,7,     Ginternational stories as they         
-OL,8,     Gbreak. [S]                            
-OL,9, 1200FBBC News at One
-OL,10,     GThe latest national and               
-OL,11,     Ginternational news from the BBC.      
-OL,12,     G[S,SL]                                
-OL,13, 1230FBBC News
+OL,4, 1200FBBC News at One
+OL,5,     GThe latest national and               
+OL,6,     Ginternational news from the BBC.      
+OL,7,     G[S,SL]                                
+OL,8, 1230FBBC News
+OL,9,     GTwenty-four hours a day, the          
+OL,10,     Glatest national and                   
+OL,11,     Ginternational stories as they         
+OL,12,     Gbreak. [S]                            
+OL,13, 1300FBBC News
 OL,14,     GTwenty-four hours a day, the          
 OL,15,     Glatest national and                   
 OL,16,     Ginternational stories as they         
 OL,17,     Gbreak. [S]                            
-OL,18, 1300FBBC News
+OL,18, 1330FWorld Business Report
+OL,19,     GThe latest business news with         
+OL,20,     Ginformed analysis from the            
+OL,21,     Gworld's financial centres. [S]        
+PN,20603
+SC,0003
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1679982339
+OL,1,W{${$~+$ ~k4~sj5j5~s1
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,4, 1345FBBC News
+OL,5,     GTwenty-four hours a day, the          
+OL,6,     Glatest national and                   
+OL,7,     Ginternational stories as they         
+OL,8,     Gbreak. [S]                            
+OL,9, 1600FBBC News
+OL,10,     GTwenty-four hours a day, the          
+OL,11,     Glatest national and                   
+OL,12,     Ginternational stories as they         
+OL,13,     Gbreak. [S]                            
+OL,14, 1700FBBC News at Six
+OL,15,     GThe latest national and               
+OL,16,     Ginternational news stories from       
+OL,17,     Gthe BBC News team, followed by        
+OL,18,     Gweather. [S]                          
+OL,19, 1730FSportsday
+OL,20,     GA round-up of all the day's top       
+OL,21,     Gsporting action with the latest       
+OL,22,     Gscores, news and updates. [S]         
+PN,20604
+SC,0004
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1679982339
+OL,1,W{${$~+$ ~k4~sj5j5~s1
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,4, 1800FOutside Source
+OL,5,     GLive from the heart of the BBC        
+OL,6,     Gnewsroom, Ros Atkins with an          
+OL,7,     Ginnovative take on the latest         
+OL,8,     Gglobal stories. [S]                   
+OL,9, 1930FHARDtalk
+OL,10,     GThe fallout from Putin's war on       
+OL,11,     GUkraine is having a big impact        
+OL,12,     Gon Romania. How is it handling        
+OL,13,     Gthe pressure? Stephen Sackur          
+OL,14,     Gspeaks to Romania's foreign           
+OL,15,     Gminister, Bogdan Aurescu. [S]         
+OL,16, 2000FThe Context with Christian Fraser
+OL,17,     GPresented by Christian Fraser. A      
+OL,18,     Gregular panel of guests from          
+OL,19,     Gacross the political spectrum         
+OL,20,     Gdiscuss the biggest                   
+OL,21,     Ginternational stories of the          
+OL,22,     Gday. [S]                              
+PN,20605
+SC,0005
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1679982339
+OL,1,W{${$~+$ ~k4~sj5j5~s1
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,4, 2100FBBC News at Ten
+OL,5,     GThe latest national and               
+OL,6,     Ginternational news, with reports      
+OL,7,     Gfrom BBC correspondents               
+OL,8,     Gworldwide. [S]                        
+OL,9, 2130FBBC News
+OL,10,     GTwenty-four hours a day, the          
+OL,11,     Glatest national and                   
+OL,12,     Ginternational stories as they         
+OL,13,     Gbreak. [S]                            
+OL,14, 2200FNewsday
+OL,15,     GLive from Singapore, the latest       
+OL,16,     Ginternational news from the BBC.      
+OL,17,     G[S]                                   
+OL,18, 2230FBBC News
 OL,19,     GTwenty-four hours a day, the          
 OL,20,     Glatest national and                   
 OL,21,     Ginternational stories as they         
 OL,22,     Gbreak. [S]                            
-PN,20603
-SC,0003
-PS,8000
-OL,0,        ECIMSBWebfax     F206A1679978697
-OL,1,W{${$~+$ ~k4~sj5j5~s1
-OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 1330FWorld Business Report
-OL,5,     GThe latest business news with         
-OL,6,     Ginformed analysis from the            
-OL,7,     Gworld's financial centres. [S]        
-OL,8, 1345FBBC News
-OL,9,     GTwenty-four hours a day, the          
-OL,10,     Glatest national and                   
-OL,11,     Ginternational stories as they         
-OL,12,     Gbreak. [S]                            
-OL,13, 1600FBBC News
-OL,14,     GTwenty-four hours a day, the          
-OL,15,     Glatest national and                   
-OL,16,     Ginternational stories as they         
-OL,17,     Gbreak. [S]                            
-OL,18, 1700FBBC News at Six
-OL,19,     GThe latest national and               
-OL,20,     Ginternational news stories from       
-OL,21,     Gthe BBC News team, followed by        
-OL,22,     Gweather. [S]                          
-PN,20604
-SC,0004
-PS,8000
-OL,0,        ECIMSBWebfax     F206A1679978697
-OL,1,W{${$~+$ ~k4~sj5j5~s1
-OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 1730FSportsday
-OL,5,     GA round-up of all the day's top       
-OL,6,     Gsporting action with the latest       
-OL,7,     Gscores, news and updates. [S]         
-OL,8, 1800FOutside Source
-OL,9,     GLive from the heart of the BBC        
-OL,10,     Gnewsroom, Ros Atkins with an          
-OL,11,     Ginnovative take on the latest         
-OL,12,     Gglobal stories. [S]                   
-OL,13, 1930FHARDtalk
-OL,14,     GThe fallout from Putin's war on       
-OL,15,     GUkraine is having a big impact        
-OL,16,     Gon Romania. How is it handling        
-OL,17,     Gthe pressure? Stephen Sackur          
-OL,18,     Gspeaks to Romania's foreign           
-OL,19,     Gminister, Bogdan Aurescu. [S]         
-PN,20605
-SC,0005
-PS,8000
-OL,0,        ECIMSBWebfax     F206A1679978697
-OL,1,W{${$~+$ ~k4~sj5j5~s1
-OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 2000FThe Context with Christian Fraser
-OL,5,     GPresented by Christian Fraser. A      
-OL,6,     Gregular panel of guests from          
-OL,7,     Gacross the political spectrum         
-OL,8,     Gdiscuss the biggest                   
-OL,9,     Ginternational stories of the          
-OL,10,     Gday. [S]                              
-OL,11, 2100FBBC News at Ten
-OL,12,     GThe latest national and               
-OL,13,     Ginternational news, with reports      
-OL,14,     Gfrom BBC correspondents               
-OL,15,     Gworldwide. [S]                        
-OL,16, 2130FBBC News
-OL,17,     GTwenty-four hours a day, the          
-OL,18,     Glatest national and                   
-OL,19,     Ginternational stories as they         
-OL,20,     Gbreak. [S]                            
 PN,20606
 SC,0006
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1679978697
+OL,0,        ECIMSBWebfax     F206A1679982339
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 2200FNewsday
+OL,4, 2300FNewsday
 OL,5,     GLive from Singapore, the latest       
 OL,6,     Ginternational news from the BBC.      
 OL,7,     G[S]                                   
-OL,8, 2230FBBC News
-OL,9,     GTwenty-four hours a day, the          
-OL,10,     Glatest national and                   
-OL,11,     Ginternational stories as they         
-OL,12,     Gbreak. [S]                            
-OL,13, 2300FNewsday
-OL,14,     GLive from Singapore, the latest       
-OL,15,     Ginternational news from the BBC.      
-OL,16,     G[S]                                   
+OL,8, 2330FHARDtalk
+OL,9,     GThe fallout from Putin's war on       
+OL,10,     GUkraine is having a big impact        
+OL,11,     Gon Romania. How is it handling        
+OL,12,     Gthe pressure? Stephen Sackur          
+OL,13,     Gspeaks to Romania's foreign           
+OL,14,     Gminister, Bogdan Aurescu. [S]         
+OL,15, 0000FNewsday
+OL,16,     GLive from Singapore, the latest       
+OL,17,     Ginternational news from the BBC.      
+OL,18,     G[S]                                   
 PN,20607
 SC,0007
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1679978697
+OL,0,        ECIMSBWebfax     F206A1679982339
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 2330FHARDtalk
-OL,5,     GThe fallout from Putin's war on       
-OL,6,     GUkraine is having a big impact        
-OL,7,     Gon Romania. How is it handling        
-OL,8,     Gthe pressure? Stephen Sackur          
-OL,9,     Gspeaks to Romania's foreign           
-OL,10,     Gminister, Bogdan Aurescu. [S]         
-OL,11, 0000FNewsday
-OL,12,     GLive from Singapore, the latest       
-OL,13,     Ginternational news from the BBC.      
-OL,14,     G[S]                                   
-OL,15, 0030FWeight Loss Surgery: Getting
-OL,16,FThin Abroad
-OL,17,     GBBC Three investigates if it's        
-OL,18,     Gsafe to travel abroad for life-       
-OL,19,     Gchanging weight loss surgery. [S]     
+OL,4, 0030FWeight Loss Surgery: Getting
+OL,5,FThin Abroad
+OL,6,     GBBC Three investigates if it's        
+OL,7,     Gsafe to travel abroad for life-       
+OL,8,     Gchanging weight loss surgery. [S]     
+OL,9, 0100FBBC News
+OL,10,     GTwenty-four hours a day, the          
+OL,11,     Glatest national and                   
+OL,12,     Ginternational stories as they         
+OL,13,     Gbreak. [S]                            
+OL,14, 0130FThe Travel Show
+OL,15,     GCarmen Roberts visits the island      
+OL,16,     Gof Siargao in the Philippines,        
+OL,17,     Gtwo years after the surfer's          
+OL,18,     Gparadise was devastated by            
+OL,19,     GTyphoon Odette to find out how        
+OL,20,     Git's bouncing back. [S]               
 PN,20608
 SC,0008
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1679978697
+OL,0,        ECIMSBWebfax     F206A1679982339
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0100FBBC News
+OL,4, 0200FBBC News
 OL,5,     GTwenty-four hours a day, the          
 OL,6,     Glatest national and                   
 OL,7,     Ginternational stories as they         
 OL,8,     Gbreak. [S]                            
-OL,9, 0130FThe Travel Show
-OL,10,     GCarmen Roberts visits the island      
-OL,11,     Gof Siargao in the Philippines,        
-OL,12,     Gtwo years after the surfer's          
-OL,13,     Gparadise was devastated by            
-OL,14,     GTyphoon Odette to find out how        
-OL,15,     Git's bouncing back. [S]               
-OL,16, 0200FBBC News
+OL,9, 0230FWhat's Gone Wrong with Our
+OL,10,FHousing? - Panorama
+OL,11,     GRichard Bilton investigates the       
+OL,12,     Gproblems Margaret Thatcher's          
+OL,13,     Gright-to-buy policy is causing        
+OL,14,     G40 years later, including the         
+OL,15,     Greturn of slum landlords. [S]         
+OL,16, 0300FBBC News
 OL,17,     GTwenty-four hours a day, the          
 OL,18,     Glatest national and                   
 OL,19,     Ginternational stories as they         
@@ -199,42 +207,26 @@ OL,20,     Gbreak. [S]
 PN,20609
 SC,0009
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1679978697
+OL,0,        ECIMSBWebfax     F206A1679982339
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0230FWhat's Gone Wrong with Our
-OL,5,FHousing? - Panorama
-OL,6,     GRichard Bilton investigates the       
-OL,7,     Gproblems Margaret Thatcher's          
-OL,8,     Gright-to-buy policy is causing        
-OL,9,     G40 years later, including the         
-OL,10,     Greturn of slum landlords. [S]         
-OL,11, 0300FBBC News
-OL,12,     GTwenty-four hours a day, the          
-OL,13,     Glatest national and                   
-OL,14,     Ginternational stories as they         
-OL,15,     Gbreak. [S]                            
-OL,16, 0330FHARDtalk
-OL,17,     GThe fallout from Putin's war on       
-OL,18,     GUkraine is having a big impact        
-OL,19,     Gon Romania. How is it handling        
-OL,20,     Gthe pressure? Stephen Sackur          
-OL,21,     Gspeaks to Romania's foreign           
-OL,22,     Gminister, Bogdan Aurescu. [S]         
-PN,20610
-SC,0010
-PS,8000
-OL,0,        ECIMSBWebfax     F206A1679978697
-OL,1,W{${$~+$ ~k4~sj5j5~s1
-OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0400FBBC World News
-OL,5,     GThe latest international news         
-OL,6,     Gfrom the BBC. [S]                     
-OL,7, 0430FWorld Business Report
-OL,8,     GThe latest business news with         
-OL,9,     Ginformed analysis from the            
-OL,10,     Gworld's financial centres. [S]        
+OL,4, 0330FHARDtalk
+OL,5,     GThe fallout from Putin's war on       
+OL,6,     GUkraine is having a big impact        
+OL,7,     Gon Romania. How is it handling        
+OL,8,     Gthe pressure? Stephen Sackur          
+OL,9,     Gspeaks to Romania's foreign           
+OL,10,     Gminister, Bogdan Aurescu. [S]         
+OL,11, 0400FBBC World News
+OL,12,     GThe latest international news         
+OL,13,     Gfrom the BBC. [S]                     
+OL,14, 0430FWorld Business Report
+OL,15,     GThe latest business news with         
+OL,16,     Ginformed analysis from the            
+OL,17,     Gworld's financial centres. [S]        
+OL,18, 0500FBreakfast
+OL,19,     GThe latest news, sport, business      
+OL,20,     Gand weather from the BBC's            
+OL,21,     GBreakfast team. [S]                   
