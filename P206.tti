@@ -1,52 +1,52 @@
 PN,20601
 SC,0001
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1680077060
+OL,0,        ECIMSBWebfax     F206A1680080703
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0900FBBC News
+OL,4, 1030FWorld Business Report
+OL,5,     GThe latest business news with         
+OL,6,     Ginformed analysis from the            
+OL,7,     Gworld's financial centres. [S]        
+OL,8, 1045FBBC News
+OL,9,     GTwenty-four hours a day, the          
+OL,10,     Glatest national and                   
+OL,11,     Ginternational stories as they         
+OL,12,     Gbreak. [S]                            
+OL,13, 1200FBBC News at One
+OL,14,     GThe latest national and               
+OL,15,     Ginternational news from the BBC.      
+OL,16,     G[S,SL]                                
+OL,17, 1230FBBC News
+OL,18,     GTwenty-four hours a day, the          
+OL,19,     Glatest national and                   
+OL,20,     Ginternational stories as they         
+OL,21,     Gbreak. [S]                            
+PN,20602
+SC,0002
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1680080703
+OL,1,W{${$~+$ ~k4~sj5j5~s1
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,4, 1300FBBC News
 OL,5,     GTwenty-four hours a day, the          
 OL,6,     Glatest national and                   
 OL,7,     Ginternational stories as they         
 OL,8,     Gbreak. [S]                            
-OL,9, 1030FWorld Business Report
+OL,9, 1330FWorld Business Report
 OL,10,     GThe latest business news with         
 OL,11,     Ginformed analysis from the            
 OL,12,     Gworld's financial centres. [S]        
-OL,13, 1045FBBC News
+OL,13, 1345FBBC News
 OL,14,     GTwenty-four hours a day, the          
 OL,15,     Glatest national and                   
 OL,16,     Ginternational stories as they         
 OL,17,     Gbreak. [S]                            
-OL,18, 1200FBBC News at One
-OL,19,     GThe latest national and               
-OL,20,     Ginternational news from the BBC.      
-OL,21,     G[S,SL]                                
-PN,20602
-SC,0002
-PS,8000
-OL,0,        ECIMSBWebfax     F206A1680077060
-OL,1,W{${$~+$ ~k4~sj5j5~s1
-OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 1230FBBC News
-OL,5,     GTwenty-four hours a day, the          
-OL,6,     Glatest national and                   
-OL,7,     Ginternational stories as they         
-OL,8,     Gbreak. [S]                            
-OL,9, 1300FBBC News
-OL,10,     GTwenty-four hours a day, the          
-OL,11,     Glatest national and                   
-OL,12,     Ginternational stories as they         
-OL,13,     Gbreak. [S]                            
-OL,14, 1330FWorld Business Report
-OL,15,     GThe latest business news with         
-OL,16,     Ginformed analysis from the            
-OL,17,     Gworld's financial centres. [S]        
-OL,18, 1345FBBC News
+OL,18, 1600FBBC News
 OL,19,     GTwenty-four hours a day, the          
 OL,20,     Glatest national and                   
 OL,21,     Ginternational stories as they         
@@ -54,34 +54,29 @@ OL,22,     Gbreak. [S]
 PN,20603
 SC,0003
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1680077060
+OL,0,        ECIMSBWebfax     F206A1680080703
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 1600FBBC News
-OL,5,     GTwenty-four hours a day, the          
-OL,6,     Glatest national and                   
-OL,7,     Ginternational stories as they         
-OL,8,     Gbreak. [S]                            
-OL,9, 1700FBBC News at Six
-OL,10,     GThe latest national and               
-OL,11,     Ginternational news stories from       
-OL,12,     Gthe BBC News team, followed by        
-OL,13,     Gweather. [S]                          
-OL,14, 1730FSportsday
-OL,15,     GA round-up of all the day's top       
-OL,16,     Gsporting action with the latest       
-OL,17,     Gscores, news and updates. [S]         
-OL,18, 1800FOutside Source
-OL,19,     GLive from the heart of the BBC        
-OL,20,     Gnewsroom, Ros Atkins with an          
-OL,21,     Ginnovative take on the latest         
-OL,22,     Gglobal stories. [S]                   
+OL,4, 1700FBBC News at Six
+OL,5,     GThe latest national and               
+OL,6,     Ginternational news stories from       
+OL,7,     Gthe BBC News team, followed by        
+OL,8,     Gweather. [S]                          
+OL,9, 1730FSportsday
+OL,10,     GA round-up of all the day's top       
+OL,11,     Gsporting action with the latest       
+OL,12,     Gscores, news and updates. [S]         
+OL,13, 1800FOutside Source
+OL,14,     GLive from the heart of the BBC        
+OL,15,     Gnewsroom, Ros Atkins with an          
+OL,16,     Ginnovative take on the latest         
+OL,17,     Gglobal stories. [S]                   
 PN,20604
 SC,0004
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1680077060
+OL,0,        ECIMSBWebfax     F206A1680080703
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -108,7 +103,7 @@ OL,22,     Gworldwide. [S]
 PN,20605
 SC,0005
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1680077060
+OL,0,        ECIMSBWebfax     F206A1680080703
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -134,7 +129,7 @@ OL,21,     G[S]
 PN,20606
 SC,0006
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1680077060
+OL,0,        ECIMSBWebfax     F206A1680080703
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -161,7 +156,7 @@ OL,22,     Gheaded by women. [S]
 PN,20607
 SC,0007
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1680077060
+OL,0,        ECIMSBWebfax     F206A1680080703
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -186,7 +181,7 @@ OL,20,     Gbreak. [S]
 PN,20608
 SC,0008
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1680077060
+OL,0,        ECIMSBWebfax     F206A1680080703
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -212,7 +207,7 @@ OL,21,     Gworld's most hungry be fed? [S]
 PN,20609
 SC,0009
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1680077060
+OL,0,        ECIMSBWebfax     F206A1680080703
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -232,3 +227,16 @@ OL,15, 0800FBBC News
 OL,16,     GThe latest headlines, breaking        
 OL,17,     Gnews and sport from the BBC           
 OL,18,     Gnewsroom. [S]                         
+PN,20610
+SC,0010
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1680080703
+OL,1,W{${$~+$ ~k4~sj5j5~s1
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,4, 0900FBBC News
+OL,5,     GTwenty-four hours a day, the          
+OL,6,     Glatest national and                   
+OL,7,     Ginternational stories as they         
+OL,8,     Gbreak. [S]                            
