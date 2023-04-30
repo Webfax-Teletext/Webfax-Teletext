@@ -1,7 +1,7 @@
 PN,26401
 SC,0001
 PS,8000
-OL,0,        ECIMSBWebfax     F264A1682813180
+OL,0,        ECIMSBWebfax     F264A1682824112
 OL,1, 0420FShipping Forecast
 OL,2,     GThe latest shipping forecast.         
 OL,3, 0430FNews Briefing
@@ -25,7 +25,7 @@ OL,20,     GRadio 4.
 PN,26402
 SC,0002
 PS,8000
-OL,0,        ECIMSBWebfax     F264A1682813180
+OL,0,        ECIMSBWebfax     F264A1682824112
 OL,1, 0505FSomething Understood
 OL,2,     GMark Tully explores the sacred        
 OL,3,     Gspaces of Westminster Abbey,          
@@ -44,216 +44,225 @@ OL,15,     Gforecast.
 OL,16, 0600FNews and Sunday Papers
 OL,17,     GThe latest news headlines.            
 OL,18,     GIncluding a look at the papers.       
-OL,19, 0610FSunday
-OL,20,     GA look at the ethical and             
-OL,21,     Greligious issues of the week.         
 PN,26403
 SC,0003
 PS,8000
-OL,0,        ECIMSBWebfax     F264A1682813180
-OL,1, 0654FThe Radio 4 Appeal
-OL,2,     GWellness guru Liz Earle makes         
-OL,3,     Gthe Radio 4 Appeal on behalf of       
-OL,4,     GInternational Health Partners.        
-OL,5, 0657FWeather Forecast
-OL,6,     GThe latest weather forecast.          
-OL,7, 0700FNews and Sunday Papers
-OL,8,     GThe latest news headlines.            
-OL,9,     GIncluding a look at the Sunday        
-OL,10,     Gpapers.                               
-OL,11, 0710FSunday Worship
-OL,12,     Gled by Fr Philip Blackledge of        
-OL,13,     GHoly Trinity Scottish Episcopal       
-OL,14,     GChurch, Melrose. Philip reflects      
-OL,15,     Gon our perceptions of time and        
-OL,16,     Ghow they affect our relationship      
-OL,17,     Gwith God.                             
-OL,18, 0748FA Point of View
-OL,19,     GSarah Dunant reflects on              
-OL,20,     Gshifting demographics and how         
-OL,21,     Gthe UK can solve the conundrum        
-OL,22,     Gof an ageing population but           
-OL,23,     Gfalling birth rate.                   
+OL,0,        ECIMSBWebfax     F264A1682824112
+OL,1, 0610FSunday
+OL,2,     GEmily looks ahead to the              
+OL,3,     GCoronation with exclusive access      
+OL,4,     Gto the Dean at Westminster            
+OL,5,     GAbbey, and hears about the            
+OL,6,     Gprayers and music of the service      
+OL,7,     Gnext week.                            
+OL,8, 0654FThe Radio 4 Appeal
+OL,9,     GWellness guru Liz Earle makes         
+OL,10,     Gthe Radio 4 Appeal on behalf of       
+OL,11,     GInternational Health Partners.        
+OL,12, 0657FWeather Forecast
+OL,13,     GThe latest weather forecast.          
+OL,14, 0700FNews and Sunday Papers
+OL,15,     GThe latest news headlines.            
+OL,16,     GIncluding a look at the Sunday        
+OL,17,     Gpapers.                               
 PN,26404
 SC,0004
 PS,8000
-OL,0,        ECIMSBWebfax     F264A1682813180
-OL,1, 0758FTweet of the Day
-OL,2,     GNature writer Melissa Harrison        
-OL,3,     Gpresents the case for why we          
-OL,4,     Gshould love the humble if noisy       
-OL,5,     G'spadger', though she won't           
-OL,6,     Gwaste her breath trying to win        
-OL,7,     Ground her dog.                        
-OL,8, 0800FBroadcasting House
-OL,9,     GThe Sunday morning news magazine      
-OL,10,     Gprogramme. Presented by Paddy         
-OL,11,     GO'Connell.                            
-OL,12, 0900FThe Archers Omnibus
-OL,13,     GChelsea has her guard up, and         
-OL,14,     GKenton hatches a plan.                
-OL,15, 1015FThe Reunion
-OL,16,     GStars of the early years of the       
-OL,17,     GEurovision Song Contest are           
-OL,18,     Greunited. Kirsty Wark takes to        
-OL,19,     Gthe main stage with Dana, Lulu,       
-OL,20,     GPhil Coulter, Pete Murray and         
-OL,21,     Ghistorian Dean Vuletic.               
+OL,0,        ECIMSBWebfax     F264A1682824112
+OL,1, 0710FSunday Worship
+OL,2,     Gled by Fr Philip Blackledge of        
+OL,3,     GHoly Trinity Scottish Episcopal       
+OL,4,     GChurch, Melrose. Philip reflects      
+OL,5,     Gon our perceptions of time and        
+OL,6,     Ghow they affect our relationship      
+OL,7,     Gwith God.                             
+OL,8, 0748FA Point of View
+OL,9,     GSarah Dunant reflects on              
+OL,10,     Gshifting demographics and how         
+OL,11,     Gthe UK can solve the conundrum        
+OL,12,     Gof an ageing population but           
+OL,13,     Gfalling birth rate.                   
+OL,14, 0758FTweet of the Day
+OL,15,     GNature writer Melissa Harrison        
+OL,16,     Gpresents the case for why we          
+OL,17,     Gshould love the humble if noisy       
+OL,18,     G'spadger', though she won't           
+OL,19,     Gwaste her breath trying to win        
+OL,20,     Ground her dog.                        
 PN,26405
 SC,0005
 PS,8000
-OL,0,        ECIMSBWebfax     F264A1682813180
-OL,1, 1100FNews Summary
-OL,2,     GThe latest national and               
-OL,3,     Ginternational news from BBC           
-OL,4,     GRadio 4.                              
-OL,5, 1104FJust a Minute
-OL,6,     G4/8. Sue Perkins challenges Paul      
-OL,7,     GMerton, Felicity Ward, Ivo            
-OL,8,     GGraham and Josie Lawrence to          
-OL,9,     Gspeak for 60 seconds without          
-OL,10,     Grepetition, deviation or              
-OL,11,     Ghesitation.                           
-OL,12, 1132FThe Food Programme
-OL,13,     GTraditional cafes or greasy           
-OL,14,     Gspoons have been in decline for       
-OL,15,     Gdecades but people still love         
-OL,16,     Gthem. Leyla Kazim has three           
-OL,17,     Gconversations about the magic of      
-OL,18,     Gthe greasy spoon.                     
-OL,19, 1157FWeather Forecast
-OL,20,     GThe latest weather forecast.          
+OL,0,        ECIMSBWebfax     F264A1682824112
+OL,1, 0800FBroadcasting House
+OL,2,     GThe Sunday morning news magazine      
+OL,3,     Gprogramme. Presented by Paddy         
+OL,4,     GO'Connell.                            
+OL,5, 0900FThe Archers Omnibus
+OL,6,     GChelsea has her guard up, and         
+OL,7,     GKenton hatches a plan.                
+OL,8, 1015FThe Reunion
+OL,9,     GStars of the early years of the       
+OL,10,     GEurovision Song Contest are           
+OL,11,     Greunited. Kirsty Wark takes to        
+OL,12,     Gthe main stage with Dana, Lulu,       
+OL,13,     GPhil Coulter, Pete Murray and         
+OL,14,     Ghistorian Dean Vuletic.               
+OL,15, 1100FNews Summary
+OL,16,     GThe latest national and               
+OL,17,     Ginternational news from BBC           
+OL,18,     GRadio 4.                              
 PN,26406
 SC,0006
 PS,8000
-OL,0,        ECIMSBWebfax     F264A1682813180
-OL,1, 1200FThe World This Weekend
-OL,2,     GRadio 4's look at the week's big      
-OL,3,     Gstories from both home and            
-OL,4,     Garound the world.                     
-OL,5, 1230FSearching for Cosmic Dust
-OL,6,     GNorwegian jazz legend Jon Larsen      
-OL,7,     Gdecides to give it all up to          
-OL,8,     Gsearch for dust from space.           
-OL,9, 1300FGardeners' Question Time
-OL,10,     GKathy Clugston and her green          
-OL,11,     Gfingered gardening experts are        
-OL,12,     Gin Crowle.                            
-OL,13, 1345FOpening Lines
-OL,14,     GThe series that takes a look at       
-OL,15,     Gbooks, plays and stories and how      
-OL,16,     Gthey work. John Yorke explores        
-OL,17,     Gthe themes at the heart of            
-OL,18,     GTolstoy's great novel Anna            
-OL,19,     GKarenina.                             
+OL,0,        ECIMSBWebfax     F264A1682824112
+OL,1, 1104FJust a Minute
+OL,2,     G4/8. Sue Perkins challenges Paul      
+OL,3,     GMerton, Felicity Ward, Ivo            
+OL,4,     GGraham and Josie Lawrence to          
+OL,5,     Gspeak for 60 seconds without          
+OL,6,     Grepetition, deviation or              
+OL,7,     Ghesitation.                           
+OL,8, 1132FThe Food Programme
+OL,9,     GTraditional cafes or greasy           
+OL,10,     Gspoons have been in decline for       
+OL,11,     Gdecades but people still love         
+OL,12,     Gthem. Leyla Kazim has three           
+OL,13,     Gconversations about the magic of      
+OL,14,     Gthe greasy spoon.                     
+OL,15, 1157FWeather Forecast
+OL,16,     GThe latest weather forecast.          
+OL,17, 1200FThe World This Weekend
+OL,18,     GRadio 4's look at the week's big      
+OL,19,     Gstories from both home and            
+OL,20,     Garound the world.                     
 PN,26407
 SC,0007
 PS,8000
-OL,0,        ECIMSBWebfax     F264A1682813180
-OL,1, 1400FLove Stories: Anna Karenina
-OL,2,     GWhen Anna Karenina meets Alexei       
-OL,3,     GVronsky her life changes              
-OL,4,     Girrevocably. Tolstoy's drama of       
-OL,5,     Gdesire, transgression and             
-OL,6,     Gheartache dramatised by Linda         
-OL,7,     GMarshall Griffiths.                   
-OL,8, 1500FOpen Book
-OL,9,     GJohny Pitts talks to Stephen          
-OL,10,     GBuoro about his debut novel The       
-OL,11,     GFive Sorrowful Mysteries of Andy      
-OL,12,     GAfrica. Plus Debbie Hicks from        
-OL,13,     GThe Reading Agency discusses          
-OL,14,     Gtheir new initiative.                 
-OL,15, 1530FRevolutionary Letters
-OL,16,     GA practical guide to revolution       
-OL,17,     Gin the face of social injustice       
-OL,18,     Gand environmental collapse -          
-OL,19,     Gdelve into the worlds of the          
-OL,20,     GAmerican poet Diane di Prima's        
-OL,21,     GRevolutionary Letters.                
+OL,0,        ECIMSBWebfax     F264A1682824112
+OL,1, 1230FSearching for Cosmic Dust
+OL,2,     GNorwegian jazz legend Jon Larsen      
+OL,3,     Gdecides to give it all up to          
+OL,4,     Gsearch for dust from space.           
+OL,5, 1300FGardeners' Question Time
+OL,6,     GKathy Clugston and her green          
+OL,7,     Gfingered gardening experts are        
+OL,8,     Gin Crowle.                            
+OL,9, 1345FOpening Lines
+OL,10,     GThe series that takes a look at       
+OL,11,     Gbooks, plays and stories and how      
+OL,12,     Gthey work. John Yorke explores        
+OL,13,     Gthe themes at the heart of            
+OL,14,     GTolstoy's great novel Anna            
+OL,15,     GKarenina.                             
+OL,16, 1400FLove Stories: Anna Karenina
+OL,17,     GWhen Anna Karenina meets Alexei       
+OL,18,     GVronsky her life changes              
+OL,19,     Girrevocably. Tolstoy's drama of       
+OL,20,     Gdesire, transgression and             
+OL,21,     Gheartache dramatised by Linda         
+OL,22,     GMarshall Griffiths.                   
 PN,26408
 SC,0008
 PS,8000
-OL,0,        ECIMSBWebfax     F264A1682813180
-OL,1, 1600FThe Today Debate
-OL,2,     GThe Today Debate is about taking      
-OL,3,     Ga subject and pulling it apart        
-OL,4,     Gwith more time than we could          
-OL,5,     Gever have during the Today            
-OL,6,     Gprogramme in the morning.             
-OL,7, 1640FProfile
-OL,8,     GThe country girl who won the          
-OL,9,     Gheart of a prince: the Queen          
-OL,10,     GConsort, Camilla, will be             
-OL,11,     Gcrowned Queen at the coronation       
-OL,12,     Gof King Charles III at                
-OL,13,     GWestminster Abbey.                    
-OL,14, 1654FShipping Forecast
-OL,15,     GThe latest shipping forecast.         
-OL,16, 1657FWeather Forecast
-OL,17,     GThe latest weather forecast.          
-OL,18, 1700FSix O'Clock News
-OL,19,     GThe early evening national and        
-OL,20,     Ginternational news from BBC           
-OL,21,     GRadio 4.                              
+OL,0,        ECIMSBWebfax     F264A1682824112
+OL,1, 1500FOpen Book
+OL,2,     GJohny Pitts talks to Stephen          
+OL,3,     GBuoro about his debut novel The       
+OL,4,     GFive Sorrowful Mysteries of Andy      
+OL,5,     GAfrica. Plus Debbie Hicks from        
+OL,6,     GThe Reading Agency discusses          
+OL,7,     Gtheir new initiative.                 
+OL,8, 1530FRevolutionary Letters
+OL,9,     GA practical guide to revolution       
+OL,10,     Gin the face of social injustice       
+OL,11,     Gand environmental collapse -          
+OL,12,     Gdelve into the worlds of the          
+OL,13,     GAmerican poet Diane di Prima's        
+OL,14,     GRevolutionary Letters.                
+OL,15, 1600FThe Today Debate
+OL,16,     GThe Today Debate is about taking      
+OL,17,     Ga subject and pulling it apart        
+OL,18,     Gwith more time than we could          
+OL,19,     Gever have during the Today            
+OL,20,     Gprogramme in the morning.             
 PN,26409
 SC,0009
 PS,8000
-OL,0,        ECIMSBWebfax     F264A1682813180
-OL,1, 1715FPick of the Week
-OL,2,     GTessa Dunlop chooses her audio        
-OL,3,     Ghighlights of the week.               
-OL,4, 1800FThe Archers
-OL,5,     GJim finds himself out of his          
-OL,6,     Gcomfort zone, and the race for        
-OL,7,     Gillumination hots up.                 
-OL,8, 1815FMark Steel's In Town
-OL,9,     G1/6. Mark Steel visits Hastings       
-OL,10,     Gin East Sussex and performs for       
-OL,11,     Gthe locals.                           
-OL,12, 1845FMore Chronicles of Burke Street
-OL,13,     G5/5. A man, long assumed to be        
-OL,14,     Gdead, returns to Burke Street,        
-OL,15,     Gin the last of Ingrid Persaud's       
-OL,16,     Gbrilliantly funny story series        
-OL,17,     Gset on one street in Trinidad.        
-OL,18, 1900FFeedback
-OL,19,     GAndrea Catherwood puts                
-OL,20,     Glisteners' comments on the move       
-OL,21,     Gof Radio 4 programmes to Cardiff      
-OL,22,     Gto Colin Paterson, Head of            
-OL,23,     GAudio, BBC Wales.                     
+OL,0,        ECIMSBWebfax     F264A1682824112
+OL,1, 1640FProfile
+OL,2,     GThe country girl who won the          
+OL,3,     Gheart of a prince: the Queen          
+OL,4,     GConsort, Camilla, will be             
+OL,5,     Gcrowned Queen at the coronation       
+OL,6,     Gof King Charles III at                
+OL,7,     GWestminster Abbey.                    
+OL,8, 1654FShipping Forecast
+OL,9,     GThe latest shipping forecast.         
+OL,10, 1657FWeather Forecast
+OL,11,     GThe latest weather forecast.          
+OL,12, 1700FSix O'Clock News
+OL,13,     GThe early evening national and        
+OL,14,     Ginternational news from BBC           
+OL,15,     GRadio 4.                              
+OL,16, 1715FPick of the Week
+OL,17,     GTessa Dunlop chooses her audio        
+OL,18,     Ghighlights of the week.               
+OL,19, 1800FThe Archers
+OL,20,     GJim finds himself out of his          
+OL,21,     Gcomfort zone, and the race for        
+OL,22,     Gillumination hots up.                 
 PN,26410
 SC,0010
 PS,8000
-OL,0,        ECIMSBWebfax     F264A1682813180
-OL,1, 1930FLast Word
-OL,2,     GMatthew Bannister on comedian         
-OL,3,     GBarry Humphries, dancer Len           
-OL,4,     GGoodman, medical researcher           
-OL,5,     GProfessor Elizabeth Murray and        
-OL,6,     Gmusician Jah Shaka.                   
-OL,7, 2000FMoney Box
-OL,8,     GThe latest news from the world        
-OL,9,     Gof personal finance plus advice       
-OL,10,     Gfor those trying to make the          
-OL,11,     Gmost of their money.                  
-OL,12, 2025FThe Radio 4 Appeal
-OL,13,     GWellness guru Liz Earle makes         
-OL,14,     Gthe Radio 4 Appeal on behalf of       
-OL,15,     GInternational Health Partners.        
-OL,16, 2030FShort Cuts
-OL,17,     GShort documentaries and               
-OL,18,     Gadventures in sound about             
-OL,19,     Gmothers and motherhood.               
-OL,20,     GPresented by Josie Long.              
-OL,21, 2100FThe Westminster Hour
-OL,22,     GRadio 4's Sunday night political      
-OL,23,     Gdiscussion programme.                 
+OL,0,        ECIMSBWebfax     F264A1682824112
+OL,1, 1815FMark Steel's In Town
+OL,2,     G1/6. Mark Steel visits Hastings       
+OL,3,     Gin East Sussex and performs for       
+OL,4,     Gthe locals.                           
+OL,5, 1845FMore Chronicles of Burke Street
+OL,6,     G5/5. A man, long assumed to be        
+OL,7,     Gdead, returns to Burke Street,        
+OL,8,     Gin the last of Ingrid Persaud's       
+OL,9,     Gbrilliantly funny story series        
+OL,10,     Gset on one street in Trinidad.        
+OL,11, 1900FFeedback
+OL,12,     GAndrea Catherwood puts                
+OL,13,     Glisteners' comments on the move       
+OL,14,     Gof Radio 4 programmes to Cardiff      
+OL,15,     Gto Colin Paterson, Head of            
+OL,16,     GAudio, BBC Wales.                     
+OL,17, 1930FLast Word
+OL,18,     GMatthew Bannister on comedian         
+OL,19,     GBarry Humphries, dancer Len           
+OL,20,     GGoodman, medical researcher           
+OL,21,     GProfessor Elizabeth Murray and        
+OL,22,     Gmusician Jah Shaka.                   
 PN,26411
 SC,0011
 PS,8000
-OL,0,        ECIMSBWebfax     F264A1682813180
+OL,0,        ECIMSBWebfax     F264A1682824112
+OL,1, 2000FMoney Box
+OL,2,     GA week before the King is             
+OL,3,     Gcrowned, do you know what a half      
+OL,4,     Gcrown was and what it would buy?      
+OL,5,     GWe look at personal finance in        
+OL,6,     Gthe 1950s.                            
+OL,7, 2025FThe Radio 4 Appeal
+OL,8,     GWellness guru Liz Earle makes         
+OL,9,     Gthe Radio 4 Appeal on behalf of       
+OL,10,     GInternational Health Partners.        
+OL,11, 2030FShort Cuts
+OL,12,     GShort documentaries and               
+OL,13,     Gadventures in sound about             
+OL,14,     Gmothers and motherhood.               
+OL,15,     GPresented by Josie Long.              
+OL,16, 2100FThe Westminster Hour
+OL,17,     GRadio 4's Sunday night political      
+OL,18,     Gdiscussion programme.                 
+PN,26412
+SC,0012
+PS,8000
+OL,0,        ECIMSBWebfax     F264A1682824112
 OL,1, 2200FLoose Ends
 OL,2,     GClive Anderson and Andrew             
 OL,3,     GO'Neill are joined by Bob             
@@ -270,3 +279,21 @@ OL,13,     GSomething Understood from 2010.
 OL,14, 2300FMidnight News
 OL,15,     GThe latest news and weather           
 OL,16,     Gforecast from BBC Radio 4.            
+OL,17, 2315FThinking Allowed
+OL,18,     GDemocracy: Laurie Taylor              
+OL,19,     Gexplores the forces and               
+OL,20,     Gpractices that threaten or            
+OL,21,     Gpromote democracy.                    
+PN,26413
+SC,0013
+PS,8000
+OL,0,        ECIMSBWebfax     F264A1682824112
+OL,1, 2345FBells on Sunday
+OL,2,     GBells on Sunday comes from the        
+OL,3,     GChurch of St Thomas the Apostle       
+OL,4,     Gin Lymington, Hampshire.              
+OL,5, 2348FShipping Forecast
+OL,6,     GThe latest shipping forecast.         
+OL,7, 0000FWorld Service
+OL,8,     GBBC Radio 4 joins the BBC World       
+OL,9,     GService.                              
