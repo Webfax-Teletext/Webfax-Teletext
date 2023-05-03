@@ -1,54 +1,33 @@
 PN,20601
 SC,0001
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683075498
+OL,0,        ECIMSBWebfax     F206A1683079141
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0100FBBC News
+OL,4, 0200FBBC News
 OL,5,     GThe latest news from the BBC. [S]     
-OL,6, 0130FAsia Business Report
-OL,7,     GLive from Singapore, the              
-OL,8,     Gessential business news as it         
-OL,9,     Gbreaks and a look ahead to the        
-OL,10,     Gnews that will shape the              
-OL,11,     Gbusiness day. [S]                     
-OL,12, 0145FSportsday
-OL,13,     GA round-up of the day's sporting      
-OL,14,     Gaction, plus talking points,          
-OL,15,     Ganalysis and original                 
-OL,16,     Gjournalism. [S]                       
-OL,17, 0200FBBC News
-OL,18,     GThe latest news from the BBC. [S]     
+OL,6, 0230FThe Media Show
+OL,7,     GKatie Razzall and guests explore      
+OL,8,     Gthe tensions journalists              
+OL,9,     Gnavigate when working in              
+OL,10,     Gparallel to the authorities in        
+OL,11,     Gpursuit of the truth. [S]             
+OL,12, 0300FBBC News
+OL,13,     GThe latest news from the BBC. [S]     
+OL,14, 0330FHARDtalk
+OL,15,     GStephen Sackur is in Berlin to        
+OL,16,     Gtalk to the influential chair of      
+OL,17,     Gthe German Parliament's Defence       
+OL,18,     GCommittee, Marie-Agnes Strack-        
+OL,19,     GZimmermann. [S]                       
+OL,20, 0400FBBC News
+OL,21,     GThe latest news from the BBC. [S]     
 PN,20602
 SC,0002
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683075498
-OL,1,W{${$~+$ ~k4~sj5j5~s1
-OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0230FThe Media Show
-OL,5,     GKatie Razzall and guests explore      
-OL,6,     Gthe tensions journalists              
-OL,7,     Gnavigate when working in              
-OL,8,     Gparallel to the authorities in        
-OL,9,     Gpursuit of the truth. [S]             
-OL,10, 0300FBBC News
-OL,11,     GThe latest news from the BBC. [S]     
-OL,12, 0330FHARDtalk
-OL,13,     GStephen Sackur is in Berlin to        
-OL,14,     Gtalk to the influential chair of      
-OL,15,     Gthe German Parliament's Defence       
-OL,16,     GCommittee, Marie-Agnes Strack-        
-OL,17,     GZimmermann. [S]                       
-OL,18, 0400FBBC News
-OL,19,     GThe latest news from the BBC. [S]     
-PN,20603
-SC,0003
-PS,8000
-OL,0,        ECIMSBWebfax     F206A1683075498
+OL,0,        ECIMSBWebfax     F206A1683079141
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -71,10 +50,10 @@ OL,18,     GThe latest news from the BBC. [S]
 OL,19, 1015FPolitics Live
 OL,20,     GThe big political issues of the       
 OL,21,     Gday. [S]                              
-PN,20604
-SC,0004
+PN,20603
+SC,0003
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683075498
+OL,0,        ECIMSBWebfax     F206A1683079141
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -98,10 +77,10 @@ OL,19,     Ginformed analysis from the
 OL,20,     Gworld's financial centres. [S]        
 OL,21, 1345FBBC News
 OL,22,     GThe latest news from the BBC. [S]     
-PN,20605
-SC,0005
+PN,20604
+SC,0004
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683075498
+OL,0,        ECIMSBWebfax     F206A1683079141
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -125,10 +104,10 @@ OL,19, 1700FBBC News at Six
 OL,20,     GThe latest national and               
 OL,21,     Ginternational news from the BBC.      
 OL,22,     G[S]                                   
-PN,20606
-SC,0006
+PN,20605
+SC,0005
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683075498
+OL,0,        ECIMSBWebfax     F206A1683079141
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -149,10 +128,10 @@ OL,16,     Gacross the political spectrum
 OL,17,     Gdiscuss the biggest                   
 OL,18,     Ginternational stories of the          
 OL,19,     Gday. [S]                              
-PN,20607
-SC,0007
+PN,20606
+SC,0006
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683075498
+OL,0,        ECIMSBWebfax     F206A1683079141
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -176,10 +155,10 @@ OL,19,     Gtalk to the influential chair of
 OL,20,     Gthe German Parliament's Defence       
 OL,21,     GCommittee, Marie-Agnes Strack-        
 OL,22,     GZimmermann. [S]                       
-PN,20608
-SC,0008
+PN,20607
+SC,0007
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683075498
+OL,0,        ECIMSBWebfax     F206A1683079141
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
