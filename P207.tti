@@ -1,53 +1,186 @@
 PN,20701
 SC,0001
 PS,8000
-OL,0,        ECIMSBWebfax     F207A1683243084
+OL,0,        ECIMSBWebfax     F207A1683257657
 OL,1,W{${$~+$ {$%~k7}hw1~k4k7
 OL,2,W/.!/.!+.! /   /*%/"-$/*%*%V(,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0500FScottish Parliament
-OL,5,     GCoverage of the morning               
-OL,6,     Gproceedings in the Scottish           
-OL,7,     GParliament including questions        
-OL,8,     Gto ministers in the Scottish          
-OL,9,     Ggovernment, from Thursday 4 May.      
-OL,10, 0520FScottish First Minister's
+OL,4, 0730FScottish Parliament - General
+OL,5,FQuestions
+OL,6,     GGeneral questions in the              
+OL,7,     GScottish Parliament to ministers      
+OL,8,     Gin the Scottish government, from      
+OL,9,     GThursday 4 May.                       
+OL,10, 0750FScottish First Minister's
 OL,11,FQuestions
 OL,12,     GCoverage of questions in the          
 OL,13,     GScottish Parliament to Humza          
 OL,14,     GYousaf, the first minister, on        
 OL,15,     GThursday 4 May.                       
-OL,16, 0605FScottish Parliament
-OL,17,     GCoverage of the afternoon             
-OL,18,     Gproceedings in the Scottish           
-OL,19,     GParliament including portfolio        
-OL,20,     Gquestions covering net zero and       
-OL,21,     Gthe just transition, from             
-OL,22,     GThursday 4 May.                       
+OL,16, 0835FScottish Parliament - Net Zero...
+OL,17,     Gand Just Transition Questions.        
+OL,18,     GQuestions in Holyrood to net          
+OL,19,     Gzero and just transition              
+OL,20,     Gministers in the Scottish             
+OL,21,     Ggovernment, from Thursday 4 May.      
 PN,20702
 SC,0002
 PS,8000
-OL,0,        ECIMSBWebfax     F207A1683243084
+OL,0,        ECIMSBWebfax     F207A1683257657
 OL,1,W{${$~+$ {$%~k7}hw1~k4k7
 OL,2,W/.!/.!+.! /   /*%/"-$/*%*%V(,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0905FSelect Committees
-OL,5,     GRecorded coverage of select           
-OL,6,     Gcommittee proceedings.                
-OL,7, 1300FHouse of Lords
-OL,8,     GHighlights of proceedings in the      
-OL,9,     GHouse of Lords.                       
-OL,10, 1700FSelect Committees
-OL,11,     GRecorded coverage of select           
-OL,12,     Gcommittee proceedings.                
-OL,13, 2000FScottish First Minister's
-OL,14,FQuestions
-OL,15,     GCoverage of questions in the          
-OL,16,     GScottish Parliament to Humza          
-OL,17,     GYousaf, the first minister, on        
-OL,18,     GThursday 4 May.                       
-OL,19, 2045FScottish Parliament
-OL,20,     GHighlights from the Scottish          
-OL,21,     GParliament.                           
+OL,4, 0905FScottish Parliament - Moveable
+OL,5,FTransactions Bill
+OL,6,     GDebate in Holyrood on the             
+OL,7,     GMoveable Transactions (Scotland)      
+OL,8,     GBill at Stage 3, from Thursday 4      
+OL,9,     GMay.                                  
+OL,10, 1105FCivil Service Appointments
+OL,11,FInquiry
+OL,12,     GConstitution Committee session        
+OL,13,     Gon the appointment and dismissal      
+OL,14,     Gof senior civil servants, with        
+OL,15,     Gevidence from the first civil         
+OL,16,     Gservice commissioner, Baroness        
+OL,17,     GStuart of Edgbaston, from             
+OL,18,     GWednesday 3 May.                      
+PN,20703
+SC,0003
+PS,8000
+OL,0,        ECIMSBWebfax     F207A1683257657
+OL,1,W{${$~+$ {$%~k7}hw1~k4k7
+OL,2,W/.!/.!+.! /   /*%/"-$/*%*%V(,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,4, 1330FLords - Parliamentary Democracy
+OL,5,FDebate
+OL,6,     GCoverage from the House of Lords      
+OL,7,     Gof a short debate tabled by           
+OL,8,     GGreen peer Baroness Jones of          
+OL,9,     GMoulsecoomb on UK parliamentary       
+OL,10,     Gdemocracy, from Tuesday 25 April.     
+OL,11, 1425FLords Questions
+OL,12,     GQuestions in the Lords to             
+OL,13,     Ggovernment ministers covering         
+OL,14,     Gleaseholds, voter authority           
+OL,15,     Gcertificates, children absent         
+OL,16,     Gfrom school and on the                
+OL,17,     Gresignation of BBC chairman           
+OL,18,     GRichard Sharp, from Tuesday 2         
+OL,19,     GMay.                                  
+PN,20704
+SC,0004
+PS,8000
+OL,0,        ECIMSBWebfax     F207A1683257657
+OL,1,W{${$~+$ {$%~k7}hw1~k4k7
+OL,2,W/.!/.!+.! /   /*%/"-$/*%*%V(,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,4, 1510FLords - Police Uplift Programme
+OL,5,FStatement
+OL,6,     GThe statement in the House of         
+OL,7,     GLords, by Home Office minister        
+OL,8,     GLord Sharpe of Epsom, on the          
+OL,9,     Gpolice uplift programme to            
+OL,10,     Grecruit 20,000 new police             
+OL,11,     Gofficers, from Tuesday 2 May.         
+OL,12, 1555FLords Questions
+OL,13,     GQuestions to ministers covering       
+OL,14,     Gthe Net Zero strategy, the            
+OL,15,     Gimpact of cancelling the Warrior      
+OL,16,     Garmoured vehicle programme, and       
+OL,17,     Gon racial disparities in              
+OL,18,     Gchildbirth deaths, from               
+OL,19,     GWednesday 3 May.                      
+PN,20705
+SC,0005
+PS,8000
+OL,0,        ECIMSBWebfax     F207A1683257657
+OL,1,W{${$~+$ {$%~k7}hw1~k4k7
+OL,2,W/.!/.!+.! /   /*%/"-$/*%*%V(,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,4, 1640FLords - Voter ID Statement
+OL,5,     GThe statement in the House of         
+OL,6,     GLords on new regulations for          
+OL,7,     Gvoter photo ID at polling             
+OL,8,     Gstations, from Wednesday 3 May.       
+OL,9, 1650FLords - Concussion Guidelines
+OL,10,FStatement
+OL,11,     GThe statement in the House of         
+OL,12,     GLords on UK concussion                
+OL,13,     Gguidelines for grassroots sport,      
+OL,14,     Gfrom Wednesday 3 May.                 
+PN,20706
+SC,0006
+PS,8000
+OL,0,        ECIMSBWebfax     F207A1683257657
+OL,1,W{${$~+$ {$%~k7}hw1~k4k7
+OL,2,W/.!/.!+.! /   /*%/"-$/*%*%V(,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,4, 1700FUK Chief Scientific Adviser
+OL,5,FInquiry
+OL,6,     GScience, Innovation and               
+OL,7,     GTechnology Committee session on       
+OL,8,     Gthe UK government's chief             
+OL,9,     Gscientific adviser, with              
+OL,10,     Gevidence from the former GCSA         
+OL,11,     GSir Patrick Vallance, from            
+OL,12,     GWednesday 3 May.                      
+OL,13, 1835FDigital Exclusion Inquiry
+OL,14,     GCommunications and Digital            
+OL,15,     GCommittee session on digital          
+OL,16,     Gexclusion and the cost of             
+OL,17,     Gliving, with evidence from            
+OL,18,     Gtechnology and digital economy        
+OL,19,     Gminister Paul Scully, from            
+OL,20,     GTuesday 2 May.                        
+PN,20707
+SC,0007
+PS,8000
+OL,0,        ECIMSBWebfax     F207A1683257657
+OL,1,W{${$~+$ {$%~k7}hw1~k4k7
+OL,2,W/.!/.!+.! /   /*%/"-$/*%*%V(,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,4, 1945FScottish Parliament - General
+OL,5,FQuestions
+OL,6,     GGeneral questions in the              
+OL,7,     GScottish Parliament to ministers      
+OL,8,     Gin the Scottish government, from      
+OL,9,     GThursday 4 May.                       
+OL,10, 2005FScottish First Minister's
+OL,11,FQuestions
+OL,12,     GCoverage of questions in the          
+OL,13,     GScottish Parliament to Humza          
+OL,14,     GYousaf, the first minister, on        
+OL,15,     GThursday 4 May.                       
+OL,16, 2050FScottish Parliament - Net Zero...
+OL,17,     Gand Just Transition Questions.        
+OL,18,     GQuestions in Holyrood to net          
+OL,19,     Gzero and just transition              
+OL,20,     Gministers in the Scottish             
+OL,21,     Ggovernment, from Thursday 4 May.      
+PN,20708
+SC,0008
+PS,8000
+OL,0,        ECIMSBWebfax     F207A1683257657
+OL,1,W{${$~+$ {$%~k7}hw1~k4k7
+OL,2,W/.!/.!+.! /   /*%/"-$/*%*%V(,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,4, 2120FScottish Parliament - Moveable
+OL,5,FTransactions Bill
+OL,6,     GDebate in Holyrood on the             
+OL,7,     GMoveable Transactions (Scotland)      
+OL,8,     GBill at Stage 3, from Thursday 4      
+OL,9,     GMay.                                  
+OL,10, 2320FLords - Online Safety Bill
+OL,11,     GBusiness in the House of Lords        
+OL,12,     Gincluding the fourth day of the       
+OL,13,     Gcommittee stage of the Online         
+OL,14,     GSafety Bill, from Tuesday 2 May.      
