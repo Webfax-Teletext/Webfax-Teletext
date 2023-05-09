@@ -1,109 +1,86 @@
 PN,20601
 SC,0001
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683672973
+OL,0,        ECIMSBWebfax     F206A1683676616
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 2300FNewsday
+OL,4, 0000FNewsday
 OL,5,     GLive from Singapore, the latest       
 OL,6,     Ginternational news from the BBC.      
 OL,7,     G[S]                                   
-OL,8, 2330FAsia Business Report
+OL,8, 0030FAsia Business Report
 OL,9,     GLive from Singapore, the              
 OL,10,     Gessential business news as it         
 OL,11,     Gbreaks and a look ahead to the        
 OL,12,     Gnews that will shape the              
 OL,13,     Gbusiness day. [S]                     
-OL,14, 2345FSportsday
+OL,14, 0045FSportsday
 OL,15,     GA round-up of the day's sporting      
 OL,16,     Gaction, plus talking points,          
 OL,17,     Ganalysis and original                 
 OL,18,     Gjournalism. [S]                       
-OL,19, 0000FNewsday
-OL,20,     GLive from Singapore, the latest       
-OL,21,     Ginternational news from the BBC.      
-OL,22,     G[S]                                   
+OL,19, 0100FBBC News
+OL,20,     GThe latest news from the BBC. [S]     
 PN,20602
 SC,0002
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683672973
+OL,0,        ECIMSBWebfax     F206A1683676616
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0030FAsia Business Report
+OL,4, 0130FAsia Business Report
 OL,5,     GLive from Singapore, the              
 OL,6,     Gessential business news as it         
 OL,7,     Gbreaks and a look ahead to the        
 OL,8,     Gnews that will shape the              
 OL,9,     Gbusiness day. [S]                     
-OL,10, 0045FSportsday
+OL,10, 0145FSportsday
 OL,11,     GA round-up of the day's sporting      
 OL,12,     Gaction, plus talking points,          
 OL,13,     Ganalysis and original                 
 OL,14,     Gjournalism. [S]                       
-OL,15, 0100FBBC News
+OL,15, 0200FBBC News
 OL,16,     GThe latest news from the BBC. [S]     
-OL,17, 0130FAsia Business Report
-OL,18,     GLive from Singapore, the              
-OL,19,     Gessential business news as it         
-OL,20,     Gbreaks and a look ahead to the        
-OL,21,     Gnews that will shape the              
-OL,22,     Gbusiness day. [S]                     
+OL,17, 0230FTake Me to the Opera
+OL,18,     G3/4. Zeinab Badawi travels to         
+OL,19,     GMunich in Germany to meet the         
+OL,20,     Gworld's top tenor Jonas               
+OL,21,     GKaufmann, finding out what makes      
+OL,22,     Ghim so special. [S]                   
 PN,20603
 SC,0003
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683672973
+OL,0,        ECIMSBWebfax     F206A1683676616
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0145FSportsday
-OL,5,     GA round-up of the day's sporting      
-OL,6,     Gaction, plus talking points,          
-OL,7,     Ganalysis and original                 
-OL,8,     Gjournalism. [S]                       
-OL,9, 0200FBBC News
-OL,10,     GThe latest news from the BBC. [S]     
-OL,11, 0230FTake Me to the Opera
-OL,12,     G3/4. Zeinab Badawi travels to         
-OL,13,     GMunich in Germany to meet the         
-OL,14,     Gworld's top tenor Jonas               
-OL,15,     GKaufmann, finding out what makes      
-OL,16,     Ghim so special. [S]                   
-OL,17, 0300FBBC News
-OL,18,     GThe latest news from the BBC. [S]     
+OL,4, 0300FBBC News
+OL,5,     GThe latest news from the BBC. [S]     
+OL,6, 0330FHARDtalk
+OL,7,     GStephen Sackur talks to Wavel         
+OL,8,     GRamkalawan, president of the          
+OL,9,     GRepublic of Seychelles. His tiny      
+OL,10,     Gnation is a tourist magnet but        
+OL,11,     Gthere are huge challenges. Is         
+OL,12,     Gthis a case of paradise lost? [S]     
+OL,13, 0400FBBC News
+OL,14,     GThe latest news from the BBC. [S]     
+OL,15, 0430FWorld Business Report
+OL,16,     GThe latest business news with         
+OL,17,     Ginformed analysis from the            
+OL,18,     Gworld's financial centres. [S]        
+OL,19, 0500FBreakfast
+OL,20,     GThe latest news, sport, business      
+OL,21,     Gand weather from the BBC's            
+OL,22,     GBreakfast team. [S]                   
 PN,20604
 SC,0004
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683672973
-OL,1,W{${$~+$ ~k4~sj5j5~s1
-OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,4, 0330FHARDtalk
-OL,5,     GStephen Sackur talks to Wavel         
-OL,6,     GRamkalawan, president of the          
-OL,7,     GRepublic of Seychelles. His tiny      
-OL,8,     Gnation is a tourist magnet but        
-OL,9,     Gthere are huge challenges. Is         
-OL,10,     Gthis a case of paradise lost? [S]     
-OL,11, 0400FBBC News
-OL,12,     GThe latest news from the BBC. [S]     
-OL,13, 0430FWorld Business Report
-OL,14,     GThe latest business news with         
-OL,15,     Ginformed analysis from the            
-OL,16,     Gworld's financial centres. [S]        
-OL,17, 0500FBreakfast
-OL,18,     GThe latest news, sport, business      
-OL,19,     Gand weather from the BBC's            
-OL,20,     GBreakfast team. [S]                   
-PN,20605
-SC,0005
-PS,8000
-OL,0,        ECIMSBWebfax     F206A1683672973
+OL,0,        ECIMSBWebfax     F206A1683676616
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -127,10 +104,10 @@ OL,19,     GA round-up of the day's sporting
 OL,20,     Gaction, plus talking points,          
 OL,21,     Ganalysis and original                 
 OL,22,     Gjournalism. [S]                       
-PN,20606
-SC,0006
+PN,20605
+SC,0005
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683672973
+OL,0,        ECIMSBWebfax     F206A1683676616
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -153,10 +130,10 @@ OL,18, 1500FBBC News
 OL,19,     GThe latest news from the BBC. [S]     
 OL,20, 1530FBBC News
 OL,21,     GThe latest news from the BBC. [S]     
-PN,20607
-SC,0007
+PN,20606
+SC,0006
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683672973
+OL,0,        ECIMSBWebfax     F206A1683676616
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -178,10 +155,10 @@ OL,17, 1800FBBC News
 OL,18,     GThe latest news from the BBC. [S]     
 OL,19, 1830FBBC News
 OL,20,     GThe latest news from the BBC. [S]     
-PN,20608
-SC,0008
+PN,20607
+SC,0007
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683672973
+OL,0,        ECIMSBWebfax     F206A1683676616
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -202,10 +179,10 @@ OL,16, 2130FNewsnight
 OL,17,     GThe day's important national and      
 OL,18,     Ginternational news stories. With      
 OL,19,     GVictoria Derbyshire. [S]              
-PN,20609
-SC,0009
+PN,20608
+SC,0008
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1683672973
+OL,0,        ECIMSBWebfax     F206A1683676616
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -221,3 +198,7 @@ OL,11,     GRepublic of Seychelles. His tiny
 OL,12,     Gnation is a tourist magnet but        
 OL,13,     Gthere are huge challenges. Is         
 OL,14,     Gthis a case of paradise lost? [S]     
+OL,15, 2300FNewsday
+OL,16,     GLive from Singapore, the latest       
+OL,17,     Ginternational news from the BBC.      
+OL,18,     G[S]                                   
