@@ -1,26 +1,87 @@
-PN,10000
-SC,0000
+PN,10001
+SC,0001
+CT,8,T
 PS,8000
-OL,0,        ECIMSBWebfax     F100A1667080269
+OL,0,        ECIMSBWebfax     F100A1683931543
 OL,1,W|4|h4|||h||4|||h||4|4|
-OL,2,W5j5u3jz%u3jz5ou?CTeletext on
-OL,3,W5j57qjk47!jk5~7}Cthe internet
-OL,4,W////%///*//%/% */*%/%/R,,,,,,,,,,,,,,,,
+OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
+OL,3,W5j57qjk47!jk5~7}C    the internet
+OL,4,W////%///*//%/% */*%/%/R(,,,,,,,,,,,,,,,
 OL,5,                   B
-OL,6,B]                  \GNews ---------G101
-OL,7,B]ANEWS             \BFinance ------G150
-OL,8,B]                  \FTV Listings --G200
-OL,9,B]DDetails will     \BRadio ListingsG260
-OL,10,B]Dappear in this   \FTV Zone UK ---G300
-OL,11,B]Dspace.           \BOn This Day --G320
-OL,12,B]D                 \FClean Feed ---G340
-OL,13,B]DDetails will     \BTech Station -G360
-OL,14,B]Dappear in this   \FSport --------G400
-OL,15,B]Dspace.           \BWeather ------G600
-OL,16,B]A                 \FTravel -------G650
-OL,17,B]A ON PAGE 101    \BAbout Webfax -G698
-OL,18,B]                  \FA - Z Index --G699
-OL,19,                   B
-OL,20,CLet us know what you think about WEBFAX
-OL,21,C          feedback@webfax.org
-OL,23,B]D Follow us on Twitter @webfaxttext
+OL,6,B]                  \FNews ---------G101
+OL,7,B]AWELCOME...       \BBusiness -----G120
+OL,8,B]                  \FSport --------G140
+OL,9,B]D...to Webfax.    \BTravel -------G160
+OL,10,B]D                 \FTV Listings --G200
+OL,11,B]DThe latest news, \BRadio ListingsG260
+OL,12,B]Dsport, business, \FCulture ------G300
+OL,13,B]Dtravel, weather, \BOn This Day --G320
+OL,14,B]Dfeatures, TV and \FClean Feed ---G340
+OL,15,B]Dradio listings,  \BWeather ------G400
+OL,16,B]Dand lots more,   \FGreen --------G450
+OL,17,B]Din teletext      \BReviews ------G500
+OL,18,B]Dformat.          \FAdvertising --G550
+OL,19,B]D                B\BRound-Up -----G598
+OL,20,C
+OL,21,G ECfeedback@webfax.org GTC@webfaxttext
+OL,23,B]DAbout Webfax ------------------ 599
+OL,24,A  News   B BusinessC  Sport  F Culture
+FL,101,120,140,300,0,1FC
+PN,10002
+SC,0002
+CT,8,T
+PS,8000
+OL,0,        ECIMSBWebfax     F100A1683931543
+OL,1,W|4|h4|||h||4|||h||4|4|
+OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
+OL,3,W5j57qjk47!jk5~7}C    the internet
+OL,4,W////%///*//%/% */*%/%/R(,,,,,,,,,,,,,,,
+OL,5,                   B
+OL,6,B]                  \FNews ---------G101
+OL,7,B]ACLEAN FEED       \BBusiness -----G120
+OL,8,B]                  \FSport --------G140
+OL,9,B]DBroadcast news,  \BTravel -------G160
+OL,10,B]Dopinion and      \FTV Listings --G200
+OL,11,B]Dinsider info.    \BRadio ListingsG260
+OL,12,B]D                 \FCulture ------G300
+OL,13,B]DWith an emphasis \BOn This Day --G320
+OL,14,B]Don channel       \GClean Feed ---G340
+OL,15,B]Dpresentation,    \BWeather ------G400
+OL,16,B]Dgraphic design,  \FGreen --------G450
+OL,17,B]Dtransmission and \BReviews ------G500
+OL,18,B]Dplayout.         \FAdvertising --G550
+OL,19,B]D                B\BRound-Up -----G598
+OL,20,C
+OL,21,G ECfeedback@webfax.org GTC@webfaxttext
+OL,23,B]DAbout Webfax ------------------ 599
+OL,24,A  News   B BusinessC  Sport  F Culture
+FL,101,120,140,300,0,1FC
+PN,10003
+SC,0003
+CT,8,T
+PS,8000
+OL,0,        ECIMSBWebfax     F100A1683931543
+OL,1,W|4|h4|||h||4|||h||4|4|
+OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
+OL,3,W5j57qjk47!jk5~7}C    the internet
+OL,4,W////%///*//%/% */*%/%/R(,,,,,,,,,,,,,,,
+OL,5,                   B
+OL,6,B]                  \FNews ---------G101
+OL,7,B]ACLEAN FEED       \BBusiness -----G120
+OL,8,B]                  \FSport --------G140
+OL,9,B]DBroadcast news,  \BTravel -------G160
+OL,10,B]Dopinion and      \FTV Listings --G200
+OL,11,B]Dinsider info.    \BRadio ListingsG260
+OL,12,B]D                 \FCulture ------G300
+OL,13,B]DWith an emphasis \BOn This Day --G320
+OL,14,B]Don channel       \GClean Feed ---G340
+OL,15,B]Dpresentation,    \BWeather ------G400
+OL,16,B]Dgraphic design,  \FGreen --------G450
+OL,17,B]Dtransmission and \BReviews ------G500
+OL,18,B]Dplayout.         \FAdvertising --G550
+OL,19,B]D                B\BRound-Up -----G598
+OL,20,C
+OL,21,G ECfeedback@webfax.org GTC@webfaxttext
+OL,23,B]DAbout Webfax ------------------ 599
+OL,24,A  News   B BusinessC  Sport  F Culture
+FL,101,120,140,300,0,1FC
