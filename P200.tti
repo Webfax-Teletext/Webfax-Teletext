@@ -2,7 +2,7 @@ PN,20001
 SC,0001
 CT,8,T
 PS,8000
-OL,0,        ECIMSBWebfax     F200A1679849748
+OL,0,        ECIMSBWebfax     F200A1683986374
 OL,1,Wk7j5 j5 hws"!h7}h7shws        G1/2
 OL,2,W*% +! "-$/(,' / /*%/"-'(,'V,,,,,,,,,,,,
 OL,3,CINDEX for key terrestrial channels
@@ -23,13 +23,15 @@ OL,17,F  GITV 3 -----------------G212G-G242
 OL,18,   FITV 4 -----------------G213F-G243
 OL,19,F  GITVBe -----------------G214G-G244
 OL,20,   FCITV ------------------G215F-G245
-OL,22,F]DRegional TV Listings Index ---- 295
-OL,23,V]DRadio Listings Index ---------- 260
+OL,22,F]DMRadio Listings Index -------- 260
+OL,23,V]
+OL,24,ABBC1 Tdy BRadioLstgCOnThisDayFCleanFeed
+FL,201,260,320,340,0,100
 PN,20002
 SC,0002
 CT,8,T
 PS,8000
-OL,0,        ECIMSBWebfax     F200A1679849748
+OL,0,        ECIMSBWebfax     F200A1683986374
 OL,1,Wk7j5 j5 hws"!h7}h7shws        G2/2
 OL,2,W*% +! "-$/(,' / /*%/"-'(,'V,,,,,,,,,,,,
 OL,3,CINDEX for key terrestrial channels
@@ -50,5 +52,7 @@ OL,17,    5Star -----------------G227 - 257
 OL,18,F   Sky Arts --------------G228F-G258
 OL,19,    Talking Pictures TV ---G229 - 259
 OL,20,F
-OL,22,F]DRegional TV Listings Index ---- 295
-OL,23,V]DRadio Listings Index ---------- 260
+OL,22,F]MDRadio Listings Index -------- 260
+OL,23,V]D
+OL,24,ABBC1 Tdy BRadioLstgCOnThisDayFCleanFeed
+FL,201,260,320,340,0,100
