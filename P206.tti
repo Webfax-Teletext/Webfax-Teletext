@@ -1,116 +1,310 @@
 PN,20601
 SC,0001
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1685658029
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/5
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1          G1/12
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for Thu 1 Jun
-OL,4,G2330FHARDtalk
-OL,5,     GStephen Sackur is in South            
-OL,6,     GAfrica for a special edition of       
-OL,7,     GHARDtalk on the Road. [S]             
-OL,8,G0000FNewsday
-OL,9,     GLive from Singapore, the latest       
-OL,10,     Ginternational news from the BBC.      
-OL,11,     G[S]                                   
-OL,12,G0030FAsia Business Report
-OL,13,     GLive from Singapore, the              
-OL,14,     Gessential business news as it         
-OL,15,     Gbreaks and a look ahead to the        
-OL,16,     Gnews that will shape the              
-OL,17,     Gbusiness day. [S]                     
-OL,18,G0045FSportsday
-OL,19,     GA round-up of the day's sporting      
-OL,20,     Gaction, plus talking points,          
-OL,21,     Ganalysis and original                 
-OL,22,     Gjournalism. [S]                       
-PN,20602
-SC,0002
-PS,8000
-OL,0,        ECIMSBWebfax     F206A1685658029
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/5
-OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for Thu 1 Jun
-OL,4,G0100FNewsday
-OL,5,     GLive from Singapore, the latest       
-OL,6,     Ginternational news from the BBC.      
-OL,7,     G[S]                                   
-OL,8,G0130FAsia Business Report
-OL,9,     GLive from Singapore, the              
-OL,10,     Gessential business news as it         
-OL,11,     Gbreaks and a look ahead to the        
-OL,12,     Gnews that will shape the              
-OL,13,     Gbusiness day. [S]                     
-OL,14,G0145FSportsday
-OL,15,     GA round-up of the day's sporting      
-OL,16,     Gaction, plus talking points,          
-OL,17,     Ganalysis and original                 
-OL,18,     Gjournalism. [S]                       
-OL,19,G0200FBBC News
-OL,20,     GThe latest news from the BBC. [S]     
-PN,20603
-SC,0003
-PS,8000
-OL,0,        ECIMSBWebfax     F206A1685658029
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/5
-OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for Thu 1 Jun
-OL,4,G0230FAsia Business Report
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G0030FAsia Business Report
 OL,5,     GLive from Singapore, the              
 OL,6,     Gessential business news as it         
 OL,7,     Gbreaks and a look ahead to the        
 OL,8,     Gnews that will shape the              
 OL,9,     Gbusiness day. [S]                     
-OL,10,G0245FSportsday
+OL,10,G0045FSportsday
 OL,11,     GA round-up of the day's sporting      
 OL,12,     Gaction, plus talking points,          
 OL,13,     Ganalysis and original                 
 OL,14,     Gjournalism. [S]                       
-OL,15,G0300FBBC News
+OL,15,G0100FNewsday
+OL,16,     GLive from Singapore, the latest       
+OL,17,     Ginternational news from the BBC.      
+OL,18,     G[S]                                   
+PN,20602
+SC,0002
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1          G2/12
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G0130FAsia Business Report
+OL,5,     GLive from Singapore, the              
+OL,6,     Gessential business news as it         
+OL,7,     Gbreaks and a look ahead to the        
+OL,8,     Gnews that will shape the              
+OL,9,     Gbusiness day. [S]                     
+OL,10,G0145FSportsday
+OL,11,     GA round-up of the day's sporting      
+OL,12,     Gaction, plus talking points,          
+OL,13,     Ganalysis and original                 
+OL,14,     Gjournalism. [S]                       
+OL,15,G0200FBBC News
 OL,16,     GThe latest news from the BBC. [S]     
+OL,17,G0230FAsia Business Report
+OL,18,     GLive from Singapore, the              
+OL,19,     Gessential business news as it         
+OL,20,     Gbreaks and a look ahead to the        
+OL,21,     Gnews that will shape the              
+OL,22,     Gbusiness day. [S]                     
+PN,20603
+SC,0003
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1          G3/12
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G0245FSportsday
+OL,5,     GA round-up of the day's sporting      
+OL,6,     Gaction, plus talking points,          
+OL,7,     Ganalysis and original                 
+OL,8,     Gjournalism. [S]                       
+OL,9,G0300FBBC News
+OL,10,     GThe latest news from the BBC. [S]     
+OL,11,G0330FOur World
+OL,12,     GWith South Africa's crumbling         
+OL,13,     Gpower system leading to regular       
+OL,14,     Gand extensive blackouts, Andrew       
+OL,15,     GHarding uncovers a story of           
+OL,16,     Gcorruption and vested interests.      
+OL,17,     G[S]                                   
+OL,18,G0400FBBC News
+OL,19,     GThe latest news from the BBC. [S]     
 PN,20604
 SC,0004
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1685658029
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/5
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1          G4/12
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for Thu 1 Jun
-OL,4,G0330FOur World
-OL,5,     GWith South Africa's crumbling         
-OL,6,     Gpower system leading to regular       
-OL,7,     Gand extensive blackouts, Andrew       
-OL,8,     GHarding uncovers a story of           
-OL,9,     Gcorruption and vested interests.      
-OL,10,     G[S]                                   
-OL,11,G0400FBBC News
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G0430FHARDtalk
+OL,5,     GZeinab Badawi speaks to the           
+OL,6,     GJamaican-born British poet            
+OL,7,     GLinton Kwesi Johnson. How             
+OL,8,     Grelevant is his work today to         
+OL,9,     Gthe issues that are facing a          
+OL,10,     Gchanging Britain? [S]                 
+OL,11,G0500FBBC News
 OL,12,     GThe latest news from the BBC. [S]     
-OL,13,G0430FHARDtalk
-OL,14,     GZeinab Badawi speaks to the           
-OL,15,     GJamaican-born British poet            
-OL,16,     GLinton Kwesi Johnson. How             
-OL,17,     Grelevant is his work today to         
-OL,18,     Gthe issues that are facing a          
-OL,19,     Gchanging Britain? [S]                 
-OL,20,G0500FBBC News
-OL,21,     GThe latest news from the BBC. [S]     
+OL,13,G0530FWorld Business Report
+OL,14,     GThe latest business news with         
+OL,15,     Ginformed analysis from the            
+OL,16,     Gworld's financial centres. [S]        
+OL,17,G0600FBreakfast
+OL,18,     GThe latest news, sport, business      
+OL,19,     Gand weather from the BBC's            
+OL,20,     GBreakfast team. [S]                   
 PN,20605
 SC,0005
 PS,8000
-OL,0,        ECIMSBWebfax     F206A1685658029
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/5
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1          G5/12
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for Thu 1 Jun
-OL,4,G0530FWorld Business Report
-OL,5,     GThe latest business news with         
-OL,6,     Ginformed analysis from the            
-OL,7,     Gworld's financial centres. [S]        
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G0900FNicky Campbell
+OL,5,     GNicky Campbell takes your calls       
+OL,6,     Gon the day's talking points,          
+OL,7,     Ghearing views and experiences         
+OL,8,     Gfrom across the UK. [S]               
+OL,9,G1100FBBC News
+OL,10,     GThe latest news from the BBC. [S]     
+OL,11,G1130FWorld Business Report
+OL,12,     GThe latest business news with         
+OL,13,     Ginformed analysis from the            
+OL,14,     Gworld's financial centres. [S]        
+OL,15,G1145FBBC News
+OL,16,     GThe latest news from the BBC. [S]     
+OL,17,G1200FBBC News Now
+OL,18,     GAll the big stories, live as          
+OL,19,     Gthey happen, presented by Lucy        
+OL,20,     GHockings. [S]                         
+PN,20606
+SC,0006
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1          G6/12
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G1230FBBC News Now
+OL,5,     GAll the big stories, live as          
+OL,6,     Gthey happen, presented by Lucy        
+OL,7,     GHockings. [S]                         
+OL,8,G1300FBBC News at One
+OL,9,     GThe latest national and               
+OL,10,     Ginternational news from the BBC.      
+OL,11,     G[S,SL]                                
+OL,12,G1330FSportsday
+OL,13,     GA round-up of the day's sporting      
+OL,14,     Gaction, plus talking points,          
+OL,15,     Ganalysis and original                 
+OL,16,     Gjournalism. [S]                       
+OL,17,G1345FBBC News Now
+OL,18,     GAll the big stories, live as          
+OL,19,     Gthey happen, presented by Lucy        
+OL,20,     GHockings. [S]                         
+PN,20607
+SC,0007
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1          G7/12
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G1400FBBC News Now
+OL,5,     GAll the big stories, live as          
+OL,6,     Gthey happen, presented by Lucy        
+OL,7,     GHockings. [S]                         
+OL,8,G1430FWorld Business Report
+OL,9,     GThe latest business news with         
+OL,10,     Ginformed analysis from the            
+OL,11,     Gworld's financial centres. [S]        
+OL,12,G1445FBBC News Now
+OL,13,     GAll the big stories, live as          
+OL,14,     Gthey happen, presented by Lucy        
+OL,15,     GHockings. [S]                         
+OL,16,G1500FVerified Live
+OL,17,     GMatthew Amroliwala presents all       
+OL,18,     Gthe latest global and UK news,        
+OL,19,     Glive from London. [S]                 
+PN,20608
+SC,0008
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1          G8/12
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G1530FVerified Live
+OL,5,     GMatthew Amroliwala presents all       
+OL,6,     Gthe latest global and UK news,        
+OL,7,     Glive from London. [S]                 
+OL,8,G1600FVerified Live
+OL,9,     GMatthew Amroliwala presents all       
+OL,10,     Gthe latest global and UK news,        
+OL,11,     Glive from London. [S]                 
+OL,12,G1630FVerified Live
+OL,13,     GMatthew Amroliwala presents all       
+OL,14,     Gthe latest global and UK news,        
+OL,15,     Glive from London. [S]                 
+OL,16,G1700FVerified Live
+OL,17,     GMatthew Amroliwala presents all       
+OL,18,     Gthe latest global and UK news,        
+OL,19,     Glive from London. [S]                 
+PN,20609
+SC,0009
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1          G9/12
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G1730FVerified Live
+OL,5,     GMatthew Amroliwala presents all       
+OL,6,     Gthe latest global and UK news,        
+OL,7,     Glive from London. [S]                 
+OL,8,G1800FBBC News at Six
+OL,9,     GThe latest national and               
+OL,10,     Ginternational news from the BBC.      
+OL,11,     G[S]                                   
+OL,12,G1830FSportsday
+OL,13,     GA round-up of the day's sporting      
+OL,14,     Gaction, plus talking points,          
+OL,15,     Ganalysis and original                 
+OL,16,     Gjournalism. [S]                       
+OL,17,G1900FThe Daily Global
+OL,18,     GLeading the conversation on key       
+OL,19,     Gglobal issues, with Yalda Hakim.      
+OL,20,     G[S]                                   
+PN,20610
+SC,0010
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1         G10/12
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G1930FThe Daily Global
+OL,5,     GLeading the conversation on key       
+OL,6,     Gglobal issues, with Yalda Hakim.      
+OL,7,     G[S]                                   
+OL,8,G2000FThe Context
+OL,9,     GPresented by Christian Fraser. A      
+OL,10,     Gregular panel of guests from          
+OL,11,     Gacross the political spectrum         
+OL,12,     Gdiscuss the biggest                   
+OL,13,     Ginternational stories of the          
+OL,14,     Gday. [S]                              
+OL,15,G2030FThe Context
+OL,16,     GPresented by Christian Fraser. A      
+OL,17,     Gregular panel of guests from          
+OL,18,     Gacross the political spectrum         
+OL,19,     Gdiscuss the biggest                   
+OL,20,     Ginternational stories of the          
+OL,21,     Gday. [S]                              
+PN,20611
+SC,0011
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1         G11/12
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G2100FThe Context
+OL,5,     GPresented by Christian Fraser. A      
+OL,6,     Gregular panel of guests from          
+OL,7,     Gacross the political spectrum         
+OL,8,     Gdiscuss the biggest                   
+OL,9,     Ginternational stories of the          
+OL,10,     Gday. [S]                              
+OL,11,G2130FThe Context
+OL,12,     GPresented by Christian Fraser. A      
+OL,13,     Gregular panel of guests from          
+OL,14,     Gacross the political spectrum         
+OL,15,     Gdiscuss the biggest                   
+OL,16,     Ginternational stories of the          
+OL,17,     Gday. [S]                              
+OL,18,G2200FBBC News at Ten
+OL,19,     GThe latest national and               
+OL,20,     Ginternational news, with reports      
+OL,21,     Gfrom BBC correspondents               
+OL,22,     Gworldwide. [S]                        
+PN,20612
+SC,0012
+PS,8000
+OL,0,        ECIMSBWebfax     F206A1685661684
+OL,1,W{${$~+$ ~k4~sj5j5~s1         G12/12
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,CProgramme listings for Fri 2 Jun
+OL,4,G2230FNewsnight
+OL,5,     GThe day's important national and      
+OL,6,     Ginternational news stories. With      
+OL,7,     GVictoria Derbyshire. [S]              
+OL,8,G2300FBBC News
+OL,9,     GThe latest news from the BBC. [S]     
+OL,10,G2330FNewswatch
+OL,11,     GYour views on the coverage of         
+OL,12,     Gevents by BBC News, answered by       
+OL,13,     Gthe editors and decision makers       
+OL,14,     Gin charge. [S]                        
+OL,15,G2345FBBC News
+OL,16,     GThe latest news from the BBC. [S]     
+OL,17,G0000FBBC News
+OL,18,     GThe latest news from the BBC. [S]     
