@@ -2,15 +2,15 @@ PN,59901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax     F599A1689176851
+OL,0,        ECIMSBWebfax     F599A1689187821
 OL,1,W~{4{$~k4j5k7 j5j5~sjw=hw1~{4oz%G1/3
 OL,2,W/*%/.!+.!+.!*% "-/.!+,*-'*% /*%/*%V,,,,
 OL,3,CTeletext on the internet
 OL,4,C
 OL,5,GWebfaxFis produced using software that
 OL,6,Femulates the 1970s teletext standard.
-OL,8,FTeletext is widely regarded as being a
-OL,9,Fprecursor to the internet.
+OL,8,FTeletext is widely regarded as being
+OL,9,Fthe forerunner of the internet.
 OL,11,FIt involved the use of spare capacity
 OL,12,Fin the analogue TV signal to transmit
 OL,13,Ftext and low-resolution graphics which
@@ -28,7 +28,7 @@ PN,59902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax     F599A1689176851
+OL,0,        ECIMSBWebfax     F599A1689187821
 OL,1,W~{4{$~k4j5k7 j5j5~sjw=hw1~{4oz%G2/3
 OL,2,W/*%/.!+.!+.!*% "-/.!+,*-'*% /*%/*%V,,,,
 OL,3,CTeletext on the internet
@@ -55,12 +55,12 @@ PN,59903
 SC,0003
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax     F599A1689176851
+OL,0,        ECIMSBWebfax     F599A1689187821
 OL,1,W~{4{$~k4j5k7 j5j5~sjw=hw1~{4oz%G3/3
 OL,2,W/*%/.!+.!+.!*% "-/.!+,*-'*% /*%/*%V,,,,
 OL,3,CTeletext on the internet
 OL,4,C
-OL,5,FThe service utilises a number of data
+OL,5,GWebfaxFutilises a number of data
 OL,6,Fsources to present information in a
 OL,7,Fteletext format:
 OL,9,CGNEWS:Fsource not defined.
@@ -69,11 +69,12 @@ OL,11,CGBUSINESS:Fsource not defined.
 OL,12,CGWEATHER:Fsource not defined.
 OL,13,CGTRAVEL:Fsource not defined.
 OL,14,CGCULTURE:Fsource not defined.
-OL,15,CGTV/RADIO LISTINGS:FFreeview EPG.
-OL,17,FIf you're interested in having your
-OL,18,Fcontent included on theGWebfaxFservice,
-OL,19,Fplease contact us at:
-OL,21, EmCfeedback@webfax.orgG TwC@webfaxttext
+OL,15,CGON THIS DAY/CLEAN FEED:FThe TV Room.
+OL,16,CGTV/RADIO LISTINGS:FFreeview EPG.
+OL,18,FIf you're interested in having your
+OL,19,Fcontent included on theGWebfaxFservice,
+OL,20,Fplease contact us at:
+OL,22, EmCfeedback@webfax.orgG TwC@webfaxttext
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,AMain IndexB   NewsC   SportF   Weather
 FL,101,120,140,200,0,1FC
