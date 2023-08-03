@@ -1,87 +1,22 @@
-PN,10001
-SC,0001
-CT,8,T
-PS,8000
-OL,0,        ECIMSBWebfax     F100A1683938853
+PN,10000
+SC,0000
+PS,c000
+OL,0,        ECIMSBWebfax     F100A1691094846
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
 OL,4,W////%///*//%/% */*%/%/R(,,,,,,,,,,,,,,,
 OL,5,                   B
-OL,6,B]                  \FNews ---------G101
-OL,7,B]AWELCOME...       \BBusiness -----G120
-OL,8,B]                  \FSport --------G140
-OL,9,B]D...to Webfax.    \BTravel -------G160
-OL,10,B]D                 \FTV Listings --G200
-OL,11,B]DThe latest news, \BRadio ListingsG260
-OL,12,B]Dsport, business, \FCulture ------G300
-OL,13,B]Dtravel, weather, \BOn This Day --G320
-OL,14,B]Dfeatures, TV and \FClean Feed ---G340
-OL,15,B]Dradio listings,  \BWeather ------G400
-OL,16,B]Dand lots more,   \FGreen --------G450
-OL,17,B]Din teletext      \BReviews ------G500
-OL,18,B]Dformat.          \FAdvertising --G550
-OL,19,B]D                B\BRound-Up -----G598
+OL,6,MFAll Sorts ----G101BRadio Guide --G260
+OL,7,              -
+OL,8,MBOn This Day --G120FNational News G300
+OL,10,MFClean Feed ---G140BRegional News G301
+OL,12,MBWeather ------G160FNational SportG500
+OL,14,MFTravel -------G180BRegional SportG501
+OL,16,MBTV Guide -----G200FRound-Up -----G698
+OL,18,M      About Webfax ---------- 699
 OL,20,C
-OL,21,G ECfeedback@webfax.org GTC@webfaxttext
-OL,23,B]DAbout Webfax ------------------ 599
-OL,24,A  News   B BusinessC  Sport  FTV Lstngs
-FL,101,120,140,200,0,1FC
-PN,10002
-SC,0002
-CT,8,T
-PS,8000
-OL,0,        ECIMSBWebfax     F100A1683938853
-OL,1,W|4|h4|||h||4|||h||4|4|
-OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
-OL,3,W5j57qjk47!jk5~7}C    the internet
-OL,4,W////%///*//%/% */*%/%/R(,,,,,,,,,,,,,,,
-OL,5,                   B
-OL,6,E]                  \FNews ---------G101
-OL,7,E]GCLEAN FEED       \BBusiness -----G120
-OL,8,E]                  \FSport --------G140
-OL,9,E]CBroadcast news,  \BTravel -------G160
-OL,10,E]Copinion and      \FTV Listings --G200
-OL,11,E]Cinsider info.    \BRadio ListingsG260
-OL,12,E]D                 \FCulture ------G300
-OL,13,E]CWith an emphasis \BOn This Day --G320
-OL,14,E]Con channel       \GClean Feed ---G340
-OL,15,E]Cpresentation,    \BWeather ------G400
-OL,16,E]Cgraphic design,  \FGreen --------G450
-OL,17,E]Ctransmission and \BReviews ------G500
-OL,18,E]Cplayout.         \FAdvertising --G550
-OL,19,E]D                B\BRound-Up -----G598
-OL,20,C
-OL,21,G ECfeedback@webfax.org GTC@webfaxttext
-OL,23,B]DAbout Webfax ------------------ 599
-OL,24,A  News   B BusinessC  Sport  FTV Lstngs
-FL,101,120,140,200,0,1FC
-PN,10003
-SC,0003
-CT,8,T
-PS,8000
-OL,0,        ECIMSBWebfax     F100A1683938853
-OL,1,W|4|h4|||h||4|||h||4|4|
-OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
-OL,3,W5j57qjk47!jk5~7}C    the internet
-OL,4,W////%///*//%/% */*%/%/R(,,,,,,,,,,,,,,,
-OL,5,                   B
-OL,6,A]                  \FNews ---------G101
-OL,7,A]GROUND-UP         \BBusiness -----G120
-OL,8,A]                  \FSport --------G140
-OL,9,A]CA selection of   \BTravel -------G160
-OL,10,A]Ccontent from     \FTV Listings --G200
-OL,11,A]Cacross Webfax.   \BRadio ListingsG260
-OL,12,A]D                 \FCulture ------G300
-OL,13,A]CIncludes the     \BOn This Day --G320
-OL,14,A]Clatest news,     \FClean Feed ---G340
-OL,15,A]Cbusiness, sport, \BWeather ------G400
-OL,16,A]Cweather and TV   \FGreen --------G450
-OL,17,A]Clistings for key \BReviews ------G500
-OL,18,A]CUK channels.     \FAdvertising --G550
-OL,19,A]D                B\GRound-Up -----G598
-OL,20,C
-OL,21,G ECfeedback@webfax.org GTC@webfaxttext
-OL,23,B]DAbout Webfax ------------------ 599
-OL,24,A  News   B BusinessC  Sport  FTV Lstngs
-FL,101,120,140,200,0,1FC
+OL,21,GEmCfeedback@webfax.org GTwC@webfaxttext
+OL,23,B]D           thetvroom.com
+OL,24,AAll SortsBClean FeedCNat NewsFNat Sport
+FL,101,140,300,500,0,100
