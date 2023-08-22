@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692744707
+OL,0,        ECIMSBWebfax     F698A1692748384
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,16 +23,16 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692744707
+OL,0,        ECIMSBWebfax     F698A1692748384
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
-OL,4,W////%///*//%/% */*%/%/R(,,,,,,,,,,,,,,,
+OL,4,W////%///*//%/% */*%/%/V(,,,,,,,,,,,,,,,
 OL,5,                   B
-OL,6,MC         Coming up next on...
-OL,10,W      jw{$~#}j5j5~#}j7k4p0 jw{$
-OL,11,W      *%*%+,'"-.!/ /*-.!  +,'*%
-OL,12,W   ZR "!"!"#! ## # #"##   "#!"!
+OL,6,MC    Coming up next onGRound-Up...
+OL,10,W    j5j5z5~{4k7*hws h7}h7} "!j5
+OL,11,W    "-/.!/*%/*%*% (,' "-'*%/  / "'
+OL,12,W   ZR### #"!#"!"! "#!  #!"!#  #  !
 OL,14, C ...your guide to what's on BBC One,
 OL,16,                          W
 OL,17,C BBC Two, ITV 1, Channel 4W 7s#######k
@@ -41,125 +41,112 @@ OL,19,                           W 5       xj
 OL,20,C  and Channel 5Gright now.W -l,,,,,,<.
 OL,21,                           W  #!    "#
 OL,22,                           W
-OL,23,Rppppppppppppppppppppppppppppppppppppppp
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692744707
+OL,0,        ECIMSBWebfax     F698A1692748384
 OL,1,W{${$~+$ ~k4~k4~s
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for TUE 22 AUG
-OL,4,G2340FQuestion of Sport
-OL,5,     GHost Paddy McGuinness and team
-OL,6,     Gcaptains Sam Quek and Ugo Monye
-OL,7,     Gare joined by Hannah Cockroft,
-OL,8,     GClinton Morrison, Desiree Henry
-OL,9,     Gand Nat Coombs.
-OL,10,G0010FWeather for the Week Ahead
-OL,11,G0015FBBC News
+OL,4,G0015FBBC News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692744707
+OL,0,        ECIMSBWebfax     F698A1692748384
 OL,1,W{${$~+$ k7j5j5~k4
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for TUE 22 AUG
-OL,4,G2315FNorthern Soul
-OL,5,     GThe life of a shy Lancashire
-OL,6,     Gteenager is transformed when he
-OL,7,     Gdiscovers northern soul.
-OL,8,     GContains very strong language
-OL,9,     Gand some upsetting scenes.
-OL,10,G0050FClaimed and Shamed
-OL,11,     GA father and son involved in a
-OL,12,     Gpolice chase end up on the wrong
-OL,13,     Gside of the law.
-OL,14,G0135FMoney for Nothing
-OL,15,     GThe team upcycle a chest of
-OL,16,     Gdrawers, some utility chairs and
-OL,17,     Ga set of trestle table bases.
-OL,18,G0220FCelebrity MasterChef
-OL,19,     GWith Cheryl Hole, Jamelia,
-OL,20,     GLocksmith, Sam Fox and Wynne
-OL,21,     GEvans.
-OL,22,G0320FThis is BBC Two
+OL,4,G0050FClaimed and Shamed
+OL,5,     GA father and son involved in a
+OL,6,     Gpolice chase end up on the wrong
+OL,7,     Gside of the law.
+OL,8,G0135FMoney for Nothing
+OL,9,     GThe team upcycle a chest of
+OL,10,     Gdrawers, some utility chairs and
+OL,11,     Ga set of trestle table bases.
+OL,12,G0220FCelebrity MasterChef
+OL,13,     GWith Cheryl Hole, Jamelia,
+OL,14,     GLocksmith, Sam Fox and Wynne
+OL,15,     GEvans.
+OL,16,G0320FThis is BBC Two
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692744707
-OL,1,W"!j5 n5                        G1/4
+OL,0,        ECIMSBWebfax     F698A1692748384
+OL,1,W"!j5 n5                        G1/3
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for TUE 22 AUG
-OL,4,G2340FThe Suspect
-OL,5,     GThrilling drama series. Joe is
-OL,6,     Gknocked sideways when an old
-OL,7,     Ggrudge rears its head, and he
-OL,8,     Gmust soon dig deep into his own
-OL,9,     Gpast to understand what is
-OL,10,     Ghappening in the present.
-OL,11,G0035FLoose Women
-OL,12,     GJoin the Loose Women panellists
-OL,13,     Gas they interview celebrity
-OL,14,     Gguests and discuss the day's
-OL,15,     Gmost topical issues, from
-OL,16,     Gcurrent affairs to celebrity
-OL,17,     Ggossip and the latest showbiz
-OL,18,     Gnews.
+OL,4,G0035FLoose Women
+OL,5,     GJoin the Loose Women panellists
+OL,6,     Gas they interview celebrity
+OL,7,     Gguests and discuss the day's
+OL,8,     Gmost topical issues, from
+OL,9,     Gcurrent affairs to celebrity
+OL,10,     Ggossip and the latest showbiz
+OL,11,     Gnews.
+OL,12,G0125FStarstruck
+OL,13,     GOlly Murs welcomes the next four
+OL,14,     Gteams of superfans who will be
+OL,15,     Ggoing head to head as they
+OL,16,     Gtransform into their idol for a
+OL,17,     Gvery special performance. Will
+OL,18,     Gthey impress our panel?
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692744707
+OL,0,        ECIMSBWebfax     F698A1692748384
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G1/4
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for TUE 22 AUG
-OL,4,G2305FTop Guns: Inside the RAF
-OL,5,     GAt a time of global tension,
-OL,6,     Gthis new series goes behind the
-OL,7,     Gscenes at RAF Lossiemouth and
-OL,8,     Ginside the cockpit as a fighter
-OL,9,     Gjet faces off against Russian
-OL,10,     Gplanes on NATO's front line.
-OL,11,G0005FRamsay's Kitchen Nightmares USA
-OL,12,     GIn Boston, Gordon Ramsay tries
-OL,13,     Gto help La Galleria 33, run by
-OL,14,     Gsisters Rita and Lisa, who blame
-OL,15,     Gthe restaurant's failures on
-OL,16,     Geverything from the weather to
-OL,17,     Gthe tablecloths.
+OL,4,G0005FRamsay's Kitchen Nightmares USA
+OL,5,     GIn Boston, Gordon Ramsay tries
+OL,6,     Gto help La Galleria 33, run by
+OL,7,     Gsisters Rita and Lisa, who blame
+OL,8,     Gthe restaurant's failures on
+OL,9,     Geverything from the weather to
+OL,10,     Gthe tablecloths.
+OL,11,G0055FCouples Come Dine with Me
+OL,12,     GIn Crewe, Natalie and patriotic
+OL,13,     GTomo host their first-ever
+OL,14,     Gdinner party. Socialites Roly
+OL,15,     Gand Claire offer an unusual ice
+OL,16,     Gcream starter. And is the spice
+OL,17,     Gright on Helen and Deepe's night?
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692744707
-OL,1,W~+$z5~{4~k4~k4~sj5  os!          G1/4
+OL,0,        ECIMSBWebfax     F698A1692748384
+OL,1,W~+$z5~{4~k4~k4~sj5  os!          G1/3
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for TUE 22 AUG
-OL,4,G2335FKiller at the Crime Scene
-OL,5,     GThis epiode explores how the
-OL,6,     Gpolice and their specialist
-OL,7,     Gforensic teams caught evil
-OL,8,     Gmurderer Stephen Marshall,
-OL,9,     Ginfamously known as 'The Jigsaw
-OL,10,     GKiller'.
-OL,11,G0035FTraffic Cops
-OL,12,     GIn one of the Traffic Cops
-OL,13,     Gfastest ever pursuits - a flying
-OL,14,     Gfire extinguisher is launched at
-OL,15,     Gthe cops from a fleeing getaway
-OL,16,     Gcar at 165 miles an hour along
-OL,17,     Gthe M1 motorway.
+OL,4,G0035FTraffic Cops
+OL,5,     GIn one of the Traffic Cops
+OL,6,     Gfastest ever pursuits - a flying
+OL,7,     Gfire extinguisher is launched at
+OL,8,     Gthe cops from a fleeing getaway
+OL,9,     Gcar at 165 miles an hour along
+OL,10,     Gthe M1 motorway.
+OL,11,G0125FPlayOJO Live Casino Show
+OL,12,     GRed or black? Odds or evens?
+OL,13,     GWhichever way you play, get that
+OL,14,     GOJO feeling with two hours of
+OL,15,     Gexciting live roulette every
+OL,16,     Gsingle night! Take us for a spin
+OL,17,     Gand feel the fun at playojo.com.
