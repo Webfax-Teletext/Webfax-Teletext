@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692979725
+OL,0,        ECIMSBWebfax     F698A1692983336
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692979725
+OL,0,        ECIMSBWebfax     F698A1692983336
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692979725
+OL,0,        ECIMSBWebfax     F698A1692983336
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,26 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for FRI 25 AUG
-OL,4,G1630FThe Finish Line
-OL,5,     GRoman Kemp hosts this quiz show
-OL,6,     Gwith sidekick Sarah Greene -
-OL,7,     Gwhere contestants race on moving
-OL,8,     Gpodiums across the studio floor
-OL,9,     Gto try to win #5,000.
-OL,10,G1715FPointless
-OL,11,     GThe quiz returns for another
-OL,12,     Gseries in which contestants try
-OL,13,     Gto score as few points as
-OL,14,     Gpossible by coming up with the
-OL,15,     Ganswers no-one else could think
-OL,16,     Gof.
-OL,17,G1800FBBC News
-OL,18,G1830FRegional News
+OL,4,G1800FBBC News
+OL,5,G1830FRegional News
+OL,6,G1900FAthletics: World Championships
+OL,7,     F2023
+OL,8,     GThe 200m world titles are
+OL,9,     Gdecided, with 2019 winner Dina
+OL,10,     GAsher-Smith and fellow British
+OL,11,     Grecord holder Zharnel Hughes
+OL,12,     Ghoping to be in medal contention
+OL,13,     Gfor Great Britain.
+OL,14,G2100FCelebrity MasterChef
+OL,15,     GThe three remaining celebrities
+OL,16,     Gmust cook a faultless two-course
+OL,17,     Gmeal.
+OL,18,G2130FThe Power of Parker
+OL,19,     GDiane puts her trust in Kath and
+OL,20,     Gsends her on a covert mission.
+OL,21,     GContains some strong language.
+OL,22,G2200FBBC News and Weather
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692979725
+OL,0,        ECIMSBWebfax     F698A1692983336
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -82,94 +86,94 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for FRI 25 AUG
-OL,4,G1630FFlog It!
-OL,5,     GAntiques series. Paul Martin
-OL,6,     Gpresents from the Oxford Union,
-OL,7,     Gwhere Christina Trevanion
-OL,8,     Guncovers a famous fake and Mark
-OL,9,     GStacey receives a religious
-OL,10,     Geducation.
-OL,11,G1730FAthletics: World Championships
-OL,12,     GTriple jump queen Yulimar Rojas
-OL,13,     Gseeks to retain her title in the
-OL,14,     GHungarian capital, while the
-OL,15,     Gmen's sprint relay heats take
-OL,16,     Gplace and the decathlon
-OL,17,     Gcontinues with the high jump.
-OL,18,G1900FRob Burrow: Living with MND
-OL,19,     GA look at the life of rugby
-OL,20,     Gplayer Rob Burrow as he and his
-OL,21,     Gfamily deal with his MND.
+OL,4,G1730FAthletics: World Championships
+OL,5,     GTriple jump queen Yulimar Rojas
+OL,6,     Gseeks to retain her title in the
+OL,7,     GHungarian capital, while the
+OL,8,     Gmen's sprint relay heats take
+OL,9,     Gplace and the decathlon
+OL,10,     Gcontinues with the high jump.
+OL,11,G1900FRob Burrow: Living with MND
+OL,12,     GA look at the life of rugby
+OL,13,     Gplayer Rob Burrow as he and his
+OL,14,     Gfamily deal with his MND.
+OL,15,G1930FBeechgrove Garden
+OL,16,     GCarole Baxter talks about the
+OL,17,     Gmany bugs, blights and diseases
+OL,18,     Gthat can attack your plants:
+OL,19,     Gwhat they are, what damage they
+OL,20,     Gcan do, and how best to stop
+OL,21,     Gthem.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692979725
+OL,0,        ECIMSBWebfax     F698A1692983336
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for FRI 25 AUG
-OL,4,G1700FThe Chase
-OL,5,     GCan Jan, Sonny, Sandy and Danny
-OL,6,     Gwork together as a team and take
-OL,7,     Gdown one of the country's finest
-OL,8,     Gquiz brains? Bradley Walsh hosts
-OL,9,     Gas they try to take the Chaser
-OL,10,     Gdown.
-OL,11,G1800FRegional News
-OL,12,G1830FITV Evening News
-OL,13,G1930FEmmerdale
-OL,14,     GManpreet makes another request,
-OL,15,     GWendy worries about Bob's
-OL,16,     Ghealth, and Bernice and Nicola
-OL,17,     Gplan a competition.
+OL,4,G1800FRegional News
+OL,5,G1830FITV Evening News
+OL,6,G1930FEmmerdale
+OL,7,     GManpreet makes another request,
+OL,8,     GWendy worries about Bob's
+OL,9,     Ghealth, and Bernice and Nicola
+OL,10,     Gplan a competition.
+OL,11,G2000FCoronation Street
+OL,12,     GBilly spoils Paul's plans for
+OL,13,     GPride, Carla feels the force of
+OL,14,     GRyan's temper, Todd and George
+OL,15,     Gadapt to their new work
+OL,16,     Gsituations, and Stephen takes
+OL,17,     GJenny on an unconventional date.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692979725
+OL,0,        ECIMSBWebfax     F698A1692983336
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for FRI 25 AUG
-OL,4,G1700FFour in a Bed
-OL,5,     GOn payment day, the B&Bers argue
-OL,6,     Gabout alarms and clash over
-OL,7,     Gcleanliness before the payments
-OL,8,     Gare revealed and the best value
-OL,9,     GB&B of the week is crowned.
-OL,10,G1730FCome Dine with Me
-OL,11,     GChelmsford. Health centre
-OL,12,     Gmanager Mia treats her guests to
-OL,13,     GIberian flavours, inspired by
-OL,14,     Gher Portuguese heritage. But
-OL,15,     Gwill her very pink house make
-OL,16,     Gher guests feel all at sea?
+OL,4,G1800FThe Simpsons
+OL,5,     GPranksta Rap: Bart fakes his own
+OL,6,     Gkidnapping to avoid being
+OL,7,     Ggrounded after sneaking out of
+OL,8,     Gthe house to go to a rap
+OL,9,     Gconcert. Guest starring 50 Cent
+OL,10,     Gas himself.
+OL,11,G1830FHollyoaks
+OL,12,     GDarren's actions have dangerous
+OL,13,     Gconsequences. Felix tells Sharon
+OL,14,     Ghis plans for him and Mercedes,
+OL,15,     Gbut they leave Warren more
+OL,16,     Gconcerned than ever.
+OL,17,G1900FChannel 4 News
+OL,18,     GChannel 4's flagship news
+OL,19,     Gprogramme. Including the weather.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1692979725
+OL,0,        ECIMSBWebfax     F698A1692983336
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for FRI 25 AUG
-OL,4,G1700F5 News at 5
-OL,5,     GJoin Dan Walker and the team for
-OL,6,     Gthe news that matters to you.
-OL,7,G1800FEggheads
-OL,8,     GTrying to topple the Eggheads
-OL,9,     Gare the Wild Swans. This team
-OL,10,     Gare all members of the same Quiz
-OL,11,     GLeague of London team and take
-OL,12,     Gtheir name from the pub they
-OL,13,     Gquiz at.
-OL,14,G1830FEggheads
-OL,15,     GChallenging the might of our
-OL,16,     Gquiz goliaths are Joey Triviani.
-OL,17,     GThis team of friends test their
-OL,18,     Gquizzing prowess at The Bay
-OL,19,     GHorse Tavern in Manchester.
+OL,4,G1800FEggheads
+OL,5,     GTrying to topple the Eggheads
+OL,6,     Gare the Wild Swans. This team
+OL,7,     Gare all members of the same Quiz
+OL,8,     GLeague of London team and take
+OL,9,     Gtheir name from the pub they
+OL,10,     Gquiz at.
+OL,11,G1830FEggheads
+OL,12,     GChallenging the might of our
+OL,13,     Gquiz goliaths are Joey Triviani.
+OL,14,     GThis team of friends test their
+OL,15,     Gquizzing prowess at The Bay
+OL,16,     GHorse Tavern in Manchester.
