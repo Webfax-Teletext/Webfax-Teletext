@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693051950
+OL,0,        ECIMSBWebfax     F698A1693055561
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693051950
+OL,0,        ECIMSBWebfax     F698A1693055561
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693051950
+OL,0,        ECIMSBWebfax     F698A1693055561
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,30 +55,29 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for SAT 26 AUG
-OL,4,G1310FWeather
-OL,5,G1315FBargain Hunt
-OL,6,     GEric Knowles is at Newmarket
-OL,7,     GAntiques Fair where he
-OL,8,     Gchallenges people to guess what
-OL,9,     Ga mystery item is for. Caroline
-OL,10,     GHawley and Danny Sebastian lend
-OL,11,     Ga helping hand to the teams.
-OL,12,G1400FMoney for Nothing
-OL,13,     GJay Blades is at Walsall
-OL,14,     Grecycling centre to save three
-OL,15,     Gunwanted items from the skip.
-OL,16,G1500FEscape to the Country
-OL,17,     GWanting to be close to the
-OL,18,     Gcoast, a couple from Birmingham
-OL,19,     Gdecide that Cornwall is the
-OL,20,     Gperfect destination for their
-OL,21,     Gescape. Sonali Shah is on hand
-OL,22,     Gto make their dream come true.
+OL,4,G1400FMoney for Nothing
+OL,5,     GJay Blades is at Walsall
+OL,6,     Grecycling centre to save three
+OL,7,     Gunwanted items from the skip.
+OL,8,G1500FEscape to the Country
+OL,9,     GWanting to be close to the
+OL,10,     Gcoast, a couple from Birmingham
+OL,11,     Gdecide that Cornwall is the
+OL,12,     Gperfect destination for their
+OL,13,     Gescape. Sonali Shah is on hand
+OL,14,     Gto make their dream come true.
+OL,15,G1600FGarden Rescue
+OL,16,     GPhilip and Lorraine in Stockport
+OL,17,     Gwant to transform their tired
+OL,18,     Gplot into a stately garden. With
+OL,19,     Ga budget of #4,750 at stake,
+OL,20,     GCharlie takes on the Rich
+OL,21,     Gbrothers to win the pitch.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693051950
+OL,0,        ECIMSBWebfax     F698A1693055561
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -109,82 +108,74 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693051950
+OL,0,        ECIMSBWebfax     F698A1693055561
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 26 AUG
-OL,4,G1310FITV Lunchtime News
-OL,5,     GThe latest headlines from around
-OL,6,     Gthe world at lunchtime with
-OL,7,     Greports and analysis from ITV's
-OL,8,     GCorrespondents, all of which are
-OL,9,     Gfollowed by a national weather
-OL,10,     Gforecast.
-OL,11,G1325FITV Racing: Live from York
-OL,12,     GEd Chamberlin and Francesca
-OL,13,     GCumani present action from York
-OL,14,     Gand Goodwood - the feature
-OL,15,     Gmeeting is the fourth day of the
-OL,16,     G2023 Ebor Festival at York that
-OL,17,     Gincludes the Ebor Handicap.
-OL,18,G1630FTipping Point
-OL,19,     GBen Shephard hosts the quiz show
-OL,20,     Gin which four players take on an
-OL,21,     Gextraordinary machine in the
-OL,22,     Ghope of winning a cash jackpot.
+OL,4,G1325FITV Racing: Live from York
+OL,5,     GEd Chamberlin and Francesca
+OL,6,     GCumani present action from York
+OL,7,     Gand Goodwood - the feature
+OL,8,     Gmeeting is the fourth day of the
+OL,9,     G2023 Ebor Festival at York that
+OL,10,     Gincludes the Ebor Handicap.
+OL,11,G1630FTipping Point
+OL,12,     GBen Shephard hosts the quiz show
+OL,13,     Gin which four players take on an
+OL,14,     Gextraordinary machine in the
+OL,15,     Ghope of winning a cash jackpot.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693051950
+OL,0,        ECIMSBWebfax     F698A1693055561
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 26 AUG
-OL,4,G1235FThe Secret Life of the Zoo
-OL,5,     GMemorable moments from Chester
-OL,6,     GZoo. A pair of Malayan sun bears
-OL,7,     Gneed help with mating. And an
-OL,8,     Gelderly chameleon gets a new
-OL,9,     Glease of life when he's matched
-OL,10,     Gup with a pair of lively females.
-OL,11,G1335FA Place in the Sun
-OL,12,     GGlaswegian singers Gordon and
-OL,13,     GStaci hope to find a holiday
-OL,14,     Ghome in western Tenerife where
-OL,15,     Gthey can escape their busy
-OL,16,     Gschedules. Will any of Lee
-OL,17,     GJuggurnauth's options hit the
-OL,18,     Gright notes?
+OL,4,G1335FA Place in the Sun
+OL,5,     GGlaswegian singers Gordon and
+OL,6,     GStaci hope to find a holiday
+OL,7,     Ghome in western Tenerife where
+OL,8,     Gthey can escape their busy
+OL,9,     Gschedules. Will any of Lee
+OL,10,     GJuggurnauth's options hit the
+OL,11,     Gright notes?
+OL,12,G1440FFour in a Bed
+OL,13,     GThe first visit of the week is
+OL,14,     Gto Abbey Court Guest House in
+OL,15,     GCarlisle. Host Kelly aims to
+OL,16,     Gimpress with plush rooms and
+OL,17,     Gabseiling. But will breakfast
+OL,18,     Gcomplaints send her chances off
+OL,19,     Ga cliff?
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693051950
+OL,0,        ECIMSBWebfax     F698A1693055561
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 26 AUG
-OL,4,G1220FBargain Loving Brits in the Sun
-OL,5,     GDocumentary series. Pest
-OL,6,     Gcontroller Graham tackles
-OL,7,     Gsnakes, ants, cockroaches and a
-OL,8,     Grat. Margaret sells tickets for
-OL,9,     Gher Magical Mystery Tour. "Cat
-OL,10,     Glady" Kelly needs to raise cash.
-OL,11,G1315FBargain Loving Brits in the Sun
-OL,12,     GVince misunderstood exactly what
-OL,13,     Ghe was paying for when he bought
-OL,14,     Ga bar. Former dancer Bambi plans
-OL,15,     Ga racy show to raise cash for a
-OL,16,     Glocal dog rescue.
-OL,17,G1410FBargain-Loving Brits in the Sun
-OL,18,     GJacqui works the night markets
-OL,19,     Gdown on the prom, Victor faces
-OL,20,     Gselling his motorhome of 18
-OL,21,     Gyears, and Gary holds a cake-off
-OL,22,     Gcompetition to raise cash.
+OL,4,G1410FBargain-Loving Brits in the Sun
+OL,5,     GJacqui works the night markets
+OL,6,     Gdown on the prom, Victor faces
+OL,7,     Gselling his motorhome of 18
+OL,8,     Gyears, and Gary holds a cake-off
+OL,9,     Gcompetition to raise cash.
+OL,10,G1510FBargain-Loving Brits in the Sun
+OL,11,     GHorse rescue boss Jill rushes to
+OL,12,     Gthe aid of an abandoned animal.
+OL,13,     GGlamorous young couple Nicole
+OL,14,     Gand Aaron want to travel the
+OL,15,     Gworld putting on fitness
+OL,16,     Gbootcamps.
+OL,17,G1605FJane McDonald: Cruising the Med
+OL,18,     GHighlights of Jane McDonald's
+OL,19,     Gcruises. The pick of Jane's trip
+OL,20,     Garound the Med.
