@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693127801
+OL,0,        ECIMSBWebfax     F698A1693131411
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693127801
+OL,0,        ECIMSBWebfax     F698A1693131411
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693127801
+OL,0,        ECIMSBWebfax     F698A1693131411
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,28 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for SUN 27 AUG
-OL,4,G1000FSunday Morning Live
-OL,5,     GHolly Hamilton and Adrian Chiles
-OL,6,     Gask if it is time for Britain to
-OL,7,     Gpay slavery reparations and
-OL,8,     Gwhether drug use should be
-OL,9,     Gdecriminalised.
-OL,10,G1100FFinding Love: A Believer's Guide
-OL,11,     GThirty-three-year-old Kiran is
-OL,12,     Glooking for a life partner and
-OL,13,     Ghas decided to lean on her Sikh
-OL,14,     Gfaith and community to help her
-OL,15,     Gfind 'the one'.
-OL,16,G1145FHomes Under the Hammer
-OL,17,     GMartin and Martel follow
-OL,18,     Gprogress on a bungalow in Cabus
-OL,19,     Gin Lancashire and a three-storey
-OL,20,     Ghouse in Newport in Wales.
+OL,4,G1100FFinding Love: A Believer's Guide
+OL,5,     GThirty-three-year-old Kiran is
+OL,6,     Glooking for a life partner and
+OL,7,     Ghas decided to lean on her Sikh
+OL,8,     Gfaith and community to help her
+OL,9,     Gfind 'the one'.
+OL,10,G1145FHomes Under the Hammer
+OL,11,     GMartin and Martel follow
+OL,12,     Gprogress on a bungalow in Cabus
+OL,13,     Gin Lancashire and a three-storey
+OL,14,     Ghouse in Newport in Wales.
+OL,15,G1215FBargain Hunt
+OL,16,     GNatasha Raskin Sharp and the
+OL,17,     Gteams unearth all sorts of
+OL,18,     Gobjects at the Oswestry
+OL,19,     GShowground with experts Kate
+OL,20,     GBliss and Ben Cooper.
+OL,21,G1300FBBC News
+OL,22,G1310FWeather for the Week Ahead
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693127801
+OL,0,        ECIMSBWebfax     F698A1693131411
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -84,30 +86,25 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for SUN 27 AUG
-OL,4,G0930FSaturday Kitchen Best Bites
-OL,5,     GMatt Tebbutt takes a look back
-OL,6,     Gat some of his favourite recipes
-OL,7,     Gand best moments from Saturday
-OL,8,     GKitchen.
-OL,9,G1100FMary Berry's Quick Cooking
-OL,10,     GMary makes her first ever visit
-OL,11,     Gto Rome to explore a cooking
-OL,12,     Gculture that she has always
-OL,13,     Gadored. Inspired by her Italian
-OL,14,     Gadventure, Mary whips up some
-OL,15,     Girresistible dishes.
-OL,16,G1130FStrawbridge over the Drawbridge
-OL,17,     GJames Strawbridge visits
-OL,18,     GGreyabbey House, home of Bill
-OL,19,     Gand Daphne Montgomery. After
-OL,20,     Guncovering the house's history,
-OL,21,     Gcan he create a meal which
-OL,22,     Greflects its past?
+OL,4,G1100FMary Berry's Quick Cooking
+OL,5,     GMary makes her first ever visit
+OL,6,     Gto Rome to explore a cooking
+OL,7,     Gculture that she has always
+OL,8,     Gadored. Inspired by her Italian
+OL,9,     Gadventure, Mary whips up some
+OL,10,     Girresistible dishes.
+OL,11,G1130FStrawbridge over the Drawbridge
+OL,12,     GJames Strawbridge visits
+OL,13,     GGreyabbey House, home of Bill
+OL,14,     Gand Daphne Montgomery. After
+OL,15,     Guncovering the house's history,
+OL,16,     Gcan he create a meal which
+OL,17,     Greflects its past?
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693127801
+OL,0,        ECIMSBWebfax     F698A1693131411
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -132,7 +129,7 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693127801
+OL,0,        ECIMSBWebfax     F698A1693131411
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -156,26 +153,28 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693127801
+OL,0,        ECIMSBWebfax     F698A1693131411
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SUN 27 AUG
-OL,4,G1015FFriends
-OL,5,     GWhile Phoebe delivers triplets,
-OL,6,     GJoey experiences his own pain.
-OL,7,     GMonica plans a date with a male
-OL,8,     Gnurse to spite Chandler.
-OL,9,G1040FFriends
-OL,10,     GRoss tells Rachel that he cannot
-OL,11,     Gbe around her once Emily comes
-OL,12,     Gto New York. Chandler and Monica
-OL,13,     Gtry to have a romantic weekend.
-OL,14,G1110FCalendar Girls
-OL,15,     GComedy drama starring Helen
-OL,16,     GMirren and Julie Walters. 12
-OL,17,     Gladies from Yorkshire find a
-OL,18,     Gsurprising way to raise money
-OL,19,     Gfor charity - by appearing in a
-OL,20,     Gnude calendar.
+OL,4,G1110FCalendar Girls
+OL,5,     GComedy drama starring Helen
+OL,6,     GMirren and Julie Walters. 12
+OL,7,     Gladies from Yorkshire find a
+OL,8,     Gsurprising way to raise money
+OL,9,     Gfor charity - by appearing in a
+OL,10,     Gnude calendar.
+OL,11,G1215FEntertainment News on 5
+OL,12,     GA daily round-up of showbiz news
+OL,13,     Gand gossip from around the
+OL,14,     Gworld, focusing on celebrities,
+OL,15,     Gmovies, music and entertainment.
+OL,16,G1220FCalendar Girls
+OL,17,     GComedy drama starring Helen
+OL,18,     GMirren and Julie Walters. 12
+OL,19,     Gladies from Yorkshire find a
+OL,20,     Gsurprising way to raise money
+OL,21,     Gfor charity - by appearing in a
+OL,22,     Gnude calendar.
