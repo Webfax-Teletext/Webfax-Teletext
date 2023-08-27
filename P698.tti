@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693109737
+OL,0,        ECIMSBWebfax     F698A1693113348
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693109737
+OL,0,        ECIMSBWebfax     F698A1693113348
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,94 +47,127 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693109737
+OL,0,        ECIMSBWebfax     F698A1693113348
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for SAT 26 AUG
-OL,4,G0130FBBC News
+OL,3,CProgramme listings for SUN 27 AUG
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0835FMatch of the Day
+OL,9,     GGary Lineker presents highlights
+OL,10,     Gand analysis of the latest round
+OL,11,     Gof Premier League games, with
+OL,12,     GManchester United hosting
+OL,13,     GNottingham Forest and West Ham
+OL,14,     Gtravelling to Brighton.
+OL,15,G1000FSunday Morning Live
+OL,16,     GHolly Hamilton and Adrian Chiles
+OL,17,     Gask if it is time for Britain to
+OL,18,     Gpay slavery reparations and
+OL,19,     Gwhether drug use should be
+OL,20,     Gdecriminalised.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693109737
+OL,0,        ECIMSBWebfax     F698A1693113348
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for SAT 26 AUG
-OL,4,G0255FThis is BBC Two
-OL,5,G0555FAthletics: World Championships
-OL,6,     GCoverage of the 2023 World
-OL,7,     GAthletics Championships in
-OL,8,     GBudapest.
+OL,3,CProgramme listings for SUN 27 AUG
+OL,4,G0555FAthletics: World Championships
+OL,5,     GCoverage of the 2023 World
+OL,6,     GAthletics Championships in
+OL,7,     GBudapest.
+OL,8,G0835FCountryfile
+OL,9,     GAnita Rani heads to Somerset to
+OL,10,     Gmeet sheep farmers Andy and Jen,
+OL,11,     Gand their sons, as they prepare
+OL,12,     Gto transform Fernhill Farm for
+OL,13,     Gan annual festival.
+OL,14,G0930FSaturday Kitchen Best Bites
+OL,15,     GMatt Tebbutt takes a look back
+OL,16,     Gat some of his favourite recipes
+OL,17,     Gand best moments from Saturday
+OL,18,     GKitchen.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693109737
+OL,0,        ECIMSBWebfax     F698A1693113348
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for SAT 26 AUG
-OL,4,G0505FMonster Carp
-OL,5,     GCroatia: Ali Hamidi, Tom Dove
-OL,6,     Gand Neil Spooner go on one big
-OL,7,     GCroatian adventure searching for
-OL,8,     Ghuge king carp - their journey
-OL,9,     Gturns into one of the most
-OL,10,     Gmemorable fishing trips ever.
+OL,3,CProgramme listings for SUN 27 AUG
+OL,4,G0605FLloyd of the Flies
+OL,5,     GThe Spider and the Fly: Animated
+OL,6,     Gseries. When he discovers that
+OL,7,     GPB thinks that spiders are
+OL,8,     Gharmless, Lloyd tries to
+OL,9,     Gconvince her that they're all
+OL,10,     Gfly-eating monsters.
+OL,11,G0620FLloyd of the Flies
+OL,12,     GRipe for Development: Animated
+OL,13,     Gseries. Upon hearing Berry is
+OL,14,     Gmoving into his own place, Lloyd
+OL,15,     Gdoesn't want to be thought of as
+OL,16,     Gimmature and lies about moving
+OL,17,     Ginto a big mango.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693109737
+OL,0,        ECIMSBWebfax     F698A1693113348
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for SAT 26 AUG
-OL,4,G0455FLocation, Location, Location
-OL,5,     GPhil Spencer and Kirstie Allsopp
-OL,6,     Gcatch up with Jo Beck, who
-OL,7,     Gwanted a permanent family home,
-OL,8,     Gand Chae and Corinna, who were
-OL,9,     Glooking for perfection in Fife.
-OL,10,G0550FJamie's Comfort Food
-OL,11,     GJamie Oliver takes the nation's
-OL,12,     Gfavourite dishes to the next
-OL,13,     Glevel. In this episode, he cooks
-OL,14,     Gthe ultimate chicken Kiev.
+OL,3,CProgramme listings for SUN 27 AUG
+OL,4,G0605FCheers
+OL,5,     GI'll Be Seeing You Part 2: Sam
+OL,6,     Gand Diane are pushed to breaking
+OL,7,     Gpoint when she has her portrait
+OL,8,     Gpainted behind his back. Will
+OL,9,     GSam be furious when he finds out?
+OL,10,G0630FCheers
+OL,11,     GThe Rebound Part 1: Coach asks
+OL,12,     GDiane to come back to the bar
+OL,13,     Gwhen Sam returns to his old bad
+OL,14,     Ghabits. She recommends a
+OL,15,     Gpsychiatrist, Dr Frasier Crane,
+OL,16,     Gwho might be able to help.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693109737
+OL,0,        ECIMSBWebfax     F698A1693113348
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for SAT 26 AUG
-OL,4,G0420FBritain's Great Cathedrals
-OL,5,     GHistory series. Tony Robinson
-OL,6,     Gvisits York Minster, a backdrop
-OL,7,     Gto some of the most dramatic
-OL,8,     Gevents in British history that
-OL,9,     Ghas survived fires, war and
-OL,10,     Gsubsidence.
-OL,11,G0540FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the
-OL,14,     Gworld, focusing on celebrities,
-OL,15,     Gmovies, music and entertainment.
-OL,16,G0550FMilkshake! Monkey Amazing
-OL,17,     FAdventures
-OL,18,     GA cheeky monkey travels across
-OL,19,     Gthe country, getting into
-OL,20,     Ghijinks with his friends.
+OL,3,CProgramme listings for SUN 27 AUG
+OL,4,G0610FPip and Posy
+OL,5,     GPosy promises to play roly polys
+OL,6,     Gwith Pip but forgets she is also
+OL,7,     Gmeant to be playing in the
+OL,8,     Gsandpit with Frankie! She tries
+OL,9,     Gto play with both but wears
+OL,10,     Gherself out running between
+OL,11,     Ggames.
+OL,12,G0620FBen and Holly's Little Kingdom
+OL,13,     GElf Joke Day: Impish animation.
+OL,14,     GHolly and Ben help the Wise Old
+OL,15,     GElf play a trick on Nanny Plum.
+OL,16,     GShe doesn't see the funny side,
+OL,17,     Gso decides to turn him into a
+OL,18,     Ggiant snail!
