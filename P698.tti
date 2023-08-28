@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693221697
+OL,0,        ECIMSBWebfax     F698A1693225311
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693221697
+OL,0,        ECIMSBWebfax     F698A1693225311
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693221697
+OL,0,        ECIMSBWebfax     F698A1693225311
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,28 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for MON 28 AUG
-OL,4,G1215FBargain Hunt
-OL,5,     GEric Knowles presents from
-OL,6,     GKingston in Surrey, with experts
-OL,7,     GThomas Forrester and Gary Pe.
-OL,8,G1300FBBC News
-OL,9,G1320FRegional News
-OL,10,G1330FMoney for Nothing
-OL,11,     GSarah Moore rescues a picnic
-OL,12,     Grug, a set of chairs and a
-OL,13,     Gdisplay cabinet from the skips.
-OL,14,G1430FRick Stein's Cornwall
-OL,15,     GRick forages for mussels in his
-OL,16,     Gfavourite rock pools, tours
-OL,17,     GBodmin Moor's dark past with his
-OL,18,     Gson Jack and cooks a foolproof
-OL,19,     Gsouffle with artisanal Cornish
-OL,20,     Ggoat's cheese.
+OL,4,G1320FRegional News
+OL,5,G1330FMoney for Nothing
+OL,6,     GSarah Moore rescues a picnic
+OL,7,     Grug, a set of chairs and a
+OL,8,     Gdisplay cabinet from the skips.
+OL,9,G1430FRick Stein's Cornwall
+OL,10,     GRick forages for mussels in his
+OL,11,     Gfavourite rock pools, tours
+OL,12,     GBodmin Moor's dark past with his
+OL,13,     Gson Jack and cooks a foolproof
+OL,14,     Gsouffle with artisanal Cornish
+OL,15,     Ggoat's cheese.
+OL,16,G1500FEscape to the Country
+OL,17,     GA couple hope their #400,000
+OL,18,     Gbudget will buy them a slice of
+OL,19,     Grural bliss in Moray in
+OL,20,     GScotland, where Jules Hudson is
+OL,21,     Geager to show them the very best
+OL,22,     Gproperty on offer.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693221697
+OL,0,        ECIMSBWebfax     F698A1693225311
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -84,98 +86,100 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for MON 28 AUG
-OL,4,G1000FBBC News
-OL,5,G1300FImpossible
-OL,6,     GThe quiz show where players must
-OL,7,     Gavoid the Impossible answer to
-OL,8,     Gstay in the competition. 21
-OL,9,     Gpeople begin the week, but how
-OL,10,     Gmany of them will survive to
-OL,11,     Gface the #10,000 question?
-OL,12,G1345FEggheads
-OL,13,     GJeremy Vine hosts the show where
-OL,14,     Gevery day a new team of
-OL,15,     Gchallengers take on probably the
-OL,16,     Ggreatest quiz team in Britain.
-OL,17,G1415FMake Me a Dealer
-OL,18,     GPaul Martin teaches two wannabe
-OL,19,     Gantiques dealers the tricks of
-OL,20,     Gthe trade. Today, in Liverpool,
-OL,21,     Gshop manager Dean is up against
-OL,22,     Gmosaic artist Freya.
+OL,4,G1300FImpossible
+OL,5,     GThe quiz show where players must
+OL,6,     Gavoid the Impossible answer to
+OL,7,     Gstay in the competition. 21
+OL,8,     Gpeople begin the week, but how
+OL,9,     Gmany of them will survive to
+OL,10,     Gface the #10,000 question?
+OL,11,G1345FEggheads
+OL,12,     GJeremy Vine hosts the show where
+OL,13,     Gevery day a new team of
+OL,14,     Gchallengers take on probably the
+OL,15,     Ggreatest quiz team in Britain.
+OL,16,G1415FMake Me a Dealer
+OL,17,     GPaul Martin teaches two wannabe
+OL,18,     Gantiques dealers the tricks of
+OL,19,     Gthe trade. Today, in Liverpool,
+OL,20,     Gshop manager Dean is up against
+OL,21,     Gmosaic artist Freya.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693221697
+OL,0,        ECIMSBWebfax     F698A1693225311
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for MON 28 AUG
-OL,4,G1000FThis Morning
-OL,5,     GMagazine show with news and
-OL,6,     Gtopical items, celebrity guests,
-OL,7,     Gexpert advice, real life
-OL,8,     Gstories, competitions and a mix
-OL,9,     Gof cookery, health, beauty,
-OL,10,     Glifestyle and more.
-OL,11,G1230FLoose Women
-OL,12,     GJoin the Loose Women panellists
-OL,13,     Gas they interview celebrity
-OL,14,     Gguests and discuss the day's
-OL,15,     Gmost topical issues, from
-OL,16,     Gcurrent affairs to celebrity
-OL,17,     Ggossip and the latest showbiz
-OL,18,     Gnews.
+OL,4,G1230FLoose Women
+OL,5,     GJoin the Loose Women panellists
+OL,6,     Gas they interview celebrity
+OL,7,     Gguests and discuss the day's
+OL,8,     Gmost topical issues, from
+OL,9,     Gcurrent affairs to celebrity
+OL,10,     Ggossip and the latest showbiz
+OL,11,     Gnews.
+OL,12,G1345FITV Lunchtime News
+OL,13,     GThe latest headlines from around
+OL,14,     Gthe world at lunchtime with
+OL,15,     Greports and analysis from ITV's
+OL,16,     GCorrespondents, all of which are
+OL,17,     Gfollowed by a national weather
+OL,18,     Gforecast.
+OL,19,G1355FRegional News
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693221697
+OL,0,        ECIMSBWebfax     F698A1693225311
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for MON 28 AUG
-OL,4,G1210FCome Dine with Me
-OL,5,     GStroud. Second host Elliot has
-OL,6,     Gmade a good impression on one of
-OL,7,     Ghis guests, but others are
-OL,8,     Gannoyed by simmering dinner
-OL,9,     Gtable tensions and boastful
-OL,10,     Gclaims - about livestock.
-OL,11,G1240FCome Dine with Me
-OL,12,     GStroud. Belarusian Tatsy serves
-OL,13,     Gup a taste of her culture and
-OL,14,     Gheritage complete with Russian
-OL,15,     Gdancing and pretend figure
-OL,16,     Gskating. But will guest grumbles
-OL,17,     Gleave her night on thin ice?
+OL,4,G1310FCome Dine with Me
+OL,5,     GStroud. Marketing executive Liv
+OL,6,     Gserves up a menu inspired by
+OL,7,     GItaly, despite having never been
+OL,8,     Gthere! Will her arancini and
+OL,9,     Ghomemade ravioli make up for her
+OL,10,     Grather lumpy panna cotta?
+OL,11,G1340FCome Dine with Me
+OL,12,     GStroud. There's rice rivalry on
+OL,13,     Gthe final night, as radio
+OL,14,     Gpresenter Kate serves up a
+OL,15,     Grisotto similar to Mel's. But
+OL,16,     Gcan Kate's magical table
+OL,17,     Gdecoration bag her the grand?
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693221697
+OL,0,        ECIMSBWebfax     F698A1693225311
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for MON 28 AUG
-OL,4,G1115FStorm Huntley
-OL,5,     GStorm Huntley carries on the
-OL,6,     Gdiscussion and takes your calls
-OL,7,     Gto discuss the biggest stories
-OL,8,     Gof the day.
-OL,9,G1240FAlexis Conran
-OL,10,     GAlexis Conran hears from you,
-OL,11,     Gtalking about the important
-OL,12,     Gstories and getting your
-OL,13,     Gopinions and views on them.
-OL,14,G1340F5 News at Lunchtime
-OL,15,     GNational and international news.
-OL,16,G1345FHome and Away
-OL,17,     GRose and Mali come to an
-OL,18,     Gagreement. Irene and John turn
-OL,19,     Gheads. Felicity's nightmare is
-OL,20,     Gnot over.
+OL,4,G1240FAlexis Conran
+OL,5,     GAlexis Conran hears from you,
+OL,6,     Gtalking about the important
+OL,7,     Gstories and getting your
+OL,8,     Gopinions and views on them.
+OL,9,G1340F5 News at Lunchtime
+OL,10,     GNational and international news.
+OL,11,G1345FHome and Away
+OL,12,     GRose and Mali come to an
+OL,13,     Gagreement. Irene and John turn
+OL,14,     Gheads. Felicity's nightmare is
+OL,15,     Gnot over.
+OL,16,G1415FJoe Kidd
+OL,17,     GOld-fashioned western starring
+OL,18,     GClint Eastwood and Robert
+OL,19,     GDuvall. A bounty hunter joins a
+OL,20,     Gposse hired to hunt down a band
+OL,21,     Gof Mexican Americans fighting
+OL,22,     Gfor their land.
