@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693507140
+OL,0,        ECIMSBWebfax     F698A1693510750
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693507140
+OL,0,        ECIMSBWebfax     F698A1693510750
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693507140
+OL,0,        ECIMSBWebfax     F698A1693510750
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,28 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for THU 31 AUG
-OL,4,G1930FEastEnders
-OL,5,     GThe Knights reel from recent
-OL,6,     Gevents, Cindy makes a decision,
-OL,7,     Gand Alfie puts a roof over an
-OL,8,     Gold friend's head.
-OL,9,G2000FCelebrity MasterChef
-OL,10,     GThe semi-finals continue as the
-OL,11,     Gcelebrities battle for a place
-OL,12,     Gin the next round.
-OL,13,G2100FAmbulance
-OL,14,     GA busy night shift for the
-OL,15,     Gambulance service as they are
-OL,16,     Galerted to an infectious disease
-OL,17,     Goutbreak at Fairfield General
-OL,18,     GHospital.
-OL,19,G2200FBBC News and Weather
-OL,20,G2230FRegional News
+OL,4,G2000FCelebrity MasterChef
+OL,5,     GThe semi-finals continue as the
+OL,6,     Gcelebrities battle for a place
+OL,7,     Gin the next round.
+OL,8,G2100FAmbulance
+OL,9,     GA busy night shift for the
+OL,10,     Gambulance service as they are
+OL,11,     Galerted to an infectious disease
+OL,12,     Goutbreak at Fairfield General
+OL,13,     GHospital.
+OL,14,G2200FBBC News and Weather
+OL,15,G2230FRegional News
+OL,16,G2240FGreen Book
+OL,17,     GIn 1962, Tony Lip gets taken on
+OL,18,     Gas a driver for African American
+OL,19,     Gpianist Donald Shirley. Contains
+OL,20,     Gsome strong language.
+OL,21,G0040FWeather for the Week Ahead
+OL,22,G0045FBBC News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693507140
+OL,0,        ECIMSBWebfax     F698A1693510750
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -105,79 +107,72 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693507140
+OL,0,        ECIMSBWebfax     F698A1693510750
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 31 AUG
-OL,4,G1930FEmmerdale
-OL,5,     GThere is trouble for Nate and
-OL,6,     GCaleb, Suni jumps at an
-OL,7,     Gopportunity, and Amelia is
-OL,8,     Gdisheartened.
-OL,9,G2030FE-Bikes and Scooters: Trouble...
-OL,10,     GOn The Road? Tonight. Whether
-OL,11,     Gprivately owned or rented,
-OL,12,     Gelectric bikes and scooters are
-OL,13,     Ga common sight on our roads...
-OL,14,     Gbut do they cause more harm than
-OL,15,     Ggood? Adam Shaw reports.
-OL,16,G2100FThe Tower
-OL,17,     GCrime thriller series. When
-OL,18,     GSteve alerts Sarah to the danger
-OL,19,     Gawaiting Lizzie at her home,
-OL,20,     GSarah races to her aid and they
-OL,21,     Gface the desperate Brannon
-OL,22,     Gtogether in a grisly climax.
+OL,4,G2030FE-Bikes and Scooters: Trouble...
+OL,5,     GOn The Road? Tonight. Whether
+OL,6,     Gprivately owned or rented,
+OL,7,     Gelectric bikes and scooters are
+OL,8,     Ga common sight on our roads...
+OL,9,     Gbut do they cause more harm than
+OL,10,     Ggood? Adam Shaw reports.
+OL,11,G2100FThe Tower
+OL,12,     GCrime thriller series. When
+OL,13,     GSteve alerts Sarah to the danger
+OL,14,     Gawaiting Lizzie at her home,
+OL,15,     GSarah races to her aid and they
+OL,16,     Gface the desperate Brannon
+OL,17,     Gtogether in a grisly climax.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693507140
+OL,0,        ECIMSBWebfax     F698A1693510750
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 31 AUG
-OL,4,G1900FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G2000FThe Dog House
-OL,8,     GCan timid puppy Harry and grumpy
-OL,9,     GWestie Hamish find new owners?
-OL,10,     GAnd will Lily the beagle do
-OL,11,     Ganother runner or stay put for a
-OL,12,     Gcuddle with ex-copper Stuart and
-OL,13,     Ghis family?
-OL,14,G2100FScrew
-OL,15,     GPrison drama. Leigh doubts her
-OL,16,     Gteam's loyalties when she
-OL,17,     Gdiscovers the identity of the
-OL,18,     Gundercover cop. Rose worries
-OL,19,     Gabout a new arrival: a double
-OL,20,     Gmurderer.
+OL,4,G2000FThe Dog House
+OL,5,     GCan timid puppy Harry and grumpy
+OL,6,     GWestie Hamish find new owners?
+OL,7,     GAnd will Lily the beagle do
+OL,8,     Ganother runner or stay put for a
+OL,9,     Gcuddle with ex-copper Stuart and
+OL,10,     Ghis family?
+OL,11,G2100FScrew
+OL,12,     GPrison drama. Leigh doubts her
+OL,13,     Gteam's loyalties when she
+OL,14,     Gdiscovers the identity of the
+OL,15,     Gundercover cop. Rose worries
+OL,16,     Gabout a new arrival: a double
+OL,17,     Gmurderer.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693507140
+OL,0,        ECIMSBWebfax     F698A1693510750
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 31 AUG
-OL,4,G1900FWales' Most Scenic Railway
-OL,5,     FJourneys
-OL,6,     GEscape with us on a railway that
-OL,7,     Gweaves in and out of England and
-OL,8,     GWales aboard the grande dame of
-OL,9,     Gluxury heritage trains, the
-OL,10,     GNorthern Belle.
-OL,11,G2000FPuzzling with Lucy Worsley
-OL,12,     GIn the final round before the
-OL,13,     Gplay-offs, Lucy Worsley puts
-OL,14,     Gplayers from Leeds, Pontypool,
-OL,15,     GNorfolk, Belfast, Derbyshire and
-OL,16,     GLondon through their paces in
-OL,17,     Gfive demanding rounds of puzzles.
+OL,4,G2000FPuzzling with Lucy Worsley
+OL,5,     GIn the final round before the
+OL,6,     Gplay-offs, Lucy Worsley puts
+OL,7,     Gplayers from Leeds, Pontypool,
+OL,8,     GNorfolk, Belfast, Derbyshire and
+OL,9,     GLondon through their paces in
+OL,10,     Gfive demanding rounds of puzzles.
+OL,11,G2100FThe Royal Borough:..
+OL,12,     G...Kensington and Chelsea. At
+OL,13,     Gthe Chelsea Flower Show the
+OL,14,     Gpressure is on to create a
+OL,15,     Ggarden in King Charles' honour.
+OL,16,     GPlus the "party architect" who
+OL,17,     Gdesigns shindigs for the super
+OL,18,     Grich.
