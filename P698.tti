@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693629926
+OL,0,        ECIMSBWebfax     F698A1693633540
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693629926
+OL,0,        ECIMSBWebfax     F698A1693633540
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,82 +47,129 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693629926
+OL,0,        ECIMSBWebfax     F698A1693633540
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for FRI 1 SEP
-OL,4,G0120FBBC News
+OL,3,CProgramme listings for SAT 2 SEP
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen
+OL,9,     GHost Matt Tebbutt is joined by
+OL,10,     Gchefs Julie Lin and Philip
+OL,11,     GKhoury, and by special guest
+OL,12,     GScott Mills. Drinks expert Helen
+OL,13,     GMcGinn picks the wines to go
+OL,14,     Gwith the studio dishes.
+OL,15,G1130FThe Great Food Guys
+OL,16,     GChef Nick Nairn and Dougie
+OL,17,     GVipond go vegetarian, cooking a
+OL,18,     Gspiced roast root vegetable
+OL,19,     Gcurry with handmade chapatis.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693629926
+OL,0,        ECIMSBWebfax     F698A1693633540
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for FRI 1 SEP
-OL,4,G0350FThis is BBC Two
+OL,3,CProgramme listings for SAT 2 SEP
+OL,4,G0645FHey Duggee
+OL,5,     GThe Tooth Brushing Badge. Duggee
+OL,6,     Gand the Squirrels meet a lion
+OL,7,     Gwith unfortunate breath and
+OL,8,     Gteach him a special song to help
+OL,9,     Ghim learn how to brush his teeth.
+OL,10,G0650FHey Duggee
+OL,11,     GThe Camouflage Badge. The
+OL,12,     GSquirrels meet a chameleon
+OL,13,     Gcalled Cosey and learn about how
+OL,14,     Gto blend into their
+OL,15,     Gsurroundings, earning their
+OL,16,     GCamouflage Badges in the process!
+OL,17,G0700FSupertato
+OL,18,     GTablet Takeover. Evil Pea tries
+OL,19,     Gto take over the supermarket
+OL,20,     Gwith a tablet that she switches
+OL,21,     Gto evil mode.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693629926
+OL,0,        ECIMSBWebfax     F698A1693633540
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 1 SEP
-OL,4,G0505FKatie Piper's Breakfast Show
-OL,5,     GKatie returns for another
-OL,6,     Gedition packed with wonderful
-OL,7,     Gguests and inspiring experts -
-OL,8,     Gin the studio this time are
-OL,9,     Gcomedian Laura Smyth and and
-OL,10,     GEmmerdale star Amy Walsh.
+OL,3,CProgramme listings for SAT 2 SEP
+OL,4,G0625FLove Your Weekend with Alan
+OL,5,     FTitchmarsh
+OL,6,     GJoining Alan Titchmarsh - Tamzin
+OL,7,     GOuthwaite discusses stepping
+OL,8,     Gback to the 60's for her
+OL,9,     Gthrilling new drama, and former
+OL,10,     GEastEnders star Annette Badland
+OL,11,     Gon Midsomer.
+OL,12,G0820FITV News
+OL,13,G0825FOti Mabuse's Breakfast Show
+OL,14,     GOti is brightening up our
+OL,15,     Gmornings with her own chat show
+OL,16,     G- this time she's joined in the
+OL,17,     Gstudio by comedian Kae Kurd and
+OL,18,     Gactor Hayley Tamaddon.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693629926
+OL,0,        ECIMSBWebfax     F698A1693633540
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 1 SEP
-OL,4,G0545FJamie's Comfort Food
-OL,5,     GJamie Oliver takes the nation's
-OL,6,     Gfavourite dishes to the next
-OL,7,     Glevel. In this episode, he cooks
-OL,8,     Gmarshmallow pavlova.
-OL,9,G0555FThe King of Queens
-OL,10,     GBrace Yourself: Spence loses his
-OL,11,     Gjob so Kelly and Deacon hire him
-OL,12,     Gto help with the house. Arthur
-OL,13,     Gwants to change his appearance
-OL,14,     Gafter Major draws an
-OL,15,     Gunflattering picture of him.
+OL,3,CProgramme listings for SAT 2 SEP
+OL,4,G0640FThe King of Queens
+OL,5,     GOffensive Fowl: Doug decides to
+OL,6,     Gbecome a vegetarian after nearly
+OL,7,     Grunning over a chicken in the
+OL,8,     Gstreet. But it proves a huge
+OL,9,     Gstruggle for him and Carrie to
+OL,10,     Ggive up fast food.
+OL,11,G0705FCheers
+OL,12,     GA Ditch in Time: Sam's
+OL,13,     Gflirtation with Diane's friend
+OL,14,     GAmanda lands him in trouble when
+OL,15,     Gshe becomes obsessive about
+OL,16,     Gtheir romance and he's afraid to
+OL,17,     Gget out of the situation.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1693629926
+OL,0,        ECIMSBWebfax     F698A1693633540
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 1 SEP
-OL,4,G0545FPaw Patrol
-OL,5,     GSix brave puppies, captained by
-OL,6,     Ga tech-savvy ten-year-old boy,
-OL,7,     GRyder, work together to
-OL,8,     Gaccomplish high-stakes rescue
-OL,9,     Gmissions to safeguard the
-OL,10,     Gresidents of the Adventure Bay
-OL,11,     Gcommunity.
+OL,3,CProgramme listings for SAT 2 SEP
+OL,4,G0640FPirata and Capitano
+OL,5,     GWhile sailing on the Great
+OL,6,     GOcean, Pirata and Capitano
+OL,7,     Gstumble upon a little being who
+OL,8,     Ghas a strange ability: when he
+OL,9,     Gis scared, he duplicates to
+OL,10,     Gbecomes stronger!
+OL,11,G0650FFireman Sam
+OL,12,     GNorman-Man tests his newfound
+OL,13,     Gsuperpower of invisibility when
+OL,14,     GJoe's robotic dog goes on the
+OL,15,     Grampage, ending Sam's hopes of a
+OL,16,     Gmonth without a fire.
