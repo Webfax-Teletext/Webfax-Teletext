@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694001942
+OL,0,        ECIMSBWebfax     F698A1694005555
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694001942
+OL,0,        ECIMSBWebfax     F698A1694005555
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694001942
+OL,0,        ECIMSBWebfax     F698A1694005555
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,30 +55,28 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for WED 6 SEP
-OL,4,G1300FBBC News
-OL,5,G1330FRegional News
-OL,6,G1345FDoctors
-OL,7,     GThe Mill's staff try to deal
-OL,8,     Gwith the shocking events of the
-OL,9,     Gprevious night.
-OL,10,G1415FMoney for Nothing
-OL,11,     GJJ Chalmers is at Wallyford
-OL,12,     Grecycling centre on Scotland's
-OL,13,     Geast coast hoping to uncover
-OL,14,     Gthree lucrative items amongst
-OL,15,     Gthe skip-bound trash.
-OL,16,G1500FEscape to the Country
-OL,17,     GAlistair Appleton is in the
-OL,18,     GDevon countryside helping a
-OL,19,     Gmother and daughter duo find a
-OL,20,     Ghome for three generations of
-OL,21,     Gtheir family and an eco-camping
-OL,22,     Gbusiness.
+OL,4,G1345FDoctors
+OL,5,     GThe Mill's staff try to deal
+OL,6,     Gwith the shocking events of the
+OL,7,     Gprevious night.
+OL,8,G1415FMoney for Nothing
+OL,9,     GJJ Chalmers is at Wallyford
+OL,10,     Grecycling centre on Scotland's
+OL,11,     Geast coast hoping to uncover
+OL,12,     Gthree lucrative items amongst
+OL,13,     Gthe skip-bound trash.
+OL,14,G1500FEscape to the Country
+OL,15,     GAlistair Appleton is in the
+OL,16,     GDevon countryside helping a
+OL,17,     Gmother and daughter duo find a
+OL,18,     Ghome for three generations of
+OL,19,     Gtheir family and an eco-camping
+OL,20,     Gbusiness.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694001942
+OL,0,        ECIMSBWebfax     F698A1694005555
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -86,56 +84,59 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for WED 6 SEP
-OL,4,G1300FImpossible
-OL,5,     GThe quiz show where players must
-OL,6,     Gavoid Impossible answers to stay
-OL,7,     Gin the competition. 21 people
-OL,8,     Gstart today's show but how many
-OL,9,     Gof them will survive to face the
-OL,10,     G#10,000 question?
-OL,11,G1345FEggheads
-OL,12,     GJeremy Vine hosts the show where
-OL,13,     Gevery day a new team of
-OL,14,     Gchallengers take on probably the
-OL,15,     Ggreatest quiz team in Britain.
-OL,16,G1415FMurder, Mystery and My Family
-OL,17,     GBarristers Sasha Wass and Jeremy
-OL,18,     GDein investigate the mysterious
-OL,19,     Gmurder of a Yorkshire farm owner
-OL,20,     Gin the 1930s. Did a clandestine
-OL,21,     Glove affair lead to a brutal
-OL,22,     Gkilling?
+OL,4,G1345FEggheads
+OL,5,     GJeremy Vine hosts the show where
+OL,6,     Gevery day a new team of
+OL,7,     Gchallengers take on probably the
+OL,8,     Ggreatest quiz team in Britain.
+OL,9,G1415FMurder, Mystery and My Family
+OL,10,     GBarristers Sasha Wass and Jeremy
+OL,11,     GDein investigate the mysterious
+OL,12,     Gmurder of a Yorkshire farm owner
+OL,13,     Gin the 1930s. Did a clandestine
+OL,14,     Glove affair lead to a brutal
+OL,15,     Gkilling?
+OL,16,G1500FThe Wonder of Animals
+OL,17,     GChris Packham explores what
+OL,18,     Gmakes animal groups successful.
+OL,19,     GHow are foxes bucking the trend
+OL,20,     Gof carnivores struggling to
+OL,21,     Gcompete in a world with a
+OL,22,     Grocketing human population?
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694001942
+OL,0,        ECIMSBWebfax     F698A1694005555
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 6 SEP
-OL,4,G1230FLoose Women
-OL,5,     GJoin the Loose Women panellists
-OL,6,     Gas they interview celebrity
-OL,7,     Gguests and discuss the day's
-OL,8,     Gmost topical issues, from
-OL,9,     Gcurrent affairs to celebrity
-OL,10,     Ggossip and the latest showbiz
-OL,11,     Gnews.
-OL,12,G1330FITV Lunchtime News
-OL,13,     GThe latest headlines from around
-OL,14,     Gthe world at lunchtime with
-OL,15,     Greports and analysis from ITV's
-OL,16,     GCorrespondents, all of which are
-OL,17,     Gfollowed by a national weather
-OL,18,     Gforecast.
-OL,19,G1355FRegional News
+OL,4,G1400FJames Martin's Spanish Adventure
+OL,5,     GBilbao: James visits an indoor
+OL,6,     Gfood market in Bilbao, takes a
+OL,7,     Gfunicular to a famous steak
+OL,8,     Grestaurant, heads to a winery on
+OL,9,     Ga seabed and learns how La
+OL,10,     GCarolina is made.
+OL,11,G1500FLingo
+OL,12,     GBattling it out this time are
+OL,13,     Gfriends Rebecca and Rachel from
+OL,14,     GLiverpool, married couple Kaz
+OL,15,     Gand Rich from North Wales, and
+OL,16,     GDeb with her mum Emily from
+OL,17,     GSolihull and London.
+OL,18,G1600FTipping Point
+OL,19,     GBen Shephard hosts the quiz show
+OL,20,     Gin which four players take on an
+OL,21,     Gextraordinary machine in the
+OL,22,     Ghope of winning a cash jackpot.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694001942
+OL,0,        ECIMSBWebfax     F698A1694005555
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -159,23 +160,23 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694001942
+OL,0,        ECIMSBWebfax     F698A1694005555
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 6 SEP
-OL,4,G1240FAlexis Conran
-OL,5,     GAlexis Conran hears from you,
-OL,6,     Gtalking about the important
-OL,7,     Gstories and getting your
-OL,8,     Gopinions and views on them.
-OL,9,G1340F5 News at Lunchtime
-OL,10,     GNational and international news.
-OL,11,G1345FHome and Away
-OL,12,     GFelicity and Tane are running
-OL,13,     Gout of time and ideas to come up
-OL,14,     Gwith money for the blackmailer.
-OL,15,     GJustin is back in action. Can
-OL,16,     GJohn end his tenancy at chateau
-OL,17,     GIrene?
+OL,4,G1345FHome and Away
+OL,5,     GFelicity and Tane are running
+OL,6,     Gout of time and ideas to come up
+OL,7,     Gwith money for the blackmailer.
+OL,8,     GJustin is back in action. Can
+OL,9,     GJohn end his tenancy at chateau
+OL,10,     GIrene?
+OL,11,G1415FMy Mother's Secret
+OL,12,     GWhen Ashley finds her biological
+OL,13,     Gmother online, she is thrilled,
+OL,14,     Gbut building a relationship with
+OL,15,     Gher long-lost mother proves to
+OL,16,     Gbe more dangerous than Ashley
+OL,17,     Gcould have imagined.
