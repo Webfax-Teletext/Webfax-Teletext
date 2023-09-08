@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694165531
+OL,0,        ECIMSBWebfax     F698A1694169147
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694165531
+OL,0,        ECIMSBWebfax     F698A1694169147
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694165531
+OL,0,        ECIMSBWebfax     F698A1694169147
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,25 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for FRI 8 SEP
-OL,4,G1000FCritical Incident
-OL,5,     GIt's a busy night in Newcastle
-OL,6,     Gfor Northumbria Police as they
-OL,7,     Gwork the night-time shift.
-OL,8,G1045FExpert Witness
-OL,9,     GEvidence unearthed by a forensic
-OL,10,     Garchaeologist helps to catch a
-OL,11,     Gyoung woman's killer.
-OL,12,G1115FHomes Under the Hammer
-OL,13,     GProperty in West Bromwich,
-OL,14,     GGawthorpe and Lowestoft are
-OL,15,     Gbought at online auctions by
-OL,16,     Gdevelopers who have plans to
-OL,17,     Gmake money on their investments.
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GProperty in West Bromwich,
+OL,6,     GGawthorpe and Lowestoft are
+OL,7,     Gbought at online auctions by
+OL,8,     Gdevelopers who have plans to
+OL,9,     Gmake money on their investments.
+OL,10,G1215FBargain Hunt
+OL,11,     GRoo Irvine presents the show
+OL,12,     Gfrom Detling in Kent. Experts
+OL,13,     GIrita Marriott and Nick Hall
+OL,14,     Ghelp the reds and blues as they
+OL,15,     Gshop for antiques to sell at
+OL,16,     Gauction.
+OL,17,G1300FBBC News
+OL,18,G1330FRegional News
+OL,19,G1345FFive Bedrooms: Two Battlers
+OL,20,     GLiz turns do-gooder despite
+OL,21,     Gobjections, especially from
+OL,22,     GManju, and Ben faces temptation.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694165531
+OL,0,        ECIMSBWebfax     F698A1694169147
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -100,7 +105,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694165531
+OL,0,        ECIMSBWebfax     F698A1694169147
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -125,52 +130,54 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694165531
+OL,0,        ECIMSBWebfax     F698A1694169147
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for FRI 8 SEP
-OL,4,G0955FChateau DIY
-OL,5,     GAt Chateau du Doux, bad weather
-OL,6,     Gthreatens to derail a wedding.
-OL,7,     GBen has his work cut out with a
-OL,8,     Gchandelier light fixture. And
-OL,9,     GBillie attempts to paint new
-OL,10,     Glife into old furniture.
-OL,11,G1055FGeorge Clarke's Amazing Spaces
-OL,12,     GThe ingenious builds this time
-OL,13,     Ginclude a gin bar made from a
-OL,14,     Grail wagon, a narrowboat
-OL,15,     Gconversion, and an epic
-OL,16,     Gcathedral near Madrid hand-built
-OL,17,     Gover 50 years by one man.
-OL,18,G1155FChannel 4 News Summary
-OL,19,     GChannel 4's midday news summary.
-OL,26,@mD@Ksp
+OL,4,G1055FGeorge Clarke's Amazing Spaces
+OL,5,     GThe ingenious builds this time
+OL,6,     Ginclude a gin bar made from a
+OL,7,     Grail wagon, a narrowboat
+OL,8,     Gconversion, and an epic
+OL,9,     Gcathedral near Madrid hand-built
+OL,10,     Gover 50 years by one man.
+OL,11,G1155FChannel 4 News Summary
+OL,12,     GChannel 4's midday news summary.
+OL,13,G1200FLive: Steph's Packed Lunch
+OL,14,     GSteph McGovern presents her live
+OL,15,     Glunchtime show featuring
+OL,16,     Gcelebrity guests, fantastic food
+OL,17,     Gand the best entertainment,
+OL,18,     Glifestyle and consumer stories
+OL,19,     Gmaking the headlines.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694165531
+OL,0,        ECIMSBWebfax     F698A1694169147
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for FRI 8 SEP
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss
-OL,6,     Gthe latest news and get your
-OL,7,     Gviews and opinions of the day.
-OL,8,G1115FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories
-OL,12,     Gof the day.
-OL,13,G1240FAlexis Conran
-OL,14,     GAlexis Conran hears from you,
-OL,15,     Gtalking about the important
-OL,16,     Gstories and getting your
-OL,17,     Gopinions and views on them.
-OL,18,G1340F5 News at Lunchtime
-OL,19,     GNational and international news.
+OL,4,G1115FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories
+OL,8,     Gof the day.
+OL,9,G1240FAlexis Conran
+OL,10,     GAlexis Conran hears from you,
+OL,11,     Gtalking about the important
+OL,12,     Gstories and getting your
+OL,13,     Gopinions and views on them.
+OL,14,G1340F5 News at Lunchtime
+OL,15,     GNational and international news.
+OL,16,G1345FHome and Away
+OL,17,     GKirby makes it clear for Theo
+OL,18,     Gand Justin that they will only
+OL,19,     Ghave purely professional
+OL,20,     Grelationships from now on.
+OL,21,     GJustin is on the hunt. Irene
+OL,22,     Gfeels alone and lonely.
