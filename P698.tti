@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694148664
+OL,0,        ECIMSBWebfax     F698A1694152278
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694148664
+OL,0,        ECIMSBWebfax     F698A1694152278
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,76 +47,132 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694148664
+OL,0,        ECIMSBWebfax     F698A1694152278
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for THU 7 SEP
-OL,4,G0015FBBC News
+OL,3,CProgramme listings for FRI 8 SEP
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FCritical Incident
+OL,12,     GIt's a busy night in Newcastle
+OL,13,     Gfor Northumbria Police as they
+OL,14,     Gwork the night-time shift.
+OL,15,G1045FExpert Witness
+OL,16,     GEvidence unearthed by a forensic
+OL,17,     Garchaeologist helps to catch a
+OL,18,     Gyoung woman's killer.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694148664
+OL,0,        ECIMSBWebfax     F698A1694152278
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for THU 7 SEP
-OL,4,G0325FThis is BBC Two
+OL,3,CProgramme listings for FRI 8 SEP
+OL,4,G0615FHomes Under the Hammer
+OL,5,     GTerraces in Durham and Beddau,
+OL,6,     Gand a majestic-looking period
+OL,7,     Gsemi-detached in Crewe are sold
+OL,8,     Gat auction.
+OL,9,G0715FMoney for Nothing
+OL,10,     GSarah Moore rescues a wooden
+OL,11,     Gcabinet, four chairs and a metal
+OL,12,     Gtrunk from the skips.
+OL,13,G0800FGardeners' World
+OL,14,     GMonty shows us how to take
+OL,15,     Gcuttings from herbs and prunes
+OL,16,     Gsummer raspberries.
+OL,17,G0900FNicky Campbell
+OL,18,     GNicky Campbell takes your calls
+OL,19,     Gon the day's talking points,
+OL,20,     Ghearing views and experiences
+OL,21,     Gfrom across the UK.
+OL,22,G1000FBBC News
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694148664
+OL,0,        ECIMSBWebfax     F698A1694152278
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for THU 7 SEP
-OL,4,G0505FOti Mabuse's Breakfast Show
-OL,5,     GOti is brightening up our
-OL,6,     Gmornings with her own chat show
-OL,7,     G- this time she's joined in the
-OL,8,     Gstudio by comedian Kae Kurd and
-OL,9,     Gactor Hayley Tamaddon.
+OL,3,CProgramme listings for FRI 8 SEP
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GAdvice on how to deal with a
+OL,9,     Grelationship break-up, Mark
+OL,10,     GHeyes' style guide for the new
+OL,11,     Gseason, and all of the latest
+OL,12,     Gbreaking soap news - including a
+OL,13,     Gshock Corrie crash!
+OL,14,G1000FThis Morning
+OL,15,     GMagazine show with news and
+OL,16,     Gtopical items, celebrity guests,
+OL,17,     Gexpert advice, real life
+OL,18,     Gstories, competitions and a mix
+OL,19,     Gof cookery, health, beauty,
+OL,20,     Glifestyle and more.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694148664
+OL,0,        ECIMSBWebfax     F698A1694152278
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for THU 7 SEP
-OL,4,G0540FBeat the Chef
-OL,5,     GDesserts are on the menu as a
-OL,6,     Gpassionate amateur cook competes
-OL,7,     Gagainst James Tanner, former
-OL,8,     Gchef of Britain's Restaurant of
-OL,9,     Gthe Year, to make their version
-OL,10,     Gof a plum pithivier.
+OL,3,CProgramme listings for FRI 8 SEP
+OL,4,G0645FCheers
+OL,5,     GRescue Me: Frasier has proposed
+OL,6,     Gto Diane but instead of
+OL,7,     Ganswering, she dashes to the
+OL,8,     Gphone to call Sam, hoping he'll
+OL,9,     Gdeclare undying love and rush to
+OL,10,     GItaly to stop the wedding.
+OL,11,G0710FCheers
+OL,12,     GBirth, Death, Love and Rice:
+OL,13,     GFrasier visits the bar and
+OL,14,     Ginforms Sam that Diane is now
+OL,15,     Gworking in a convent. Sam hires
+OL,16,     GWoody, who was a friend of
+OL,17,     GCoach's, to work at Cheers.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694148664
+OL,0,        ECIMSBWebfax     F698A1694152278
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for THU 7 SEP
-OL,4,G0545FPaw Patrol
-OL,5,     GSix brave puppies, captained by
-OL,6,     Ga tech-savvy ten-year-old boy,
-OL,7,     GRyder, work together to
-OL,8,     Gaccomplish high-stakes rescue
-OL,9,     Gmissions to safeguard the
-OL,10,     Gresidents of the Adventure Bay
-OL,11,     Gcommunity.
+OL,3,CProgramme listings for FRI 8 SEP
+OL,4,G0645FFireman Sam
+OL,5,     GKing of the Mountain: When Tom
+OL,6,     Gand Moose get stuck up a tall
+OL,7,     Gtree while showing off their
+OL,8,     Gwilderness skills, it's up to
+OL,9,     Gthe young Pioneers to be
+OL,10,     Gresourceful and get help.
+OL,11,G0700FThomas & Friends All...
+OL,12,     GEngines Go! When Salty shares a
+OL,13,     Gsea shanty containing the clues
+OL,14,     Gto a hidden pirate treasure,
+OL,15,     GThomas and Percy follow the
+OL,16,     Gclues across Sodor to search for
+OL,17,     Git together.
