@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694320810
+OL,0,        ECIMSBWebfax     F698A1694324422
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694320810
+OL,0,        ECIMSBWebfax     F698A1694324422
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,95 +47,137 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694320810
+OL,0,        ECIMSBWebfax     F698A1694324422
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for SAT 9 SEP
-OL,4,G0150FBBC News
+OL,3,CProgramme listings for SUN 10 SEP
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0900FSunday with Laura Kuenssberg
+OL,9,     GLaura Kuenssberg's guests are
+OL,10,     GAlex Chalk MP, Jonathan Reynolds
+OL,11,     GMP, Admiral Sir Tony Radakin and
+OL,12,     GMark Milley.
+OL,13,G1000FGreat North Run 2023
+OL,14,     GGabby Logan presents live
+OL,15,     Gcoverage of the 2023 AJ Bell
+OL,16,     GGreat North Run, the world's
+OL,17,     Gbiggest half-marathon. The
+OL,18,     Gevent, notably, will be Sir Mo
+OL,19,     GFarah's final race.
+OL,20,G1400FBBC News
+OL,21,G1410FWeather for the Week Ahead
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694320810
+OL,0,        ECIMSBWebfax     F698A1694324422
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for SAT 9 SEP
-OL,4,G0350FThis is BBC Two
+OL,3,CProgramme listings for SUN 10 SEP
+OL,4,G0605FGlorious Gardens from Above
+OL,5,     GHorticulturist Christine Walkden
+OL,6,     Gvisits the Beth Chatto Gardens
+OL,7,     Gand RHS Hyde Hall, and boards a
+OL,8,     Gvintage Thames sailing barge for
+OL,9,     Ga trip on the Blackwater Estuary.
+OL,10,G0650FCountryfile: Dame Judi Dench
+OL,11,     FSpecial
+OL,12,     GIn a special episode, Dame Judi
+OL,13,     GDench reveals her love of the
+OL,14,     Gcountryside.
+OL,15,G0745FGardeners' World
+OL,16,     GMonty plants bulbs in pots,
+OL,17,     Gincluding hyacinths and
+OL,18,     Gdaffodils.
+OL,19,G0845FBeechgrove Garden
+OL,20,     GWith autumn looming, there is
+OL,21,     Gstill plenty to do for Kirsty
+OL,22,     GWilson and Calum Clunie.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694320810
+OL,0,        ECIMSBWebfax     F698A1694324422
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for SAT 9 SEP
-OL,4,G0505FJames Martin's Spanish Adventure
-OL,5,     GAsturias: James meets an off-
-OL,6,     Ggrid family in Asturias, samples
-OL,7,     Gfabada stew and Urbies cheese,
-OL,8,     Gvisits a restaurant famous for
-OL,9,     Gits sardines and cooks a steak
-OL,10,     Gsandwich.
+OL,3,CProgramme listings for SUN 10 SEP
+OL,4,G0625FJames Martin's Saturday Morning
+OL,5,     GJames is back in the kitchen,
+OL,6,     Gand this time he's joined down
+OL,7,     Gin Hampshire by actor, writer
+OL,8,     Gand comedian Ben Miller and
+OL,9,     Gchefs Levi Roots and Paul Foster.
+OL,10,G0820FITV News
+OL,11,G0825FKatie Piper's Breakfast Show
+OL,12,     GJoining Katie in the studio this
+OL,13,     Gtime are singer and author JB
+OL,14,     GGill and comedian Angela Barnes,
+OL,15,     Gand there's also top advice from
+OL,16,     Ga positivity psychologist and a
+OL,17,     Gcrafting workshop.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694320810
+OL,0,        ECIMSBWebfax     F698A1694324422
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for SAT 9 SEP
-OL,4,G0345FHollyoaks Omnibus
-OL,5,     GHunter faces the police. A
-OL,6,     Gstruggling Charlie isolates
-OL,7,     Ghimself. Ella receives her DNA
-OL,8,     Gresults. Sally has a rude
-OL,9,     Gawakening. And Mercedes and
-OL,10,     GWarren grow closer.
-OL,11,G0550FBeat the Chef
-OL,12,     GAn amateur cook competes with
-OL,13,     Gtop chef Clodagh McKenna to make
-OL,14,     Gtheir version of prawn, chorizo
-OL,15,     Gand halloumi wraps. It's a
-OL,16,     Gdeceptively simple dish that
-OL,17,     Gleads to interesting results.
+OL,3,CProgramme listings for SUN 10 SEP
+OL,4,G0640FCheers
+OL,5,     GDiane's Nightmare: Diane is
+OL,6,     Ghaunted by bad dreams about
+OL,7,     GAndy, the ex-con actor who tried
+OL,8,     Gto strangle her. Sam and Frasier
+OL,9,     Goffer reassurance but she's sure
+OL,10,     Gher life is in danger.
+OL,11,G0705FCheers
+OL,12,     GI Will Gladly Pay You Tuesday:
+OL,13,     GDiane entrusts Sam with a
+OL,14,     Gvaluable book - signed by Ernest
+OL,15,     GHemingway - as security for the
+OL,16,     Gmoney he lent her to buy it.
+OL,17,     GWill the volume be safe?
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694320810
+OL,0,        ECIMSBWebfax     F698A1694324422
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for SAT 9 SEP
-OL,4,G0520FHouse Doctor
-OL,5,     GUS interior designer Ann Maurice
-OL,6,     Glays down the law to those whose
-OL,7,     Ghouses need updating to make a
-OL,8,     Gsale. Will she succeed in
-OL,9,     Gprescribing what they need?
-OL,10,G0545FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the
-OL,13,     Gworld, focusing on celebrities,
-OL,14,     Gmovies, music and entertainment.
-OL,15,G0550FMilkshake! Monkey Amazing
-OL,16,     FAdventures
-OL,17,     GLive action series featuring an
-OL,18,     Ginquisitive puppet monkey.
-OL,19,     GMilkshake! Monkey visits
-OL,20,     GScotland's capital city and
-OL,21,     Glearns about traditional
-OL,22,     GScottish clothing and music.
+OL,3,CProgramme listings for SUN 10 SEP
+OL,4,G0640FPirata and Capitano
+OL,5,     GA Couci-Yum recipe contest has
+OL,6,     Gbeen organized between Roberto
+OL,7,     Gand Lil Hoop, the Chef of The
+OL,8,     GCouci-coucis, who has trouble
+OL,9,     Gaccepting his defeat..
+OL,10,G0650FFireman Sam
+OL,11,     GCGI-animation. Norman is looking
+OL,12,     Gafter Auntie Phyllis' dog, but a
+OL,13,     Gsimple game of fetch turns bad
+OL,14,     Gwhen Lady Puffle-Paws gets
+OL,15,     Gcaught up in the river's current.
+OL,16,G0700FThomas and Friends
+OL,17,     GCGI escapades of the blue
+OL,18,     Gengine. Connor breaks a coupling
+OL,19,     Grod and, after repairs, goes
+OL,20,     Gfrom the fastest engine on Sodor
+OL,21,     Gto the slowest with his newfound
+OL,22,     Gcaution.
