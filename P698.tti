@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694595280
+OL,0,        ECIMSBWebfax     F698A1694598893
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694595280
+OL,0,        ECIMSBWebfax     F698A1694598893
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694595280
+OL,0,        ECIMSBWebfax     F698A1694598893
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,28 +55,27 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for WED 13 SEP
-OL,4,G0915FMorning Live
-OL,5,     GConversation, advice and great
-OL,6,     Gcompany to make your morning.
-OL,7,G1000FCritical Incident
-OL,8,     GA police officer is the victim
-OL,9,     Gof a brutal assault, two
-OL,10,     Gparamedics are attacked in the
-OL,11,     Gback of their ambulance, and a
-OL,12,     GNorthampton PC works hard to
-OL,13,     Gtackle knife crime in the city.
-OL,14,G1045FExpert Witness
-OL,15,     GA food expert shows what killed
-OL,16,     Ga man, and facial reconstruction
-OL,17,     Ghelps identify a body.
-OL,18,G1115FHomes Under the Hammer
-OL,19,     GFeaturing properties in Pudsey,
-OL,20,     GWillenhall and Rochdale.
+OL,4,G1045FExpert Witness
+OL,5,     GA food expert shows what killed
+OL,6,     Ga man, and facial reconstruction
+OL,7,     Ghelps identify a body.
+OL,8,G1115FHomes Under the Hammer
+OL,9,     GFeaturing properties in Pudsey,
+OL,10,     GWillenhall and Rochdale.
+OL,11,G1215FBargain Hunt
+OL,12,     GEric Knowles presents from
+OL,13,     GBrackley in Northamptonshire,
+OL,14,     Gwith experts Richard Madley and
+OL,15,     GStephanie Connell. Eric also
+OL,16,     Gdiscovers a marvel of Victorian
+OL,17,     Gtimekeeping.
+OL,18,G1300FBBC News
+OL,19,G1330FRegional News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694595280
+OL,0,        ECIMSBWebfax     F698A1694598893
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -84,76 +83,79 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for WED 13 SEP
-OL,4,G0900FNicky Campbell
-OL,5,     GNicky Campbell takes your calls
-OL,6,     Gon the day's talking points,
-OL,7,     Ghearing views and experiences
-OL,8,     Gfrom across the UK.
-OL,9,G1000FBBC News
-OL,10,G1115FPolitics Live
-OL,11,     GThe big political issues of the
-OL,12,     Gday.
-OL,13,G1300FImpossible
-OL,14,     GCan players avoid giving
-OL,15,     GImpossible answers and stay in
-OL,16,     Gthe running for a #10,000
-OL,17,     Gjackpot?
-OL,18,G1345FEggheads
-OL,19,     GTeams from all over the UK
-OL,20,     Gbattle to beat the formidable
-OL,21,     GEggheads.
+OL,4,G1000FBBC News
+OL,5,G1115FPolitics Live
+OL,6,     GThe big political issues of the
+OL,7,     Gday.
+OL,8,G1300FImpossible
+OL,9,     GCan players avoid giving
+OL,10,     GImpossible answers and stay in
+OL,11,     Gthe running for a #10,000
+OL,12,     Gjackpot?
+OL,13,G1345FEggheads
+OL,14,     GTeams from all over the UK
+OL,15,     Gbattle to beat the formidable
+OL,16,     GEggheads.
+OL,17,G1415FMurder, Mystery and My Family
+OL,18,     GThe barristers investigate the
+OL,19,     Gviolent assault and murder of a
+OL,20,     Gteenage girl in 1918.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694595280
+OL,0,        ECIMSBWebfax     F698A1694598893
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 13 SEP
-OL,4,G0900FLorraine
-OL,5,     GTheresa May joins Lorraine in
-OL,6,     Gthe studio to talk about the
-OL,7,     Gabuse of power in government and
-OL,8,     Glife after No 10. Plus, Dermot
-OL,9,     GO'Leary reveals all about his
-OL,10,     Glatest children's book.
-OL,11,G1000FThis Morning
-OL,12,     GMagazine show with news and
-OL,13,     Gtopical items, celebrity guests,
-OL,14,     Gexpert advice, real life
-OL,15,     Gstories, competitions and a mix
-OL,16,     Gof cookery, health, beauty,
-OL,17,     Glifestyle and more.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real life
+OL,8,     Gstories, competitions and a mix
+OL,9,     Gof cookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GJoin the Loose Women panellists
+OL,13,     Gas they interview celebrity
+OL,14,     Gguests and discuss the day's
+OL,15,     Gmost topical issues, from
+OL,16,     Gcurrent affairs to celebrity
+OL,17,     Ggossip and the latest showbiz
+OL,18,     Gnews.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694595280
+OL,0,        ECIMSBWebfax     F698A1694598893
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 13 SEP
-OL,4,G0925FFrasier
-OL,5,     GThe Love You Fake: Frasier and
-OL,6,     Ghis neighbour Cam attempt to put
-OL,7,     Gan end to their feud because of
-OL,8,     Gtheir parents' supposed love
-OL,9,     Gaffair.
-OL,10,G0955FChateau DIY
-OL,11,     GAlison and Zion bicker while
-OL,12,     Gmoving an old polytunnel. Tim
-OL,13,     Gand Sasha get inventive creating
-OL,14,     Ga sumptuous bridal suite, and
-OL,15,     Gthe Cherry family start a large-
-OL,16,     Gscale kitchen project.
+OL,4,G0955FChateau DIY
+OL,5,     GAlison and Zion bicker while
+OL,6,     Gmoving an old polytunnel. Tim
+OL,7,     Gand Sasha get inventive creating
+OL,8,     Ga sumptuous bridal suite, and
+OL,9,     Gthe Cherry family start a large-
+OL,10,     Gscale kitchen project.
+OL,11,G1055FGeorge Clarke's Amazing Spaces
+OL,12,     GGeorge meets a father and son
+OL,13,     Gwho are converting an oil rig
+OL,14,     Gescape boat into a floating
+OL,15,     Gholiday home, and visits a one-
+OL,16,     Gof-a-kind rooftop chill-out den
+OL,17,     Gin Cornwall.
+OL,18,G1155FChannel 4 News Summary
+OL,19,     GChannel 4's midday news summary.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694595280
+OL,0,        ECIMSBWebfax     F698A1694598893
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
