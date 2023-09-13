@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694616955
+OL,0,        ECIMSBWebfax     F698A1694620567
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694616955
+OL,0,        ECIMSBWebfax     F698A1694620567
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694616955
+OL,0,        ECIMSBWebfax     F698A1694620567
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,30 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for WED 13 SEP
-OL,4,G1545FGarden Rescue
-OL,5,     GLee and Flo are in Winchester to
-OL,6,     Gdesign a magical woodland garden
-OL,7,     Gfor Rhiannon, Chris and their
-OL,8,     Gdaughter Seren.
-OL,9,G1630FThe Finish Line
-OL,10,     GRoman Kemp hosts this quiz show
-OL,11,     Gwith sidekick Sarah Greene. The
-OL,12,     Gcontestants race on moving
-OL,13,     Gpodiums across the studio floor
-OL,14,     Gto try to win #5,000.
-OL,15,G1715FPointless
-OL,16,     GThe quiz returns for another
-OL,17,     Gseries in which contestants try
-OL,18,     Gto score as few points as
-OL,19,     Gpossible by coming up with the
-OL,20,     Ganswers no-one else could think
-OL,21,     Gof.
-OL,22,G1800FBBC News
+OL,4,G1630FThe Finish Line
+OL,5,     GRoman Kemp hosts this quiz show
+OL,6,     Gwith sidekick Sarah Greene. The
+OL,7,     Gcontestants race on moving
+OL,8,     Gpodiums across the studio floor
+OL,9,     Gto try to win #5,000.
+OL,10,G1715FPointless
+OL,11,     GThe quiz returns for another
+OL,12,     Gseries in which contestants try
+OL,13,     Gto score as few points as
+OL,14,     Gpossible by coming up with the
+OL,15,     Ganswers no-one else could think
+OL,16,     Gof.
+OL,17,G1800FBBC News
+OL,18,G1830FRegional News
+OL,19,G1900FThe One Show
+OL,20,     GAlex Jones brings you the
+OL,21,     Gstories that matter from across
+OL,22,     Gthe country.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694616955
+OL,0,        ECIMSBWebfax     F698A1694620567
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -86,100 +86,98 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for WED 13 SEP
-OL,4,G1530FGreat British Railway Journeys
-OL,5,     GIn the Queen of the Suburbs,
-OL,6,     GEaling, Michael Portillo finds
-OL,7,     Gcomedy at the home of British
-OL,8,     Gcinema and is transformed for
-OL,9,     Gthe silver screen by expert hair
-OL,10,     Gand make-up.
-OL,11,G1600FWho Do You Think You Are?
-OL,12,     GFormer TOWIE star Mark Wright
-OL,13,     Gdiscovers that his ancestors
-OL,14,     Gincluded an Andalucian master
-OL,15,     Gswordsman and a Spaniard who was
-OL,16,     Gburned at the stake during the
-OL,17,     GInquisition.
+OL,4,G1600FWho Do You Think You Are?
+OL,5,     GFormer TOWIE star Mark Wright
+OL,6,     Gdiscovers that his ancestors
+OL,7,     Gincluded an Andalucian master
+OL,8,     Gswordsman and a Spaniard who was
+OL,9,     Gburned at the stake during the
+OL,10,     GInquisition.
+OL,11,G1700FFlog It!
+OL,12,     GToday Flog It! comes from
+OL,13,     GHuddersfield Town Hall, where
+OL,14,     Gantiques experts Christina
+OL,15,     GTrevanion and Mark Stacey find
+OL,16,     Gantiques and collectibles to
+OL,17,     Gtake to auction.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694616955
+OL,0,        ECIMSBWebfax     F698A1694620567
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 13 SEP
-OL,4,G1500FTenable
-OL,5,     GMammy's Boys: A mum and her four
-OL,6,     Gsons attempt to answer a series
-OL,7,     Gof Top 10 list questions for
-OL,8,     Gtheir chance to win a bumper
-OL,9,     Gcash prize in the quiz show
-OL,10,     Ghosted by Warwick Davis.
-OL,11,G1600FTipping Point
-OL,12,     GBen Shephard hosts the quiz show
-OL,13,     Gin which four players take on an
-OL,14,     Gextraordinary machine in the
-OL,15,     Ghope of winning a cash jackpot.
-OL,16,G1700FThe Chase
-OL,17,     GFour people who have never met
-OL,18,     Gbefore - Lisa from Lytham St
-OL,19,     GAnnes, Tim from Denbighshire,
-OL,20,     GChloe from Guildford and Hussein
-OL,21,     Gfrom Peterborough - join forces
-OL,22,     Gto face a Chaser.
+OL,4,G1600FTipping Point
+OL,5,     GBen Shephard hosts the quiz show
+OL,6,     Gin which four players take on an
+OL,7,     Gextraordinary machine in the
+OL,8,     Ghope of winning a cash jackpot.
+OL,9,G1700FThe Chase
+OL,10,     GFour people who have never met
+OL,11,     Gbefore - Lisa from Lytham St
+OL,12,     GAnnes, Tim from Denbighshire,
+OL,13,     GChloe from Guildford and Hussein
+OL,14,     Gfrom Peterborough - join forces
+OL,15,     Gto face a Chaser.
+OL,16,G1800FRegional News
+OL,17,G1830FITV Evening News
+OL,18,G1930FEmmerdale
+OL,19,     GCathy is officially diagnosed
+OL,20,     Gand blindsides Bob, and Cain and
+OL,21,     GCaleb make a pact to stick
+OL,22,     Gtogether.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694616955
+OL,0,        ECIMSBWebfax     F698A1694620567
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 13 SEP
-OL,4,G1500FA Place in the Sun
-OL,5,     GVicky and Marvin are looking for
-OL,6,     Ga holiday home on Spain's
-OL,7,     Gbeautiful Mojacar coast to enjoy
-OL,8,     Gwith their young twins, Paige
-OL,9,     Gand Oliver. Can Jasmine Harman
-OL,10,     Gfind the perfect place for #250k?
-OL,11,G1600FA Place in the Sun
-OL,12,     GThe new run continues. Danni
-OL,13,     GMenzies helps John and Carol
-OL,14,     Glook for a holiday home on
-OL,15,     GTenerife. With a budget of
-OL,16,     G#120k, can they find their dream
-OL,17,     Gplace - and will they put in an
-OL,18,     Goffer?
-OL,26,@oD@Srp
+OL,4,G1600FA Place in the Sun
+OL,5,     GThe new run continues. Danni
+OL,6,     GMenzies helps John and Carol
+OL,7,     Glook for a holiday home on
+OL,8,     GTenerife. With a budget of
+OL,9,     G#120k, can they find their dream
+OL,10,     Gplace - and will they put in an
+OL,11,     Goffer?
+OL,12,G1700FFour in a Bed
+OL,13,     GGlamping is on the menu for the
+OL,14,     Gweek's third visit, at Hedgerow
+OL,15,     GLuxury Glamping in Clitheroe,
+OL,16,     Gwhere dairy farmer hosts Hillary
+OL,17,     Gand Mark plan to show their
+OL,18,     Gguests some high-end hospitality.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694616955
+OL,0,        ECIMSBWebfax     F698A1694620567
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 13 SEP
-OL,4,G1415FExit Stage Death: Picture
-OL,5,     FPerfect Mysteries
-OL,6,     GWhile backstage on opening night
-OL,7,     Gof a new play, the show's
-OL,8,     Gleading lady is murdered, and
-OL,9,     GDetective Sam Acosta invites
-OL,10,     GAllie Adams to assist him on
-OL,11,     Gthe. case.
-OL,12,G1600FBargain-Loving Brits in the Sun
-OL,13,     GIn Benidorm, Tricia and her
-OL,14,     Ghusband Chris are organising a
-OL,15,     Gfundraiser for a local cancer
-OL,16,     Gcharity - a cause close to
-OL,17,     GTricia's heart. Andrea seeks
-OL,18,     Ghelp running her show bar.
-OL,19,G1700F5 News at 5
-OL,20,     GJoin Dan Walker and the team for
-OL,21,     Gthe news that matters to you.
+OL,4,G1600FBargain-Loving Brits in the Sun
+OL,5,     GIn Benidorm, Tricia and her
+OL,6,     Ghusband Chris are organising a
+OL,7,     Gfundraiser for a local cancer
+OL,8,     Gcharity - a cause close to
+OL,9,     GTricia's heart. Andrea seeks
+OL,10,     Ghelp running her show bar.
+OL,11,G1700F5 News at 5
+OL,12,     GJoin Dan Walker and the team for
+OL,13,     Gthe news that matters to you.
+OL,14,G1800FSusan Calman's Grand Day Out
+OL,15,     GSusan travels from Bath to the
+OL,16,     Gvillage of Cheddar, meander
+OL,17,     Gthrough the medieval city of
+OL,18,     GWells and end her road trip in
+OL,19,     Gthe seaside town of Weston-super-
+OL,20,     GMare.
