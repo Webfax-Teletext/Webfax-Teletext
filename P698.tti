@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694703657
+OL,0,        ECIMSBWebfax     F698A1694707272
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694703657
+OL,0,        ECIMSBWebfax     F698A1694707272
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694703657
+OL,0,        ECIMSBWebfax     F698A1694707272
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,24 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for THU 14 SEP
-OL,4,G1545FGarden Rescue
-OL,5,     GFlo and Charlie are in Leicester
-OL,6,     Gto create a safe garden for
-OL,7,     Gvisually impaired Luigi and his
-OL,8,     Gwife Julie. It needs to be an
-OL,9,     Geasy-to-navigate space without
-OL,10,     Gany trip hazards.
-OL,11,G1630FThe Finish Line
-OL,12,     GRoman Kemp hosts this quiz show
-OL,13,     Gwith sidekick Sarah Greene. The
-OL,14,     Gcontestants race on moving
-OL,15,     Gpodiums across the studio floor
-OL,16,     Gto try to win #5,000.
+OL,4,G1630FThe Finish Line
+OL,5,     GRoman Kemp hosts this quiz show
+OL,6,     Gwith sidekick Sarah Greene. The
+OL,7,     Gcontestants race on moving
+OL,8,     Gpodiums across the studio floor
+OL,9,     Gto try to win #5,000.
+OL,10,G1715FPointless
+OL,11,     GThe quiz returns for another
+OL,12,     Gseries in which contestants try
+OL,13,     Gto score as few points as
+OL,14,     Gpossible by coming up with the
+OL,15,     Ganswers no-one else could think
+OL,16,     Gof.
+OL,17,G1800FBBC News
+OL,18,G1830FRegional News
+OL,19,G1900FThe One Show
+OL,20,     GAlex Jones and Roman Kemp bring
+OL,21,     Gyou the stories that matter from
+OL,22,     Gacross the country.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694703657
+OL,0,        ECIMSBWebfax     F698A1694707272
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -80,94 +86,100 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for THU 14 SEP
-OL,4,G1600FWho Do You Think You Are?
-OL,5,     GSinger Pixie Lott discovers she
-OL,6,     Gis descended from three
-OL,7,     Ggenerations of military
-OL,8,     Gmusicians.
-OL,9,G1700FFlog It!
-OL,10,     GMembers of the public try to
-OL,11,     Gmake money out of their antiques
-OL,12,     Gby taking a risk at auction.
-OL,13,G1800FRichard Osman's House of Games
-OL,14,     GBabatunde Aleshe, Richie
-OL,15,     GAnderson, Jo Caulfield and Carol
-OL,16,     GSmillie test their general
-OL,17,     Gknowledge skills on this week's
-OL,18,     GHouse of Games.
-OL,26,@vD@RrrvD@Urr
+OL,4,G1700FFlog It!
+OL,5,     GMembers of the public try to
+OL,6,     Gmake money out of their antiques
+OL,7,     Gby taking a risk at auction.
+OL,8,G1800FRichard Osman's House of Games
+OL,9,     GBabatunde Aleshe, Richie
+OL,10,     GAnderson, Jo Caulfield and Carol
+OL,11,     GSmillie test their general
+OL,12,     Gknowledge skills on this week's
+OL,13,     GHouse of Games.
+OL,14,G1830FMarcus Wareing's Tales from a
+OL,15,     FKitchen Garden
+OL,16,     GMarcus Wareing goes crab fishing
+OL,17,     Gand learns how to prepare rams
+OL,18,     Gfor the mating season.
+OL,19,G1900FThe Warship: Tour of Duty
+OL,20,     GHMS Queen Elizabeth sets off on
+OL,21,     Gher first operational deployment
+OL,22,     Gto the South China Sea.
+OL,26,@qD@RrrqD@Urr
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694703657
+OL,0,        ECIMSBWebfax     F698A1694707272
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 14 SEP
-OL,4,G1600FTipping Point
-OL,5,     GBen Shephard hosts the quiz show
-OL,6,     Gin which four players take on an
-OL,7,     Gextraordinary machine in the
-OL,8,     Ghope of winning a cash jackpot.
-OL,9,G1700FThe Chase
-OL,10,     GBradley Walsh hosts as four
-OL,11,     Gstrangers - Simon from Moray,
-OL,12,     GGeorgina from London, Phillip
-OL,13,     Gfrom County Down and Unique-
-OL,14,     GAnais from London - come
-OL,15,     Gtogether to take on a Chaser.
-OL,16,G1800FRegional News
-OL,17,G1830FITV Evening News
+OL,4,G1700FThe Chase
+OL,5,     GBradley Walsh hosts as four
+OL,6,     Gstrangers - Simon from Moray,
+OL,7,     GGeorgina from London, Phillip
+OL,8,     Gfrom County Down and Unique-
+OL,9,     GAnais from London - come
+OL,10,     Gtogether to take on a Chaser.
+OL,11,G1800FRegional News
+OL,12,G1830FITV Evening News
+OL,13,G1930FEmmerdale
+OL,14,     GCathy takes her anger out on her
+OL,15,     Gfamily, Bob feels a twinge in
+OL,16,     Ghis chest, and Chloe is thrilled
+OL,17,     Gwhen Mack suggests going on a
+OL,18,     Gdate.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694703657
+OL,0,        ECIMSBWebfax     F698A1694707272
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 14 SEP
-OL,4,G1600FA Place in the Sun
-OL,5,     GSemi-retired NHS worker Tara is
-OL,6,     Glonging to buy a holiday home
-OL,7,     Gfor her and her family and
-OL,8,     Gfriends to enjoy on beautiful
-OL,9,     GCrete. Ben Hillman shows her
-OL,10,     Gwhat #90k can buy.
-OL,11,G1700FFour in a Bed
-OL,12,     GThe final visit is to The
-OL,13,     GAntelope Inn in Wiltshire, where
-OL,14,     Ghosts Natasha and Tanya strive
-OL,15,     Gfor success. But unpleasant
-OL,16,     Gstains and a cold breakfast
-OL,17,     Gresult in some rough feedback.
+OL,4,G1700FFour in a Bed
+OL,5,     GThe final visit is to The
+OL,6,     GAntelope Inn in Wiltshire, where
+OL,7,     Ghosts Natasha and Tanya strive
+OL,8,     Gfor success. But unpleasant
+OL,9,     Gstains and a cold breakfast
+OL,10,     Gresult in some rough feedback.
+OL,11,G1730FCome Dine with Me
+OL,12,     GEssex. Dressed in a full bridal
+OL,13,     Ggown, accountant Marta hosts a
+OL,14,     GPolish 'wedding' for her guests,
+OL,15,     Gcomplete with bickering and
+OL,16,     Gsinging! But Brad compares her
+OL,17,     Gmain to eating dirt.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694703657
+OL,0,        ECIMSBWebfax     F698A1694707272
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 14 SEP
-OL,4,G1600FBargain-Loving Brits in the Sun
-OL,5,     GOn the Costa Del Sol, Londoner
-OL,6,     GCarolyn prepares to trial a new
-OL,7,     Gmenu at her Caribbean
-OL,8,     Grestaurant, and in Benidorm,
-OL,9,     GWayne has a surprise in store
-OL,10,     Gfor his husband Des.
-OL,11,G1700F5 News at 5
-OL,12,     GJoin Dan Walker and the team for
-OL,13,     Gthe news that matters to you.
-OL,14,G1800FSusan Calman's Grand Day Out
-OL,15,     GSusan is in Kent, known as 'The
-OL,16,     GGarden of England'. The county's
-OL,17,     Grolling countryside is filled
-OL,18,     Gwith orchards, vineyards and
-OL,19,     Gcharming villages, with an
-OL,20,     Gincredible coastline to match.
+OL,4,G1700F5 News at 5
+OL,5,     GJoin Dan Walker and the team for
+OL,6,     Gthe news that matters to you.
+OL,7,G1800FSusan Calman's Grand Day Out
+OL,8,     GSusan is in Kent, known as 'The
+OL,9,     GGarden of England'. The county's
+OL,10,     Grolling countryside is filled
+OL,11,     Gwith orchards, vineyards and
+OL,12,     Gcharming villages, with an
+OL,13,     Gincredible coastline to match.
+OL,14,G1900FEscaping Death Valley with Nick
+OL,15,     FKnowles
+OL,16,     GNick travels from golden dunes
+OL,17,     Gat the southern tip of Death
+OL,18,     GValley, through barren salt
+OL,19,     Gflats to a well-preserved ghost
+OL,20,     Gtown, before ending up at Death
+OL,21,     GValley Junction.
