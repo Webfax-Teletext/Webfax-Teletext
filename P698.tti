@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694855392
+OL,0,        ECIMSBWebfax     F698A1694859006
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694855392
+OL,0,        ECIMSBWebfax     F698A1694859006
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694855392
+OL,0,        ECIMSBWebfax     F698A1694859006
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -78,7 +78,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694855392
+OL,0,        ECIMSBWebfax     F698A1694859006
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -86,26 +86,25 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for SAT 16 SEP
-OL,4,G1000FBritain's Secret Seas
-OL,5,     GDocumentary series exploring the
-OL,6,     Gseas surrounding Great Britain.
-OL,7,     GThe team sets out to investigate
-OL,8,     Gthe waters off the eastern
-OL,9,     Gcoastline of Britain.
-OL,10,G1100FSort Your Life Out with Stacey
-OL,11,     FSolomon
-OL,12,     GStacey Solomon and her crack
-OL,13,     Gteam help a farming family
-OL,14,     Gtransform their family home.
-OL,15,G1200FBritain's Top Takeaways
-OL,16,     GFabulous dishes from across
-OL,17,     GSouth Asia are cooked up for
-OL,18,     Gtonight's takeout menu.
+OL,4,G1100FSort Your Life Out with Stacey
+OL,5,     FSolomon
+OL,6,     GStacey Solomon and her crack
+OL,7,     Gteam help a farming family
+OL,8,     Gtransform their family home.
+OL,9,G1200FBritain's Top Takeaways
+OL,10,     GFabulous dishes from across
+OL,11,     GSouth Asia are cooked up for
+OL,12,     Gtonight's takeout menu.
+OL,13,G1300FFunny Face
+OL,14,     GFashion photographer Dick Avery
+OL,15,     Gtakes his latest discovery on a
+OL,16,     Gtrip to Paris, but she proves to
+OL,17,     Gbe a far-from-perfect model.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694855392
+OL,0,        ECIMSBWebfax     F698A1694859006
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -129,53 +128,56 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694855392
+OL,0,        ECIMSBWebfax     F698A1694859006
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 16 SEP
-OL,4,G0955FThe Simpsons
-OL,5,     GLisa the Greek: Lisa discovers a
-OL,6,     Gtalent for predicting football
-OL,7,     Gresults, and Homer gets rich
-OL,8,     Gbetting on the games. But does
-OL,9,     Ghe just want her for the money?
-OL,10,G1025FThe Simpsons
-OL,11,     GHomer Simpson In: 'Kidney
-OL,12,     GTrouble': Homer comes to his
-OL,13,     Gfather's rescue when Grampa
-OL,14,     Gneeds a new kidney. But just
-OL,15,     Gbefore the operation, Homer gets
-OL,16,     Gcold feet.
-OL,17,G1055FThe Simpsons
-OL,18,     GViva Ned Flanders: After a night
-OL,19,     Gout in Vegas, Homer and Flanders
-OL,20,     Gwake up married to cocktail bar
-OL,21,     Gwaitresses.
+OL,4,G1055FThe Simpsons
+OL,5,     GViva Ned Flanders: After a night
+OL,6,     Gout in Vegas, Homer and Flanders
+OL,7,     Gwake up married to cocktail bar
+OL,8,     Gwaitresses.
+OL,9,G1125FThe Call of the Wild
+OL,10,     GAdventure with Harrison Ford. A
+OL,11,     Gbig, friendly dog from
+OL,12,     GCalifornia sets out on an
+OL,13,     Gadventure after he's abducted
+OL,14,     Gand taken to the Yukon. May not
+OL,15,     Gbe suitable for younger viewers.
+OL,16,G1320FJamie's #1 Wonders
+OL,17,     GJamie Oliver cooks up a hearty
+OL,18,     Gchicken pie, super-satisfying
+OL,19,     Gmushroom risotto, beautiful
+OL,20,     Ghomemade bread and a no-cook
+OL,21,     Gchocolatey fridge cake, all for
+OL,22,     Gunder a quid a portion.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694855392
+OL,0,        ECIMSBWebfax     F698A1694859006
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 16 SEP
-OL,4,G1005FSpongeBob SquarePants
-OL,5,     GSandy tries to study SpongeBob
-OL,6,     Gand Patrick's behavior, but her
-OL,7,     Gscience experiment goes horribly
-OL,8,     Gawry.
-OL,9,G1020FEntertainment News on 5
-OL,10,     GA daily round-up of showbiz news
-OL,11,     Gand gossip from around the
-OL,12,     Gworld, focusing on celebrities,
-OL,13,     Gmovies, music and entertainment.
-OL,14,G1030FFriends
-OL,15,     GIs it wedding bells or a weekend
-OL,16,     Gto forget for Ross and Rachel?
-OL,17,     GMeanwhile, Monica and Chandler
-OL,18,     Gsearch for signs that they are
-OL,19,     Galtar-bound.
+OL,4,G1100FFriends
+OL,5,     GMonica is bewildered by Rachel's
+OL,6,     Greaction to a change in their
+OL,7,     Gliving arrangement. Phoebe tries
+OL,8,     Gto make Ross confront his
+OL,9,     Gfeelings for Rachel.
+OL,10,G1130FFriends
+OL,11,     GDespite Phoebe's admonitions,
+OL,12,     GRoss makes a drastic decision
+OL,13,     Gabout Rachel. Chandler and
+OL,14,     GMonica bicker over their living
+OL,15,     Garrangements.
+OL,16,G1200FFriends
+OL,17,     GAn injured Joey must land an
+OL,18,     Gacting part in order to qualify
+OL,19,     Gfor health insurance. Rachel
+OL,20,     Gfinally learns the truth about
+OL,21,     Gher marriage.
