@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694837323
+OL,0,        ECIMSBWebfax     F698A1694840936
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694837323
+OL,0,        ECIMSBWebfax     F698A1694840936
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,98 +47,134 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694837323
+OL,0,        ECIMSBWebfax     F698A1694840936
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for FRI 15 SEP
-OL,4,G0135FBBC News
+OL,3,CProgramme listings for SAT 16 SEP
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GHost Matt Tebbutt is joined by
+OL,10,     Gchefs Gemma Ogston and Richard
+OL,11,     GBainbridge, and by special guest
+OL,12,     GSara Pascoe. Drinks expert Olly
+OL,13,     GSmith picks the wines to go with
+OL,14,     Gthe studio dishes.
+OL,15,G1130FThe Great Food Guys
+OL,16,     GThis week chef Nick Nairn and
+OL,17,     GDougie Vipond focus on Scottish
+OL,18,     Gfruit, cooking an apple and
+OL,19,     Gbramble crumble with Drambuie
+OL,20,     Gcustard.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694837323
+OL,0,        ECIMSBWebfax     F698A1694840936
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for FRI 15 SEP
+OL,3,CProgramme listings for SAT 16 SEP
 OL,4,G0325FThis is BBC Two
+OL,5,G0615FHey Duggee
+OL,6,     GThe Pen Pal Badge. Duggee
+OL,7,     Garranges for the Squirrels to
+OL,8,     Gwrite to some pen pals.
+OL,9,G0620FHey Duggee
+OL,10,     GThe Big Day Out Badge. Duggee
+OL,11,     Gtakes the Squirrels and their
+OL,12,     Gparents on an exciting mystery
+OL,13,     Gtrip.
+OL,14,G0630FSupertato
+OL,15,     GUndercover Tomato. Tomato paints
+OL,16,     Ghimself green and goes
+OL,17,     Gundercover as a Mini Pea to
+OL,18,     Gdiscover how Evil Pea is firing
+OL,19,     Gthem at Tato Tower. He makes an
+OL,20,     Gunexpected new Mini Pea friend.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694837323
+OL,0,        ECIMSBWebfax     F698A1694840936
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 15 SEP
-OL,4,G0505FKatie Piper's Breakfast Show
-OL,5,     GJoining Katie in the studio this
-OL,6,     Gtime are singer and author JB
-OL,7,     GGill and comedian Angela Barnes,
-OL,8,     Gand there's also top advice from
-OL,9,     Ga positivity psychologist and a
-OL,10,     Gcrafting workshop.
+OL,3,CProgramme listings for SAT 16 SEP
+OL,4,G0600FLove Your Garden
+OL,5,     GAlan and the team surprise
+OL,6,     Gboxing coach Marcellus Baz as
+OL,7,     Gthey turn a dingy alley into a
+OL,8,     Gbeautiful kitchen garden, and
+OL,9,     Ggive him a Moroccan-inspired
+OL,10,     Ggarden at home.
+OL,11,G0630FLove Your Weekend with Alan
+OL,12,     FTitchmarsh
+OL,13,     GAlan Titchmarsh is joined by
+OL,14,     Gopera singing sensation
+OL,15,     GKatherine Jenkins to commemorate
+OL,16,     GRemembrance Sunday, and we meet
+OL,17,     Gsome Bletchley Park codebreaking
+OL,18,     Gsisters.
+OL,19,G0820FITV News
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694837323
+OL,0,        ECIMSBWebfax     F698A1694840936
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 15 SEP
-OL,4,G0505FCome Dine with Me
-OL,5,     GSurrey. Uber-competitive
-OL,6,     Gbusinessman John is banking on
-OL,7,     Ghis home-cooked menu to bag him
-OL,8,     Gthe prize, but will his lengthy
-OL,9,     Ganecdotes let him down?
-OL,10,G0530FBeat the Chef
-OL,11,     GProfessional chef Mark Sargeant
-OL,12,     Gand an amateur cook go head to
-OL,13,     Ghead to make curried lamb
-OL,14,     Gcutlets. Who will deliver the
-OL,15,     Gperfectly cooked meat with a
-OL,16,     Gspice punch?
-OL,17,G0555FFind It, Fix It, Flog It
-OL,18,     GIn Dumfries, Henry Cole and
-OL,19,     GSimon O'Brien get to work on
-OL,20,     GMaggie's farm, which boasts an
-OL,21,     Gextraordinary collection of
-OL,22,     Gmemorabilia.
+OL,3,CProgramme listings for SAT 16 SEP
+OL,4,G0555FFind It, Fix It, Flog It
+OL,5,     GIn Dumfries, Henry Cole and
+OL,6,     GSimon O'Brien get to work on
+OL,7,     GMaggie's farm, which boasts an
+OL,8,     Gextraordinary collection of
+OL,9,     Gmemorabilia.
+OL,10,G0615FThe King of Queens
+OL,11,     GCello, Goodbye: Carrie's on the
+OL,12,     Gfast track at her new job in a
+OL,13,     GManhattan law firm. But the
+OL,14,     Gtrappings of success make Doug
+OL,15,     Gwonder how she ever ended up
+OL,16,     Gwith a guy like him.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1694837323
+OL,0,        ECIMSBWebfax     F698A1694840936
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 15 SEP
-OL,4,G0455FHouse Doctor
-OL,5,     GHome improvement series.
-OL,6,     GAlistair Appleton and
-OL,7,     GCalifornian interior designer
-OL,8,     GAnn Maurice work their magic on
-OL,9,     Ga house in Stepney with an
-OL,10,     Gaccess problem.
-OL,11,G0520FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the
-OL,14,     Gworld, focusing on celebrities,
-OL,15,     Gmovies, music and entertainment.
-OL,16,G0525FMilkshake! Monkey Amazing
-OL,17,     FAdventures
-OL,18,     GA cheeky monkey travels across
-OL,19,     Gthe country, getting into
-OL,20,     Ghijinks with his friends.
+OL,3,CProgramme listings for SAT 16 SEP
+OL,4,G0605FBlue's Clues & You!
+OL,5,     GBlue envisions what a mysterious
+OL,6,     Gshape could be. Viewers listen
+OL,7,     Gto a story by Slippery, Magenta
+OL,8,     Gand Tickety and help Mr Salt
+OL,9,     Gdiscover his own imagination.
+OL,10,G0625FSesame Street Mecha Builders
+OL,11,     GRanger Nat's hike turns to
+OL,12,     Gadventure when he finds a
+OL,13,     Gtreasure map. The only problem
+OL,14,     Gis that he can't read it.
+OL,15,G0640FPirata and Capitano
+OL,16,     GWhile playing a game of Omino,
+OL,17,     Gthe crew of the Pink Skull
+OL,18,     Gdiscover a treasure map hidden
+OL,19,     Gin a secret trapdoor in the
+OL,20,     Gboard, which leads them to a
+OL,21,     Gstrange island.
