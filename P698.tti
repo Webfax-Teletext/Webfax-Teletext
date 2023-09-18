@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695010759
+OL,0,        ECIMSBWebfax     F698A1695014373
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695010759
+OL,0,        ECIMSBWebfax     F698A1695014373
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,94 +47,138 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695010759
+OL,0,        ECIMSBWebfax     F698A1695014373
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for SUN 17 SEP
-OL,4,G0120FBBC News
+OL,3,CProgramme listings for MON 18 SEP
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FFraud Squad
+OL,12,     GA removals company boss films
+OL,13,     Ghimself smuggling two million
+OL,14,     Gcigarettes into the UK.
+OL,15,G1045FClaimed and Shamed
+OL,16,     GA not-so-jolly sailor whose boat
+OL,17,     Ggoes up in flames lands up in
+OL,18,     Ghot water, and a serial claimer
+OL,19,     Gis caught out when a faked fall
+OL,20,     Gis recorded on CCTV.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695010759
+OL,0,        ECIMSBWebfax     F698A1695014373
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for SUN 17 SEP
+OL,3,CProgramme listings for MON 18 SEP
 OL,4,G0255FThis is BBC Two
+OL,5,G0630FBargain Hunt
+OL,6,     GDanny Sebastian finds out the
+OL,7,     Gengineering genius behind
+OL,8,     GBritain's longest and steepest
+OL,9,     Gset of staircase canal locks in
+OL,10,     GNorthamptonshire, while the
+OL,11,     Gteams hunt for bargains.
+OL,12,G0715FGarden Rescue
+OL,13,     GCharlie and Lee are in Bolton to
+OL,14,     Gcreate a south east Asian-
+OL,15,     Ginspired, wildlife-friendly
+OL,16,     Ggarden for Debbie with a
+OL,17,     Grelaxing space for yoga.
+OL,18,G0800FThis Farming Life
+OL,19,     GRachel and Camy head to market
+OL,20,     Gwith a goal and budget, but the
+OL,21,     Gtwo don't match up.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695010759
+OL,0,        ECIMSBWebfax     F698A1695014373
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for SUN 17 SEP
-OL,4,G0505FJames Martin's Spanish Adventure
-OL,5,     GExtremadura: James is shown how
-OL,6,     Gmigas is made in Extremadura,
-OL,7,     Gmeets an award-winning tortilla
-OL,8,     Gchef, visits a local brewery,
-OL,9,     Gsees Iberico pigs and cooks
-OL,10,     Gpoussin.
+OL,3,CProgramme listings for MON 18 SEP
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GAs Emmerdale's Jacob fights for
+OL,9,     Ghis life, actor Joe-Warren Plant
+OL,10,     Gjoins us. Plus, we take a look
+OL,11,     Gbehind the scenes as the
+OL,12,     GStrictly stars prepare for their
+OL,13,     Gdance floor debut.
+OL,14,G1000FThis Morning
+OL,15,     GMagazine show with news and
+OL,16,     Gtopical items, celebrity guests,
+OL,17,     Gexpert advice, real life
+OL,18,     Gstories, competitions and a mix
+OL,19,     Gof cookery, health, beauty,
+OL,20,     Glifestyle and more.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695010759
+OL,0,        ECIMSBWebfax     F698A1695014373
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for SUN 17 SEP
-OL,4,G0515FCome Dine with Me
-OL,5,     GDevon. HR manager Holly plans a
-OL,6,     Gmenu inspired by her restaurant
-OL,7,     Gfavourites. But her loo rules
-OL,8,     Gshock her guests - as does the
-OL,9,     Grevealing portrait that the boys
-OL,10,     Gfind in her lounge...
-OL,11,G0540FCome Dine with Me
-OL,12,     GDevon. Detective Steve is
-OL,13,     Gcounting on a menu of bold
-OL,14,     Gflavours to win him the grand,
-OL,15,     Gon an evening full of fun,
-OL,16,     Gfriction, feuding and
-OL,17,     Gexperimental food.
+OL,3,CProgramme listings for MON 18 SEP
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Justin Moorhouse joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0645FCheers
+OL,12,     GDiane Chambers Day: Feeling
+OL,13,     Gguilty for socially excluding
+OL,14,     GDiane, the Cheers gang organise
+OL,15,     Gan outing to her favourite
+OL,16,     Gopera, but will she be driven
+OL,17,     Ginto Sam's arms as a result?
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695010759
+OL,0,        ECIMSBWebfax     F698A1695014373
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for SUN 17 SEP
-OL,4,G0500FHouse Doctor
-OL,5,     GHome improvement series.
-OL,6,     GAlistair Appleton and
-OL,7,     GCalifornian interior designer
-OL,8,     GAnn Maurice work their magic in
-OL,9,     GWarrington, Cheshire, where Cath
-OL,10,     Gcan't sell her house.
-OL,11,G0530FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the
-OL,14,     Gworld, focusing on celebrities,
-OL,15,     Gmovies, music and entertainment.
-OL,16,G0535FThomas & Friends
-OL,17,     GGordon has a tantrum about all
-OL,18,     Gthe changes being made to the
-OL,19,     Grailway but his new friend Nia
-OL,20,     Gfrom Kenya helps him to see the
-OL,21,     Gchanges in a different light.
+OL,3,CProgramme listings for MON 18 SEP
+OL,4,G0615FPeppa Pig
+OL,5,     GPC Panda brings his twin
+OL,6,     Gdaughters Peggi and Pandora to
+OL,7,     Gthe playgroup. Peppa discovers
+OL,8,     Gthat they love puzzles and
+OL,9,     Gsolving mysteries just like
+OL,10,     Gtheir dad.
+OL,11,G0620FPeppa Pig
+OL,12,     GIt's the Chinese New Year.
+OL,13,     GMadame Gazelle tells the
+OL,14,     Gchildren all about it, then they
+OL,15,     Gmake a dragon costume to parade
+OL,16,     Gup the hill to watch the
+OL,17,     Gfireworks.
+OL,18,G0625FOggy Oggy
+OL,19,     GMallow dreams of seeing a
+OL,20,     Gshooting star. Oggy Oggy gets
+OL,21,     Ghold of one and discreetly gives
+OL,22,     Git to him.
