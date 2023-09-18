@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695039667
+OL,0,        ECIMSBWebfax     F698A1695043281
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695039667
+OL,0,        ECIMSBWebfax     F698A1695043281
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695039667
+OL,0,        ECIMSBWebfax     F698A1695043281
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,29 +55,27 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for MON 18 SEP
-OL,4,G1300FBBC News
-OL,5,G1330FRegional News
-OL,6,G1345FDoctors
-OL,7,     GEveryone at The Mill is on
-OL,8,     Gtenterhooks, while Joe spills
-OL,9,     Gthe beans to Zara. Suni helps a
-OL,10,     Gpatient after a drone crashes
-OL,11,     Gonto their roof.
-OL,12,G1415FMoney for Nothing
-OL,13,     GJJ Chalmers rescues a white
-OL,14,     Gdinner service, bookcase and
-OL,15,     Grocking horse from the skips.
-OL,16,G1500FEscape to the Country
-OL,17,     GSonali Shah tours the East
-OL,18,     GMidlands in search of a property
-OL,19,     Gto suit today's buyers who, for
-OL,20,     Gthe last 23 years, have been
-OL,21,     Gliving in the USA.
+OL,4,G1415FMoney for Nothing
+OL,5,     GJJ Chalmers rescues a white
+OL,6,     Gdinner service, bookcase and
+OL,7,     Grocking horse from the skips.
+OL,8,G1500FEscape to the Country
+OL,9,     GSonali Shah tours the East
+OL,10,     GMidlands in search of a property
+OL,11,     Gto suit today's buyers who, for
+OL,12,     Gthe last 23 years, have been
+OL,13,     Gliving in the USA.
+OL,14,G1545FGarden Rescue
+OL,15,     GCharlie and Chris are in Exeter
+OL,16,     Gto transform a tumbledown,
+OL,17,     Gunloved back garden into a
+OL,18,     Gchilled-out, festival-inspired
+OL,19,     Gretreat for Dan and Amy.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695039667
+OL,0,        ECIMSBWebfax     F698A1695043281
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -85,94 +83,103 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for MON 18 SEP
-OL,4,G1300FImpossible
-OL,5,     GCan players avoid giving
-OL,6,     GImpossible answers and stay in
-OL,7,     Gthe running for a #10,000
-OL,8,     Gjackpot?
-OL,9,G1345FEggheads
-OL,10,     GJeremy Vine hosts the show where
-OL,11,     Gevery day a new team of
-OL,12,     Gchallengers take on probably the
-OL,13,     Ggreatest quiz team in Britain.
-OL,14,G1415FMurder, Mystery and My Family
-OL,15,     GBarristers Sasha Wass and Jeremy
-OL,16,     GDein investigate whether a
-OL,17,     Gwealthy female tenant was
-OL,18,     Gpoisoned by her landlord, to
-OL,19,     Gwhom she had signed over her
-OL,20,     Gassets just before her death.
+OL,4,G1415FMurder, Mystery and My Family
+OL,5,     GBarristers Sasha Wass and Jeremy
+OL,6,     GDein investigate whether a
+OL,7,     Gwealthy female tenant was
+OL,8,     Gpoisoned by her landlord, to
+OL,9,     Gwhom she had signed over her
+OL,10,     Gassets just before her death.
+OL,11,G1500FKelvin's Big Farming Adventure
+OL,12,     GStrictly star Kelvin Fletcher
+OL,13,     Ghas bought a farm, but can he
+OL,14,     Gmake it pay?
+OL,15,G1530FGreat Canadian Railway Journeys
+OL,16,     GMichael Portillo explores
+OL,17,     GCanada's maritime provinces.
+OL,18,     GClutching his 1899 Appleton's
+OL,19,     GGuide to Canada, Michael begins
+OL,20,     Gin the Atlantic port of Halifax,
+OL,21,     GNova Scotia.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695039667
+OL,0,        ECIMSBWebfax     F698A1695043281
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for MON 18 SEP
-OL,4,G1230FLoose Women
-OL,5,     GJoin the Loose Women panellists
-OL,6,     Gas they interview celebrity
-OL,7,     Gguests and discuss the day's
-OL,8,     Gmost topical issues, from
-OL,9,     Gcurrent affairs to celebrity
-OL,10,     Ggossip and the latest showbiz
-OL,11,     Gnews.
-OL,12,G1330FITV Lunchtime News
-OL,13,     GThe latest headlines from around
-OL,14,     Gthe world at lunchtime with
-OL,15,     Greports and analysis from ITV's
-OL,16,     GCorrespondents, all of which are
-OL,17,     Gfollowed by a national weather
-OL,18,     Gforecast.
-OL,19,G1355FRegional News
+OL,4,G1400FJames Martin's Spanish Adventure
+OL,5,     GSeville: James visits the local
+OL,6,     Gfood market in Seville and has
+OL,7,     Gbreakfast at a secret bar, meets
+OL,8,     Grising culinary star Camilla
+OL,9,     GFurraro, and stops by an orange
+OL,10,     Ggrove.
+OL,11,G1500FTenable
+OL,12,     GThe Eyes Have It: Warwick Davis
+OL,13,     Ghosts as a team of five get
+OL,14,     Gtheir chance to win a bumper
+OL,15,     Gcash prize by answering Top 10
+OL,16,     Glist questions, but can they
+OL,17,     Gtake home 125,000 pounds?
+OL,18,G1600FTipping Point
+OL,19,     GBen Shephard hosts the quiz show
+OL,20,     Gin which four players take on an
+OL,21,     Gextraordinary machine in the
+OL,22,     Ghope of winning a cash jackpot.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695039667
+OL,0,        ECIMSBWebfax     F698A1695043281
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for MON 18 SEP
-OL,4,G1200FLive: Steph's Packed Lunch
-OL,5,     GSteph McGovern presents her live
-OL,6,     Glunchtime show featuring
-OL,7,     Gcelebrity guests, fantastic food
-OL,8,     Gand the best entertainment,
-OL,9,     Glifestyle and consumer stories
-OL,10,     Gmaking the headlines.
-OL,11,G1410FCountdown
-OL,12,     GColin Murray and Rachel Riley
-OL,13,     Ghost as contestants race against
-OL,14,     Gthe clock to pit their wits
-OL,15,     Gagainst vowels, consonants and
-OL,16,     Gnumbers. Chris McCausland joins
-OL,17,     GSusie Dent in Dictionary Corner.
+OL,4,G1410FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Chris McCausland joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G1500FA Place in the Sun
+OL,12,     GMaria is making a permanent move
+OL,13,     Gto Vinuela in Malaga, with its
+OL,14,     Gstunning lake and scenery, to
+OL,15,     Grealise her late husband's
+OL,16,     Gdream. Scarlette Douglas lines
+OL,17,     Gup impressive properties for
+OL,18,     G#250k.
+OL,26,@uD@KTwuD@Urp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695039667
+OL,0,        ECIMSBWebfax     F698A1695043281
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for MON 18 SEP
-OL,4,G1240FAlexis Conran
-OL,5,     GAlexis Conran hears from you,
-OL,6,     Gtalking about the important
-OL,7,     Gstories and getting your
-OL,8,     Gopinions and views on them.
-OL,9,G1340F5 News at Lunchtime
-OL,10,     GNational and international news.
-OL,11,G1345FHome and Away
-OL,12,     GRose is intimidated by the
-OL,13,     Gprospect of meeting Mali's mum.
-OL,14,     GEden finds Cash drinking in
-OL,15,     Guniform at Salt and manages to
-OL,16,     Gcoax him home. John is still
-OL,17,     Gconcerned for Alf.
+OL,4,G1415FSeven Deadly Sins
+OL,5,     GZuri is a woman who seems to
+OL,6,     Ghave it all but greed threatens
+OL,7,     Gto destroy everything. When she
+OL,8,     Gmeets an entrepreneur and his
+OL,9,     Gwealthy aunt, they have
+OL,10,     Geverything Zuri thinks she wants.
+OL,11,G1600FBargain-Loving Brits in the Sun
+OL,12,     GWe're in Torrevieja with Essex
+OL,13,     Gboy Colin, who's determined to
+OL,14,     Glive a healthier life. And we
+OL,15,     Gmeet Alicante-based Lydia, a
+OL,16,     Gradio DJ who's busy with her
+OL,17,     Gdaily show and a shift at a shop
+OL,18,G1700F5 News at 5
+OL,19,     GJoin Dan Walker and the team for
+OL,20,     Gthe news that matters to you.
