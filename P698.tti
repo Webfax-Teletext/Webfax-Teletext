@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695115525
+OL,0,        ECIMSBWebfax     F698A1695119139
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695115525
+OL,0,        ECIMSBWebfax     F698A1695119139
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695115525
+OL,0,        ECIMSBWebfax     F698A1695119139
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,26 +55,24 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for TUE 19 SEP
-OL,4,G1000FFraud Squad
-OL,5,     GA crooked conman invents nearly
-OL,6,     G200 fake kids to steal #1.8
-OL,7,     Gmillion from the public purse.
-OL,8,G1045FClaimed and Shamed
-OL,9,     GA fast-food brawl leaves one
-OL,10,     Gwoman convinced she has a
-OL,11,     Gfighting chance of claiming
-OL,12,     G#100,000, and a crash-for-cash
-OL,13,     Ggang's antics are exposed by
-OL,14,     Gsatellite technology.
-OL,15,G1115FHomes Under the Hammer
-OL,16,     GFeaturing properties in St
-OL,17,     GLeonards-on-Sea, Birkenhead and
-OL,18,     GHarrow.
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GFeaturing properties in St
+OL,6,     GLeonards-on-Sea, Birkenhead and
+OL,7,     GHarrow.
+OL,8,G1215FBargain Hunt
+OL,9,     GCharlie Ross is in Devon with
+OL,10,     Gexperts Caroline Hawley and John
+OL,11,     GCameron and the teams. Charlie
+OL,12,     Gdigs deep and unearths some
+OL,13,     Gfascinating facts about bottle
+OL,14,     Gcollecting.
+OL,15,G1300FBBC News
+OL,16,G1330FRegional News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695115525
+OL,0,        ECIMSBWebfax     F698A1695119139
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -104,7 +102,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695115525
+OL,0,        ECIMSBWebfax     F698A1695119139
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -129,52 +127,53 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695115525
+OL,0,        ECIMSBWebfax     F698A1695119139
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for TUE 19 SEP
-OL,4,G0955FChateau DIY
-OL,5,     GJayne and Steve are pulled from
-OL,6,     Gpillar to post as they host a
-OL,7,     Gpainting course. Chateau shopper
-OL,8,     GSarah is smitten with period
-OL,9,     Gfeatures, but Bart worries about
-OL,10,     Gthe level of DIY.
-OL,11,G1055FGeorge Clarke's Amazing Spaces
-OL,12,     GGeorge revisits projects that
-OL,13,     Gcelebrate Britain's rich history
-OL,14,     Gand traditions, including
-OL,15,     Gbunkers from World War II, a
-OL,16,     GVictorian railway carriage, and
-OL,17,     Ga cream tea business in a camper
-OL,18,     Gvan.
-OL,19,G1155FChannel 4 News Summary
-OL,20,     GChannel 4's midday news summary.
+OL,4,G1055FGeorge Clarke's Amazing Spaces
+OL,5,     GGeorge revisits projects that
+OL,6,     Gcelebrate Britain's rich history
+OL,7,     Gand traditions, including
+OL,8,     Gbunkers from World War II, a
+OL,9,     GVictorian railway carriage, and
+OL,10,     Ga cream tea business in a camper
+OL,11,     Gvan.
+OL,12,G1155FChannel 4 News Summary
+OL,13,     GChannel 4's midday news summary.
+OL,14,G1200FLive: Steph's Packed Lunch
+OL,15,     GSteph McGovern presents her live
+OL,16,     Glunchtime show featuring
+OL,17,     Gcelebrity guests, fantastic food
+OL,18,     Gand the best entertainment,
+OL,19,     Glifestyle and consumer stories
+OL,20,     Gmaking the headlines.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695115525
+OL,0,        ECIMSBWebfax     F698A1695119139
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for TUE 19 SEP
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss
-OL,6,     Gthe latest news and get your
-OL,7,     Gviews and opinions of the day.
-OL,8,G1115FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories
-OL,12,     Gof the day.
-OL,13,G1240FAlexis Conran
-OL,14,     GAlexis Conran hears from you,
-OL,15,     Gtalking about the important
-OL,16,     Gstories and getting your
-OL,17,     Gopinions and views on them.
-OL,18,G1340F5 News at Lunchtime
-OL,19,     GNational and international news.
+OL,4,G1115FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories
+OL,8,     Gof the day.
+OL,9,G1240FAlexis Conran
+OL,10,     GAlexis Conran hears from you,
+OL,11,     Gtalking about the important
+OL,12,     Gstories and getting your
+OL,13,     Gopinions and views on them.
+OL,14,G1340F5 News at Lunchtime
+OL,15,     GNational and international news.
+OL,16,G1345FHome and Away
+OL,17,     GMali needs to make up ground
+OL,18,     Gwith his mum. Theo's humiliation
+OL,19,     Gis compounded. Marilyn tries to
+OL,20,     Gvoice her concerns to Alf.
