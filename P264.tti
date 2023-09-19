@@ -1,8 +1,8 @@
-PN,26400
-SC,0000
-PS,8000
-OL,0,        ECIMSBWebfax     F264A1695083019
-OL,1,W{${$~+$ {$~{4k4h7} *u|
+PN,26401
+SC,0001
+PS,c000
+OL,0,        ECIMSBWebfax     F264A1695093854
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for MON 18 SEP
@@ -19,9 +19,21 @@ OL,13,G0543FPrayer for the Day
 OL,14,     GA reflection and prayer to start
 OL,15,     Gthe day with the Rt Rev Mary
 OL,16,     GStallard, Bishop of Llandaff.
-OL,17,G0545FFarming Today
-OL,18,     GThe latest news about food,
-OL,19,     Gfarming and the countryside.
-OL,20,G0558FTweet of the Day
-OL,21,     GSteve Backshall presents the
-OL,22,     Gcirl bunting.
+PN,26402
+SC,0002
+PS,c000
+OL,0,        ECIMSBWebfax     F264A1695093854
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,CProgramme listings for MON 18 SEP
+OL,4,G0545FFarming Today
+OL,5,     GFarmers' campaign for fair
+OL,6,     Gdealing by supermarkets. Re-
+OL,7,     Gseeding oil seed rape crop by
+OL,8,     Gdrone. Cider maker sells direct
+OL,9,     Gto customers by creating new
+OL,10,     Grestaurant.
+OL,11,G0558FTweet of the Day
+OL,12,     GSteve Backshall presents the
+OL,13,     Gcirl bunting.
