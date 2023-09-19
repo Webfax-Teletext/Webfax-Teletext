@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695137194
+OL,0,        ECIMSBWebfax     F698A1695140873
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695137194
+OL,0,        ECIMSBWebfax     F698A1695140873
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695137194
+OL,0,        ECIMSBWebfax     F698A1695140873
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,30 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for TUE 19 SEP
-OL,4,G1545FGarden Rescue
-OL,5,     GLee and Chris are in Keynsham to
-OL,6,     Gdesign a Zen family space for
-OL,7,     GCraig, Becky and their three
-OL,8,     Gboys.
-OL,9,G1630FThe Finish Line
-OL,10,     GRoman Kemp hosts this quiz show
-OL,11,     Gwith sidekick Sarah Greene. The
-OL,12,     Gcontestants race on moving
-OL,13,     Gpodiums across the studio floor
-OL,14,     Gto try to win #5,000.
-OL,15,G1715FPointless
-OL,16,     GThe quiz in which contestants
-OL,17,     Gtry to score as few points as
-OL,18,     Gpossible by plumbing the depths
-OL,19,     Gof their general knowledge to
-OL,20,     Gcome up with the answers no-one
-OL,21,     Gelse could think of.
-OL,22,G1800FBBC News
+OL,4,G1715FPointless
+OL,5,     GThe quiz in which contestants
+OL,6,     Gtry to score as few points as
+OL,7,     Gpossible by plumbing the depths
+OL,8,     Gof their general knowledge to
+OL,9,     Gcome up with the answers no-one
+OL,10,     Gelse could think of.
+OL,11,G1800FBBC News
+OL,12,G1830FRegional News
+OL,13,G1900FThe One Show
+OL,14,     GLauren Laverne and Jermaine
+OL,15,     GJenas bring you the stories that
+OL,16,     Gmatter from across the country.
+OL,17,G1930FEastEnders
+OL,18,     GSuki takes a big risk to get the
+OL,19,     Gtruth, and Sharon steps in to
+OL,20,     Gsave Phil. It's Kat's hen do,
+OL,21,     Gbut the event does not go
+OL,22,     Gwithout a hitch.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695137194
+OL,0,        ECIMSBWebfax     F698A1695140873
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -86,97 +86,92 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for TUE 19 SEP
-OL,4,G1600FSerengeti
-OL,5,     GAs the Serengeti starts to dry
-OL,6,     Gout, competition hots up between
-OL,7,     Gthe families of lions, cheetahs,
-OL,8,     Gbaboons, elephants, ostriches
-OL,9,     Gand hyenas.
-OL,10,G1700FFlog It!
-OL,11,     GToday's Flog It! comes from
-OL,12,     GBristol Cathedral. Paul Martin
-OL,13,     Gfinds out about boat building in
-OL,14,     GBristol.
-OL,15,G1800FRichard Osman's House of Games
-OL,16,     GMilton Jones, Ria Lina, Martin
-OL,17,     GRoberts and Briony May Williams
-OL,18,     Gtest their general knowledge
-OL,19,     Gskills on this week's House of
-OL,20,     GGames.
+OL,4,G1700FFlog It!
+OL,5,     GToday's Flog It! comes from
+OL,6,     GBristol Cathedral. Paul Martin
+OL,7,     Gfinds out about boat building in
+OL,8,     GBristol.
+OL,9,G1800FRichard Osman's House of Games
+OL,10,     GMilton Jones, Ria Lina, Martin
+OL,11,     GRoberts and Briony May Williams
+OL,12,     Gtest their general knowledge
+OL,13,     Gskills on this week's House of
+OL,14,     GGames.
+OL,15,G1830FMarcus Wareing's Tales from a
+OL,16,     FKitchen Garden
+OL,17,     GMarcus discovers the secret to
+OL,18,     Ggreat cider making in Somerset,
+OL,19,     Gvisits an edible food forest,
+OL,20,     Gand cooks a lunch of sausages
+OL,21,     Gand fried potatoes.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695137194
+OL,0,        ECIMSBWebfax     F698A1695140873
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for TUE 19 SEP
-OL,4,G1600FTipping Point
-OL,5,     GBen Shephard hosts the quiz show
-OL,6,     Gin which four players take on an
-OL,7,     Gextraordinary machine in the
-OL,8,     Ghope of winning a cash jackpot.
-OL,9,G1700FThe Chase
-OL,10,     GBradley Walsh hosts as four
-OL,11,     Gpeople who have never met before
-OL,12,     G- Dave from Trowbridge, Katie
-OL,13,     Gfrom Liverpool, Meera from
-OL,14,     GIlford and Gavin from Wakefield
-OL,15,     G- face a Chaser.
-OL,16,G1800FRegional News
-OL,17,G1830FITV Evening News
-OL,18,G1930FEmmerdale
-OL,19,     GLeyla is furious, Craig
-OL,20,     Gcontinues to use Samson, and Bob
-OL,21,     Greconnects with Wendy.
+OL,4,G1700FThe Chase
+OL,5,     GBradley Walsh hosts as four
+OL,6,     Gpeople who have never met before
+OL,7,     G- Dave from Trowbridge, Katie
+OL,8,     Gfrom Liverpool, Meera from
+OL,9,     GIlford and Gavin from Wakefield
+OL,10,     G- face a Chaser.
+OL,11,G1800FRegional News
+OL,12,G1830FITV Evening News
+OL,13,G1930FEmmerdale
+OL,14,     GLeyla is furious, Craig
+OL,15,     Gcontinues to use Samson, and Bob
+OL,16,     Greconnects with Wendy.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695137194
+OL,0,        ECIMSBWebfax     F698A1695140873
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for TUE 19 SEP
-OL,4,G1600FA Place in the Sun
-OL,5,     GThe new run continues. Catering
-OL,6,     Gbusiness owner Sarah looks for
-OL,7,     Gher dream holiday home on the
-OL,8,     GGreek island of Corfu. Danni
-OL,9,     GMenzies serves up five
-OL,10,     Gtantalising temptations for her
-OL,11,     G#170k.
-OL,12,G1700FA New Life in the Sun
-OL,13,     GIn France, plumbing problems hit
-OL,14,     Ga pair of holiday hosts. In
-OL,15,     GSpain, a family prepare to
-OL,16,     Glaunch their new cocktail bar,
-OL,17,     Gand a staffing shortage hits two
-OL,18,     Grestaurateurs in Portugal.
+OL,4,G1700FA New Life in the Sun
+OL,5,     GIn France, plumbing problems hit
+OL,6,     Ga pair of holiday hosts. In
+OL,7,     GSpain, a family prepare to
+OL,8,     Glaunch their new cocktail bar,
+OL,9,     Gand a staffing shortage hits two
+OL,10,     Grestaurateurs in Portugal.
+OL,11,G1800FThe Simpsons
+OL,12,     GFatzcarraldo: When Springfield's
+OL,13,     Gfast food joints develop
+OL,14,     Gnutritious new menus, Homer
+OL,15,     Gturns to the last bastion of
+OL,16,     Ggreasy food for comfort and digs
+OL,17,     Gup some childhood memories.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695137194
+OL,0,        ECIMSBWebfax     F698A1695140873
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for TUE 19 SEP
-OL,4,G1600FBargain-Loving Brits in the Sun
-OL,5,     GWe join Durham lass Catherine
-OL,6,     Gwho is visiting Benidorm, with a
-OL,7,     Gplan to open her own animal
-OL,8,     Grescue centre. And on the Costa
-OL,9,     GDel Sol entrepreneur Wenda hopes
-OL,10,     Gto launch menopause class.
-OL,11,G1700F5 News at 5
-OL,12,     GJoin Dan Walker and the team for
-OL,13,     Gthe news that matters to you.
-OL,14,G1800FSusan Calman's Grand Day Out
-OL,15,     GSusan and campervan Helen head
-OL,16,     Gto the New Forest. From ancient
-OL,17,     Gwoodland to unspoiled coastline.
+OL,4,G1700F5 News at 5
+OL,5,     GJoin Dan Walker and the team for
+OL,6,     Gthe news that matters to you.
+OL,7,G1800FSusan Calman's Grand Day Out
+OL,8,     GSusan and campervan Helen head
+OL,9,     Gto the New Forest. From ancient
+OL,10,     Gwoodland to unspoiled coastline.
+OL,11,G1900FGPs: Behind Closed Doors
+OL,12,     GIrene arrives at Hall Green
+OL,13,     GHealth, Birmingham, with a nasty
+OL,14,     Gfoot infection. Farhan sees Dr
+OL,15,     GWard as he is struggling with a
+OL,16,     Gtight chest and feelings of
+OL,17,     Gsuffocation in enclosed spaces.
