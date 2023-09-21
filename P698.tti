@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695320735
+OL,0,        ECIMSBWebfax     F698A1695324348
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695320735
+OL,0,        ECIMSBWebfax     F698A1695324348
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695320735
+OL,0,        ECIMSBWebfax     F698A1695324348
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,30 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for THU 21 SEP
-OL,4,G1900FThe One Show
-OL,5,     GAlex Jones and Roman Kemp bring
-OL,6,     Gyou the stories that matter from
-OL,7,     Gacross the country.
-OL,8,G1930FEastEnders
-OL,9,     GPhil reels when he learns the
-OL,10,     Gtruth, and Ian gives Cindy an
-OL,11,     Gultimatum.
-OL,12,G2000FSort Your Life Out with Stacey
-OL,13,     FSolomon
-OL,14,     GStacey Solomon helps a family
-OL,15,     Gwith seven members transform
-OL,16,     Gtheir home.
-OL,17,G2100FAmbulance
-OL,18,     GThe ambulance service face the
-OL,19,     Gthreat of a nerve agent.
-OL,20,     GContains some strong language
-OL,21,     Gand some upsetting scenes.
-OL,22,G2200FBBC News and Weather
+OL,4,G2000FSort Your Life Out with Stacey
+OL,5,     FSolomon
+OL,6,     GStacey Solomon helps a family
+OL,7,     Gwith seven members transform
+OL,8,     Gtheir home.
+OL,9,G2100FAmbulance
+OL,10,     GThe ambulance service face the
+OL,11,     Gthreat of a nerve agent.
+OL,12,     GContains some strong language
+OL,13,     Gand some upsetting scenes.
+OL,14,G2200FBBC News and Weather
+OL,15,G2230FRegional News
+OL,16,G2240FQuestion Time
+OL,17,     GFiona Bruce presents an hour of
+OL,18,     Gtopical debate with a panel of
+OL,19,     Gpoliticians and other guests
+OL,20,     Gfacing topical questions from an
+OL,21,     Gaudience in different parts of
+OL,22,     Gthe UK each week.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695320735
+OL,0,        ECIMSBWebfax     F698A1695324348
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -86,95 +86,100 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for THU 21 SEP
-OL,4,G1900FThe Warship: Tour of Duty
-OL,5,     GThe warship sails into the
-OL,6,     Geastern Mediterranean and runs
-OL,7,     Gthe gauntlet of hostile Russian
-OL,8,     Gwarships and jet fighters.
-OL,9,     GThere's a dramatic standoff near
-OL,10,     Gthe coast of Syria.
-OL,11,G2000FThe Hidden World of Hospitality
-OL,12,     Fwith Tom Kerridge
-OL,13,     GTom looks at how the industry
-OL,14,     Gdelivers exceptional service on
-OL,15,     Ga huge scale.
-OL,16,G2100FPicasso: The Beauty and the Beast
-OL,17,     GPicasso's early years in Paris
-OL,18,     Gsee a period of creativity and
-OL,19,     Gtroubled relationships. Contains
-OL,20,     Gsome scenes which some viewers
-OL,21,     Gmay find upsetting.
+OL,4,G2000FThe Hidden World of Hospitality
+OL,5,     Fwith Tom Kerridge
+OL,6,     GTom looks at how the industry
+OL,7,     Gdelivers exceptional service on
+OL,8,     Ga huge scale.
+OL,9,G2100FPicasso: The Beauty and the Beast
+OL,10,     GPicasso's early years in Paris
+OL,11,     Gsee a period of creativity and
+OL,12,     Gtroubled relationships. Contains
+OL,13,     Gsome scenes which some viewers
+OL,14,     Gmay find upsetting.
+OL,15,G2200FMortimer & Whitehouse: Gone
+OL,16,     FFishing
+OL,17,     GPaul, Bob and Ted travel in
+OL,18,     Gstyle to the Hampshire Avon. Bob
+OL,19,     Gmakes the most of the unique
+OL,20,     Gaccommodation, and Ted has a
+OL,21,     Gblind date.
+OL,22,G2230FNewsnight
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695320735
+OL,0,        ECIMSBWebfax     F698A1695324348
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 21 SEP
-OL,4,G1830FITV Evening News
-OL,5,G1930FEmmerdale
-OL,6,     GGail makes a mysterious phone
-OL,7,     Gcall and is shaken, and Kim is
-OL,8,     Gdelighted with Gabby's news.
-OL,9,G2030FPaul O'Grady: For the Love of
-OL,10,     FDogs
-OL,11,     GHeart-warming series about life
-OL,12,     Gat Battersea Dogs and Cats Home.
-OL,13,     GPaul's got his work cut out when
-OL,14,     Ghe meets a gorgeous old
-OL,15,     GChihuahua with no end of
-OL,16,     Gailments.
+OL,4,G1930FEmmerdale
+OL,5,     GGail makes a mysterious phone
+OL,6,     Gcall and is shaken, and Kim is
+OL,7,     Gdelighted with Gabby's news.
+OL,8,G2030FPaul O'Grady: For the Love of
+OL,9,     FDogs
+OL,10,     GHeart-warming series about life
+OL,11,     Gat Battersea Dogs and Cats Home.
+OL,12,     GPaul's got his work cut out when
+OL,13,     Ghe meets a gorgeous old
+OL,14,     GChihuahua with no end of
+OL,15,     Gailments.
+OL,16,G2100FMy Mum, Your Dad
+OL,17,     GRelationship show. As the end
+OL,18,     Gapproaches, the romance is
+OL,19,     Gramped up as the couples are all
+OL,20,     Gsent on extravagant dates where
+OL,21,     Gthey discuss their journey and
+OL,22,     Gplans for the future.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695320735
+OL,0,        ECIMSBWebfax     F698A1695324348
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 21 SEP
-OL,4,G1900FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G2000FKirstie and Phil's Love It or
-OL,8,     FList It
-OL,9,     GKirstie and Phil meet Sarah and
-OL,10,     GJabzz in Cheshire. Sarah wants
-OL,11,     Gmore space and a second
-OL,12,     Gbathroom, but Jabzz doesn't want
-OL,13,     Gto fork out more money. Will
-OL,14,     Gthey stay or go?
-OL,15,G2100FTaskmaster
-OL,16,     GJulian Clary, Lucy Beaumont, Sam
-OL,17,     GCampbell, Sue Perkins and Susan
-OL,18,     GWokoma take on the Taskmaster.
-OL,19,     GIn episode one, Greg Davies
-OL,20,     Gslaps Alex Horne because of peas.
+OL,4,G2000FKirstie and Phil's Love It or
+OL,5,     FList It
+OL,6,     GKirstie and Phil meet Sarah and
+OL,7,     GJabzz in Cheshire. Sarah wants
+OL,8,     Gmore space and a second
+OL,9,     Gbathroom, but Jabzz doesn't want
+OL,10,     Gto fork out more money. Will
+OL,11,     Gthey stay or go?
+OL,12,G2100FTaskmaster
+OL,13,     GJulian Clary, Lucy Beaumont, Sam
+OL,14,     GCampbell, Sue Perkins and Susan
+OL,15,     GWokoma take on the Taskmaster.
+OL,16,     GIn episode one, Greg Davies
+OL,17,     Gslaps Alex Horne because of peas.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695320735
+OL,0,        ECIMSBWebfax     F698A1695324348
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 21 SEP
-OL,4,G1900FAlexander Armstrong in Sri Lanka
-OL,5,     GAlexander feeds the cutest
-OL,6,     Gorphaned baby elephants in a
-OL,7,     Gsanctuary and ventures to a
-OL,8,     Gtraditional spa where his entire
-OL,9,     Gbody is covered in what look
-OL,10,     Glikes humous.
-OL,11,G2000FFive-a-Day: The Big Con?
-OL,12,     GTwenty years ago, the government
-OL,13,     Gtold us to eat 'five-a-day' -
-OL,14,     Gthe only way to stop our
-OL,15,     Gnational obesity crisis. Yet
-OL,16,     Ghardly anyone does it. So, was
-OL,17,     Gthe campaign a big con?
+OL,4,G2000FFive-a-Day: The Big Con?
+OL,5,     GTwenty years ago, the government
+OL,6,     Gtold us to eat 'five-a-day' -
+OL,7,     Gthe only way to stop our
+OL,8,     Gnational obesity crisis. Yet
+OL,9,     Ghardly anyone does it. So, was
+OL,10,     Gthe campaign a big con?
+OL,11,G2100FPeter Sellers: The Dark Side of
+OL,12,     Fthe Goon
+OL,13,     GAn intimate portrait of Peter
+OL,14,     GSellers, a comic genius and one
+OL,15,     Gof Britain's greatest comic
+OL,16,     Gactors, with previously unseen
+OL,17,     Grare home movie footage of him
+OL,18,     Gat play.
