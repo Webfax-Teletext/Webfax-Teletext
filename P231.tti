@@ -1,7 +1,7 @@
 PN,23101
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F231A1695187847
+OL,0,        ECIMSBWebfax     F231A1695267349
 OL,1,W{${$~+$ ~k4~k4~s                G1/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -26,7 +26,7 @@ OL,17,     Gpatients to steal thousands.
 PN,23102
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F231A1695187847
+OL,0,        ECIMSBWebfax     F231A1695267349
 OL,1,W{${$~+$ ~k4~k4~s                G2/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -56,7 +56,7 @@ OL,22,     Gthe West Midlands Fairground.
 PN,23103
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F231A1695187847
+OL,0,        ECIMSBWebfax     F231A1695267349
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -82,7 +82,7 @@ OL,18,     Gvery old armchair.
 PN,23104
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F231A1695187847
+OL,0,        ECIMSBWebfax     F231A1695267349
 OL,1,W{${$~+$ ~k4~k4~s                G4/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -110,7 +110,7 @@ OL,20,     Gto try to win #5,000.
 PN,23105
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F231A1695187847
+OL,0,        ECIMSBWebfax     F231A1695267349
 OL,1,W{${$~+$ ~k4~k4~s                G5/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -138,7 +138,7 @@ OL,20,     Gultimatum.
 PN,23106
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F231A1695187847
+OL,0,        ECIMSBWebfax     F231A1695267349
 OL,1,W{${$~+$ ~k4~k4~s                G6/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -152,17 +152,23 @@ OL,6,     GStacey Solomon helps a family
 OL,7,     Gwith seven members transform
 OL,8,     Gtheir home.
 OL,9,G2100FAmbulance
-OL,10,     GAn urgent call from someone
-OL,11,     Gthreatening to use a nerve agent
-OL,12,     Gagainst the emergency services
-OL,13,     Gleads to a major incident
-OL,14,     Gstandby being declared.
-OL,15,G2200FBBC News and Weather
-OL,16,G2230FRegional News
+OL,10,     GThe ambulance service face the
+OL,11,     Gthreat of a nerve agent.
+OL,12,     GContains some strong language
+OL,13,     Gand some upsetting scenes.
+OL,14,G2200FBBC News and Weather
+OL,15,G2230FRegional News
+OL,16,G2240FQuestion Time
+OL,17,     GFiona Bruce presents an hour of
+OL,18,     Gtopical debate with a panel of
+OL,19,     Gpoliticians and other guests
+OL,20,     Gfacing topical questions from an
+OL,21,     Gaudience in different parts of
+OL,22,     Gthe UK each week.
 PN,23107
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F231A1695187847
+OL,0,        ECIMSBWebfax     F231A1695267349
 OL,1,W{${$~+$ ~k4~k4~s                G7/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -170,15 +176,8 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for THU 21 SEP
-OL,4,G2240FQuestion Time
-OL,5,     GFiona Bruce presents an hour of
-OL,6,     Gtopical debate with a panel of
-OL,7,     Gpoliticians and other guests
-OL,8,     Gfacing topical questions from an
-OL,9,     Gaudience in different parts of
-OL,10,     Gthe UK each week.
-OL,11,G2340FNewscast
-OL,12,     GLighthearted discussion of the
-OL,13,     Gweek's political events.
-OL,14,G0010FWeather for the Week Ahead
-OL,15,G0015FBBC News
+OL,4,G2340FNewscast
+OL,5,     GLighthearted discussion of the
+OL,6,     Gweek's political events.
+OL,7,G0010FWeather for the Week Ahead
+OL,8,G0015FBBC News
