@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695356848
+OL,0,        ECIMSBWebfax     F698A1695360463
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695356848
+OL,0,        ECIMSBWebfax     F698A1695360463
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,80 +47,133 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695356848
+OL,0,        ECIMSBWebfax     F698A1695360463
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for THU 21 SEP
-OL,4,G0015FBBC News
+OL,3,CProgramme listings for FRI 22 SEP
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FFraud Squad
+OL,12,     GA couple fund their lavish
+OL,13,     Glifestyle with a #400,000 care
+OL,14,     Ghome staffing scam.
+OL,15,G1045FClaimed and Shamed
+OL,16,     GA criminal who masterminded a
+OL,17,     G#250,000 insurance racket is put
+OL,18,     Gback behind bars, and a wedding
+OL,19,     Gphotographer's claim for ruined
+OL,20,     Gcamera kit is exposed as a lie.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695356848
+OL,0,        ECIMSBWebfax     F698A1695360463
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for THU 21 SEP
+OL,3,CProgramme listings for FRI 22 SEP
 OL,4,G0400FThis is BBC Two
+OL,5,G0630FMoney for Nothing
+OL,6,     GJacqui Joseph scoops up three
+OL,7,     Gunwanted items just begging to
+OL,8,     Gbe repurposed.
+OL,9,G0715FGarden Rescue
+OL,10,     GCharlie and Flo are in Sheffield
+OL,11,     Gto create a garden with a forest
+OL,12,     Gfeel for couple Karen and
+OL,13,     GKathryn, lovers of the outdoors.
+OL,14,G0800FGardeners' World
+OL,15,     GMonty plants bulbs in pots,
+OL,16,     Gincluding hyacinths and
+OL,17,     Gdaffodils.
+OL,18,G0900FNicky Campbell
+OL,19,     GNicky Campbell takes your calls
+OL,20,     Gon the day's talking points,
+OL,21,     Ghearing views and experiences
+OL,22,     Gfrom across the UK.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695356848
+OL,0,        ECIMSBWebfax     F698A1695360463
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for THU 21 SEP
-OL,4,G0505FOti Mabuse's Breakfast Show
-OL,5,     GOti is brightening up your day
-OL,6,     Gwith her own chat show - this
-OL,7,     Gtime she's joined in the studio
-OL,8,     Gby singer Katie Melua and TV
-OL,9,     Gpersonality Vicky Pattison.
+OL,3,CProgramme listings for FRI 22 SEP
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a
+OL,9,     Gtopical mix of entertainment,
+OL,10,     Gdiscussion and showbiz glamour
+OL,11,     Gas well as the latest fashion,
+OL,12,     Gfood and celebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life
+OL,17,     Gstories, competitions and a mix
+OL,18,     Gof cookery, health, beauty,
+OL,19,     Glifestyle and more.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695356848
+OL,0,        ECIMSBWebfax     F698A1695360463
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for THU 21 SEP
-OL,4,G0515FCouples Come Dine with Me
-OL,5,     GIn Belfast, newly-wed am-dram
-OL,6,     Glovers Mel and Richard take on
-OL,7,     Grockers Joanne and Jim and
-OL,8,     Gconfident Cherith and David, in
-OL,9,     Ga week featuring a love-themed
-OL,10,     Gmenu and spicy banter.
+OL,3,CProgramme listings for FRI 22 SEP
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Chris McCausland joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0645FCheers
+OL,12,     GAbnormal Psychology: Frasier is
+OL,13,     Gexcited to appear on a TV show
+OL,14,     Gin a debate between
+OL,15,     Gpsychiatrists, until he learns
+OL,16,     Ghis opponent is a woman he once
+OL,17,     Gdated: Dr Lilith Sternin.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695356848
+OL,0,        ECIMSBWebfax     F698A1695360463
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for THU 21 SEP
-OL,4,G0505FGreat Scientists
-OL,5,     GSeries presented by Allan
-OL,6,     GChapman which profiles famous
-OL,7,     Gand influential scientists. This
-OL,8,     Gedition profiles Galileo, the
-OL,9,     G16th-century scientist who
-OL,10,     Ginvented the telescope.
-OL,11,G0530FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the
-OL,14,     Gworld, focusing on celebrities,
-OL,15,     Gmovies, music and entertainment.
+OL,3,CProgramme listings for FRI 22 SEP
+OL,4,G0625FOggy Oggy
+OL,5,     GImpressed by WildCat Oggy Oggy
+OL,6,     Gdecides to do everything just
+OL,7,     Glike him. But Oggy Oggy is
+OL,8,     Gclumsy in the forest and begins
+OL,9,     Gto have doubts.
+OL,10,G0635FOdo
+OL,11,     GOdo and Doodle pretend to be
+OL,12,     G'Inspector Oodle' and award the
+OL,13,     Gcamp a Golden Acorn.
+OL,14,G0640FPeppa Pig
+OL,15,     GPeppa Pig goes to the park to
+OL,16,     Gplay with friends and have new
+OL,17,     Gexperiences.
