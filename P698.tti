@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695479642
+OL,0,        ECIMSBWebfax     F698A1695483253
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695479642
+OL,0,        ECIMSBWebfax     F698A1695483253
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695479642
+OL,0,        ECIMSBWebfax     F698A1695483253
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,30 +55,29 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for SAT 23 SEP
-OL,4,G1500FEscape to the Country
-OL,5,     GIt's an island escape as Jules
-OL,6,     GHudson helps a couple from a
-OL,7,     Gtown in Cheshire to find their
-OL,8,     Gdream home on Anglesey.
-OL,9,G1600FGarden Rescue
-OL,10,     GIn Ellesmere Port, James wants
-OL,11,     Gto turn his neglected garden
-OL,12,     Ginto a Cornish coastal haven.
-OL,13,     GDesigners Charlie Dimmock and
-OL,14,     GLee Burkhill go head-to-head.
-OL,15,G1630FFinal Score
-OL,16,     GJason Mohammad keeps you up to
-OL,17,     Gdate on developments in the
-OL,18,     Gafternoon's matches, with goal
-OL,19,     Gflashes and reports from across
-OL,20,     Gthe country, as well as studio
-OL,21,     Ganalysis and debate.
-OL,22,G1710FBBC News
+OL,4,G1630FFinal Score
+OL,5,     GJason Mohammad keeps you up to
+OL,6,     Gdate on developments in the
+OL,7,     Gafternoon's matches, with goal
+OL,8,     Gflashes and reports from across
+OL,9,     Gthe country, as well as studio
+OL,10,     Ganalysis and debate.
+OL,11,G1710FBBC News
+OL,12,G1720FRegional News
+OL,13,G1725FWeather
+OL,14,G1730FAlan Carr's Picture Slam
+OL,15,     GHoping to win #10,000 this week
+OL,16,     Gare teams from Brighton, London
+OL,17,     Gand North Yorkshire.
+OL,18,G1815FStrictly Come Dancing
+OL,19,     GTess and Claud are back with the
+OL,20,     Gfirst live show of Strictly Come
+OL,21,     GDancing 2023.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695479642
+OL,0,        ECIMSBWebfax     F698A1695483253
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -104,73 +103,78 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695479642
+OL,0,        ECIMSBWebfax     F698A1695483253
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 23 SEP
-OL,4,G1520FTipping Point: Best Ever Finals
-OL,5,     GTwo more classic Tipping Point
-OL,6,     Gend games, full of drama and
-OL,7,     Gjeopardy.
-OL,8,G1555FRWC 2023 Live: England v Chile
-OL,9,     GMark Pougatch is joined in the
-OL,10,     Gstudio by Sir Clive Woodward,
-OL,11,     GJonny Wilkinson, and Lawrence
-OL,12,     GDallaglio as England follow up
-OL,13,     Gtheir defiant win over Argentina
-OL,14,     Gby facing Chile.
-OL,15,G1900FITV Evening News
-OL,16,G1905FRegional News
+OL,4,G1555FRWC 2023 Live: England v Chile
+OL,5,     GMark Pougatch is joined in the
+OL,6,     Gstudio by Sir Clive Woodward,
+OL,7,     GJonny Wilkinson, and Lawrence
+OL,8,     GDallaglio as England follow up
+OL,9,     Gtheir defiant win over Argentina
+OL,10,     Gby facing Chile.
+OL,11,G1900FITV Evening News
+OL,12,G1905FRegional News
+OL,13,G1915FRWC 2023 Live: S Africa v Ireland
+OL,14,     GMark Pougatch presents 2023
+OL,15,     GRugby World Cup coverage as Six
+OL,16,     GNations Grand Slam winners
+OL,17,     GIreland take on defending world
+OL,18,     Gchampions South Africa at the
+OL,19,     GStade de France in Paris.
+OL,20,G2225FITV News
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695479642
+OL,0,        ECIMSBWebfax     F698A1695483253
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 23 SEP
-OL,4,G1340FMegamind
-OL,5,     GAnimated adventure. There are
-OL,6,     Gunexpected consequences when a
-OL,7,     Gblue-skinned, large-headed alien
-OL,8,     Gsupervillain outwits and defeats
-OL,9,     Ghis superhero enemy. With the
-OL,10,     Gvoice of Will Ferrell.
-OL,11,G1535FFour in a Bed
-OL,12,     GAlan and Steph hope that their
-OL,13,     Ghigh standards of cleanliness at
-OL,14,     GGrove Barn B&B in Norfolk will
-OL,15,     Glead to sparkling feedback. But
-OL,16,     GAlistair and Scott have a
-OL,17,     Gsinking feeling in their
-OL,18,     Gbathroom.
+OL,4,G1605FFour in a Bed
+OL,5,     GCompetitive couple Christine and
+OL,6,     GIan host at Picaroons B&B in
+OL,7,     GSheringham, Norfolk. But there
+OL,8,     Gare plumbing problems and cross
+OL,9,     Gwords at breakfast.
+OL,10,G1635FFour in a Bed
+OL,11,     GStylish Scott and Alistair
+OL,12,     Gwelcome their rivals to
+OL,13,     GBrightham House in Malborough,
+OL,14,     GDevon, where guests Steph and
+OL,15,     GAlan are dazed by the design and
+OL,16,     Gexpectations are high for
+OL,17,     Gbreakfast.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1695479642
+OL,0,        ECIMSBWebfax     F698A1695483253
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 23 SEP
-OL,4,G1435FThe Lake House
-OL,5,     GFantasy romance starring Keanu
-OL,6,     GReeves and Sandra Bullock. An
-OL,7,     Garchitect and the woman who
-OL,8,     Glived in his house years before
-OL,9,     Gswap love letters via its time-
-OL,10,     Gdefying mailbox.
-OL,11,G1535FAbout Time
-OL,12,     GRomantic drama starring Domhnall
-OL,13,     GGleeson and Rachel McAdams. When
-OL,14,     GTim's father tells him that he
-OL,15,     Gis able to travel through time,
-OL,16,     Ghe decides to use it to find a
-OL,17,     Ggirlfriend.
-OL,18,G1635F5 News Update
-OL,19,     GNational and international news.
+OL,4,G1535FAbout Time
+OL,5,     GRomantic drama starring Domhnall
+OL,6,     GGleeson and Rachel McAdams. When
+OL,7,     GTim's father tells him that he
+OL,8,     Gis able to travel through time,
+OL,9,     Ghe decides to use it to find a
+OL,10,     Ggirlfriend.
+OL,11,G1635F5 News Update
+OL,12,     GNational and international news.
+OL,13,G1640FAbout Time
+OL,14,     GRomantic drama starring Domhnall
+OL,15,     GGleeson and Rachel McAdams. When
+OL,16,     GTim's father tells him that he
+OL,17,     Gis able to travel through time,
+OL,18,     Ghe decides to use it to find a
+OL,19,     Ggirlfriend.
+OL,20,G1800F5 News Weekend
+OL,21,     GNational and international news.
