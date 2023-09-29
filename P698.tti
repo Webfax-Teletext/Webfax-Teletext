@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696011427
+OL,0,        ECIMSBWebfax     F698A1696015037
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696011427
+OL,0,        ECIMSBWebfax     F698A1696015037
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696011427
+OL,0,        ECIMSBWebfax     F698A1696015037
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,28 +55,27 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for FRI 29 SEP
-OL,4,G1900FThe One Show
-OL,5,     GAlex Jones and Roman Kemp bring
-OL,6,     Gyou the stories that matter from
-OL,7,     Gacross the country.
-OL,8,G1930FMake It at Market
-OL,9,     GCan a glass-blower and two
-OL,10,     Gfurniture upcyclers turn their
-OL,11,     Gpassions into a business.
-OL,12,G2000FDragons' Den
-OL,13,     GEntrepreneurs pitch a cruelty-
-OL,14,     Gfree watch strap and an eco-
-OL,15,     Gfriendly deodorant.
-OL,16,G2100FWould I Lie to You?
-OL,17,     GSorting the fact from the
-OL,18,     Gfiction this week are guests
-OL,19,     GLady Leshurr, Philippa Perry,
-OL,20,     GAlan Titchmarsh and Mike Wozniak.
+OL,4,G2000FDragons' Den
+OL,5,     GEntrepreneurs pitch a cruelty-
+OL,6,     Gfree watch strap and an eco-
+OL,7,     Gfriendly deodorant.
+OL,8,G2100FWould I Lie to You?
+OL,9,     GSorting the fact from the
+OL,10,     Gfiction this week are guests
+OL,11,     GLady Leshurr, Philippa Perry,
+OL,12,     GAlan Titchmarsh and Mike Wozniak.
+OL,13,G2130FMrs Brown's Boys
+OL,14,     GDermot and Maria renew their
+OL,15,     Gvows, forcing Agnes to plan a
+OL,16,     Gparty with her arch-nemesis.
+OL,17,     GContains strong language.
+OL,18,G2200FBBC News and Weather
+OL,19,G2230FRegional News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696011427
+OL,0,        ECIMSBWebfax     F698A1696015037
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -84,95 +83,97 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for FRI 29 SEP
-OL,4,G1900FBeechgrove Garden
-OL,5,     GCarole Baxter and George
-OL,6,     GAnderson look back at how the
-OL,7,     G2023 growing season has been.
-OL,8,G1930FGardeners' World
-OL,9,     GA catch-up with three sisters in
-OL,10,     GDorset to discover how their
-OL,11,     Gfallen-down greenhouse turned
-OL,12,     Ginto an opportunity to transform
-OL,13,     Gpart of their garden.
-OL,14,G2030FGolf: Ryder Cup Highlights
-OL,15,     GHighlights from the opening day
-OL,16,     Gof the 44th Ryder Cup between
-OL,17,     GEurope and their old rivals the
-OL,18,     GUnited States at the Marco
-OL,19,     GSimone Golf and Country Club in
-OL,20,     GRome, Italy.
+OL,4,G1930FGardeners' World
+OL,5,     GA catch-up with three sisters in
+OL,6,     GDorset to discover how their
+OL,7,     Gfallen-down greenhouse turned
+OL,8,     Ginto an opportunity to transform
+OL,9,     Gpart of their garden.
+OL,10,G2030FGolf: Ryder Cup Highlights
+OL,11,     GHighlights from the opening day
+OL,12,     Gof the 44th Ryder Cup between
+OL,13,     GEurope and their old rivals the
+OL,14,     GUnited States at the Marco
+OL,15,     GSimone Golf and Country Club in
+OL,16,     GRome, Italy.
+OL,17,G2200FRed Dwarf
+OL,18,     GLister contracts a mutated form
+OL,19,     Gof pneumonia - and his
+OL,20,     Ghallucinations turn solid.
+OL,21,     GContains adult humour.
+OL,22,G2230FNewsnight
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696011427
+OL,0,        ECIMSBWebfax     F698A1696015037
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for FRI 29 SEP
-OL,4,G1900FEmmerdale
-OL,5,     GManpreet is stressed, Marlon
-OL,6,     Greassures Chas, and Tom has some
-OL,7,     Ggood news.
-OL,8,G1930FRWC 2023 Live: New Zealand v
-OL,9,     FItaly
-OL,10,     GMark Pougatch is joined by Jonny
-OL,11,     GWilkinson, Sean Fitzpatrick, and
-OL,12,     GSergio Parisse as New Zealand
-OL,13,     Glook to rally from their opening
-OL,14,     Gnight defeat and face Italy in a
-OL,15,     Gkey Pool A game.
-OL,16,G2225FITV News
-OL,17,G2255FRegional News
+OL,4,G1930FRWC 2023 Live: New Zealand v
+OL,5,     FItaly
+OL,6,     GMark Pougatch is joined by Jonny
+OL,7,     GWilkinson, Sean Fitzpatrick, and
+OL,8,     GSergio Parisse as New Zealand
+OL,9,     Glook to rally from their opening
+OL,10,     Gnight defeat and face Italy in a
+OL,11,     Gkey Pool A game.
+OL,12,G2225FITV News
+OL,13,G2255FRegional News
+OL,14,G2310FThe NFL Show
+OL,15,     GHost Craig Doyle is joined by
+OL,16,     Gformer NFL legend Jason Bell and
+OL,17,     Gtwo-time Super Bowl winner Osi
+OL,18,     GUmenyiora as the NFL lands at
+OL,19,     GWembley for a match between the
+OL,20,     GJaguars and the Falcons.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696011427
+OL,0,        ECIMSBWebfax     F698A1696015037
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for FRI 29 SEP
-OL,4,G1900FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G2000FPopMaster TV: Grand Final
-OL,8,     GIt's the final and Ken Bruce
-OL,9,     Gputs our PopMasters to the
-OL,10,     Gultimate trivia test. Who will
-OL,11,     Greign supreme and be crowned the
-OL,12,     Gfirst ever PopMaster TV champion?
-OL,13,G2100FGogglebox
-OL,14,     GOn the 'Box this time: Strictly
-OL,15,     GCome Dancing, Sex Education,
-OL,16,     GBlankety Blank, Bake Off,
-OL,17,     GCelebrity Race Across the World,
-OL,18,     GLove & Death, Celebrity SAS: Who
-OL,19,     GDares Wins and Ambulance.
+OL,4,G2000FPopMaster TV: Grand Final
+OL,5,     GIt's the final and Ken Bruce
+OL,6,     Gputs our PopMasters to the
+OL,7,     Gultimate trivia test. Who will
+OL,8,     Greign supreme and be crowned the
+OL,9,     Gfirst ever PopMaster TV champion?
+OL,10,G2100FGogglebox
+OL,11,     GOn the 'Box this time: Strictly
+OL,12,     GCome Dancing, Sex Education,
+OL,13,     GBlankety Blank, Bake Off,
+OL,14,     GCelebrity Race Across the World,
+OL,15,     GLove & Death, Celebrity SAS: Who
+OL,16,     GDares Wins and Ambulance.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696011427
+OL,0,        ECIMSBWebfax     F698A1696015037
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for FRI 29 SEP
-OL,4,G1900FShop Smart, Save Money
-OL,5,     GAngellica Bell and Ortis Deley
-OL,6,     Ghost the show that helps
-OL,7,     Ghouseholds across the nation to
-OL,8,     Gfind the right products at the
-OL,9,     Gright price, this week helping
-OL,10,     Gan environmentally-conscious
-OL,11,     Gfamily.
-OL,12,G2000FLive: Harvest on the Farm
-OL,13,     GIn the grand finale at our Essex
-OL,14,     Gfarm, hosts Helen Skelton and
-OL,15,     GJules Hudson present a Harvest
-OL,16,     GFestival extravaganza, alongside
-OL,17,     Gthe Nicholson Brothers, Rob and
-OL,18,     GDave.
+OL,4,G2000FLive: Harvest on the Farm
+OL,5,     GIn the grand finale at our Essex
+OL,6,     Gfarm, hosts Helen Skelton and
+OL,7,     GJules Hudson present a Harvest
+OL,8,     GFestival extravaganza, alongside
+OL,9,     Gthe Nicholson Brothers, Rob and
+OL,10,     GDave.
+OL,11,G2100FAmazing Railway Adventures with
+OL,12,     FNick Knowles
+OL,13,     GNick names this trip "The
+OL,14,     GVolcano Express". He travels
+OL,15,     Gfrom Mount Vesuvius to Mount
+OL,16,     GEtna on a journey from Naples to
+OL,17,     GSicily, where a gyrocopter trip
+OL,18,     Ggoes wrong.
