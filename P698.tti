@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696061983
+OL,0,        ECIMSBWebfax     F698A1696065595
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696061983
+OL,0,        ECIMSBWebfax     F698A1696065595
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696061983
+OL,0,        ECIMSBWebfax     F698A1696065595
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,26 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G1000FSaturday Kitchen Live
-OL,9,     GAlex Jones is joined by chefs
-OL,10,     GOllie Dabbous, Ching-He Huang
-OL,11,     Gand Theo Randall, with special
-OL,12,     Gguest Iain Stirling. Archive
-OL,13,     Gclips from Rick Stein, The Hairy
-OL,14,     GBikers and Nadiya Hussain.
-OL,15,G1130FNadiya's Simple Spices
-OL,16,     GFeelgood dishes with a spicy
-OL,17,     Gtwist, from a delicious daal to
-OL,18,     Ga cinnamon cheesecake.
+OL,4,G1000FSaturday Kitchen Live
+OL,5,     GAlex Jones is joined by chefs
+OL,6,     GOllie Dabbous, Ching-He Huang
+OL,7,     Gand Theo Randall, with special
+OL,8,     Gguest Iain Stirling. Archive
+OL,9,     Gclips from Rick Stein, The Hairy
+OL,10,     GBikers and Nadiya Hussain.
+OL,11,G1130FNadiya's Simple Spices
+OL,12,     GFeelgood dishes with a spicy
+OL,13,     Gtwist, from a delicious daal to
+OL,14,     Ga cinnamon cheesecake.
+OL,15,G1200FFootball Focus
+OL,16,     GAlex Scott and guests look ahead
+OL,17,     Gto this weekend's football,
+OL,18,     Gwhich includes Liverpool's visit
+OL,19,     Gto Tottenham and a clash between
+OL,20,     Gchampions Manchester City and
+OL,21,     GWolves at Molineux.
+OL,22,G1300FBBC News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696061983
+OL,0,        ECIMSBWebfax     F698A1696065595
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -82,102 +86,101 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G0900FGardeners' World
-OL,5,     GA catch-up with three sisters in
-OL,6,     GDorset to discover how their
-OL,7,     Gfallen-down greenhouse turned
-OL,8,     Ginto an opportunity to transform
-OL,9,     Gpart of their garden.
-OL,10,G1000FIce Age Giants
-OL,11,     GProfessor Alice Roberts goes on
-OL,12,     Gthe trail of the great beasts of
-OL,13,     Gthe Ice Age, beginning in North
-OL,14,     GAmerica - the hunting ground of
-OL,15,     Gthe sabre-toothed cat.
-OL,16,G1100FSort Your Life Out with Stacey
-OL,17,     FSolomon
-OL,18,     GStacey Solomon and her crack
-OL,19,     Gteam help single mum Claire and
-OL,20,     Gher five boys transform their
-OL,21,     Gfamily home through a life-
-OL,22,     Gchanging declutter.
+OL,4,G1000FIce Age Giants
+OL,5,     GProfessor Alice Roberts goes on
+OL,6,     Gthe trail of the great beasts of
+OL,7,     Gthe Ice Age, beginning in North
+OL,8,     GAmerica - the hunting ground of
+OL,9,     Gthe sabre-toothed cat.
+OL,10,G1100FSort Your Life Out with Stacey
+OL,11,     FSolomon
+OL,12,     GStacey Solomon and her crack
+OL,13,     Gteam help single mum Claire and
+OL,14,     Gher five boys transform their
+OL,15,     Gfamily home through a life-
+OL,16,     Gchanging declutter.
+OL,17,G1200FBritain's Top Takeaways
+OL,18,     GFive of the nation's top
+OL,19,     Gtakeaways head to Manchester to
+OL,20,     Gcook up fried chicken dishes.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696061983
+OL,0,        ECIMSBWebfax     F698A1696065595
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G0825FOti Mabuse's Breakfast Show
-OL,5,     GOti revisits some of the best
-OL,6,     Gbits from the show in the last
-OL,7,     Gepisode of the series with a
-OL,8,     Glook back on her favourite
-OL,9,     Gguests, funniest moments, and a
-OL,10,     Gfinal cook with Shivi Ramoutar.
-OL,11,G0925FJames Martin's Saturday Morning
-OL,12,     GJames is joined at the house
-OL,13,     Gthis time by adventurer,
-OL,14,     Gexplorer and filmmaker Simon
-OL,15,     GReeve, and there'll also be
-OL,16,     Gdelicious recipes from chefs
-OL,17,     GDipna Anand and Daniel Galmiche.
+OL,4,G0925FJames Martin's Saturday Morning
+OL,5,     GJames is joined at the house
+OL,6,     Gthis time by adventurer,
+OL,7,     Gexplorer and filmmaker Simon
+OL,8,     GReeve, and there'll also be
+OL,9,     Gdelicious recipes from chefs
+OL,10,     GDipna Anand and Daniel Galmiche.
+OL,11,G1135FJason Atherton's Dubai Dishes
+OL,12,     GBakery: Jason is proving that
+OL,13,     Gbread and pastries are a serious
+OL,14,     Gbusiness in Dubai with some
+OL,15,     Gdelicious cheese pastry parcels
+OL,16,     Gto start and a crumbly semolina
+OL,17,     Gand almond cake.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696061983
+OL,0,        ECIMSBWebfax     F698A1696065595
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G0905FThe Simpsons
-OL,5,     GAll's Fair in Oven War: Bart
-OL,6,     Gadopts a 1970s 'Playdude'
-OL,7,     Glifestyle when he finds Homer's
-OL,8,     Gold magazines. Meanwhile, Lisa
-OL,9,     Gcatches Marge cheating in the
-OL,10,     GOvenfresh Bakeoff.
-OL,11,G0935FThe Simpsons
-OL,12,     GBrush with Greatness: Lisa
-OL,13,     Gencourages Marge to take up
-OL,14,     Gpainting again after she
-OL,15,     Gexhibits a critically acclaimed
-OL,16,     Gportrait of a half-naked Homer
-OL,17,     Gasleep on the sofa...
-OL,18,G1005FThe Simpsons
-OL,19,     GMobile Homer: Homer impulsively
-OL,20,     Gbuys a mobile home, which he has
-OL,21,     Gto move into when Marge finds
-OL,22,     Gout.
+OL,4,G1005FThe Simpsons
+OL,5,     GMobile Homer: Homer impulsively
+OL,6,     Gbuys a mobile home, which he has
+OL,7,     Gto move into when Marge finds
+OL,8,     Gout.
+OL,9,G1035FHotel for Dogs
+OL,10,     GFamily comedy starring Emma
+OL,11,     GRoberts and Jake T Austin. A
+OL,12,     Gneglected teenager and her
+OL,13,     Gbrother secretly set up a refuge
+OL,14,     Gfor stray dogs in an abandoned
+OL,15,     Gbuilding.
+OL,16,G1230FLive Betfred Super League Rugby
+OL,17,     GSt Helens v Warrington: Adam
+OL,18,     GHills presents live coverage of
+OL,19,     Gthe first Eliminator. The winner
+OL,20,     Ggoes through to the next round,
+OL,21,     Gjust one match away from the
+OL,22,     GGrand Final.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696061983
+OL,0,        ECIMSBWebfax     F698A1696065595
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G0910FReu & Harper's Wonder World
-OL,5,     GReu and Harper meet Serra, whose
-OL,6,     Gparents used to live in Turkey,
-OL,7,     Gto discover all about the
-OL,8,     Gcountry.
-OL,9,G0920FSantiago of the Seas
-OL,10,     GIt's a good ol' fashioned family
-OL,11,     Gcompetition as everyone pairs up
-OL,12,     Gto find the fabled treasure of
-OL,13,     GLa Caverna Secreta.
-OL,14,G0935FBaby Shark's Big Show
-OL,15,     GWhen a mysterious masked fish
-OL,16,     Gcauses trouble for Goldie's
-OL,17,     Gmagnum opus, Detective Baby
-OL,18,     GShark and William Watson must
-OL,19,     Gcatch the culprit before opening
-OL,20,     Gnight.
+OL,4,G1015FEntertainment News on 5
+OL,5,     GA daily round-up of showbiz news
+OL,6,     Gand gossip from around the
+OL,7,     Gworld, focusing on celebrities,
+OL,8,     Gmovies, music and entertainment.
+OL,9,G1020FFriends
+OL,10,     GRoss asks the guys for moral
+OL,11,     Gsupport when he meets
+OL,12,     GElizabeth's dad for the first
+OL,13,     Gtime. With special guest Bruce
+OL,14,     GWillis.
+OL,15,G1050FFriends
+OL,16,     GPaul demands that Ross stop
+OL,17,     Gseeing his daughter or he'll
+OL,18,     Ghave him fired from the
+OL,19,     Guniversity. Elizabeth and Ross
+OL,20,     Gdecide to hide their
+OL,21,     Grelationship from Paul.
