@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696101710
+OL,0,        ECIMSBWebfax     F698A1696105321
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696101710
+OL,0,        ECIMSBWebfax     F698A1696105321
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696101710
+OL,0,        ECIMSBWebfax     F698A1696105321
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,26 +55,29 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G1820FStrictly Come Dancing
-OL,5,     GThe 15 couples return to the
-OL,6,     GStrictly ballroom to keep their
-OL,7,     Gplace in the competition.
-OL,8,G2035FMichael McIntyre's The Wheel
-OL,9,     GAlex Jones, Ellie Simmonds and
-OL,10,     GPaddy McGuinness try to help
-OL,11,     Gcontestants win big cash.
-OL,12,G2135FBlankety Blank
-OL,13,     GWith Jason Watkins, Layton
-OL,14,     GWilliams, Anthea Turner, Rob
-OL,15,     GBeckett, Nadia Jae and Jill
-OL,16,     GScott.
-OL,17,G2210FBBC News
-OL,18,G2225FWeather
+OL,4,G2035FMichael McIntyre's The Wheel
+OL,5,     GAlex Jones, Ellie Simmonds and
+OL,6,     GPaddy McGuinness try to help
+OL,7,     Gcontestants win big cash.
+OL,8,G2135FBlankety Blank
+OL,9,     GWith Jason Watkins, Layton
+OL,10,     GWilliams, Anthea Turner, Rob
+OL,11,     GBeckett, Nadia Jae and Jill
+OL,12,     GScott.
+OL,13,G2210FBBC News
+OL,14,G2225FWeather
+OL,15,G2230FMatch of the Day
+OL,16,     GGary Lineker presents highlights
+OL,17,     Gand analysis of the latest round
+OL,18,     Gof Premier League games, with
+OL,19,     GManchester City travelling to
+OL,20,     GWolves and Tottenham hosting
+OL,21,     GLiverpool.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696101710
+OL,0,        ECIMSBWebfax     F698A1696105321
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -82,30 +85,24 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G1930FCelebrity Antiques Road Trip
-OL,5,     GPresenters Katie Piper and Adam
-OL,6,     GPearson rummage for antiques in
-OL,7,     GNorthampton. Roo and David offer
-OL,8,     Gexpert advice, but will a little
-OL,9,     Gpiggy make a profit at auction?
-OL,10,G2030FGolf: Ryder Cup Highlights
-OL,11,     GHighlights from the second day
-OL,12,     Gof the 44th Ryder Cup between
-OL,13,     GEurope and the USA at the Marco
-OL,14,     GSimone Golf and Country Club in
-OL,15,     GRome, Italy.
-OL,16,G2200FSmokey Robinson Live in Hyde Park
-OL,17,     GMotown legend Smokey Robinson
-OL,18,     Gperforms a selection of classics
-OL,19,     Gincluding You've Really Got a
-OL,20,     GHold on Me, The Tears of a
-OL,21,     GClown, I Second That Emotion and
-OL,22,     GThe Tracks of My Tears.
+OL,4,G2030FGolf: Ryder Cup Highlights
+OL,5,     GHighlights from the second day
+OL,6,     Gof the 44th Ryder Cup between
+OL,7,     GEurope and the USA at the Marco
+OL,8,     GSimone Golf and Country Club in
+OL,9,     GRome, Italy.
+OL,10,G2200FSmokey Robinson Live in Hyde Park
+OL,11,     GMotown legend Smokey Robinson
+OL,12,     Gperforms a selection of classics
+OL,13,     Gincluding You've Really Got a
+OL,14,     GHold on Me, The Tears of a
+OL,15,     GClown, I Second That Emotion and
+OL,16,     GThe Tracks of My Tears.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696101710
+OL,0,        ECIMSBWebfax     F698A1696105321
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -131,49 +128,48 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696101710
+OL,0,        ECIMSBWebfax     F698A1696105321
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G1935FA Royal Guide to... Animals
-OL,5,     GA history of the royals' love of
-OL,6,     Ganimals. Not just racehorses or
-OL,7,     Gcorgis but a passion for all
-OL,8,     Gcreatures great and small, from
-OL,9,     Gcats to parrots to a polar bear
-OL,10,     Gfishing in the Thames.
-OL,11,G2035FBritain's Best Beach Huts
-OL,12,     GJay Blades and Laura Jackson
-OL,13,     Ghunt for Britain's most
-OL,14,     Gluxurious beach huts, including
-OL,15,     Ga wellness centre inside a
-OL,16,     Gbeautiful handcrafted hut in
-OL,17,     GMargate.
+OL,4,G2035FBritain's Best Beach Huts
+OL,5,     GJay Blades and Laura Jackson
+OL,6,     Ghunt for Britain's most
+OL,7,     Gluxurious beach huts, including
+OL,8,     Ga wellness centre inside a
+OL,9,     Gbeautiful handcrafted hut in
+OL,10,     GMargate.
+OL,11,G2135FKingsman: The Golden Circle
+OL,12,     GTaron Egerton returns as the
+OL,13,     Gnewest recruit to the stylish
+OL,14,     Gsecret agency Kingsman for more
+OL,15,     Gass-kicking comedy action. With
+OL,16,     GJulianne Moore. Strong language/
+OL,17,     Gviolence/sex/drugs.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696101710
+OL,0,        ECIMSBWebfax     F698A1696105321
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G1935FJersey and Guernsey
-OL,5,     GOn Guernsey's Cobo beach,
-OL,6,     Gcaterer Mim Sarre hopes to fire
-OL,7,     Gup the pizza van ovens for the
-OL,8,     Gfirst time. On Jersey's west
-OL,9,     Gcoast, foraging fanatic Kazz has
-OL,10,     Ga special request from Michelin
-OL,11,     Gchef.
-OL,12,G2035FAndrew & Fergie's...
-OL,13,     GUnconventional Relationship.
-OL,14,     GWith insight from royal
-OL,15,     Ginsiders, this documentary
-OL,16,     Gcharts Prince Andrew and ex-wife
-OL,17,     GSarah's rollercoaster history,
-OL,18,     Gshining a light on their unusual
-OL,19,     Grelationship.
+OL,4,G2035FAndrew & Fergie's...
+OL,5,     GUnconventional Relationship.
+OL,6,     GWith insight from royal
+OL,7,     Ginsiders, this documentary
+OL,8,     Gcharts Prince Andrew and ex-wife
+OL,9,     GSarah's rollercoaster history,
+OL,10,     Gshining a light on their unusual
+OL,11,     Grelationship.
+OL,12,G2135FControversially 1983: That...
+OL,13,     GWas The Year That Was. Diving
+OL,14,     Ginto 1983 when two 007s vied for
+OL,15,     Gthe box office, pop star Boy
+OL,16,     GGeorge made a splash, Diana,
+OL,17,     GPrincess of Wales upstaged her
+OL,18,     Ghusband, and Shergar was seized.
