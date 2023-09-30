@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696083657
+OL,0,        ECIMSBWebfax     F698A1696087268
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696083657
+OL,0,        ECIMSBWebfax     F698A1696087268
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696083657
+OL,0,        ECIMSBWebfax     F698A1696087268
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,26 +55,28 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G1500FEscape to the Country
-OL,5,     GBriony May Williams is with a
-OL,6,     Gcouple from London in the market
-OL,7,     Gfor a new home in the
-OL,8,     Gcountryside of Oxfordshire or
-OL,9,     GWiltshire that has enough space
-OL,10,     Gfor them and their two young
-OL,11,     Gsons.
-OL,12,G1600FGarden Rescue
-OL,13,     GBen and Shelley have a
-OL,14,     Gtroublesome sloped garden, but
-OL,15,     Gthey dream of a Mediterranean
-OL,16,     Gspace to remind them of their
-OL,17,     Gtravels. The Rich brothers and
-OL,18,     GArit have #6,000 to do the job.
+OL,4,G1600FGarden Rescue
+OL,5,     GBen and Shelley have a
+OL,6,     Gtroublesome sloped garden, but
+OL,7,     Gthey dream of a Mediterranean
+OL,8,     Gspace to remind them of their
+OL,9,     Gtravels. The Rich brothers and
+OL,10,     GArit have #6,000 to do the job.
+OL,11,G1630FFinal Score
+OL,12,     GJason Mohammad presents all the
+OL,13,     Gafternoon's football results,
+OL,14,     Gwith reports and reaction from
+OL,15,     Gthe big games, featuring
+OL,16,     GManchester City, Arsenal and
+OL,17,     GManchester United.
+OL,18,G1715FBBC News
+OL,19,G1725FRegional News
+OL,20,G1730FWeather
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696083657
+OL,0,        ECIMSBWebfax     F698A1696087268
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -82,96 +84,102 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G1500FNorth America: Our Wild
-OL,5,     FAdventures
-OL,6,     GBBC presenters look back at some
-OL,7,     Gof their wild adventures across
-OL,8,     GNorth America.
-OL,9,G1600FFake or Fortune
-OL,10,     GCould a sculpture found at a car
-OL,11,     Gboot sale in Essex be a work by
-OL,12,     GDame Elisabeth Frink?
-OL,13,G1700FFlog It!
-OL,14,     GToday Flog It! comes from
-OL,15,     GGrimsby Minster, where experts
-OL,16,     GChristina Trevanion and Michael
-OL,17,     GBaggott discover great maritime
-OL,18,     Gmemorabilia.
+OL,4,G1600FFake or Fortune
+OL,5,     GCould a sculpture found at a car
+OL,6,     Gboot sale in Essex be a work by
+OL,7,     GDame Elisabeth Frink?
+OL,8,G1700FFlog It!
+OL,9,     GToday Flog It! comes from
+OL,10,     GGrimsby Minster, where experts
+OL,11,     GChristina Trevanion and Michael
+OL,12,     GBaggott discover great maritime
+OL,13,     Gmemorabilia.
+OL,14,G1800FDad's Army
+OL,15,     GWartime sitcom. The Home Guard
+OL,16,     Gare given full responsibility
+OL,17,     Gfor the defence of Walmington-on-
+OL,18,     GSea for one week.
+OL,19,G1830FSaving Lives at Sea
+OL,20,     GIn Calshot, the RNLI crew race
+OL,21,     Gto the rescue of an unconscious
+OL,22,     Gjet skier.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696083657
+OL,0,        ECIMSBWebfax     F698A1696087268
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G1325FRWC 2023 Live: Argentina v Chile
-OL,5,     GCoverage of the 2023 Rugby World
-OL,6,     GCup match between Argentina and
-OL,7,     GChile as the two South American
-OL,8,     Gsides meet in Nantes in Chile's
-OL,9,     Gfinal pool game in their first-
-OL,10,     Gever World Cup.
-OL,11,G1615FRWC 2023 Live: Fiji v Georgia
-OL,12,     GDavid Flatman hosts coverage of
-OL,13,     Gthe 2023 Rugby World Cup pool
-OL,14,     Gmatch between Fiji and Georgia
-OL,15,     Gas the Flying Fijians take to
-OL,16,     Gthe field for the first time
-OL,17,     Gsince beating Australia.
-OL,18,G1900FITV Evening News
-OL,19,G1905FRegional News
+OL,4,G1615FRWC 2023 Live: Fiji v Georgia
+OL,5,     GDavid Flatman hosts coverage of
+OL,6,     Gthe 2023 Rugby World Cup pool
+OL,7,     Gmatch between Fiji and Georgia
+OL,8,     Gas the Flying Fijians take to
+OL,9,     Gthe field for the first time
+OL,10,     Gsince beating Australia.
+OL,11,G1900FITV Evening News
+OL,12,G1905FRegional News
+OL,13,G1915FRWC 2023 Live: Scotland v Romania
+OL,14,     GMark Pougatch presents coverage
+OL,15,     Gof Scotland's third game at the
+OL,16,     G2023 Rugby World Cup in France
+OL,17,     Gas Gregor Townsend's side take
+OL,18,     Gon Romania at the Stade Pierre-
+OL,19,     GMauroy in Lille.
+OL,20,G2225FITV News
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696083657
+OL,0,        ECIMSBWebfax     F698A1696087268
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G1500FGuy Martin: Supervan
-OL,5,     GGuy Martin takes a trip down
-OL,6,     Gmemory lane to revisit his many
-OL,7,     Gadventures in his beloved
-OL,8,     GTransit van, including a whizz
-OL,9,     Garound the Nurburgring in
-OL,10,     GGermany in a bid for a world-
-OL,11,     Gbeating best.
-OL,12,G1535FFour in a Bed
-OL,13,     GJenny and Johnny welcome their
-OL,14,     Grivals to BnB at 43 in Richmond,
-OL,15,     GNorth Yorkshire. But there's a
-OL,16,     Gmark on Kelly and Serena's
-OL,17,     Gtoilet. At dinner, Debra and
-OL,18,     GJamie reveal their regal
-OL,19,     Gconnections.
-OL,26,@qD@Rxz
+OL,4,G1605FFour in a Bed
+OL,5,     GThe second visit of the week is
+OL,6,     Gto Sutton Park in Blackpool, run
+OL,7,     Gby Stewart and Gill. Kelly and
+OL,8,     GSerena are blown away by the
+OL,9,     Gbling, but Debra and Jamie have
+OL,10,     Gcleanliness concerns.
+OL,11,G1635FFour in a Bed
+OL,12,     GDebra and Jamie host at
+OL,13,     GTottington Manor in Edburton,
+OL,14,     GWest Sussex. But Gill doesn't
+OL,15,     Glike the countryside setting or
+OL,16,     Gher room, and low scores at
+OL,17,     Gfeedback lead to cries of foul
+OL,18,     Gplay.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696083657
+OL,0,        ECIMSBWebfax     F698A1696087268
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 30 SEP
-OL,4,G1425FJewel of the Nile
-OL,5,     GAll-action sequel to Romancing
-OL,6,     Gthe Stone, which finds
-OL,7,     Gadventurer Jack and romance
-OL,8,     Gwriter Joan once again fighting
-OL,9,     Glike cat and dog.
-OL,10,G1525FThe Man in the Iron Mask
-OL,11,     GSwashbuckling drama starring
-OL,12,     GLeonardo DiCaprio and Jeremy
-OL,13,     GIrons. The retired Three
-OL,14,     GMusketeers hatch a plan to oust
-OL,15,     Gcruel French ruler, King Louis
-OL,16,     GXIV, from the throne.
-OL,17,G1625F5 News Update
-OL,18,     GNational and international news.
+OL,4,G1525FThe Man in the Iron Mask
+OL,5,     GSwashbuckling drama starring
+OL,6,     GLeonardo DiCaprio and Jeremy
+OL,7,     GIrons. The retired Three
+OL,8,     GMusketeers hatch a plan to oust
+OL,9,     Gcruel French ruler, King Louis
+OL,10,     GXIV, from the throne.
+OL,11,G1625F5 News Update
+OL,12,     GNational and international news.
+OL,13,G1630FThe Man in the Iron Mask
+OL,14,     GSwashbuckling drama starring
+OL,15,     GLeonardo DiCaprio and Jeremy
+OL,16,     GIrons. The retired Three
+OL,17,     GMusketeers hatch a plan to oust
+OL,18,     Gcruel French ruler, King Louis
+OL,19,     GXIV, from the throne.
+OL,20,G1800F5 News Weekend
+OL,21,     GNational and international news.
