@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696308338
+OL,0,        ECIMSBWebfax     F698A1696311953
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696308338
+OL,0,        ECIMSBWebfax     F698A1696311953
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,72 +47,138 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696308338
+OL,0,        ECIMSBWebfax     F698A1696311953
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for MON 2 OCT
-OL,4,G0215FBBC News
+OL,3,CProgramme listings for TUE 3 OCT
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FRip Off Britain
+OL,9,     GThe team take an exclusive look
+OL,10,     Gbehind the scenes at a bank's
+OL,11,     Gfraud help centre, where staff
+OL,12,     Gare in a daily battle to try and
+OL,13,     Gstop customers losing thousands
+OL,14,     Gto scammers.
+OL,15,G1000FCrimewatch Live
+OL,16,     GHow three men were jailed after
+OL,17,     Gdetectives smashed an
+OL,18,     Ginternational passport scam that
+OL,19,     Gallowed serious criminals to
+OL,20,     Gevade justice and cross borders
+OL,21,     Gundetected.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696308338
+OL,0,        ECIMSBWebfax     F698A1696311953
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for MON 2 OCT
-OL,4,G0340FThis is BBC Two
+OL,3,CProgramme listings for TUE 3 OCT
+OL,4,G0630FThe Bidding Room
+OL,5,     GNigel Havers hosts as five
+OL,6,     Gdealers battle each other to buy
+OL,7,     Gitems brought in by the public,
+OL,8,     Gincluding an antique
+OL,9,     Gstereoscope, a prototype race
+OL,10,     Gbike and a curious mystery
+OL,11,     Gobject.
+OL,12,G0715FThe Vintage French Farmhouse
+OL,13,     GThree antiques dealers visit the
+OL,14,     Gbeautiful town of Pezenas to
+OL,15,     Gfind two hidden treasures each
+OL,16,     Gthat they can sell for a profit,
+OL,17,     Gonline, in just a day.
+OL,18,G0800FExpert Witness
+OL,19,     GWhen a young man is stabbed to
+OL,20,     Gdeath, a facial recognition
+OL,21,     Gexpert helps Merseyside Police
+OL,22,     Gcatch the killer.
+OL,26,@vD@Yrr
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696308338
+OL,0,        ECIMSBWebfax     F698A1696311953
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for MON 2 OCT
-OL,4,G0505FTenable
-OL,5,     GPatel's Bells: A team of five
-OL,6,     Gcousins from Essex join forces
-OL,7,     Gto take on the Tenable Tower for
-OL,8,     Gthe chance to win 125,000 pounds
-OL,9,     Gin the quiz show hosted by
-OL,10,     GWarwick Davis.
+OL,3,CProgramme listings for TUE 3 OCT
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GDame Helen Mirren joins Lorraine
+OL,9,     Gin the studio ahead of her
+OL,10,     Gchallenging new film role.
+OL,11,G1000FThis Morning
+OL,12,     GMagazine show with news and
+OL,13,     Gtopical items, celebrity guests,
+OL,14,     Gexpert advice, real life
+OL,15,     Gstories, competitions and a mix
+OL,16,     Gof cookery, health, beauty,
+OL,17,     Glifestyle and more.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696308338
+OL,0,        ECIMSBWebfax     F698A1696311953
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for MON 2 OCT
-OL,4,G0515FTool Club
-OL,5,     GKevin and the team help to jazz
-OL,6,     Gup plant pots and brighten up a
-OL,7,     Gtrellis. Shreya and Rakesh
-OL,8,     Gredesign a shrine, and a washing
-OL,9,     Gmachine drum is reimagined as a
-OL,10,     Gfire pit and BBQ.
+OL,3,CProgramme listings for TUE 3 OCT
+OL,4,G0645FCheers
+OL,5,     GA House Is Not a Home: Sam and
+OL,6,     GDiane buy their dream house, but
+OL,7,     GDiane becomes sentimental about
+OL,8,     Gthe previous owners, who lived a
+OL,9,     Glong and happy life together in
+OL,10,     Gthe property.
+OL,11,G0710FCheers
+OL,12,     GI Do, Adieu: Sam and Diane's
+OL,13,     Gapproaching wedding day is
+OL,14,     Ggreeted with varying degrees of
+OL,15,     Genthusiasm by the bar regulars.
+OL,16,     GDiane hears a publisher is
+OL,17,     Ginterested in her writing.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696308338
+OL,0,        ECIMSBWebfax     F698A1696311953
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for MON 2 OCT
-OL,4,G0545FPAW Patrol
-OL,5,     GMr Porter's stove explodes right
-OL,6,     Gbefore the Chilli cook-off!
+OL,3,CProgramme listings for TUE 3 OCT
+OL,4,G0645FPeppa Pig
+OL,5,     GMummy Pig, Daddy Pig, Peppa and
+OL,6,     GGeorge go to the Skate Park with
+OL,7,     Gtheir bicycles, scooters and
+OL,8,     Gskateboards. Peppa has fun
+OL,9,     Gplaying around on Daddy's
+OL,10,     Gskateboard.
+OL,11,G0650FFireman Sam
+OL,12,     GWhen James becomes Malcolm's
+OL,13,     Gdeputy for the day, they end up
+OL,14,     Gwith a real case to solve: The
+OL,15,     GCase of the Missing Sandwiches.
+OL,16,G0700FThomas & Friends All Engines Go!
+OL,17,     GWhen Kenji takes the wrong
+OL,18,     Gpassenger car, Thomas offers to
+OL,19,     Gtake the right car to him. But a
+OL,20,     Gcomedy of missed details makes
+OL,21,     Git seem like they'll never catch
+OL,22,     Gup with Kenji.
