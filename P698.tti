@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696493533
+OL,0,        ECIMSBWebfax     F698A1696497144
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696493533
+OL,0,        ECIMSBWebfax     F698A1696497144
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696493533
+OL,0,        ECIMSBWebfax     F698A1696497144
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,27 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for THU 5 OCT
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0915FRip Off Britain
-OL,9,     GGloria, Angela and Julia try to
-OL,10,     Ghelp a family whose beloved home
-OL,11,     Ghas suffered six devastating
-OL,12,     Gfloods in as many years.
-OL,13,G1000FCrimewatch Live
-OL,14,     GThe extraordinary crime spree
-OL,15,     Gthat saw a trio of teens jailed
-OL,16,     Gfor stealing mopeds at
-OL,17,     Gknifepoint as they were chased
-OL,18,     Gby police helicopter across
-OL,19,     GPeterborough.
+OL,4,G1000FCrimewatch Live
+OL,5,     GThe extraordinary crime spree
+OL,6,     Gthat saw a trio of teens jailed
+OL,7,     Gfor stealing mopeds at
+OL,8,     Gknifepoint as they were chased
+OL,9,     Gby police helicopter across
+OL,10,     GPeterborough.
+OL,11,G1045FClaimed and Shamed
+OL,12,     GA burst pipe, a ruined family
+OL,13,     Ghome and a #30,000 insurance
+OL,14,     Gclaim put investigators on high
+OL,15,     Galert, and the brakes are
+OL,16,     Gapplied to a series of
+OL,17,     Gdeliberate and dangerous car
+OL,18,     Gcrashes.
+OL,19,G1115FHomes Under the Hammer
+OL,20,     GFeaturing properties in
+OL,21,     GLancashire, Cheshire and County
+OL,22,     GDurham.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696493533
+OL,0,        ECIMSBWebfax     F698A1696497144
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -83,108 +86,94 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for THU 5 OCT
-OL,4,G0900FNicky Campbell
-OL,5,     GNicky Campbell takes your calls
-OL,6,     Gon the day's talking points,
-OL,7,     Ghearing views and experiences
-OL,8,     Gfrom across the UK.
-OL,9,G1000FBBC News
-OL,10,G1215FPolitics Live
-OL,11,     GThe big political issues of the
-OL,12,     Gday.
-OL,13,G1300FImpossible
-OL,14,     GCan players avoid giving
-OL,15,     GImpossible answers and stay in
-OL,16,     Gthe running for a #10,000
-OL,17,     Gjackpot?
-OL,18,G1345FEggheads
-OL,19,     GJeremy Vine hosts the show where
-OL,20,     Gevery day a new team of
-OL,21,     Gchallengers take on probably the
-OL,22,     Ggreatest quiz team in Britain.
+OL,4,G1000FBBC News
+OL,5,G1215FPolitics Live
+OL,6,     GThe big political issues of the
+OL,7,     Gday.
+OL,8,G1300FImpossible
+OL,9,     GCan players avoid giving
+OL,10,     GImpossible answers and stay in
+OL,11,     Gthe running for a #10,000
+OL,12,     Gjackpot?
+OL,13,G1345FEggheads
+OL,14,     GJeremy Vine hosts the show where
+OL,15,     Gevery day a new team of
+OL,16,     Gchallengers take on probably the
+OL,17,     Ggreatest quiz team in Britain.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696493533
+OL,0,        ECIMSBWebfax     F698A1696497144
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 5 OCT
-OL,4,G0900FLorraine
-OL,5,     GLorraine Kelly presents a
-OL,6,     Gtopical mix of entertainment,
-OL,7,     Gdiscussion and showbiz glamour
-OL,8,     Gas well as the latest fashion,
-OL,9,     Gfood and celebrity gossip.
-OL,10,G1000FThis Morning
-OL,11,     GMagazine show with news and
-OL,12,     Gtopical items, celebrity guests,
-OL,13,     Gexpert advice, real life
-OL,14,     Gstories, competitions and a mix
-OL,15,     Gof cookery, health, beauty,
-OL,16,     Glifestyle and more.
-OL,17,G1230FLoose Women
-OL,18,     GHollywood comes to Loose Women
-OL,19,     Gwhen Elizabeth Hurley and Dame
-OL,20,     GJoan Collins join Charlene,
-OL,21,     GSophie, Sunetra and Jane in the
-OL,22,     Gstudio.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real life
+OL,8,     Gstories, competitions and a mix
+OL,9,     Gof cookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GHollywood comes to Loose Women
+OL,13,     Gwhen Elizabeth Hurley and Dame
+OL,14,     GJoan Collins join Charlene,
+OL,15,     GSophie, Sunetra and Jane in the
+OL,16,     Gstudio.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696493533
+OL,0,        ECIMSBWebfax     F698A1696497144
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 5 OCT
-OL,4,G0855FFrasier
-OL,5,     GFrasier plus Charlotte. Equals a
-OL,6,     Gromantic night? Shame about her
-OL,7,     Gman. _NationalPoetryDay
-OL,8,G0925FFrasier
-OL,9,     GNiles plans Martin's stag. What
-OL,10,     Gcould possibly go wrong? Well,
-OL,11,     Gstrippers for one.
-OL,12,     G_NationalPoetryDay
-OL,13,G0955FChateau DIY
-OL,14,     GBrits fix French chateaux. But:
-OL,15,     Gancient tower troubles. And
-OL,16,     Gwedding flight woes.
-OL,17,     G_NationalPoetryDay
-OL,18,G1055FGeorge Clarke's Amazing Spaces
-OL,19,     GHorsebox to den dream. Can
-OL,20,     Gfantasy become real? Plus: Dad's
-OL,21,     Gfunky shed. _NationalPoetryDay
+OL,4,G0955FChateau DIY
+OL,5,     GBrits fix French chateaux. But:
+OL,6,     Gancient tower troubles. And
+OL,7,     Gwedding flight woes.
+OL,8,     G_NationalPoetryDay
+OL,9,G1055FGeorge Clarke's Amazing Spaces
+OL,10,     GHorsebox to den dream. Can
+OL,11,     Gfantasy become real? Plus: Dad's
+OL,12,     Gfunky shed. _NationalPoetryDay
+OL,13,G1155FChannel 4 News Summary
+OL,14,     GQuick news bulletin. Keeping
+OL,15,     Geveryone informed. Digest at
+OL,16,     Glunchtime. _NationalPoetryDay
+OL,17,G1200FLive: Steph's Packed Lunch
+OL,18,     GSteph is live in Leeds. With
+OL,19,     Gceleb guests, chat, stories. And
+OL,20,     Gfantastic food.
+OL,21,     G_NationalPoetryDay
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696493533
+OL,0,        ECIMSBWebfax     F698A1696497144
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 5 OCT
-OL,4,G0905FOperation Pawsome
-OL,5,     GAyla and Oliver work alongside
-OL,6,     GSkye to make some delicious
-OL,7,     Gsmoothies and keep the whole
-OL,8,     Gteam hydrated!
-OL,9,G0915FJeremy Vine
-OL,10,     GJeremy Vine and Storm discuss
-OL,11,     Gthe latest news and get your
-OL,12,     Gviews and opinions of the day.
-OL,13,G1115FStorm Huntley
-OL,14,     GStorm Huntley carries on the
-OL,15,     Gdiscussion and takes your calls
-OL,16,     Gto discuss the biggest stories
-OL,17,     Gof the day.
-OL,18,G1240FAlexis Conran
-OL,19,     GAlexis Conran hears from you,
-OL,20,     Gtalking about the important
-OL,21,     Gstories and getting your
-OL,22,     Gopinions and views on them.
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and Storm discuss
+OL,6,     Gthe latest news and get your
+OL,7,     Gviews and opinions of the day.
+OL,8,G1115FStorm Huntley
+OL,9,     GStorm Huntley carries on the
+OL,10,     Gdiscussion and takes your calls
+OL,11,     Gto discuss the biggest stories
+OL,12,     Gof the day.
+OL,13,G1240FAlexis Conran
+OL,14,     GAlexis Conran hears from you,
+OL,15,     Gtalking about the important
+OL,16,     Gstories and getting your
+OL,17,     Gopinions and views on them.
+OL,18,G1340F5 News at Lunchtime
+OL,19,     GNational and international news.
