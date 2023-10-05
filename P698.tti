@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696536920
+OL,0,        ECIMSBWebfax     F698A1696540531
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696536920
+OL,0,        ECIMSBWebfax     F698A1696540531
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696536920
+OL,0,        ECIMSBWebfax     F698A1696540531
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,29 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for THU 5 OCT
-OL,4,G2100FSoldier
-OL,5,     GCivilians get a shock to the
-OL,6,     Gsystem as they train to become
-OL,7,     Gfrontline soldiers. Contains
-OL,8,     Gstrong language.
-OL,9,G2200FBBC News and Weather
-OL,10,G2230FRegional News
-OL,11,G2240FQuestion Time
-OL,12,     GFiona Bruce presents an hour of
-OL,13,     Gtopical discussion from
-OL,14,     GWolverhampton. On the panel,
-OL,15,     GRichard Holden MP, Shabana
-OL,16,     GMahmood MP, Emma Dabiri, Richard
-OL,17,     GWalker and Tony Parsons.
-OL,18,G2340FNewscast
-OL,19,     GLighthearted discussion of the
-OL,20,     Gweek's political events.
-OL,21,G0010FWeather for the Week Ahead
+OL,4,G2200FBBC News and Weather
+OL,5,G2230FRegional News
+OL,6,G2240FQuestion Time
+OL,7,     GFiona Bruce presents an hour of
+OL,8,     Gtopical discussion from
+OL,9,     GWolverhampton. On the panel,
+OL,10,     GRichard Holden MP, Shabana
+OL,11,     GMahmood MP, Emma Dabiri, Richard
+OL,12,     GWalker and Tony Parsons.
+OL,13,G2340FNewscast
+OL,14,     GLighthearted discussion of the
+OL,15,     Gweek's political events.
+OL,16,G0010FWeather for the Week Ahead
+OL,17,G0015FBBC Scotland News: By-election
+OL,18,     FSpecial
+OL,19,     GMartin Geissler leads coverage
+OL,20,     Gof the Rutherglen and Hamilton
+OL,21,     GWest by-election.
+OL,22,G0200FBBC News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696536920
+OL,0,        ECIMSBWebfax     F698A1696540531
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -85,93 +86,102 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for THU 5 OCT
-OL,4,G2100FPicasso: The Beauty and the Beast
-OL,5,     GPicasso's last years see an
-OL,6,     Gexplosion of creativity and two
-OL,7,     Gtempestuous relationships.
-OL,8,     GContains scenes of a sexual
-OL,9,     Gnature.
-OL,10,G2200FMortimer & Whitehouse: Gone
-OL,11,     FFishing
-OL,12,     GA very special surprise awaits
-OL,13,     GPaul and terrier Ted on Burgh
-OL,14,     GIsland, south Devon.
-OL,15,G2230FNewsnight
-OL,16,G2310FWeather
-OL,17,G2315FNo Activity
-OL,18,     GElizabeth and Bernie worry about
-OL,19,     Ghow their kidnappers are going
-OL,20,     Gto treat them. Contains strong
-OL,21,     Glanguage and adult humour.
+OL,4,G2200FMortimer & Whitehouse: Gone
+OL,5,     FFishing
+OL,6,     GA very special surprise awaits
+OL,7,     GPaul and terrier Ted on Burgh
+OL,8,     GIsland, south Devon.
+OL,9,G2230FNewsnight
+OL,10,G2310FWeather
+OL,11,G2315FNo Activity
+OL,12,     GElizabeth and Bernie worry about
+OL,13,     Ghow their kidnappers are going
+OL,14,     Gto treat them. Contains strong
+OL,15,     Glanguage and adult humour.
+OL,16,G2340FDNA Family Secrets
+OL,17,     GKerry wants to establish her
+OL,18,     Gfather's true identity. Twins
+OL,19,     GMadison and Sydney want to find
+OL,20,     Gtheir egg donor, and Anthony,
+OL,21,     G77, wants to discover who his
+OL,22,     GAmerican GI father is.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696536920
+OL,0,        ECIMSBWebfax     F698A1696540531
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 5 OCT
-OL,4,G2100FMartin Clunes: A Dog Called Laura
-OL,5,     GThis documentary follows Martin
-OL,6,     GClunes as he adopts retired
-OL,7,     Gguide dog Laura from blind
-OL,8,     Gfitness guru Jaina Mistry and
-OL,9,     Gdiscovers how great guide dogs
-OL,10,     Gare created.
-OL,11,G2200FITV News at Ten
-OL,12,     GITV News provides a fresh
-OL,13,     Gperspective on the major stories
-OL,14,     Gof the day with national and
-OL,15,     Ginternational news with reports
-OL,16,     Gand analysis from ITV's
-OL,17,     GCorrespondents.
-OL,18,G2230FRegional News
+OL,4,G2200FITV News at Ten
+OL,5,     GITV News provides a fresh
+OL,6,     Gperspective on the major stories
+OL,7,     Gof the day with national and
+OL,8,     Ginternational news with reports
+OL,9,     Gand analysis from ITV's
+OL,10,     GCorrespondents.
+OL,11,G2230FRegional News
+OL,12,G2245FThe Real Crown: Inside the House
+OL,13,     Fof Windsor
+OL,14,     GThreats: Documentary series. The
+OL,15,     GRoyal Family are under threat
+OL,16,     Gfrom enemies both without and
+OL,17,     Gwithin as the Queen tries to
+OL,18,     Gsteer Prince Charles into taking
+OL,19,     Ga bride.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696536920
+OL,0,        ECIMSBWebfax     F698A1696540531
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 5 OCT
-OL,4,G2100FTaskmaster
-OL,5,     GJulian Clary: table-destroying
-OL,6,     Ghero. And Alex gets hurt.
-OL,7,     G_NationalPoetryDay
-OL,8,G2200F8 Out of 10 Cats Does Countdown
-OL,9,     GBest bits from the show. Sean
-OL,10,     GLock dances in the nude. Jimmy's
-OL,11,     Gnot impressed. _NationalPoetryDay
-OL,12,G2305FNaked, Alone and Racing to Get
-OL,13,     FHome
-OL,14,     GNaked in the wild. Two teams
-OL,15,     Ghave three days to race. Who
-OL,16,     Gwill win the prize?
-OL,17,     G_NationalPoetryDay
+OL,4,G2200F8 Out of 10 Cats Does Countdown
+OL,5,     GBest bits from the show. Sean
+OL,6,     GLock dances in the nude. Jimmy's
+OL,7,     Gnot impressed. _NationalPoetryDay
+OL,8,G2305FNaked, Alone and Racing to Get
+OL,9,     FHome
+OL,10,     GNaked in the wild. Two teams
+OL,11,     Ghave three days to race. Who
+OL,12,     Gwill win the prize?
+OL,13,     G_NationalPoetryDay
+OL,14,G0010FNaked Attraction
+OL,15,     GPansexual Sarah can't wait to
+OL,16,     Groad test her new body on her
+OL,17,     Gfirst date as a woman. Plumber
+OL,18,     GJamie's love life has gone down
+OL,19,     Gthe u-bend, so he's all cisterns
+OL,20,     Ggo to find a partner.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696536920
+OL,0,        ECIMSBWebfax     F698A1696540531
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 5 OCT
-OL,4,G2100FAll Creatures Great and Small
-OL,5,     GThe veterinary drama returns.
-OL,6,     GIt's Easter 1940 and, with
-OL,7,     GTristan away, Skeldale House is
-OL,8,     Gbusier than ever. Everyone looks
-OL,9,     Gto the future, and James tries
-OL,10,     Gto save a dog from its owner.
-OL,11,G2200FA&E After Dark
-OL,12,     GThe night staff at Hull Royal
-OL,13,     GInfirmary battle to save the
-OL,14,     Glife of 47-year-old Jane who has
-OL,15,     Ga heart rate more than double
-OL,16,     Gthe average.
+OL,4,G2200FA&E After Dark
+OL,5,     GThe night staff at Hull Royal
+OL,6,     GInfirmary battle to save the
+OL,7,     Glife of 47-year-old Jane who has
+OL,8,     Ga heart rate more than double
+OL,9,     Gthe average.
+OL,10,G2305FSkin A&E
+OL,11,     GHairdresser Blake, 37, visits
+OL,12,     Gthe clinic to try and get some
+OL,13,     Gof his multiple lipomas removed.
+OL,14,     GDr Emma diagnoses a rare form of
+OL,15,     Gacne that she's only ever seen
+OL,16,     Gonce before.
+OL,17,G0005FPolice Interceptors
+OL,18,     GBen and Matt find themselves on
+OL,19,     Ga high-speed pursuit which ends
+OL,20,     Gup on a road to nowhere.
