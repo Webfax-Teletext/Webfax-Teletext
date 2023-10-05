@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696464642
+OL,0,        ECIMSBWebfax     F698A1696468252
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696464642
+OL,0,        ECIMSBWebfax     F698A1696468252
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696464642
+OL,0,        ECIMSBWebfax     F698A1696468252
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,17 +55,12 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for WED 4 OCT
-OL,4,G0035FMichael McIntyre's The Wheel
-OL,5,     GAlex Jones, Ellie Simmonds and
-OL,6,     GPaddy McGuinness try to help
-OL,7,     Gcontestants win big cash.
-OL,8,G0135FWeather for the Week Ahead
-OL,9,G0140FBBC News
+OL,4,G0140FBBC News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696464642
+OL,0,        ECIMSBWebfax     F698A1696468252
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -73,27 +68,17 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for WED 4 OCT
-OL,4,G0045FSee Hear
-OL,5,     GWhat are Yvonne and Julian
-OL,6,     Graving about? Find out with a
-OL,7,     Gvisit to the British Library.
-OL,8,G0115FGarden Rescue
-OL,9,     GLee and Flo are in Wokingham
-OL,10,     Gwith Sylvia and Matthew. Sylvia
-OL,11,     Gis a hopeless romantic and
-OL,12,     Gdreams of a garden that embodies
-OL,13,     Glove and enchantment.
-OL,14,G0200FCoco Chanel Unbuttoned
-OL,15,     GThe story of original influencer
-OL,16,     GCoco Chanel, whose designs still
-OL,17,     Grepresent the zenith of female
-OL,18,     Gsexuality, style and power.
-OL,19,G0330FThis is BBC Two
+OL,4,G0200FCoco Chanel Unbuttoned
+OL,5,     GThe story of original influencer
+OL,6,     GCoco Chanel, whose designs still
+OL,7,     Grepresent the zenith of female
+OL,8,     Gsexuality, style and power.
+OL,9,G0330FThis is BBC Two
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696464642
+OL,0,        ECIMSBWebfax     F698A1696468252
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -122,30 +107,31 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696464642
+OL,0,        ECIMSBWebfax     F698A1696468252
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 4 OCT
-OL,4,G0035FTaskmaster
-OL,5,     GJulian Clary finds a former
-OL,6,     GTaskmaster champion hiding
-OL,7,     Gbehind a door. Susan Wokoma does
-OL,8,     Gsomething unexpected with mice
-OL,9,     Gand fish. Sue Perkins loves
-OL,10,     Gportcullises.
-OL,11,G0130FRamsay's 24 Hours to Hell & Back
-OL,12,     GBlend on Main: Gordon Ramsay and
-OL,13,     Ghis team visit struggling Blend
-OL,14,     Gon Main in New Jersey and give
-OL,15,     Git a spectacular renovation, a
-OL,16,     Gnew menu and hope for the future.
+OL,4,G0130FRamsay's 24 Hours to Hell & Back
+OL,5,     GBlend on Main: Gordon Ramsay and
+OL,6,     Ghis team visit struggling Blend
+OL,7,     Gon Main in New Jersey and give
+OL,8,     Git a spectacular renovation, a
+OL,9,     Gnew menu and hope for the future.
+OL,10,G0220FJimmy Doherty's New Zealand
+OL,11,     FEscape
+OL,12,     GJimmy visits a sea clam farm and
+OL,13,     Ga vineyard where birds of prey
+OL,14,     Gguard the grapes. And in the
+OL,15,     Gcapital Wellington, the locals
+OL,16,     Gare waging war on the city's
+OL,17,     Grats.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696464642
+OL,0,        ECIMSBWebfax     F698A1696468252
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
