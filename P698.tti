@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696652493
+OL,0,        ECIMSBWebfax     F698A1696656104
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696652493
+OL,0,        ECIMSBWebfax     F698A1696656104
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,94 +47,135 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696652493
+OL,0,        ECIMSBWebfax     F698A1696656104
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for FRI 6 OCT
-OL,4,G0115FBBC News
+OL,3,CProgramme listings for SAT 7 OCT
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GHost Matt Tebbutt is joined by
+OL,10,     Gchefs Donal Skehan and Nadiya
+OL,11,     GHussain, and by special guest
+OL,12,     GSir Lenny Henry. Drinks expert
+OL,13,     GHelen McGinn picks the wines to
+OL,14,     Ggo with the studio dishes.
+OL,15,G1130FNadiya's Simple Spices
+OL,16,     GNadiya delivers home-cooked
+OL,17,     Gtreats to rival people's
+OL,18,     Gfavourite takeaways, from a
+OL,19,     Gsmoky aubergine pizza to a
+OL,20,     Gspeedy chicken jalfrezi and the
+OL,21,     Gcoolest kulfi ice cream bars.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696652493
+OL,0,        ECIMSBWebfax     F698A1696656104
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for FRI 6 OCT
-OL,4,G0335FThis is BBC Two
+OL,3,CProgramme listings for SAT 7 OCT
+OL,4,G0620FHey Duggee
+OL,5,     GThe Listening Badge. The
+OL,6,     GSquirrels hear a strange sound
+OL,7,     Gthat they've not heard before,
+OL,8,     Gso they ask Duggee to help
+OL,9,     Gidentify it.
+OL,10,G0630FSupertato
+OL,11,     GCereal Mountain. Chilli is
+OL,12,     Gdetermined to make it to the top
+OL,13,     Gof Cereal Mountain without the
+OL,14,     Ghelp of Supertato and his
+OL,15,     Ggadgets. Evil Pea tries to get
+OL,16,     Gthere first by cheating.
+OL,17,G0635FShaun the Sheep
+OL,18,     GHot to Trotter. Can Bitzer and
+OL,19,     GShaun ensure that the regular
+OL,20,     Gdance competition is run fairly?
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696652493
+OL,0,        ECIMSBWebfax     F698A1696656104
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 6 OCT
-OL,4,G0510FTenable
-OL,5,     GFive Fear Maidens: Warwick Davis
-OL,6,     Ghosts as a team of five roller
-OL,7,     Gderby pals from Perth in
-OL,8,     GScotland play to take home a big
-OL,9,     Gcash prize by answering a series
-OL,10,     Gof Top 10 list questions.
+OL,3,CProgramme listings for SAT 7 OCT
+OL,4,G0600FLove Your Garden
+OL,5,     GChris Finney: Alan Titchmarsh
+OL,6,     Gand his team create a surprise
+OL,7,     Ggarden for ex-serviceman Chris
+OL,8,     GFinney, who in 2003 became the
+OL,9,     Gyoungest recipient of the George
+OL,10,     GCross for gallantry.
+OL,11,G0630FLove Your Garden
+OL,12,     GWildlife: Alan and the team
+OL,13,     Gcreate a wildlife wonderland
+OL,14,     Gcomplete with a giant pond and
+OL,15,     Grockery in a suburban garden in
+OL,16,     GWest Brom for local hero
+OL,17,     Gfundraiser Pete Hill.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696652493
+OL,0,        ECIMSBWebfax     F698A1696656104
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 6 OCT
-OL,4,G0515FCome Dine with Me
-OL,5,     GLeeds. Painter-decorator and
-OL,6,     GMichael Buble impersonator Alex
-OL,7,     Ghopes to sail to the top of the
-OL,8,     Gleaderboard with a cruise-themed
-OL,9,     Gmenu from around the world.
-OL,10,G0545FCome Dine with Me
-OL,11,     GLeeds. On the final day of the
-OL,12,     Gcompetition, bridal shop owner
-OL,13,     GAbbi vows to woo her guests with
-OL,14,     Ga wedding-themed party. Will the
-OL,15,     Gamorous atmosphere help her bag
-OL,16,     Gthe grand?
-OL,26,@nD@Rrr
+OL,3,CProgramme listings for SAT 7 OCT
+OL,4,G0610FThe King of Queens
+OL,5,     GCourt Date: Carrie is given a
+OL,6,     Gticket for reckless driving and
+OL,7,     Gtries to get out of it by
+OL,8,     Gchatting up the policeman who
+OL,9,     Gissued it.
+OL,10,G0635FThe King of Queens
+OL,11,     GWhite Collar: When Doug is
+OL,12,     Gpromoted at work, he rapidly
+OL,13,     Gbecomes miserable with life.
+OL,14,G0700FThe King of Queens
+OL,15,     GRayny Day: Doug takes a day off
+OL,16,     Gand decides to spend it with
+OL,17,     GRichie, who's feeling bad about
+OL,18,     Ghis divorce.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696652493
+OL,0,        ECIMSBWebfax     F698A1696656104
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 6 OCT
-OL,4,G0505FHouse Busters
-OL,5,     GJanet Ellis and a team of new-
-OL,6,     Gage practitioners suggest ways
-OL,7,     Gin which changes to homes could
-OL,8,     Gpositively affect the personal
-OL,9,     Glives of their owners.
-OL,10,G0530FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the
-OL,13,     Gworld, focusing on celebrities,
-OL,14,     Gmovies, music and entertainment.
-OL,15,G0535FPeppa Pig
-OL,16,     GPeppa and her friends are at
-OL,17,     GRebecca Rabbit's house for an
-OL,18,     GEaster Egg hunt and they are
-OL,19,     Gdetermined to find the Easter
-OL,20,     GBunny hiding all of the
-OL,21,     Gchocolate eggs!
+OL,3,CProgramme listings for SAT 7 OCT
+OL,4,G0605FBlue's Clues & You!
+OL,5,     GJosh and Blue are Neighbourhood
+OL,6,     GHeroes, helping everyone they
+OL,7,     Gmeet. We play Blue's Clues to
+OL,8,     Gsee where Blue wants to go and
+OL,9,     Gmake pizza with Mr. Oregano.
+OL,10,G0625FSesame Street Mecha Builders
+OL,11,     GBerta is opening an exhibit on
+OL,12,     Gthe Whatsacallit of Treetop
+OL,13,     GWoods. If only she could get a
+OL,14,     Gpicture to prove it's real.
+OL,15,G0640FPirata and Capitano
+OL,16,     GThe friends find a magnificent
+OL,17,     Gwreck they decide to offer to
+OL,18,     Gthe Fellowship after repairs.
+OL,19,     GBut Dodo decides to steal it
+OL,20,     Gbefore learning that the boat
+OL,21,     Gused to belong to an ancestor.
