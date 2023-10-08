@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696764474
+OL,0,        ECIMSBWebfax     F698A1696768089
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696764474
+OL,0,        ECIMSBWebfax     F698A1696768089
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696764474
+OL,0,        ECIMSBWebfax     F698A1696768089
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,29 +55,24 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for SUN 8 OCT
-OL,4,G1210FSongs of Praise: All Creatures
-OL,5,     FGreat and Small
-OL,6,     GAnother chance to see the Rev
-OL,7,     GKate Bottley celebrating the
-OL,8,     Gblessings pets can bring.
-OL,9,G1245FPoints of View
-OL,10,     GThe show that lets you air your
-OL,11,     Gviews on the BBC's television
-OL,12,     Gprogrammes.
-OL,13,G1300FBBC News
-OL,14,G1310FWeather for the Week Ahead
-OL,15,G1315FGymnastics: World Championships
-OL,16,     GLive coverage of the remaining
-OL,17,     Gapparatus finals from the 2023
-OL,18,     GArtistic Gymnastics
-OL,19,     GChampionships in Antwerp as the
-OL,20,     Gcompetition reaches its final
-OL,21,     Gday.
+OL,4,G1315FGymnastics: World Championships
+OL,5,     GLive coverage of the remaining
+OL,6,     Gapparatus finals from the 2023
+OL,7,     GArtistic Gymnastics
+OL,8,     GChampionships in Antwerp as the
+OL,9,     Gcompetition reaches its final
+OL,10,     Gday.
+OL,11,G1445FEscape to the Country
+OL,12,     GA London couple are swapping the
+OL,13,     Gsound of the Bow bells for cow
+OL,14,     Gbells as they search for a dream
+OL,15,     Ghome in the Derbyshire
+OL,16,     Gcountryside.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696764474
+OL,0,        ECIMSBWebfax     F698A1696768089
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -108,7 +103,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696764474
+OL,0,        ECIMSBWebfax     F698A1696768089
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -137,46 +132,53 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696764474
+OL,0,        ECIMSBWebfax     F698A1696768089
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SUN 8 OCT
-OL,4,G0930FLive: Sunday Brunch
-OL,5,     GChris Packham tells us about his
-OL,6,     Gnew book. Sam Thompson talks
-OL,7,     Gabout the Pride of Britain
-OL,8,     GAwards. Plus: Hannah Walters,
-OL,9,     GHamza Yassin and music from
-OL,10,     GBombay Bicycle Club.
-OL,11,G1230FThe Simpsons
-OL,12,     GBart's Friend Falls in Love:
-OL,13,     GMilhouse falls for new girl
-OL,14,     GSamantha Stanky. Lisa orders
-OL,15,     Gsubliminal weight-loss tapes for
-OL,16,     GHomer, but vocabulary
-OL,17,     Gimprovement tapes arrive instead.
+OL,4,G1300FThe Simpsons
+OL,5,     GDog of Death: Santa's Little
+OL,6,     GHelper needs an expensive
+OL,7,     Goperation, and each of the
+OL,8,     GSimpsons must give something up
+OL,9,     Gto pay for it. How will Homer
+OL,10,     Gface a life without beer?
+OL,11,G1330FThe Simpsons
+OL,12,     GColonel Homer: Marge is jealous
+OL,13,     Gwhen Homer becomes the manager
+OL,14,     Gof beautiful country and western
+OL,15,     Gsinger Lurleen .
+OL,16,G1400FThe Simpsons
+OL,17,     GBlack Widower: Bart is shocked
+OL,18,     Gwhen Selma announces that she
+OL,19,     Gplans to marry Sideshow Bob ,
+OL,20,     Gsince he has sworn deadly
+OL,21,     Grevenge on Bart for having him
+OL,22,     Gjailed.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696764474
+OL,0,        ECIMSBWebfax     F698A1696768089
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SUN 8 OCT
-OL,4,G1225FFriends
-OL,5,     GRoss assembles the gang on the
-OL,6,     Groof to watch a meteor shower,
-OL,7,     Gbut becomes trapped up there
-OL,8,     Gwith Joey. Phoebe's fire alarm
-OL,9,     Gwon't stop bleeping.
-OL,10,G1250FPolice Interceptors
-OL,11,     GPolice intercept units on
-OL,12,     Gpatrol. Rob and Dan pursue of an
-OL,13,     Gunder-powered runaway hatchback
-OL,14,     Gbefore the suspect decamps and
-OL,15,     Gmakes a run for it - in a
-OL,16,     Gfluorescent jacket!
+OL,4,G1250FPolice Interceptors
+OL,5,     GPolice intercept units on
+OL,6,     Gpatrol. Rob and Dan pursue of an
+OL,7,     Gunder-powered runaway hatchback
+OL,8,     Gbefore the suspect decamps and
+OL,9,     Gmakes a run for it - in a
+OL,10,     Gfluorescent jacket!
+OL,11,G1350FThe Hunt for Red October
+OL,12,     GClassic submarine thriller
+OL,13,     Gstarring Sean Connery and Alec
+OL,14,     GBaldwin. Soviet submarine
+OL,15,     Gcaptain Marko Ramius as he
+OL,16,     Gabandons his orders and heads
+OL,17,     Gfor the east coast of the United
+OL,18,     GStates.
