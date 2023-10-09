@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696887332
+OL,0,        ECIMSBWebfax     F698A1696890943
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696887332
+OL,0,        ECIMSBWebfax     F698A1696890943
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696887332
+OL,0,        ECIMSBWebfax     F698A1696890943
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,30 +55,22 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for MON 9 OCT
-OL,4,G2230FRegional News
-OL,5,G2240FHave I Got a Bit More News for
-OL,6,     FYou
-OL,7,     GVictoria Coren Mitchell is host
-OL,8,     Gwith guest panellists
-OL,9,     Gbroadcaster Carol Vorderman and
-OL,10,     Gcomedian Ignacio Lopez joining
-OL,11,     Gteam captains Paul Merton and
-OL,12,     GIan Hislop.
-OL,13,G2325FThe Graham Norton Show
-OL,14,     GWith guests Bernie Taupin,
-OL,15,     GCatherine Tate, Ashley Walters
-OL,16,     Gand Bill Bailey. Contains some
-OL,17,     Gstrong language.
-OL,18,G0015FAlan Carr's Picture Slam
-OL,19,     GTeams from Wigan, Liverpool and
-OL,20,     GCardiff attempt to Picture Slam
-OL,21,     Gtheir way to #10,000.
-OL,22,G0100FWeather for the Week Ahead
+OL,4,G2325FThe Graham Norton Show
+OL,5,     GWith guests Bernie Taupin,
+OL,6,     GCatherine Tate, Ashley Walters
+OL,7,     Gand Bill Bailey. Contains some
+OL,8,     Gstrong language.
+OL,9,G0015FAlan Carr's Picture Slam
+OL,10,     GTeams from Wigan, Liverpool and
+OL,11,     GCardiff attempt to Picture Slam
+OL,12,     Gtheir way to #10,000.
+OL,13,G0100FWeather for the Week Ahead
+OL,14,G0105FBBC News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696887332
+OL,0,        ECIMSBWebfax     F698A1696890943
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -86,93 +78,98 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for MON 9 OCT
-OL,4,G2230FNewsnight
-OL,5,G2310FWeather
-OL,6,G2315FDon't Look Now
-OL,7,     GAcclaimed mystery about a couple
-OL,8,     Ggrieving the loss of their
-OL,9,     Gdaughter in a tragic accident.
-OL,10,     GContains some strong language,
-OL,11,     Gexplicit sexual content, some
-OL,12,     Gviolence an...
-OL,13,G0105FCountryfile
-OL,14,     GAdam Henson and Sean Fletcher
-OL,15,     Gare back in the 'breadbasket' of
-OL,16,     GEast Anglia as farmer Tom Martin
-OL,17,     Glearns if this year's harvest
-OL,18,     Ghas been a success.
+OL,4,G2315FDon't Look Now
+OL,5,     GAcclaimed mystery about a couple
+OL,6,     Ggrieving the loss of their
+OL,7,     Gdaughter in a tragic accident.
+OL,8,     GContains some strong language,
+OL,9,     Gexplicit sexual content, some
+OL,10,     Gviolence an...
+OL,11,G0105FCountryfile
+OL,12,     GAdam Henson and Sean Fletcher
+OL,13,     Gare back in the 'breadbasket' of
+OL,14,     GEast Anglia as farmer Tom Martin
+OL,15,     Glearns if this year's harvest
+OL,16,     Ghas been a success.
+OL,17,G0200FPicasso: The Beauty and the Beast
+OL,18,     GPicasso creates some of his
+OL,19,     Ggreatest work as his personal
+OL,20,     Glife grows more complicated.
+OL,21,     GDeals with adult themes.
+OL,22,G0300FThis is BBC Two
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696887332
+OL,0,        ECIMSBWebfax     F698A1696890943
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for MON 9 OCT
-OL,4,G2230FRegional News
-OL,5,G2245FPeston
-OL,6,     GJoin Robert Peston for a late-
-OL,7,     Gnight political magazine show
-OL,8,     Gfeaturing big interviews with
-OL,9,     Gthe country's leading
-OL,10,     Gpoliticians, topical guests, and
-OL,11,     Gthe best political gossip.
-OL,12,G2340FHotel Custody
-OL,13,     GFull Moon Full House:
-OL,14,     GDocumentary series. A full moon
-OL,15,     Gstirs up odd behaviour in
-OL,16,     GGrimsby as three men are
-OL,17,     Garrested after a pub fight and
-OL,18,     Ganother knocks himself out in a
-OL,19,     Gpolice van.
+OL,4,G2245FPeston
+OL,5,     GJoin Robert Peston for a late-
+OL,6,     Gnight political magazine show
+OL,7,     Gfeaturing big interviews with
+OL,8,     Gthe country's leading
+OL,9,     Gpoliticians, topical guests, and
+OL,10,     Gthe best political gossip.
+OL,11,G2340FHotel Custody
+OL,12,     GFull Moon Full House:
+OL,13,     GDocumentary series. A full moon
+OL,14,     Gstirs up odd behaviour in
+OL,15,     GGrimsby as three men are
+OL,16,     Garrested after a pub fight and
+OL,17,     Ganother knocks himself out in a
+OL,18,     Gpolice van.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696887332
+OL,0,        ECIMSBWebfax     F698A1696890943
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for MON 9 OCT
-OL,4,G2200FMy Dead Body
-OL,5,     GThe extraordinary moving story
-OL,6,     Gof Toni Crews, a young mum with
-OL,7,     Ga rare terminal cancer who
-OL,8,     Gcharted her illness online
-OL,9,     Gbefore donating her body for
-OL,10,     Gmedical research and public
-OL,11,     Gdissection.
-OL,12,G2315FFirst Dates
-OL,13,     GA look at some classic double
-OL,14,     Gdates, including twin sisters
-OL,15,     Gwith mixed fortunes, a Geordie
-OL,16,     Gpair with a secret to tell, and
-OL,17,     Ga mother and son hoping to fix
-OL,18,     Geach other's love lives.
+OL,4,G2315FFirst Dates
+OL,5,     GA look at some classic double
+OL,6,     Gdates, including twin sisters
+OL,7,     Gwith mixed fortunes, a Geordie
+OL,8,     Gpair with a secret to tell, and
+OL,9,     Ga mother and son hoping to fix
+OL,10,     Geach other's love lives.
+OL,11,G0015FSex Rated
+OL,12,     GPhysiotherapist Alicia prides
+OL,13,     Gherself on hitting the right
+OL,14,     Gspots in the bedroom, but will
+OL,15,     Gher former flames agree? And is
+OL,16,     Gsales rep Adam's banter letting
+OL,17,     Ghim down?
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1696887332
+OL,0,        ECIMSBWebfax     F698A1696890943
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for MON 9 OCT
-OL,4,G2200FCasualty 24/7: Every Second
-OL,5,     FCounts
-OL,6,     GWith Barnsley Casualty declared
-OL,7,     Ga crime scene, the team have to
-OL,8,     Gdeal with emergencies inside and
-OL,9,     Goutside the hospital. Doctor
-OL,10,     GDave needs to negotiate with the
-OL,11,     GPolice.
-OL,12,G2305FAmbulance: Code Red
-OL,13,     GA driver in an accident is left
-OL,14,     Gwith possible internal bleeding;
-OL,15,     Gunconscious man may have
-OL,16,     Goverdosed on heroin; a child has
-OL,17,     Ga seizure; an old woman falls.
+OL,4,G2305FAmbulance: Code Red
+OL,5,     GA driver in an accident is left
+OL,6,     Gwith possible internal bleeding;
+OL,7,     Gunconscious man may have
+OL,8,     Goverdosed on heroin; a child has
+OL,9,     Ga seizure; an old woman falls.
+OL,10,G0000FICC Cricket World Cup 2023:..
+OL,11,     G...New Zealand vs Netherlands.
+OL,12,     GHighlights of the World Cup
+OL,13,     Ggroup match between New Zealand
+OL,14,     Gand Netherlands from Rajiv
+OL,15,     GGandhi International Stadium in
+OL,16,     GHyderabad.
+OL,17,G0100FLive NFL: Monday Night Football
+OL,18,     GAt the Allegiant Stadium, Green
+OL,19,     GBay Packers face Las Vegas
+OL,20,     GRaiders at home.
