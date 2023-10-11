@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697057143
+OL,0,        ECIMSBWebfax     F698A1697060757
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697057143
+OL,0,        ECIMSBWebfax     F698A1697060757
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697057143
+OL,0,        ECIMSBWebfax     F698A1697060757
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,30 +55,23 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for WED 11 OCT
-OL,4,G2100FCelebrity Race Across the World
-OL,5,     GBudgets are dwindling and the
-OL,6,     Gintensity of the race is
-OL,7,     Gstepping up as the teams leave
-OL,8,     Gwestern Europe behind. Contains
-OL,9,     Gsome strong language.
-OL,10,G2200FBBC News and Weather
-OL,11,G2230FRegional News
-OL,12,G2240FGet Out
-OL,13,     GChris meets his girlfriend's
-OL,14,     Gparents but soon feels something
-OL,15,     Gis very wrong. Contains very
-OL,16,     Gstrong language, some violence
-OL,17,     Gand some upsetting scenes.
-OL,18,G0020FBlankety Blank
-OL,19,     GWith Ricky Wilson, Sam Quek,
-OL,20,     GKerry Godliman, Shane Richie,
-OL,21,     GRemi Burgz and Owen Warner.
-OL,22,G0055FWeather for the Week Ahead
+OL,4,G2240FGet Out
+OL,5,     GChris meets his girlfriend's
+OL,6,     Gparents but soon feels something
+OL,7,     Gis very wrong. Contains very
+OL,8,     Gstrong language, some violence
+OL,9,     Gand some upsetting scenes.
+OL,10,G0020FBlankety Blank
+OL,11,     GWith Ricky Wilson, Sam Quek,
+OL,12,     GKerry Godliman, Shane Richie,
+OL,13,     GRemi Burgz and Owen Warner.
+OL,14,G0055FWeather for the Week Ahead
+OL,15,G0100FBBC News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697057143
+OL,0,        ECIMSBWebfax     F698A1697060757
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -86,89 +79,92 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for WED 11 OCT
-OL,4,G2100FDNA Family Secrets
-OL,5,     GFoundling Steph is looking for
-OL,6,     Gher family, Mark for his
-OL,7,     Gorigins, and Viv for a sister.
-OL,8,G2200FMoulin Rouge: Yes We Can-Can!
-OL,9,     GA rigorous training regime takes
-OL,10,     Gits toll on the newest British
-OL,11,     Grecruits, and the relentless
-OL,12,     Ghigh kicks of the can-can put
-OL,13,     Gone dancer's future in jeopardy.
-OL,14,     GContains some nudity.
-OL,15,G2230FNewsnight
-OL,16,G2310FWeather
+OL,4,G2230FNewsnight
+OL,5,G2310FWeather
+OL,6,G2315FUnspun World with John Simpson
+OL,7,     GUnspun World provides an
+OL,8,     Gunvarnished version of the
+OL,9,     Gweek's major global news stories
+OL,10,     G- reliable, honest and essential
+OL,11,     Gviewing with the BBC's world
+OL,12,     Gaffairs editor, John Simpson.
+OL,13,G2345FPicasso: The Beauty and the Beast
+OL,14,     GPicasso's last years see an
+OL,15,     Gexplosion of creativity and two
+OL,16,     Gtempestuous relationships.
+OL,17,     GContains scenes of a sexual
+OL,18,     Gnature.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697057143
+OL,0,        ECIMSBWebfax     F698A1697060757
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 11 OCT
-OL,4,G2100FPayback
-OL,5,     GCrime thriller series. Feeling
-OL,6,     Gincreasingly isolated and
-OL,7,     Gdeceived, Lexie is left with no
-OL,8,     Gchoice but to agree to help
-OL,9,     Gcrime boss Cal Morris with a
-OL,10,     Gsecret business transaction.
-OL,11,G2200FITV News at Ten
-OL,12,     GITV News provides a fresh
-OL,13,     Gperspective on the major stories
-OL,14,     Gof the day with national and
-OL,15,     Ginternational news with reports
-OL,16,     Gand analysis from ITV's
-OL,17,     GCorrespondents.
-OL,18,G2230FRegional News
+OL,4,G2245FBreaking Through with Zeze Millz
+OL,5,     GBlack actors Adjoa Andoh, Ruby
+OL,6,     GBarker, and Channique Sterling-
+OL,7,     GBrown discuss their personal
+OL,8,     Gexperiences, challenges, and
+OL,9,     Gtheir journeys to success with
+OL,10,     Gpresenter Zeze Millz.
+OL,11,G2315FSorry, I Didn't Know
+OL,12,     GPaul Chowdhry, Miles Jupp, Tom
+OL,13,     GMoutchi and Sukh Ojla join host
+OL,14,     GJimmy Akingbola and team leaders
+OL,15,     GChizzy Akudolu and Judi Love to
+OL,16,     Gtake viewers on a tour of Black
+OL,17,     GBritish history.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697057143
+OL,0,        ECIMSBWebfax     F698A1697060757
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 11 OCT
-OL,4,G2100FGrand Designs
-OL,5,     GIn 2013, Jon and Noreen started
-OL,6,     Gbuilding a giant treehouse in
-OL,7,     GGloucestershire. By 2016, the
-OL,8,     Gmoney ran out. Are they finally
-OL,9,     Gliving up in the trees?
-OL,10,G2200FBritain's Most Expensive Houses
-OL,11,     GA sneak peek behind the doors of
-OL,12,     Gsome of the UK's jaw-dropping
-OL,13,     Ghomes, as brokers set out to
-OL,14,     Gsell a property in Highgate for
-OL,15,     G#40 million, and the home of
-OL,16,     Gformer Liverpool FC CEO Peter
-OL,17,     GMoore.
+OL,4,G2200FBritain's Most Expensive Houses
+OL,5,     GA sneak peek behind the doors of
+OL,6,     Gsome of the UK's jaw-dropping
+OL,7,     Ghomes, as brokers set out to
+OL,8,     Gsell a property in Highgate for
+OL,9,     G#40 million, and the home of
+OL,10,     Gformer Liverpool FC CEO Peter
+OL,11,     GMoore.
+OL,12,G2305FThe Great British Bake Off
+OL,13,     GIt's Bread Week. The bakers make
+OL,14,     Ga classic loaf and head to Devon
+OL,15,     Gfor the Technical. Whose plaited
+OL,16,     Gcentrepiece will get the
+OL,17,     GBreadmaster himself, Paul
+OL,18,     GHollywood, in a twist?
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697057143
+OL,0,        ECIMSBWebfax     F698A1697060757
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 11 OCT
-OL,4,G2100FJay Blades: The Midlands Through
-OL,5,     FTime
-OL,6,     GJay Blades reveals the secrets
-OL,7,     Gof his adopted home, uncovering
-OL,8,     Gits extraordinary history, from
-OL,9,     Gits much-mocked accent to the
-OL,10,     Gtruth about Lady Godiva.
-OL,11,G2200F999: Critical Condition
-OL,12,     GCara has fallen 50 metres down a
-OL,13,     Gwaterfall. She has multiple
-OL,14,     Gobvious injuries that need
-OL,15,     Gurgent care, but Dr Richard
-OL,16,     GFawcett must also investigate
-OL,17,     Ghidden internal injuries.
+OL,4,G2200F999: Critical Condition
+OL,5,     GCara has fallen 50 metres down a
+OL,6,     Gwaterfall. She has multiple
+OL,7,     Gobvious injuries that need
+OL,8,     Gurgent care, but Dr Richard
+OL,9,     GFawcett must also investigate
+OL,10,     Ghidden internal injuries.
+OL,11,G2305FMotorway Cops: Catching
+OL,12,     FBritain's Speeders
+OL,13,     GThe show returns with six police
+OL,14,     Gcars plus dogs chasing the
+OL,15,     Goccupants of a transgressing
+OL,16,     Gcar, an argument over a hockey
+OL,17,     Gstick, and a surprising
+OL,18,     Gbreathalyzer test.
