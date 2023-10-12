@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697096881
+OL,0,        ECIMSBWebfax     F698A1697100496
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697096881
+OL,0,        ECIMSBWebfax     F698A1697100496
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697096881
+OL,0,        ECIMSBWebfax     F698A1697100496
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,26 +55,29 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for THU 12 OCT
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0915FRip Off Britain
-OL,9,     GThe 11-year-old that booked a
-OL,10,     G#4,000 holiday by accident.
-OL,11,     GPlus, why car insurance prices
-OL,12,     Gare going through the roof for
-OL,13,     Gsome people.
-OL,14,G1000FCrimewatch Live
-OL,15,     GWhy a red ski mask was key to
-OL,16,     Gtracking down a man responsible
-OL,17,     Gfor a string of knifepoint
-OL,18,     Grobberies.
+OL,4,G0915FRip Off Britain
+OL,5,     GThe 11-year-old that booked a
+OL,6,     G#4,000 holiday by accident.
+OL,7,     GPlus, why car insurance prices
+OL,8,     Gare going through the roof for
+OL,9,     Gsome people.
+OL,10,G1000FCrimewatch Live
+OL,11,     GWhy a red ski mask was key to
+OL,12,     Gtracking down a man responsible
+OL,13,     Gfor a string of knifepoint
+OL,14,     Grobberies.
+OL,15,G1045FCaught Red Handed
+OL,16,     GA car thief doesn't realise the
+OL,17,     Gcar's dashcam is recording
+OL,18,     Geverywhere he goes. And an
+OL,19,     Gundercover officer recognises an
+OL,20,     Gadversary from years ago who is
+OL,21,     Gup to his old tricks.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697096881
+OL,0,        ECIMSBWebfax     F698A1697100496
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -82,96 +85,92 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for THU 12 OCT
-OL,4,G0800FSort Your Life Out
-OL,5,     GStacey and her gang - organiser
-OL,6,     GDilly, carpenter Rob and cleaner
-OL,7,     GIwan - challenge the Daniels
-OL,8,     Gfamily to sort their life out in
-OL,9,     Gseven days.
-OL,10,G0900FNicky Campbell
-OL,11,     GNicky Campbell takes your calls
-OL,12,     Gon the day's talking points,
-OL,13,     Ghearing views and experiences
-OL,14,     Gfrom across the UK.
-OL,15,G1000FBBC News
-OL,16,G1215FPolitics Live
-OL,17,     GThe big political issues of the
-OL,18,     Gday.
+OL,4,G0900FNicky Campbell
+OL,5,     GNicky Campbell takes your calls
+OL,6,     Gon the day's talking points,
+OL,7,     Ghearing views and experiences
+OL,8,     Gfrom across the UK.
+OL,9,G1000FBBC News
+OL,10,G1215FPolitics Live
+OL,11,     GThe big political issues of the
+OL,12,     Gday.
+OL,13,G1300FImpossible
+OL,14,     GThe quiz show where players must
+OL,15,     Gavoid Impossible answers to stay
+OL,16,     Gin the competition. How many of
+OL,17,     Gtoday's players will survive to
+OL,18,     Gface the #10,000 question?
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697096881
+OL,0,        ECIMSBWebfax     F698A1697100496
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 12 OCT
-OL,4,G0600FGood Morning Britain
-OL,5,     GWe'll bring you the very latest
-OL,6,     Gon the Israel-Gaza war, plus
-OL,7,     GCarol Vorderman's got the Pride
-OL,8,     Gof Britain ahead of the 2023
-OL,9,     Gawards ceremony on ITV.
-OL,10,G0900FLorraine
-OL,11,     GAhead of the release of his
-OL,12,     Glatest children's book, McFly's
-OL,13,     GTom Fletcher joins Lorraine in
-OL,14,     Gstudio to reveal why his
-OL,15,     Gchildren are his harshest
-OL,16,     Gcritics.
+OL,4,G0900FLorraine
+OL,5,     GAhead of the release of his
+OL,6,     Glatest children's book, McFly's
+OL,7,     GTom Fletcher joins Lorraine in
+OL,8,     Gstudio to reveal why his
+OL,9,     Gchildren are his harshest
+OL,10,     Gcritics.
+OL,11,G1000FThis Morning
+OL,12,     GMagazine show with news and
+OL,13,     Gtopical items, celebrity guests,
+OL,14,     Gexpert advice, real life
+OL,15,     Gstories, competitions and a mix
+OL,16,     Gof cookery, health, beauty,
+OL,17,     Glifestyle and more.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697096881
+OL,0,        ECIMSBWebfax     F698A1697100496
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 12 OCT
-OL,4,G0825FFrasier
-OL,5,     GOops: Frasier carelessly passes
-OL,6,     Gon a snippet of juicy gossip
-OL,7,     Gthat leads to his colleague
-OL,8,     GBulldog losing his job.
-OL,9,G0855FFrasier
-OL,10,     GDeath Becomes Him: Frasier is
-OL,11,     Gforced to come to terms with his
-OL,12,     Gown mortality when a seemingly
-OL,13,     Ghealthy colleague suddenly dies.
-OL,14,G0925FFrasier
-OL,15,     GMiracle on Third or Fourth
-OL,16,     GStreet: When his son Frederick
-OL,17,     Gdecides to spend Christmas in
-OL,18,     GSwitzerland with Lilith, a
-OL,19,     Gdispirited Frasier looks set for
-OL,20,     Ga miserable festive season.
+OL,4,G0925FFrasier
+OL,5,     GMiracle on Third or Fourth
+OL,6,     GStreet: When his son Frederick
+OL,7,     Gdecides to spend Christmas in
+OL,8,     GSwitzerland with Lilith, a
+OL,9,     Gdispirited Frasier looks set for
+OL,10,     Ga miserable festive season.
+OL,11,G0955FChateau DIY
+OL,12,     GStephanie and Gerry begin a
+OL,13,     Gpersonal project, and a
+OL,14,     Ghoneymoon suite renovation keeps
+OL,15,     GAlison and Zion busy. Meanwhile,
+OL,16,     GEmma and Paul build a dancefloor
+OL,17,     Gfor their jazz event.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697096881
+OL,0,        ECIMSBWebfax     F698A1697100496
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for THU 12 OCT
-OL,4,G0845FBen and Holly's Little Kingdom
-OL,5,     GSpringtime: Animation. Nanny
-OL,6,     GPlum and the Wise Old Elf must
-OL,7,     Gcome up with a plan to stop two
-OL,8,     Gvery hungry gnomes from eating
-OL,9,     Geverything in sight.
-OL,10,G0855FPeppa Pig
-OL,11,     GPotato City: Peppa and her
-OL,12,     Gfamily visit a new theme park
-OL,13,     Gwhere there is lots of fun to be
-OL,14,     Ghad with vegetables.
-OL,15,G0900FPeppa Pig
-OL,16,     GThe New House: Animated series
-OL,17,     Gabout a loveable little pig.
-OL,18,     GPeppa and George are taken to
-OL,19,     Gvisit the home that Mr Bull is
-OL,20,     Gbuilding. Will they find out who
-OL,21,     Gtheir new neighbours are?
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and Storm discuss
+OL,6,     Gthe latest news and get your
+OL,7,     Gviews and opinions of the day.
+OL,8,G1115FStorm Huntley
+OL,9,     GStorm Huntley carries on the
+OL,10,     Gdiscussion and takes your calls
+OL,11,     Gto discuss the biggest stories
+OL,12,     Gof the day.
+OL,13,G1240FAlexis Conran
+OL,14,     GAlexis Conran hears from you,
+OL,15,     Gtalking about the important
+OL,16,     Gstories and getting your
+OL,17,     Gopinions and views on them.
+OL,18,G1340F5 News at Lunchtime
+OL,19,     GNational and international news.
