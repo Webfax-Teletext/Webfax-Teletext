@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697172765
+OL,0,        ECIMSBWebfax     F698A1697176380
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697172765
+OL,0,        ECIMSBWebfax     F698A1697176380
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,74 +47,138 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697172765
+OL,0,        ECIMSBWebfax     F698A1697176380
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for THU 12 OCT
-OL,4,G0015FBBC News
+OL,3,CProgramme listings for FRI 13 OCT
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FRip Off Britain
+OL,9,     GThe holiday makers scammed by a
+OL,10,     Gfake travel firm. Plus, how
+OL,11,     Gcustomers have got caught up in
+OL,12,     Ga spat between big name travel
+OL,13,     Gfirms.
+OL,14,G1000FCrimewatch Live
+OL,15,     GSwimming with Bob, the
+OL,16,     Gnewfoundland therapy dog whose
+OL,17,     Gsize and companionship supports
+OL,18,     Gthose suffering from PTSD.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697172765
+OL,0,        ECIMSBWebfax     F698A1697176380
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for THU 12 OCT
-OL,4,G0410FThis is BBC Two
+OL,3,CProgramme listings for FRI 13 OCT
+OL,4,G0630FEscape to the Country
+OL,5,     GJules Hudson explores one of the
+OL,6,     GUK's most beautiful locations
+OL,7,     Gtoday as he sets about finding
+OL,8,     Gthe ideal Wye Valley property
+OL,9,     Gfor his house hunters.
+OL,10,G0715FThe Vintage French Farmhouse
+OL,11,     GThree dealers visit L'Isle-sur-
+OL,12,     Gla-Sorgue, the antique-hunting
+OL,13,     Gcapital of southern France.
+OL,14,G0800FGardeners' World
+OL,15,     GA catch-up with three sisters in
+OL,16,     GDorset to discover how their
+OL,17,     Gfallen-down greenhouse turned
+OL,18,     Ginto an opportunity to transform
+OL,19,     Gpart of their garden.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697172765
+OL,0,        ECIMSBWebfax     F698A1697176380
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for THU 12 OCT
-OL,4,G0510FTenable
-OL,5,     GA Hoult Out of the Blue: A team
-OL,6,     Gof five friends tackle a series
-OL,7,     Gof Top 10 list questions for the
-OL,8,     Gchance to win 125,000 pounds in
-OL,9,     Gthe quiz show hosted by Warwick
-OL,10,     GDavis.
+OL,3,CProgramme listings for FRI 13 OCT
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GBehind the restorations - Ria's
+OL,9,     Gbeen given VIP access to the
+OL,10,     GUK's most famous barn as we
+OL,11,     Greport from The Repair Shop.
+OL,12,     GPlus, Gareth Malone's heading on
+OL,13,     Gtour and joins Lorraine.
+OL,14,G1000FThis Morning
+OL,15,     GMagazine show with news and
+OL,16,     Gtopical items, celebrity guests,
+OL,17,     Gexpert advice, real life
+OL,18,     Gstories, competitions and a mix
+OL,19,     Gof cookery, health, beauty,
+OL,20,     Glifestyle and more.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697172765
+OL,0,        ECIMSBWebfax     F698A1697176380
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for THU 12 OCT
-OL,4,G0540FBeat the Chef
-OL,5,     GChef Frederick Forster and an
-OL,6,     Gamateur cook compete to whip up
-OL,7,     Gtheir version of steak Rossini:
-OL,8,     Gperfectly cooked steak on a
-OL,9,     Gcrisp crouton with a chicken
-OL,10,     Gparfait and rich sauce.
+OL,3,CProgramme listings for FRI 13 OCT
+OL,4,G0645FCheers
+OL,5,     GOur Hourly Bread: When the staff
+OL,6,     Gask for pay rises, Rebecca
+OL,7,     Ginsists money is tight and gives
+OL,8,     Gthem new job titles instead. To
+OL,9,     Gget the bar out of its slump,
+OL,10,     Gthey hold a raffle.
+OL,11,G0710FCheers
+OL,12,     GSlumber Party Massacre: Rebecca
+OL,13,     Gthrows a slumber party for
+OL,14,     GCarla, who is depressed at the
+OL,15,     Gprospect of becoming a
+OL,16,     Ggrandmother after Anthony and
+OL,17,     GAnnie announce they're expecting.
+OL,18,G0735FEverybody Loves Raymond
+OL,19,     GThe Sister: Debra's hippy sister
+OL,20,     Gturns up unexpectedly at the
+OL,21,     Ghouse to announce that she has
+OL,22,     Gdecided to become a nun.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697172765
+OL,0,        ECIMSBWebfax     F698A1697176380
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for THU 12 OCT
-OL,4,G0545FPAW Patrol
-OL,5,     GMr Porter's delivery drones have
-OL,6,     Ggone out of control and now
-OL,7,     Gthey're air-dropping food
-OL,8,     Geverywhere.
+OL,3,CProgramme listings for FRI 13 OCT
+OL,4,G0650FFireman Sam
+OL,5,     GAn overloaded socket starts a
+OL,6,     Gfire at a local store, which
+OL,7,     Ghelps Mandy learn that all the
+OL,8,     Gjobs on the Fire Rescue team are
+OL,9,     Gimportant.
+OL,10,G0700FThomas & Friends All Engines Go!
+OL,11,     GAs Percy complains that Thomas
+OL,12,     Gisn't listening to him, Thomas
+OL,13,     Gdoesn't notice when Percy
+OL,14,     GDisappears, falling off the
+OL,15,     Gtrack and getting lost.
+OL,16,G0710FPeppa Pig
+OL,17,     GDaddy's Movie Camera: When Daddy
+OL,18,     GPig gets a new movie camera, he
+OL,19,     Grecords Peppa saying 'hello',
+OL,20,     Gwhich leads everyone to laugh
+OL,21,     Gwhen they notice Peppa on TV.
