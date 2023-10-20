@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697794223
+OL,0,        ECIMSBWebfax     F698A1697797834
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697794223
+OL,0,        ECIMSBWebfax     F698A1697797834
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697794223
+OL,0,        ECIMSBWebfax     F698A1697797834
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,28 +55,27 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for FRI 20 OCT
-OL,4,G1000FCrimewatch Live
-OL,5,     GOn the 25th anniversary of the
-OL,6,     Gmurder of Lyn Bryant, we make
-OL,7,     Ganother appeal for information
-OL,8,     Gon this devastating cold case.
-OL,9,G1045FCaught Red Handed
-OL,10,     GA cold and calculating criminal
-OL,11,     Gmastermind poses as a bank
-OL,12,     Gmanager to steal large sums from
-OL,13,     Ghis victims.
-OL,14,G1115FHomes Under the Hammer
-OL,15,     GThe team catch up on a long-
-OL,16,     Grunning project involving
-OL,17,     Gunderground Second World War
-OL,18,     Gtunnels near Dover, and there
-OL,19,     Gare developments in St John's
-OL,20,     GWood and Stoke-on-Trent.
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GThe team catch up on a long-
+OL,6,     Grunning project involving
+OL,7,     Gunderground Second World War
+OL,8,     Gtunnels near Dover, and there
+OL,9,     Gare developments in St John's
+OL,10,     GWood and Stoke-on-Trent.
+OL,11,G1215FBargain Hunt
+OL,12,     GWhile the teams shop with
+OL,13,     Gexperts Raj Bisram and Stephanie
+OL,14,     GConnell for items to make dough
+OL,15,     Gat the auction, Caroline Hawley
+OL,16,     Glearns of a hidden bakehouse in
+OL,17,     Gan Elizabethan mansion.
+OL,18,G1300FBBC News
+OL,19,G1330FRegional News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697794223
+OL,0,        ECIMSBWebfax     F698A1697797834
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -103,7 +102,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697794223
+OL,0,        ECIMSBWebfax     F698A1697797834
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -132,48 +131,54 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697794223
+OL,0,        ECIMSBWebfax     F698A1697797834
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for FRI 20 OCT
-OL,4,G0955FFind It, Fix It, Flog It
-OL,5,     GIn Buckinghamshire, Simon
-OL,6,     GO'Brien and Henry Cole help Hugh
-OL,7,     Gat his repair and upcycling shop.
-OL,8,G1055FRenovation Nation
-OL,9,     GTracey and Rob take their castle
-OL,10,     Grenovation to new heights. And
-OL,11,     Gin Ilkley, Nick and Tamsin put
-OL,12,     Gthe heart back into their
-OL,13,     GVictorian home with a beautiful
-OL,14,     Gnew kitchen.
-OL,15,G1155FChannel 4 News Summary
-OL,16,     GChannel 4's midday news summary.
+OL,4,G1055FRenovation Nation
+OL,5,     GTracey and Rob take their castle
+OL,6,     Grenovation to new heights. And
+OL,7,     Gin Ilkley, Nick and Tamsin put
+OL,8,     Gthe heart back into their
+OL,9,     GVictorian home with a beautiful
+OL,10,     Gnew kitchen.
+OL,11,G1155FChannel 4 News Summary
+OL,12,     GChannel 4's midday news summary.
+OL,13,G1200FLive: Steph's Packed Lunch
+OL,14,     GSteph chats with Emmerdale actor
+OL,15,     Gand Strictly champion Kelvin
+OL,16,     GFletcher and his wife, Liz.
+OL,17,     GPlus: Anna Richardson solves
+OL,18,     Gyour relationship dilemmas and
+OL,19,     Gthere's food from Ruby Bhogal.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697794223
+OL,0,        ECIMSBWebfax     F698A1697797834
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for FRI 20 OCT
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss
-OL,6,     Gthe latest news and get your
-OL,7,     Gviews and opinions of the day.
-OL,8,G1115FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories
-OL,12,     Gof the day.
-OL,13,G1240FAlexis Conran
-OL,14,     GAlexis Conran hears from you,
-OL,15,     Gtalking about the important
-OL,16,     Gstories and getting your
-OL,17,     Gopinions and views on them.
-OL,18,G1340F5 News at Lunchtime
-OL,19,     GNational and international news.
+OL,4,G1115FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories
+OL,8,     Gof the day.
+OL,9,G1240FAlexis Conran
+OL,10,     GAlexis Conran hears from you,
+OL,11,     Gtalking about the important
+OL,12,     Gstories and getting your
+OL,13,     Gopinions and views on them.
+OL,14,G1340F5 News at Lunchtime
+OL,15,     GNational and international news.
+OL,16,G1345FHome and Away
+OL,17,     GDana waits for Cash to return
+OL,18,     Gwith the CCTV footage that can
+OL,19,     Gprove her innocence - but it has
+OL,20,     Galready been collected. Samuel
+OL,21,     Gre-enters Rose's orbit. John
+OL,22,     Gsets out to impress Alf.
