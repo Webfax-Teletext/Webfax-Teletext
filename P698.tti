@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697862853
+OL,0,        ECIMSBWebfax     F698A1697866464
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697862853
+OL,0,        ECIMSBWebfax     F698A1697866464
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,96 +47,142 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697862853
+OL,0,        ECIMSBWebfax     F698A1697866464
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for FRI 20 OCT
-OL,4,G0045FBBC News
+OL,3,CProgramme listings for SAT 21 OCT
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GMatt Tebbutt is joined by Jack
+OL,10,     GCroft, Will Murray, Sophie
+OL,11,     GMichell and Romesh Ranganathan.
+OL,12,G1130FNadiya's Simple Spices
+OL,13,     GNadiya serves up deliciously
+OL,14,     Geasy dishes, from a quick curry
+OL,15,     Gto a spiced fruit pudding.
+OL,16,G1200FFootball Focus
+OL,17,     GAlex Scott and guests look ahead
+OL,18,     Gto the resumption of the Premier
+OL,19,     GLeague, including the lunchtime
+OL,20,     GMerseyside derby, and reflect on
+OL,21,     Gthe recent Euro 2024 qualifying
+OL,22,     Gmatches.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697862853
+OL,0,        ECIMSBWebfax     F698A1697866464
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for FRI 20 OCT
-OL,4,G0310FThis is BBC Two
+OL,3,CProgramme listings for SAT 21 OCT
+OL,4,G0630FSupertato
+OL,5,     GHow to Be a Supertato. In Tato
+OL,6,     GTower, Supertato shows the Grape
+OL,7,     GKids a film on how to be a
+OL,8,     GSupertato like him.
+OL,9,G0635FShaun the Sheep
+OL,10,     GCostume Drama. The farm is used
+OL,11,     Gas a location for a historical
+OL,12,     Gdrama, but Mowermouth eats the
+OL,13,     Gfilm!
+OL,14,G0645FShaun the Sheep
+OL,15,     GFarm Park. The Farmer opens a
+OL,16,     Gpetting zoo but loses control of
+OL,17,     Gthe customers. Can Shaun restore
+OL,18,     Gorder?
+OL,19,G0655FDennis & Gnasher Unleashed!
+OL,20,     GChez Bash. Olive surprises
+OL,21,     Gherself and everyone around her
+OL,22,     Gby actually becoming a good cook.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697862853
+OL,0,        ECIMSBWebfax     F698A1697866464
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 20 OCT
-OL,4,G0510FTenable
-OL,5,     GThe Dungeon Masters: A team of
-OL,6,     Gfive friends play to win 125,000
-OL,7,     Gpounds by answering a series of
-OL,8,     GTop 10 list questions, but can
-OL,9,     Gthey win big money in the quiz
-OL,10,     Ghosted by Warwick Davis?
+OL,3,CProgramme listings for SAT 21 OCT
+OL,4,G0630FLove Your Garden
+OL,5,     GSudbury: This time Alan and his
+OL,6,     Gteam are in Suffolk, where
+OL,7,     Gcharity shop worker Eileen - and
+OL,8,     Gher husband Roy, who has
+OL,9,     GParkinson's disease - seek a
+OL,10,     Gpeaceful and safe space to share.
+OL,11,G0730FLove Your Weekend with Alan
+OL,12,     FTitchmarsh
+OL,13,     GJoining Alan this time are Dame
+OL,14,     GSheila Hancock to discuss her
+OL,15,     Gstellar career and actor Jeremy
+OL,16,     GSwift to talk about Ted Lasso,
+OL,17,     Gand we also celebrate setters!
+OL,18,G0925FITV News
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697862853
+OL,0,        ECIMSBWebfax     F698A1697866464
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 20 OCT
-OL,4,G0515FCome Dine with Me
-OL,5,     GCounty Durham. IT manager David
-OL,6,     Ghosts a French evening, but can
-OL,7,     Ghe keep Ashleigh and Tina away
-OL,8,     Gfrom each other's throats?
-OL,9,G0540FKirstie's House of Craft
-OL,10,     GInspired by her beloved pet dog
-OL,11,     GDandy, Kirstie Allsopp makes a
-OL,12,     Gcute tin can dog and shows us
-OL,13,     Ghow to turn the humble loo roll
-OL,14,     Ginto a host of fun and friendly
-OL,15,     Ganimals.
-OL,16,G0550FThe King of Queens
-OL,17,     GFemale Problems: Doug gets
-OL,18,     Gjealous when Carrie and their
-OL,19,     Gnew neighbour hit it off.
+OL,3,CProgramme listings for SAT 21 OCT
+OL,4,G0615FThe King of Queens
+OL,5,     GAssaulted Nuts: An embarrassing
+OL,6,     Gaccident at work leaves Doug in
+OL,7,     Gagony.
+OL,8,G0640FCheers
+OL,9,     GI Kid You Not: Frasier and
+OL,10,     GLilith practise their parenting
+OL,11,     Gskills on Carla's precocious six-
+OL,12,     Gyear-old son and plan to take
+OL,13,     Ghim to a fancy restaurant, which
+OL,14,     Gannoys Carla.
+OL,15,G0705FCheers
+OL,16,     GDon't Paint Your Chickens: Sam
+OL,17,     Gdates Erin, an exercise fan who
+OL,18,     Gexhausts him with her dedication
+OL,19,     Gto athletics and outdoor
+OL,20,     Gpursuits. Rebecca promotes
+OL,21,     GNorm's decorating business.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1697862853
+OL,0,        ECIMSBWebfax     F698A1697866464
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for FRI 20 OCT
-OL,4,G0510FHouse Doctor
-OL,5,     GUS interior designer Ann Maurice
-OL,6,     Glays down the law to those whose
-OL,7,     Ghouses need updating to make a
-OL,8,     Gsale. Will she succeed in
-OL,9,     Gprescribing what they need?
-OL,10,G0535FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the
-OL,13,     Gworld, focusing on celebrities,
-OL,14,     Gmovies, music and entertainment.
-OL,15,G0540FPeppa Pig
-OL,16,     GWhen Tiddles the Tortoise gets
-OL,17,     Gstuck in a tree, Pedro Pony
-OL,18,     Gtries to rescue him. Then
-OL,19,     GTiddles falls out of the tree
-OL,20,     Gonto Pedro's nose setting off a
-OL,21,     Gchain of events.
+OL,3,CProgramme listings for SAT 21 OCT
+OL,4,G0625FSesame Street Mecha Builders
+OL,5,     GZee's growth ray turns Moobert
+OL,6,     Ggiant, but when a storm rolls
+OL,7,     Gin, the Mechas need to build a
+OL,8,     Gshelter big enough to fit her.
+OL,9,G0640FPirata and Capitano
+OL,10,     GCapitano and Pineapple-Wilson's
+OL,11,     Gseaplane has an engine and radio
+OL,12,     Gproblem right in the middle of a
+OL,13,     Gplace called the White Area. The
+OL,14,     GPink Skull crew goes in search
+OL,15,     Gof their friends.
+OL,16,G0650FThomas & Friends:..
+OL,17,     G...Big World! Big Adventures!
+OL,18,     GWhen the Sodor docks are overrun
+OL,19,     Gwith deliveries and the diesels
+OL,20,     Gare out of action, the steam
+OL,21,     Gteam works through the night.
