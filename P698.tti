@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698209597
+OL,0,        ECIMSBWebfax     F698A1698213212
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698209597
+OL,0,        ECIMSBWebfax     F698A1698213212
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,70 +47,135 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698209597
+OL,0,        ECIMSBWebfax     F698A1698213212
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,3,CProgramme listings for TUE 24 OCT
-OL,4,G0045FBBC News
+OL,3,CProgramme listings for WED 25 OCT
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FScam Interceptors
+OL,12,     GA woman thinks she is speaking
+OL,13,     Gto a card company's fraud
+OL,14,     Gdepartment and that her debit
+OL,15,     Gcard has been hacked. But she is
+OL,16,     Gactually talking to scammers,
+OL,17,     Gand they want her money.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698209597
+OL,0,        ECIMSBWebfax     F698A1698213212
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,3,CProgramme listings for TUE 24 OCT
-OL,4,G0340FThis is BBC Two
+OL,3,CProgramme listings for WED 25 OCT
+OL,4,G0615FMoney for Nothing
+OL,5,     GJacqui Joseph saves a rug,
+OL,6,     Gcabinet and some dining chairs
+OL,7,     Gfrom the skips in High Wycombe.
+OL,8,G0700FHomes Under the Hammer
+OL,9,     GFeaturing properties in
+OL,10,     GNottingham, Bournemouth and
+OL,11,     Gnorth London.
+OL,12,G0800FGreat Coastal Railway Journeys
+OL,13,     GMichael heads from a bustling
+OL,14,     GSouthampton to the Isle of
+OL,15,     GWight, where he rides the
+OL,16,     Gisland's railway, made up of
+OL,17,     Grecycled London Underground
+OL,18,     Gtrains.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698209597
+OL,0,        ECIMSBWebfax     F698A1698213212
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for TUE 24 OCT
-OL,4,G0505FMoneyball
-OL,5,     GIan Wright hosts the exciting
-OL,6,     Ggame show - in this episode, Mo
-OL,7,     Gand Jabari, Andy and Josie, and
-OL,8,     GJane and Yuriy all step up to
-OL,9,     Gtake on the money-making machine
-OL,10,     Gthat is The Launcher.
+OL,3,CProgramme listings for WED 25 OCT
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GSetting the record straight on
+OL,9,     Gthe headlines about their show
+OL,10,     Gcoming to an end, Escape to the
+OL,11,     GChateau's Dick and Angel
+OL,12,     GStrawbridge join Christine in
+OL,13,     Gthe studio.
+OL,14,G1000FThis Morning
+OL,15,     GPhil Vickery is making Alison
+OL,16,     Gand Dermot his ultimate sausage
+OL,17,     Groll, Elvis Presley's best
+OL,18,     Gfriend Jerry Schilling is here,
+OL,19,     Gand Strictly's Anton Du Beke
+OL,20,     Gwaltzes into the studio.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698209597
+OL,0,        ECIMSBWebfax     F698A1698213212
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for TUE 24 OCT
-OL,4,G0510FTool Club
-OL,5,     GThe team are in Dumfries to help
-OL,6,     Gbookshop manager Lucy begin a
-OL,7,     Gnew chapter and renovate her
-OL,8,     Gtired and dated shop to create a
-OL,9,     Ghub for the LGBTQ+ community.
+OL,3,CProgramme listings for WED 25 OCT
+OL,4,G0645FCheers
+OL,5,     GVisiting Lecher: A marriage
+OL,6,     Gguidance expert who is an old
+OL,7,     Gfriend of Frasier's comes to
+OL,8,     Gtown on a book tour. But while
+OL,9,     Gpreaching marital fidelity, he
+OL,10,     Gmakes a pass at Rebecca...
+OL,11,G0710FCheers
+OL,12,     GThe Improbable Dream : Rebecca
+OL,13,     Ghas erotic dreams about Sam.
+OL,14,     GFearing for her sanity, she asks
+OL,15,     GFrasier and Lilith for advice.
+OL,16,     GBut then a rich man sweeps her
+OL,17,     Goff her feet.
+OL,18,G0735FEverybody Loves Raymond
+OL,19,     GPet Cemetery: When Ray
+OL,20,     Gaccidentally kills Ally's
+OL,21,     Ghamster, Debra insists that the
+OL,22,     Gfamily hold a pet funeral.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698209597
+OL,0,        ECIMSBWebfax     F698A1698213212
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,3,CProgramme listings for TUE 24 OCT
-OL,4,G0545FPAW Patrol
-OL,5,     GCali gets lost in the woods.
+OL,3,CProgramme listings for WED 25 OCT
+OL,4,G0645FFireman Sam
+OL,5,     GMandy wants to be the fastest
+OL,6,     Gdelivery person ever! She speeds
+OL,7,     Gthrough her deliveries on her
+OL,8,     Gscooter until she hits a bump,
+OL,9,     Gand needs to be rescued before
+OL,10,     Gshe gets to the cliffs!
+OL,11,G0700FThomas & Friends All Engines Go!
+OL,12,     GWhen a storm knocks out the
+OL,13,     Gpower, Thomas volunteers to
+OL,14,     Gdeliver a generator from
+OL,15,     GKellsthorpe to Knapford.
+OL,16,G0710FPeppa Pig
+OL,17,     GSports Day: It is Sports Day at
+OL,18,     GPeppa's playgroup and lots of
+OL,19,     Gspecial events are due to take
+OL,20,     Gplace.
