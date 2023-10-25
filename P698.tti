@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698263803
+OL,0,        ECIMSBWebfax     F698A1698267415
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698263803
+OL,0,        ECIMSBWebfax     F698A1698267415
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698263803
+OL,0,        ECIMSBWebfax     F698A1698267415
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,26 +55,28 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for WED 25 OCT
-OL,4,G2000FThe Repair Shop
-OL,5,     GJay Blades and the team restore
-OL,6,     Ga significant seascape painting,
-OL,7,     Ga doll belonging to a refugee
-OL,8,     Gchild from Bosnia, a farmer's
-OL,9,     Gvintage seed-sower and a
-OL,10,     GParisian plate.
-OL,11,G2100FCelebrity Race Across the World
-OL,12,     GIt's a race to the finish line
-OL,13,     Gin Tromsl for the four celebrity
-OL,14,     Gteams. Which will get there
-OL,15,     Gfirst and be crowned champions?
-OL,16,G2200FBBC News and Weather
-OL,17,G2230FRegional News
-OL,26,@uD@NO|
+OL,4,G2100FCelebrity Race Across the World
+OL,5,     GIt's a race to the finish line
+OL,6,     Gin Tromsl for the four celebrity
+OL,7,     Gteams. Which will get there
+OL,8,     Gfirst and be crowned champions?
+OL,9,G2200FBBC News and Weather
+OL,10,G2230FRegional News
+OL,11,G2240FBlade Runner 2049
+OL,12,     GAfter making a disturbing
+OL,13,     Gdiscovery, replicant hunter K
+OL,14,     Ggoes after the one person he
+OL,15,     Gsuspects can help. Contains some
+OL,16,     Gstrong language and some violent
+OL,17,     Gscenes.
+OL,18,G0110FWeather for the Week Ahead
+OL,19,G0115FBBC News
+OL,26,@nD@NO|
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698263803
+OL,0,        ECIMSBWebfax     F698A1698267415
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -82,96 +84,91 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for WED 25 OCT
-OL,4,G2030FNigella: At My Table
-OL,5,     GNigella shares ideas for feasts
-OL,6,     Gthroughout the day, including a
-OL,7,     Gsavoury take on French toast, an
-OL,8,     Ginformal Mediterranean dish and
-OL,9,     Ga rose and pepper pavlova with
-OL,10,     Gstrawberries.
-OL,11,G2100FDNA Family Secrets
-OL,12,     GLaura, Julie and a trio of
-OL,13,     Gsiblings look for answers about
-OL,14,     Gtheir families via DNA testing.
-OL,15,G2200FMoulin Rouge: Yes We Can-Can!
-OL,16,     GJen wants to prove she's fit
-OL,17,     Genough to make her stage debut,
-OL,18,     Gand Zeak is unexpectedly thrust
-OL,19,     Ginto the limelight when the
-OL,20,     Gtroupe is a man down. Contains
-OL,21,     Gsome nudity.
-OL,22,G2230FNewsnight
+OL,4,G2100FDNA Family Secrets
+OL,5,     GLaura, Julie and a trio of
+OL,6,     Gsiblings look for answers about
+OL,7,     Gtheir families via DNA testing.
+OL,8,G2200FMoulin Rouge: Yes We Can-Can!
+OL,9,     GJen wants to prove she's fit
+OL,10,     Genough to make her stage debut,
+OL,11,     Gand Zeak is unexpectedly thrust
+OL,12,     Ginto the limelight when the
+OL,13,     Gtroupe is a man down. Contains
+OL,14,     Gsome nudity.
+OL,15,G2230FNewsnight
+OL,16,G2310FWeather
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698263803
+OL,0,        ECIMSBWebfax     F698A1698267415
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 25 OCT
-OL,4,G2000FCoronation Street
-OL,5,     GAadi invites Courtney to go job
-OL,6,     Ghunting with him, Ronnie's pitch
-OL,7,     Gimpresses a potential investor
-OL,8,     Gfor the development, and Daniel
-OL,9,     Gsurprises Daisy with a proposed
-OL,10,     Gchange of address.
-OL,11,G2100FPayback
-OL,12,     GCrime thriller series. Having
-OL,13,     Gbeen left to fend for herself by
-OL,14,     Gthe police, Lexie focuses all
-OL,15,     Gher resources on the task at
-OL,16,     Ghand and edges closer to
-OL,17,     Guncovering Cal's missing money.
+OL,4,G2100FPayback
+OL,5,     GCrime thriller series. Having
+OL,6,     Gbeen left to fend for herself by
+OL,7,     Gthe police, Lexie focuses all
+OL,8,     Gher resources on the task at
+OL,9,     Ghand and edges closer to
+OL,10,     Guncovering Cal's missing money.
+OL,11,G2200FITV News at Ten
+OL,12,     GITV News provides a fresh
+OL,13,     Gperspective on the major stories
+OL,14,     Gof the day with national and
+OL,15,     Ginternational news with reports
+OL,16,     Gand analysis from ITV's
+OL,17,     GCorrespondents.
+OL,18,G2230FRegional News
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698263803
+OL,0,        ECIMSBWebfax     F698A1698267415
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 25 OCT
-OL,4,G2000FLocation, Location, Location
-OL,5,     GKirstie and Phil help more house-
-OL,6,     Ghunters battle an ever-changing
-OL,7,     Gmarket. In Devon, the duo help
-OL,8,     Gpriced-out pair Natalie and
-OL,9,     GGlen, and single mum Amy, who
-OL,10,     Gwants a seaside idyll.
-OL,11,G2100FGrand Designs
-OL,12,     GGraeme and Melanie want their
-OL,13,     Gnew home in Hackney to celebrate
-OL,14,     Gtheir blended family. But
-OL,15,     Gsqueezing the bright red-clad
-OL,16,     Ghouse onto their tiny garage
-OL,17,     Gplot proves a huge challenge.
+OL,4,G2100FGrand Designs
+OL,5,     GGraeme and Melanie want their
+OL,6,     Gnew home in Hackney to celebrate
+OL,7,     Gtheir blended family. But
+OL,8,     Gsqueezing the bright red-clad
+OL,9,     Ghouse onto their tiny garage
+OL,10,     Gplot proves a huge challenge.
+OL,11,G2200FBuilding Britain's Superhomes
+OL,12,     GAn insight into the world of
+OL,13,     Gmultimillion-pound luxury home
+OL,14,     Gconstruction. In this first
+OL,15,     Gepisode, maverick developer Guy
+OL,16,     GPhoenix transforms a dated
+OL,17,     Ghillside house into a
+OL,18,     G'superhome'.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698263803
+OL,0,        ECIMSBWebfax     F698A1698267415
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 25 OCT
-OL,4,G2000FThe Big Bed-Bug Invasion
-OL,5,     GA Bed Bug invasion is sweeping
-OL,6,     Gacross France, and may be
-OL,7,     Gheading our way. This programme
-OL,8,     Gspells out what they are and how
-OL,9,     Gthey spread, and reveals the
-OL,10,     Gbest way to get rid of the bugs
-OL,11,     Gfor good.
-OL,12,G2100FJay Blades: The Midlands Through
-OL,13,     FTime
-OL,14,     GJay explores the 20th century
-OL,15,     Ghistory of the West Midlands,
-OL,16,     Gincluding the severe bombing of
-OL,17,     GCoventry during WWII, historic
-OL,18,     Gcar manufacture, and a visit
-OL,19,     Gfrom Malcolm X.
+OL,4,G2100FJay Blades: The Midlands Through
+OL,5,     FTime
+OL,6,     GJay explores the 20th century
+OL,7,     Ghistory of the West Midlands,
+OL,8,     Gincluding the severe bombing of
+OL,9,     GCoventry during WWII, historic
+OL,10,     Gcar manufacture, and a visit
+OL,11,     Gfrom Malcolm X.
+OL,12,G2200FTruth or Dare: The Murder of
+OL,13,     FMary Gregory
+OL,14,     GA harmless game of Truth or Dare
+OL,15,     Gleads to a tragic murder, but
+OL,16,     Ghow can police solve it with no
+OL,17,     Gweapon, no DNA and no apparent
+OL,18,     Gmotive?
