@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698487841
+OL,0,        ECIMSBWebfax     F698A1698491451
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698487841
+OL,0,        ECIMSBWebfax     F698A1698491451
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698487841
+OL,0,        ECIMSBWebfax     F698A1698491451
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,30 +55,27 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for SAT 28 OCT
-OL,4,G1000FSaturday Kitchen Live
-OL,5,     GHost Matt Tebbutt is joined by
-OL,6,     Gchefs Donna Hay and The Hairy
-OL,7,     GBikers, and by special guest
-OL,8,     GPaul Whitehouse. Drinks expert
-OL,9,     GOlly Smith picks the wines to go
-OL,10,     Gwith the studio dishes.
-OL,11,G1130FNadiya's Simple Spices
-OL,12,     GNadiya shares moreish
-OL,13,     Gmoneysavers, from crispy fried
-OL,14,     Gpakoras to a crowd-pleasing
-OL,15,     Gbiryani and a scrumptious
-OL,16,     Gcinnamon shortbread with a
-OL,17,     Gcheeky fragrant fudgy twist.
-OL,18,G1200FFootball Focus
-OL,19,     GA tribute to the great Sir Bobby
-OL,20,     GCharlton and a preview of the
-OL,21,     GManchester derby.
-OL,22,G1300FBBC News
+OL,4,G1200FFootball Focus
+OL,5,     GA tribute to the great Sir Bobby
+OL,6,     GCharlton and a preview of the
+OL,7,     GManchester derby.
+OL,8,G1300FBBC News
+OL,9,G1310FWeather
+OL,10,G1315FBargain Hunt
+OL,11,     GChristina Trevanion is today's
+OL,12,     Ghost at the Shrewsbury Flea.
+OL,13,G1400FRugby League International:
+OL,14,     FEngland v Tonga
+OL,15,     GSecond Test. Live action from
+OL,16,     GHuddersfield as England take on
+OL,17,     GTonga in the second Test of the
+OL,18,     Gfirst international series
+OL,19,     Gbetween the nations.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698487841
+OL,0,        ECIMSBWebfax     F698A1698491451
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -86,95 +83,97 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for SAT 28 OCT
-OL,4,G1100FNature's Epic Journeys
-OL,5,     GNature documentary series. Liz
-OL,6,     GBonnin leads a team using
-OL,7,     Gcutting-edge technology to
-OL,8,     Gfollow zebra on a migration
-OL,9,     Gthrough Botswana to Nxai Pan
-OL,10,     GNational Park.
-OL,11,G1200FBritain's Top Takeaways
-OL,12,     GIt's noodle night as five of the
-OL,13,     Gnation's top-rated takeaways
-OL,14,     Groll into Manchester.
-OL,15,G1300FBest Bakes Ever
-OL,16,     GActress and cake expert Jane
-OL,17,     GAsher brings together a
-OL,18,     Gselection of recipes from the
-OL,19,     Gnation's favourite television
-OL,20,     Gchefs.
+OL,4,G1200FBritain's Top Takeaways
+OL,5,     GIt's noodle night as five of the
+OL,6,     Gnation's top-rated takeaways
+OL,7,     Groll into Manchester.
+OL,8,G1300FBest Bakes Ever
+OL,9,     GActress and cake expert Jane
+OL,10,     GAsher brings together a
+OL,11,     Gselection of recipes from the
+OL,12,     Gnation's favourite television
+OL,13,     Gchefs.
+OL,14,G1320FDesigning Woman
+OL,15,     GAfter a whirlwind romance in
+OL,16,     GBeverly Hills, sports writer
+OL,17,     GMike Hagen marries fashion
+OL,18,     Gdesigner Marilla, but soon their
+OL,19,     Gdifferent lifestyles begin to
+OL,20,     Gcause problems.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698487841
+OL,0,        ECIMSBWebfax     F698A1698491451
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 28 OCT
-OL,4,G0930FJames Martin's Saturday Morning
-OL,5,     GJames is back and is joined by
-OL,6,     GAlfie Boe - who will be chatting
-OL,7,     Gand performing - and Alysia
-OL,8,     GVasey while serving up recipes
-OL,9,     Gfor mackerel, tarte tatin and
-OL,10,     Gapple cake.
-OL,11,G1140FCatchphrase
-OL,12,     GStephen Mulhern asks contestants
-OL,13,     Gto say what they see as he hosts
-OL,14,     Ganother edition of the much-
-OL,15,     Gloved game show - this episode's
-OL,16,     Gcontenders are Chloe, Jonathan,
-OL,17,     Gand Gillian.
+OL,4,G1140FCatchphrase
+OL,5,     GStephen Mulhern asks contestants
+OL,6,     Gto say what they see as he hosts
+OL,7,     Ganother edition of the much-
+OL,8,     Gloved game show - this episode's
+OL,9,     Gcontenders are Chloe, Jonathan,
+OL,10,     Gand Gillian.
+OL,11,G1225FITV Lunchtime News
+OL,12,     GThe latest headlines from around
+OL,13,     Gthe world at lunchtime with
+OL,14,     Greports and analysis from ITV's
+OL,15,     GCorrespondents, all of which are
+OL,16,     Gfollowed by a national weather
+OL,17,     Gforecast.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698487841
+OL,0,        ECIMSBWebfax     F698A1698491451
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 28 OCT
-OL,4,G1050FThe Simpsons
-OL,5,     GPranksta Rap: Bart fakes his own
-OL,6,     Gkidnapping to avoid being
-OL,7,     Ggrounded after sneaking out of
-OL,8,     Gthe house to go to a rap
-OL,9,     Gconcert. Guest starring 50 Cent
-OL,10,     Gas himself.
-OL,11,G1120FThe Simpsons
-OL,12,     GHome Away from Homer: Bart and
-OL,13,     GMilhouse discover that two
-OL,14,     Gfemale students are running a
-OL,15,     Gsaucy website from Ned Flanders'
-OL,16,     Gspare room.
+OL,4,G1145FThe Simpsons
+OL,5,     GTreehouse of Horror IV: Homer
+OL,6,     Gsells his soul to the devil for
+OL,7,     Ga donut, no one believes Bart
+OL,8,     Gcan see an evil goblin, and Mr
+OL,9,     GBurns invites the Simpsons for
+OL,10,     Gtea at a scary castle.
+OL,11,G1215FPlaying with Fire
+OL,12,     GFun-filled family comedy
+OL,13,     Gstarring John Cena. A macho
+OL,14,     Gfireman has to babysit three
+OL,15,     Gimpish kids after saving them
+OL,16,     Gfrom a blaze in the remote
+OL,17,     GCalifornia woodlands.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698487841
+OL,0,        ECIMSBWebfax     F698A1698491451
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 28 OCT
-OL,4,G1055FFriends
-OL,5,     GRoss and Rachel's attempt to
-OL,6,     Gexplain how they ended up in bed
-OL,7,     Gtogether degenerates into an
-OL,8,     Gargument. Monica and Chandler
-OL,9,     Greturn from their honeymoon.
-OL,10,G1125FGremlins
-OL,11,     GComedy horror starring Zach
-OL,12,     GGalligan and Phoebe Cates. A
-OL,13,     Gsmall town is terrorised by an
-OL,14,     Ginfestation of destructive small
-OL,15,     Gcreatures with a vicious sense
-OL,16,     Gof humour.
-OL,17,G1225FEntertainment News on 5
-OL,18,     GA daily round-up of showbiz news
-OL,19,     Gand gossip from around the
-OL,20,     Gworld, focusing on celebrities,
-OL,21,     Gmovies, music and entertainment.
+OL,4,G1125FGremlins
+OL,5,     GComedy horror starring Zach
+OL,6,     GGalligan and Phoebe Cates. A
+OL,7,     Gsmall town is terrorised by an
+OL,8,     Ginfestation of destructive small
+OL,9,     Gcreatures with a vicious sense
+OL,10,     Gof humour.
+OL,11,G1225FEntertainment News on 5
+OL,12,     GA daily round-up of showbiz news
+OL,13,     Gand gossip from around the
+OL,14,     Gworld, focusing on celebrities,
+OL,15,     Gmovies, music and entertainment.
+OL,16,G1230FGremlins
+OL,17,     GComedy horror starring Zach
+OL,18,     GGalligan and Phoebe Cates. A
+OL,19,     Gsmall town is terrorised by an
+OL,20,     Ginfestation of destructive small
+OL,21,     Gcreatures with a vicious sense
+OL,22,     Gof humour.
