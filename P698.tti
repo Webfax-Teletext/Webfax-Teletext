@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698480607
+OL,0,        ECIMSBWebfax     F698A1698484221
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698480607
+OL,0,        ECIMSBWebfax     F698A1698484221
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698480607
+OL,0,        ECIMSBWebfax     F698A1698484221
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,29 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for SAT 28 OCT
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G1000FSaturday Kitchen Live
-OL,9,     GHost Matt Tebbutt is joined by
-OL,10,     Gchefs Donna Hay and The Hairy
-OL,11,     GBikers, and by special guest
-OL,12,     GPaul Whitehouse. Drinks expert
-OL,13,     GOlly Smith picks the wines to go
-OL,14,     Gwith the studio dishes.
-OL,15,G1130FNadiya's Simple Spices
-OL,16,     GNadiya shares moreish
-OL,17,     Gmoneysavers, from crispy fried
-OL,18,     Gpakoras to a crowd-pleasing
-OL,19,     Gbiryani and a scrumptious
-OL,20,     Gcinnamon shortbread with a
-OL,21,     Gcheeky fragrant fudgy twist.
+OL,4,G1000FSaturday Kitchen Live
+OL,5,     GHost Matt Tebbutt is joined by
+OL,6,     Gchefs Donna Hay and The Hairy
+OL,7,     GBikers, and by special guest
+OL,8,     GPaul Whitehouse. Drinks expert
+OL,9,     GOlly Smith picks the wines to go
+OL,10,     Gwith the studio dishes.
+OL,11,G1130FNadiya's Simple Spices
+OL,12,     GNadiya shares moreish
+OL,13,     Gmoneysavers, from crispy fried
+OL,14,     Gpakoras to a crowd-pleasing
+OL,15,     Gbiryani and a scrumptious
+OL,16,     Gcinnamon shortbread with a
+OL,17,     Gcheeky fragrant fudgy twist.
+OL,18,G1200FFootball Focus
+OL,19,     GA tribute to the great Sir Bobby
+OL,20,     GCharlton and a preview of the
+OL,21,     GManchester derby.
+OL,22,G1300FBBC News
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698480607
+OL,0,        ECIMSBWebfax     F698A1698484221
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -85,93 +86,96 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for SAT 28 OCT
-OL,4,G0900FGardeners' World
-OL,5,     GWith Halloween approaching,
-OL,6,     GMonty takes stock of his
-OL,7,     Gpumpkins and squashes. Adam
-OL,8,     GFrost and Advolly Richmond visit
-OL,9,     GHever Castle in Kent to learn
-OL,10,     Gmore about its grand garden
-OL,11,     Gdesign.
-OL,12,G1000FBearwalker of the Northwoods
-OL,13,     GWildlife documentary. In the
-OL,14,     Gforests of northern Minnesota,
-OL,15,     Gbiologist Lynn Rogers gains the
-OL,16,     Gtrust of wild black bears and
-OL,17,     Gstudies their lives.
+OL,4,G1000FBearwalker of the Northwoods
+OL,5,     GWildlife documentary. In the
+OL,6,     Gforests of northern Minnesota,
+OL,7,     Gbiologist Lynn Rogers gains the
+OL,8,     Gtrust of wild black bears and
+OL,9,     Gstudies their lives.
+OL,10,G1100FNature's Epic Journeys
+OL,11,     GNature documentary series. Liz
+OL,12,     GBonnin leads a team using
+OL,13,     Gcutting-edge technology to
+OL,14,     Gfollow zebra on a migration
+OL,15,     Gthrough Botswana to Nxai Pan
+OL,16,     GNational Park.
+OL,17,G1200FBritain's Top Takeaways
+OL,18,     GIt's noodle night as five of the
+OL,19,     Gnation's top-rated takeaways
+OL,20,     Groll into Manchester.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698480607
+OL,0,        ECIMSBWebfax     F698A1698484221
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 28 OCT
-OL,4,G0730FLove Your Weekend with Alan
-OL,5,     FTitchmarsh
-OL,6,     GQueen of Crime Lynda La Plante,
-OL,7,     GGareth Malone, and Kelvin and
-OL,8,     GLiz Fletcher join Alan to
-OL,9,     Gprovide the chat, and we also
-OL,10,     Gmeet some rare breed Tamworth
-OL,11,     Gpigs.
-OL,12,G0925FITV News
-OL,13,G0930FJames Martin's Saturday Morning
-OL,14,     GJames is back and is joined by
-OL,15,     GAlfie Boe - who will be chatting
-OL,16,     Gand performing - and Alysia
-OL,17,     GVasey while serving up recipes
-OL,18,     Gfor mackerel, tarte tatin and
-OL,19,     Gapple cake.
+OL,4,G0930FJames Martin's Saturday Morning
+OL,5,     GJames is back and is joined by
+OL,6,     GAlfie Boe - who will be chatting
+OL,7,     Gand performing - and Alysia
+OL,8,     GVasey while serving up recipes
+OL,9,     Gfor mackerel, tarte tatin and
+OL,10,     Gapple cake.
+OL,11,G1140FCatchphrase
+OL,12,     GStephen Mulhern asks contestants
+OL,13,     Gto say what they see as he hosts
+OL,14,     Ganother edition of the much-
+OL,15,     Gloved game show - this episode's
+OL,16,     Gcontenders are Chloe, Jonathan,
+OL,17,     Gand Gillian.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698480607
+OL,0,        ECIMSBWebfax     F698A1698484221
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 28 OCT
-OL,4,G0850FEverybody Loves Raymond
-OL,5,     GSuper Bowl: Ray is sent by his
-OL,6,     Gpaper to cover the Super Bowl,
-OL,7,     Gbut his excitement is tempered
-OL,8,     Gby having to choose someone to
-OL,9,     Gaccompany him. Will he make the
-OL,10,     Gright choice?
-OL,11,G0920FFrasier
-OL,12,     GAgents in America, Part III:
-OL,13,     GFrasier learns some important
-OL,14,     Gnew lessons and tactics in the
-OL,15,     Gfine art of contract
-OL,16,     Gnegotiations from his agent Bebe.
+OL,4,G0950FFrasier
+OL,5,     GThe Innkeepers: When Frasier
+OL,6,     Glearns that one of Seattle's
+OL,7,     Gmost famous restaurants is about
+OL,8,     Gto close, he visits to say
+OL,9,     Ggoodbye and, in a moment of
+OL,10,     Gmadness, offers to buy it.
+OL,11,G1020FThe Simpsons
+OL,12,     GThe War of the Simpsons: After
+OL,13,     GHomer gets drunk at a party and
+OL,14,     Gleers at Maude Flanders, Marge
+OL,15,     Gtakes him on a marriage
+OL,16,     Gcounselling weekend at a
+OL,17,     Gwoodland retreat.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698480607
+OL,0,        ECIMSBWebfax     F698A1698484221
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for SAT 28 OCT
-OL,4,G0900FMeet the Experts
-OL,5,     GWe meet Alice and Florence, who
-OL,6,     Gare artistic swimming experts.
-OL,7,     GThe twins tell us about their
-OL,8,     Ghobby and show us the equipment
-OL,9,     Gthey need, as well as all the
-OL,10,     Gmedals they have won.
-OL,11,G0915FReu & Harper's Wonder World
-OL,12,     GOlive invites Reu and Harper to
-OL,13,     Gjoin her on a playdate to learn
-OL,14,     Gall about the United States of
-OL,15,     GAmerica, where her parents used
-OL,16,     Gto live.
-OL,17,G0925FSantiago of the Seas
-OL,18,     GSantiago and the crew must
-OL,19,     Govercome ghostly pranks to save
-OL,20,     GCecilia from the Ghost Ship.
+OL,4,G1010FSpongeBob SquarePants
+OL,5,     GIn a letter to his pen pal,
+OL,6,     GSpongeBob accidentally tells a
+OL,7,     Glie to him, but when the pen pal
+OL,8,     Gdecides to come and visit
+OL,9,     GSpongeBob, he must keep the lie
+OL,10,     Ggoing.
+OL,11,G1020FEntertainment News on 5
+OL,12,     GA daily round-up of showbiz news
+OL,13,     Gand gossip from around the
+OL,14,     Gworld, focusing on celebrities,
+OL,15,     Gmovies, music and entertainment.
+OL,16,G1025FFriends
+OL,17,     GAlmost everyone seems to know
+OL,18,     Gwho the father of Rachel's baby
+OL,19,     Gis. Phoebe and Joey lie about a
+OL,20,     Ggas leak to get into Monica and
+OL,21,     GChandler's apartment.
