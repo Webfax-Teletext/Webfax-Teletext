@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698863490
+OL,0,        ECIMSBWebfax     F698A1698867100
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698863490
+OL,0,        ECIMSBWebfax     F698A1698867100
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698863490
+OL,0,        ECIMSBWebfax     F698A1698867100
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,25 +55,30 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 OL,3,CProgramme listings for WED 1 NOV
-OL,4,G1830FRegional News
-OL,5,G1900FThe One Show
-OL,6,     GA special Beatles-inspired One
-OL,7,     GShow telling the story of how
-OL,8,     Gthe last ever Beatles song was
-OL,9,     Grecorded. Giles Martin, John
-OL,10,     GBishop and Lauren Laverne join
-OL,11,     GAlex Jones and Ronan Keating.
-OL,12,G1945FEastEnders
-OL,13,     GKaren voices her fears to Keanu,
-OL,14,     Gthere's chaos at the cafe when
-OL,15,     Gthe fuse box blows, and Ian and
-OL,16,     GCindy realise their latest
-OL,17,     Gbusiness move has consequences.
+OL,4,G1900FThe One Show
+OL,5,     GA special Beatles-inspired One
+OL,6,     GShow telling the story of how
+OL,7,     Gthe last ever Beatles song was
+OL,8,     Grecorded. Giles Martin, John
+OL,9,     GBishop and Lauren Laverne join
+OL,10,     GAlex Jones and Ronan Keating.
+OL,11,G1945FEastEnders
+OL,12,     GKaren voices her fears to Keanu,
+OL,13,     Gthere's chaos at the cafe when
+OL,14,     Gthe fuse box blows, and Ian and
+OL,15,     GCindy realise their latest
+OL,16,     Gbusiness move has consequences.
+OL,17,G2015FThe Repair Shop
+OL,18,     GThe team takes on a toy dog,
+OL,19,     Gbadly burned in a house fire, a
+OL,20,     Gretro kitchen mixer from the 60s
+OL,21,     Gand a belt buckle which belonged
+OL,22,     Gto a hard-working nurse.
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698863490
+OL,0,        ECIMSBWebfax     F698A1698867100
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -81,95 +86,96 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 OL,3,CProgramme listings for WED 1 NOV
-OL,4,G1830FStrictly - It Takes Two
-OL,5,     GJanette Manrara is back with
-OL,6,     Gmore backstage gossip and behind-
-OL,7,     Gthe-scenes action from the world
-OL,8,     Gof Strictly as she chats to some
-OL,9,     Gmore of the remaining couples.
-OL,10,G1900FCelebrity Antiques Road Trip
-OL,11,     GPaired with Gavin and Stacey's
-OL,12,     GJoanna Page is opera singer and
-OL,13,     Gstar of a certain online
-OL,14,     Ginsurance advert Wynne Evans.
-OL,15,     GThey rummage in the antiques
-OL,16,     Gshops of south Wales.
-OL,17,G2000FNadiya's Simple Spices
-OL,18,     GNadiya presents her best-loved
-OL,19,     Grecipes for get-togethers,
-OL,20,     Gincluding her marinated chicken.
+OL,4,G1900FCelebrity Antiques Road Trip
+OL,5,     GPaired with Gavin and Stacey's
+OL,6,     GJoanna Page is opera singer and
+OL,7,     Gstar of a certain online
+OL,8,     Ginsurance advert Wynne Evans.
+OL,9,     GThey rummage in the antiques
+OL,10,     Gshops of south Wales.
+OL,11,G2000FNadiya's Simple Spices
+OL,12,     GNadiya presents her best-loved
+OL,13,     Grecipes for get-togethers,
+OL,14,     Gincluding her marinated chicken.
+OL,15,G2030FNigella: At My Table
+OL,16,     GNigella cooks more warming,
+OL,17,     Gcomforting and inspirational
+OL,18,     Grecipes, including chicken with
+OL,19,     Gred grapes and marsala, mussels
+OL,20,     Gwith pasta and a sunken
+OL,21,     Gchocolate amaretto cake.
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698863490
+OL,0,        ECIMSBWebfax     F698A1698867100
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 1 NOV
-OL,4,G1830FITV Evening News
-OL,5,G1930FEmmerdale
-OL,6,     GMandy and Marlon are thrust into
-OL,7,     Gthe hot seat - while an
-OL,8,     Gemotional Mandy is hiding a
-OL,9,     Gsecret, Marlon talks through his
-OL,10,     Gday.
-OL,11,G2000FCoronation Street
-OL,12,     GDaisy and Ryan plan an illicit
-OL,13,     Gnight at a hotel unaware that
-OL,14,     GDaniel isn't far behind, Eliza's
-OL,15,     Gconfession angers Stu, and
-OL,16,     Gcelebrations for Aadi's new job
-OL,17,     Gare abruptly curtailed.
+OL,4,G1930FEmmerdale
+OL,5,     GMandy and Marlon are thrust into
+OL,6,     Gthe hot seat - while an
+OL,7,     Gemotional Mandy is hiding a
+OL,8,     Gsecret, Marlon talks through his
+OL,9,     Gday.
+OL,10,G2000FCoronation Street
+OL,11,     GDaisy and Ryan plan an illicit
+OL,12,     Gnight at a hotel unaware that
+OL,13,     GDaniel isn't far behind, Eliza's
+OL,14,     Gconfession angers Stu, and
+OL,15,     Gcelebrations for Aadi's new job
+OL,16,     Gare abruptly curtailed.
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698863490
+OL,0,        ECIMSBWebfax     F698A1698867100
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 1 NOV
-OL,4,G1830FThe Simpsons
-OL,5,     GThe Old Blue Mayor She Ain't
-OL,6,     GWhat She Used to Be: After the
-OL,7,     Gancient Springfield monorail
-OL,8,     Gruns amok, Marge becomes mayor
-OL,9,     Gand vows to put out the long-
-OL,10,     Gburning tyre fire.
-OL,11,G1900FChannel 4 News
-OL,12,     GChannel 4's flagship news
-OL,13,     Gprogramme. Including the weather.
-OL,14,G1955FElizabeth's Story: Stand Up To
-OL,15,     FCancer
-OL,16,     GShort film for SU2C. Eleven-year-
-OL,17,     Gold Elizabeth has never known a
-OL,18,     Gtime when she didn't have
-OL,19,     Gcancer. When her mum is also
-OL,20,     Gdiagnosed, Elizabeth must show
-OL,21,     Gtremendous courage.
+OL,4,G1900FChannel 4 News
+OL,5,     GChannel 4's flagship news
+OL,6,     Gprogramme. Including the weather.
+OL,7,G1955FElizabeth's Story: Stand Up To
+OL,8,     FCancer
+OL,9,     GShort film for SU2C. Eleven-year-
+OL,10,     Gold Elizabeth has never known a
+OL,11,     Gtime when she didn't have
+OL,12,     Gcancer. When her mum is also
+OL,13,     Gdiagnosed, Elizabeth must show
+OL,14,     Gtremendous courage.
+OL,15,G2000FLocation, Location, Location
+OL,16,     GIn Berkshire, Kirstie helps
+OL,17,     Goverwhelmed couple Ellen and
+OL,18,     GMichael see a flat's potential.
+OL,19,     GPhil's with Nune and Benoit, who
+OL,20,     Gare left speechless in
+OL,21,     GMaidenhead.
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698863490
+OL,0,        ECIMSBWebfax     F698A1698867100
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,3,CProgramme listings for WED 1 NOV
-OL,4,G1800FDogs Behaving (Very) Badly
-OL,5,     GDoberman Arnie's muscling on one
-OL,6,     Gcouple's personal space and
-OL,7,     Gthere's no escape because this
-OL,8,     GHoudini hound can open every
-OL,9,     Gdoor in the house.
-OL,10,G1900FLidl: Behind the Scenes 24/7
-OL,11,     GWith over 900 stores, Lidl is
-OL,12,     Gnow one of the UK's biggest
-OL,13,     Gsupermarkets. So how did a tiny
-OL,14,     GGerman store upend the grocery
-OL,15,     Gmarket? And how do they keep
-OL,16,     Gcustomers flooding in?
+OL,4,G1900FLidl: Behind the Scenes 24/7
+OL,5,     GWith over 900 stores, Lidl is
+OL,6,     Gnow one of the UK's biggest
+OL,7,     Gsupermarkets. So how did a tiny
+OL,8,     GGerman store upend the grocery
+OL,9,     Gmarket? And how do they keep
+OL,10,     Gcustomers flooding in?
+OL,11,G2000FLive: Vanished: The Search...
+OL,12,     Gfor Britain's Missing. Dan
+OL,13,     GWalker returns to investigate
+OL,14,     Gthose who've gone missing. The
+OL,15,     Gfirst episode includes a look at
+OL,16,     Gthe mystery of Katrice Lee, who
+OL,17,     Gvanished in 1981.
