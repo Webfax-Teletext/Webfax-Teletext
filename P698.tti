@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698988100
+OL,0,        ECIMSBWebfax     F698A1698991711
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698988100
+OL,0,        ECIMSBWebfax     F698A1698991711
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698988100
+OL,0,        ECIMSBWebfax     F698A1698991711
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 2 NOV
-OL,4,G0015FBBC News
+OL,3,CProgramme listings for FRI 3 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FScam Interceptors
+OL,12,     GA man believes he is talking to
+OL,13,     Ghis mobile phone company - but
+OL,14,     Gin fact, they are scammers, and
+OL,15,     Ghe is about to buy them a very
+OL,16,     Gexpensive mobile phone.
+OL,17,G1045FFrontline Fightback
+OL,18,     GHi-tech cameras help police
+OL,19,     Gidentify the man responsible for
+OL,20,     Ga horrifying acid attack.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +76,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698988100
+OL,0,        ECIMSBWebfax     F698A1698991711
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 2 NOV
+OL,3,CProgramme listings for FRI 3 NOV
 OL,4,G0325FThis is BBC Two
+OL,5,G0615FMoney for Nothing
+OL,6,     GSarah Moore hopes to repurpose
+OL,7,     Gan old window, some furniture
+OL,8,     Gand a set of handmade boxes.
+OL,9,G0700FCelebrity Antiques Road Trip
+OL,10,     GPaired with Gavin and Stacey's
+OL,11,     GJoanna Page is opera singer and
+OL,12,     Gstar of a certain online
+OL,13,     Ginsurance advert Wynne Evans.
+OL,14,     GThey rummage in the antiques
+OL,15,     Gshops of south Wales.
+OL,16,G0800FExpert Witness
+OL,17,     GWhen a teenager's body is
+OL,18,     Glocated in a shallow grave, a
+OL,19,     Gsoil specialist is called on to
+OL,20,     Gunearth evidence to convict the
+OL,21,     Gkiller.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,64 +106,74 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698988100
+OL,0,        ECIMSBWebfax     F698A1698991711
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 2 NOV
-OL,4,G0505FMoneyball
-OL,5,     GIan Wright hosts the exciting
-OL,6,     Ggame show - in this episode,
-OL,7,     GSimone and Philip, Ryan and
-OL,8,     GPenelope, and Dominic and
-OL,9,     GPatrick all step up to take on
-OL,10,     Gthe might of The Launcher.
+OL,3,CProgramme listings for FRI 3 NOV
+OL,4,G0600FGood Morning Britain
+OL,5,     G10-year-old quadruple amputee
+OL,6,     GLuke Mortimer prepares for his
+OL,7,     Gown personal 'Everest' to give
+OL,8,     Gback to those who helped him,
+OL,9,     Gand Richard Arnold quizzes music
+OL,10,     Glegend Sir Cliff Richard.
+OL,11,G0900FLorraine
+OL,12,     GLorraine Kelly presents a
+OL,13,     Gtopical mix of entertainment,
+OL,14,     Gdiscussion and showbiz glamour
+OL,15,     Gas well as the latest fashion,
+OL,16,     Gfood and celebrity gossip.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698988100
+OL,0,        ECIMSBWebfax     F698A1698991711
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 2 NOV
-OL,4,G0505FTool Club
-OL,5,     GThe team race to complete the
-OL,6,     GDumfries bookshop transformation
-OL,7,     Gand make a splash renovating a
-OL,8,     Gduck pond and duck house. And a
-OL,9,     Gsalvaged tree is turned into a
-OL,10,     Gpostbox.
-OL,11,G0555FEscape to the Chateau
-OL,12,     GA quick peek at some of the
-OL,13,     GStrawbridges' best moments at
-OL,14,     Gthe chateau, from series seven.
+OL,3,CProgramme listings for FRI 3 NOV
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Ben Hanlin joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G0645FCheers
+OL,12,     GIndoor Fun with Sammy and Robby:
+OL,13,     GRobin takes time off work to
+OL,14,     Ggive Rebecca a romantic dream
+OL,15,     Gday out, but he is distracted by
+OL,16,     Gthe chance to compete with Sam
+OL,17,     Gin a games marathon.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1698988100
+OL,0,        ECIMSBWebfax     F698A1698991711
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 2 NOV
-OL,4,G0310FDie Hard 4: Live Free or Die Hard
-OL,5,     GA hard-boiled detective tries to
-OL,6,     Gfoil a terrorist bent on using
-OL,7,     Gtechnology to destroy the U.S.
-OL,8,     Geconomy, but the detective's
-OL,9,     Gquest soon becomes very personal.
-OL,10,G0510FFriends
-OL,11,     GRoss tries to convince Rachel
-OL,12,     Gthat her date is psychotic.
-OL,13,     GJoey's play gets terrible
-OL,14,     Greviews, but his romance with
-OL,15,     Ghis co-star progresses.
-OL,16,G0535FEntertainment News on 5
-OL,17,     GA daily round-up of showbiz news
-OL,18,     Gand gossip from around the
-OL,19,     Gworld, focusing on celebrities,
-OL,20,     Gmovies, music and entertainment.
+OL,3,CProgramme listings for FRI 3 NOV
+OL,4,G0605FDaisy & Ollie
+OL,5,     GWhen a very daring squirrel
+OL,6,     Gperforms a series of acrobatic
+OL,7,     Gfeats around the garden the
+OL,8,     Gchildren are very impressed! But
+OL,9,     Gwhat's an acrobat?
+OL,10,G0610FMilkshake! Monkey
+OL,11,     GPreschool series following
+OL,12,     Ginquisitive puppet Milkshake
+OL,13,     GMonkey. The primate protagonist
+OL,14,     Glearns how rocking horses are
+OL,15,     Gmade.
+OL,16,G0615FPeppa Pig
+OL,17,     GWhile Mummy Pig is hard at work,
+OL,18,     GPeppa, George and Daddy make the
+OL,19,     Gbest out of not being able to
+OL,20,     Guse the computer by tidying the
+OL,21,     Gkitchen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
