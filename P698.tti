@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699002545
+OL,0,        ECIMSBWebfax     F698A1699006159
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699002545
+OL,0,        ECIMSBWebfax     F698A1699006159
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,28 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699002545
+OL,0,        ECIMSBWebfax     F698A1699006159
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0915FMorning Live
-OL,9,     GConversation, advice and great
-OL,10,     Gcompany to make your morning.
-OL,11,G1000FScam Interceptors
-OL,12,     GA man believes he is talking to
-OL,13,     Ghis mobile phone company - but
-OL,14,     Gin fact, they are scammers, and
-OL,15,     Ghe is about to buy them a very
-OL,16,     Gexpensive mobile phone.
-OL,17,G1045FFrontline Fightback
-OL,18,     GHi-tech cameras help police
-OL,19,     Gidentify the man responsible for
-OL,20,     Ga horrifying acid attack.
+OL,4,G1000FScam Interceptors
+OL,5,     GA man believes he is talking to
+OL,6,     Ghis mobile phone company - but
+OL,7,     Gin fact, they are scammers, and
+OL,8,     Ghe is about to buy them a very
+OL,9,     Gexpensive mobile phone.
+OL,10,G1045FFrontline Fightback
+OL,11,     GHi-tech cameras help police
+OL,12,     Gidentify the man responsible for
+OL,13,     Ga horrifying acid attack.
+OL,14,G1115FHomes Under the Hammer
+OL,15,     GTwo unusual properties in rural
+OL,16,     GKent and Yorkshire and an
+OL,17,     Gimpressive Victorian terrace in
+OL,18,     GGreater Manchester are sold at
+OL,19,     Gauction. Martin, Martel and
+OL,20,     GTommy meet the buyers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -76,7 +76,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699002545
+OL,0,        ECIMSBWebfax     F698A1699006159
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -101,80 +101,86 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699002545
+OL,0,        ECIMSBWebfax     F698A1699006159
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G0900FLorraine
-OL,5,     GLorraine Kelly presents a
-OL,6,     Gtopical mix of entertainment,
-OL,7,     Gdiscussion and showbiz glamour
-OL,8,     Gas well as the latest fashion,
-OL,9,     Gfood and celebrity gossip.
-OL,10,G1000FThis Morning
-OL,11,     GMagazine show with news and
-OL,12,     Gtopical items, celebrity guests,
-OL,13,     Gexpert advice, real life
-OL,14,     Gstories, competitions and a mix
-OL,15,     Gof cookery, health, beauty,
-OL,16,     Glifestyle and more.
-OL,17,G1230FLoose Women
-OL,18,     GEastEnders legend Charlie Brooks
-OL,19,     Gjoins Kaye Adams, Katie Piper,
-OL,20,     GNadia Sawalha and Jane Moore for
-OL,21,     Ga catch up.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real life
+OL,8,     Gstories, competitions and a mix
+OL,9,     Gof cookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GEastEnders legend Charlie Brooks
+OL,13,     Gjoins Kaye Adams, Katie Piper,
+OL,14,     GNadia Sawalha and Jane Moore for
+OL,15,     Ga catch up.
+OL,16,G1330FITV Lunchtime News
+OL,17,     GThe latest headlines from around
+OL,18,     Gthe world at lunchtime with
+OL,19,     Greports and analysis from ITV's
+OL,20,     GCorrespondents, all of which are
+OL,21,     Gfollowed by a national weather
+OL,22,     Gforecast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699002545
+OL,0,        ECIMSBWebfax     F698A1699006159
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G0855FFrasier
-OL,5,     GIt's Hard to Say Goodbye If You
-OL,6,     GWon't Leave: Frasier realises
-OL,7,     Gthat he has strong feelings for
-OL,8,     GKate, just as she announces she
-OL,9,     Gis moving to Chicago.
-OL,10,G0925FFrasier
-OL,11,     GThe Friend: Frasier realises
-OL,12,     Gthat he hasn't made any friends
-OL,13,     Gsince moving to Seattle, so he
-OL,14,     Gsets out to meet someone new.
-OL,15,G0955FFind It, Fix It, Flog It
-OL,16,     GIn Wiltshire, Henry Cole and
-OL,17,     GGemma Longworth restore a
-OL,18,     Gvintage car, a weaving loom and
-OL,19,     Ga dough proving bin.
+OL,4,G0955FFind It, Fix It, Flog It
+OL,5,     GIn Wiltshire, Henry Cole and
+OL,6,     GGemma Longworth restore a
+OL,7,     Gvintage car, a weaving loom and
+OL,8,     Ga dough proving bin.
+OL,9,G1055FRenovation Nation
+OL,10,     GCatherine and Alan create a cosy
+OL,11,     Gsnug, while Liz and Michael try
+OL,12,     Gto firm up plans for their
+OL,13,     Gkitchen.
+OL,14,G1155FChannel 4 News Summary
+OL,15,     GChannel 4's midday news summary.
+OL,16,G1200FLive: Steph's Packed Lunch
+OL,17,     GSteph McGovern presents her live
+OL,18,     Glunchtime show featuring
+OL,19,     Gcelebrity guests, fantastic food
+OL,20,     Gand the best entertainment,
+OL,21,     Glifestyle and consumer stories
+OL,22,     Gmaking the headlines.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699002545
+OL,0,        ECIMSBWebfax     F698A1699006159
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G0905FMilkshake! Story Den
-OL,5,     GJoin Kemi to read The Day Fin
-OL,6,     GFlooded the World. In this
-OL,7,     Gstory, Fin is extremely
-OL,8,     Gforgetful so it's no surprise
-OL,9,     Gwhen he leaves the tap
-OL,10,     Grunning... until it floods the
-OL,11,     Gworld!
-OL,12,G0915FJeremy Vine
-OL,13,     GJeremy Vine and Storm discuss
-OL,14,     Gthe latest news and get your
-OL,15,     Gviews and opinions of the day.
-OL,16,G1115FStorm Huntley
-OL,17,     GStorm Huntley carries on the
-OL,18,     Gdiscussion and takes your calls
-OL,19,     Gto discuss the biggest stories
-OL,20,     Gof the day.
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and Storm discuss
+OL,6,     Gthe latest news and get your
+OL,7,     Gviews and opinions of the day.
+OL,8,G1115FStorm Huntley
+OL,9,     GStorm Huntley carries on the
+OL,10,     Gdiscussion and takes your calls
+OL,11,     Gto discuss the biggest stories
+OL,12,     Gof the day.
+OL,13,G1215FAlexis Conran
+OL,14,     GAlexis Conran hears from you,
+OL,15,     Gtalking about the important
+OL,16,     Gstories and getting your
+OL,17,     Gopinions and views on them.
+OL,18,G1250FEntertainment News on 5
+OL,19,     GA daily round-up of showbiz news
+OL,20,     Gand gossip from around the
+OL,21,     Gworld, focusing on celebrities,
+OL,22,     Gmovies, music and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
