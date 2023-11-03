@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699009771
+OL,0,        ECIMSBWebfax     F698A1699013383
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699009771
+OL,0,        ECIMSBWebfax     F698A1699013383
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699009771
+OL,0,        ECIMSBWebfax     F698A1699013383
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G1045FFrontline Fightback
-OL,5,     GHi-tech cameras help police
-OL,6,     Gidentify the man responsible for
-OL,7,     Ga horrifying acid attack.
-OL,8,G1115FHomes Under the Hammer
-OL,9,     GTwo unusual properties in rural
-OL,10,     GKent and Yorkshire and an
-OL,11,     Gimpressive Victorian terrace in
-OL,12,     GGreater Manchester are sold at
-OL,13,     Gauction. Martin, Martel and
-OL,14,     GTommy meet the buyers.
-OL,15,G1215FBargain Hunt
-OL,16,     GTwo teams saddle up for a race
-OL,17,     Garound the antiques stalls at
-OL,18,     GWetherby Racecourse. Danny
-OL,19,     GSebastian is holding the reins,
-OL,20,     Galongside experts Caroline
-OL,21,     GHawley and Colin Young.
-OL,22,G1300FBBC News
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GTwo unusual properties in rural
+OL,6,     GKent and Yorkshire and an
+OL,7,     Gimpressive Victorian terrace in
+OL,8,     GGreater Manchester are sold at
+OL,9,     Gauction. Martin, Martel and
+OL,10,     GTommy meet the buyers.
+OL,11,G1215FBargain Hunt
+OL,12,     GTwo teams saddle up for a race
+OL,13,     Garound the antiques stalls at
+OL,14,     GWetherby Racecourse. Danny
+OL,15,     GSebastian is holding the reins,
+OL,16,     Galongside experts Caroline
+OL,17,     GHawley and Colin Young.
+OL,18,G1300FBBC News
+OL,19,G1330FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,7 +75,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699009771
+OL,0,        ECIMSBWebfax     F698A1699013383
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -103,7 +100,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699009771
+OL,0,        ECIMSBWebfax     F698A1699013383
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -132,52 +129,50 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699009771
+OL,0,        ECIMSBWebfax     F698A1699013383
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G1055FRenovation Nation
-OL,5,     GCatherine and Alan create a cosy
-OL,6,     Gsnug, while Liz and Michael try
-OL,7,     Gto firm up plans for their
-OL,8,     Gkitchen.
-OL,9,G1155FChannel 4 News Summary
-OL,10,     GChannel 4's midday news summary.
-OL,11,G1200FLive: Steph's Packed Lunch
-OL,12,     GSteph McGovern presents her live
-OL,13,     Glunchtime show featuring
-OL,14,     Gcelebrity guests, fantastic food
-OL,15,     Gand the best entertainment,
-OL,16,     Glifestyle and consumer stories
-OL,17,     Gmaking the headlines.
+OL,4,G1200FLive: Steph's Packed Lunch
+OL,5,     GSteph McGovern presents her live
+OL,6,     Glunchtime show featuring
+OL,7,     Gcelebrity guests, fantastic food
+OL,8,     Gand the best entertainment,
+OL,9,     Glifestyle and consumer stories
+OL,10,     Gmaking the headlines.
+OL,11,G1410FCountdown
+OL,12,     GColin Murray and Rachel Riley
+OL,13,     Ghost as contestants race against
+OL,14,     Gthe clock to pit their wits
+OL,15,     Gagainst vowels, consonants and
+OL,16,     Gnumbers. Ben Hanlin joins Susie
+OL,17,     GDent in Dictionary Corner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699009771
+OL,0,        ECIMSBWebfax     F698A1699013383
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss
-OL,6,     Gthe latest news and get your
-OL,7,     Gviews and opinions of the day.
-OL,8,G1115FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories
-OL,12,     Gof the day.
-OL,13,G1215FAlexis Conran
-OL,14,     GAlexis Conran hears from you,
-OL,15,     Gtalking about the important
-OL,16,     Gstories and getting your
-OL,17,     Gopinions and views on them.
-OL,18,G1250FEntertainment News on 5
-OL,19,     GA daily round-up of showbiz news
-OL,20,     Gand gossip from around the
-OL,21,     Gworld, focusing on celebrities,
-OL,22,     Gmovies, music and entertainment.
+OL,4,G1115FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories
+OL,8,     Gof the day.
+OL,9,G1215FAlexis Conran
+OL,10,     GAlexis Conran hears from you,
+OL,11,     Gtalking about the important
+OL,12,     Gstories and getting your
+OL,13,     Gopinions and views on them.
+OL,14,G1250FEntertainment News on 5
+OL,15,     GA daily round-up of showbiz news
+OL,16,     Gand gossip from around the
+OL,17,     Gworld, focusing on celebrities,
+OL,18,     Gmovies, music and entertainment.
+OL,19,G1255F5 News at Lunchtime
+OL,20,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
