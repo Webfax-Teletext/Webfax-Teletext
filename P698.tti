@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699076105
+OL,0,        ECIMSBWebfax     F698A1699079715
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699076105
+OL,0,        ECIMSBWebfax     F698A1699079715
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,26 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699076105
+OL,0,        ECIMSBWebfax     F698A1699079715
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G0045FBBC News
+OL,3,CProgramme listings for SAT 4 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GHost Matt Tebbutt is joined by
+OL,10,     Gchefs Bryn Williams and Mary
+OL,11,     GMcCartney, and by special guest
+OL,12,     GClive Myrie. Drinks expert Helen
+OL,13,     GMcGinn picks the wines to go
+OL,14,     Gwith the studio dishes.
+OL,15,G1130FNadiya's Simple Spices
+OL,16,     GNadiya presents her best-loved
+OL,17,     Grecipes for get-togethers,
+OL,18,     Gincluding her marinated chicken.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +74,25 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699076105
+OL,0,        ECIMSBWebfax     F698A1699079715
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G0425FThis is BBC Two
+OL,3,CProgramme listings for SAT 4 NOV
+OL,4,G0635FSupertato
+OL,5,     GBroccoli Alone. Supertato is out
+OL,6,     Gchasing a milkshake robot and
+OL,7,     Gleaves Broccoli in charge of
+OL,8,     GTato Tower. Evil Pea tries to
+OL,9,     Gtake over the tower, but
+OL,10,     GBroccoli puts on a great defence.
+OL,11,G0640FShaun the Sheep
+OL,12,     GKarma Farmer. Animated series.
+OL,13,     GThe Farmer transforms the farm
+OL,14,     Ginto a chilled environment where
+OL,15,     Gwork and chores are abolished
+OL,16,     Gand the animals are encouraged
+OL,17,     Gto express themselves.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,55 +100,78 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699076105
+OL,0,        ECIMSBWebfax     F698A1699079715
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G0510FMade in Britain
-OL,5,     GGo inside a soup factory, learn
-OL,6,     Gabout the UK's finest pool
-OL,7,     Gtables, visit the last remaining
-OL,8,     GUK television factory and see
-OL,9,     Ghow a luxury silk tie is created
-OL,10,     Gusing a modern approach.
+OL,3,CProgramme listings for SAT 4 NOV
+OL,4,G0625FLove Your Garden
+OL,5,     GAlan Titchmarsh and his team of
+OL,6,     Ggardening experts surprise a
+OL,7,     Gfellow landscape gardener with
+OL,8,     GAlzheimer's by building a modern
+OL,9,     Gfamily garden.
+OL,10,G0725FLove Your Weekend with Alan
+OL,11,     FTitchmarsh
+OL,12,     GHalloween comes early to the
+OL,13,     Gbarn as Alan is joined by David
+OL,14,     GBradley - everyone's favourite
+OL,15,     GHarry Potter caretaker actor -
+OL,16,     GLouise Jameson, and Jodie
+OL,17,     GPrenger.
+OL,18,G0925FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699076105
+OL,0,        ECIMSBWebfax     F698A1699079715
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G0510FTool Club
-OL,5,     GIn Dumfries, Lucy's bookshop
-OL,6,     Gturns a new page, as the team
-OL,7,     Gcomplete the new LGBTQ+
-OL,8,     Gcommunity hub. In the Tool Bus,
-OL,9,     Ga vintage sewing box is
-OL,10,     Gtransformed into a cocktail bar.
+OL,3,CProgramme listings for SAT 4 NOV
+OL,4,G0625FThe King of Queens
+OL,5,     GSparing Carrie: Doug and
+OL,6,     GCarrie's bowling friends tell
+OL,7,     GDoug that he has to fire Carrie
+OL,8,     Gfrom the team.
+OL,9,G0645FThe King of Queens
+OL,10,     GParty Favor: Doug reluctantly
+OL,11,     Gagrees to be his cousin's best
+OL,12,     Gman, but the stag party doesn't
+OL,13,     Ggo as planned.
+OL,14,G0710FCheers
+OL,15,     GBar Wars III: The Return of
+OL,16,     GTecumseh: The gang hope to get a
+OL,17,     Gjump on their rivals at Gary's
+OL,18,     GOld Town Tavern in the annual St
+OL,19,     GPatrick's Day practical joke
+OL,20,     Gcompetition.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699076105
+OL,0,        ECIMSBWebfax     F698A1699079715
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 3 NOV
-OL,4,G0510FFriends
-OL,5,     GRoss seeks medical help when he
-OL,6,     Gfinds a mysterious skin
-OL,7,     Gcondition on his backside.
-OL,8,     GPhoebe struggles to choose
-OL,9,     Gbetween two guys. Monica thinks
-OL,10,     GPete is about to propose.
-OL,11,G0535FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the
-OL,14,     Gworld, focusing on celebrities,
-OL,15,     Gmovies, music and entertainment.
+OL,3,CProgramme listings for SAT 4 NOV
+OL,4,G0625FSesame Street Mecha Builders
+OL,5,     GZee is ready to launch his
+OL,6,     Grocket into space, but when the
+OL,7,     Glaunchpad breaks, the rocket is
+OL,8,     Glaunched into the farm instead.
+OL,9,G0640FPirata and Capitano
+OL,10,     GWhile playing a game of Omino,
+OL,11,     Gthe crew of the Pink Skull
+OL,12,     Gdiscover a treasure map hidden
+OL,13,     Gin a secret trapdoor in the
+OL,14,     Gboard, which leads them to a
+OL,15,     Gstrange island.
+OL,16,G0650FFireman Sam
+OL,17,     GGoing Out with a Bang: Mandy is
+OL,18,     Ginviting everyone to a bonfire
+OL,19,     Gparty at the Floods. But her
+OL,20,     Gfirework impressions scare Lion.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
