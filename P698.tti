@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699188070
+OL,0,        ECIMSBWebfax     F698A1699191682
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699188070
+OL,0,        ECIMSBWebfax     F698A1699191682
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,28 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699188070
+OL,0,        ECIMSBWebfax     F698A1699191682
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 5 NOV
-OL,4,G1230FBargain Hunt
-OL,5,     GChristina Trevanion is joined by
-OL,6,     Gexperts Thomas Forrester and
-OL,7,     GKate Bliss as the red and blue
-OL,8,     Gteams go bargain hunting in
-OL,9,     GShrewsbury.
-OL,10,G1315FBBC News
-OL,11,G1325FWeather for the Week Ahead
-OL,12,G1330FSongs of Praise: Faith in
-OL,13,     FAdversity
-OL,14,     GAled Jones explores the power of
-OL,15,     Gfaith to help people in times of
-OL,16,     Gadversity.
-OL,17,G1405FPoints of View
-OL,18,     GThe show that lets you air your
-OL,19,     Gviews on the BBC's television
-OL,20,     Gprogrammes.
+OL,4,G1330FSongs of Praise: Faith in
+OL,5,     FAdversity
+OL,6,     GAled Jones explores the power of
+OL,7,     Gfaith to help people in times of
+OL,8,     Gadversity.
+OL,9,G1405FPoints of View
+OL,10,     GThe show that lets you air your
+OL,11,     Gviews on the BBC's television
+OL,12,     Gprogrammes.
+OL,13,G1420FBill
+OL,14,     GFamily comedy from the
+OL,15,     Gperformers of Horrible
+OL,16,     GHistories. Young Bill
+OL,17,     GShakespeare leaves Stratford to
+OL,18,     Gfollow his latest dream, to be a
+OL,19,     Gplaywright in London.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -76,7 +75,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699188070
+OL,0,        ECIMSBWebfax     F698A1699191682
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -104,7 +103,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699188070
+OL,0,        ECIMSBWebfax     F698A1699191682
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -132,51 +131,57 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699188070
+OL,0,        ECIMSBWebfax     F698A1699191682
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 5 NOV
-OL,4,G1230FThe Simpsons
-OL,5,     GBoy Scoutz 'n The Hood: During
-OL,6,     Gan all-syrup Squishee bender,
-OL,7,     GBart joins the junior campers,
-OL,8,     Gand ends up taking the
-OL,9,     Gembarrassing - and dangerous -
-OL,10,     GHomer on a river rafting trip.
-OL,11,G1300FThe Simpsons
-OL,12,     GBart Gets Famous: Thanks to his
-OL,13,     Gnew catchphrase, 'I didn't do
-OL,14,     Git', Bart becomes famous,
-OL,15,     Ggetting his own TV series and
-OL,16,     Greleasing a range of merchandise.
+OL,4,G1330FThe Great British Bake Off
+OL,5,     GIn a Bake Off first it's
+OL,6,     GBotanical Week. The bakers
+OL,7,     Gtackle a spice-filled Signature,
+OL,8,     Gherby Technical and a
+OL,9,     Gshowstopping floral dessert. Who
+OL,10,     Gwill blossom, and whose thyme is
+OL,11,     Gup?
+OL,12,G1445FSonic the Hedgehog
+OL,13,     GAdventure-comedy adaptation of
+OL,14,     Gthe iconic video game. Super-
+OL,15,     Gfast hedgehog Sonic must flee
+OL,16,     Gfrom an evil scientist on Earth.
+OL,17,G1640FMy Spy
+OL,18,     GFamily action comedy. A CIA
+OL,19,     Gagent gets the run-around from a
+OL,20,     Gnine-year-old girl when he's
+OL,21,     Gsent to keep an eye on her
+OL,22,     Gfamily. With Chloe Coleman.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699188070
+OL,0,        ECIMSBWebfax     F698A1699191682
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 5 NOV
-OL,4,G1235FFriends: Best of Chandler
-OL,5,     GA classic episode starring
-OL,6,     GMatthew Perry. Chandler and
-OL,7,     GMonica's relationship becomes
-OL,8,     Gless of a secret. Ross is keen
-OL,9,     Gto rent the apartment facing
-OL,10,     GMonica's and Rachel's.
-OL,11,G1305FA Kiss Before Christmas
-OL,12,     GEthan, always the nice guy,
-OL,13,     Gwakes up to a new reality at
-OL,14,     GChristmastime. He's initially
-OL,15,     Genthralled with his new life but
-OL,16,     Gsoon realizes it's not what he
-OL,17,     Gthought it would be.
-OL,18,G1405FEntertainment News on 5
-OL,19,     GA daily round-up of showbiz news
-OL,20,     Gand gossip from around the
-OL,21,     Gworld, focusing on celebrities,
-OL,22,     Gmovies, music and entertainment.
+OL,4,G1305FA Kiss Before Christmas
+OL,5,     GEthan, always the nice guy,
+OL,6,     Gwakes up to a new reality at
+OL,7,     GChristmastime. He's initially
+OL,8,     Genthralled with his new life but
+OL,9,     Gsoon realizes it's not what he
+OL,10,     Gthought it would be.
+OL,11,G1405FEntertainment News on 5
+OL,12,     GA daily round-up of showbiz news
+OL,13,     Gand gossip from around the
+OL,14,     Gworld, focusing on celebrities,
+OL,15,     Gmovies, music and entertainment.
+OL,16,G1410FA Kiss Before Christmas
+OL,17,     GEthan, always the nice guy,
+OL,18,     Gwakes up to a new reality at
+OL,19,     GChristmastime. He's initially
+OL,20,     Genthralled with his new life but
+OL,21,     Gsoon realizes it's not what he
+OL,22,     Gthought it would be.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
