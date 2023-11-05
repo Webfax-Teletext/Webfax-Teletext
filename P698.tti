@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699162786
+OL,0,        ECIMSBWebfax     F698A1699166398
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699162786
+OL,0,        ECIMSBWebfax     F698A1699166398
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699162786
+OL,0,        ECIMSBWebfax     F698A1699166398
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 4 NOV
-OL,4,G0115FBBC News
+OL,3,CProgramme listings for SUN 5 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0735FMatch of the Day
+OL,9,     GGary Lineker introduces
+OL,10,     Ghighlights and analysis from
+OL,11,     Gtoday's seven Premier League
+OL,12,     Gmatches, featuring Arsenal's
+OL,13,     Gtrip to face top-four rivals
+OL,14,     GNewcastle United.
+OL,15,G0900FSunday with Laura Kuenssberg
+OL,16,     GGuests include Oliver Dowden MP,
+OL,17,     Gdeputy prime minister, John
+OL,18,     GHealey MP, shadow defence
+OL,19,     Gsecretary, and the actor Sarah
+OL,20,     GSnook.
+OL,21,G1000FRegional Political Programmes
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +77,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699162786
+OL,0,        ECIMSBWebfax     F698A1699166398
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 4 NOV
-OL,4,G0410FThis is BBC Two
+OL,3,CProgramme listings for SUN 5 NOV
+OL,4,G0625FCountryfile Ramble for BBC...
+OL,5,     GChildren in Need 2023. The
+OL,6,     Gpresenters pull on their bobble
+OL,7,     Ghats and get rambling in aid of
+OL,8,     GChildren in Need 2023.
+OL,9,G0735FBreakfast
+OL,10,     GThe latest news, sport, business
+OL,11,     Gand weather from the BBC's
+OL,12,     GBreakfast team.
+OL,13,G0900FWeatherman Walking
+OL,14,     GWeatherman Derek Brockway
+OL,15,     Gfollows the Heart of Wales
+OL,16,     GRailway in Carmarthenshire and
+OL,17,     Gtakes part in the World Bog
+OL,18,     GSnorkelling championships.
+OL,19,G0930FLandward
+OL,20,     GWith the focus on Scottish
+OL,21,     Grivers, Dougie sets sail along
+OL,22,     Gthe Firth of Clyde.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,57 +108,76 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699162786
+OL,0,        ECIMSBWebfax     F698A1699166398
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 4 NOV
-OL,4,G0505FJames Martin's French Adventure
-OL,5,     GAnnecy: James Martin's travels
-OL,6,     Garound France lead him to the
-OL,7,     Gbeautiful lakeside town of
-OL,8,     GAnnecy, where he wanders around
-OL,9,     Gthe market and cooks dishes
-OL,10,     Gusing delicious local tomatoes.
+OL,3,CProgramme listings for SUN 5 NOV
+OL,4,G0600FJames Martin's French Adventure
+OL,5,     GJura: James heads to the region
+OL,6,     Gof Jura, where local farmer
+OL,7,     GMatthew Tissot shows James
+OL,8,     Garound his beautiful orchard and
+OL,9,     Gteaches him about the region's
+OL,10,     Gremarkable apples and pears.
+OL,11,G0700FGino's Italy: Secrets of the
+OL,12,     FSouth
+OL,13,     GGallipoli: Gino travels to the
+OL,14,     Gfortress port of Gallipoli, the
+OL,15,     Gso-called melting pot of Puglia,
+OL,16,     Gto meet a 'mermaid' hand diver
+OL,17,     Gand sample the unusual purple-
+OL,18,     Gheaded prawn.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699162786
+OL,0,        ECIMSBWebfax     F698A1699166398
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 4 NOV
-OL,4,G0415FHollyoaks Omnibus
-OL,5,     GPeri is left looking guilty. The
-OL,6,     Gteens pull together to support
-OL,7,     GVicky. James' blackmailer is
-OL,8,     Gconfronted. And Ethan is left
-OL,9,     Gheartbroken by some big news
-OL,10,     Gfrom Sienna.
+OL,3,CProgramme listings for SUN 5 NOV
+OL,4,G0615FCheers
+OL,5,     GMr Otis Regrets: Rebecca sends
+OL,6,     GSam undercover at a high society
+OL,7,     Gball to check out her boyfriend
+OL,8,     GRobin's 'other woman'. A woman
+OL,9,     Ganswers Woody's advertisement
+OL,10,     Gfor a new roommate.
+OL,11,G0640FCheers
+OL,12,     GCry Hard: Rebecca moves in with
+OL,13,     GRobin and shows the Cheers gang
+OL,14,     Ghis fancy flat while he's away,
+OL,15,     Gonly to find he may be using her
+OL,16,     Gto gather information for a
+OL,17,     Gcorporate takeover.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699162786
+OL,0,        ECIMSBWebfax     F698A1699166398
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 4 NOV
-OL,4,G0525FEntertainment News on 5
-OL,5,     GA daily round-up of showbiz news
-OL,6,     Gand gossip from around the
-OL,7,     Gworld, focusing on celebrities,
-OL,8,     Gmovies, music and entertainment.
-OL,9,G0540FMilkshake! Monkey Amazing
-OL,10,     FAdventures
-OL,11,     GIn Scotland, Milkshake! Monkey
-OL,12,     Ggets a lesson concerning lochs
-OL,13,     Gand the famous monster.
-OL,14,G0545FPAW Patrol
-OL,15,     GThe pups use the Sea Patroller
-OL,16,     Gto help guide a lost narwhal
-OL,17,     Gback home.
+OL,3,CProgramme listings for SUN 5 NOV
+OL,4,G0625FSesame Street Mecha Builders
+OL,5,     GWhen Big Old Boulder rolls down
+OL,6,     Gthe hill towards the museum,
+OL,7,     GBerta needs the Mechas' help to
+OL,8,     Gkeep it stable.
+OL,9,G0640FPirata and Capitano
+OL,10,     GWeboo agrees to replace Mister
+OL,11,     GFuddleponch to help on the
+OL,12,     GFiddle Brothers' galley. Pirata
+OL,13,     Gand Capitano decide to look for
+OL,14,     Gthe fifth Fiddle so that Weboo
+OL,15,     Gcan get back to the Pink Skull.
+OL,16,G0650FFireman Sam
+OL,17,     GDuring the annual firework show,
+OL,18,     GThe Sparkes find out that the
+OL,19,     Gsafest way to enjoy the show is
+OL,20,     Gthrough the official public
+OL,21,     Gdisplay.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
