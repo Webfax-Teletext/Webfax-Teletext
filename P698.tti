@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699180844
+OL,0,        ECIMSBWebfax     F698A1699184460
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699180844
+OL,0,        ECIMSBWebfax     F698A1699184460
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699180844
+OL,0,        ECIMSBWebfax     F698A1699184460
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 5 NOV
-OL,4,G1030FScotland's Sacred Islands with
-OL,5,     FBen Fogle
-OL,6,     GBen Fogle investigates Norse
-OL,7,     GChristian heritage and ideas of
-OL,8,     G21st-century pilgrimage.
-OL,9,G1130FCelebration Kitchen Live: Diwali
-OL,10,     FSpecial
-OL,11,     GMatt Tebbutt hosts a special
-OL,12,     Gedition as he looks ahead to the
-OL,13,     Gcelebration of Diwali.
-OL,14,G1230FBargain Hunt
-OL,15,     GChristina Trevanion is joined by
-OL,16,     Gexperts Thomas Forrester and
-OL,17,     GKate Bliss as the red and blue
-OL,18,     Gteams go bargain hunting in
-OL,19,     GShrewsbury.
-OL,20,G1315FBBC News
-OL,21,G1325FWeather for the Week Ahead
+OL,4,G1130FCelebration Kitchen Live: Diwali
+OL,5,     FSpecial
+OL,6,     GMatt Tebbutt hosts a special
+OL,7,     Gedition as he looks ahead to the
+OL,8,     Gcelebration of Diwali.
+OL,9,G1230FBargain Hunt
+OL,10,     GChristina Trevanion is joined by
+OL,11,     Gexperts Thomas Forrester and
+OL,12,     GKate Bliss as the red and blue
+OL,13,     Gteams go bargain hunting in
+OL,14,     GShrewsbury.
+OL,15,G1315FBBC News
+OL,16,G1325FWeather for the Week Ahead
+OL,17,G1330FSongs of Praise: Faith in
+OL,18,     FAdversity
+OL,19,     GAled Jones explores the power of
+OL,20,     Gfaith to help people in times of
+OL,21,     Gadversity.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,30 +77,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699180844
+OL,0,        ECIMSBWebfax     F698A1699184460
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 5 NOV
-OL,4,G1030FMary Makes It Easy
-OL,5,     GMary joins Mel Giedroyc on a
-OL,6,     Gcamping trip where she shares
-OL,7,     Gsimple, mouthwatering recipes.
-OL,8,G1100FJimmy's Food Factory
-OL,9,     GScience series with farmer Jimmy
-OL,10,     GDoherty. In this episode he
-OL,11,     Gtries to discover what really
-OL,12,     Ggoes into supermarket sandwiches.
-OL,13,G1130FThe Chimpcam Project
-OL,14,     GWildlife documentary. How does a
-OL,15,     Gchimpanzee see the world? A
-OL,16,     Gresearch project attempts to
-OL,17,     Ganswer that question by giving
-OL,18,     Gchimps a special camera.
-OL,19,G1215FMOTD Live: Women's Super League
-OL,20,     GArsenal v Manchester City. WSL
-OL,21,     Gcoverage as Arsenal take on
-OL,22,     GManchester City.
+OL,4,G1130FThe Chimpcam Project
+OL,5,     GWildlife documentary. How does a
+OL,6,     Gchimpanzee see the world? A
+OL,7,     Gresearch project attempts to
+OL,8,     Ganswer that question by giving
+OL,9,     Gchimps a special camera.
+OL,10,G1215FMOTD Live: Women's Super League
+OL,11,     GArsenal v Manchester City. WSL
+OL,12,     Gcoverage as Arsenal take on
+OL,13,     GManchester City.
+OL,14,G1445FWheelchair Rugby League: England
+OL,15,     Fv France
+OL,16,     GJJ Chalmers presents coverage as
+OL,17,     GEngland's world champions face
+OL,18,     Goff against France in a mouth-
+OL,19,     Gwatering rematch of last year's
+OL,20,     GWorld Cup final.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -108,31 +106,35 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699180844
+OL,0,        ECIMSBWebfax     F698A1699184460
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 5 NOV
-OL,4,G0930FLove Your Weekend with Alan
-OL,5,     FTitchmarsh
-OL,6,     GJoining Alan this time are stars
-OL,7,     Gof All Creatures Great and Small
-OL,8,     GRachel Shenton and Anna Madeley,
-OL,9,     GChris Tarrant, and some police
-OL,10,     Ghorses who go the extra mile.
-OL,11,G1130FFA Cup: Chesterfield v Portsmouth
-OL,12,     GMark Pougatch presents coverage
-OL,13,     Gof the 2023-24 Emirates FA Cup
-OL,14,     GFirst Round match between
-OL,15,     GNational League Chesterfield and
-OL,16,     GLeague One side Portsmouth at
-OL,17,     Gthe SMH Group Stadium.
+OL,4,G1130FFA Cup: Chesterfield v Portsmouth
+OL,5,     GMark Pougatch presents coverage
+OL,6,     Gof the 2023-24 Emirates FA Cup
+OL,7,     GFirst Round match between
+OL,8,     GNational League Chesterfield and
+OL,9,     GLeague One side Portsmouth at
+OL,10,     Gthe SMH Group Stadium.
+OL,11,G1445FGoosebumps 2: Haunted Halloween
+OL,12,     GSpooky fantasy film sequel
+OL,13,     Gstarring Madison Iseman and Ken
+OL,14,     GJeong, 2018. Two kids' science
+OL,15,     Gproject goes very wrong when
+OL,16,     Gthey accidentally bring a
+OL,17,     Gventriloquist's dummy to life.
+OL,18,G1625FTipping Point: Best Ever Finals
+OL,19,     GReliving two of the most
+OL,20,     Gthrilling and nerve-racking
+OL,21,     GTipping Point end games.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699180844
+OL,0,        ECIMSBWebfax     F698A1699184460
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -156,24 +158,23 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699180844
+OL,0,        ECIMSBWebfax     F698A1699184460
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 5 NOV
-OL,4,G1035FNFL - End Zone
-OL,5,     GJoin Cori Yarckin on a road trip
-OL,6,     Garound the NFL following all the
-OL,7,     Gfun of American Football. This
-OL,8,     Gweek she's in Pittsburgh to see
-OL,9,     Gthe Steelers take on the
-OL,10,     GTennessee Titans.
-OL,11,G1105FFriends: Best of Chandler
-OL,12,     GIn tribute to the late Matthew
-OL,13,     GPerry, Channel 5 airs some
-OL,14,     Gclassic episodes featuring his
-OL,15,     Gcharacter Chandler Bing.
-OL,16,     GChandler decides that he wants
-OL,17,     Ghis annoying roommate to move
-OL,18,     Gout.
+OL,4,G1135FFriends: Best of Chandler
+OL,5,     GA classic episode starring
+OL,6,     GMatthew Perry. A game between
+OL,7,     GChandler and Joey against Monica
+OL,8,     Gand Rachel escalates into a full-
+OL,9,     Gblown contest where the stakes
+OL,10,     Gare raised higher.
+OL,11,G1205FFriends: Best of Chandler
+OL,12,     GA classic episode starring
+OL,13,     GMatthew Perry. Chandler goes to
+OL,14,     Gextraordinary lengths to avoid
+OL,15,     Grenewing his relationship with
+OL,16,     GJanice. Ross agrees to play a
+OL,17,     Ggame of rugby to impress Emily.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
