@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699307269
+OL,0,        ECIMSBWebfax     F698A1699310884
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699307269
+OL,0,        ECIMSBWebfax     F698A1699310884
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699307269
+OL,0,        ECIMSBWebfax     F698A1699310884
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 6 NOV
-OL,4,G2100FMasterChef: The Professionals
-OL,5,     GThe Heats continue as four more
-OL,6,     Gbrave chefs start their
-OL,7,     GMasterChef journey with their
-OL,8,     Gsights set on the title.
-OL,9,G2200FBBC News and Weather
-OL,10,G2230FRegional News
-OL,11,G2240FHave I Got a Bit More News for
-OL,12,     FYou
-OL,13,     GJo Brand is host, with guest
-OL,14,     Gpanellists, musician Feargal
-OL,15,     GSharkey and comedian Zoe Lyons.
-OL,16,     GContains very strong language.
-OL,17,G2325FThe Graham Norton Show
-OL,18,     GWith guests Sarah Snook, Boy
-OL,19,     GGeorge, Greta Lee and Miriam
-OL,20,     GMargolyes. Plus music from CMAT.
-OL,21,     GContains some strong language.
+OL,4,G2240FHave I Got a Bit More News for
+OL,5,     FYou
+OL,6,     GJo Brand is host, with guest
+OL,7,     Gpanellists, musician Feargal
+OL,8,     GSharkey and comedian Zoe Lyons.
+OL,9,     GContains very strong language.
+OL,10,G2325FThe Graham Norton Show
+OL,11,     GWith guests Sarah Snook, Boy
+OL,12,     GGeorge, Greta Lee and Miriam
+OL,13,     GMargolyes. Plus music from CMAT.
+OL,14,     GContains some strong language.
+OL,15,G0015FAlan Carr's Picture Slam
+OL,16,     GTeams from Great Yarmouth,
+OL,17,     GKing's Lynn and Glasgow test
+OL,18,     Gtheir picture knowledge.
+OL,19,G0100FWeather for the Week Ahead
+OL,20,G0105FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,25 +76,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699307269
+OL,0,        ECIMSBWebfax     F698A1699310884
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 6 NOV
-OL,4,G2100FDNA Family Secrets
-OL,5,     GCharlotte looks for her dad
-OL,6,     Gafter losing her mother. Rogie
-OL,7,     Gtries to find a secret sibling.
-OL,8,     GAnd Lviss investigates whether
-OL,9,     Ghis ancestry really is Nigerian.
-OL,10,G2200FJailed: Inside Maghaberry Prison
-OL,11,     GA recent arrival to Maghaberry
-OL,12,     Gtries to come to terms with
-OL,13,     Gkilling a man. Contains very
-OL,14,     Gstrong language and disturbing
-OL,15,     Gscenes.
-OL,16,G2230FNewsnight
-OL,17,G2310FWeather
+OL,4,G2230FNewsnight
+OL,5,G2310FWeather
+OL,6,G2315FThe Chillenden Murders
+OL,7,     GA team of independent experts re-
+OL,8,     Gexamine the evidence in the
+OL,9,     GChillenden murder case. Contains
+OL,10,     Gsome strong language and some
+OL,11,     Gupsetting scenes.
+OL,12,G0015FLiz Bonnin's Wild Caribbean
+OL,13,     GLiz Bonnin heads to the
+OL,14,     GDominican Republic, where she
+OL,15,     Gscales a 60-foot palm tree to
+OL,16,     Gretrieve a Ridgeway's hawk chick
+OL,17,     Gand searches for a solenodon.
+OL,18,G0115FCountryfile Ramble for BBC...
+OL,19,     GChildren in Need 2023. The
+OL,20,     Gpresenters pull on their bobble
+OL,21,     Ghats and get rambling in aid of
+OL,22,     GChildren in Need 2023.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -103,73 +107,79 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699307269
+OL,0,        ECIMSBWebfax     F698A1699310884
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 6 NOV
-OL,4,G2100FThe Long Shadow
-OL,5,     GThe final part of the true crime
-OL,6,     Gdrama series. After a chance
-OL,7,     Garrest, the killer is finally
-OL,8,     Gcaught and the failures of the
-OL,9,     Ginvestigation laid bare in the
-OL,10,     Gwake of Sutcliffe's trial.
-OL,11,G2200FITV News at Ten
-OL,12,     GITV News provides a fresh
-OL,13,     Gperspective on the major stories
-OL,14,     Gof the day with national and
-OL,15,     Ginternational news with reports
-OL,16,     Gand analysis from ITV's
-OL,17,     GCorrespondents.
-OL,18,G2230FRegional News
+OL,4,G2245FThe Grave
+OL,5,     GTold over a year, this is the
+OL,6,     Gstory of the search for justice
+OL,7,     Gand accountability after a mass
+OL,8,     Ggrave was discovered in the
+OL,9,     Gautumn of 2022 in a forest in
+OL,10,     Gnortheast Ukraine.
+OL,11,G0000FUnbelievable Moments: Caught On
+OL,12,     FCamera
+OL,13,     GJaw-dropping documentary series.
+OL,14,     GA plane stalls in mid-air while
+OL,15,     Gskydivers are clinging to the
+OL,16,     Goutside, and a British skier
+OL,17,     Gfights for her life in an
+OL,18,     Gavalanche.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699307269
+OL,0,        ECIMSBWebfax     F698A1699310884
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 6 NOV
-OL,4,G2100F24 Hours in Police Custody
-OL,5,     GCambridgeshire Police have a big
-OL,6,     Gproblem: a murder hunt without a
-OL,7,     Gbody. A complex search for clues
-OL,8,     Gtakes them into the woods and
-OL,9,     Gacross Europe, and features a
-OL,10,     Gmysterious post on Facebook.
-OL,11,G2200FInterview with a Killer
-OL,12,     GThe murder of 17-year-old Bianca
-OL,13,     GDevins created headlines all
-OL,14,     Garound the world in 2019. Yinka
-OL,15,     GBokinni travels to Attica Prison
-OL,16,     Gin New York State to interview
-OL,17,     GBianca's killer, Brandon Clark.
+OL,4,G2200FInterview with a Killer
+OL,5,     GThe murder of 17-year-old Bianca
+OL,6,     GDevins created headlines all
+OL,7,     Garound the world in 2019. Yinka
+OL,8,     GBokinni travels to Attica Prison
+OL,9,     Gin New York State to interview
+OL,10,     GBianca's killer, Brandon Clark.
+OL,11,G2305FGogglebox
+OL,12,     GThis time on the Box:
+OL,13,     GHeartstopper, Made in Chelsea,
+OL,14,     GThe Circle, Bee Czar, Gordon
+OL,15,     GRamsay's Future Food Stars, and
+OL,16,     GBBC News .
+OL,17,G0005FEmbarrassing Bodies
+OL,18,     GThe GPs throw open the clinic
+OL,19,     Gdoors as patients reveal their
+OL,20,     Gmedical problems. Can they help
+OL,21,     Ga man with leaky ears and a
+OL,22,     Gwoman with excess skin?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699307269
+OL,0,        ECIMSBWebfax     F698A1699310884
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 6 NOV
-OL,4,G2100FWife on Strike
-OL,5,     GBrand new show in which people -
-OL,6,     Gusually women - doing more than
-OL,7,     Gtheir fair share leave the
-OL,8,     Gfamily home to show how much
-OL,9,     Gthey really take on. How will
-OL,10,     Gthe families cope without them?
-OL,11,G2200FShoplifters: Stripping the
-OL,12,     FShelves
-OL,13,     GLondon's West End is a paradise
-OL,14,     Gfor shoppers, but not everyone
-OL,15,     Gwants to pay. Undercover
-OL,16,     Gdetectives and guards protect
-OL,17,     Gstores from thieves including a
-OL,18,     Gwoman up to no good at Halloween
+OL,4,G2200FShoplifters: Stripping the
+OL,5,     FShelves
+OL,6,     GLondon's West End is a paradise
+OL,7,     Gfor shoppers, but not everyone
+OL,8,     Gwants to pay. Undercover
+OL,9,     Gdetectives and guards protect
+OL,10,     Gstores from thieves including a
+OL,11,     Gwoman up to no good at Halloween
+OL,12,G2255FPolice: Suspect No. 1
+OL,13,     GWith first time access to a
+OL,14,     Gpolice CID unit, this series
+OL,15,     Gfollows detectives investigating
+OL,16,     Gserious cases - from the start
+OL,17,     Gof an investigation to the
+OL,18,     Gmoment they confront their
+OL,19,     Gsuspects.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
