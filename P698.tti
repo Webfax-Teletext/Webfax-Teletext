@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699336160
+OL,0,        ECIMSBWebfax     F698A1699339775
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699336160
+OL,0,        ECIMSBWebfax     F698A1699339775
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699336160
+OL,0,        ECIMSBWebfax     F698A1699339775
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 6 NOV
-OL,4,G0105FBBC News
+OL,3,CProgramme listings for TUE 7 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FScam Interceptors
+OL,12,     GRav Wilding works with ethical
+OL,13,     Ghackers to try and stop victims
+OL,14,     Glosing out to real-time scams.
+OL,15,G1030FState Opening of Parliament 2023
+OL,16,     GNicky Campbell presents coverage
+OL,17,     Gfrom the Palace of Westminster
+OL,18,     Gof the King's first speech as
+OL,19,     Gmonarch at the State Opening of
+OL,20,     GParliament.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +76,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699336160
+OL,0,        ECIMSBWebfax     F698A1699339775
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 6 NOV
-OL,4,G0355FThis is BBC Two
+OL,3,CProgramme listings for TUE 7 NOV
+OL,4,G0645FVillages by the Sea: Port
+OL,5,     FCarlisle
+OL,6,     GBen Robinson explores the
+OL,7,     Gremains of a lost harbour in
+OL,8,     GPort Carlisle, a once-thriving
+OL,9,     Gport that hoped to rival
+OL,10,     GLiverpool.
+OL,11,G0715FEscape to the Country
+OL,12,     GJules Hudson is in Perth and
+OL,13,     GKinross, helping a young couple
+OL,14,     Gwith a budget of #350,000 to
+OL,15,     Gfind an ideal country home for
+OL,16,     Gthem and their two young sons.
+OL,17,G0800FExpert Witness
+OL,18,     GA toxicologist uncovers a
+OL,19,     Gsinister murder plot when a
+OL,20,     Gwoman is found dead in a hotel.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,55 +105,74 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699336160
+OL,0,        ECIMSBWebfax     F698A1699339775
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 6 NOV
-OL,4,G0510FMonster Carp
-OL,5,     GItaly: Ali Hamidi, Tom Dove and
-OL,6,     GNeil Spooner have an Italian Job
-OL,7,     Gto complete as they continue
-OL,8,     Gtheir adventure in the land of
-OL,9,     Gpizza and pasta at a lake in the
-OL,10,     Ghills near Bologna.
+OL,3,CProgramme listings for TUE 7 NOV
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a
+OL,9,     Gtopical mix of entertainment,
+OL,10,     Gdiscussion and showbiz glamour
+OL,11,     Gas well as the latest fashion,
+OL,12,     Gfood and celebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life
+OL,17,     Gstories, competitions and a mix
+OL,18,     Gof cookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699336160
+OL,0,        ECIMSBWebfax     F698A1699339775
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 6 NOV
-OL,4,G0450FThe Great Pottery Throw Down
-OL,5,     GIt's an illuminating week, as
-OL,6,     Gthe potters make an embossed
-OL,7,     Gtable light, before guest judge,
-OL,8,     Gfashion and lifestyle designer
-OL,9,     GHenry Holland, really tests
-OL,10,     Gtheir decadent design skills.
-OL,11,G0555FFind It, Fix It, Flog It
-OL,12,     GHenry Cole and Simon O'Brien
-OL,13,     Gclear out some stables in the
-OL,14,     GCotswolds. Simon finds an old
-OL,15,     Gdraughtsman drawing board to
-OL,16,     Grepurpose as a coffee table,
-OL,17,     Gwhile Henry upcycles an old
-OL,18,     Glinen box.
+OL,3,CProgramme listings for TUE 7 NOV
+OL,4,G0645FCheers
+OL,5,     GCheers Fouls Out: Sam tries to
+OL,6,     Gbeat Gary's Old Town Tavern in a
+OL,7,     Ggrudge basketball match by
+OL,8,     Grecruiting a star athlete to
+OL,9,     Gwork behind the bar so he can
+OL,10,     Gplay for the Cheers team.
+OL,11,G0710FCheers
+OL,12,     GRebecca Redux: Sam aims to free
+OL,13,     Ghimself from his managerial
+OL,14,     Gduties by rehiring Rebecca,
+OL,15,     Gwho's working at a car show, but
+OL,16,     GCheers' staff and patrons adore
+OL,17,     Gnew bar manager Earl.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699336160
+OL,0,        ECIMSBWebfax     F698A1699339775
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 6 NOV
-OL,4,G0545FPAW Patrol
-OL,5,     GDaring Danny X takes his horse
-OL,6,     Goff the trail and ends up on a
-OL,7,     Gwild ride.
+OL,3,CProgramme listings for TUE 7 NOV
+OL,4,G0645FFireman Sam
+OL,5,     GThe Wildmen of Pontypandy try to
+OL,6,     Gcarry a huge log through the
+OL,7,     Gwoods. But when Moose tries to
+OL,8,     Glighten their load by floating
+OL,9,     Gthe log in the river, he gets
+OL,10,     Gswept downstream!
+OL,11,G0700FThomas & Friends All Engines Go!
+OL,12,     GOn a delivery to transport a
+OL,13,     Ghuge earth ball to Norramby
+OL,14,     GBeach, Nia's bouncy cargo falls
+OL,15,     Gfrom her flatcar. She has to
+OL,16,     Gchase it across the island of
+OL,17,     GSodor, trying to plan each
+OL,18,     Gbounce!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
