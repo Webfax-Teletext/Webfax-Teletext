@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699357838
+OL,0,        ECIMSBWebfax     F698A1699361450
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699357838
+OL,0,        ECIMSBWebfax     F698A1699361450
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,26 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699357838
+OL,0,        ECIMSBWebfax     F698A1699361450
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 7 NOV
-OL,4,G1030FState Opening of Parliament 2023
-OL,5,     GNicky Campbell presents coverage
-OL,6,     Gfrom the Palace of Westminster
-OL,7,     Gof the King's first speech as
-OL,8,     Gmonarch at the State Opening of
-OL,9,     GParliament.
-OL,10,G1215FBargain Hunt
-OL,11,     GCharlie Ross heads to
-OL,12,     GNottinghamshire, where experts
-OL,13,     GSteph Connell and Mark Stacey
-OL,14,     Glend their expertise to the red
-OL,15,     Gand blue teams as they go head-
-OL,16,     Gto-head.
-OL,17,G1300FBBC News
-OL,18,G1330FRegional News
+OL,4,G1215FBargain Hunt
+OL,5,     GCharlie Ross heads to
+OL,6,     GNottinghamshire, where experts
+OL,7,     GSteph Connell and Mark Stacey
+OL,8,     Glend their expertise to the red
+OL,9,     Gand blue teams as they go head-
+OL,10,     Gto-head.
+OL,11,G1300FBBC News
+OL,12,G1330FRegional News
+OL,13,G1345FDoctors
+OL,14,     GZara visits an obstinate Al, and
+OL,15,     GSid struggles with an amorous
+OL,16,     GTye. A woman grows suspicious of
+OL,17,     Gher new neighbour. Could she be
+OL,18,     Ga murderer?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,25 +74,27 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699357838
+OL,0,        ECIMSBWebfax     F698A1699361450
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 7 NOV
-OL,4,G1130FHomes Under the Hammer
-OL,5,     GA Victorian farmhouse in Derby
-OL,6,     Gis converted into a family home,
-OL,7,     Gwhile developers also transform
-OL,8,     Ghouses in Beckenham and Carlisle.
-OL,9,G1215FPolitics Live
-OL,10,     GThe big political issues of the
-OL,11,     Gday.
-OL,12,G1300FImpossible
-OL,13,     GThe quiz show where players must
-OL,14,     Gavoid Impossible answers to stay
-OL,15,     Gin the competition. How many of
-OL,16,     Gtoday's players will survive to
-OL,17,     Gface the #10,000 question?
+OL,4,G1215FPolitics Live
+OL,5,     GThe big political issues of the
+OL,6,     Gday.
+OL,7,G1300FImpossible
+OL,8,     GThe quiz show where players must
+OL,9,     Gavoid Impossible answers to stay
+OL,10,     Gin the competition. How many of
+OL,11,     Gtoday's players will survive to
+OL,12,     Gface the #10,000 question?
+OL,13,G1345FLightning
+OL,14,     GComedian Zoe Lyons hosts the
+OL,15,     Gquick-fire quiz where six plucky
+OL,16,     Gcontestants must stay out of the
+OL,17,     Glight to be all right. Can
+OL,18,     Ganyone beat the lightning and
+OL,19,     Gwin the #3,000 jackpot?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -100,76 +102,79 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699357838
+OL,0,        ECIMSBWebfax     F698A1699361450
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 7 NOV
-OL,4,G1000FThis Morning
-OL,5,     GMagazine show with news and
-OL,6,     Gtopical items, celebrity guests,
-OL,7,     Gexpert advice, real life
-OL,8,     Gstories, competitions and a mix
-OL,9,     Gof cookery, health, beauty,
-OL,10,     Glifestyle and more.
-OL,11,G1230FLoose Women
-OL,12,     GJoin the Loose Women panellists
-OL,13,     Gas they interview celebrity
-OL,14,     Gguests and discuss the day's
-OL,15,     Gmost topical issues, from
-OL,16,     Gcurrent affairs to celebrity
-OL,17,     Ggossip and the latest showbiz
-OL,18,     Gnews.
+OL,4,G1230FLoose Women
+OL,5,     GJoin the Loose Women panellists
+OL,6,     Gas they interview celebrity
+OL,7,     Gguests and discuss the day's
+OL,8,     Gmost topical issues, from
+OL,9,     Gcurrent affairs to celebrity
+OL,10,     Ggossip and the latest showbiz
+OL,11,     Gnews.
+OL,12,G1330FITV Lunchtime News
+OL,13,     GThe latest headlines from around
+OL,14,     Gthe world at lunchtime with
+OL,15,     Greports and analysis from ITV's
+OL,16,     GCorrespondents, all of which are
+OL,17,     Gfollowed by a national weather
+OL,18,     Gforecast.
+OL,19,G1355FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699357838
+OL,0,        ECIMSBWebfax     F698A1699361450
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 7 NOV
-OL,4,G1055FRenovation Nation
-OL,5,     GSarah and Nick find a secret
-OL,6,     Gpassage in their manor house.
-OL,7,     GLucy and Seb roll up their
-OL,8,     Gsleeves at their derelict Grade
-OL,9,     GII listed house in Lincolnshire.
-OL,10,G1155FChannel 4 News Summary
-OL,11,     GChannel 4's midday news summary.
-OL,12,G1200FLive: Steph's Packed Lunch
-OL,13,     GSteph McGovern presents her live
-OL,14,     Glunchtime show featuring
-OL,15,     Gcelebrity guests, fantastic food
-OL,16,     Gand the best entertainment,
-OL,17,     Glifestyle and consumer stories
-OL,18,     Gmaking the headlines.
+OL,4,G1200FLive: Steph's Packed Lunch
+OL,5,     GSteph McGovern presents her live
+OL,6,     Glunchtime show featuring
+OL,7,     Gcelebrity guests, fantastic food
+OL,8,     Gand the best entertainment,
+OL,9,     Glifestyle and consumer stories
+OL,10,     Gmaking the headlines.
+OL,11,G1410FCountdown
+OL,12,     GColin Murray and Rachel Riley
+OL,13,     Ghost as contestants race against
+OL,14,     Gthe clock to pit their wits
+OL,15,     Gagainst vowels, consonants and
+OL,16,     Gnumbers. Tanni Grey-Thompson
+OL,17,     Gjoins Susie Dent in Dictionary
+OL,18,     GCorner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699357838
+OL,0,        ECIMSBWebfax     F698A1699361450
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 7 NOV
-OL,4,G1115FStorm Huntley
-OL,5,     GStorm Huntley carries on the
-OL,6,     Gdiscussion and takes your calls
-OL,7,     Gto discuss the biggest stories
-OL,8,     Gof the day.
-OL,9,G1215FAlexis Conran
-OL,10,     GAlexis Conran hears from you,
-OL,11,     Gtalking about the important
-OL,12,     Gstories and getting your
-OL,13,     Gopinions and views on them.
-OL,14,G1250FEntertainment News on 5
-OL,15,     GA daily round-up of showbiz news
-OL,16,     Gand gossip from around the
-OL,17,     Gworld, focusing on celebrities,
-OL,18,     Gmovies, music and entertainment.
-OL,19,G1255F5 News at Lunchtime
-OL,20,     GNational and international news.
+OL,4,G1250FEntertainment News on 5
+OL,5,     GA daily round-up of showbiz news
+OL,6,     Gand gossip from around the
+OL,7,     Gworld, focusing on celebrities,
+OL,8,     Gmovies, music and entertainment.
+OL,9,G1255F5 News at Lunchtime
+OL,10,     GNational and international news.
+OL,11,G1300FHome and Away
+OL,12,     GFelicity spells it out for Tane,
+OL,13,     Gand Cash snaps at Eden. Can
+OL,14,     GJustin turn away a homeless
+OL,15,     GMarilyn?
+OL,16,G1330FA Fairytale Christmas
+OL,17,     GRomantic drama starring C Thomas
+OL,18,     GHowell and Haylie Duff. A woman
+OL,19,     Gspends Christmas organising the
+OL,20,     Gsale of a mansion. The owner
+OL,21,     Ginitially treats her with
+OL,22,     Gdisdain but an attraction grows.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
