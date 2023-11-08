@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699422870
+OL,0,        ECIMSBWebfax     F698A1699426484
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699422870
+OL,0,        ECIMSBWebfax     F698A1699426484
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699422870
+OL,0,        ECIMSBWebfax     F698A1699426484
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 7 NOV
-OL,4,G0135FBBC News
+OL,3,CProgramme listings for WED 8 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FScam Interceptors
+OL,12,     GRav Wilding works with ethical
+OL,13,     Ghackers to try and stop victims
+OL,14,     Glosing out to real-time scams.
+OL,15,G1045FDr Xand's Con or Cure
+OL,16,     GWhat to look out for when
+OL,17,     Gconsidering dentistry abroad,
+OL,18,     Gthe scammers who prey on sick
+OL,19,     Gpeople, and does CBD oil live up
+OL,20,     Gto the hype when it comes to
+OL,21,     Ghealth benefits?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +77,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699422870
+OL,0,        ECIMSBWebfax     F698A1699426484
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 7 NOV
-OL,4,G0340FThis is BBC Two
+OL,3,CProgramme listings for WED 8 NOV
+OL,4,G0615FCelebrity Antiques Road Trip
+OL,5,     GDragons' Den star Sara Davies
+OL,6,     Gand Strictly's Amy Dowden take
+OL,7,     Gto the road in a Ford Cortina.
+OL,8,G0715FEscape to the Country
+OL,9,     GIn wonderful West Yorkshire,
+OL,10,     GNicki Chapman is with a young
+OL,11,     Gcouple from Manchester who have
+OL,12,     Ga budget of #270,000 to find a
+OL,13,     Ghome in the countryside for them
+OL,14,     Gand their baby son.
+OL,15,G0800FGreat Coastal Railway Journeys
+OL,16,     GThe final leg of Michael's
+OL,17,     Gjourney begins in Fishbourne,
+OL,18,     Gthe location of one of the most
+OL,19,     Gsignificant Roman sites in
+OL,20,     GBritain.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,53 +106,73 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699422870
+OL,0,        ECIMSBWebfax     F698A1699426484
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 7 NOV
-OL,4,G0450FThe Masked Dancer
-OL,5,     GOti Mabuse, Jonathan Ross,
-OL,6,     GDavina McCall and Peter Crouch
-OL,7,     Gjoin Joel Dommett as five Masked
-OL,8,     GDancers compete to remain
-OL,9,     Ganonymous and the fourth
-OL,10,     Gcelebrity is eliminated and
-OL,11,     Gunmasked.
+OL,3,CProgramme listings for WED 8 NOV
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GMartin Kemp joins Lorraine to
+OL,9,     Gtalk about his debut novel and
+OL,10,     GThe Voice's Emma Willis tells us
+OL,11,     Gabout a big twist in this year's
+OL,12,     Gcompetition.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life
+OL,17,     Gstories, competitions and a mix
+OL,18,     Gof cookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699422870
+OL,0,        ECIMSBWebfax     F698A1699426484
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 7 NOV
-OL,4,G0500FWorld's Most Secret Hotels
-OL,5,     GWe explore some of the most
-OL,6,     Gunique hotels in Jordan,
-OL,7,     GEngland, Sweden and Ecuador,
-OL,8,     Gfrom the Bubble Wadi Rum Luxotel
-OL,9,     Gresort that resembles a colony
-OL,10,     Gon Mars, to a converted plane.
-OL,11,G0555FKirstie's Fill Your House for
-OL,12,     FFree
-OL,13,     GKirstie Allsopp visits a house
-OL,14,     Gwith a recycled cinema in
-OL,15,     GSomerset, and a country cottage
-OL,16,     Gin Cheltenham.
+OL,3,CProgramme listings for WED 8 NOV
+OL,4,G0645FCheers
+OL,5,     GWhere Nobody Knows Your Name:
+OL,6,     GRebecca is angry when another
+OL,7,     Gfemale - Robin's ex-girlfriend -
+OL,8,     Gfinds fame as his mystery woman.
+OL,9,     GAnd a heatwave in Boston worries
+OL,10,     GCarla.
+OL,11,G0710FCheers
+OL,12,     GMa Always Liked You Best: Cliff
+OL,13,     Gmakes a stand for independence
+OL,14,     Gby insisting that his visiting
+OL,15,     Gmother stays at Woody's place,
+OL,16,     Gbut he feels left out when they
+OL,17,     Ghit it off.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699422870
+OL,0,        ECIMSBWebfax     F698A1699426484
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 7 NOV
-OL,4,G0545FPAW Patrol
-OL,5,     GDaring Danny X accidently drives
-OL,6,     Goff with turtle eggs!
+OL,3,CProgramme listings for WED 8 NOV
+OL,4,G0645FFireman Sam
+OL,5,     GDilys and Norman promote their
+OL,6,     GPontypandy Spice Sauce by
+OL,7,     Gcooking up a storm outside their
+OL,8,     Gstore. But a split second away
+OL,9,     Gfrom the stove leads to a fire -
+OL,10,     Gwith Norman trapped upstairs!
+OL,11,G0700FThomas & Friends All Engines Go!
+OL,12,     GDiesel and Kenji are frustrated
+OL,13,     Gthey are only known for one
+OL,14,     Gtalent - Diesel's strength and
+OL,15,     GKenji's speed - so they decide
+OL,16,     Gto switch jobs to prove they are
+OL,17,     Gmore than one-trick engines.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
