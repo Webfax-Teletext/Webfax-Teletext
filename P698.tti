@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699469851
+OL,0,        ECIMSBWebfax     F698A1699473465
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699469851
+OL,0,        ECIMSBWebfax     F698A1699473465
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,27 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699469851
+OL,0,        ECIMSBWebfax     F698A1699473465
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 NOV
-OL,4,G1830FRegional News
-OL,5,G1900FThe One Show
-OL,6,     GAlex Jones and Jermaine Jenas
-OL,7,     Gbring you the stories that
-OL,8,     Gmatter from across the country.
-OL,9,G1930FEastEnders
-OL,10,     GSharon reels from recent events.
-OL,11,     GReiss and Sonia face a bump in
-OL,12,     Gtheir fertility journey.
-OL,13,G2000FThe Repair Shop
-OL,14,     GJay Blades and the team restore
-OL,15,     Ga crumbling bird bath, a
-OL,16,     Gharmonium in need of a tune up,
-OL,17,     Ga document belonging to a
-OL,18,     Gsurvivor of the Titanic and a
-OL,19,     G1950s bear in need of TLC.
+OL,4,G1930FEastEnders
+OL,5,     GSharon reels from recent events.
+OL,6,     GReiss and Sonia face a bump in
+OL,7,     Gtheir fertility journey.
+OL,8,G2000FThe Repair Shop
+OL,9,     GJay Blades and the team restore
+OL,10,     Ga crumbling bird bath, a
+OL,11,     Gharmonium in need of a tune up,
+OL,12,     Ga document belonging to a
+OL,13,     Gsurvivor of the Titanic and a
+OL,14,     G1950s bear in need of TLC.
+OL,15,G2100FShetland
+OL,16,     GCalder and Tosh must work
+OL,17,     Gtogether to find the armed
+OL,18,     Gkillers and prevent further
+OL,19,     Gdisaster. Contains some strong
+OL,20,     Glanguage, some violence and some
+OL,21,     Gupsetting scenes.
+OL,22,G2200FBBC News and Weather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -75,28 +78,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699469851
+OL,0,        ECIMSBWebfax     F698A1699473465
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 NOV
-OL,4,G1830FStrictly - It Takes Two
-OL,5,     GJanette Manrara dishes up more
-OL,6,     Gbackstage gossip and behind-the-
-OL,7,     Gscenes action from the world of
-OL,8,     GStrictly as she chats to some
-OL,9,     Gmore of the remaining couples.
-OL,10,G1900FCelebrity Antiques Road Trip
-OL,11,     GActors Amanda Barrie and
-OL,12,     GStephanie Beacham are joined by
-OL,13,     Gexperts Tim Medhurst and Serhat
-OL,14,     GAhmet as they hunt for antiques
-OL,15,     Gin Somerset in a 420 G Jaguar.
-OL,16,G2000FPassport: The Secret Genius of
-OL,17,     FModern Life
-OL,18,     GHannah gains access to a site
-OL,19,     Gwhere staff work to make the
-OL,20,     GBritish passport secure.
+OL,4,G1900FCelebrity Antiques Road Trip
+OL,5,     GActors Amanda Barrie and
+OL,6,     GStephanie Beacham are joined by
+OL,7,     Gexperts Tim Medhurst and Serhat
+OL,8,     GAhmet as they hunt for antiques
+OL,9,     Gin Somerset in a 420 G Jaguar.
+OL,10,G2000FPassport: The Secret Genius of
+OL,11,     FModern Life
+OL,12,     GHannah gains access to a site
+OL,13,     Gwhere staff work to make the
+OL,14,     GBritish passport secure.
+OL,15,G2100FShakespeare: Rise of a Genius
+OL,16,     GShakespeare arrives in London, a
+OL,17,     Ghotbed of violence, and writes
+OL,18,     Ghis bloodiest play. Contains
+OL,19,     Gsome strong language and some
+OL,20,     Gviolent scenes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,74 +107,79 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699469851
+OL,0,        ECIMSBWebfax     F698A1699473465
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 NOV
-OL,4,G1830FITV Evening News
-OL,5,G1930FEmmerdale
-OL,6,     GNate tries to help, Jai and
-OL,7,     GLaurel are shocked and angered
-OL,8,     Gby what they hear, and Victoria
-OL,9,     Gfeels that Jacob is shunning her.
-OL,10,G2000FCoronation Street
-OL,11,     GCarla makes empty promises to
-OL,12,     Gensure the factory staff meet a
-OL,13,     Gcrucial deadline, Bernie strikes
-OL,14,     Ga deal with Big Garth to raise
-OL,15,     Gcash for Paul, and Mason's
-OL,16,     Gactions lose Dylan his job.
+OL,4,G1930FEmmerdale
+OL,5,     GNate tries to help, Jai and
+OL,6,     GLaurel are shocked and angered
+OL,7,     Gby what they hear, and Victoria
+OL,8,     Gfeels that Jacob is shunning her.
+OL,9,G2000FCoronation Street
+OL,10,     GCarla makes empty promises to
+OL,11,     Gensure the factory staff meet a
+OL,12,     Gcrucial deadline, Bernie strikes
+OL,13,     Ga deal with Big Garth to raise
+OL,14,     Gcash for Paul, and Mason's
+OL,15,     Gactions lose Dylan his job.
+OL,16,G2100FPayback
+OL,17,     GThe conclusion of the crime
+OL,18,     Gthriller. A visit to the Isle of
+OL,19,     GEris turns Lexie's world upside
+OL,20,     Gdown as she discovers crucial
+OL,21,     Ginformation that leaves her with
+OL,22,     Gan impossible decision.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699469851
+OL,0,        ECIMSBWebfax     F698A1699473465
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 NOV
-OL,4,G1830FThe Simpsons
-OL,5,     GThe Fat Blue Line: Series 31
-OL,6,     Gcomes to Channel 4. Fat Tony is
-OL,7,     Gframed, and Chief Wiggum must
-OL,8,     Gexonerate him. Homer uses his
-OL,9,     Gbackside as a pickpocketing
-OL,10,     Gdecoy.
-OL,11,G1900FChannel 4 News
-OL,12,     GChannel 4's flagship news
-OL,13,     Gprogramme. Including the weather.
-OL,14,G2000FLocation, Location, Location
-OL,15,     GIn Edinburgh, Kirstie and Phil
-OL,16,     Ghelp two couples with a taste
-OL,17,     Gfor the capital's most popular
-OL,18,     Genclaves. Rob and Maria want a
-OL,19,     Gharmonious house; James and
-OL,20,     GLesley a future-proofed pad.
+OL,4,G1900FChannel 4 News
+OL,5,     GChannel 4's flagship news
+OL,6,     Gprogramme. Including the weather.
+OL,7,G2000FLocation, Location, Location
+OL,8,     GIn Edinburgh, Kirstie and Phil
+OL,9,     Ghelp two couples with a taste
+OL,10,     Gfor the capital's most popular
+OL,11,     Genclaves. Rob and Maria want a
+OL,12,     Gharmonious house; James and
+OL,13,     GLesley a future-proofed pad.
+OL,14,G2100FGrand Designs
+OL,15,     GDuncan and Liz build a
+OL,16,     Grevolutionary Passivhaus Premium
+OL,17,     Gpowerhouse of a home in the
+OL,18,     GCotswolds. But with a spiralling
+OL,19,     Gschedule and lonesome living,
+OL,20,     Gwill it really all be worth it
+OL,21,     Gin the end?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699469851
+OL,0,        ECIMSBWebfax     F698A1699473465
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 NOV
-OL,4,G1800FDogs Behaving (Very) Badly
-OL,5,     GMum Sarah wants Australian
-OL,6,     GLabradoodle Doddle to be the
-OL,7,     Gperfect companion to her nine-
-OL,8,     Gyear son but the pooch is
-OL,9,     Goverbearing with his love. Can
-OL,10,     GGraeme get Doddle to change his
-OL,11,     Gbehaviour?
-OL,12,G1900FShoplifters: Caught Red Handed
-OL,13,     GIn Coventry, a prolific
-OL,14,     Gshoplifter is caught, and claims
-OL,15,     Ghe steals out of necessity. At a
-OL,16,     GQD store someone thinks they can
-OL,17,     Gget away with not paying for
-OL,18,     Gtheir Christmas shopping.
+OL,4,G1900FShoplifters: Caught Red Handed
+OL,5,     GIn Coventry, a prolific
+OL,6,     Gshoplifter is caught, and claims
+OL,7,     Ghe steals out of necessity. At a
+OL,8,     GQD store someone thinks they can
+OL,9,     Gget away with not paying for
+OL,10,     Gtheir Christmas shopping.
+OL,11,G2000FLive: Vanished: The Search...
+OL,12,     Gfor Britain's Missing. Dan
+OL,13,     GWalker investigates those who've
+OL,14,     Ggone missing, with studio
+OL,15,     Gdiscussions and pre-filmed case
+OL,16,     Gstudies.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
