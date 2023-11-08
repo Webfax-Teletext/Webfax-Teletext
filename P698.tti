@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699451782
+OL,0,        ECIMSBWebfax     F698A1699455395
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699451782
+OL,0,        ECIMSBWebfax     F698A1699455395
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,28 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699451782
+OL,0,        ECIMSBWebfax     F698A1699455395
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 NOV
-OL,4,G1345FDoctors
-OL,5,     GRuhma takes on a new midwife,
-OL,6,     Gwhile Zara and Nina clash. A
-OL,7,     Gcleaner has to help a client who
-OL,8,     Gis alarmed by a text from Kirsty.
-OL,9,G1415FThe Bidding Room
-OL,10,     GDealers bid to buy miniature
-OL,11,     GFerraris, two Indian carved
-OL,12,     Gmirrors and a grocer's sign.
-OL,13,G1500FEscape to the Country
-OL,14,     GSonali Shah helps a couple find
-OL,15,     Ga new home with enough land to
-OL,16,     Gbe self-sufficient.
-OL,17,G1545FThe Travelling Auctioneers
-OL,18,     GChristina and Will sift through
-OL,19,     Ggenerations of possessions to
-OL,20,     Gsell at auction.
+OL,4,G1415FThe Bidding Room
+OL,5,     GDealers bid to buy miniature
+OL,6,     GFerraris, two Indian carved
+OL,7,     Gmirrors and a grocer's sign.
+OL,8,G1500FEscape to the Country
+OL,9,     GSonali Shah helps a couple find
+OL,10,     Ga new home with enough land to
+OL,11,     Gbe self-sufficient.
+OL,12,G1545FThe Travelling Auctioneers
+OL,13,     GChristina and Will sift through
+OL,14,     Ggenerations of possessions to
+OL,15,     Gsell at auction.
+OL,16,G1630FThe Repair Shop
+OL,17,     GJay Blades and the team restore
+OL,18,     Ga scientist's notebook, an
+OL,19,     Gunfinished wooden model of a
+OL,20,     Gship and a treasured silver
+OL,21,     Glocket.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -76,29 +77,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699451782
+OL,0,        ECIMSBWebfax     F698A1699455395
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 NOV
-OL,4,G1345FLightning
-OL,5,     GComedian Zoe Lyons hosts the
-OL,6,     Gquick-fire quiz where six plucky
-OL,7,     Gcontestants must stay out of the
-OL,8,     Glight to be all right. Can
-OL,9,     Ganyone beat the lightning and
-OL,10,     Gwin the #3,000 jackpot?
-OL,11,G1415FEasy Ways to Live Well
-OL,12,     GSurprising solutions for
-OL,13,     Geverything from body confidence
-OL,14,     Gto sedentary behaviour.
-OL,15,G1515FMountain Vets
-OL,16,     GThe dedicated staff at two
-OL,17,     Gveterinary clinics care for
-OL,18,     Gfamily pets, livestock and
-OL,19,     Gwildlife in the idyllic
-OL,20,     Gcountryside of Northern
-OL,21,     GIreland's Mourne Mountains.
+OL,4,G1415FEasy Ways to Live Well
+OL,5,     GSurprising solutions for
+OL,6,     Geverything from body confidence
+OL,7,     Gto sedentary behaviour.
+OL,8,G1515FMountain Vets
+OL,9,     GThe dedicated staff at two
+OL,10,     Gveterinary clinics care for
+OL,11,     Gfamily pets, livestock and
+OL,12,     Gwildlife in the idyllic
+OL,13,     Gcountryside of Northern
+OL,14,     GIreland's Mourne Mountains.
+OL,15,G1545FThe Farmers' Country Showdown
+OL,16,     GTwo families who are multi-
+OL,17,     Ggenerational Shire horse
+OL,18,     Gbreeders are exhibiting their
+OL,19,     Gprize-winning pedigrees and
+OL,20,     Gcompeting for glory at the Royal
+OL,21,     GCheshire Show.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -106,57 +107,62 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699451782
+OL,0,        ECIMSBWebfax     F698A1699455395
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 NOV
-OL,4,G1355FRegional News
-OL,5,G1400FJames Martin's American Adventure
-OL,6,     GLafayette: James's American
-OL,7,     Gadventure continues with a drive
-OL,8,     Gtowards Louisiana's swamplands
-OL,9,     Gwhere he ditches his car for a
-OL,10,     Ghigh-speed boat and visits the
-OL,11,     Gfoodie city of Lafayette.
-OL,12,G1500FLingo
-OL,13,     GWorking out words are Stevenage
-OL,14,     Gcouple Deb and Phil, quiz lovers
-OL,15,     GShosh and Dave, and mother and
-OL,16,     Gdaughter Suzannah and Simone
-OL,17,     Gfrom Manchester. Hosted by Adil
-OL,18,     GRay.
+OL,4,G1400FJames Martin's American Adventure
+OL,5,     GLafayette: James's American
+OL,6,     Gadventure continues with a drive
+OL,7,     Gtowards Louisiana's swamplands
+OL,8,     Gwhere he ditches his car for a
+OL,9,     Ghigh-speed boat and visits the
+OL,10,     Gfoodie city of Lafayette.
+OL,11,G1500FLingo
+OL,12,     GWorking out words are Stevenage
+OL,13,     Gcouple Deb and Phil, quiz lovers
+OL,14,     GShosh and Dave, and mother and
+OL,15,     Gdaughter Suzannah and Simone
+OL,16,     Gfrom Manchester. Hosted by Adil
+OL,17,     GRay.
+OL,18,G1600FTipping Point
+OL,19,     GBen Shephard hosts the quiz show
+OL,20,     Gin which four players take on an
+OL,21,     Gextraordinary machine in the
+OL,22,     Ghope of winning a cash jackpot.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699451782
+OL,0,        ECIMSBWebfax     F698A1699455395
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 NOV
-OL,4,G1200FLive: Steph's Packed Lunch
-OL,5,     GSteph's joined by Kate Bottley
-OL,6,     Gand Caroline Flint. Ex-Strictly
-OL,7,     Gstar Oti Mabuse tells us about
-OL,8,     Gexpecting her first baby and
-OL,9,     GAled Jones chats about his new
-OL,10,     Galbum.
-OL,11,G1410FCountdown
-OL,12,     GColin Murray and Rachel Riley
-OL,13,     Ghost as contestants race against
-OL,14,     Gthe clock to pit their wits
-OL,15,     Gagainst vowels, consonants and
-OL,16,     Gnumbers. Tanni Grey-Thompson
-OL,17,     Gjoins Susie Dent in Dictionary
-OL,18,     GCorner.
+OL,4,G1410FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Tanni Grey-Thompson
+OL,10,     Gjoins Susie Dent in Dictionary
+OL,11,     GCorner.
+OL,12,G1500FA Place in the Sun
+OL,13,     GOn Portugal's beautiful Costa da
+OL,14,     GCaparica, Laura Hamilton helps
+OL,15,     GCaron and Ivo hunt a holiday
+OL,16,     Ghome that might become
+OL,17,     Gpermanent. Can they find space
+OL,18,     Gfor Ivo's bikes and Caron's
+OL,19,     Gclothes?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699451782
+OL,0,        ECIMSBWebfax     F698A1699455395
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
