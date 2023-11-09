@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699534898
+OL,0,        ECIMSBWebfax     F698A1699538512
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699534898
+OL,0,        ECIMSBWebfax     F698A1699538512
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,24 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699534898
+OL,0,        ECIMSBWebfax     F698A1699538512
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 9 NOV
-OL,4,G1300FBBC News
-OL,5,G1330FRegional News
-OL,6,G1345FDoctors
-OL,7,     GSuni gets on Scarlett's nerves,
-OL,8,     Gand Al has his first therapy
-OL,9,     Gsession. Jimmi helps a teenager
-OL,10,     Gdeal with complicated feelings
-OL,11,     Gabout his mum.
-OL,12,G1415FThe Bidding Room
-OL,13,     GNigel Havers hosts as five
-OL,14,     Gdealers bid to buy items brought
-OL,15,     Gin by the public, including a
-OL,16,     Grice warmer, a kingfisher vase,
-OL,17,     Ga hop sieve, a port pourer and a
-OL,18,     Gharmonium.
+OL,4,G1345FDoctors
+OL,5,     GSuni gets on Scarlett's nerves,
+OL,6,     Gand Al has his first therapy
+OL,7,     Gsession. Jimmi helps a teenager
+OL,8,     Gdeal with complicated feelings
+OL,9,     Gabout his mum.
+OL,10,G1415FThe Bidding Room
+OL,11,     GNigel Havers hosts as five
+OL,12,     Gdealers bid to buy items brought
+OL,13,     Gin by the public, including a
+OL,14,     Grice warmer, a kingfisher vase,
+OL,15,     Ga hop sieve, a port pourer and a
+OL,16,     Gharmonium.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,29 +72,26 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699534898
+OL,0,        ECIMSBWebfax     F698A1699538512
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 9 NOV
-OL,4,G1300FImpossible
-OL,5,     GThe quiz show where players must
-OL,6,     Gavoid Impossible answers to stay
-OL,7,     Gin the competition. How many of
-OL,8,     Gtoday's players will survive to
-OL,9,     Gface the #10,000 question?
-OL,10,G1345FLightning
-OL,11,     GComedian Zoe Lyons hosts the
-OL,12,     Gquick-fire quiz where six plucky
-OL,13,     Gcontestants must stay out of the
-OL,14,     Glight to be all right. Can
-OL,15,     Ganyone beat the lightning and
-OL,16,     Gwin the #3,000 jackpot?
-OL,17,G1415FEat Well for Less?
-OL,18,     GGregg and Chris help two single
-OL,19,     Gmums in Manchester work together
-OL,20,     Gto feed both families after
-OL,21,     Gschool.
+OL,4,G1345FLightning
+OL,5,     GComedian Zoe Lyons hosts the
+OL,6,     Gquick-fire quiz where six plucky
+OL,7,     Gcontestants must stay out of the
+OL,8,     Glight to be all right. Can
+OL,9,     Ganyone beat the lightning and
+OL,10,     Gwin the #3,000 jackpot?
+OL,11,G1415FEat Well for Less?
+OL,12,     GGregg and Chris help two single
+OL,13,     Gmums in Manchester work together
+OL,14,     Gto feed both families after
+OL,15,     Gschool.
+OL,16,G1515FMountain Vets
+OL,17,     GNuala performs delicate surgery
+OL,18,     Gon David the hamster.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,32 +99,36 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699534898
+OL,0,        ECIMSBWebfax     F698A1699538512
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 9 NOV
-OL,4,G1230FLoose Women
-OL,5,     GAnnabel Croft and Johannes
-OL,6,     GRadebe join Charlene White,
-OL,7,     GSunetra Sarker, Denise Welch and
-OL,8,     GGloria Hunniford to talk about
-OL,9,     Gtheir time together on Strictly
-OL,10,     GCome Dancing.
-OL,11,G1330FITV Lunchtime News
-OL,12,     GThe latest headlines from around
-OL,13,     Gthe world at lunchtime with
-OL,14,     Greports and analysis from ITV's
-OL,15,     GCorrespondents, all of which are
-OL,16,     Gfollowed by a national weather
-OL,17,     Gforecast.
-OL,18,G1355FRegional News
+OL,4,G1400FJames Martin's American Adventure
+OL,5,     GAvery Island: James continues
+OL,6,     Ghis American adventure with a
+OL,7,     Gtrip to Avery Island, a large
+OL,8,     Gsalt mound that is the home of
+OL,9,     Gthe chilli peppers that are used
+OL,10,     Gto make Tabasco sauce.
+OL,11,G1500FLingo
+OL,12,     GHoping to win the Lingo jackpot
+OL,13,     Gare married couple Stuart and
+OL,14,     GKatie from Spalding, mother and
+OL,15,     Gdaughter Tracey and Hayley from
+OL,16,     GBanbury, and Birmingham couple
+OL,17,     GAndreas and Maria.
+OL,18,G1600FTipping Point
+OL,19,     GBen Shephard hosts the quiz show
+OL,20,     Gin which four players take on an
+OL,21,     Gextraordinary machine in the
+OL,22,     Ghope of winning a cash jackpot.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699534898
+OL,0,        ECIMSBWebfax     F698A1699538512
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -154,27 +153,25 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699534898
+OL,0,        ECIMSBWebfax     F698A1699538512
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 9 NOV
-OL,4,G1300FHome and Away
-OL,5,     GRemi lashes out at Bree, and
-OL,6,     Gtensions rise between Roo and
-OL,7,     GMarilyn. What will Rose think of
-OL,8,     G"Magic Mali"?
-OL,9,G1330FAn Unforgettable Christmas
-OL,10,     GWhen Lucy wakes up with a
-OL,11,     Gwedding dress in her hand, she
-OL,12,     Gbelieves that she is late to her
-OL,13,     Gwedding with her ex-boyfriend.
-OL,14,     GHowever, she has no memory of
-OL,15,     Gthe past two years...
-OL,16,G1515FThe Search for Secret Santa
-OL,17,     GCub reporter Sofia thinks she's
-OL,18,     Gfound a Christmas story that
-OL,19,     Gwill save her career when she
-OL,20,     Gdiscovers a long-lost,
-OL,21,     Gundelivered Secret Santa gift.
+OL,4,G1330FAn Unforgettable Christmas
+OL,5,     GWhen Lucy wakes up with a
+OL,6,     Gwedding dress in her hand, she
+OL,7,     Gbelieves that she is late to her
+OL,8,     Gwedding with her ex-boyfriend.
+OL,9,     GHowever, she has no memory of
+OL,10,     Gthe past two years...
+OL,11,G1515FThe Search for Secret Santa
+OL,12,     GCub reporter Sofia thinks she's
+OL,13,     Gfound a Christmas story that
+OL,14,     Gwill save her career when she
+OL,15,     Gdiscovers a long-lost,
+OL,16,     Gundelivered Secret Santa gift.
+OL,17,G1700F5 News at 5
+OL,18,     GJoin Dan Walker and the team for
+OL,19,     Gthe news that matters to you.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
