@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699679442
+OL,0,        ECIMSBWebfax     F698A1699683056
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699679442
+OL,0,        ECIMSBWebfax     F698A1699683056
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699679442
+OL,0,        ECIMSBWebfax     F698A1699683056
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 10 NOV
-OL,4,G0120FBBC News
+OL,3,CProgramme listings for SAT 11 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FSaturday Kitchen Live
+OL,9,     GHost Matt Tebbutt is joined by
+OL,10,     Gchefs Vivek Singh and Alexina
+OL,11,     GAnatole, and by special guest
+OL,12,     GAshley Jensen. Drinks expert
+OL,13,     GOlly Smith picks the wines to go
+OL,14,     Gwith the studio dishes.
+OL,15,G1045FThe Lord Mayor's Show
+OL,16,     GScott Mills presents live
+OL,17,     Gcoverage of the annual parade as
+OL,18,     Gthe lord mayor of London is
+OL,19,     Ginaugurated.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +75,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699679442
+OL,0,        ECIMSBWebfax     F698A1699683056
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 10 NOV
+OL,3,CProgramme listings for SAT 11 NOV
 OL,4,G0335FThis is BBC Two
+OL,5,G0615FHey Duggee
+OL,6,     GThe Wish Badge. Whilst helping
+OL,7,     GDuggee clean up, the Squirrels
+OL,8,     Gcome across an old lamp. Duggee
+OL,9,     Gexplains that many years ago,
+OL,10,     Gwhen rubbed, it could grant
+OL,11,     Gthree magical wishes.
+OL,12,G0620FHey Duggee
+OL,13,     GThe List Badge. Duggee's lost
+OL,14,     Ghis list for the day's
+OL,15,     Gactivities at Squirrel Club.
+OL,16,G0630FSupertato
+OL,17,     GPea Repeats. Supertato is due to
+OL,18,     Greceive the Best Hero Award, but
+OL,19,     GEvil Pea decides she should get
+OL,20,     Git. Carrot tells her she needs
+OL,21,     Gto defeat herself to win the
+OL,22,     Gaward.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,65 +106,75 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699679442
+OL,0,        ECIMSBWebfax     F698A1699683056
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 10 NOV
-OL,4,G0505FFlying for Britain with David
-OL,5,     FJason
-OL,6,     GMarking the 80th anniversary of
-OL,7,     Gthe Battle of Britain, this
-OL,8,     Gdocumentary follows national
-OL,9,     Gtreasure David Jason as he meets
-OL,10,     Gthe RAF Battle of Britain
-OL,11,     GMemorial Flight.
+OL,3,CProgramme listings for SAT 11 NOV
+OL,4,G0600FLove Your Garden
+OL,5,     GJack King: Alan and the team
+OL,6,     Gsurprise 93-year-old WW2 veteran
+OL,7,     Gand widower Jack King with a
+OL,8,     Gbeautiful garden full of happy
+OL,9,     Gmemories, art and a stunning new
+OL,10,     Gpainting studio.
+OL,11,G0630FLove Your Garden
+OL,12,     GGrantham: Alan Titchmarsh visits
+OL,13,     GGrantham to surprise Rob and
+OL,14,     GMargaret Isdale with a
+OL,15,     Gspectacular garden that is based
+OL,16,     Gon the famous book and film The
+OL,17,     GSecret Garden.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699679442
+OL,0,        ECIMSBWebfax     F698A1699683056
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 10 NOV
-OL,4,G0500FCome Dine with Me
-OL,5,     GEdinburgh. Pilot James hopes
-OL,6,     Gthat a touch of sophistication
-OL,7,     Gin his high-flying menu will
-OL,8,     Gland him safely in first place.
-OL,9,     GBut can he keep the peace
-OL,10,     Gbetween his guests?
-OL,11,G0530FFind It, Fix It, Flog It
-OL,12,     GHenry Cole and Simon O'Brien
-OL,13,     Gvisit the West Midlands and
-OL,14,     GLondon, where their finds
-OL,15,     Ginclude a potato oven and an old
-OL,16,     Gpetrol pump.
+OL,3,CProgramme listings for SAT 11 NOV
+OL,4,G0610FThe King of Queens
+OL,5,     GBlock Buster: Doug arranges a
+OL,6,     Greunion for his school football
+OL,7,     Gteam but is angry when his
+OL,8,     Gchampionship-winning block is
+OL,9,     Gcredited to his teammate Tom,
+OL,10,     Gwho now uses a wheelchair.
+OL,11,G0635FThe King of Queens
+OL,12,     GFrozen Pop: When a cold spell
+OL,13,     Ghits New York, Arthur moves into
+OL,14,     Gthe room next to Doug and
+OL,15,     GCarrie. But he soon drives them
+OL,16,     Gto distraction in his new
+OL,17,     Gsurroundings.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699679442
+OL,0,        ECIMSBWebfax     F698A1699683056
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 10 NOV
-OL,4,G0455FFriends
-OL,5,     GJoey thinks that Chandler hates
-OL,6,     Ghis new girlfriend. And Ross and
-OL,7,     GRachel try to make each other
-OL,8,     Gjealous.
-OL,9,G0520FFriends
-OL,10,     GChandler is guilt-ridden after
-OL,11,     Gkissing Joey's girlfriend. No
-OL,12,     Gone is impressed by Ross's
-OL,13,     Gattempts to play the keyboard.
-OL,14,G0545FEntertainment News on 5
-OL,15,     GA daily round-up of showbiz news
-OL,16,     Gand gossip from around the
-OL,17,     Gworld, focusing on celebrities,
-OL,18,     Gmovies, music and entertainment.
+OL,3,CProgramme listings for SAT 11 NOV
+OL,4,G0605FBlue's Clues & You
+OL,5,     GJoe runs a special contest -
+OL,6,     Gwhoever correctly guesses the
+OL,7,     Gmystery present on display gets
+OL,8,     Gto unwrap it! What could be
+OL,9,     Ginside this super special gift?
+OL,10,G0625FSesame Street Mecha Builders
+OL,11,     GIt's Food Day in Pretty Big
+OL,12,     GCity, but the Mechas need to
+OL,13,     Ghelp when the banana on top of
+OL,14,     Gthe banana split statue is not
+OL,15,     Gsplit!
+OL,16,G0640FPirata and Capitano
+OL,17,     GPirata and his friends search
+OL,18,     Gfor the treasure of Conger-The-
+OL,19,     GJoker. But this pirate, a prank
+OL,20,     Gaficionado, did not do things
+OL,21,     Glike everyone else...
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
