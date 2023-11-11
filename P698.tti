@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699728061
+OL,0,        ECIMSBWebfax     F698A1699731673
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699728061
+OL,0,        ECIMSBWebfax     F698A1699731673
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,27 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699728061
+OL,0,        ECIMSBWebfax     F698A1699731673
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 11 NOV
-OL,4,G1805FStrictly Come Dancing
-OL,5,     GIt's Week 8 of the competition!
-OL,6,     GThe couples are fighting for a
-OL,7,     Gplace in next week's Blackpool
-OL,8,     Gspecial.
-OL,9,G1925FSurvivor
-OL,10,     GOne tribe wakes up to a shake-
-OL,11,     Gup. A fierce battle at sea leads
-OL,12,     Gto a shock result and a surprise
-OL,13,     Gvisitor for both camps. Who will
-OL,14,     Gbecome the next person voted out
-OL,15,     Gof Survivor?
-OL,16,G2025FBlankety Blank
-OL,17,     GWith Josh Widdicombe, Deborah
-OL,18,     GMeaden, Russell Kane, Alison
-OL,19,     GHammond and Libby Clegg.
+OL,4,G1925FSurvivor
+OL,5,     GOne tribe wakes up to a shake-
+OL,6,     Gup. A fierce battle at sea leads
+OL,7,     Gto a shock result and a surprise
+OL,8,     Gvisitor for both camps. Who will
+OL,9,     Gbecome the next person voted out
+OL,10,     Gof Survivor?
+OL,11,G2025FBlankety Blank
+OL,12,     GWith Josh Widdicombe, Deborah
+OL,13,     GMeaden, Russell Kane, Alison
+OL,14,     GHammond and Libby Clegg.
+OL,15,G2100FRoyal British Legion Festival of
+OL,16,     FRemembrance 2023
+OL,17,     GHM King Charles III attends the
+OL,18,     Gannual festival at the Royal
+OL,19,     GAlbert Hall in London.
+OL,20,G2240FBBC News
+OL,21,G2255FWeather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -75,29 +77,25 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699728061
+OL,0,        ECIMSBWebfax     F698A1699731673
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 11 NOV
-OL,4,G1825FGreat Asian Railway Journeys
-OL,5,     GMichael meets milliner Mrs Ngo,
-OL,6,     Gwho teaches him how to make the
-OL,7,     Giconic conical hat.
-OL,8,G1925FDolly Parton at the BBC
-OL,9,     GA look back at some of Dolly
-OL,10,     GParton's finest performances at
-OL,11,     Gthe BBC, incorporating her
-OL,12,     Ggreatest moments and hits such
-OL,13,     Gas Jolene, 9 to 5, Islands in
-OL,14,     Gthe Stream and Here You Come
-OL,15,     GAgain.
-OL,16,G2025FDolly Parton: Here I Am
-OL,17,     GA landmark film charting the
-OL,18,     Gextraordinary life and music of
-OL,19,     Gthe queen of country Dolly
-OL,20,     GParton, with exclusive
-OL,21,     Ginterviews and archive footage.
+OL,4,G1925FDolly Parton at the BBC
+OL,5,     GA look back at some of Dolly
+OL,6,     GParton's finest performances at
+OL,7,     Gthe BBC, incorporating her
+OL,8,     Ggreatest moments and hits such
+OL,9,     Gas Jolene, 9 to 5, Islands in
+OL,10,     Gthe Stream and Here You Come
+OL,11,     GAgain.
+OL,12,G2025FDolly Parton: Here I Am
+OL,13,     GA landmark film charting the
+OL,14,     Gextraordinary life and music of
+OL,15,     Gthe queen of country Dolly
+OL,16,     GParton, with exclusive
+OL,17,     Ginterviews and archive footage.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -105,76 +103,75 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699728061
+OL,0,        ECIMSBWebfax     F698A1699731673
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 11 NOV
-OL,4,G1625FHarry Potter and the Goblet of
-OL,5,     FFire
-OL,6,     GFantasy film sequel starring
-OL,7,     GDaniel Radcliffe and Emma
-OL,8,     GWatson, 2005. Harry Potter is
-OL,9,     Gplagued by a recurring nightmare
-OL,10,     Gas Hogwarts hosts the
-OL,11,     Gprestigious Triwizard Tournament.
-OL,12,G1925FThe Voice UK
-OL,13,     GEmma Willis hosts the reality
-OL,14,     Gtalent show as coaches
-OL,15,     Gwill.i.am, Sir Tom Jones, Anne-
-OL,16,     GMarie and Olly Murs return to
-OL,17,     Gselect more singers from the
-OL,18,     Gsecond round of Blind Auditions.
+OL,4,G1925FThe Voice UK
+OL,5,     GEmma Willis hosts the reality
+OL,6,     Gtalent show as coaches
+OL,7,     Gwill.i.am, Sir Tom Jones, Anne-
+OL,8,     GMarie and Olly Murs return to
+OL,9,     Gselect more singers from the
+OL,10,     Gsecond round of Blind Auditions.
+OL,11,G2100FThe 1% Club
+OL,12,     GLee Mack hosts another episode
+OL,13,     Gof the logic and common sense-
+OL,14,     Gbased game show - 100
+OL,15,     Gcontestants will start, but who
+OL,16,     Gwill make it to the end to try
+OL,17,     Gto win up to 100,000 pounds?
+OL,18,G2155FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699728061
+OL,0,        ECIMSBWebfax     F698A1699731673
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 11 NOV
-OL,4,G1825FFortress Britain with Alice
-OL,5,     FRoberts
-OL,6,     GAlice examines Britain's
-OL,7,     Gpreparations for a Nazi land
-OL,8,     Ginvasion during World War II,
-OL,9,     Gfrom the anti-tank sticky bomb
-OL,10,     Gto the Home Guard and a tragic
-OL,11,     Gforgotten heroine.
-OL,12,G1925FFisherman's Friends
-OL,13,     GHeart-warming comedy based on
-OL,14,     Gthe real-life story of the
-OL,15,     GCornish folk ensemble who took
-OL,16,     Gthe UK charts by storm in 2010,
-OL,17,     Gstarring Daniel Mays and
-OL,18,     GTuppence Middleton. Strong
-OL,19,     Glanguage.
+OL,4,G1925FFisherman's Friends
+OL,5,     GHeart-warming comedy based on
+OL,6,     Gthe real-life story of the
+OL,7,     GCornish folk ensemble who took
+OL,8,     Gthe UK charts by storm in 2010,
+OL,9,     Gstarring Daniel Mays and
+OL,10,     GTuppence Middleton. Strong
+OL,11,     Glanguage.
+OL,12,G2135FTerminator: Dark Fate
+OL,13,     GSci-fi action sequel with Linda
+OL,14,     GHamilton and Arnold
+OL,15,     GSchwarzenegger. A factory worker
+OL,16,     Gis targeted by deadly robot
+OL,17,     Gassassins from the future.
+OL,18,     GStrong language/strong, gory
+OL,19,     Gviolence.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699728061
+OL,0,        ECIMSBWebfax     F698A1699731673
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 11 NOV
-OL,4,G1735FThe Battle of Britain
-OL,5,     GDan Snow and Kate Humble relive
-OL,6,     Gthree days which changed
-OL,7,     Ghistory. A timeline of events
-OL,8,     Gfrom the 15th August 1940, the
-OL,9,     Gday when the Battle of Britain
-OL,10,     Gstarted in earnest.
-OL,11,G1920F5 News Weekend
-OL,12,     GNational and international news.
-OL,13,G1925FSecrets of the Royal Palaces
-OL,14,     GThis episode uncovers secret
-OL,15,     Gstories of palace private life,
-OL,16,     Gbeginning with the royal
-OL,17,     Gfamily's race to be by Queen
-OL,18,     GElizabeth's side in her final
-OL,19,     Gmoments at Balmoral.
+OL,4,G1925FSecrets of the Royal Palaces
+OL,5,     GThis episode uncovers secret
+OL,6,     Gstories of palace private life,
+OL,7,     Gbeginning with the royal
+OL,8,     Gfamily's race to be by Queen
+OL,9,     GElizabeth's side in her final
+OL,10,     Gmoments at Balmoral.
+OL,11,G2025FBritain's Favourite Toys
+OL,12,     GA warm-hearted nostalgic look
+OL,13,     Gback at iconic toys in the 1970s
+OL,14,     Gthat shaped British childhoods
+OL,15,     Gacross the country with the
+OL,16,     Gskateboard and Pet Rock, and the
+OL,17,     Gmerchandising behemoth of Star
+OL,18,     GWars.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
