@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699802576
+OL,0,        ECIMSBWebfax     F698A1699806190
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699802576
+OL,0,        ECIMSBWebfax     F698A1699806190
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699802576
+OL,0,        ECIMSBWebfax     F698A1699806190
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 12 NOV
-OL,4,G1350FWar Horse
-OL,5,     GA farm horse is requisitioned by
-OL,6,     Gthe army to serve at the front
-OL,7,     Gduring wartime.
-OL,8,G1605FBBC News
-OL,9,G1620FRegional News
-OL,10,G1625FWeather
-OL,11,G1630FCountryfile
-OL,12,     GJohn Craven revisits the
-OL,13,     GGloucestershire village of
-OL,14,     GHillesley 50 years after he
-OL,15,     Gfirst reported on the local
-OL,16,     Gnewspaper. Plus, favourite
-OL,17,     Gautumn moments from the
-OL,18,     GCountryfile archives.
+OL,4,G1620FRegional News
+OL,5,G1625FWeather
+OL,6,G1630FCountryfile
+OL,7,     GJohn Craven revisits the
+OL,8,     GGloucestershire village of
+OL,9,     GHillesley 50 years after he
+OL,10,     Gfirst reported on the local
+OL,11,     Gnewspaper. Plus, favourite
+OL,12,     Gautumn moments from the
+OL,13,     GCountryfile archives.
+OL,14,G1720FThe Earthshot Prize 2023
+OL,15,     GFrom Singapore, the annual
+OL,16,     Gcelebration of the very best
+OL,17,     Gideas and initiatives to help
+OL,18,     Gsave the planet. Attended by
+OL,19,     GEarthshot founder, HRH Prince
+OL,20,     GWilliam, and Sir David
+OL,21,     GAttenborough.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,7 +77,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699802576
+OL,0,        ECIMSBWebfax     F698A1699806190
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -103,7 +106,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699802576
+OL,0,        ECIMSBWebfax     F698A1699806190
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -127,7 +130,7 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699802576
+OL,0,        ECIMSBWebfax     F698A1699806190
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -154,22 +157,27 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699802576
+OL,0,        ECIMSBWebfax     F698A1699806190
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 12 NOV
-OL,4,G1520FEntertainment News on 5
-OL,5,     GA daily round-up of showbiz news
-OL,6,     Gand gossip from around the
-OL,7,     Gworld, focusing on celebrities,
-OL,8,     Gmovies, music and entertainment.
-OL,9,G1525FChristmas in Scotland
-OL,10,     GRomantic drama. On a trip to
-OL,11,     GScotland, an installation
-OL,12,     Gdesigner finds herself helping a
-OL,13,     Gsmall community to create a
-OL,14,     Gfestive light display, despite
-OL,15,     Gthe interventions of a wealthy
-OL,16,     Gheir.
+OL,4,G1610FA Reservation for Christmas
+OL,5,     GThe event coordinator at a ski
+OL,6,     Gresort finds herself reassessing
+OL,7,     Gher priorities when her college
+OL,8,     Gsweetheart checks in. Festive
+OL,9,     Gromance starring Melissa Joan
+OL,10,     GHart and Michael Gross.
+OL,11,G1710F5 News Update
+OL,12,     GNational and international news.
+OL,13,G1715FA Reservation for Christmas
+OL,14,     GThe event coordinator at a ski
+OL,15,     Gresort finds herself reassessing
+OL,16,     Gher priorities when her college
+OL,17,     Gsweetheart checks in. Festive
+OL,18,     Gromance starring Melissa Joan
+OL,19,     GHart and Michael Gross.
+OL,20,G1800F5 News Weekend
+OL,21,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
