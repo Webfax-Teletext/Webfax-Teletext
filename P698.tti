@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699795349
+OL,0,        ECIMSBWebfax     F698A1699798963
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699795349
+OL,0,        ECIMSBWebfax     F698A1699798963
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,23 +47,26 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699795349
+OL,0,        ECIMSBWebfax     F698A1699798963
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 12 NOV
-OL,4,G1315FSongs of Praise: Remembrance
-OL,5,     FSunday
-OL,6,     GKatherine Jenkins marks
-OL,7,     GRemembrance Sunday at RAF
-OL,8,     GCranwell in Lincolnshire.
-OL,9,G1350FWar Horse
-OL,10,     GA farm horse is requisitioned by
-OL,11,     Gthe army to serve at the front
-OL,12,     Gduring wartime.
-OL,13,G1605FBBC News
-OL,14,G1620FRegional News
-OL,15,G1625FWeather
+OL,4,G1350FWar Horse
+OL,5,     GA farm horse is requisitioned by
+OL,6,     Gthe army to serve at the front
+OL,7,     Gduring wartime.
+OL,8,G1605FBBC News
+OL,9,G1620FRegional News
+OL,10,G1625FWeather
+OL,11,G1630FCountryfile
+OL,12,     GJohn Craven revisits the
+OL,13,     GGloucestershire village of
+OL,14,     GHillesley 50 years after he
+OL,15,     Gfirst reported on the local
+OL,16,     Gnewspaper. Plus, favourite
+OL,17,     Gautumn moments from the
+OL,18,     GCountryfile archives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -71,7 +74,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699795349
+OL,0,        ECIMSBWebfax     F698A1699798963
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -100,7 +103,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699795349
+OL,0,        ECIMSBWebfax     F698A1699798963
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -129,48 +132,46 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699795349
+OL,0,        ECIMSBWebfax     F698A1699798963
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 12 NOV
-OL,4,G1310FThe Simpsons
-OL,5,     GDeep Space Homer: NASA recruit
-OL,6,     GHomer and Barney to make the
-OL,7,     Gorganisation more appealing to
-OL,8,     Gthe common man. When Barney
-OL,9,     Gfalls off the wagon, Homer gets
-OL,10,     Gchosen to go into space.
-OL,11,G1340FThe Great British Bake Off
-OL,12,     GIt's Dessert Week and the bakers
-OL,13,     Gtake on a retro creme caramel, a
-OL,14,     Gclassic treacle sponge and a
-OL,15,     Gshowstopping meringue bomb. Who
-OL,16,     Gwill peak and who'll wobble?
+OL,4,G1340FThe Great British Bake Off
+OL,5,     GIt's Dessert Week and the bakers
+OL,6,     Gtake on a retro creme caramel, a
+OL,7,     Gclassic treacle sponge and a
+OL,8,     Gshowstopping meringue bomb. Who
+OL,9,     Gwill peak and who'll wobble?
+OL,10,G1455FShrek Forever After
+OL,11,     GAnimated adventure. In the
+OL,12,     Gogre's fourth feature-length
+OL,13,     Gescapade, Shrek makes an unwise
+OL,14,     Gbargain with Rumpelstiltskin.
+OL,15,     GWith the voices of Mike Myers,
+OL,16,     GCameron Diaz and Eddie Murphy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@uD@Xqr
+OL,26,@nD@Xqr
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699795349
+OL,0,        ECIMSBWebfax     F698A1699798963
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 12 NOV
-OL,4,G1230FA Little Christmas Charm
-OL,5,     GA jeweler partners with an
-OL,6,     Ginvestigative reporter hoping to
-OL,7,     Gfind the owner of a charm
-OL,8,     Gbracelet prior to Christmas Eve.
-OL,9,G1330FEntertainment News on 5
-OL,10,     GA daily round-up of showbiz news
-OL,11,     Gand gossip from around the
-OL,12,     Gworld, focusing on celebrities,
-OL,13,     Gmovies, music and entertainment.
-OL,14,G1335FA Little Christmas Charm
-OL,15,     GA jeweler partners with an
-OL,16,     Ginvestigative reporter hoping to
-OL,17,     Gfind the owner of a charm
-OL,18,     Gbracelet prior to Christmas Eve.
+OL,4,G1420FChristmas in Scotland
+OL,5,     GRomantic drama. On a trip to
+OL,6,     GScotland, an installation
+OL,7,     Gdesigner finds herself helping a
+OL,8,     Gsmall community to create a
+OL,9,     Gfestive light display, despite
+OL,10,     Gthe interventions of a wealthy
+OL,11,     Gheir.
+OL,12,G1520FEntertainment News on 5
+OL,13,     GA daily round-up of showbiz news
+OL,14,     Gand gossip from around the
+OL,15,     Gworld, focusing on celebrities,
+OL,16,     Gmovies, music and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
