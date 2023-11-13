@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699838299
+OL,0,        ECIMSBWebfax     F698A1699841912
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699838299
+OL,0,        ECIMSBWebfax     F698A1699841912
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,13 +47,12 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699838299
+OL,0,        ECIMSBWebfax     F698A1699841912
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 12 NOV
-OL,4,G0115FWeather for the Week Ahead
-OL,5,G0120FBBC News
+OL,4,G0120FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -61,28 +60,24 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699838299
+OL,0,        ECIMSBWebfax     F698A1699841912
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 12 NOV
-OL,4,G0115FQuestion Time
-OL,5,     GFiona Bruce presents an hour of
-OL,6,     Gtopical debate from Llandudno in
-OL,7,     GNorth Wales.
-OL,8,G0215FMortimer & Whitehouse: Gone
-OL,9,     FFishing
-OL,10,     GBob and Paul return to the
-OL,11,     GDerbyshire Wye and its neighbour
-OL,12,     Gthe Derwent, this time with Ted,
-OL,13,     Gto revisit the place they first
-OL,14,     Gfished together.
-OL,15,G0245FThe Newsreader
-OL,16,     GThe News at Six team prepare for
-OL,17,     Gthe general election and six
-OL,18,     Ghours of unbroken air time.
-OL,19,     GContains some strong language.
-OL,20,G0335FThis is BBC Two
+OL,4,G0215FMortimer & Whitehouse: Gone
+OL,5,     FFishing
+OL,6,     GBob and Paul return to the
+OL,7,     GDerbyshire Wye and its neighbour
+OL,8,     Gthe Derwent, this time with Ted,
+OL,9,     Gto revisit the place they first
+OL,10,     Gfished together.
+OL,11,G0245FThe Newsreader
+OL,12,     GThe News at Six team prepare for
+OL,13,     Gthe general election and six
+OL,14,     Ghours of unbroken air time.
+OL,15,     GContains some strong language.
+OL,16,G0335FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -90,34 +85,31 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699838299
+OL,0,        ECIMSBWebfax     F698A1699841912
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 12 NOV
-OL,4,G0020FEnglish Football League
-OL,5,     FHighlights
-OL,6,     GAll the highlights, action and
-OL,7,     Gtalking points from the latest
-OL,8,     GEnglish Football League matches.
-OL,9,G0140FCatchphrase
-OL,10,     GStephen Mulhern hosts the
-OL,11,     Gclassic game show as players
-OL,12,     GPaul, Lucy and Thomas compete to
-OL,13,     Gguess the familiar phrases
-OL,14,     Ghidden in animated clues for a
-OL,15,     Gchance to win 50,000 pounds.
-OL,16,G0215FCash Trapped
-OL,17,     GBradley Walsh hosts the quiz
-OL,18,     Gshow as six contestants need
-OL,19,     Gnerves of steel to escape a trap
-OL,20,     Gand leave with their money.
+OL,4,G0215FCash Trapped
+OL,5,     GBradley Walsh hosts the quiz
+OL,6,     Gshow as six contestants need
+OL,7,     Gnerves of steel to escape a trap
+OL,8,     Gand leave with their money.
+OL,9,G0305FMotorsport UK
+OL,10,     GRichard John Neil presents MSUK
+OL,11,     Gfrom Donington Park with racing
+OL,12,     Gfrom the Porsche Carrera Cup and
+OL,13,     Gthe Mini Challenge Trophy.
+OL,14,G0355FUnwind With ITV
+OL,15,     GYour daily escape designed to
+OL,16,     Gcalm the mind and encourage
+OL,17,     Grelaxation and reflection.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699838299
+OL,0,        ECIMSBWebfax     F698A1699841912
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -143,26 +135,22 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699838299
+OL,0,        ECIMSBWebfax     F698A1699841912
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 12 NOV
-OL,4,G0020FICC Cricket World Cup 2023:..
-OL,5,     G...India vs Netherlands.
-OL,6,     GHighlights from the M.
-OL,7,     GChinnaswamy Stadium in Bangalore.
-OL,8,G0120FPlayOJO Live Casino Show
-OL,9,     GRed or black? Odds or evens?
-OL,10,     GWhichever way you play, get that
-OL,11,     GOJO feeling with two hours of
-OL,12,     Gexciting live roulette every
-OL,13,     Gsingle night! Take us for a spin
-OL,14,     Gand feel the fun at playojo.com.
-OL,15,G0320FBen Fogle: New Lives in the Wild
-OL,16,     GPeople who live their life off-
-OL,17,     Ggrid. Ben visits the rugged
-OL,18,     Gisland of Rathlin, off the coast
-OL,19,     Gof Northern Ireland, where he
-OL,20,     Gstays with a former HR executive.
+OL,4,G0120FPlayOJO Live Casino Show
+OL,5,     GRed or black? Odds or evens?
+OL,6,     GWhichever way you play, get that
+OL,7,     GOJO feeling with two hours of
+OL,8,     Gexciting live roulette every
+OL,9,     Gsingle night! Take us for a spin
+OL,10,     Gand feel the fun at playojo.com.
+OL,11,G0320FBen Fogle: New Lives in the Wild
+OL,12,     GPeople who live their life off-
+OL,13,     Ggrid. Ben visits the rugged
+OL,14,     Gisland of Rathlin, off the coast
+OL,15,     Gof Northern Ireland, where he
+OL,16,     Gstays with a former HR executive.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
