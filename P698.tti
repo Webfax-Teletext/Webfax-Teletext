@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699925010
+OL,0,        ECIMSBWebfax     F698A1699928623
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699925010
+OL,0,        ECIMSBWebfax     F698A1699928623
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,17 +47,12 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699925010
+OL,0,        ECIMSBWebfax     F698A1699928623
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 13 NOV
-OL,4,G0100FBlankety Blank
-OL,5,     GWith Josh Widdicombe, Deborah
-OL,6,     GMeaden, Russell Kane, Alison
-OL,7,     GHammond and Libby Clegg.
-OL,8,G0135FWeather for the Week Ahead
-OL,9,G0140FBBC News
+OL,4,G0140FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -65,30 +60,25 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699925010
+OL,0,        ECIMSBWebfax     F698A1699928623
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 13 NOV
-OL,4,G0105FCountryfile
-OL,5,     GAs part of Countryfile's Wild
-OL,6,     GBritain initiative, Ellie
-OL,7,     GHarrison and Hamza Yassin visit
-OL,8,     GWytham Woods in Oxfordshire.
-OL,9,G0200FMoney for Nothing
-OL,10,     GJacqui Joseph finds a pair of
-OL,11,     Gfolding chairs, an old washstand
-OL,12,     Gand a collection of glass
-OL,13,     Gbottles to repurpose at
-OL,14,     GAltrincham recycling centre.
-OL,15,G0245FGarden Rescue
-OL,16,     GCharlie and Flo travel to Burton
-OL,17,     GLatimer in Leicestershire to
-OL,18,     Gturn Rob and Gareth's new-build,
-OL,19,     Gempty plot into a Mediterranean,
-OL,20,     Gsociable space with room for
-OL,21,     Gtheir hot tub.
-OL,22,G0330FThis is BBC Two
+OL,4,G0200FMoney for Nothing
+OL,5,     GJacqui Joseph finds a pair of
+OL,6,     Gfolding chairs, an old washstand
+OL,7,     Gand a collection of glass
+OL,8,     Gbottles to repurpose at
+OL,9,     GAltrincham recycling centre.
+OL,10,G0245FGarden Rescue
+OL,11,     GCharlie and Flo travel to Burton
+OL,12,     GLatimer in Leicestershire to
+OL,13,     Gturn Rob and Gareth's new-build,
+OL,14,     Gempty plot into a Mediterranean,
+OL,15,     Gsociable space with room for
+OL,16,     Gtheir hot tub.
+OL,17,G0330FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -96,54 +86,59 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699925010
+OL,0,        ECIMSBWebfax     F698A1699928623
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 13 NOV
-OL,4,G0040FAll Elite Wrestling: Dynamite
-OL,5,     GHard-hitting action from the
-OL,6,     Gworld of All Elite Wrestling -
-OL,7,     Gthe roster features world-class
-OL,8,     Gtalent including Jon Moxley,
-OL,9,     GChris Jericho, Bryan Danielson
-OL,10,     Gand Claudio Castagnoli.
-OL,11,G0220FLoose Women
-OL,12,     GDr Emily MacDonagh joins
-OL,13,     GCharlene, Coleen, Janet and Judi
-OL,14,     Gto discuss the dental hygiene
-OL,15,     Gcrisis affecting school children
-OL,16,     Gacross the country.
+OL,4,G0220FLoose Women
+OL,5,     GDr Emily MacDonagh joins
+OL,6,     GCharlene, Coleen, Janet and Judi
+OL,7,     Gto discuss the dental hygiene
+OL,8,     Gcrisis affecting school children
+OL,9,     Gacross the country.
+OL,10,G0305FFor the Love of Paul O'Grady
+OL,11,     GFollowing his unexpected
+OL,12,     Gpassing, we pay tribute to the
+OL,13,     Giconic and much-loved
+OL,14,     Gentertainer Paul O'Grady in this
+OL,15,     Gspecial celebratory film
+OL,16,     Gfeaturing highlights from his
+OL,17,     Gcareer.
+OL,18,G0355FUnwind With ITV
+OL,19,     GYour daily escape designed to
+OL,20,     Gcalm the mind and encourage
+OL,21,     Grelaxation and reflection.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699925010
+OL,0,        ECIMSBWebfax     F698A1699928623
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 13 NOV
-OL,4,G0115FRamsay's Hotel Hell
-OL,5,     GGordon's at Harpers Ferry in
-OL,6,     GWest Virginia, for the first
-OL,7,     Ghalf of a two-part visit to The
-OL,8,     GTown's Inn, a historic hotel
-OL,9,     Gthat's so full of clutter it can
-OL,10,     Gbarely accommodate guests.
-OL,11,G0205F24 Hours in A&E
-OL,12,     GKatrina, who's 26, has injured
-OL,13,     Gher knee. Mark, who's 35, is
-OL,14,     Gstruggling to breathe. Three-
-OL,15,     Gyear-old Thomas, who was born
-OL,16,     Gwith a rare blood condition, has
-OL,17,     Ga high temperature.
+OL,4,G0205F24 Hours in A&E
+OL,5,     GKatrina, who's 26, has injured
+OL,6,     Gher knee. Mark, who's 35, is
+OL,7,     Gstruggling to breathe. Three-
+OL,8,     Gyear-old Thomas, who was born
+OL,9,     Gwith a rare blood condition, has
+OL,10,     Ga high temperature.
+OL,11,G0300FGrand Designs
+OL,12,     GIain and Jenny build an enormous
+OL,13,     Gblack minimalist rectangular
+OL,14,     Gbuilding in the middle of a 19th-
+OL,15,     Gcentury country estate in the
+OL,16,     Gdramatic Scottish countryside.
+OL,17,     GWhat will the neighbours say?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1699925010
+OL,0,        ECIMSBWebfax     F698A1699928623
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
