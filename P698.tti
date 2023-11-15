@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700026186
+OL,0,        ECIMSBWebfax     F698A1700029808
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700026186
+OL,0,        ECIMSBWebfax     F698A1700029808
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700026186
+OL,0,        ECIMSBWebfax     F698A1700029808
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 14 NOV
-OL,4,G0145FBBC News
+OL,3,CProgramme listings for WED 15 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FScam Interceptors
+OL,12,     GRav Wilding is working with
+OL,13,     Gethical hackers to hack into
+OL,14,     Gfraudsters' illegal call centres
+OL,15,     Gto try and stop victims losing
+OL,16,     Gout to real-time scams.
+OL,17,G1045FDr Xand's Con or Cure
+OL,18,     GThe deadly effects of diet
+OL,19,     Gpills. Is breakfast really the
+OL,20,     Gmost important meal of the day?
+OL,21,     GAnd is bone broth a cure or a
+OL,22,     Gcon?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +78,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700026186
+OL,0,        ECIMSBWebfax     F698A1700029808
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 14 NOV
+OL,3,CProgramme listings for WED 15 NOV
 OL,4,G0340FThis is BBC Two
+OL,5,G0630FEscape to the Country
+OL,6,     GSteve Brown helps a couple with
+OL,7,     Gtwo young children and two
+OL,8,     Gtortoises find a home as close
+OL,9,     Gas possible to Hampshire's
+OL,10,     Gbeautiful beaches.
+OL,11,G0715FAntiques Road Trip
+OL,12,     GRaj and Irita criss-cross the
+OL,13,     GWelsh border looking for antique
+OL,14,     Ggoodies, but finding beautiful
+OL,15,     Gthings that don't need two
+OL,16,     Gstrong assistants to carry them
+OL,17,     Gisn't easy.
+OL,18,G0800FNadiya's Simple Spices
+OL,19,     GFeelgood dishes with a spicy
+OL,20,     Gtwist, from a delicious daal to
+OL,21,     Ga cinnamon cheesecake.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,69 +108,73 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700026186
+OL,0,        ECIMSBWebfax     F698A1700029808
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 14 NOV
-OL,4,G0445FThe Masked Dancer
-OL,5,     GSpecial guest John Bishop joins
-OL,6,     GJoel Dommett and the panellists
-OL,7,     Gfor the Semi-Final as five
-OL,8,     Gbecome three in a double
-OL,9,     Gelimination and two celebrities
-OL,10,     Gare unmasked and revealed.
+OL,3,CProgramme listings for WED 15 NOV
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a
+OL,9,     Gtopical mix of entertainment,
+OL,10,     Gdiscussion and showbiz glamour
+OL,11,     Gas well as the latest fashion,
+OL,12,     Gfood and celebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life
+OL,17,     Gstories, competitions and a mix
+OL,18,     Gof cookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700026186
+OL,0,        ECIMSBWebfax     F698A1700029808
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 14 NOV
-OL,4,G0515FStrangers on a Plane
-OL,5,     GFive Brits compete to see who
-OL,6,     Ghosts the best holiday. On day
-OL,7,     Gfour in Benidorm, Exauce thinks
-OL,8,     Ghe has the perfect formula for
-OL,9,     Gfun, with cable water skiing.
-OL,10,     GThe rest aren't so sure...
-OL,11,G0545FFind It, Fix It, Flog It
-OL,12,     GOn the Isle of Wight, Henry Cole
-OL,13,     Gand Simon O'Brien help Helen and
-OL,14,     Gher husband Dave to restore a
-OL,15,     Gmetal garden bench and an old
-OL,16,     Gwater feature.
+OL,3,CProgramme listings for WED 15 NOV
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Claire Richards joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0645FCheers
+OL,12,     GIt's a Wonderful Wife: Norm
+OL,13,     Gbecomes increasingly paranoid
+OL,14,     Gwhen Vera gets a job working
+OL,15,     Gabove the bar at Melville's
+OL,16,     Grestaurant. Lilith helps Frasier
+OL,17,     Gcelebrate his birthday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@oD@]rr
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700026186
+OL,0,        ECIMSBWebfax     F698A1700029808
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 14 NOV
-OL,4,G0525FEntertainment News on 5
-OL,5,     GA daily round-up of showbiz news
-OL,6,     Gand gossip from around the
-OL,7,     Gworld, focusing on celebrities,
-OL,8,     Gmovies, music and entertainment.
-OL,9,G0540FMilkshake! Monkey Amazing
-OL,10,     FAdventures
-OL,11,     GMilkshake! Monkey hikes to the
-OL,12,     Gtop of Arthur's Seat, an extinct
-OL,13,     Gvolcano in Edinburgh! Lily
-OL,14,     Gemploys a very messy
-OL,15,     Gdemonstration to explain all
-OL,16,     Gabout volcanic eruptions.
-OL,17,G0545FPAW Patrol
-OL,18,     GAnother Mission PAW to
-OL,19,     GBarkingburg! The Princess thinks
-OL,20,     Gshe's seen a ghost, and the PAW
-OL,21,     GPatrol needs to get to the
-OL,22,     Gbottom of it.
+OL,3,CProgramme listings for WED 15 NOV
+OL,4,G0625FOggy Oggy
+OL,5,     GPoliceCat is extremely strict
+OL,6,     Gand reprimands other cats for
+OL,7,     Gbreaking rules. Oggy Oggy wants
+OL,8,     Gto restore a happy atmosphere in
+OL,9,     Gtown and teaches PoliceCat to
+OL,10,     Ghand out good points instead.
+OL,11,G0635FOdo
+OL,12,     GOdo meets Michael's brother Ger,
+OL,13,     Gbut gets a surprise. Ger doesn't
+OL,14,     Glike Odo at all because he
+OL,15,     Gdoesn't trust owls. It's very
+OL,16,     Gunfair, and Odo's feelings are
+OL,17,     Ghurt.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
