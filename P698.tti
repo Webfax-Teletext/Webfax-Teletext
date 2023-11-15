@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700029808
+OL,0,        ECIMSBWebfax     F698A1700033422
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700029808
+OL,0,        ECIMSBWebfax     F698A1700033422
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700029808
+OL,0,        ECIMSBWebfax     F698A1700033422
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -78,29 +78,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700029808
+OL,0,        ECIMSBWebfax     F698A1700033422
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 15 NOV
-OL,4,G0340FThis is BBC Two
-OL,5,G0630FEscape to the Country
-OL,6,     GSteve Brown helps a couple with
-OL,7,     Gtwo young children and two
-OL,8,     Gtortoises find a home as close
-OL,9,     Gas possible to Hampshire's
-OL,10,     Gbeautiful beaches.
-OL,11,G0715FAntiques Road Trip
-OL,12,     GRaj and Irita criss-cross the
-OL,13,     GWelsh border looking for antique
-OL,14,     Ggoodies, but finding beautiful
-OL,15,     Gthings that don't need two
-OL,16,     Gstrong assistants to carry them
-OL,17,     Gisn't easy.
-OL,18,G0800FNadiya's Simple Spices
-OL,19,     GFeelgood dishes with a spicy
-OL,20,     Gtwist, from a delicious daal to
-OL,21,     Ga cinnamon cheesecake.
+OL,4,G0715FAntiques Road Trip
+OL,5,     GRaj and Irita criss-cross the
+OL,6,     GWelsh border looking for antique
+OL,7,     Ggoodies, but finding beautiful
+OL,8,     Gthings that don't need two
+OL,9,     Gstrong assistants to carry them
+OL,10,     Gisn't easy.
+OL,11,G0800FNadiya's Simple Spices
+OL,12,     GFeelgood dishes with a spicy
+OL,13,     Gtwist, from a delicious daal to
+OL,14,     Ga cinnamon cheesecake.
+OL,15,G0830FMarcus Wareing's Tales from a
+OL,16,     FKitchen Garden
+OL,17,     GMarcus makes a scarecrow for his
+OL,18,     Gkitchen garden and enters it
+OL,19,     Ginto a local festival.
+OL,20,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -108,7 +107,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700029808
+OL,0,        ECIMSBWebfax     F698A1700033422
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -134,47 +133,57 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700029808
+OL,0,        ECIMSBWebfax     F698A1700033422
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 15 NOV
-OL,4,G0605FCountdown
-OL,5,     GColin Murray and Rachel Riley
-OL,6,     Ghost as contestants race against
-OL,7,     Gthe clock to pit their wits
-OL,8,     Gagainst vowels, consonants and
-OL,9,     Gnumbers. Claire Richards joins
-OL,10,     GSusie Dent in Dictionary Corner.
-OL,11,G0645FCheers
-OL,12,     GIt's a Wonderful Wife: Norm
-OL,13,     Gbecomes increasingly paranoid
-OL,14,     Gwhen Vera gets a job working
-OL,15,     Gabove the bar at Melville's
-OL,16,     Grestaurant. Lilith helps Frasier
-OL,17,     Gcelebrate his birthday.
+OL,4,G0710FCheers
+OL,5,     GCheers Has Chili: Sam is certain
+OL,6,     Gthat Rebecca's made a big
+OL,7,     Gmistake when she converts the
+OL,8,     Gbar's pool room into a genteel
+OL,9,     Gcafe serving tea, but Rebecca
+OL,10,     Ghas a secret weapon.
+OL,11,G0735FEverybody Loves Raymond
+OL,12,     GMother's Day: Debra takes
+OL,13,     Goffence when Marie accuses her
+OL,14,     Gof being rude, and they end up
+OL,15,     Gfighting and not speaking to
+OL,16,     Geach other.
+OL,17,G0800FEverybody Loves Raymond
+OL,18,     GThe Bigger Person: Ray and Frank
+OL,19,     Grealise they can exploit the
+OL,20,     Gfact that Debra and Marie aren't
+OL,21,     Gspeaking to each other.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,26,@qD@Irr
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700029808
+OL,0,        ECIMSBWebfax     F698A1700033422
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 15 NOV
-OL,4,G0625FOggy Oggy
-OL,5,     GPoliceCat is extremely strict
-OL,6,     Gand reprimands other cats for
-OL,7,     Gbreaking rules. Oggy Oggy wants
-OL,8,     Gto restore a happy atmosphere in
-OL,9,     Gtown and teaches PoliceCat to
-OL,10,     Ghand out good points instead.
-OL,11,G0635FOdo
-OL,12,     GOdo meets Michael's brother Ger,
-OL,13,     Gbut gets a surprise. Ger doesn't
-OL,14,     Glike Odo at all because he
-OL,15,     Gdoesn't trust owls. It's very
-OL,16,     Gunfair, and Odo's feelings are
-OL,17,     Ghurt.
+OL,4,G0720FPAW Patrol
+OL,5,     GMayor Humdinger swipes the PAW
+OL,6,     GPatroller to watch his favourite
+OL,7,     GTV show. The pups need to get it
+OL,8,     Gback, and save that meddling
+OL,9,     Gmayor too!
+OL,10,G0735FPip and Posy
+OL,11,     GWhile building marble runs, Pip
+OL,12,     Gtakes all the most exciting
+OL,13,     Glooking pieces, but Posy's
+OL,14,     Gsimpler design works much
+OL,15,     Gbetter. They decide to trade
+OL,16,     Gpieces and create one mega
+OL,17,     Gmarble run.
+OL,18,G0740FThe Adventures of Paddington
+OL,19,     GSimi and Paddington try to find
+OL,20,     Gthe gold at the end of rainbow
+OL,21,     Gafter they break Baaz's
+OL,22,     GKaleidoscope.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
