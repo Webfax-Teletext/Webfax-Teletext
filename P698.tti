@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700170778
+OL,0,        ECIMSBWebfax     F698A1700174390
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700170778
+OL,0,        ECIMSBWebfax     F698A1700174390
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700170778
+OL,0,        ECIMSBWebfax     F698A1700174390
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 NOV
-OL,4,G2100FDIY SOS Children in Need Special
-OL,5,     GIn their tenth build for BBC
-OL,6,     GChildren in Need, DIY SOS
-OL,7,     Gpartner up with Radio 2 to
-OL,8,     Gcreate a bespoke counselling
-OL,9,     Gcentre for bereaved children in
-OL,10,     GDerbyshire.
-OL,11,G2200FBBC News and Weather
-OL,12,G2230FRegional News
-OL,13,G2240FQuestion Time
-OL,14,     GFiona Bruce presents from
-OL,15,     GBridgwater in Somerset. On the
-OL,16,     Gpanel: Jacob Rees-Mogg MP,
-OL,17,     GBridget Phillipson MP, Juliet
-OL,18,     GSamuel, Paul Johnson and Danny
-OL,19,     GSriskandarajah.
-OL,20,G2340FNewscast
-OL,21,     GLighthearted discussion of the
-OL,22,     Gweek's political events.
+OL,4,G2230FRegional News
+OL,5,G2240FQuestion Time
+OL,6,     GFiona Bruce presents from
+OL,7,     GBridgwater in Somerset. On the
+OL,8,     Gpanel: Jacob Rees-Mogg MP,
+OL,9,     GBridget Phillipson MP, Juliet
+OL,10,     GSamuel, Paul Johnson and Danny
+OL,11,     GSriskandarajah.
+OL,12,G2340FNewscast
+OL,13,     GLighthearted discussion of the
+OL,14,     Gweek's political events.
+OL,15,G0010FSurvivor
+OL,16,     GA big twist sends shock waves
+OL,17,     Gthrough both tribes. Who will be
+OL,18,     Gvoted out of Survivor?
+OL,19,G0110FWeather for the Week Ahead
+OL,20,G0115FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,107 +76,102 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700170778
+OL,0,        ECIMSBWebfax     F698A1700174390
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 NOV
-OL,4,G2100FThe Newsreader
-OL,5,     GAs the global financial crisis
-OL,6,     Gmounts, Helen is plunged into
-OL,7,     Gfreefall when a gossip
-OL,8,     Gjournalist threatens an expose
-OL,9,     Gabout her troubled past.
-OL,10,     GContains strong language.
-OL,11,G2150FThe Fast and the Farmer-ish
-OL,12,     GNorthern Ireland's Bogmen and
-OL,13,     GDeterminators rev up against
-OL,14,     Geach other. They have to tackle
-OL,15,     Gextreme racing, reversing and
-OL,16,     Gmowing challenges to grab a
-OL,17,     Gplace in the semi-final.
-OL,18,G2200FMock the Week
-OL,19,     GWith guests Ed Byrne, Rhys
-OL,20,     GJames, Athena Kugblenu, Laura
-OL,21,     GLexx and Alasdair Beckett-King.
-OL,22,     GContains some strong language.
+OL,4,G2230FNewsnight
+OL,5,G2315FLiz Bonnin's Wild Caribbean
+OL,6,     GIn Belize and Costa Rica, Liz
+OL,7,     Gtags Antillean manatees and
+OL,8,     Ghelps to rehabilitate sloths.
+OL,9,G0015FSecrets of the Aquarium
+OL,10,     GNew boss Marcus attempts a high-
+OL,11,     Grisk move for a misbehaving
+OL,12,     Gshark, Andrew builds a cave for
+OL,13,     Ga reclusive lobster, and star
+OL,14,     Gattraction Friday the turtle
+OL,15,     Greceives a nasty bite.
+OL,16,G0115FStrictly Come Dancing
+OL,17,     GIt's Week 8 of the competition!
+OL,18,     GThe couples are fighting for a
+OL,19,     Gplace in next week's Blackpool
+OL,20,     Gspecial.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,26,@pD@crr
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700170778
+OL,0,        ECIMSBWebfax     F698A1700174390
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 NOV
-OL,4,G2100FInside M&S
-OL,5,     GColin the Caterpillar gets a
-OL,6,     Gmakeover that has mixed results,
-OL,7,     Gpresenter Davina McCall pitches
-OL,8,     Ga new range to the lingerie
-OL,9,     Gteam, and an unusual twist is
-OL,10,     Gput on a classic biscuit.
-OL,11,G2200FITV News at Ten
-OL,12,     GITV News provides a fresh
-OL,13,     Gperspective on the major stories
-OL,14,     Gof the day with national and
-OL,15,     Ginternational news with reports
-OL,16,     Gand analysis from ITV's
-OL,17,     GCorrespondents.
-OL,18,G2230FRegional News
-OL,19,G2245FRegional Political Programmes
+OL,4,G2230FRegional News
+OL,5,G2245FRegional Political Programmes
+OL,6,G2315FDNA Journey
+OL,7,     GLine of Duty stars Neil
+OL,8,     GMorrissey and Adrian Dunbar's
+OL,9,     Gfriendship began on an audition
+OL,10,     Gday for a drama school - now
+OL,11,     Gthey are seeking out their pasts.
+OL,12,G0020FAll Elite Wrestling: Rampage
+OL,13,     GHard-hitting action from the
+OL,14,     Gworld of All Elite Wrestling -
+OL,15,     Gthe roster features world-class
+OL,16,     Gtalent including Powerhouse
+OL,17,     GHobbs, Claudio Castagnoli and
+OL,18,     GRicky Starks.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700170778
+OL,0,        ECIMSBWebfax     F698A1700174390
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 NOV
-OL,4,G2100FTaskmaster
-OL,5,     GJulian Clary makes smart use of
-OL,6,     Ga fishing rod, Sue Perkins
-OL,7,     Greimagines Botticelli, Sam
-OL,8,     GCampbell collects some coins and
-OL,9,     GLucy Beaumont asks Alex Horne to
-OL,10,     Gsit on a sled.
-OL,11,G2200FHullraisers
-OL,12,     GFlirt Master: Sitcom. Toni
-OL,13,     Gdecides to exercise her flirting
-OL,14,     Gmuscles to teach Craig a lesson.
-OL,15,     GRana is determined to show a
-OL,16,     Gmiserable policeman that Hull's
-OL,17,     Gnot dull.
+OL,4,G2230FHullraisers
+OL,5,     GThe Godmother: When her own mum
+OL,6,     Gis accused of being involved
+OL,7,     Gwith a drugs gang, Rana rushes
+OL,8,     Gto figure out what's going on.
+OL,9,     GSo who better to help than Toni
+OL,10,     Gand Paula?
+OL,11,G2300F8 Out of 10 Cats Does Countdown
+OL,12,     GJimmy Carr hosts, as Sean Lock
+OL,13,     Gand Harry Hill take on Jon
+OL,14,     GRichardson and Rosie Jones. Mr
+OL,15,     GSwallow, aka Nick Mohammed,
+OL,16,     Gjoins Susie Dent in Dictionary
+OL,17,     GCorner. With Rachel Riley.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700170778
+OL,0,        ECIMSBWebfax     F698A1700174390
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 NOV
-OL,4,G2100FThe King's Guard: Serving the
-OL,5,     FCrown
-OL,6,     GBehind the scenes for the first
-OL,7,     Gtime to the elite regiments of
-OL,8,     Gthe British Army's Household
-OL,9,     GDivision. The first episode
-OL,10,     Gfollows preparations for
-OL,11,     GCoronation of King Charles.
-OL,12,G2200FBroadmoor: Serial Killers & High
-OL,13,     FSecurity
-OL,14,     GDocumentary revealing never-
-OL,15,     Gbefore shared insight into
-OL,16,     GBroadmoor, featuring incredible
-OL,17,     Gtestimony from those who have
-OL,18,     Gcome face to face with Britain's
-OL,19,     Gmost notorious killers.
+OL,4,G2200FBroadmoor: Serial Killers & High
+OL,5,     FSecurity
+OL,6,     GDocumentary revealing never-
+OL,7,     Gbefore shared insight into
+OL,8,     GBroadmoor, featuring incredible
+OL,9,     Gtestimony from those who have
+OL,10,     Gcome face to face with Britain's
+OL,11,     Gmost notorious killers.
+OL,12,G2330FPolice Interceptors
+OL,13,     GDog handler Chris finds himself
+OL,14,     Gon the tail of a runaway
+OL,15,     GRenault. The motor is flying and
+OL,16,     Gwhen it hurtles round a blind
+OL,17,     Gbend, Chris knows what's coming,
+OL,18,     Gthe car rolls onto its roof.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
