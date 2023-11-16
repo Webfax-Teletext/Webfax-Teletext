@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700098485
+OL,0,        ECIMSBWebfax     F698A1700102099
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700098485
+OL,0,        ECIMSBWebfax     F698A1700102099
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,13 +47,12 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700098485
+OL,0,        ECIMSBWebfax     F698A1700102099
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 15 NOV
-OL,4,G0130FWeather for the Week Ahead
-OL,5,G0135FBBC News
+OL,4,G0135FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -61,24 +60,18 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700098485
+OL,0,        ECIMSBWebfax     F698A1700102099
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 15 NOV
-OL,4,G0125FDNA Family Secrets
-OL,5,     GCharlotte looks for her dad
-OL,6,     Gafter losing her mother. Rogie
-OL,7,     Gtries to find a secret sibling.
-OL,8,     GAnd Lviss investigates whether
-OL,9,     Ghis ancestry really is Nigerian.
-OL,10,G0225FMasterChef: The Professionals
-OL,11,     GIt's the quarter-final, and the
-OL,12,     Gbest four chefs from this week's
-OL,13,     Gheats return to face two more
-OL,14,     Gdaunting challenges set by
-OL,15,     Gjudges Monica and Marcus.
-OL,16,G0325FThis is BBC Two
+OL,4,G0225FMasterChef: The Professionals
+OL,5,     GIt's the quarter-final, and the
+OL,6,     Gbest four chefs from this week's
+OL,7,     Gheats return to face two more
+OL,8,     Gdaunting challenges set by
+OL,9,     Gjudges Monica and Marcus.
+OL,10,G0325FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -86,55 +79,54 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700098485
+OL,0,        ECIMSBWebfax     F698A1700102099
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 15 NOV
-OL,4,G0100FLong Lost Family: Born Without
-OL,5,     FTrace
-OL,6,     GTime is running out for a
-OL,7,     Gfoundling discovered on a
-OL,8,     Gluggage rack in Paddington
-OL,9,     Gstation, and another woman hopes
-OL,10,     Gto understand why she was left
-OL,11,     Gnext to a church.
-OL,12,G0150FCash Trapped
-OL,13,     GBradley Walsh hosts Britain's
-OL,14,     Gmost tactical quiz show as six
-OL,15,     Gcontestants have just one aim in
-OL,16,     Gmind - to escape the show with
-OL,17,     Gtheir bank of cash.
+OL,4,G0150FCash Trapped
+OL,5,     GBradley Walsh hosts Britain's
+OL,6,     Gmost tactical quiz show as six
+OL,7,     Gcontestants have just one aim in
+OL,8,     Gmind - to escape the show with
+OL,9,     Gtheir bank of cash.
+OL,10,G0240FLoose Women
+OL,11,     GJoin the Loose Women panellists
+OL,12,     Gas they interview celebrity
+OL,13,     Gguests and discuss the day's
+OL,14,     Gmost topical issues, from
+OL,15,     Gcurrent affairs to celebrity
+OL,16,     Ggossip and the latest showbiz
+OL,17,     Gnews.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700098485
+OL,0,        ECIMSBWebfax     F698A1700102099
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 15 NOV
-OL,4,G0050FTaskmaster
-OL,5,     GExcitement reaches volcanic
-OL,6,     Gproportions as the mystery of
-OL,7,     Gthe secret task is finally
-OL,8,     Grevealed to the baffled comics.
-OL,9,     GAnd who will get to wear the
-OL,10,     GSpecial Hat?
-OL,11,G0145FFirst Dates Hotel
-OL,12,     GBritish singletons head to the
-OL,13,     GFirst Dates Hotel in Italy,
-OL,14,     Glooking for romance, including
-OL,15,     Gan ex-military paramedic and a
-OL,16,     Gretired taxidermist on her first
-OL,17,     Gmeet-up in 39 years.
+OL,4,G0145FFirst Dates Hotel
+OL,5,     GBritish singletons head to the
+OL,6,     GFirst Dates Hotel in Italy,
+OL,7,     Glooking for romance, including
+OL,8,     Gan ex-military paramedic and a
+OL,9,     Gretired taxidermist on her first
+OL,10,     Gmeet-up in 39 years.
+OL,11,G0240FHullraisers
+OL,12,     GEast Riding Romeo: Toni's in
+OL,13,     Gdenial about her pregnancy. So
+OL,14,     Gshe focuses on Craig's mum's new
+OL,15,     Gboyfriend, who she thinks is a
+OL,16,     Gtrue crime villain.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700098485
+OL,0,        ECIMSBWebfax     F698A1700102099
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
