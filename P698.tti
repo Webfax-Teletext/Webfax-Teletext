@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700159938
+OL,0,        ECIMSBWebfax     F698A1700163549
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700159938
+OL,0,        ECIMSBWebfax     F698A1700163549
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,24 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700159938
+OL,0,        ECIMSBWebfax     F698A1700163549
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 NOV
-OL,4,G1830FRegional News
-OL,5,G1900FThe One Show
-OL,6,     GAlex Jones and Roman Kemp bring
-OL,7,     Gyou the stories that matter from
-OL,8,     Gacross the country.
-OL,9,G1930FEastEnders
-OL,10,     GZack offers some much-needed
-OL,11,     Gadvice, and Cindy tries to right
-OL,12,     Gher wrongs.
-OL,13,G2000FMasterChef: The Professionals
-OL,14,     GIt's the last quarter-final, and
-OL,15,     Gthe four best chefs from this
-OL,16,     Gweek's heats return.
+OL,4,G1930FEastEnders
+OL,5,     GZack offers some much-needed
+OL,6,     Gadvice, and Cindy tries to right
+OL,7,     Gher wrongs.
+OL,8,G2000FMasterChef: The Professionals
+OL,9,     GIt's the last quarter-final, and
+OL,10,     Gthe four best chefs from this
+OL,11,     Gweek's heats return.
+OL,12,G2100FDIY SOS Children in Need Special
+OL,13,     GIn their tenth build for BBC
+OL,14,     GChildren in Need, DIY SOS
+OL,15,     Gpartner up with Radio 2 to
+OL,16,     Gcreate a bespoke counselling
+OL,17,     Gcentre for bereaved children in
+OL,18,     GDerbyshire.
+OL,19,G2200FBBC News and Weather
+OL,20,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -72,102 +76,111 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700159938
+OL,0,        ECIMSBWebfax     F698A1700163549
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 NOV
-OL,4,G1830FStrictly - It Takes Two
-OL,5,     GJanette Manrara is back with
-OL,6,     Geven more backstage gossip and
-OL,7,     Gbehind-the-scenes action from
-OL,8,     Gthe world of Strictly.
-OL,9,G1900FVillages by the Sea: Solva
-OL,10,     GBen Robinson discovers some of
-OL,11,     Gthe impressive and well-
-OL,12,     Gpreserved lime kilns in Solva,
-OL,13,     GWales, and learns how this
-OL,14,     Gindustry helped feed a growing
-OL,15,     Gnation.
-OL,16,G1930FMary Makes It Easy
-OL,17,     GMary teaches Anton Du Beke mouth-
-OL,18,     Gwatering recipes that are
-OL,19,     Gperfect for a total beginner.
+OL,4,G1930FMary Makes It Easy
+OL,5,     GMary teaches Anton Du Beke mouth-
+OL,6,     Gwatering recipes that are
+OL,7,     Gperfect for a total beginner.
+OL,8,G2000FSaving Lives at Sea
+OL,9,     GOn the north eastern tip of
+OL,10,     GScotland, the crew at Wick begin
+OL,11,     Ga frantic search to find a
+OL,12,     Gpaddleboarder who has drifted a
+OL,13,     Gmile out to sea while her family
+OL,14,     Gwait on the shore.
+OL,15,G2100FThe Newsreader
+OL,16,     GAs the global financial crisis
+OL,17,     Gmounts, Helen is plunged into
+OL,18,     Gfreefall when a gossip
+OL,19,     Gjournalist threatens an expose
+OL,20,     Gabout her troubled past.
+OL,21,     GContains strong language.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
+OL,26,@{D@crr
 PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700159938
+OL,0,        ECIMSBWebfax     F698A1700163549
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 NOV
-OL,4,G1830FITV Evening News
-OL,5,G1930FEmmerdale
-OL,6,     GRhona is shocked by the
-OL,7,     Gsituation that she finds herself
-OL,8,     Gin, Dawn has concerns, and Chloe
-OL,9,     Gdreams while Mack machinates.
-OL,10,G2030FBritain: On the Sick? Tonight
-OL,11,     GAdam Shaw finds out what is
-OL,12,     Gbehind Britain's sick note
-OL,13,     Gepidemic and why the number of
-OL,14,     Gpeople not working because of
-OL,15,     Glong-term health problems is the
-OL,16,     Ghighest that it's ever been.
+OL,4,G1930FEmmerdale
+OL,5,     GRhona is shocked by the
+OL,6,     Gsituation that she finds herself
+OL,7,     Gin, Dawn has concerns, and Chloe
+OL,8,     Gdreams while Mack machinates.
+OL,9,G2030FBritain: On the Sick? Tonight
+OL,10,     GAdam Shaw finds out what is
+OL,11,     Gbehind Britain's sick note
+OL,12,     Gepidemic and why the number of
+OL,13,     Gpeople not working because of
+OL,14,     Glong-term health problems is the
+OL,15,     Ghighest that it's ever been.
+OL,16,G2100FInside M&S
+OL,17,     GColin the Caterpillar gets a
+OL,18,     Gmakeover that has mixed results,
+OL,19,     Gpresenter Davina McCall pitches
+OL,20,     Ga new range to the lingerie
+OL,21,     Gteam, and an unusual twist is
+OL,22,     Gput on a classic biscuit.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700159938
+OL,0,        ECIMSBWebfax     F698A1700163549
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 NOV
-OL,4,G1830FFour in a Bed
-OL,5,     GPeace. Tranquillity. Relaxation.
-OL,6,     GUnfortunately, it's payment day,
-OL,7,     Gso there's none of that here.
-OL,8,     GInstead, there are slanderous
-OL,9,     Gsleep scores, bad breakfasts,
-OL,10,     Gand a no-show from two B&Bers!
-OL,11,G1900FChannel 4 News
-OL,12,     GChannel 4's flagship news
-OL,13,     Gprogramme. Including the weather.
-OL,14,G1955FRory Peck Awards
-OL,15,     GThe Rory Peck Awards celebrates
-OL,16,     Gfreelance filmmakers. Cameraman
-OL,17,     GAmit Madheshiya filmed stranded
-OL,18,     Glabourers cut off from food,
-OL,19,     Gshelter and transport back home
-OL,20,     Gduring India's Covid lockdown.
+OL,4,G1900FChannel 4 News
+OL,5,     GChannel 4's flagship news
+OL,6,     Gprogramme. Including the weather.
+OL,7,G1955FRory Peck Awards
+OL,8,     GThe Rory Peck Awards celebrates
+OL,9,     Gfreelance filmmakers. Cameraman
+OL,10,     GAmit Madheshiya filmed stranded
+OL,11,     Glabourers cut off from food,
+OL,12,     Gshelter and transport back home
+OL,13,     Gduring India's Covid lockdown.
+OL,14,G2000FThe Great British Bake Off
+OL,15,     GAn Extra Slice: Jo Brand invites
+OL,16,     GAisling Bea, Scarlett Moffatt
+OL,17,     Gand Nabil Abdulrashid to
+OL,18,     Gcelebrate Party Week. Whose
+OL,19,     G'anything-but-beige' buffet got
+OL,20,     Ga hip-hip-hooray?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700159938
+OL,0,        ECIMSBWebfax     F698A1700163549
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 NOV
-OL,4,G1800FDogs Behaving (Very) Badly
-OL,5,     GSuper scavenger Labrador Bing
-OL,6,     Gmakes walks in the park a real
-OL,7,     Gdrag for his owner. And Frenchie
-OL,8,     GRalf's public displays of
-OL,9,     Gaffection make life awkward for
-OL,10,     Ghis owners. Can Graeme Hall help?
-OL,11,G1900FWaitrose: Britain's Poshest
-OL,12,     FSupermarket
-OL,13,     GInside arguably Britain's most
-OL,14,     Gpremium grocery retailer
-OL,15,     Gincluding how they're fighting
-OL,16,     Gto win back customers, their
-OL,17,     Gfood lab and how shoppers can
-OL,18,     Gget the most instore.
+OL,4,G1900FWaitrose: Britain's Poshest
+OL,5,     FSupermarket
+OL,6,     GInside arguably Britain's most
+OL,7,     Gpremium grocery retailer
+OL,8,     Gincluding how they're fighting
+OL,9,     Gto win back customers, their
+OL,10,     Gfood lab and how shoppers can
+OL,11,     Gget the most instore.
+OL,12,G2000FInside the Tower of London
+OL,13,     GIt's May 2023 and preparations
+OL,14,     Gare under way for one of the
+OL,15,     Gbiggest royal occasions in seven
+OL,16,     Gdecades: the coronation of King
+OL,17,     GCharles III, with 17 Yeoman
+OL,18,     GWarders joining 4,000 troops.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
