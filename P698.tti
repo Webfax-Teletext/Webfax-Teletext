@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700243909
+OL,0,        ECIMSBWebfax     F698A1700247520
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700243909
+OL,0,        ECIMSBWebfax     F698A1700247520
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700243909
+OL,0,        ECIMSBWebfax     F698A1700247520
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 17 NOV
-OL,4,G1715FPointless
-OL,5,     GThe quiz returns for another
-OL,6,     Gseries in which contestants try
-OL,7,     Gto score as few points as
-OL,8,     Gpossible by coming up with the
-OL,9,     Ganswers no-one else could think
-OL,10,     Gof.
-OL,11,G1800FBBC News
-OL,12,G1830FRegional News
-OL,13,G1900FChildren in Need 2023
-OL,14,     GBBC Children in Need returns
-OL,15,     Gwith a live spectacle to
-OL,16,     Gentertain the nation while
-OL,17,     Graising money for children and
-OL,18,     Gyoung people across the UK.
-OL,19,     GExpect exclusive sketches and
-OL,20,     Glive music.
-OL,21,G2200FBBC News and Weather
-OL,22,G2230FRegional News
+OL,4,G1830FRegional News
+OL,5,G1900FChildren in Need 2023
+OL,6,     GBBC Children in Need returns
+OL,7,     Gwith a live spectacle to
+OL,8,     Gentertain the nation while
+OL,9,     Graising money for children and
+OL,10,     Gyoung people across the UK.
+OL,11,     GExpect exclusive sketches and
+OL,12,     Glive music.
+OL,13,G2200FBBC News and Weather
+OL,14,G2230FRegional News
+OL,15,G2240FPretty Woman
+OL,16,     GAn emotionally detached
+OL,17,     Gbusinessman hires a prostitute
+OL,18,     Gto be his companion for a week.
+OL,19,     GContains some strong language
+OL,20,     Gand some scenes of a sexual
+OL,21,     Gnature.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,28 +77,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700243909
+OL,0,        ECIMSBWebfax     F698A1700247520
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 17 NOV
-OL,4,G1715FFlog It!
-OL,5,     GFlog It! comes from the
-OL,6,     GUniversity of Nottingham.
-OL,7,     GCharles Hanson and Michael
-OL,8,     GBaggott look out for objects to
-OL,9,     Gtake to auction, and Paul learns
-OL,10,     Gabout Nottingham boxer Bendigo.
-OL,11,G1800FRichard Osman's House of Games
-OL,12,     GToussaint Douglass, Mark Foster,
-OL,13,     GSheree Murphy and Sian Williams
-OL,14,     Gtest their general knowledge
-OL,15,     Gskills on this week's House of
-OL,16,     GGames.
-OL,17,G1830FStrictly - It Takes Two
-OL,18,     GJanette Manrara is on hand with
-OL,19,     Gmore exclusives ahead of the
-OL,20,     GBlackpool Extravaganza.
+OL,4,G1830FStrictly - It Takes Two
+OL,5,     GJanette Manrara is on hand with
+OL,6,     Gmore exclusives ahead of the
+OL,7,     GBlackpool Extravaganza.
+OL,8,G1900FVillages by the Sea: Beer
+OL,9,     GBen Robinson heads to Beer,
+OL,10,     GDevon, home to beer stone, which
+OL,11,     Ghas been quarried since Roman
+OL,12,     Gtimes and used in many of
+OL,13,     GEngland's cathedrals and iconic
+OL,14,     Gbuildings.
+OL,15,G1930FBeechgrove Garden in Winter
+OL,16,     GGeorge Anderson and Carole
+OL,17,     GBaxter tackle viewers' questions
+OL,18,     Gfrom Beechgrove Garden, and
+OL,19,     Gthere's a visit to father and
+OL,20,     Gdaughter gardeners Erin and Joe
+OL,21,     GArmstrong.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -107,86 +107,81 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700243909
+OL,0,        ECIMSBWebfax     F698A1700247520
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 17 NOV
-OL,4,G1700FThe Chase
-OL,5,     GTony from Cheshire, Steve from
-OL,6,     GSunderland, Thor from Essex, and
-OL,7,     GNatasha from Kettering, take on
-OL,8,     Gone of the country's finest quiz
-OL,9,     Gbrains. Hosted by Bradley Walsh.
-OL,10,G1800FRegional News
-OL,11,G1830FITV Evening News
-OL,12,G1930FEmmerdale
-OL,13,     GPressure builds for Mack, Kim
-OL,14,     Gheads to see Cain, and Jimmy and
-OL,15,     GNicola make secret plans.
-OL,16,G2000FCoronation Street
-OL,17,     GSean puts a stop to Dylan and
-OL,18,     GMason's vape enterprise, Jenny
-OL,19,     Greceives a sad update on the
-OL,20,     Gfuture of the Rovers, and Amy's
-OL,21,     Gvigilance saves a woman from a
-OL,22,     Gdangerous drink-spiker.
+OL,4,G1830FITV Evening News
+OL,5,G1930FEmmerdale
+OL,6,     GPressure builds for Mack, Kim
+OL,7,     Gheads to see Cain, and Jimmy and
+OL,8,     GNicola make secret plans.
+OL,9,G2000FCoronation Street
+OL,10,     GSean puts a stop to Dylan and
+OL,11,     GMason's vape enterprise, Jenny
+OL,12,     Greceives a sad update on the
+OL,13,     Gfuture of the Rovers, and Amy's
+OL,14,     Gvigilance saves a woman from a
+OL,15,     Gdangerous drink-spiker.
+OL,16,G2100FBig Brother: Live Final
+OL,17,     GBig Brother reaches its climax
+OL,18,     Gin the house - which housemate
+OL,19,     Gwill walk away with the 100,000-
+OL,20,     Gpound prize? You decide!
+OL,21,G2230FITV News
+OL,22,G2300FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700243909
+OL,0,        ECIMSBWebfax     F698A1700247520
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 17 NOV
-OL,4,G1700FHelp! We Bought a Village
-OL,5,     GThe new series continues. A
-OL,6,     Gcouple in France try to finish
-OL,7,     Gtheir gite renovation before
-OL,8,     Gguests arrive, and a village
-OL,9,     Gsaviour in Spain prepares to
-OL,10,     Gwelcome his very first guests.
-OL,11,G1800FChannel 4 News
-OL,12,     GChannel 4's flagship news
-OL,13,     Gprogramme. Including the weather.
-OL,14,G1900FLive England Football: England v
-OL,15,     FMalta
-OL,16,     GJules Breach presents live
-OL,17,     Gcoverage of England's Euro 2024
-OL,18,     Gqualifier against Malta at
-OL,19,     GWembley. The Three Lions just
-OL,20,     Gneed one point to guarantee top
-OL,21,     Gspot in Group C...
+OL,4,G1800FChannel 4 News
+OL,5,     GChannel 4's flagship news
+OL,6,     Gprogramme. Including the weather.
+OL,7,G1900FLive England Football: England v
+OL,8,     FMalta
+OL,9,     GJules Breach presents live
+OL,10,     Gcoverage of England's Euro 2024
+OL,11,     Gqualifier against Malta at
+OL,12,     GWembley. The Three Lions just
+OL,13,     Gneed one point to guarantee top
+OL,14,     Gspot in Group C...
+OL,15,G2200FGogglebox
+OL,16,     GThe Goggleboxers have been
+OL,17,     Gwatching The Crown, Survivor,
+OL,18,     G007: Road to a Million, The Good
+OL,19,     GShip Murder, Shoplifters: Caught
+OL,20,     GRed Handed, and ITV News .
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@oD@Mst
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700243909
+OL,0,        ECIMSBWebfax     F698A1700247520
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 17 NOV
-OL,4,G1700F5 News at 5
-OL,5,     GJoin Dan Walker and the team for
-OL,6,     Gthe news that matters to you.
-OL,7,G1800FDogs Behaving (Very) Badly
-OL,8,     GA family's third pointer proves
-OL,9,     Gto be a disruptive influence
-OL,10,     Gleading the other two astray,
-OL,11,     Gand a Retriever has an obsession
-OL,12,     Gwith bins. Can master dog
-OL,13,     Gtrainer Graeme Hall restore
-OL,14,     Gorder?
-OL,15,G1900FShop Smart, Save Money
-OL,16,     GAngellica Bell and Ortis Deley
-OL,17,     Ghelp mum Danielle and her
-OL,18,     Gdaughters to live in a more
-OL,19,     Genvironmentally-friendly way
-OL,20,     Gwith products that minimise
-OL,21,     Genergy wastage and reduce
-OL,22,     Gutility bills.
+OL,4,G1800FDogs Behaving (Very) Badly
+OL,5,     GA family's third pointer proves
+OL,6,     Gto be a disruptive influence
+OL,7,     Gleading the other two astray,
+OL,8,     Gand a Retriever has an obsession
+OL,9,     Gwith bins. Can master dog
+OL,10,     Gtrainer Graeme Hall restore
+OL,11,     Gorder?
+OL,12,G1900FShop Smart, Save Money
+OL,13,     GAngellica Bell and Ortis Deley
+OL,14,     Ghelp mum Danielle and her
+OL,15,     Gdaughters to live in a more
+OL,16,     Genvironmentally-friendly way
+OL,17,     Gwith products that minimise
+OL,18,     Genergy wastage and reduce
+OL,19,     Gutility bills.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
