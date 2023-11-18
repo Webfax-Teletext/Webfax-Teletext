@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700283658
+OL,0,        ECIMSBWebfax     F698A1700287274
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700283658
+OL,0,        ECIMSBWebfax     F698A1700287274
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,26 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700283658
+OL,0,        ECIMSBWebfax     F698A1700287274
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 17 NOV
-OL,4,G0140FBBC News
+OL,3,CProgramme listings for SAT 18 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GMatt Tebbutt is joined by chefs
+OL,10,     GNathan Outlaw and Julie Lin plus
+OL,11,     Gspecial guest Michael Ball.
+OL,12,     GDrinks expert Helen McGinn picks
+OL,13,     Gthe wines to go with the studio
+OL,14,     Gdishes.
+OL,15,G1130FMary Makes It Easy
+OL,16,     GMary teaches Anton Du Beke mouth-
+OL,17,     Gwatering recipes that are
+OL,18,     Gperfect for a total beginner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +74,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700283658
+OL,0,        ECIMSBWebfax     F698A1700287274
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 17 NOV
+OL,3,CProgramme listings for SAT 18 NOV
 OL,4,G0300FThis is BBC Two
+OL,5,G0615FHey Duggee
+OL,6,     GThe Music Video Badge. The
+OL,7,     GSquirrels have made a song but
+OL,8,     Gwish they could watch their
+OL,9,     Gperformance.
+OL,10,G0620FHey Duggee
+OL,11,     GThe Exercise Badge. Duggee and
+OL,12,     Gthe Squirrels set off on a warm-
+OL,13,     Gup run together. The Squirrels
+OL,14,     Gare feeling sleepy, but they are
+OL,15,     Gtold that a bit of exercise will
+OL,16,     Gwake them up!
+OL,17,G0630FSupertato
+OL,18,     GDa Veggie Code. Supertato needs
+OL,19,     Ghis Tato belt, but it's locked
+OL,20,     Ginside a glass case and he can't
+OL,21,     Gget it out.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,71 +104,75 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700283658
+OL,0,        ECIMSBWebfax     F698A1700287274
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 17 NOV
-OL,4,G0355FUnwind With ITV
-OL,5,     GYour daily escape designed to
-OL,6,     Gcalm the mind and encourage
-OL,7,     Grelaxation and reflection.
-OL,8,G0505FMade in Britain
-OL,9,     GA look at double glazing at a
-OL,10,     GUPVC recycling plant, the
-OL,11,     Gancient art of milling for a
-OL,12,     GWelsh bara brith, Sheffield
-OL,13,     Gsteel for Olympic ice skates,
-OL,14,     Gand a craftsman making banjos.
+OL,3,CProgramme listings for SAT 18 NOV
+OL,4,G0600FLove Your Garden
+OL,5,     GNottingham, Fiona: In this
+OL,6,     Gepisode, Alan Titchmarsh
+OL,7,     Gsurprises young foster parent
+OL,8,     Gand mother of two Fiona Kirlew
+OL,9,     Gby turning her dismal paved-over
+OL,10,     Gyard into a lush Caribbean haven.
+OL,11,G0630FLove Your Garden
+OL,12,     GGrassmoor: Alan Titchmarsh and
+OL,13,     Ghis team head to Derbyshire to
+OL,14,     Gbuild an exciting garden for
+OL,15,     Gsprightly D-Day veteran Jack
+OL,16,     GParrott and his wife of 68 years
+OL,17,     GMargaret.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700283658
+OL,0,        ECIMSBWebfax     F698A1700287274
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 17 NOV
-OL,4,G0450FCome Dine with Me
-OL,5,     GBelfast area. DJ and events
-OL,6,     Gorganiser Ryan hosts an evening
-OL,7,     Gof fun, with a hipster band
-OL,8,     Gplaying in his living room and
-OL,9,     Gseveral crises in the kitchen.
-OL,10,G0515FCome Dine with Me
-OL,11,     GBelfast area. Final host Cailin
-OL,12,     Gthrows a Eurovision
-OL,13,     Gextravaganza, with dishes from
-OL,14,     Gacross Europe and full-on fancy
-OL,15,     Gdress. Can she walk away with
-OL,16,     Gthe money, money, money?
+OL,3,CProgramme listings for SAT 18 NOV
+OL,4,G0540FStrangers on a Plane
+OL,5,     GOn the second day in Porto, Lou
+OL,6,     Gfrom Doncaster takes the gang
+OL,7,     Goff-roading in dirt buggies.
+OL,8,     GIt's an all-action, adrenaline-
+OL,9,     Gfuelled activity, but not
+OL,10,     Geveryone has the stomach for it.
+OL,11,G0605FThe King of Queens
+OL,12,     GThe Shmenkmans: Doug and Carrie
+OL,13,     Gare torn between their new
+OL,14,     Gfriends and their best friends.
+OL,15,G0630FThe King of Queens
+OL,16,     GSurprise Artie: Doug almost
+OL,17,     Gwrecks Carrie's plans for
+OL,18,     GArthur's surprise 75th birthday
+OL,19,     Gparty.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700283658
+OL,0,        ECIMSBWebfax     F698A1700287274
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 17 NOV
-OL,4,G0500FHouse Doctor
-OL,5,     GHome-improvement series.
-OL,6,     GCalifornian interior designer
-OL,7,     GAnn Maurice and Alistair
-OL,8,     GAppleton turn their attention to
-OL,9,     Ga flat in Glasgow.
-OL,10,G0520FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the
-OL,13,     Gworld, focusing on celebrities,
-OL,14,     Gmovies, music and entertainment.
-OL,15,G0530FMilkshake! Monkey Amazing
-OL,16,     FAdventures
-OL,17,     GMilkshake! Monkey travels to
-OL,18,     GDevon and the Peak District to
-OL,19,     Glearn all about rivers. The
-OL,20,     GMilkshakers! make a giant river
-OL,21,     Gpicture.
+OL,3,CProgramme listings for SAT 18 NOV
+OL,4,G0600FPeppa Pig
+OL,5,     GPeppa and George help Grandpa
+OL,6,     GPig to make a scarecrow to stop
+OL,7,     Gthe birds eating the flower
+OL,8,     Gseeds.
+OL,9,G0605FBlue's Clues & You
+OL,10,     GBlue plays a game to figure out
+OL,11,     Gwhat the surprise is, and along
+OL,12,     Gthe way, they make shapes in the
+OL,13,     Gsnow with friends and sing a
+OL,14,     Gsnow day song.
+OL,15,G0625FSesame Street Mecha Builders
+OL,16,     GRoof is delivering eggs to
+OL,17,     GMarwyn at the Train Station,
+OL,18,     Guntil the train pulls into the
+OL,19,     Gstation and can't stop!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
