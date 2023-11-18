@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700308961
+OL,0,        ECIMSBWebfax     F698A1700312574
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700308961
+OL,0,        ECIMSBWebfax     F698A1700312574
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700308961
+OL,0,        ECIMSBWebfax     F698A1700312574
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 NOV
-OL,4,G1200FFootball Focus
-OL,5,     GAnalysis of the week's Euro 2024
-OL,6,     Gqualifiers, with Wales needing
-OL,7,     Gback-to-back victories against
-OL,8,     GArmenia and Turkey to guarantee
-OL,9,     Gthey join England and Scotland
-OL,10,     Gat the finals.
-OL,11,G1230FBargain Hunt
-OL,12,     GCharlie Ross presents this
-OL,13,     Gepisode from the National
-OL,14,     GBotanic Garden of Wales, where
-OL,15,     Gthe teams will be kept in check
-OL,16,     Gby experts Nick Hall and Gary Pe.
-OL,17,G1300FBBC News
-OL,18,G1310FWeather
+OL,4,G1300FBBC News
+OL,5,G1310FWeather
+OL,6,G1315FMOTD Live Women's Super League:
+OL,7,     FChelsea v Liverpool
+OL,8,     GCoverage of the Women's Super
+OL,9,     GLeague clash between Chelsea and
+OL,10,     GLiverpool.
+OL,11,G1545FEscape to the Country
+OL,12,     GThe owners of six Irish
+OL,13,     Gwolfhounds look for a property
+OL,14,     Gin Suffolk with a bit more space.
+OL,15,G1645FGarden Rescue
+OL,16,     GAdam and Frederique in Bracknell
+OL,17,     Gwant their front garden to be an
+OL,18,     Gupcycled, child-friendly eco
+OL,19,     Gparadise with vegetable beds.
+OL,20,     GCan Charlie and the Rich
+OL,21,     Gbrothers do it for #3,000?
+OL,22,G1730FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,30 +78,24 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700308961
+OL,0,        ECIMSBWebfax     F698A1700312574
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 NOV
-OL,4,G1200FMy Million Pound Menu
-OL,5,     GThree new restaurant ideas
-OL,6,     Gbattle for a life-changing
-OL,7,     Ginvestment - an Indian burger
-OL,8,     Gstall, a Thai concept and an
-OL,9,     GIndian-Nepalese pop-up.
-OL,10,G1300FIce Station Zebra
-OL,11,     GTense Cold War action drama. A
-OL,12,     GUS submarine is dispatched to
-OL,13,     Gthe frozen waters of the North
-OL,14,     GPole to recover a Soviet spy
-OL,15,     Gsatellite.
-OL,16,G1520FAustralasia: Our Wild Adventures
-OL,17,     GWe take a trip through the
-OL,18,     Gnatural history archives with
-OL,19,     Gsome of the BBC's favourite
-OL,20,     Gwildlife presenters as they
-OL,21,     Gshare their most memorable
-OL,22,     Gadventures across Australasia.
+OL,4,G1300FIce Station Zebra
+OL,5,     GTense Cold War action drama. A
+OL,6,     GUS submarine is dispatched to
+OL,7,     Gthe frozen waters of the North
+OL,8,     GPole to recover a Soviet spy
+OL,9,     Gsatellite.
+OL,10,G1520FAustralasia: Our Wild Adventures
+OL,11,     GWe take a trip through the
+OL,12,     Gnatural history archives with
+OL,13,     Gsome of the BBC's favourite
+OL,14,     Gwildlife presenters as they
+OL,15,     Gshare their most memorable
+OL,16,     Gadventures across Australasia.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -105,32 +103,33 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700308961
+OL,0,        ECIMSBWebfax     F698A1700312574
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 NOV
-OL,4,G1130FAinsley's Mediterranean Cookbook
-OL,5,     GSardinia - Olbia: Ainsley
-OL,6,     GHarriott invites us on a tour of
-OL,7,     Gthe Mediterranean - in this
-OL,8,     Gepisode, Ainsley's Mediterranean
-OL,9,     Gexploration continues on the
-OL,10,     GItalian island of Sardinia.
-OL,11,G1230FJames Martin's Great British
-OL,12,     FAdventure
-OL,13,     GLaverstoke and Goodwood: James
-OL,14,     Gis bringing his culinary tour of
-OL,15,     Gthe UK to his neck of the woods
-OL,16,     Gas he spends precious time in
-OL,17,     Ghis adopted home county of
-OL,18,     GHampshire.
+OL,4,G1300FITV Lunchtime News
+OL,5,     GThe latest headlines from around
+OL,6,     Gthe world at lunchtime with
+OL,7,     Greports and analysis from ITV's
+OL,8,     GCorrespondents, all of which are
+OL,9,     Gfollowed by a national weather
+OL,10,     Gforecast.
+OL,11,G1315FITV Racing: Live from Cheltenham
+OL,12,     GEd Chamberlin presents coverage
+OL,13,     Gof top-class Flat action from
+OL,14,     GLingfield and jumps racing from
+OL,15,     GCheltenham, where the highlight
+OL,16,     Gof its feature meeting is the
+OL,17,     GPaddy Power Gold Cup.
+OL,18,G1545FITV Evening News
+OL,19,G1555FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700308961
+OL,0,        ECIMSBWebfax     F698A1700312574
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -156,28 +155,28 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700308961
+OL,0,        ECIMSBWebfax     F698A1700312574
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 NOV
-OL,4,G1200FFriends
-OL,5,     G...Dinner. Phoebe plans to
-OL,6,     Gcelebrate her birthday with her
-OL,7,     Gfriends at a fancy restaurant.
-OL,8,     GBut everybody is late to the
-OL,9,     Gdinner, due to a series of
-OL,10,     Gproblems.
-OL,11,G1230FA Very Merry Bridesmaid
-OL,12,     GLeah's 30th birthday lands on
-OL,13,     Gthe same day as her brother's
-OL,14,     Gwedding. Her childhood crush is
-OL,15,     Gin town for the wedding and sets
-OL,16,     Gout to make sure her birthday
-OL,17,     Gdoes not fall by the wayside.
-OL,18,G1335FEntertainment News on 5
-OL,19,     GA daily round-up of showbiz news
-OL,20,     Gand gossip from around the
-OL,21,     Gworld, focusing on celebrities,
-OL,22,     Gmovies, music and entertainment.
+OL,4,G1230FA Very Merry Bridesmaid
+OL,5,     GLeah's 30th birthday lands on
+OL,6,     Gthe same day as her brother's
+OL,7,     Gwedding. Her childhood crush is
+OL,8,     Gin town for the wedding and sets
+OL,9,     Gout to make sure her birthday
+OL,10,     Gdoes not fall by the wayside.
+OL,11,G1335FEntertainment News on 5
+OL,12,     GA daily round-up of showbiz news
+OL,13,     Gand gossip from around the
+OL,14,     Gworld, focusing on celebrities,
+OL,15,     Gmovies, music and entertainment.
+OL,16,G1340FA Very Merry Bridesmaid
+OL,17,     GLeah's 30th birthday lands on
+OL,18,     Gthe same day as her brother's
+OL,19,     Gwedding. Her childhood crush is
+OL,20,     Gin town for the wedding and sets
+OL,21,     Gout to make sure her birthday
+OL,22,     Gdoes not fall by the wayside.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
