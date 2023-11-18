@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700312574
+OL,0,        ECIMSBWebfax     F698A1700316188
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700312574
+OL,0,        ECIMSBWebfax     F698A1700316188
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700312574
+OL,0,        ECIMSBWebfax     F698A1700316188
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 NOV
-OL,4,G1300FBBC News
-OL,5,G1310FWeather
-OL,6,G1315FMOTD Live Women's Super League:
-OL,7,     FChelsea v Liverpool
-OL,8,     GCoverage of the Women's Super
-OL,9,     GLeague clash between Chelsea and
-OL,10,     GLiverpool.
-OL,11,G1545FEscape to the Country
-OL,12,     GThe owners of six Irish
-OL,13,     Gwolfhounds look for a property
-OL,14,     Gin Suffolk with a bit more space.
-OL,15,G1645FGarden Rescue
-OL,16,     GAdam and Frederique in Bracknell
-OL,17,     Gwant their front garden to be an
-OL,18,     Gupcycled, child-friendly eco
-OL,19,     Gparadise with vegetable beds.
-OL,20,     GCan Charlie and the Rich
-OL,21,     Gbrothers do it for #3,000?
-OL,22,G1730FBBC News
+OL,4,G1315FMOTD Live Women's Super League:
+OL,5,     FChelsea v Liverpool
+OL,6,     GCoverage of the Women's Super
+OL,7,     GLeague clash between Chelsea and
+OL,8,     GLiverpool.
+OL,9,G1545FEscape to the Country
+OL,10,     GThe owners of six Irish
+OL,11,     Gwolfhounds look for a property
+OL,12,     Gin Suffolk with a bit more space.
+OL,13,G1645FGarden Rescue
+OL,14,     GAdam and Frederique in Bracknell
+OL,15,     Gwant their front garden to be an
+OL,16,     Gupcycled, child-friendly eco
+OL,17,     Gparadise with vegetable beds.
+OL,18,     GCan Charlie and the Rich
+OL,19,     Gbrothers do it for #3,000?
+OL,20,G1730FBBC News
+OL,21,G1745FRegional News
+OL,22,G1750FWeather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,7 +78,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700312574
+OL,0,        ECIMSBWebfax     F698A1700316188
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -103,80 +103,73 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700312574
+OL,0,        ECIMSBWebfax     F698A1700316188
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 NOV
-OL,4,G1300FITV Lunchtime News
-OL,5,     GThe latest headlines from around
-OL,6,     Gthe world at lunchtime with
-OL,7,     Greports and analysis from ITV's
-OL,8,     GCorrespondents, all of which are
-OL,9,     Gfollowed by a national weather
-OL,10,     Gforecast.
-OL,11,G1315FITV Racing: Live from Cheltenham
-OL,12,     GEd Chamberlin presents coverage
-OL,13,     Gof top-class Flat action from
-OL,14,     GLingfield and jumps racing from
-OL,15,     GCheltenham, where the highlight
-OL,16,     Gof its feature meeting is the
-OL,17,     GPaddy Power Gold Cup.
-OL,18,G1545FITV Evening News
-OL,19,G1555FRegional News
+OL,4,G1315FITV Racing: Live from Cheltenham
+OL,5,     GEd Chamberlin presents coverage
+OL,6,     Gof top-class Flat action from
+OL,7,     GLingfield and jumps racing from
+OL,8,     GCheltenham, where the highlight
+OL,9,     Gof its feature meeting is the
+OL,10,     GPaddy Power Gold Cup.
+OL,11,G1545FITV Evening News
+OL,12,G1555FRegional News
+OL,13,G1605FMamma Mia! I Have A Dream
+OL,14,     GJudges Alan Carr, Jessie Ware,
+OL,15,     GSamantha Barks and Amber Riley
+OL,16,     Gpair up our Sophies and Skys for
+OL,17,     Gthe very first time, and there
+OL,18,     Gis some shock elimination news
+OL,19,     Gfor the performers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700312574
+OL,0,        ECIMSBWebfax     F698A1700316188
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 NOV
-OL,4,G1140FF1 Las Vegas GP Qualifying
-OL,5,     FHighlights
-OL,6,     GThe world's fastest drivers in
-OL,7,     Gthe world's fastest city. F1
-OL,8,     Ghits Las Vegas for the first
-OL,9,     Gtime with a circuit that
-OL,10,     Gpromises entertainment and
-OL,11,     Gaction both on and off the track.
-OL,12,G1310FFour in a Bed
-OL,13,     GThe first visit is to Bowlees
-OL,14,     GFarm Holiday Cottages in County
-OL,15,     GDurham, run by Tony and Viv
-OL,16,     GSmith. Their guests love the
-OL,17,     Gviews, pool and hot tubs, but
-OL,18,     Gwill they pay top dollar for
-OL,19,     Gtheir stay?
+OL,4,G1340FFour in a Bed
+OL,5,     GJohn and Leslie host at The
+OL,6,     GPiebald Inn in Hunmanby, North
+OL,7,     GYorkshire. After a visit to a
+OL,8,     Gmodel village, will their
+OL,9,     Gguests' mixed reviews leave a
+OL,10,     Gbitter taste?
+OL,11,G1410FFour in a Bed
+OL,12,     GJane and Rachel welcome their
+OL,13,     Grivals to Stoneleigh House Hotel
+OL,14,     Gin Buckingham. Things seem to be
+OL,15,     Ggoing well - until they forget
+OL,16,     Gtheir guests' names...
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700312574
+OL,0,        ECIMSBWebfax     F698A1700316188
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 NOV
-OL,4,G1230FA Very Merry Bridesmaid
+OL,4,G1340FA Very Merry Bridesmaid
 OL,5,     GLeah's 30th birthday lands on
 OL,6,     Gthe same day as her brother's
 OL,7,     Gwedding. Her childhood crush is
 OL,8,     Gin town for the wedding and sets
 OL,9,     Gout to make sure her birthday
 OL,10,     Gdoes not fall by the wayside.
-OL,11,G1335FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the
-OL,14,     Gworld, focusing on celebrities,
-OL,15,     Gmovies, music and entertainment.
-OL,16,G1340FA Very Merry Bridesmaid
-OL,17,     GLeah's 30th birthday lands on
-OL,18,     Gthe same day as her brother's
-OL,19,     Gwedding. Her childhood crush is
-OL,20,     Gin town for the wedding and sets
-OL,21,     Gout to make sure her birthday
-OL,22,     Gdoes not fall by the wayside.
+OL,11,G1420FChristmas at Castle Hart
+OL,12,     GBrooke goes to Ireland for
+OL,13,     GChristmas to search for her
+OL,14,     GIrish roots. While there, she
+OL,15,     Gmeets Aiden. Mistaken for an
+OL,16,     Gelite event planner, she's hired
+OL,17,     Gto host his castle's Christmas
+OL,18,     Gparty.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
