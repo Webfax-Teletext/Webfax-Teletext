@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700431800
+OL,0,        ECIMSBWebfax     F698A1700435410
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700431800
+OL,0,        ECIMSBWebfax     F698A1700435410
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700431800
+OL,0,        ECIMSBWebfax     F698A1700435410
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G2200FBBC News and Weather
-OL,5,G2225FRegional News
-OL,6,G2230FLegend
-OL,7,     GThe rise and decline of the Kray
-OL,8,     Gtwins, London's most legendary
-OL,9,     Ggangsters. Contains very strong
-OL,10,     Glanguage and scenes of sexual
-OL,11,     Gviolence.
-OL,12,G0035FThe Women's Football Show
-OL,13,     GHighlights from the weekend's
-OL,14,     GBarclays Women's Super League
-OL,15,     Gmatches as Manchester United
-OL,16,     Ghost Manchester City, Arsenal
-OL,17,     Gtravel to Brighton and Chelsea
-OL,18,     Gwelcome Liverpool.
+OL,4,G2230FLegend
+OL,5,     GThe rise and decline of the Kray
+OL,6,     Gtwins, London's most legendary
+OL,7,     Ggangsters. Contains very strong
+OL,8,     Glanguage and scenes of sexual
+OL,9,     Gviolence.
+OL,10,G0035FThe Women's Football Show
+OL,11,     GHighlights from the weekend's
+OL,12,     GBarclays Women's Super League
+OL,13,     Gmatches as Manchester United
+OL,14,     Ghost Manchester City, Arsenal
+OL,15,     Gtravel to Brighton and Chelsea
+OL,16,     Gwelcome Liverpool.
+OL,17,G0120FMOTD Top Ten: Dutch Players
+OL,18,     GGary and the team discuss the
+OL,19,     Gbest players from the
+OL,20,     GNetherlands in the Premier
+OL,21,     GLeague.
+OL,22,G0155FWeather for the Week Ahead
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,7 +78,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700431800
+OL,0,        ECIMSBWebfax     F698A1700435410
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -105,76 +109,74 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700431800
+OL,0,        ECIMSBWebfax     F698A1700435410
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G2100FI'm A Celebrity... Get Me...
-OL,5,     GOut Of Here! The show returns as
-OL,6,     Ga fresh batch of celebrities
-OL,7,     Greside in Australia's jungle and
-OL,8,     Gtake part in trials and
-OL,9,     Gchallenges in the hope of being
-OL,10,     Gcrowned King or Queen.
-OL,11,G2245FITV News
-OL,12,G2305FSorry, I Didn't Know
-OL,13,     GKae Kurd, Kiri Pritchard-McLean,
-OL,14,     GOti Mabuse and Jordan Stephens
-OL,15,     Gjoin team leaders Chizzy Akudolu
-OL,16,     Gand Eddie Kadi to take viewers
-OL,17,     Gon a tour of Black British
-OL,18,     Ghistory.
+OL,4,G2305FSorry, I Didn't Know
+OL,5,     GKae Kurd, Kiri Pritchard-McLean,
+OL,6,     GOti Mabuse and Jordan Stephens
+OL,7,     Gjoin team leaders Chizzy Akudolu
+OL,8,     Gand Eddie Kadi to take viewers
+OL,9,     Gon a tour of Black British
+OL,10,     Ghistory.
+OL,11,G2335FGallagher Premiership Rugby
+OL,12,     FHighlights
+OL,13,     GAll the action from Round Six of
+OL,14,     Gthe 2023-24 Gallagher
+OL,15,     GPremiership - and the first-ever
+OL,16,     GDerby Day weekend - that
+OL,17,     Gincludes Bath facing the Bristol
+OL,18,     GBears.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700431800
+OL,0,        ECIMSBWebfax     F698A1700435410
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G2200FGogglebox
-OL,5,     GThe Goggleboxers have been
-OL,6,     Gwatching The Crown, Survivor,
-OL,7,     G007: Road to a Million, The Good
-OL,8,     GShip Murder, Shoplifters: Caught
-OL,9,     GRed Handed, and ITV News .
-OL,10,G2255FGogglebox
-OL,11,     GBob Mortimer, Richard Ayoade,
-OL,12,     GJennifer Saunders, Stephen
-OL,13,     GGraham and Hannah Walters join
-OL,14,     Gthe Goggleboxers for Survivor,
-OL,15,     GPlanet Earth III, Teen First
-OL,16,     GDates and loads more top TV.
+OL,4,G2255FGogglebox
+OL,5,     GBob Mortimer, Richard Ayoade,
+OL,6,     GJennifer Saunders, Stephen
+OL,7,     GGraham and Hannah Walters join
+OL,8,     Gthe Goggleboxers for Survivor,
+OL,9,     GPlanet Earth III, Teen First
+OL,10,     GDates and loads more top TV.
+OL,11,G2355FThe Mountain Between Us
+OL,12,     GKate Winslet and Idris Elba star
+OL,13,     Gin this action adventure as two
+OL,14,     Gstrangers who must work together
+OL,15,     Gto survive extreme conditions
+OL,16,     Gafter their charter plane
+OL,17,     Gcrashes in the mountains.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700431800
+OL,0,        ECIMSBWebfax     F698A1700435410
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G2100FJFK Assassination: What...
-OL,5,     GHappened in the Trauma Room.
-OL,6,     GSixty years on, a reunion takes
-OL,7,     Gplace of seven doctors who were
-OL,8,     Gat the hospital where John F
-OL,9,     GKennedy was taken after the
-OL,10,     Gshooting, raising disturbing new
-OL,11,     Gdoubts.
-OL,12,G2255FAdults Only: Cam Girl
-OL,13,     FMillionaires
-OL,14,     GThis insightful documentary into
-OL,15,     Gthe more unconventional side of
-OL,16,     Gsex focuses on "webcamming".
-OL,17,G2355FAdults Only: An Orgasm A Day
-OL,18,     GMeet the women on a mission to
-OL,19,     Gimprove the number of people
-OL,20,     Gable to genuinely attain the
-OL,21,     Gultimate symbol of sexual
-OL,22,     Gsatisfaction.
+OL,4,G2255FAdults Only: Cam Girl
+OL,5,     FMillionaires
+OL,6,     GThis insightful documentary into
+OL,7,     Gthe more unconventional side of
+OL,8,     Gsex focuses on "webcamming".
+OL,9,G2355FAdults Only: An Orgasm A Day
+OL,10,     GMeet the women on a mission to
+OL,11,     Gimprove the number of people
+OL,12,     Gable to genuinely attain the
+OL,13,     Gultimate symbol of sexual
+OL,14,     Gsatisfaction.
+OL,15,G0055FICC Cricket World Cup Final
+OL,16,     GHosts India take on the five-
+OL,17,     Gtimes champions Australia in the
+OL,18,     GICC Cricket World Cup Final in
+OL,19,     GAhmedabad.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
