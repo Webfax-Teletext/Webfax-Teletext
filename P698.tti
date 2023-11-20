@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700489603
+OL,0,        ECIMSBWebfax     F698A1700493215
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700489603
+OL,0,        ECIMSBWebfax     F698A1700493215
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,25 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700489603
+OL,0,        ECIMSBWebfax     F698A1700493215
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G1345FDoctors
-OL,5,     GScarlett is annoyed by Luca's
-OL,6,     Gunwelcome advice. Al is
-OL,7,     Gdetermined to face his fear, but
-OL,8,     Gthings don't go as planned. And
-OL,9,     GNina has a run-in with some
-OL,10,     Gbirth strikers.
-OL,11,G1415FThe Bidding Room
-OL,12,     GNigel Havers hosts as five
-OL,13,     Gdealers battle each other to buy
-OL,14,     Gitems brought in by the public,
-OL,15,     Gincluding a horse-racing game, a
-OL,16,     Gsilver tea set and a 1970s
-OL,17,     Gminiature farmyard.
+OL,4,G1500FEscape to the Country
+OL,5,     GMissing family and the great
+OL,6,     GBritish countryside, today's
+OL,7,     Gcouple are heading home to
+OL,8,     GWarwickshire having spent the
+OL,9,     Glast six years living and
+OL,10,     Gworking in the USA.
+OL,11,G1545FAntiques Road Trip
+OL,12,     GJewellery expert Izzie Balmer
+OL,13,     Gand design whizz Mark Hill head
+OL,14,     Gto Wales for the start of a new
+OL,15,     Gtrip in Pembrokeshire. Magic
+OL,16,     Gtricks and a folding cake stand
+OL,17,     Ghead to auction.
+OL,18,G1630FThe Repair Shop
+OL,19,     GJay Blades and the team restore
+OL,20,     Ga radio-controlled model yacht,
+OL,21,     Ga garden urn and a World War I
+OL,22,     Gpilot's hat.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -73,30 +78,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700489603
+OL,0,        ECIMSBWebfax     F698A1700493215
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G1345FLightning
-OL,5,     GComedian Zoe Lyons hosts the
-OL,6,     Gquickfire quiz where six plucky
-OL,7,     Gcontestants must stay out of the
-OL,8,     Glight to be alright. Can anyone
-OL,9,     Gbeat the lightning and win the
-OL,10,     G#3,000 jackpot?
-OL,11,G1415FAnton & Giovanni's Adventures in
-OL,12,     FSicily
-OL,13,     GStrictly's Anton Du Beke and
-OL,14,     GGiovanni Pernice begin their
-OL,15,     Gtour of Sicily.
-OL,16,G1515FOceans: Indian Ocean Coastal
-OL,17,     FWaters
-OL,18,     GThe team explores the coastal
-OL,19,     Gwaters of the Indian Ocean to
-OL,20,     Gdiscover what happens when this
-OL,21,     Gpowerful ocean collides with the
-OL,22,     Gedge of a continent.
+OL,4,G1415FAnton & Giovanni's Adventures in
+OL,5,     FSicily
+OL,6,     GStrictly's Anton Du Beke and
+OL,7,     GGiovanni Pernice begin their
+OL,8,     Gtour of Sicily.
+OL,9,G1515FOceans: Indian Ocean Coastal
+OL,10,     FWaters
+OL,11,     GThe team explores the coastal
+OL,12,     Gwaters of the Indian Ocean to
+OL,13,     Gdiscover what happens when this
+OL,14,     Gpowerful ocean collides with the
+OL,15,     Gedge of a continent.
+OL,16,G1615FThis Farming Life
+OL,17,     GKirsty tackles her first breach
+OL,18,     Gbirth. Stevie's pygmy goat
+OL,19,     GGinger's worryingly overdue.
+OL,20,     GRaymond's cows run amok and the
+OL,21,     GRodgers take young heifer Nadia
+OL,22,     Gto Balmoral Show.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,62 +109,56 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700489603
+OL,0,        ECIMSBWebfax     F698A1700493215
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G1400FJames Martin's French Adventure
-OL,5,     GSt Tropez: James's journey
-OL,6,     Gthrough France leads him to the
-OL,7,     Gglamour of St Tropez, where he
-OL,8,     Gexplores its seafood market and
-OL,9,     Gdrops in on old friend Michel
-OL,10,     GRoux to cook for him.
-OL,11,G1500FThe Chase: The Bloopers
-OL,12,     GBradley Walsh presents another
-OL,13,     Ground of laughs, gaffs and
-OL,14,     Gouttakes that were never meant
-OL,15,     Gto see the light of day.
-OL,16,G1600FDeal or No Deal
-OL,17,     GDeal or No Deal is back! Join
-OL,18,     Gbrand-new host Stephen Mulhern
-OL,19,     Gas one of the brave contestants
-OL,20,     Gtakes on the infamous Banker
-OL,21,     Gwith the chance of winning a
-OL,22,     Glife-changing cash prize.
+OL,4,G1500FThe Chase: The Bloopers
+OL,5,     GBradley Walsh presents another
+OL,6,     Ground of laughs, gaffs and
+OL,7,     Gouttakes that were never meant
+OL,8,     Gto see the light of day.
+OL,9,G1600FDeal or No Deal
+OL,10,     GDeal or No Deal is back! Join
+OL,11,     Gbrand-new host Stephen Mulhern
+OL,12,     Gas one of the brave contestants
+OL,13,     Gtakes on the infamous Banker
+OL,14,     Gwith the chance of winning a
+OL,15,     Glife-changing cash prize.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700489603
+OL,0,        ECIMSBWebfax     F698A1700493215
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G1410FCountdown
-OL,5,     GColin Murray and Rachel Riley
-OL,6,     Ghost as contestants race against
-OL,7,     Gthe clock to pit their wits
-OL,8,     Gagainst vowels, consonants and
-OL,9,     Gnumbers. Daliso Chaponda joins
-OL,10,     GSusie Dent in Dictionary Corner.
-OL,11,G1500FA Place in the Sun
-OL,12,     GFor years, Gareth and Hannah
-OL,13,     Ghave been trying to no avail to
-OL,14,     Gbuy a holiday home with the
-OL,15,     Gperfect sea views in Salobrena
-OL,16,     Gon Spain's Costa Tropical. Can
-OL,17,     GLeah Charles-King improve their
-OL,18,     Gluck?
+OL,4,G1500FA Place in the Sun
+OL,5,     GFor years, Gareth and Hannah
+OL,6,     Ghave been trying to no avail to
+OL,7,     Gbuy a holiday home with the
+OL,8,     Gperfect sea views in Salobrena
+OL,9,     Gon Spain's Costa Tropical. Can
+OL,10,     GLeah Charles-King improve their
+OL,11,     Gluck?
+OL,12,G1600FA Place in the Sun
+OL,13,     GThe new run continues. Donna
+OL,14,     Gwants her very own bolthole in
+OL,15,     GRoquetas de Mar in Spain. With a
+OL,16,     Gbudget of #70k and help from
+OL,17,     GDonna's friend Savannah, can
+OL,18,     GSara Damergi find her perfect
+OL,19,     Gplace?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@wD@bTw
+OL,26,@pD@bTw
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700489603
+OL,0,        ECIMSBWebfax     F698A1700493215
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
