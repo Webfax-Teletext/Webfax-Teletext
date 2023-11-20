@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700493215
+OL,0,        ECIMSBWebfax     F698A1700496830
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700493215
+OL,0,        ECIMSBWebfax     F698A1700496830
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700493215
+OL,0,        ECIMSBWebfax     F698A1700496830
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G1500FEscape to the Country
-OL,5,     GMissing family and the great
-OL,6,     GBritish countryside, today's
-OL,7,     Gcouple are heading home to
-OL,8,     GWarwickshire having spent the
-OL,9,     Glast six years living and
-OL,10,     Gworking in the USA.
-OL,11,G1545FAntiques Road Trip
-OL,12,     GJewellery expert Izzie Balmer
-OL,13,     Gand design whizz Mark Hill head
-OL,14,     Gto Wales for the start of a new
-OL,15,     Gtrip in Pembrokeshire. Magic
-OL,16,     Gtricks and a folding cake stand
-OL,17,     Ghead to auction.
-OL,18,G1630FThe Repair Shop
-OL,19,     GJay Blades and the team restore
-OL,20,     Ga radio-controlled model yacht,
-OL,21,     Ga garden urn and a World War I
-OL,22,     Gpilot's hat.
+OL,4,G1545FAntiques Road Trip
+OL,5,     GJewellery expert Izzie Balmer
+OL,6,     Gand design whizz Mark Hill head
+OL,7,     Gto Wales for the start of a new
+OL,8,     Gtrip in Pembrokeshire. Magic
+OL,9,     Gtricks and a folding cake stand
+OL,10,     Ghead to auction.
+OL,11,G1630FThe Repair Shop
+OL,12,     GJay Blades and the team restore
+OL,13,     Ga radio-controlled model yacht,
+OL,14,     Ga garden urn and a World War I
+OL,15,     Gpilot's hat.
+OL,16,G1715FPointless
+OL,17,     GThe quiz returns for another
+OL,18,     Gseries in which contestants try
+OL,19,     Gto score as few points as
+OL,20,     Gpossible by coming up with the
+OL,21,     Ganswers no-one else could think
+OL,22,     Gof.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,30 +78,25 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700493215
+OL,0,        ECIMSBWebfax     F698A1700496830
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G1415FAnton & Giovanni's Adventures in
-OL,5,     FSicily
-OL,6,     GStrictly's Anton Du Beke and
-OL,7,     GGiovanni Pernice begin their
-OL,8,     Gtour of Sicily.
-OL,9,G1515FOceans: Indian Ocean Coastal
-OL,10,     FWaters
-OL,11,     GThe team explores the coastal
-OL,12,     Gwaters of the Indian Ocean to
-OL,13,     Gdiscover what happens when this
-OL,14,     Gpowerful ocean collides with the
-OL,15,     Gedge of a continent.
-OL,16,G1615FThis Farming Life
-OL,17,     GKirsty tackles her first breach
-OL,18,     Gbirth. Stevie's pygmy goat
-OL,19,     GGinger's worryingly overdue.
-OL,20,     GRaymond's cows run amok and the
-OL,21,     GRodgers take young heifer Nadia
-OL,22,     Gto Balmoral Show.
+OL,4,G1515FOceans: Indian Ocean Coastal
+OL,5,     FWaters
+OL,6,     GThe team explores the coastal
+OL,7,     Gwaters of the Indian Ocean to
+OL,8,     Gdiscover what happens when this
+OL,9,     Gpowerful ocean collides with the
+OL,10,     Gedge of a continent.
+OL,11,G1615FThis Farming Life
+OL,12,     GKirsty tackles her first breach
+OL,13,     Gbirth. Stevie's pygmy goat
+OL,14,     GGinger's worryingly overdue.
+OL,15,     GRaymond's cows run amok and the
+OL,16,     GRodgers take young heifer Nadia
+OL,17,     Gto Balmoral Show.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -109,74 +104,80 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700493215
+OL,0,        ECIMSBWebfax     F698A1700496830
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G1500FThe Chase: The Bloopers
-OL,5,     GBradley Walsh presents another
-OL,6,     Ground of laughs, gaffs and
-OL,7,     Gouttakes that were never meant
-OL,8,     Gto see the light of day.
-OL,9,G1600FDeal or No Deal
-OL,10,     GDeal or No Deal is back! Join
-OL,11,     Gbrand-new host Stephen Mulhern
-OL,12,     Gas one of the brave contestants
-OL,13,     Gtakes on the infamous Banker
-OL,14,     Gwith the chance of winning a
-OL,15,     Glife-changing cash prize.
+OL,4,G1600FDeal or No Deal
+OL,5,     GDeal or No Deal is back! Join
+OL,6,     Gbrand-new host Stephen Mulhern
+OL,7,     Gas one of the brave contestants
+OL,8,     Gtakes on the infamous Banker
+OL,9,     Gwith the chance of winning a
+OL,10,     Glife-changing cash prize.
+OL,11,G1700FThe Chase
+OL,12,     GBradley Walsh hosts and is
+OL,13,     Gbehind Niall from Falkirk,
+OL,14,     GPhilip from Droitwich Spa, Amy
+OL,15,     Gfrom Doncaster and Alexia
+OL,16,     Goriginally from Northamptonshire
+OL,17,     Gall the way as they face a
+OL,18,     GChaser.
+OL,19,G1800FRegional News
+OL,20,G1830FITV Evening News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700493215
+OL,0,        ECIMSBWebfax     F698A1700496830
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G1500FA Place in the Sun
-OL,5,     GFor years, Gareth and Hannah
-OL,6,     Ghave been trying to no avail to
-OL,7,     Gbuy a holiday home with the
-OL,8,     Gperfect sea views in Salobrena
-OL,9,     Gon Spain's Costa Tropical. Can
-OL,10,     GLeah Charles-King improve their
-OL,11,     Gluck?
-OL,12,G1600FA Place in the Sun
-OL,13,     GThe new run continues. Donna
-OL,14,     Gwants her very own bolthole in
-OL,15,     GRoquetas de Mar in Spain. With a
-OL,16,     Gbudget of #70k and help from
-OL,17,     GDonna's friend Savannah, can
-OL,18,     GSara Damergi find her perfect
-OL,19,     Gplace?
+OL,4,G1600FA Place in the Sun
+OL,5,     GThe new run continues. Donna
+OL,6,     Gwants her very own bolthole in
+OL,7,     GRoquetas de Mar in Spain. With a
+OL,8,     Gbudget of #70k and help from
+OL,9,     GDonna's friend Savannah, can
+OL,10,     GSara Damergi find her perfect
+OL,11,     Gplace?
+OL,12,G1700FHelp! We Bought a Village
+OL,13,     GThe new series continues. An
+OL,14,     Gancient well throws building
+OL,15,     Gplans into chaos at a hamlet in
+OL,16,     GFrance, while urgent repairs are
+OL,17,     Gneeded at a community of cave
+OL,18,     Ghouses in Andalucia.
+OL,19,G1800FChannel 4 News
+OL,20,     GChannel 4's flagship news
+OL,21,     Gprogramme. Including the weather.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@pD@bTw
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700493215
+OL,0,        ECIMSBWebfax     F698A1700496830
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G1330FA Swiss Family Christmas
-OL,5,     GSeasonal romance. When Alex
-OL,6,     Greturns home to spend Christmas
-OL,7,     Gwith her mother, she discovers
-OL,8,     Gthat her ex-boyfriend and her
-OL,9,     Gbest friend, who are now dating,
-OL,10,     Gare also visiting.
-OL,11,G1515FSanta's Squad
-OL,12,     GAn out of work teacher is forced
-OL,13,     Gto take a job with the Santa
-OL,14,     GSquad to bring the magic of
-OL,15,     GChristmas into the lives of a
-OL,16,     Gwidower and his two daughters.
-OL,17,G1700F5 News at 5
-OL,18,     GJoin Dan Walker and the team for
-OL,19,     Gthe news that matters to you.
+OL,4,G1515FSanta's Squad
+OL,5,     GAn out of work teacher is forced
+OL,6,     Gto take a job with the Santa
+OL,7,     GSquad to bring the magic of
+OL,8,     GChristmas into the lives of a
+OL,9,     Gwidower and his two daughters.
+OL,10,G1700F5 News at 5
+OL,11,     GJoin Dan Walker and the team for
+OL,12,     Gthe news that matters to you.
+OL,13,G1800FDogs Behaving (Very) Badly
+OL,14,     GEnglish Bulldog Doug is spoiling
+OL,15,     Ghis owners' social life with a
+OL,16,     Gserious case of leg libido. And
+OL,17,     Ga six pack of crazy Cockers go
+OL,18,     Gabsolutely bonkers whenever it's
+OL,19,     Gtime for walkies.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
