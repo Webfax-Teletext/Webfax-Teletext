@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700457079
+OL,0,        ECIMSBWebfax     F698A1700460693
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700457079
+OL,0,        ECIMSBWebfax     F698A1700460693
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,25 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700457079
+OL,0,        ECIMSBWebfax     F698A1700460693
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G0200FBBC News
+OL,3,CProgramme listings for MON 20 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FDefenders: Busting the Bad Guys
+OL,12,     GA couple have a lucky escape
+OL,13,     Gwhen paving slabs fall off the
+OL,14,     Gback of a lorry. To prevent
+OL,15,     Gincidents like this, the
+OL,16,     GDefenders are checking HGVs to
+OL,17,     Gmake sure loads are secure.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +73,24 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700457079
+OL,0,        ECIMSBWebfax     F698A1700460693
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 19 NOV
+OL,3,CProgramme listings for MON 20 NOV
 OL,4,G0330FThis is BBC Two
+OL,5,G0615FScotland's Sacred Islands with
+OL,6,     FBen Fogle
+OL,7,     GBen Fogle discovers spiritual
+OL,8,     Gpower and faith on the stunning
+OL,9,     GIsle of Skye.
+OL,10,G0715FAntiques Road Trip
+OL,11,     GTime to slap on the sunscreen as
+OL,12,     GRaj and Irita head to the
+OL,13,     Gseaside in Lincolnshire. It's
+OL,14,     Gthe last chance to hit the shops
+OL,15,     Gbefore their final auction
+OL,16,     Gshowdown.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,60 +98,78 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700457079
+OL,0,        ECIMSBWebfax     F698A1700460693
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G0505FFletchers' Family Farm
-OL,5,     GDocumentary series. Chicken pox
-OL,6,     Ghits the Fletcher household just
-OL,7,     Gas the family take delivery of
-OL,8,     Gtheir first flock of chickens,
-OL,9,     Gand a neighbour helps with sheep
-OL,10,     Gshearing time.
+OL,3,CProgramme listings for MON 20 NOV
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a
+OL,9,     Gtopical mix of entertainment,
+OL,10,     Gdiscussion and showbiz glamour
+OL,11,     Gas well as the latest fashion,
+OL,12,     Gfood and celebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life
+OL,17,     Gstories, competitions and a mix
+OL,18,     Gof cookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700457079
+OL,0,        ECIMSBWebfax     F698A1700460693
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G0510FWorld's Most Secret Hotels
-OL,5,     GThis episode searches for
-OL,6,     Gspaceships in the Scottish
-OL,7,     Gwilderness, visits a Greek tower
-OL,8,     Gwith a deadly history, and heads
-OL,9,     Gto a hotel perched on an Italian
-OL,10,     Gglacier.
+OL,3,CProgramme listings for MON 20 NOV
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Claire Richards joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0645F3rd Rock from the Sun
+OL,12,     GDr. Solomon's Traveling Alien
+OL,13,     GShow: Harry's kidnapper sells
+OL,14,     Ghim to a carnival show where
+OL,15,     Ghe's billed as Hargo the Alien.
+OL,16,     GDick is punished for his failure
+OL,17,     Gto submit status reports.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700457079
+OL,0,        ECIMSBWebfax     F698A1700460693
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G0450FHow the Victorians Built Britain
-OL,5,     GDocumentary series. Michael
-OL,6,     GBuerk reveals how Victorians
-OL,7,     Gintroduced gas power to the
-OL,8,     Ghome. Cotton's place at the
-OL,9,     Gheart of mass production is also
-OL,10,     Gexamined.
-OL,11,G0535FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the
-OL,14,     Gworld, focusing on celebrities,
-OL,15,     Gmovies, music and entertainment.
-OL,16,G0540FMilkshake! Monkey Amazing
-OL,17,     FAdventures
-OL,18,     GA cheeky monkey travels across
-OL,19,     Gthe country, getting into
-OL,20,     Ghijinks with his friends.
+OL,3,CProgramme listings for MON 20 NOV
+OL,4,G0610FSecret Life of Puppies
+OL,5,     GA dog's-eye view of life. The
+OL,6,     GBelgian Shepherds learn to
+OL,7,     Gfollow a trail as they start
+OL,8,     Gtheir training to become crime
+OL,9,     Gfighting pups!
+OL,10,G0615FPeppa Pig
+OL,11,     GMummy Pig, Daddy Pig, Peppa and
+OL,12,     GGeorge decide to take all the
+OL,13,     Gthings they don't use anymore to
+OL,14,     Gthe charity shop, which raises
+OL,15,     Gmoney to help others.
+OL,16,G0620FPeppa Pig
+OL,17,     GWhile drawing pictures at
+OL,18,     Gplaygroup, Peppa and her friends
+OL,19,     Glearn about each other's
+OL,20,     Gfamilies, from Suzy sheep who
+OL,21,     Glives with Mummy Sheep to Freddy
+OL,22,     GFox who lives with Mr. Fox.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
