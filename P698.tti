@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700518503
+OL,0,        ECIMSBWebfax     F698A1700522117
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700518503
+OL,0,        ECIMSBWebfax     F698A1700522117
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,28 +47,26 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700518503
+OL,0,        ECIMSBWebfax     F698A1700522117
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G2200FBBC News and Weather
-OL,5,G2230FRegional News
-OL,6,G2240FLouis Theroux Interviews Pete
-OL,7,     FDoherty
-OL,8,     GLouis Theroux meets notorious
-OL,9,     Grockstar Pete Doherty. Contains
-OL,10,     Gstrong language.
-OL,11,G2325FGrime Kids
-OL,12,     GSummer, 2001. School's out, and
-OL,13,     Gthe boys get ready for their
-OL,14,     Gfirst club night. Deals with
-OL,15,     Gadult themes.
-OL,16,G0010FGrime Kids
-OL,17,     GGladiator Crew is born. Dane
-OL,18,     Gtries to strike a deal to get on
-OL,19,     Gradio. Old tensions arise.
-OL,20,     GContains some strong language.
+OL,4,G2240FLouis Theroux Interviews Pete
+OL,5,     FDoherty
+OL,6,     GLouis Theroux meets notorious
+OL,7,     Grockstar Pete Doherty. Contains
+OL,8,     Gstrong language.
+OL,9,G2325FGrime Kids
+OL,10,     GSummer, 2001. School's out, and
+OL,11,     Gthe boys get ready for their
+OL,12,     Gfirst club night. Deals with
+OL,13,     Gadult themes.
+OL,14,G0010FGrime Kids
+OL,15,     GGladiator Crew is born. Dane
+OL,16,     Gtries to strike a deal to get on
+OL,17,     Gradio. Old tensions arise.
+OL,18,     GContains some strong language.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -76,26 +74,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700518503
+OL,0,        ECIMSBWebfax     F698A1700522117
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G2200FUpstart Crow
-OL,5,     GComedy. Will has invented a
-OL,6,     Gmusical and needs help from the
-OL,7,     Ggreatest songwriter of the age:
-OL,8,     GThomas Morley. However, success
-OL,9,     Glooks far from guaranteed.
-OL,10,G2230FNewsnight
-OL,11,G2310FWeather
-OL,12,G2315FColette
-OL,13,     GColette is persuaded to write up
-OL,14,     Gher semi-autobiographical tales
-OL,15,     Gwhich, published under her
-OL,16,     Ghusband's name, become a
-OL,17,     Gsensation. Contains some scenes
-OL,18,     Gof a sexual nature.
+OL,4,G2315FColette
+OL,5,     GColette is persuaded to write up
+OL,6,     Gher semi-autobiographical tales
+OL,7,     Gwhich, published under her
+OL,8,     Ghusband's name, become a
+OL,9,     Gsensation. Contains some scenes
+OL,10,     Gof a sexual nature.
+OL,11,G0100FMoney for Nothing
+OL,12,     GSarah Moore, Zoe Murphy and
+OL,13,     GPeter Fournel are in Surrey to
+OL,14,     Gwork their upcycling magic on a
+OL,15,     GG Plan unit, a stacking bookcase
+OL,16,     Gand a papasan seat.
+OL,17,G0145FGarden Rescue
+OL,18,     GCharlie and Lee are in
+OL,19,     GWarrington to transform Bindu
+OL,20,     Gand Vivek's first garden into a
+OL,21,     Gproductive, eco-friendly retreat.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -103,79 +104,70 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700518503
+OL,0,        ECIMSBWebfax     F698A1700522117
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G2100FI'm A Celebrity... Get Me...
-OL,5,     GOut Of Here! The celebrities get
-OL,6,     Gto know each other as they
-OL,7,     Gsettle into their new
-OL,8,     Gsurroundings in the Australian
-OL,9,     Gjungle and compete in trials to
-OL,10,     Gwin food for the camp.
-OL,11,G2230FITV News
-OL,12,G2300FRegional News
-OL,13,G2315FThe Playboy Bunny Murder
-OL,14,     GEvocative true crime series. The
-OL,15,     Ginvestigation takes an
-OL,16,     Gunexpected turn as modern
-OL,17,     Gtechnology reveals a new victim
-OL,18,     Gand Marcel learns that
-OL,19,     Gdetectives are flying out to the
-OL,20,     GFar East.
+OL,4,G2315FThe Playboy Bunny Murder
+OL,5,     GEvocative true crime series. The
+OL,6,     Ginvestigation takes an
+OL,7,     Gunexpected turn as modern
+OL,8,     Gtechnology reveals a new victim
+OL,9,     Gand Marcel learns that
+OL,10,     Gdetectives are flying out to the
+OL,11,     GFar East.
+OL,12,G0015FSorry, I Didn't Know
+OL,13,     GKae Kurd, Kiri Pritchard-McLean,
+OL,14,     GOti Mabuse and Jordan Stephens
+OL,15,     Gjoin team leaders Chizzy Akudolu
+OL,16,     Gand Eddie Kadi to take viewers
+OL,17,     Gon a tour of Black British
+OL,18,     Ghistory.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700518503
+OL,0,        ECIMSBWebfax     F698A1700522117
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G1900FLive England Football: North
-OL,5,     FMacedonia v England
-OL,6,     GGareth Southgate's men travel to
-OL,7,     GSkopje to take on North
-OL,8,     GMacedonia in this Euro 2024
-OL,9,     Gqualifier. Jules Breach presents.
-OL,10,G2215FRooney
-OL,11,     GDocumentary with unprecedented
-OL,12,     Gaccess to the life and career of
-OL,13,     Gone of England's greatest ever
-OL,14,     Gfootballers, Wayne Rooney.
-OL,15,     GFeaturing David Beckham and
-OL,16,     GThierry Henry. Strong language.
-OL,17,G0020FEngland Football: North...
-OL,18,     GMacedonia v England Highlights:
-OL,19,     GJules Breach presents all of the
-OL,20,     Gbest action from England's UEFA
-OL,21,     GEuro 2024 qualifier against
-OL,22,     GNorth Macedonia in Skopje.
+OL,4,G2215FRooney
+OL,5,     GDocumentary with unprecedented
+OL,6,     Gaccess to the life and career of
+OL,7,     Gone of England's greatest ever
+OL,8,     Gfootballers, Wayne Rooney.
+OL,9,     GFeaturing David Beckham and
+OL,10,     GThierry Henry. Strong language.
+OL,11,G0020FEngland Football: North...
+OL,12,     GMacedonia v England Highlights:
+OL,13,     GJules Breach presents all of the
+OL,14,     Gbest action from England's UEFA
+OL,15,     GEuro 2024 qualifier against
+OL,16,     GNorth Macedonia in Skopje.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700518503
+OL,0,        ECIMSBWebfax     F698A1700522117
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 NOV
-OL,4,G2200FShoplifters: Stripping the
-OL,5,     FShelves
-OL,6,     GWhen caught, some shoplifters
-OL,7,     Gcome quietly, some protest
-OL,8,     Gloudly to create confusion to
-OL,9,     Gthrow people off the scent,
-OL,10,     Gwhile others claim it's all an
-OL,11,     Ghonest mistake.
-OL,12,G2305F999: Critical Condition
-OL,13,     GWhen Rachel is admitted to Royal
-OL,14,     GStoke emergency department after
-OL,15,     Ga head-on collision with another
-OL,16,     Gcar, trauma team leader Anthony
-OL,17,     Gfears the worst.
+OL,4,G2305F999: Critical Condition
+OL,5,     GWhen Rachel is admitted to Royal
+OL,6,     GStoke emergency department after
+OL,7,     Ga head-on collision with another
+OL,8,     Gcar, trauma team leader Anthony
+OL,9,     Gfears the worst.
+OL,10,G0005FMotorway Cops: Catching
+OL,11,     FBritain's Speeders
+OL,12,     GA pursuit in unmarked cars
+OL,13,     Genters rush hour traffic, and a
+OL,14,     Gdriver plays fast and furious en
+OL,15,     Groute to a classic car show.
+OL,16,     GPlus a clueless learner driver.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
