@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700435410
+OL,0,        ECIMSBWebfax     F698A1700439020
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700435410
+OL,0,        ECIMSBWebfax     F698A1700439020
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700435410
+OL,0,        ECIMSBWebfax     F698A1700439020
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -78,30 +78,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700435410
+OL,0,        ECIMSBWebfax     F698A1700439020
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G2200FThe Sense of an Ending
-OL,5,     GTony Webster, semi-retired owner
-OL,6,     Gof a photography shop, receives
-OL,7,     Ga mysterious legacy. Contains
-OL,8,     Gsome strong language and some
-OL,9,     Gscenes of a sexual nature.
-OL,10,G2345FOnly You
-OL,11,     GA chance meeting on New Year's
-OL,12,     GEve results in a passionate
-OL,13,     Grelationship. Contains very
-OL,14,     Gstrong language and scenes of a
-OL,15,     Gsexual nature.
-OL,16,G0135FQuestion Time
-OL,17,     GFiona Bruce presents from
-OL,18,     GBridgwater in Somerset. On the
-OL,19,     Gpanel: Jacob Rees-Mogg MP,
-OL,20,     GBridget Phillipson MP, Juliet
-OL,21,     GSamuel, Paul Johnson and Danny
-OL,22,     GSriskandarajah.
+OL,4,G2345FOnly You
+OL,5,     GA chance meeting on New Year's
+OL,6,     GEve results in a passionate
+OL,7,     Grelationship. Contains very
+OL,8,     Gstrong language and scenes of a
+OL,9,     Gsexual nature.
+OL,10,G0135FQuestion Time
+OL,11,     GFiona Bruce presents from
+OL,12,     GBridgwater in Somerset. On the
+OL,13,     Gpanel: Jacob Rees-Mogg MP,
+OL,14,     GBridget Phillipson MP, Juliet
+OL,15,     GSamuel, Paul Johnson and Danny
+OL,16,     GSriskandarajah.
+OL,17,G0235FThe Newsreader
+OL,18,     GThe country is rocked by an
+OL,19,     Gunprecedented mass shooting in
+OL,20,     GClifton Hill in Melbourne.
+OL,21,     GContains strong language.
+OL,22,G0330FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -109,74 +109,80 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700435410
+OL,0,        ECIMSBWebfax     F698A1700439020
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G2305FSorry, I Didn't Know
-OL,5,     GKae Kurd, Kiri Pritchard-McLean,
-OL,6,     GOti Mabuse and Jordan Stephens
-OL,7,     Gjoin team leaders Chizzy Akudolu
-OL,8,     Gand Eddie Kadi to take viewers
-OL,9,     Gon a tour of Black British
-OL,10,     Ghistory.
-OL,11,G2335FGallagher Premiership Rugby
-OL,12,     FHighlights
-OL,13,     GAll the action from Round Six of
-OL,14,     Gthe 2023-24 Gallagher
-OL,15,     GPremiership - and the first-ever
-OL,16,     GDerby Day weekend - that
-OL,17,     Gincludes Bath facing the Bristol
-OL,18,     GBears.
+OL,4,G2335FGallagher Premiership Rugby
+OL,5,     FHighlights
+OL,6,     GAll the action from Round Six of
+OL,7,     Gthe 2023-24 Gallagher
+OL,8,     GPremiership - and the first-ever
+OL,9,     GDerby Day weekend - that
+OL,10,     Gincludes Bath facing the Bristol
+OL,11,     GBears.
+OL,12,G0025FEnglish Football League
+OL,13,     FHighlights
+OL,14,     GAll the highlights, action and
+OL,15,     Gtalking points from the latest
+OL,16,     GEnglish Football League matches.
+OL,17,G0115FCash Trapped
+OL,18,     GBradley Walsh hosts the big-
+OL,19,     Gmoney quiz in which no-one
+OL,20,     Gleaves until someone wins - will
+OL,21,     Ganyone manage to escape, or will
+OL,22,     Gthey all stay Cash Trapped?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700435410
+OL,0,        ECIMSBWebfax     F698A1700439020
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G2255FGogglebox
-OL,5,     GBob Mortimer, Richard Ayoade,
-OL,6,     GJennifer Saunders, Stephen
-OL,7,     GGraham and Hannah Walters join
-OL,8,     Gthe Goggleboxers for Survivor,
-OL,9,     GPlanet Earth III, Teen First
-OL,10,     GDates and loads more top TV.
-OL,11,G2355FThe Mountain Between Us
-OL,12,     GKate Winslet and Idris Elba star
-OL,13,     Gin this action adventure as two
-OL,14,     Gstrangers who must work together
-OL,15,     Gto survive extreme conditions
-OL,16,     Gafter their charter plane
-OL,17,     Gcrashes in the mountains.
+OL,4,G2355FThe Mountain Between Us
+OL,5,     GKate Winslet and Idris Elba star
+OL,6,     Gin this action adventure as two
+OL,7,     Gstrangers who must work together
+OL,8,     Gto survive extreme conditions
+OL,9,     Gafter their charter plane
+OL,10,     Gcrashes in the mountains.
+OL,11,G0150FLadies Only
+OL,12,     GIndian Film Season. Documentary
+OL,13,     Gdelving into the female
+OL,14,     Gexperience in modern-day India,
+OL,15,     Gtold by women travelling in the
+OL,16,     Gladies only sections of trains
+OL,17,     Gin Mumbai. In Hindi/subs.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700435410
+OL,0,        ECIMSBWebfax     F698A1700439020
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 19 NOV
-OL,4,G2255FAdults Only: Cam Girl
-OL,5,     FMillionaires
-OL,6,     GThis insightful documentary into
-OL,7,     Gthe more unconventional side of
-OL,8,     Gsex focuses on "webcamming".
-OL,9,G2355FAdults Only: An Orgasm A Day
-OL,10,     GMeet the women on a mission to
-OL,11,     Gimprove the number of people
-OL,12,     Gable to genuinely attain the
-OL,13,     Gultimate symbol of sexual
-OL,14,     Gsatisfaction.
-OL,15,G0055FICC Cricket World Cup Final
-OL,16,     GHosts India take on the five-
-OL,17,     Gtimes champions Australia in the
-OL,18,     GICC Cricket World Cup Final in
-OL,19,     GAhmedabad.
+OL,4,G2355FAdults Only: An Orgasm A Day
+OL,5,     GMeet the women on a mission to
+OL,6,     Gimprove the number of people
+OL,7,     Gable to genuinely attain the
+OL,8,     Gultimate symbol of sexual
+OL,9,     Gsatisfaction.
+OL,10,G0055FICC Cricket World Cup Final
+OL,11,     GHosts India take on the five-
+OL,12,     Gtimes champions Australia in the
+OL,13,     GICC Cricket World Cup Final in
+OL,14,     GAhmedabad.
+OL,15,G0155FBen Fogle: New Lives in the Wild
+OL,16,     GDocumentary series. In the
+OL,17,     Gstunning highlands of Eastern
+OL,18,     GIceland, Ben meets a former
+OL,19,     Gfilmmaker who swapped the bright
+OL,20,     Glights of Hollywood for the
+OL,21,     Gnorthern lights of his homeland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
