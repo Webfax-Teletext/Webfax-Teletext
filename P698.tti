@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700565477
+OL,0,        ECIMSBWebfax     F698A1700569091
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700565477
+OL,0,        ECIMSBWebfax     F698A1700569091
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,24 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700565477
+OL,0,        ECIMSBWebfax     F698A1700569091
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 21 NOV
-OL,4,G1115FHomes Under the Hammer
-OL,5,     GA back-to-front house in
-OL,6,     GEastbourne - what will Tommy
-OL,7,     Gmake of that?
-OL,8,G1215FBargain Hunt
-OL,9,     GCharlie Ross heads to Wrexham
-OL,10,     Gwith experts Stephanie Connell
-OL,11,     Gand Thomas Forrester. Charlie
-OL,12,     Ggoes to Wrexham's museum to find
-OL,13,     Gout what part football has
-OL,14,     Gplayed in the town's history.
-OL,15,G1300FBBC News
-OL,16,G1330FRegional News
+OL,4,G1215FBargain Hunt
+OL,5,     GCharlie Ross heads to Wrexham
+OL,6,     Gwith experts Stephanie Connell
+OL,7,     Gand Thomas Forrester. Charlie
+OL,8,     Ggoes to Wrexham's museum to find
+OL,9,     Gout what part football has
+OL,10,     Gplayed in the town's history.
+OL,11,G1300FBBC News
+OL,12,G1330FRegional News
+OL,13,G1345FDoctors
+OL,14,     GEmma surprises Zara with a day
+OL,15,     Gout. Sid wants Tye to move on,
+OL,16,     Gbut is shocked by Tye's plans.
+OL,17,     GKirsty visits a blind patient
+OL,18,     Gwho has been struggling since
+OL,19,     Gher guide dog passed away.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -72,29 +75,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700565477
+OL,0,        ECIMSBWebfax     F698A1700569091
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 21 NOV
-OL,4,G0900FBBC News
-OL,5,G1215FPolitics Live
-OL,6,     GThe big political issues of the
-OL,7,     Gday.
-OL,8,G1300FThe Boss
-OL,9,     GSusan Calman hosts the quiz show
-OL,10,     Gof tactics, knowledge and nerve.
-OL,11,     GContestants must work as a team,
-OL,12,     Gbut ultimately there can only be
-OL,13,     Gone Boss. Who will walk away
-OL,14,     Gwith the money?
-OL,15,G1345FLightning
-OL,16,     GComedian Zoe Lyons hosts the
-OL,17,     Gquick-fire quiz where six plucky
-OL,18,     Gcontestants must stay out of the
-OL,19,     Glight to be alright. Can anyone
-OL,20,     Gbeat the lightning and win the
-OL,21,     G#3,000 jackpot?
+OL,4,G1215FPolitics Live
+OL,5,     GThe big political issues of the
+OL,6,     Gday.
+OL,7,G1300FThe Boss
+OL,8,     GSusan Calman hosts the quiz show
+OL,9,     Gof tactics, knowledge and nerve.
+OL,10,     GContestants must work as a team,
+OL,11,     Gbut ultimately there can only be
+OL,12,     Gone Boss. Who will walk away
+OL,13,     Gwith the money?
+OL,14,G1345FLightning
+OL,15,     GComedian Zoe Lyons hosts the
+OL,16,     Gquick-fire quiz where six plucky
+OL,17,     Gcontestants must stay out of the
+OL,18,     Glight to be alright. Can anyone
+OL,19,     Gbeat the lightning and win the
+OL,20,     G#3,000 jackpot?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -102,7 +104,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700565477
+OL,0,        ECIMSBWebfax     F698A1700569091
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -126,33 +128,31 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700565477
+OL,0,        ECIMSBWebfax     F698A1700569091
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 21 NOV
-OL,4,G1055FThe Great House Giveaway
-OL,5,     GAdam and Dave buy a bungalow to
-OL,6,     Grenovate in Glossop. Between
-OL,7,     Gthem, they have building
-OL,8,     Gexperience and bags of
-OL,9,     Genthusiasm. Can they give this
-OL,10,     Gtired house a new lease of life?
-OL,11,G1155FChannel 4 News Summary
-OL,12,     GChannel 4's midday news summary.
-OL,13,G1200FLive: Steph's Packed Lunch
-OL,14,     GSteph McGovern presents her live
-OL,15,     Glunchtime show featuring
-OL,16,     Gcelebrity guests, fantastic food
-OL,17,     Gand the best entertainment,
-OL,18,     Glifestyle and consumer stories
-OL,19,     Gmaking the headlines.
+OL,4,G1200FLive: Steph's Packed Lunch
+OL,5,     GSteph McGovern presents her live
+OL,6,     Glunchtime show featuring
+OL,7,     Gcelebrity guests, fantastic food
+OL,8,     Gand the best entertainment,
+OL,9,     Glifestyle and consumer stories
+OL,10,     Gmaking the headlines.
+OL,11,G1410FCountdown
+OL,12,     GColin Murray and Rachel Riley
+OL,13,     Ghost as contestants race against
+OL,14,     Gthe clock to pit their wits
+OL,15,     Gagainst vowels, consonants and
+OL,16,     Gnumbers. Daliso Chaponda joins
+OL,17,     GSusie Dent in Dictionary Corner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700565477
+OL,0,        ECIMSBWebfax     F698A1700569091
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
