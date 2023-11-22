@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700681102
+OL,0,        ECIMSBWebfax     F698A1700684713
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700681102
+OL,0,        ECIMSBWebfax     F698A1700684713
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700681102
+OL,0,        ECIMSBWebfax     F698A1700684713
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G1900FThe One Show
-OL,5,     GAlex Jones and Jermaine Jenas
-OL,6,     Gbring you the stories that
-OL,7,     Gmatter from across the country.
-OL,8,G1930FEastEnders
-OL,9,     GLinda has an impossible choice
-OL,10,     Gto make, Billy provides a
-OL,11,     Gshoulder to cry on, and Suki
-OL,12,     Glooks to the future.
-OL,13,G2000FThe Repair Shop
-OL,14,     GJay Blades and the team restore
-OL,15,     Ga pair of speedway racing boots,
-OL,16,     Ga 1960s electric organ, a
-OL,17,     Ghandmade grandfather clock and a
-OL,18,     Gdiary and writing slate.
+OL,4,G2000FThe Repair Shop
+OL,5,     GJay Blades and the team restore
+OL,6,     Ga pair of speedway racing boots,
+OL,7,     Ga 1960s electric organ, a
+OL,8,     Ghandmade grandfather clock and a
+OL,9,     Gdiary and writing slate.
+OL,10,G2100FShetland
+OL,11,     GTosh believes she has the
+OL,12,     Gmurderer. Calder struggles with
+OL,13,     GJean's revelation. Contains some
+OL,14,     Gstrong language.
+OL,15,G2200FBBC News and Weather
+OL,16,G2230FRegional News
+OL,17,G2240FLouis Theroux Interviews Dame
+OL,18,     FJoan Collins
+OL,19,     GLouis travels to the French
+OL,20,     GRiviera to meet Hollywood icon
+OL,21,     GDame Joan Collins. Contains some
+OL,22,     Gstrong language.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,28 +78,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700681102
+OL,0,        ECIMSBWebfax     F698A1700684713
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G1900FRonnie O'Sullivan: Amol Rajan
-OL,5,     FInterviews
-OL,6,     GAmol Rajan interviews snooker
-OL,7,     Gstar Ronnie O'Sullivan about his
-OL,8,     Glife and career.
-OL,9,G1945FSaving Lives at Sea
-OL,10,     GJust off the west coast of
-OL,11,     GScotland, on the rugged Isle of
-OL,12,     GMull, the Tobermory lifeboat
-OL,13,     Gcrew have to battle huge waves
-OL,14,     Gto save a 40-foot fishing boat
-OL,15,     Gthat has lost all power.
-OL,16,G2000FVacuum Cleaner: The Secret...
-OL,17,     GGenius Of Modern Life. Hannah
-OL,18,     Gtakes a look at the vacuum
-OL,19,     Gcleaner, going behind the scenes
-OL,20,     Gwith Dyson.
+OL,4,G2000FVacuum Cleaner: The Secret...
+OL,5,     GGenius Of Modern Life. Hannah
+OL,6,     Gtakes a look at the vacuum
+OL,7,     Gcleaner, going behind the scenes
+OL,8,     Gwith Dyson.
+OL,9,G2100FSimon Reeve's Return to Cornwall
+OL,10,     GSimon Reeve is back to visit one
+OL,11,     Gof Britain's favourite counties
+OL,12,     Gto discover what life is really
+OL,13,     Glike for the locals after the
+OL,14,     Gsummer crowds have gone.
+OL,15,G2200FCunk on Earth
+OL,16,     GCunk continues her journey
+OL,17,     Gthrough, around and across
+OL,18,     Gcivilisation, taking an
+OL,19,     Gunproblematic look at the births
+OL,20,     Gof Christianity and Islam.
+OL,21,     GContains some strong language.
+OL,22,G2230FNewsnight
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -103,79 +109,70 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700681102
+OL,0,        ECIMSBWebfax     F698A1700684713
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G1830FITV Evening News
-OL,5,G1930FEmmerdale
-OL,6,     GCharity and Mack are unaware
-OL,7,     Gthat Chloe is planning a flit,
-OL,8,     GCaleb is suspicious, and Rhona
-OL,9,     Ghas regrets.
-OL,10,G2000FCoronation Street
-OL,11,     GDylan fails to stand by Liam in
-OL,12,     Gthe face of Mason's threats,
-OL,13,     GGlenda rallies the troops to
-OL,14,     Ghalt Ronnie's plans for the
-OL,15,     GRovers, and Nina confesses her
-OL,16,     Gjealousy to Asha.
-OL,17,G2100FI'm A Celebrity... Get Me...
-OL,18,     GOut Of Here! As the celebrities
-OL,19,     Gget used to life in the Outback,
-OL,20,     Gthey continue to take on trials
-OL,21,     Gin the hope of winning stars to
-OL,22,     Gfeed the camp.
+OL,4,G2000FCoronation Street
+OL,5,     GDylan fails to stand by Liam in
+OL,6,     Gthe face of Mason's threats,
+OL,7,     GGlenda rallies the troops to
+OL,8,     Ghalt Ronnie's plans for the
+OL,9,     GRovers, and Nina confesses her
+OL,10,     Gjealousy to Asha.
+OL,11,G2100FI'm A Celebrity... Get Me...
+OL,12,     GOut Of Here! As the celebrities
+OL,13,     Gget used to life in the Outback,
+OL,14,     Gthey continue to take on trials
+OL,15,     Gin the hope of winning stars to
+OL,16,     Gfeed the camp.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700681102
+OL,0,        ECIMSBWebfax     F698A1700684713
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G1900FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G1955FThe Political Slot
-OL,8,     GPlaid Cymru: The leader of Plaid
-OL,9,     GCymru, Rhun ap Iorweth,
-OL,10,     Gdiscusses the party's plans to
-OL,11,     Gimprove public transport in
-OL,12,     GWales.
-OL,13,G2000FLocation, Location, Location
-OL,14,     GKirstie and Phil catch up with
-OL,15,     GSammi and Tom, who went up
-OL,16,     Gagainst Leeds' rising house
-OL,17,     Gprices in 2014. And did first-
-OL,18,     Gtime buyer Tim find his
-OL,19,     Gcharacterful oasis in Oxford?
+OL,4,G2000FLocation, Location, Location
+OL,5,     GKirstie and Phil catch up with
+OL,6,     GSammi and Tom, who went up
+OL,7,     Gagainst Leeds' rising house
+OL,8,     Gprices in 2014. And did first-
+OL,9,     Gtime buyer Tim find his
+OL,10,     Gcharacterful oasis in Oxford?
+OL,11,G2100FThe Great Climate Fight
+OL,12,     GMary Portas tries to hold Jeremy
+OL,13,     GHunt to account for the oil and
+OL,14,     Ggas industry's #2 billion tax
+OL,15,     Gbreaks. Kevin McCloud tracks
+OL,16,     Gdown Michael Gove to implore him
+OL,17,     Graise housing standards.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700681102
+OL,0,        ECIMSBWebfax     F698A1700684713
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G1900FNew; Shoplifters: Caught Red
-OL,5,     FHanded
-OL,6,     GIn Chelsea, a female shoplifter
-OL,7,     Gis compliant at first, but then
-OL,8,     Gshe tries to do a runner. And
-OL,9,     Gmeet the former shoplifter who
-OL,10,     Gnow works with shopkeepers to
-OL,11,     Gprevent their losses.
-OL,12,G2000FLive: Vanished: The Search for
-OL,13,     FBritain's Missing
-OL,14,     GDan Walker investigates those
-OL,15,     Gwho've gone missing, speaking to
-OL,16,     Gloved ones, families and
-OL,17,     Gfriends, plus police and experts
-OL,18,     Gfrom missing people charities.
+OL,4,G2000FLive: Vanished: The Search for
+OL,5,     FBritain's Missing
+OL,6,     GDan Walker investigates those
+OL,7,     Gwho've gone missing, speaking to
+OL,8,     Gloved ones, families and
+OL,9,     Gfriends, plus police and experts
+OL,10,     Gfrom missing people charities.
+OL,11,G2100FCause of Death
+OL,12,     GCoroners investigate whether a
+OL,13,     Groad traffic collision played a
+OL,14,     Gpart in a man's mysterious death
+OL,15,     Geight months later, and a
+OL,16,     GGrandma collapses and dies after
+OL,17,     Gan altercation in a car park.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
