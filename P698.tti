@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700641338
+OL,0,        ECIMSBWebfax     F698A1700644952
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700641338
+OL,0,        ECIMSBWebfax     F698A1700644952
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,25 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700641338
+OL,0,        ECIMSBWebfax     F698A1700644952
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0915FMorning Live
-OL,9,     GConversation, advice and great
-OL,10,     Gcompany to make your morning.
-OL,11,G1000FDefenders: Busting the Bad Guys
-OL,12,     GThe Defenders catch a man
-OL,13,     Ghelping people cheat their
-OL,14,     Gdriving test. He's captured on
-OL,15,     GCCTV impersonating genuine
-OL,16,     Glearner drivers and sitting the
-OL,17,     Gtheory test for them.
+OL,4,G0915FMorning Live
+OL,5,     GConversation, advice and great
+OL,6,     Gcompany to make your morning.
+OL,7,G1000FDefenders: Busting the Bad Guys
+OL,8,     GThe Defenders catch a man
+OL,9,     Ghelping people cheat their
+OL,10,     Gdriving test. He's captured on
+OL,11,     GCCTV impersonating genuine
+OL,12,     Glearner drivers and sitting the
+OL,13,     Gtheory test for them.
+OL,14,G1045FClaimed and Shamed
+OL,15,     GA nasty trip over some
+OL,16,     Gscaffolding leads to a major
+OL,17,     Gslip-up with some dodgy
+OL,18,     Gpaperwork, and the scammer
+OL,19,     Gheading behind bars after CCTV
+OL,20,     Gshows he intentionally caused a
+OL,21,     Gcrash.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -73,28 +77,25 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700641338
+OL,0,        ECIMSBWebfax     F698A1700644952
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G0800FNadiya's Simple Spices
-OL,5,     GNadiya delivers home-cooked
-OL,6,     Gtreats to rival people's
-OL,7,     Gfavourite takeaways, from a
-OL,8,     Gsmoky aubergine pizza to a
-OL,9,     Gspeedy chicken jalfrezi and the
-OL,10,     Gcoolest kulfi ice cream bars.
-OL,11,G0830FMarcus Wareing's Tales from a
-OL,12,     FKitchen Garden
-OL,13,     GMarcus Wareing forages for
-OL,14,     Gedible sea vegetables in
-OL,15,     GShoreham and investigates hop
-OL,16,     Gfarming.
-OL,17,G0900FBBC News
-OL,18,G1115FPolitics Live
-OL,19,     GThe big political issues of the
-OL,20,     Gday.
+OL,4,G0900FBBC News
+OL,5,G1115FPolitics Live
+OL,6,     GThe big political issues of the
+OL,7,     Gday.
+OL,8,G1230FPolitics Live: Autumn Statement
+OL,9,     F2023
+OL,10,     GJo Coburn and an expert panel
+OL,11,     Gwith live coverage and analysis
+OL,12,     Gof chancellor Jeremy Hunt's
+OL,13,     GAutumn Statement.
+OL,14,G1515FOceans: Arctic
+OL,15,     GThe team dives beneath the polar
+OL,16,     Gice cap to explore how the ice
+OL,17,     Gis shrinking.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -102,76 +103,71 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700641338
+OL,0,        ECIMSBWebfax     F698A1700644952
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G0600FGood Morning Britain
-OL,5,     GNews, current affairs and lively
-OL,6,     Gdebate.
-OL,7,G0900FLorraine
-OL,8,     GLorraine Kelly presents a
-OL,9,     Gtopical mix of entertainment,
-OL,10,     Gdiscussion and showbiz glamour
-OL,11,     Gas well as the latest fashion,
-OL,12,     Gfood and celebrity gossip.
-OL,13,G1000FThis Morning
-OL,14,     GMagazine show with news and
-OL,15,     Gtopical items, celebrity guests,
-OL,16,     Gexpert advice, real life
-OL,17,     Gstories, competitions and a mix
-OL,18,     Gof cookery, health, beauty,
-OL,19,     Glifestyle and more.
+OL,4,G0900FLorraine
+OL,5,     GLorraine Kelly presents a
+OL,6,     Gtopical mix of entertainment,
+OL,7,     Gdiscussion and showbiz glamour
+OL,8,     Gas well as the latest fashion,
+OL,9,     Gfood and celebrity gossip.
+OL,10,G1000FThis Morning
+OL,11,     GMagazine show with news and
+OL,12,     Gtopical items, celebrity guests,
+OL,13,     Gexpert advice, real life
+OL,14,     Gstories, competitions and a mix
+OL,15,     Gof cookery, health, beauty,
+OL,16,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700641338
+OL,0,        ECIMSBWebfax     F698A1700644952
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G0800FEverybody Loves Raymond
-OL,5,     GJust a Formality: Robert tells
-OL,6,     GRaymond that he's finally
-OL,7,     Gdecided to propose to Amy and
-OL,8,     Gconvinces him to meet her ultra-
-OL,9,     Gconservative parents.
-OL,10,G0825FFrasier
-OL,11,     GVoyage of the Damned: Frasier
-OL,12,     Gagrees to be a celebrity guest
-OL,13,     Gon a cruise ship to Alaska, but
-OL,14,     Gthen Martin decides that the
-OL,15,     Gwhole family should go on the
-OL,16,     Gtrip together.
+OL,4,G0855FFrasier
+OL,5,     GMy Fair Frasier: Frasier starts
+OL,6,     Gdating beautiful, dynamic lawyer
+OL,7,     GSam Pierce , but could their
+OL,8,     Gconflicting careers end their
+OL,9,     Grelationship before it's
+OL,10,     Gproperly begun?
+OL,11,G0925FFrasier
+OL,12,     GDesperately Seeking Closure:
+OL,13,     GFrasier becomes determined to
+OL,14,     Gfind out what went wrong when
+OL,15,     GSam breaks off their
+OL,16,     Grelationship.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700641338
+OL,0,        ECIMSBWebfax     F698A1700644952
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G0820FMilo
-OL,5,     GThe exciting world of Grand Prix
-OL,6,     Gracing draws in Milo and his
-OL,7,     Gfriends before they are given
-OL,8,     Gthe chance to compete themselves
-OL,9,     Gby joining Tania Turbo's team.
-OL,10,G0830FPAW Patrol
-OL,11,     GKids' animation. Mr Porter and
-OL,12,     GAlex go on a sightseeing hike,
-OL,13,     Gbut get trapped inside a huge
-OL,14,     Gmaze. The PAW Patrol must find
-OL,15,     Gthe maze and their friends.
-OL,16,G0845FChip and Potato
-OL,17,     GEveryone on Welcome Walk can't
-OL,18,     Gwait to try out Stomp and
-OL,19,     GStamp's new slide! But first the
-OL,20,     Gbuilders have to make it - which
-OL,21,     Gmeans a lot of waiting.
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and Storm discuss
+OL,6,     Gthe latest news and get your
+OL,7,     Gviews and opinions of the day.
+OL,8,G1115FStorm Huntley
+OL,9,     GStorm Huntley carries on the
+OL,10,     Gdiscussion and takes your calls
+OL,11,     Gto discuss the biggest stories
+OL,12,     Gof the day.
+OL,13,G1230FAlexis Conran
+OL,14,     GAlexis Conran hears from you,
+OL,15,     Gtalking about the important
+OL,16,     Gstories and getting your
+OL,17,     Gopinions and views on them.
+OL,18,G1325F5 News at Lunchtime
+OL,19,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
