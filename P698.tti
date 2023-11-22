@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700670259
+OL,0,        ECIMSBWebfax     F698A1700673873
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700670259
+OL,0,        ECIMSBWebfax     F698A1700673873
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700670259
+OL,0,        ECIMSBWebfax     F698A1700673873
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G1545FAntiques Road Trip
-OL,5,     GDoyenne of the jewellery world
-OL,6,     GIzzie Balmer and 20th-century
-OL,7,     Gdesign whizz Mark Hill raid the
-OL,8,     Gantiques shops of Stroud,
-OL,9,     GCirencester and beyond.
-OL,10,G1630FThe Repair Shop
-OL,11,     GJay Blades and the team restore
-OL,12,     Ga gold mantle clock, an SAS
-OL,13,     Gsoldier bookend and a 1920s
-OL,14,     Gminiature microscope.
-OL,15,G1715FPointless
-OL,16,     GThe quiz returns for another
-OL,17,     Gseries in which contestants try
-OL,18,     Gto score as few points as
-OL,19,     Gpossible by coming up with the
-OL,20,     Ganswers no-one else could think
-OL,21,     Gof.
-OL,22,G1800FBBC News
+OL,4,G1715FPointless
+OL,5,     GThe quiz returns for another
+OL,6,     Gseries in which contestants try
+OL,7,     Gto score as few points as
+OL,8,     Gpossible by coming up with the
+OL,9,     Ganswers no-one else could think
+OL,10,     Gof.
+OL,11,G1800FBBC News
+OL,12,G1830FRegional News
+OL,13,G1900FThe One Show
+OL,14,     GAlex Jones and Jermaine Jenas
+OL,15,     Gbring you the stories that
+OL,16,     Gmatter from across the country.
+OL,17,G1930FEastEnders
+OL,18,     GLinda has an impossible choice
+OL,19,     Gto make, Billy provides a
+OL,20,     Gshoulder to cry on, and Suki
+OL,21,     Glooks to the future.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,30 +77,27 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700670259
+OL,0,        ECIMSBWebfax     F698A1700673873
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G1615FThis Farming Life
-OL,5,     GLynn and Sandra face a drought
-OL,6,     Gon the croft. At the Royal
-OL,7,     GHighland Show, Raymond and
-OL,8,     GJohnny aim high with their
-OL,9,     GCharolais, while Aimee puts her
-OL,10,     Gpony skills to the test.
-OL,11,G1715FFlog It!
-OL,12,     GAt the University of Nottingham,
-OL,13,     Gexperts Caroline Hawley and
-OL,14,     GCharles Hanson find a huge
-OL,15,     GShakespearean-themed quilt and
-OL,16,     Gan 18th-century handwritten
-OL,17,     Gvalentine.
-OL,18,G1800FRichard Osman's House of Games
-OL,19,     GJennie Bond, James Bye, Kadeena
-OL,20,     GCox and Aurie Styla test their
-OL,21,     Ggeneral knowledge skills on this
-OL,22,     Gweek's House of Games.
+OL,4,G1715FFlog It!
+OL,5,     GAt the University of Nottingham,
+OL,6,     Gexperts Caroline Hawley and
+OL,7,     GCharles Hanson find a huge
+OL,8,     GShakespearean-themed quilt and
+OL,9,     Gan 18th-century handwritten
+OL,10,     Gvalentine.
+OL,11,G1800FRichard Osman's House of Games
+OL,12,     GJennie Bond, James Bye, Kadeena
+OL,13,     GCox and Aurie Styla test their
+OL,14,     Ggeneral knowledge skills on this
+OL,15,     Gweek's House of Games.
+OL,16,G1830FStrictly - It Takes Two
+OL,17,     GFleur East dishes up more
+OL,18,     Gbackstage gossip and behind-the-
+OL,19,     Gscenes action.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -109,78 +105,73 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700670259
+OL,0,        ECIMSBWebfax     F698A1700673873
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G1600FDeal or No Deal
-OL,5,     GStephen Mulhern hosts the
-OL,6,     Gexciting and iconic gameshow as
-OL,7,     Ganother of his brave contestants
-OL,8,     Gtakes on the infamous Banker for
-OL,9,     Ga chance to win a life-changing
-OL,10,     Gcash prize.
-OL,11,G1700FThe Chase
-OL,12,     GAll that stands between Richard
-OL,13,     Gfrom Birmingham, Jackie from
-OL,14,     GEast Kilbride, Emma from
-OL,15,     GHitchin, Lee from Ilkeston and
-OL,16,     Gthousands of pounds is the small
-OL,17,     Gmatter of a Chaser...
-OL,18,G1800FRegional News
-OL,19,G1830FITV Evening News
+OL,4,G1700FThe Chase
+OL,5,     GAll that stands between Richard
+OL,6,     Gfrom Birmingham, Jackie from
+OL,7,     GEast Kilbride, Emma from
+OL,8,     GHitchin, Lee from Ilkeston and
+OL,9,     Gthousands of pounds is the small
+OL,10,     Gmatter of a Chaser...
+OL,11,G1800FRegional News
+OL,12,G1830FITV Evening News
+OL,13,G1930FEmmerdale
+OL,14,     GCharity and Mack are unaware
+OL,15,     Gthat Chloe is planning a flit,
+OL,16,     GCaleb is suspicious, and Rhona
+OL,17,     Ghas regrets.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700670259
+OL,0,        ECIMSBWebfax     F698A1700673873
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G1600FA Place in the Sun
-OL,5,     GThe new run continues. Natalie
-OL,6,     Gand Matt feel the time is right
-OL,7,     Gto buy a holiday home together
-OL,8,     Gin the resort of Caleta de Fuste
-OL,9,     Gon Fuerteventura. Jean Johansson
-OL,10,     Gshows them what #75k can buy.
-OL,11,G1700FHelp! We Bought a Village
-OL,12,     GThe new series continues. A
-OL,13,     Glandslide hits a cave settlement
-OL,14,     Gin Spain. Will a French village
-OL,15,     Gbe ready for its first guests? A
-OL,16,     Ghamlet near Toulouse starts its
-OL,17,     Gjourney back to life.
+OL,4,G1700FHelp! We Bought a Village
+OL,5,     GThe new series continues. A
+OL,6,     Glandslide hits a cave settlement
+OL,7,     Gin Spain. Will a French village
+OL,8,     Gbe ready for its first guests? A
+OL,9,     Ghamlet near Toulouse starts its
+OL,10,     Gjourney back to life.
+OL,11,G1800FFour in a Bed
+OL,12,     GVisit three is to Hugh and
+OL,13,     GLoretta's Brampton Dales Farm in
+OL,14,     GLincolnshire. After an afternoon
+OL,15,     Gout at an old jail, the B&Bers
+OL,16,     Gfeel sheepish about an uninvited
+OL,17,     Gguest at breakfast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700670259
+OL,0,        ECIMSBWebfax     F698A1700673873
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 NOV
-OL,4,G1515FRoom At The Christmas Inn
-OL,5,     GWhile throwing a festive party
-OL,6,     Gat her family's inn, an event
-OL,7,     Gplanner discovers Christmas
-OL,8,     Gmagic with a father-son duo
-OL,9,     Gwhose presence brings about both
-OL,10,     Gtension and joy. Stars Janel
-OL,11,     GParrish.
-OL,12,G1700F5 News at 5
-OL,13,     GJoin Dan Walker and the team for
-OL,14,     Gthe news that matters to you.
-OL,15,G1800FDogs Behaving (Very) Badly
-OL,16,     GIn a puppy special, Graeme
-OL,17,     Gadvises owners of new puppies
-OL,18,     Gand catches up with people he
-OL,19,     Ghas helped - because when it
-OL,20,     Gcomes to teaching puppies to
-OL,21,     Gbehave, things don't always go
-OL,22,     Gto plan.
+OL,4,G1700F5 News at 5
+OL,5,     GJoin Dan Walker and the team for
+OL,6,     Gthe news that matters to you.
+OL,7,G1800FDogs Behaving (Very) Badly
+OL,8,     GIn a puppy special, Graeme
+OL,9,     Gadvises owners of new puppies
+OL,10,     Gand catches up with people he
+OL,11,     Ghas helped - because when it
+OL,12,     Gcomes to teaching puppies to
+OL,13,     Gbehave, things don't always go
+OL,14,     Gto plan.
+OL,15,G1855FEntertainment News on 5
+OL,16,     GA daily round-up of showbiz news
+OL,17,     Gand gossip from around the
+OL,18,     Gworld, focusing on celebrities,
+OL,19,     Gmovies, music and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
