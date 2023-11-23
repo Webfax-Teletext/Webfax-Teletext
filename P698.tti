@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700717221
+OL,0,        ECIMSBWebfax     F698A1700720836
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700717221
+OL,0,        ECIMSBWebfax     F698A1700720836
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700717221
+OL,0,        ECIMSBWebfax     F698A1700720836
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 22 NOV
-OL,4,G0120FBBC News
+OL,3,CProgramme listings for THU 23 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FDefenders: Busting the Bad Guys
+OL,12,     GA young couple are left in
+OL,13,     Gpieces when a cowboy builder
+OL,14,     Gruins their home. But the
+OL,15,     GDefenders step in, determined to
+OL,16,     Gget justice on their behalf.
+OL,17,G1045FClaimed and Shamed
+OL,18,     GA man's #90,000 claim for an
+OL,19,     Gaccident at work fails when
+OL,20,     Gbosses reveal he wasn't there.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +76,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700717221
+OL,0,        ECIMSBWebfax     F698A1700720836
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 22 NOV
+OL,3,CProgramme listings for THU 23 NOV
 OL,4,G0315FThis is BBC Two
+OL,5,G0630FEscape to the Country
+OL,6,     GMissing family and the great
+OL,7,     GBritish countryside, today's
+OL,8,     Gcouple are heading home to
+OL,9,     GWarwickshire having spent the
+OL,10,     Glast six years living and
+OL,11,     Gworking in the USA.
+OL,12,G0715FAntiques Road Trip
+OL,13,     GDoyenne of the jewellery world
+OL,14,     GIzzie Balmer and 20th-century
+OL,15,     Gdesign whizz Mark Hill raid the
+OL,16,     Gantiques shops of Stroud,
+OL,17,     GCirencester and beyond.
+OL,18,G0800FBig Little Journeys
+OL,19,     GA chameleon in Madagascar and a
+OL,20,     Gwater vole in Scotland travel to
+OL,21,     Gsecure their bloodline.
+OL,22,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,63 +107,76 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700717221
+OL,0,        ECIMSBWebfax     F698A1700720836
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 22 NOV
-OL,4,G0505FDeal or No Deal
-OL,5,     GStephen Mulhern hosts the
-OL,6,     Gexciting and iconic gameshow as
-OL,7,     Ganother of his brave contestants
-OL,8,     Gtakes on the infamous Banker for
-OL,9,     Ga chance to win a life-changing
-OL,10,     Gcash prize.
+OL,3,CProgramme listings for THU 23 NOV
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a
+OL,9,     Gtopical mix of entertainment,
+OL,10,     Gdiscussion and showbiz glamour
+OL,11,     Gas well as the latest fashion,
+OL,12,     Gfood and celebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life
+OL,17,     Gstories, competitions and a mix
+OL,18,     Gof cookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700717221
+OL,0,        ECIMSBWebfax     F698A1700720836
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 22 NOV
-OL,4,G0450FKirstie and Phil's Love It or
-OL,5,     FList It
-OL,6,     GKirstie and Phil meet Heather
-OL,7,     Gand Tim, whose seven-acre home
-OL,8,     Gnear Edinburgh has a
-OL,9,     Gdysfunctional layout. Tim wants
-OL,10,     Gsomewhere more rural but Heather
-OL,11,     Gwants to stay put.
-OL,12,G0545FFind It, Fix It, Flog It
-OL,13,     GOn the Isle of Wight, Henry Cole
-OL,14,     Gand Simon O'Brien uncover four
-OL,15,     Gitems, and restorer Ronnie
-OL,16,     Grelives his past life in Ibiza
-OL,17,     Gvia a three-wheeled trike.
+OL,3,CProgramme listings for THU 23 NOV
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Daliso Chaponda joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0645F3rd Rock from the Sun
+OL,12,     GD3: Judgment Day: Dick realises
+OL,13,     Gthat his romantic unavailability
+OL,14,     Gis making him more attractive to
+OL,15,     GMary. Don tries to teach Sally
+OL,16,     Gto bowl but finds her unorthodox
+OL,17,     Gstyle alarming.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700717221
+OL,0,        ECIMSBWebfax     F698A1700720836
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 22 NOV
-OL,4,G0455FThe All-Inclusive: How Do They
-OL,5,     FDo It
-OL,6,     G.? How will the families max out
-OL,7,     Gtheir last two days? The Greens
-OL,8,     Ghave more nifty hacks, while the
-OL,9,     GWests still hope to find their
-OL,10,     Gfeet. Plus, an unusual talent
-OL,11,     Gcontest.
-OL,12,G0540FEntertainment News on 5
-OL,13,     GA daily round-up of showbiz news
-OL,14,     Gand gossip from around the
-OL,15,     Gworld, focusing on celebrities,
-OL,16,     Gmovies, music and entertainment.
+OL,3,CProgramme listings for THU 23 NOV
+OL,4,G0620FPeppa Pig
+OL,5,     GDuring playgroup, Madame Gazelle
+OL,6,     Gtakes everyone outside to play
+OL,7,     GParachute Games.
+OL,8,G0630FOggy Oggy
+OL,9,     GWhile playing his new radio,
+OL,10,     GOggy Oggy discovers music
+OL,11,     Gaffects emotions. He uses this
+OL,12,     Gto spread happiness and solve
+OL,13,     Gproblems in town. But he
+OL,14,     Goverdoes it... and things go
+OL,15,     Gvery wrong.
+OL,16,G0635FOdo
+OL,17,     GOdo discovers that he has a
+OL,18,     Gsecret ability-amazing 'owl
+OL,19,     Gvision'. From high atop a tree,
+OL,20,     GOdo can see faraway things.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
