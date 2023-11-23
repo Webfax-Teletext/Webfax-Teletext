@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700724452
+OL,0,        ECIMSBWebfax     F698A1700728065
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700724452
+OL,0,        ECIMSBWebfax     F698A1700728065
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700724452
+OL,0,        ECIMSBWebfax     F698A1700728065
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -76,25 +76,26 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700724452
+OL,0,        ECIMSBWebfax     F698A1700728065
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 23 NOV
-OL,4,G0715FAntiques Road Trip
-OL,5,     GDoyenne of the jewellery world
-OL,6,     GIzzie Balmer and 20th-century
-OL,7,     Gdesign whizz Mark Hill raid the
-OL,8,     Gantiques shops of Stroud,
-OL,9,     GCirencester and beyond.
-OL,10,G0800FBig Little Journeys
-OL,11,     GA chameleon in Madagascar and a
-OL,12,     Gwater vole in Scotland travel to
-OL,13,     Gsecure their bloodline.
-OL,14,G0900FBBC News
-OL,15,G1215FPolitics Live
-OL,16,     GThe big political issues of the
-OL,17,     Gday.
+OL,4,G0800FBig Little Journeys
+OL,5,     GA chameleon in Madagascar and a
+OL,6,     Gwater vole in Scotland travel to
+OL,7,     Gsecure their bloodline.
+OL,8,G0900FBBC News
+OL,9,G1215FPolitics Live
+OL,10,     GThe big political issues of the
+OL,11,     Gday.
+OL,12,G1300FThe Boss
+OL,13,     GSusan Calman hosts the quiz show
+OL,14,     Gof tactics, knowledge and nerve.
+OL,15,     GContestants must work as a team,
+OL,16,     Gbut ultimately there can only be
+OL,17,     Gone Boss. Who will walk away
+OL,18,     Gwith the money?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -102,7 +103,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700724452
+OL,0,        ECIMSBWebfax     F698A1700728065
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -128,49 +129,57 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700724452
+OL,0,        ECIMSBWebfax     F698A1700728065
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 23 NOV
-OL,4,G0710F3rd Rock from the Sun
-OL,5,     GIndecent Dick: Dick has no
-OL,6,     Gproblem with Sally posing nude
-OL,7,     Gfor Playpen magazine, but when
-OL,8,     Ghe learns that Mary did the same
-OL,9,     Gthing 20 years previously he
-OL,10,     Gcan't handle it.
-OL,11,G0735FEverybody Loves Raymond
-OL,12,     GThe Disciplinarian: Tired of
-OL,13,     Gbeing labelled the 'evil witch'
-OL,14,     Garound the house, Debra
-OL,15,     Gconvinces Ray that it's his turn
-OL,16,     Gto discipline the kids.
+OL,4,G0825FFrasier
+OL,5,     GPerspectives on Christmas:
+OL,6,     GMartin, Daphne, Niles and Roz
+OL,7,     Geach describe the tedious
+OL,8,     Gholiday season from their own
+OL,9,     Gdiffering perspectives.
+OL,10,G0855FFrasier
+OL,11,     GWhere Every Bloke Knows Your
+OL,12,     GName: The Fox and Whistle is
+OL,13,     GFrasier's new local, which is no
+OL,14,     Gfun for Daphne, who uses the pub
+OL,15,     Gas an escape from life's
+OL,16,     Gstresses.
+OL,17,G0925FFrasier
+OL,18,     GAin't Nobody's Business If I Do:
+OL,19,     GWhen Daphne finds an engagement
+OL,20,     Gring in Martin's underwear
+OL,21,     Gdrawer, Niles hires a detective
+OL,22,     Gto investigate Sherry's past.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700724452
+OL,0,        ECIMSBWebfax     F698A1700728065
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 23 NOV
-OL,4,G0720FPaw Patrol
-OL,5,     GAnimation. Ryder entrusts the
-OL,6,     Gcare of Adventure Bay to Robo-
-OL,7,     GDog while he and the Pups take a
-OL,8,     Gwell-deserved break. But Robo-
-OL,9,     GDog runs amuck fixing things.
-OL,10,G0735FPip and Posy
-OL,11,     GWhen Pip becomes obsessed with
-OL,12,     Ghis 'get well soon' card for
-OL,13,     GPosy, she shows him that just
-OL,14,     Gbeing able to spend time with
-OL,15,     Ghim is the very best gift of all.
-OL,16,G0740FThe Adventures of Paddington
-OL,17,     GMr Gruber gives Paddington a box
-OL,18,     Gof magic tricks, but he cannot
-OL,19,     Gmaster the tricks until he
-OL,20,     Gpractices hard.
+OL,4,G0815FMilo
+OL,5,     GMilo, Lofty and Lark help Chief
+OL,6,     GTyrone earn a special honour at
+OL,7,     Gthe palace after they become
+OL,8,     Gheroic firefighters, but they
+OL,9,     Ghave little time to properly
+OL,10,     Gtrain.
+OL,11,G0835FPAW Patrol
+OL,12,     GAnimated series. Mr Porter's new
+OL,13,     Ghigh-tech waiter robot helps
+OL,14,     Garound the cafe, but it cannot
+OL,15,     Gstop cleaning, so it is up to
+OL,16,     Gthe pups to clean up the mess.
+OL,17,G0845FChip and Potato
+OL,18,     GIt's Show and Tell Day for the
+OL,19,     GHappy Hoppers! But when Chip's
+OL,20,     Ghomemade mouse house gets
+OL,21,     Gsquished, she has to think of
+OL,22,     Gsomething else to show.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
