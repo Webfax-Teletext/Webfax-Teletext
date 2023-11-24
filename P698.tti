@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700803941
+OL,0,        ECIMSBWebfax     F698A1700807556
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700803941
+OL,0,        ECIMSBWebfax     F698A1700807556
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700803941
+OL,0,        ECIMSBWebfax     F698A1700807556
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 23 NOV
-OL,4,G0215FBBC News
+OL,3,CProgramme listings for FRI 24 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FDefenders: Busting the Bad Guys
+OL,12,     GDangerous asbestos is found
+OL,13,     Gillegally dumped in a storage
+OL,14,     Gcontainer near a school. But who
+OL,15,     Gput it there? The Defenders are
+OL,16,     Gdetermined to hunt them down and
+OL,17,     Gbring them to justice.
+OL,18,G1045FClaimed and Shamed: Most Shocking
+OL,19,     GThe heartless woman who tried to
+OL,20,     Gprofit from tragedies like the
+OL,21,     GGrenfell Tower fire.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +77,25 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700803941
+OL,0,        ECIMSBWebfax     F698A1700807556
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 23 NOV
-OL,4,G0330FThis is BBC Two
+OL,3,CProgramme listings for FRI 24 NOV
+OL,4,G0630FEscape to the Country
+OL,5,     GSonali Shah marvels at the
+OL,6,     Gmajesty of Perth and Kinross as
+OL,7,     Gshe helps a couple from a large
+OL,8,     Gtown on England's south coast to
+OL,9,     Gfind their dream country escape
+OL,10,     Gin Scotland.
+OL,11,G0715FAntiques Road Trip
+OL,12,     GJewellery afficionado Izzie
+OL,13,     GBalmer and 20th-century design
+OL,14,     Gconnoisseur Mark Hill motor
+OL,15,     Gthrough Oxfordshire and the
+OL,16,     GMidlands, searching for hidden
+OL,17,     Gtreasures to take to auction.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,69 +103,76 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700803941
+OL,0,        ECIMSBWebfax     F698A1700807556
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 23 NOV
-OL,4,G0505FMoneyball
-OL,5,     GIan Wright hosts the exciting
-OL,6,     Ggame show - in this episode,
-OL,7,     GKieran and Laura, Sarah and
-OL,8,     GPatrick, and Jermaine and Charis
-OL,9,     Gall step up to take on the
-OL,10,     Gmassive might of The Launcher.
+OL,3,CProgramme listings for FRI 24 NOV
+OL,4,G0600FGood Morning Britain
+OL,5,     GSharon Osbourne's ready to
+OL,6,     Greveal all about the toughest
+OL,7,     Gyears of her life with Ozzy, and
+OL,8,     GJenny Agutter joins Ben and Kate.
+OL,9,G0900FLorraine
+OL,10,     GJoel Dommett joins Lorraine as
+OL,11,     Gthe finale of Survivor
+OL,12,     Gapproaches, and also discusses
+OL,13,     Gthe new series of The Masked
+OL,14,     GSinger and how he's finding
+OL,15,     Gparenthood.
+OL,16,G1000FThis Morning
+OL,17,     GSam Mcknight's got 12 party
+OL,18,     Ghairstyles for the 12 days of
+OL,19,     GChristmas, Alison and Dermot
+OL,20,     Gcelebrate 60 years of Doctor
+OL,21,     GWho, and Gyles goes head-to-head
+OL,22,     Gwith a brave viewer.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700803941
+OL,0,        ECIMSBWebfax     F698A1700807556
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 23 NOV
-OL,4,G0505FKirstie's Handmade Christmas
-OL,5,     GKirstie Allsopp brings some
-OL,6,     Gsparkle and magic, and festive
-OL,7,     Gcrafts aplenty. Kirstie's
-OL,8,     Gcrafters compete in her cake
-OL,9,     Gdecorating competition. Plus:
-OL,10,     Gsugarcraft flowers.
-OL,11,G0555FFood Unwrapped
-OL,12,     GJimmy Doherty discovers the
-OL,13,     Gdifference between white and
-OL,14,     Gdark rum, and learns where the
-OL,15,     Gterm 'proof' originally came
-OL,16,     Gfrom: the answer is explosive,
-OL,17,     Gand nearly blows Jimmy away!
+OL,3,CProgramme listings for FRI 24 NOV
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Daliso Chaponda joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0645F3rd Rock from the Sun
+OL,12,     GHappy New Dick!: Dick struggles
+OL,13,     Gto understand the significance
+OL,14,     Gof New Year's Eve, while Harry
+OL,15,     Gplans a huge bash at the bar and
+OL,16,     GTommy volunteers his services as
+OL,17,     Gparty coordinator.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700803941
+OL,0,        ECIMSBWebfax     F698A1700807556
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 23 NOV
-OL,4,G0530FEntertainment News on 5
-OL,5,     GA daily round-up of showbiz news
-OL,6,     Gand gossip from around the
-OL,7,     Gworld, focusing on celebrities,
-OL,8,     Gmovies, music and entertainment.
-OL,9,G0540FPip and Posy
-OL,10,     GAnimated series. Pip is poorly
-OL,11,     Gand wants a quiet sofa day with
-OL,12,     GPiggy. Posy tries to make her
-OL,13,     Gfriend better, but does he just
-OL,14,     Gneed some time to rest?
-OL,15,G0545FPaw Patrol
-OL,16,     GSix brave puppies, captained by
-OL,17,     Ga tech-savvy ten-year-old boy,
-OL,18,     GRyder, work together to
-OL,19,     Gaccomplish high-stakes rescue
-OL,20,     Gmissions to safeguard the
-OL,21,     Gresidents of the Adventure Bay
-OL,22,     Gcommunity.
+OL,3,CProgramme listings for FRI 24 NOV
+OL,4,G0630FOggy Oggy
+OL,5,     GPeople show so little
+OL,6,     Gconsideration for the garbage
+OL,7,     Gcollectors that one of them
+OL,8,     Gquits his job. Oggy Oggy offers
+OL,9,     Gto help them out in his own
+OL,10,     Gimaginative way.
+OL,11,G0635FOdo
+OL,12,     GOdo has never met Doodle's Mum.
+OL,13,     GIn fact, he's never been invited
+OL,14,     Gto Doodle's home at all. Now,
+OL,15,     GOdo is finally going to visit,
+OL,16,     Gand he's about to get the
+OL,17,     Gsurprise of his life.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
