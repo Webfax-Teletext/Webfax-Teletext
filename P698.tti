@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700861767
+OL,0,        ECIMSBWebfax     F698A1700865380
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700861767
+OL,0,        ECIMSBWebfax     F698A1700865380
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,25 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700861767
+OL,0,        ECIMSBWebfax     F698A1700865380
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G2130FTwo Doors Down
-OL,5,     GThe neighbours gather at Colin's
-OL,6,     Gfor a surprise party, but it's
-OL,7,     GColin who gets the shock.
-OL,8,     GContains some strong language.
-OL,9,G2200FBBC News and Weather
-OL,10,G2230FRegional News
-OL,11,G2240FThe Graham Norton Show
-OL,12,     GGraham's guests are Hollywood
-OL,13,     Gstar Michael Fassbender, comedy
-OL,14,     Glegend Jennifer Saunders, Back
-OL,15,     Gto Life star Daisy Haggard,
-OL,16,     Gcomedian Phil Wang and pop
-OL,17,     Gsuperstars Take That.
+OL,4,G2230FRegional News
+OL,5,G2240FThe Graham Norton Show
+OL,6,     GGraham's guests are Hollywood
+OL,7,     Gstar Michael Fassbender, comedy
+OL,8,     Glegend Jennifer Saunders, Back
+OL,9,     Gto Life star Daisy Haggard,
+OL,10,     Gcomedian Phil Wang and pop
+OL,11,     Gsuperstars Take That.
+OL,12,G2330FRuPaul's Drag Race UK
+OL,13,     GIt's the semi-final! The queens
+OL,14,     Gpartake in a roast, and Aisling
+OL,15,     GBea joins as guest judge.
+OL,16,     GContains strong language and
+OL,17,     Gadult humour.
+OL,18,G0035FThe Weakest Link: EastEnders
+OL,19,     FSpecial
+OL,20,     GEight EastEnders cast members
+OL,21,     Gtry to win money for their
+OL,22,     Gchosen charity.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -73,30 +78,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700861767
+OL,0,        ECIMSBWebfax     F698A1700865380
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G2100FThe Newsreader
-OL,5,     GNews at Six is covering the
-OL,6,     Gbiggest television event of the
-OL,7,     Gyear - what can go wrong?
-OL,8,     GContains strong language.
-OL,9,G2200FQI
-OL,10,     GSandi Toksvig tells you about
-OL,11,     Gtails with Rob Beckett, Daliso
-OL,12,     GChaponda, Sarah Millican and
-OL,13,     GAlan Davies. Contains adult
-OL,14,     Ghumour.
-OL,15,G2230FNewsnight
-OL,16,G2300FWeather
-OL,17,G2305FMary Queen of Scots
-OL,18,     G1561. Young Catholic widow Mary
-OL,19,     GStuart returns to Scotland from
-OL,20,     GFrance determined to rule.
-OL,21,     GContains scenes of a sexual
-OL,22,     Gnature.
+OL,4,G2230FNewsnight
+OL,5,G2300FWeather
+OL,6,G2305FMary Queen of Scots
+OL,7,     G1561. Young Catholic widow Mary
+OL,8,     GStuart returns to Scotland from
+OL,9,     GFrance determined to rule.
+OL,10,     GContains scenes of a sexual
+OL,11,     Gnature.
+OL,12,G0100FShakespeare: Rise of a Genius
+OL,13,     GShakespeare's Catholic past
+OL,14,     Gcomes back to haunt him,
+OL,15,     Ginspiring his most tragic work
+OL,16,     Gyet.
+OL,17,G0200FSaving Lives at Sea
+OL,18,     GIn Blackpool, the crew respond
+OL,19,     Gto reports of a teenager who has
+OL,20,     Gbeen swept out to sea within
+OL,21,     Gsight of the main beach.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,73 +108,77 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700861767
+OL,0,        ECIMSBWebfax     F698A1700865380
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G2100FI'm A Celebrity... Get Me...
-OL,5,     GOut Of Here! The celebrities
-OL,6,     Ghave nearly endured a week in
-OL,7,     Gthe Australian wilderness, but
-OL,8,     Gthey must continue on in the
-OL,9,     Ghope of being crowned as King or
-OL,10,     GQueen of the Jungle.
-OL,11,G2215FITV News at Ten
-OL,12,     GITV News provides a fresh
-OL,13,     Gperspective on the major stories
-OL,14,     Gof the day with national and
-OL,15,     Ginternational news with reports
-OL,16,     Gand analysis from ITV's
-OL,17,     GCorrespondents.
-OL,18,G2250FRegional News
+OL,4,G2215FITV News at Ten
+OL,5,     GITV News provides a fresh
+OL,6,     Gperspective on the major stories
+OL,7,     Gof the day with national and
+OL,8,     Ginternational news with reports
+OL,9,     Gand analysis from ITV's
+OL,10,     GCorrespondents.
+OL,11,G2250FRegional News
+OL,12,G2300FThe NFL Show
+OL,13,     GHost Craig Doyle is joined by
+OL,14,     Gtwo-time Super Bowl winner Osi
+OL,15,     GUmenyiora and former NFL star
+OL,16,     Gdefensive back Jason Bell as we
+OL,17,     Gcelebrate Thanksgiving with
+OL,18,     Ghighlights from three games.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700861767
+OL,0,        ECIMSBWebfax     F698A1700865380
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G2100FGogglebox
-OL,5,     GOn the 'box this time: Squid
-OL,6,     GGame: The Challenge, I'm A
-OL,7,     GCelebrity... Get Me Out of
-OL,8,     GHere!, The Crown, Deal or No
-OL,9,     GDeal, Planet Earth III, Made in
-OL,10,     GChelsea and Saving Lives at Sea.
-OL,11,G2200FLive: The Last Leg
-OL,12,     GComedians Katherine Ryan and
-OL,13,     GNabil Abdulrashid join Adam
-OL,14,     GHills, Josh Widdicombe and Alex
-OL,15,     GBrooker for a raucous,
-OL,16,     Grelentless review of the week's
-OL,17,     Gbiggest news stories.
+OL,4,G2200FLive: The Last Leg
+OL,5,     GComedians Katherine Ryan and
+OL,6,     GNabil Abdulrashid join Adam
+OL,7,     GHills, Josh Widdicombe and Alex
+OL,8,     GBrooker for a raucous,
+OL,9,     Grelentless review of the week's
+OL,10,     Gbiggest news stories.
+OL,11,G2305FJon & Lucy's Odd Couples
+OL,12,     GJon Richardson and Lucy Beaumont
+OL,13,     Gput celebs' relationships to the
+OL,14,     Gtest. Sara Pascoe and Steen
+OL,15,     GRaskopoulos take on Duncan James
+OL,16,     Gand Rodrigo Reis in a dizzying
+OL,17,     Gdishwasher dash.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700861767
+OL,0,        ECIMSBWebfax     F698A1700865380
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G2100FThe Good Ship Murder
-OL,5,     GA murderer strikes in the shadow
-OL,6,     Gof Barcelona's majestic Sagrada
-OL,7,     GFamilia, but who has the skills
-OL,8,     Gto kill in this very particular
-OL,9,     Gway? Jack and Kate investigate a
-OL,10,     Gcrime that feels personal.
-OL,11,G2200FCruising with Jane McDonald at
-OL,12,     FChristmas
-OL,13,     GFestive travelogue special.
-OL,14,     GOnboard the Norwegian
-OL,15,     Ginstitution, Coastal Express,
-OL,16,     GJane encounters a swimming
-OL,17,     GSanta, a Viking banquet, and the
-OL,18,     Gstunning Arctic Cathedral.
+OL,4,G2200FCruising with Jane McDonald at
+OL,5,     FChristmas
+OL,6,     GFestive travelogue special.
+OL,7,     GOnboard the Norwegian
+OL,8,     Ginstitution, Coastal Express,
+OL,9,     GJane encounters a swimming
+OL,10,     GSanta, a Viking banquet, and the
+OL,11,     Gstunning Arctic Cathedral.
+OL,12,G2305FHang 'Em High
+OL,13,     GWestern adventure starring Clint
+OL,14,     GEastwood and Inger Stevens. A
+OL,15,     Gcowboy hunts down the vigilantes
+OL,16,     Gwho tried to hang him after
+OL,17,     Gmistaking him for a murderer.
+OL,18,G0005FEntertainment News on 5
+OL,19,     GA daily round-up of showbiz news
+OL,20,     Gand gossip from around the
+OL,21,     Gworld, focusing on celebrities,
+OL,22,     Gmovies, music and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
