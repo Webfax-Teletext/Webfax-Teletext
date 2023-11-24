@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700814786
+OL,0,        ECIMSBWebfax     F698A1700818401
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700814786
+OL,0,        ECIMSBWebfax     F698A1700818401
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700814786
+OL,0,        ECIMSBWebfax     F698A1700818401
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0915FMorning Live
-OL,9,     GConversation, advice and great
-OL,10,     Gcompany to make your morning.
-OL,11,G1000FDefenders: Busting the Bad Guys
-OL,12,     GDangerous asbestos is found
-OL,13,     Gillegally dumped in a storage
-OL,14,     Gcontainer near a school. But who
-OL,15,     Gput it there? The Defenders are
-OL,16,     Gdetermined to hunt them down and
-OL,17,     Gbring them to justice.
-OL,18,G1045FClaimed and Shamed: Most Shocking
-OL,19,     GThe heartless woman who tried to
-OL,20,     Gprofit from tragedies like the
-OL,21,     GGrenfell Tower fire.
+OL,4,G0915FMorning Live
+OL,5,     GConversation, advice and great
+OL,6,     Gcompany to make your morning.
+OL,7,G1000FDefenders: Busting the Bad Guys
+OL,8,     GDangerous asbestos is found
+OL,9,     Gillegally dumped in a storage
+OL,10,     Gcontainer near a school. But who
+OL,11,     Gput it there? The Defenders are
+OL,12,     Gdetermined to hunt them down and
+OL,13,     Gbring them to justice.
+OL,14,G1045FClaimed and Shamed: Most Shocking
+OL,15,     GThe heartless woman who tried to
+OL,16,     Gprofit from tragedies like the
+OL,17,     GGrenfell Tower fire.
+OL,18,G1115FHomes Under the Hammer
+OL,19,     GFeaturing developments projects
+OL,20,     Gin Wednesbury in the West
+OL,21,     GMidlands, Dunvant in Swansea and
+OL,22,     GNorwich in Norfolk.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,30 +78,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700814786
+OL,0,        ECIMSBWebfax     F698A1700818401
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G0830FVillages by the Sea: Port
-OL,5,     FCarlisle
-OL,6,     GBen Robinson explores the
-OL,7,     Gremains of a lost harbour in
-OL,8,     GPort Carlisle, a once-thriving
-OL,9,     Gport that hoped to rival
-OL,10,     GLiverpool.
-OL,11,G0900FBBC News
-OL,12,G1215FPolitics UK
-OL,13,     GSean Curran presents highlights
-OL,14,     Gof parliamentary proceedings
-OL,15,     Gfrom across the UK.
-OL,16,G1300FThe Boss
-OL,17,     GSusan Calman hosts the quiz show
-OL,18,     Gof tactics, knowledge and nerve.
-OL,19,     GContestants must work as a team,
-OL,20,     Gbut ultimately there can only be
-OL,21,     Gone Boss. Who will walk away
-OL,22,     Gwith the money?
+OL,4,G0900FBBC News
+OL,5,G1215FPolitics UK
+OL,6,     GSean Curran presents highlights
+OL,7,     Gof parliamentary proceedings
+OL,8,     Gfrom across the UK.
+OL,9,G1300FThe Boss
+OL,10,     GSusan Calman hosts the quiz show
+OL,11,     Gof tactics, knowledge and nerve.
+OL,12,     GContestants must work as a team,
+OL,13,     Gbut ultimately there can only be
+OL,14,     Gone Boss. Who will walk away
+OL,15,     Gwith the money?
+OL,16,G1345FLightning
+OL,17,     GComedian Zoe Lyons hosts the
+OL,18,     Gquickfire quiz where six plucky
+OL,19,     Gcontestants must stay out of the
+OL,20,     Glight to be alright. Can anyone
+OL,21,     Gbeat the lightning and win the
+OL,22,     G#3,000 jackpot?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -108,84 +109,77 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700814786
+OL,0,        ECIMSBWebfax     F698A1700818401
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G0600FGood Morning Britain
-OL,5,     GSharon Osbourne's ready to
-OL,6,     Greveal all about the toughest
-OL,7,     Gyears of her life with Ozzy, and
-OL,8,     GJenny Agutter joins Ben and Kate.
-OL,9,G0900FLorraine
-OL,10,     GJoel Dommett joins Lorraine as
-OL,11,     Gthe finale of Survivor
-OL,12,     Gapproaches, and also discusses
-OL,13,     Gthe new series of The Masked
-OL,14,     GSinger and how he's finding
-OL,15,     Gparenthood.
-OL,16,G1000FThis Morning
-OL,17,     GSam Mcknight's got 12 party
-OL,18,     Ghairstyles for the 12 days of
-OL,19,     GChristmas, Alison and Dermot
-OL,20,     Gcelebrate 60 years of Doctor
-OL,21,     GWho, and Gyles goes head-to-head
-OL,22,     Gwith a brave viewer.
+OL,4,G0900FLorraine
+OL,5,     GJoel Dommett joins Lorraine as
+OL,6,     Gthe finale of Survivor
+OL,7,     Gapproaches, and also discusses
+OL,8,     Gthe new series of The Masked
+OL,9,     GSinger and how he's finding
+OL,10,     Gparenthood.
+OL,11,G1000FThis Morning
+OL,12,     GSam Mcknight's got 12 party
+OL,13,     Ghairstyles for the 12 days of
+OL,14,     GChristmas, Alison and Dermot
+OL,15,     Gcelebrate 60 years of Doctor
+OL,16,     GWho, and Gyles goes head-to-head
+OL,17,     Gwith a brave viewer.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700814786
+OL,0,        ECIMSBWebfax     F698A1700818401
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G0825FFrasier
-OL,5,     GThe Zoo Story: Frasier gets a
-OL,6,     Gnew agent, who sets him up with
-OL,7,     Gan opportunity for some great
-OL,8,     Gpublicity when a crane at the
-OL,9,     Glocal zoo is named after him.
-OL,10,G0855FFrasier
-OL,11,     GThe Maris Counselor: Under the
-OL,12,     Gcare of his and Maris's
-OL,13,     Gtherapist, Niles is convinced
-OL,14,     Gtheir marriage can be saved -
-OL,15,     Guntil a surprise rendezvous
-OL,16,     Gleaves him devastated.
-OL,17,G0925FFrasier
-OL,18,     GSki Lodge: Frasier's plans for a
-OL,19,     Gfamily holiday end in a romantic
-OL,20,     Gfarce involving the Cranes,
-OL,21,     GDaphne, her friend and a ski
-OL,22,     Ginstructor.
+OL,4,G0925FFrasier
+OL,5,     GSki Lodge: Frasier's plans for a
+OL,6,     Gfamily holiday end in a romantic
+OL,7,     Gfarce involving the Cranes,
+OL,8,     GDaphne, her friend and a ski
+OL,9,     Ginstructor.
+OL,10,G0955FFind It, Fix It, Flog It
+OL,11,     GHenry Cole and Simon O'Brien
+OL,12,     Grestore a pine blanket chest, a
+OL,13,     Gpair of battlefield telephones
+OL,14,     Gand some Gothic church windows.
+OL,15,G1055FThe Great House Giveaway
+OL,16,     GAaron and Stuart have got all
+OL,17,     Gthe skills they need between
+OL,18,     Gthem to make their Somerset
+OL,19,     Grenovation a big success. But as
+OL,20,     Gemotions run high, can they pull
+OL,21,     Goff the ambitious build?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700814786
+OL,0,        ECIMSBWebfax     F698A1700818401
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G0815FMilo
-OL,5,     GWhen Milo, Lofty and Lark take
-OL,6,     Gpart in the Milotown Tennis
-OL,7,     GChampionship, it's ball boy
-OL,8,     GLofty who shows the best
-OL,9,     Gteamwork off court.
-OL,10,G0835FPAW Patrol
-OL,11,     GChildren's animated series.
-OL,12,     GMayor Humdinger creates a
-OL,13,     Gcyclone of delicious pies, and
-OL,14,     Gthe pups must stop it before the
-OL,15,     Gtown is covered.
-OL,16,G0845FChip and Potato
-OL,17,     GAfter taking care of the class
-OL,18,     Gsnuggly toy for the weekend,
-OL,19,     Git's the night before school,
-OL,20,     Gand Chip can't find Deely Bear!
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and Storm discuss
+OL,6,     Gthe latest news and get your
+OL,7,     Gviews and opinions of the day.
+OL,8,G1115FStorm Huntley
+OL,9,     GStorm Huntley carries on the
+OL,10,     Gdiscussion and takes your calls
+OL,11,     Gto discuss the biggest stories
+OL,12,     Gof the day.
+OL,13,G1230FAlexis Conran
+OL,14,     GAlexis Conran hears from you,
+OL,15,     Gtalking about the important
+OL,16,     Gstories and getting your
+OL,17,     Gopinions and views on them.
+OL,18,G1325F5 News at Lunchtime
+OL,19,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
