@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700825630
+OL,0,        ECIMSBWebfax     F698A1700829244
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700825630
+OL,0,        ECIMSBWebfax     F698A1700829244
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700825630
+OL,0,        ECIMSBWebfax     F698A1700829244
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G1115FHomes Under the Hammer
-OL,5,     GFeaturing developments projects
-OL,6,     Gin Wednesbury in the West
-OL,7,     GMidlands, Dunvant in Swansea and
-OL,8,     GNorwich in Norfolk.
-OL,9,G1215FBargain Hunt
-OL,10,     GNatasha Raskin Sharp heads to
-OL,11,     GCheltenham Racecourse, where
-OL,12,     Gexperts Danny Sebastian and
-OL,13,     GCaroline Hawley help the teams
-OL,14,     Gsearch for the best items to
-OL,15,     Gsell at auction.
-OL,16,G1300FBBC News
-OL,17,G1330FRegional News
-OL,18,G1345FLondon Kills
-OL,19,     GA parental revelation might be a
-OL,20,     Gmurder motive, but a grudge
-OL,21,     Gderails David's judgement.
+OL,4,G1215FBargain Hunt
+OL,5,     GNatasha Raskin Sharp heads to
+OL,6,     GCheltenham Racecourse, where
+OL,7,     Gexperts Danny Sebastian and
+OL,8,     GCaroline Hawley help the teams
+OL,9,     Gsearch for the best items to
+OL,10,     Gsell at auction.
+OL,11,G1300FBBC News
+OL,12,G1330FRegional News
+OL,13,G1345FLondon Kills
+OL,14,     GA parental revelation might be a
+OL,15,     Gmurder motive, but a grudge
+OL,16,     Gderails David's judgement.
+OL,17,G1430FThe Bidding Room
+OL,18,     GFive dealers bid for a model of
+OL,19,     Ga working mill, a decorative
+OL,20,     GNorwegian pan and a unicycle.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,30 +76,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700825630
+OL,0,        ECIMSBWebfax     F698A1700829244
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G0900FBBC News
-OL,5,G1215FPolitics UK
-OL,6,     GSean Curran presents highlights
-OL,7,     Gof parliamentary proceedings
-OL,8,     Gfrom across the UK.
-OL,9,G1300FThe Boss
-OL,10,     GSusan Calman hosts the quiz show
-OL,11,     Gof tactics, knowledge and nerve.
-OL,12,     GContestants must work as a team,
-OL,13,     Gbut ultimately there can only be
-OL,14,     Gone Boss. Who will walk away
-OL,15,     Gwith the money?
-OL,16,G1345FLightning
-OL,17,     GComedian Zoe Lyons hosts the
-OL,18,     Gquickfire quiz where six plucky
-OL,19,     Gcontestants must stay out of the
-OL,20,     Glight to be alright. Can anyone
-OL,21,     Gbeat the lightning and win the
-OL,22,     G#3,000 jackpot?
+OL,4,G1215FPolitics UK
+OL,5,     GSean Curran presents highlights
+OL,6,     Gof parliamentary proceedings
+OL,7,     Gfrom across the UK.
+OL,8,G1300FThe Boss
+OL,9,     GSusan Calman hosts the quiz show
+OL,10,     Gof tactics, knowledge and nerve.
+OL,11,     GContestants must work as a team,
+OL,12,     Gbut ultimately there can only be
+OL,13,     Gone Boss. Who will walk away
+OL,14,     Gwith the money?
+OL,15,G1345FLightning
+OL,16,     GComedian Zoe Lyons hosts the
+OL,17,     Gquickfire quiz where six plucky
+OL,18,     Gcontestants must stay out of the
+OL,19,     Glight to be alright. Can anyone
+OL,20,     Gbeat the lightning and win the
+OL,21,     G#3,000 jackpot?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -108,77 +106,76 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700825630
+OL,0,        ECIMSBWebfax     F698A1700829244
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G1000FThis Morning
-OL,5,     GSam Mcknight's got 12 party
-OL,6,     Ghairstyles for the 12 days of
-OL,7,     GChristmas, Alison and Dermot
-OL,8,     Gcelebrate 60 years of Doctor
-OL,9,     GWho, and Gyles goes head-to-head
-OL,10,     Gwith a brave viewer.
-OL,11,G1230FLoose Women
-OL,12,     GChristine McGuinness joins
-OL,13,     GNadia, Denise and Judi for a
-OL,14,     Gspecial episode, giving a rare
-OL,15,     Gand very personal insight into
-OL,16,     Glife as a woman with a non-
-OL,17,     Gvisible disability.
+OL,4,G1230FLoose Women
+OL,5,     GChristine McGuinness joins
+OL,6,     GNadia, Denise and Judi for a
+OL,7,     Gspecial episode, giving a rare
+OL,8,     Gand very personal insight into
+OL,9,     Glife as a woman with a non-
+OL,10,     Gvisible disability.
+OL,11,G1330FITV Lunchtime News
+OL,12,     GThe latest headlines from around
+OL,13,     Gthe world at lunchtime with
+OL,14,     Greports and analysis from ITV's
+OL,15,     GCorrespondents, all of which are
+OL,16,     Gfollowed by a national weather
+OL,17,     Gforecast.
+OL,18,G1355FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700825630
+OL,0,        ECIMSBWebfax     F698A1700829244
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G1055FThe Great House Giveaway
-OL,5,     GAaron and Stuart have got all
-OL,6,     Gthe skills they need between
-OL,7,     Gthem to make their Somerset
-OL,8,     Grenovation a big success. But as
-OL,9,     Gemotions run high, can they pull
-OL,10,     Goff the ambitious build?
-OL,11,G1155FChannel 4 News Summary
-OL,12,     GChannel 4's midday news summary.
-OL,13,G1200FLive: Steph's Packed Lunch
-OL,14,     GSteph's joined by boxer Carl
-OL,15,     GFrampton, who discusses his
-OL,16,     Gpublic battle with his former
-OL,17,     Gsports promoter. Anna Richardson
-OL,18,     Gsolves our relationship
-OL,19,     Gdilemmas. Plus: Black Friday
-OL,20,     Gdeals.
+OL,4,G1200FLive: Steph's Packed Lunch
+OL,5,     GSteph's joined by boxer Carl
+OL,6,     GFrampton, who discusses his
+OL,7,     Gpublic battle with his former
+OL,8,     Gsports promoter. Anna Richardson
+OL,9,     Gsolves our relationship
+OL,10,     Gdilemmas. Plus: Black Friday
+OL,11,     Gdeals.
+OL,12,G1410FCountdown
+OL,13,     GColin Murray and Rachel Riley
+OL,14,     Ghost as contestants race against
+OL,15,     Gthe clock to pit their wits
+OL,16,     Gagainst vowels, consonants and
+OL,17,     Gnumbers. Daliso Chaponda joins
+OL,18,     GSusie Dent in Dictionary Corner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700825630
+OL,0,        ECIMSBWebfax     F698A1700829244
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 24 NOV
-OL,4,G1115FStorm Huntley
-OL,5,     GStorm Huntley carries on the
-OL,6,     Gdiscussion and takes your calls
-OL,7,     Gto discuss the biggest stories
-OL,8,     Gof the day.
-OL,9,G1230FAlexis Conran
-OL,10,     GAlexis Conran hears from you,
-OL,11,     Gtalking about the important
-OL,12,     Gstories and getting your
-OL,13,     Gopinions and views on them.
-OL,14,G1325F5 News at Lunchtime
-OL,15,     GNational and international news.
-OL,16,G1330FSaying Yes to Christmas
-OL,17,     GA magical Christmas wish makes a
-OL,18,     Gcareer-obsessed woman say "yes"
-OL,19,     Gto every invitation while she's
-OL,20,     Ghome for the holidays.
+OL,4,G1230FAlexis Conran
+OL,5,     GAlexis Conran hears from you,
+OL,6,     Gtalking about the important
+OL,7,     Gstories and getting your
+OL,8,     Gopinions and views on them.
+OL,9,G1325F5 News at Lunchtime
+OL,10,     GNational and international news.
+OL,11,G1330FSaying Yes to Christmas
+OL,12,     GA magical Christmas wish makes a
+OL,13,     Gcareer-obsessed woman say "yes"
+OL,14,     Gto every invitation while she's
+OL,15,     Ghome for the holidays.
+OL,16,G1515FLet's Meet Again On Christmas Eve
+OL,17,     GTwo college sweethearts
+OL,18,     Greconnect while coordinating a
+OL,19,     Gwedding just before the
+OL,20,     GChristmas holidays.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
