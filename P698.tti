@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700952734
+OL,0,        ECIMSBWebfax     F698A1700956347
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700952734
+OL,0,        ECIMSBWebfax     F698A1700956347
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,28 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700952734
+OL,0,        ECIMSBWebfax     F698A1700956347
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 25 NOV
-OL,4,G2220FMatch of the Day
-OL,5,     GGary Lineker presents highlights
-OL,6,     Gfrom the day's Premier League
-OL,7,     Ggames, including Liverpool's
-OL,8,     Gvisit to the Etihad Stadium to
-OL,9,     Gface champions Manchester City.
-OL,10,G2345FDoctor Who: Unleashed
-OL,11,     GSteffan Powell catches up with
-OL,12,     GDavid Tennant and Catherine Tate
-OL,13,     Gahead of their much-anticipated
-OL,14,     Greunion and meets the monsters
-OL,15,     Gand makers of The Star Beast.
-OL,16,G0015FThe Rap Game UK
-OL,17,     GArtists clash and then collab
-OL,18,     Gwith their opponent for the
-OL,19,     Gchance to win a unique prize.
-OL,20,     GContains some strong language.
+OL,4,G2345FDoctor Who: Unleashed
+OL,5,     GSteffan Powell catches up with
+OL,6,     GDavid Tennant and Catherine Tate
+OL,7,     Gahead of their much-anticipated
+OL,8,     Greunion and meets the monsters
+OL,9,     Gand makers of The Star Beast.
+OL,10,G0015FThe Rap Game UK
+OL,11,     GArtists clash and then collab
+OL,12,     Gwith their opponent for the
+OL,13,     Gchance to win a unique prize.
+OL,14,     GContains some strong language.
+OL,15,G0120FThe Graham Norton Show
+OL,16,     GGuests include Michael
+OL,17,     GFassbender, Jennifer Saunders,
+OL,18,     GDaisy Haggard and Take That.
+OL,19,     GContains adult humour. Also in
+OL,20,     GHD.
+OL,21,G0210FWeather for the Week Ahead
+OL,22,G0215FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -76,30 +78,26 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700952734
+OL,0,        ECIMSBWebfax     F698A1700956347
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 25 NOV
-OL,4,G2235FTOTP 1992: Biggest Hits
-OL,5,     GThe Top of the Pops vaults are
-OL,6,     Gopened up to relive some of the
-OL,7,     Gbiggest songs of 1992.
-OL,8,G2335FSnooker: UK Championship
-OL,9,     FHighlights
-OL,10,     GHighlights from the first day of
-OL,11,     Gthe 2023 UK Snooker Championship.
-OL,12,G0025FSnooker: UK Championship Extra
-OL,13,     GHighlights from the first day of
-OL,14,     Gthe 2023 UK Snooker Championship.
-OL,15,G0225FCelebrity Antiques Road Trip
-OL,16,     GKent and Surrey host pop royalty
-OL,17,     GSamantha Fox and Sinitta for
-OL,18,     Gtheir road trip in a 1987 Locus
-OL,19,     GExcel. The powers behind the
-OL,20,     Gthrone are Steven Moore and Tim
-OL,21,     GMedhurst.
-OL,22,G0325FThis is BBC Two
+OL,4,G2335FSnooker: UK Championship
+OL,5,     FHighlights
+OL,6,     GHighlights from the first day of
+OL,7,     Gthe 2023 UK Snooker Championship.
+OL,8,G0025FSnooker: UK Championship Extra
+OL,9,     GHighlights from the first day of
+OL,10,     Gthe 2023 UK Snooker Championship.
+OL,11,G0225FCelebrity Antiques Road Trip
+OL,12,     GKent and Surrey host pop royalty
+OL,13,     GSamantha Fox and Sinitta for
+OL,14,     Gtheir road trip in a 1987 Locus
+OL,15,     GExcel. The powers behind the
+OL,16,     Gthrone are Steven Moore and Tim
+OL,17,     GMedhurst.
+OL,18,G0325FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -107,71 +105,72 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700952734
+OL,0,        ECIMSBWebfax     F698A1700956347
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 25 NOV
-OL,4,G2250FOlivia Attwood: Getting Filthy
-OL,5,     FRich
-OL,6,     GSugar Babies: Olivia looks at
-OL,7,     Gthe world of sugar babies -
-OL,8,     Gyoung women dating older men in
-OL,9,     Gexchange for gifts and cash -
-OL,10,     Gand uncovers the concept's
-OL,11,     Gextreme side.
-OL,12,G2350FEnglish Football League
-OL,13,     FHighlights
-OL,14,     GAll the highlights, action and
-OL,15,     Gtalking points from the latest
-OL,16,     GEnglish Football League matches.
+OL,4,G2350FEnglish Football League
+OL,5,     FHighlights
+OL,6,     GAll the highlights, action and
+OL,7,     Gtalking points from the latest
+OL,8,     GEnglish Football League matches.
+OL,9,G0115FThe Chase
+OL,10,     GBradley Walsh hosts and is
+OL,11,     Gbehind Niall from Falkirk,
+OL,12,     GPhilip from Droitwich Spa, Amy
+OL,13,     Gfrom Doncaster and Alexia
+OL,14,     Goriginally from Northamptonshire
+OL,15,     Gall the way as they face a
+OL,16,     GChaser.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700952734
+OL,0,        ECIMSBWebfax     F698A1700956347
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 25 NOV
-OL,4,G2130FInfinite
-OL,5,     GSci-fi action. Evan finds out
-OL,6,     Ghis hallucinations are memories
-OL,7,     Gfrom past lives. There are
-OL,8,     Gothers like him, but they aren't
-OL,9,     Gall good guys... Strong violence
-OL,10,     G& language.
-OL,11,G2330FRambo
-OL,12,     GSylvester Stallone's fourth
-OL,13,     Gouting as the Vietnam vet
-OL,14,     Gkilling machine. Can he rescue
-OL,15,     Gcaptured missionaries in
-OL,16,     GMyanmar? Violence/strong,
-OL,17,     Goffensive language/upsetting
-OL,18,     Gscenes.
+OL,4,G2330FRambo
+OL,5,     GSylvester Stallone's fourth
+OL,6,     Gouting as the Vietnam vet
+OL,7,     Gkilling machine. Can he rescue
+OL,8,     Gcaptured missionaries in
+OL,9,     GMyanmar? Violence/strong,
+OL,10,     Goffensive language/upsetting
+OL,11,     Gscenes.
+OL,12,G0115FBoiling Point
+OL,13,     GStephen Graham stars as a top
+OL,14,     Gchef spiralling inexorably
+OL,15,     Gtowards destruction, as his life
+OL,16,     Gdescends into chaos over one
+OL,17,     Gnight's service at a London
+OL,18,     Grestaurant. Strong language/
+OL,19,     Gdrugs.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700952734
+OL,0,        ECIMSBWebfax     F698A1700956347
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 25 NOV
-OL,4,G2200FMost Shocking Celebrity Moments
-OL,5,     Fof the 80s
-OL,6,     GChock-full of classic clips that
-OL,7,     Gyou won't believe are now four
-OL,8,     Gdecades old, featuring first-
-OL,9,     Ghand insight from those who were
-OL,10,     Gthere.
-OL,11,G2350FPatrick Swayze: Dirty Dancer
-OL,12,     GFeature-length documentary
-OL,13,     Grevealing the truth about
-OL,14,     GPatrick Swayze's remarkable
-OL,15,     Glife, from the heights of fame
-OL,16,     Gto darkest of tragedies, we hear
-OL,17,     Gfrom those who knew him best.
+OL,4,G2350FPatrick Swayze: Dirty Dancer
+OL,5,     GFeature-length documentary
+OL,6,     Grevealing the truth about
+OL,7,     GPatrick Swayze's remarkable
+OL,8,     Glife, from the heights of fame
+OL,9,     Gto darkest of tragedies, we hear
+OL,10,     Gfrom those who knew him best.
+OL,11,G0115FPlayOJO Live Casino Show
+OL,12,     GRed or black? Odds or evens?
+OL,13,     GWhichever way you play, get that
+OL,14,     GOJO feeling with two hours of
+OL,15,     Gexciting live roulette every
+OL,16,     Gsingle night! Take us for a spin
+OL,17,     Gand feel the fun at playojo.com.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
