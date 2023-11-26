@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701039446
+OL,0,        ECIMSBWebfax     F698A1701043057
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701039446
+OL,0,        ECIMSBWebfax     F698A1701043057
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,23 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701039446
+OL,0,        ECIMSBWebfax     F698A1701043057
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G2230FMatch of the Day 2
-OL,5,     GMark Chapman introduces
-OL,6,     Ghighlights from the day's two
-OL,7,     GPremier League matches, in which
-OL,8,     GTottenham hosted Aston Villa,
-OL,9,     Gand Manchester United visited
-OL,10,     GEverton.
-OL,11,G2330FThe Women's Football Show
-OL,12,     GHighlights from the weekend's
-OL,13,     GBarclays Women's Super League
-OL,14,     Gmatches, as Manchester United
-OL,15,     Gtravel to Bristol City and
-OL,16,     GManchester City host Tottenham.
-OL,17,G0015FMOTD Top Ten: Last-Minute Goals
-OL,18,     GGary, Alan and Micah pick their
-OL,19,     Gfavourite last-minute Premier
-OL,20,     GLeague goals.
-OL,21,G0045FWeather for the Week Ahead
-OL,22,G0050FBBC News
+OL,4,G2330FThe Women's Football Show
+OL,5,     GHighlights from the weekend's
+OL,6,     GBarclays Women's Super League
+OL,7,     Gmatches, as Manchester United
+OL,8,     Gtravel to Bristol City and
+OL,9,     GManchester City host Tottenham.
+OL,10,G0015FMOTD Top Ten: Last-Minute Goals
+OL,11,     GGary, Alan and Micah pick their
+OL,12,     Gfavourite last-minute Premier
+OL,13,     GLeague goals.
+OL,14,G0045FWeather for the Week Ahead
+OL,15,G0050FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,26 +71,26 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701039446
+OL,0,        ECIMSBWebfax     F698A1701043057
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G2200FThe Imitation Game
-OL,5,     GDuring the Second World War,
-OL,6,     Gmathematician Alan Turing and
-OL,7,     Ghis team of cryptographers set
-OL,8,     Gout to decipher the German
-OL,9,     GEnigma code.
-OL,10,G2350FSnooker: UK Championship
-OL,11,     FHighlights
-OL,12,     GHighlights from the second day
-OL,13,     Gof the 2023 UK Snooker
-OL,14,     GChampionship.
-OL,15,G0040FSnooker: UK Championship Extra
-OL,16,     GHighlights from the second day
-OL,17,     Gof the 2023 UK Snooker
-OL,18,     GChampionship.
+OL,4,G2350FSnooker: UK Championship
+OL,5,     FHighlights
+OL,6,     GHighlights from the second day
+OL,7,     Gof the 2023 UK Snooker
+OL,8,     GChampionship.
+OL,9,G0040FSnooker: UK Championship Extra
+OL,10,     GHighlights from the second day
+OL,11,     Gof the 2023 UK Snooker
+OL,12,     GChampionship.
+OL,13,G0240FQuestion Time
+OL,14,     GFiona Bruce presents topical
+OL,15,     Gdebate from Stevenage, Herts. On
+OL,16,     Gthe panel are Andrew Griffith
+OL,17,     GMP, Alison McGovern MP, Isabel
+OL,18,     GOakeshott, and Patrick Grant.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -105,33 +98,35 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701039446
+OL,0,        ECIMSBWebfax     F698A1701043057
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G2250FLong Lost Family
-OL,5,     GThis episode features a
-OL,6,     Gfoundling's incredible journey
-OL,7,     Gto Hong Kong in search of
-OL,8,     Ginformation about her origins
-OL,9,     Gand a daughter's desperate quest
-OL,10,     Gto fulfil her mother's dying
-OL,11,     Gwish.
-OL,12,G2345FGallagher Premiership Rugby
+OL,4,G2345FGallagher Premiership Rugby
+OL,5,     FHighlights
+OL,6,     GAll the action from Round Seven
+OL,7,     Gof the 2023-24 Gallagher
+OL,8,     GPremiership season, this time
+OL,9,     Gfeaturing Northampton Saints v
+OL,10,     GHarlequins and Sale Sharks v
+OL,11,     GBath.
+OL,12,G0045FEnglish Football League
 OL,13,     FHighlights
-OL,14,     GAll the action from Round Seven
-OL,15,     Gof the 2023-24 Gallagher
-OL,16,     GPremiership season, this time
-OL,17,     Gfeaturing Northampton Saints v
-OL,18,     GHarlequins and Sale Sharks v
-OL,19,     GBath.
+OL,14,     GAll the highlights, action and
+OL,15,     Gtalking points from the latest
+OL,16,     GEnglish Football League matches.
+OL,17,G0200FCash Trapped
+OL,18,     GJoin Bradley Walsh for more
+OL,19,     Gtrivia and tactics as six
+OL,20,     Gplayers once again attempt to
+OL,21,     Gleave the show with their cash.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701039446
+OL,0,        ECIMSBWebfax     F698A1701043057
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -155,23 +150,24 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701039446
+OL,0,        ECIMSBWebfax     F698A1701043057
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G2230FAdults Only: Kinky for Kicks
-OL,5,     GPrincess Levi, a former glamour
-OL,6,     Gmodel with 20 years in the game,
-OL,7,     Gnow runs a successful home-based
-OL,8,     Gservice selling real-time video
-OL,9,     Gstreams of herself to her
-OL,10,     Gclients.
-OL,11,G2325FAdults Only: Sex Dolls Delight
-OL,12,     GMillionaire entrepreneur Chelsea
-OL,13,     Gspends GBP11,000 on a new hot
-OL,14,     Gtub for her trophy five bedroom
-OL,15,     Ghouse; dancers The Dream Boys
-OL,16,     Gwelcome the two new lucky
-OL,17,     Gmembers to the troupe.
+OL,4,G2325FAdults Only: Sex Dolls Delight
+OL,5,     GMillionaire entrepreneur Chelsea
+OL,6,     Gspends GBP11,000 on a new hot
+OL,7,     Gtub for her trophy five bedroom
+OL,8,     Ghouse; dancers The Dream Boys
+OL,9,     Gwelcome the two new lucky
+OL,10,     Gmembers to the troupe.
+OL,11,G0020FShoplifters: Stripping the
+OL,12,     FShelves
+OL,13,     GWhen caught, some shoplifters
+OL,14,     Gcome quietly, some protest
+OL,15,     Gloudly to create confusion to
+OL,16,     Gthrow people off the scent,
+OL,17,     Gwhile others claim it's all an
+OL,18,     Ghonest mistake.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
