@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701003311
+OL,0,        ECIMSBWebfax     F698A1701006929
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701003311
+OL,0,        ECIMSBWebfax     F698A1701006929
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,27 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701003311
+OL,0,        ECIMSBWebfax     F698A1701006929
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G1200FBargain Hunt
-OL,5,     GThe reds and blues go bargain
-OL,6,     Ghunting at the Oswestry
-OL,7,     GShowground, where Natasha Raskin
-OL,8,     GSharp is joined by experts David
-OL,9,     GHarper and Charles Hanson.
-OL,10,G1300FBBC News
-OL,11,G1310FWeather for the Week Ahead
-OL,12,G1315FSongs of Praise: Young...
-OL,13,     GChorister of the Year. Aled
-OL,14,     GJones hosts the senior semi-
-OL,15,     Gfinal of BBC Young Chorister of
-OL,16,     Gthe Year from the Manchester
-OL,17,     GMonastery, with judges Laura
-OL,18,     GWright, Ken Burton and Wynne
-OL,19,     GEvans.
+OL,4,G1315FSongs of Praise: Young...
+OL,5,     GChorister of the Year. Aled
+OL,6,     GJones hosts the senior semi-
+OL,7,     Gfinal of BBC Young Chorister of
+OL,8,     Gthe Year from the Manchester
+OL,9,     GMonastery, with judges Laura
+OL,10,     GWright, Ken Burton and Wynne
+OL,11,     GEvans.
+OL,12,G1400FPlanet Earth III
+OL,13,     GSir David Attenborough explores
+OL,14,     Gforests, where lives are
+OL,15,     Gentwined in unexpected ways.
+OL,16,G1500FSnooker: UK Championship
+OL,17,     GLive coverage from day two of
+OL,18,     Gthe 2023 UK Snooker Championship.
+OL,19,G1655FBBC News
+OL,20,G1710FRegional News
+OL,21,G1715FWeather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -75,25 +77,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701003311
+OL,0,        ECIMSBWebfax     F698A1701006929
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G1200FA Cook Abroad: Monica Galetti's
-OL,5,     FFrance
-OL,6,     GMonica Galetti travels to the
-OL,7,     GJura Mountains in eastern France.
-OL,8,G1300FSnooker: UK Championship
-OL,9,     GLive coverage from day two of
-OL,10,     Gthe 2023 UK Snooker Championship.
-OL,11,G1500FJunior Eurovision Song Contest
-OL,12,     F2023
-OL,13,     GThe Final. The 2023 Junior
-OL,14,     GEurovision Song Contest,
-OL,15,     Gfeaturing UK entry Back to Life,
-OL,16,     Gby STAND UNIQU3. Contains scenes
-OL,17,     Gof flashing images.
+OL,4,G1300FSnooker: UK Championship
+OL,5,     GLive coverage from day two of
+OL,6,     Gthe 2023 UK Snooker Championship.
+OL,7,G1500FJunior Eurovision Song Contest
+OL,8,     F2023
+OL,9,     GThe Final. The 2023 Junior
+OL,10,     GEurovision Song Contest,
+OL,11,     Gfeaturing UK entry Back to Life,
+OL,12,     Gby STAND UNIQU3. Contains scenes
+OL,13,     Gof flashing images.
+OL,14,G1730FFlog It!
+OL,15,     GAntiques series. Paul Martin and
+OL,16,     Gthe Flog It! team are in Greater
+OL,17,     GManchester, where over 800
+OL,18,     Gpeople come along to have their
+OL,19,     Gitems valued at Stockport Town
+OL,20,     GHall.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -101,7 +106,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701003311
+OL,0,        ECIMSBWebfax     F698A1701006929
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -130,53 +135,55 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701003311
+OL,0,        ECIMSBWebfax     F698A1701006929
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G1240FThe Simpsons
-OL,5,     GSweet Seymour Skinner's
-OL,6,     GBaadasssss Song: Bart gets
-OL,7,     GPrincipal Skinner sacked and
-OL,8,     GFlanders takes over at the
-OL,9,     Gschool. Out of work, Skinner
-OL,10,     Gbefriends his erstwhile nemesis
-OL,11,     GBart.
-OL,12,G1310FThe Simpsons
-OL,13,     GThe Boy Who Knew Too Much: Bart
-OL,14,     Gis witness when Mayor Quimby's
-OL,15,     Gnephew is falsely accused of
-OL,16,     Gassaulting a French butler. But
-OL,17,     Gto testify, he has to admit to
-OL,18,     Gskipping school...
+OL,4,G1340FThe Great British Bake Off
+OL,5,     GIt's the semi-final and the
+OL,6,     Gbakers make elegant, buttery
+OL,7,     Gpatisserie and a puff pastry
+OL,8,     Glayered cake. Who will achieve
+OL,9,     Gcomplete and butter perfection
+OL,10,     Gto make it to the final?
+OL,11,G1500FTurner & Hooch
+OL,12,     GComedy-thriller starring Tom
+OL,13,     GHanks. A cop investigates a
+OL,14,     Gmurder to which there's just one
+OL,15,     Gwitness: Hooch, a slobbering,
+OL,16,     Gbeer-drinking French mastiff,
+OL,17,     Gwho now needs protection.
+OL,18,G1700FChannel 4 News
+OL,19,     GChannel 4's flagship news
+OL,20,     Gprogramme. Including the weather.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701003311
+OL,0,        ECIMSBWebfax     F698A1701006929
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G1225FChristmas in Angel Falls
+OL,4,G1330FChristmas in Angel Falls
 OL,5,     GFestive romance. Guardian angel
 OL,6,     GGabby unexpectedly falls in love
 OL,7,     Gwhen she comes down to Angel
 OL,8,     GFalls in order to restore the
 OL,9,     Gtown's forgotten Christmas
 OL,10,     Gspirit.
-OL,11,G1325FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the
-OL,14,     Gworld, focusing on celebrities,
-OL,15,     Gmovies, music and entertainment.
-OL,16,G1330FChristmas in Angel Falls
-OL,17,     GFestive romance. Guardian angel
-OL,18,     GGabby unexpectedly falls in love
-OL,19,     Gwhen she comes down to Angel
-OL,20,     GFalls in order to restore the
-OL,21,     Gtown's forgotten Christmas
-OL,22,     Gspirit.
+OL,11,G1415FMr Miracle
+OL,12,     GSeasonal drama starring Britt
+OL,13,     GIrvin and Rob Morrow. A guardian
+OL,14,     Gangel tackles his first
+OL,15,     Gassignment - helping a woman
+OL,16,     Gdevelop the self-confidence she
+OL,17,     Glacks.
+OL,18,G1515FEntertainment News on 5
+OL,19,     GA daily round-up of showbiz news
+OL,20,     Gand gossip from around the
+OL,21,     Gworld, focusing on celebrities,
+OL,22,     Gmovies, music and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
