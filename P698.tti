@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700978014
+OL,0,        ECIMSBWebfax     F698A1700981625
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700978014
+OL,0,        ECIMSBWebfax     F698A1700981625
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700978014
+OL,0,        ECIMSBWebfax     F698A1700981625
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 25 NOV
-OL,4,G0215FBBC News
+OL,3,CProgramme listings for SUN 26 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0730FMatch of the Day
+OL,9,     GGary Lineker presents highlights
+OL,10,     Gfrom the day's Premier League
+OL,11,     Ggames, including Liverpool's
+OL,12,     Gvisit to the Etihad Stadium to
+OL,13,     Gface champions Manchester City.
+OL,14,G0900FSunday with Laura Kuenssberg
+OL,15,     GLaura Kuenssberg talks to prime
+OL,16,     Gminister of Greece Kyriakos
+OL,17,     GMitsotakis, chief secretary to
+OL,18,     Gthe Treasury Laura Trott MP, and
+OL,19,     Gshadow chief secretary to the
+OL,20,     GTreasury Darren Jones MP.
+OL,21,G1000FRegional Political Programmes
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +77,25 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700978014
+OL,0,        ECIMSBWebfax     F698A1700981625
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 25 NOV
-OL,4,G0325FThis is BBC Two
+OL,3,CProgramme listings for SUN 26 NOV
+OL,4,G0600FCountryfile
+OL,5,     GJohn Craven and Sammi Kinghorn
+OL,6,     Gvisit the South Downs to see how
+OL,7,     Gthe past is inspiring residents
+OL,8,     Gto preserve the future of this
+OL,9,     Gdiverse landscape.
+OL,10,G0700FBeechgrove Garden in Winter
+OL,11,     GGeorge Anderson and Lizzie
+OL,12,     GSchofield provide more seasonal
+OL,13,     Gtips from the garden.
+OL,14,G0730FBreakfast
+OL,15,     GThe latest news, sport, business
+OL,16,     Gand weather from the BBC's
+OL,17,     GBreakfast team.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,49 +103,80 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700978014
+OL,0,        ECIMSBWebfax     F698A1700981625
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 25 NOV
-OL,4,G0505FJames Martin's French Adventure
-OL,5,     GBurgundy: James is in Burgundy,
-OL,6,     Ga region famous for its wines
-OL,7,     Gand mustard fields - retracing
-OL,8,     GKeith Floyd's visit 30 years
-OL,9,     Gago, James stops at the same
-OL,10,     Gvineyard for a personal tour.
+OL,3,CProgramme listings for SUN 26 NOV
+OL,4,G0630FJames Martin's French Adventure
+OL,5,     GNormandy: James's journey takes
+OL,6,     Ghim to Pegasus Bridge - which is
+OL,7,     Gfamous for the D-Day landings -
+OL,8,     Gand a region famed as cider and
+OL,9,     Gcalvados country and also for
+OL,10,     Gits rich butter.
+OL,11,G0725FJames Martin's Saturday Morning
+OL,12,     GJames is joined in Hampshire by
+OL,13,     GTV legend Carol Vorderman and
+OL,14,     Gsinger Joss Stone, who enjoy
+OL,15,     Gdishes of mackerel, pumpkin
+OL,16,     Gsoup, and a rum and raisin
+OL,17,     Gsticky toffee pudding.
+OL,18,G0925FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700978014
+OL,0,        ECIMSBWebfax     F698A1700981625
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 25 NOV
-OL,4,G0545FJamie's Comfort Food
-OL,5,     GJamie Oliver takes the nation's
-OL,6,     Gfavourite dishes to the next
-OL,7,     Glevel with reinvented classics.
-OL,8,     GIn this episode, he cooks
-OL,9,     Gossobuco.
+OL,3,CProgramme listings for SUN 26 NOV
+OL,4,G0650FThe King of Queens
+OL,5,     GDo Rico: Doug's impression of
+OL,6,     Ghis new colleague Rico's accent
+OL,7,     Gturns Carrie on. Doug thinks
+OL,8,     Git's getting a bit weird, until
+OL,9,     GCarrie starts imitating Rico's
+OL,10,     GItalian girlfriend...
+OL,11,G0710FEverybody Loves Raymond
+OL,12,     GThe Shower: Debra throws a
+OL,13,     Gbridal shower for Amy, but her
+OL,14,     Ggood intentions are sidetracked
+OL,15,     Gby Marie's overzealous
+OL,16,     Gparticipation.
+OL,17,G0735FEverybody Loves Raymond
+OL,18,     GBaggage: Ray and Debra get
+OL,19,     Ginvolved in a two-week battle of
+OL,20,     Gwills over who is responsible
+OL,21,     Gfor putting away a suitcase.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1700978014
+OL,0,        ECIMSBWebfax     F698A1700981625
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 25 NOV
-OL,4,G0550FMixmups
-OL,5,     GThe Mixmups visit a zoo to see
-OL,6,     Gif they can see a real tiger.
-OL,7,     GLucky Loover Bird takes them on
-OL,8,     Gsafari, but the tigers won't
-OL,9,     Gappear. Can the Mixmups find
-OL,10,     Ganother way to entice them out?
+OL,3,CProgramme listings for SUN 26 NOV
+OL,4,G0650FFireman Sam
+OL,5,     GMoose takes a group of kids into
+OL,6,     Gthe mountains and sets about
+OL,7,     Gbuilding a giant bear out of
+OL,8,     Gsticks and twigs. However, he
+OL,9,     Gsets the tent on fire.
+OL,10,G0700FThomas & Friends
+OL,11,     GWhile the Fat Controller is
+OL,12,     Gsick, his mother runs the
+OL,13,     Grailway and creates chaos by
+OL,14,     Ggetting everyone to do the wrong
+OL,15,     Gjobs!
+OL,16,G0715FPAW Patrol
+OL,17,     GWhen news arrives of an incoming
+OL,18,     Gwindstorm, Marshall is being
+OL,19,     Gtested for his green belt by
+OL,20,     GSensei Yumi out in the woods and
+OL,21,     Gcannot be contacted.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
