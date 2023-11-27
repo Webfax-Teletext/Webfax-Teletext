@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701064727
+OL,0,        ECIMSBWebfax     F698A1701068342
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701064727
+OL,0,        ECIMSBWebfax     F698A1701068342
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701064727
+OL,0,        ECIMSBWebfax     F698A1701068342
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G0050FBBC News
+OL,3,CProgramme listings for MON 27 NOV
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FDefenders: Busting the Bad Guys
+OL,12,     GA young boy is electrocuted on a
+OL,13,     Gtrain track. But who is to
+OL,14,     Gblame? The Defenders make a
+OL,15,     Gshocking discovery.
+OL,16,G1045FClaimed and Shamed
+OL,17,     GA father and son involved in a
+OL,18,     Gpolice chase end up on the wrong
+OL,19,     Gside of the law, and a woman who
+OL,20,     Gcan no longer enjoy her
+OL,21,     Gfavourite activities gets caught
+OL,22,     Gout.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +78,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701064727
+OL,0,        ECIMSBWebfax     F698A1701068342
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G0430FThis is BBC Two
+OL,3,CProgramme listings for MON 27 NOV
+OL,4,G0645FVillages by the Sea: Porthgain
+OL,5,     GBen Robinson unearths the past
+OL,6,     Gof Porthgain, Pembrokeshire,
+OL,7,     Gbuilt for its industry exporting
+OL,8,     Gslate, then brickwork, then
+OL,9,     Gfinally stone used for the
+OL,10,     Gnation's roads.
+OL,11,G0715FAntiques Road Trip
+OL,12,     GMark and Izzie's final outing,
+OL,13,     Gwhere they fall in love with
+OL,14,     Gcuddly toys, dumb waiters and
+OL,15,     Gearly 20th-century glass. But
+OL,16,     Gwho'll make the biggest profit
+OL,17,     Gat auction?
+OL,18,G0800FThis Farming Life
+OL,19,     GThe Barclay boys step into the
+OL,20,     Gring at the Royal Highland Show.
+OL,21,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,50 +108,81 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701064727
+OL,0,        ECIMSBWebfax     F698A1701068342
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G0505FFletchers' Family Farm
-OL,5,     GDocumentary series. There is an
-OL,6,     Gemergency on the farm when a ewe
-OL,7,     Gbecomes sick, Kelvin readies the
-OL,8,     Golder piglets for market, and a
-OL,9,     Grun-in with a wasp nest leads to
-OL,10,     Ga hospital visit.
+OL,3,CProgramme listings for MON 27 NOV
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a
+OL,9,     Gtopical mix of entertainment,
+OL,10,     Gdiscussion and showbiz glamour
+OL,11,     Gas well as the latest fashion,
+OL,12,     Gfood and celebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life
+OL,17,     Gstories, competitions and a mix
+OL,18,     Gof cookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701064727
+OL,0,        ECIMSBWebfax     F698A1701068342
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G0550FKirstie's Fill Your House for
-OL,5,     FFree
-OL,6,     GCan Kirstie Allsopp and her team
-OL,7,     Ghelp Louise turn her dilapidated
-OL,8,     GEssex flat into a peaceful
-OL,9,     Gparadise without breaking the
-OL,10,     Gbank?
+OL,3,CProgramme listings for MON 27 NOV
+OL,4,G0645F3rd Rock from the Sun
+OL,5,     GDick Solomon of the Indiana
+OL,6,     GSolomons: Dick accepts an
+OL,7,     Ginvitation to a Solomon family
+OL,8,     Greunion in Indiana, even though
+OL,9,     Gthey are not really family.
+OL,10,G0710F3rd Rock from the Sun
+OL,11,     GDick and Taxes: The aliens learn
+OL,12,     Gabout tax when they attempt to
+OL,13,     Gfile their first tax returns.
+OL,14,     GMary discovers that Dick owes
+OL,15,     Gnearly $10,000, and Sally opens
+OL,16,     Ga hair salon.
+OL,17,G0735FEverybody Loves Raymond
+OL,18,     GRobert's Wedding : Robert is
+OL,19,     Gsuspicious of Peter's attempts
+OL,20,     Gto bury the hatchet, prompting
+OL,21,     Ghim to ask Ray to watch him.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701064727
+OL,0,        ECIMSBWebfax     F698A1701068342
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 26 NOV
-OL,4,G0550FMixmups
-OL,5,     GThe Mixmups start a game of
-OL,6,     Gbuilding a "bigger-than-me-
-OL,7,     Gcake". Will the Mixmups find
-OL,8,     G"another way" for Spin to see
-OL,9,     Gthrough his plan to eat the
-OL,10,     Gentire cake all by himself?
+OL,3,CProgramme listings for MON 27 NOV
+OL,4,G0650FFireman Sam
+OL,5,     GWhen James and Mandy
+OL,6,     Gaccidentally lock themselves in
+OL,7,     Gthe police station, it's down to
+OL,8,     Gthem to initiate a rescue.
+OL,9,G0700FThomas & Friends All Engines Go!
+OL,10,     GThomas wakes up on the 'wrong
+OL,11,     Gside of the shed', struggling to
+OL,12,     Gbe a happy train. But Joyful
+OL,13,     GRiff and Jiff help him realise
+OL,14,     Gthat no one can be happy all the
+OL,15,     Gtime.
+OL,16,G0710FPeppa Pig
+OL,17,     GA new synthesiser arrives for
+OL,18,     GDaddy Pig, and his family
+OL,19,     Gcollect sounds for it from
+OL,20,     Garound the house while he is out
+OL,21,     Gat work.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
