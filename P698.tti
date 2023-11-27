@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701086419
+OL,0,        ECIMSBWebfax     F698A1701090034
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701086419
+OL,0,        ECIMSBWebfax     F698A1701090034
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,28 +47,25 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701086419
+OL,0,        ECIMSBWebfax     F698A1701090034
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 NOV
-OL,4,G1115FHomes Under the Hammer
-OL,5,     GMartel and Tommy oversee some
-OL,6,     Gfantastic renovations on auction
-OL,7,     Gbuys in Carlisle, Rosyth and
-OL,8,     GShepherd's Bush.
-OL,9,G1215FBargain Hunt
-OL,10,     GThe red and blue teams aim to
-OL,11,     Gweave profits at auction with
-OL,12,     Gthree bargains bought at an
-OL,13,     Gantiques arcade in Hungerford.
-OL,14,G1300FBBC News
-OL,15,G1330FRegional News
-OL,16,G1345FDoctors
-OL,17,     GSid despairs over Tye's midlife
-OL,18,     Gcrisis, Scarlett wants a
-OL,19,     Grematch, and a mature student
-OL,20,     Greunites with a friend from home.
+OL,4,G1300FBBC News
+OL,5,G1330FRegional News
+OL,6,G1345FDoctors
+OL,7,     GSid despairs over Tye's midlife
+OL,8,     Gcrisis, Scarlett wants a
+OL,9,     Grematch, and a mature student
+OL,10,     Greunites with a friend from home.
+OL,11,G1415FThe Bidding Room
+OL,12,     GNigel Havers hosts as five
+OL,13,     Gdealers bid each other to buy
+OL,14,     Gitems brought in by the public,
+OL,15,     Gincluding a 1970s film poster,
+OL,16,     Gsome filigree miniatures and a
+OL,17,     Gbust called Fred the head.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -76,28 +73,24 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701086419
+OL,0,        ECIMSBWebfax     F698A1701090034
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 NOV
-OL,4,G0900FBBC News
-OL,5,G1215FPolitics Live
-OL,6,     GThe big political issues of the
-OL,7,     Gday.
-OL,8,G1300FSnooker: UK Championship
-OL,9,     GLive coverage from day three of
-OL,10,     Gthe 2023 UK Snooker Championship.
-OL,11,G1715FFlog It!
-OL,12,     GPaul Martin tells the incredible
-OL,13,     Gstory of the Wagoners and their
-OL,14,     Grole in World War One.
-OL,15,G1800FRichard Osman's House of Games
-OL,16,     GClive Anderson, Sara Davies,
-OL,17,     GLutalo Muhammad and Alison
-OL,18,     GSpittle test their general
-OL,19,     Gknowledge skills on this week's
-OL,20,     GHouse of Games.
+OL,4,G1300FSnooker: UK Championship
+OL,5,     GLive coverage from day three of
+OL,6,     Gthe 2023 UK Snooker Championship.
+OL,7,G1715FFlog It!
+OL,8,     GPaul Martin tells the incredible
+OL,9,     Gstory of the Wagoners and their
+OL,10,     Grole in World War One.
+OL,11,G1800FRichard Osman's House of Games
+OL,12,     GClive Anderson, Sara Davies,
+OL,13,     GLutalo Muhammad and Alison
+OL,14,     GSpittle test their general
+OL,15,     Gknowledge skills on this week's
+OL,16,     GHouse of Games.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -105,30 +98,31 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701086419
+OL,0,        ECIMSBWebfax     F698A1701090034
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 NOV
-OL,4,G1000FThis Morning
-OL,5,     GMagazine show with news and
-OL,6,     Gtopical items, celebrity guests,
-OL,7,     Gexpert advice, real life
-OL,8,     Gstories, competitions and a mix
-OL,9,     Gof cookery, health, beauty,
-OL,10,     Glifestyle and more.
-OL,11,G1230FLoose Women
-OL,12,     GDavid Dickinson and singer Billy
-OL,13,     GPorter join Ruth Langsford,
-OL,14,     GColeen Nolan, Olivia Attwood
-OL,15,     GDack and Brenda Edwards in the
-OL,16,     Gstudio.
+OL,4,G1230FLoose Women
+OL,5,     GDavid Dickinson and singer Billy
+OL,6,     GPorter join Ruth Langsford,
+OL,7,     GColeen Nolan, Olivia Attwood
+OL,8,     GDack and Brenda Edwards in the
+OL,9,     Gstudio.
+OL,10,G1330FITV Lunchtime News
+OL,11,     GThe latest headlines from around
+OL,12,     Gthe world at lunchtime with
+OL,13,     Greports and analysis from ITV's
+OL,14,     GCorrespondents, all of which are
+OL,15,     Gfollowed by a national weather
+OL,16,     Gforecast.
+OL,17,G1355FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701086419
+OL,0,        ECIMSBWebfax     F698A1701090034
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -152,28 +146,23 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701086419
+OL,0,        ECIMSBWebfax     F698A1701090034
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 NOV
-OL,4,G1115FStorm Huntley
-OL,5,     GStorm Huntley carries on the
-OL,6,     Gdiscussion and takes your calls
-OL,7,     Gto discuss the biggest stories
-OL,8,     Gof the day.
-OL,9,G1230FAlexis Conran
-OL,10,     GAlexis Conran hears from you,
-OL,11,     Gtalking about the important
-OL,12,     Gstories and getting your
-OL,13,     Gopinions and views on them.
-OL,14,G1325F5 News at Lunchtime
-OL,15,     GNational and international news.
-OL,16,G1330FWrapped Up at Christmas
-OL,17,     GLiam and Amy team up to make a
-OL,18,     GChristmas quilt for his sister's
-OL,19,     Gwedding. As they navigate their
-OL,20,     Gfeelings for each other, they
-OL,21,     Gmust decide what is important in
-OL,22,     Gtime for the holiday season.
+OL,4,G1230FAlexis Conran
+OL,5,     GAlexis Conran hears from you,
+OL,6,     Gtalking about the important
+OL,7,     Gstories and getting your
+OL,8,     Gopinions and views on them.
+OL,9,G1325F5 News at Lunchtime
+OL,10,     GNational and international news.
+OL,11,G1330FWrapped Up at Christmas
+OL,12,     GLiam and Amy team up to make a
+OL,13,     GChristmas quilt for his sister's
+OL,14,     Gwedding. As they navigate their
+OL,15,     Gfeelings for each other, they
+OL,16,     Gmust decide what is important in
+OL,17,     Gtime for the holiday season.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
