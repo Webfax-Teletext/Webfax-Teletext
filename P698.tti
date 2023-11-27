@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701079187
+OL,0,        ECIMSBWebfax     F698A1701082804
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701079187
+OL,0,        ECIMSBWebfax     F698A1701082804
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701079187
+OL,0,        ECIMSBWebfax     F698A1701082804
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 NOV
-OL,4,G0915FMorning Live
-OL,5,     GConversation, advice and great
-OL,6,     Gcompany to make your morning.
-OL,7,G1000FDefenders: Busting the Bad Guys
-OL,8,     GA young boy is electrocuted on a
-OL,9,     Gtrain track. But who is to
-OL,10,     Gblame? The Defenders make a
-OL,11,     Gshocking discovery.
-OL,12,G1045FClaimed and Shamed
-OL,13,     GA father and son involved in a
-OL,14,     Gpolice chase end up on the wrong
-OL,15,     Gside of the law, and a woman who
-OL,16,     Gcan no longer enjoy her
-OL,17,     Gfavourite activities gets caught
-OL,18,     Gout.
+OL,4,G1045FClaimed and Shamed
+OL,5,     GA father and son involved in a
+OL,6,     Gpolice chase end up on the wrong
+OL,7,     Gside of the law, and a woman who
+OL,8,     Gcan no longer enjoy her
+OL,9,     Gfavourite activities gets caught
+OL,10,     Gout.
+OL,11,G1115FHomes Under the Hammer
+OL,12,     GMartel and Tommy oversee some
+OL,13,     Gfantastic renovations on auction
+OL,14,     Gbuys in Carlisle, Rosyth and
+OL,15,     GShepherd's Bush.
+OL,16,G1215FBargain Hunt
+OL,17,     GThe red and blue teams aim to
+OL,18,     Gweave profits at auction with
+OL,19,     Gthree bargains bought at an
+OL,20,     Gantiques arcade in Hungerford.
+OL,21,G1300FBBC News
+OL,22,G1330FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,7 +78,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701079187
+OL,0,        ECIMSBWebfax     F698A1701082804
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -103,61 +107,56 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701079187
+OL,0,        ECIMSBWebfax     F698A1701082804
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 NOV
-OL,4,G0900FLorraine
-OL,5,     GLorraine Kelly presents a
-OL,6,     Gtopical mix of entertainment,
-OL,7,     Gdiscussion and showbiz glamour
-OL,8,     Gas well as the latest fashion,
-OL,9,     Gfood and celebrity gossip.
-OL,10,G1000FThis Morning
-OL,11,     GMagazine show with news and
-OL,12,     Gtopical items, celebrity guests,
-OL,13,     Gexpert advice, real life
-OL,14,     Gstories, competitions and a mix
-OL,15,     Gof cookery, health, beauty,
-OL,16,     Glifestyle and more.
-OL,17,G1230FLoose Women
-OL,18,     GDavid Dickinson and singer Billy
-OL,19,     GPorter join Ruth Langsford,
-OL,20,     GColeen Nolan, Olivia Attwood
-OL,21,     GDack and Brenda Edwards in the
-OL,22,     Gstudio.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real life
+OL,8,     Gstories, competitions and a mix
+OL,9,     Gof cookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GDavid Dickinson and singer Billy
+OL,13,     GPorter join Ruth Langsford,
+OL,14,     GColeen Nolan, Olivia Attwood
+OL,15,     GDack and Brenda Edwards in the
+OL,16,     Gstudio.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701079187
+OL,0,        ECIMSBWebfax     F698A1701082804
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 NOV
-OL,4,G0955FFind It, Fix It, Flog It
-OL,5,     GIn Wales, Henry Cole and Simon
-OL,6,     GO'Brien restore a dentist's
-OL,7,     Gtable and a barber's chair, and
-OL,8,     Gmake a coffee table out of
-OL,9,     Gparquet flooring.
-OL,10,G1055FThe Great House Giveaway
-OL,11,     GMarried couple Colin and Wendy
-OL,12,     Gteam up with Jane - who they've
-OL,13,     Gjust met - to buy a house in
-OL,14,     GPorthmadog. Can they get past
-OL,15,     Gclashing visions to renovate and
-OL,16,     Gsell it at a profit?
-OL,17,G1155FChannel 4 News Summary
-OL,18,     GChannel 4's midday news summary.
+OL,4,G1055FThe Great House Giveaway
+OL,5,     GMarried couple Colin and Wendy
+OL,6,     Gteam up with Jane - who they've
+OL,7,     Gjust met - to buy a house in
+OL,8,     GPorthmadog. Can they get past
+OL,9,     Gclashing visions to renovate and
+OL,10,     Gsell it at a profit?
+OL,11,G1155FChannel 4 News Summary
+OL,12,     GChannel 4's midday news summary.
+OL,13,G1200FLive: Steph's Packed Lunch
+OL,14,     GSteph McGovern presents her live
+OL,15,     Glunchtime show featuring
+OL,16,     Gcelebrity guests, fantastic food
+OL,17,     Gand the best entertainment,
+OL,18,     Glifestyle and consumer stories
+OL,19,     Gmaking the headlines.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701079187
+OL,0,        ECIMSBWebfax     F698A1701082804
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
