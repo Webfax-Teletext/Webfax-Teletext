@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701382652
+OL,0,        ECIMSBWebfax     F698A1701386262
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701382652
+OL,0,        ECIMSBWebfax     F698A1701386262
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701382652
+OL,0,        ECIMSBWebfax     F698A1701386262
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 30 NOV
-OL,4,G2200FBBC News and Weather
-OL,5,G2230FRegional News
-OL,6,G2240FQuestion Time
-OL,7,     GFiona Bruce presents an hour of
-OL,8,     Gtopical debate with a panel of
-OL,9,     Gpoliticians and other guests
-OL,10,     Gfacing topical questions from an
-OL,11,     Gaudience in different parts of
-OL,12,     Gthe UK each week.
-OL,13,G2340FNewscast
-OL,14,     GLighthearted discussion of the
-OL,15,     Gweek's political events.
-OL,16,G0010FSurvivor
-OL,17,     GOne castaway has power, but will
-OL,18,     Gthey use it? Who will be the
-OL,19,     Gninth person voted out?
-OL,20,G0105FWeather for the Week Ahead
-OL,21,G0110FBBC News
+OL,4,G2240FQuestion Time
+OL,5,     GFiona Bruce presents an hour of
+OL,6,     Gtopical debate with a panel of
+OL,7,     Gpoliticians and other guests
+OL,8,     Gfacing topical questions from an
+OL,9,     Gaudience in different parts of
+OL,10,     Gthe UK each week.
+OL,11,G2340FNewscast
+OL,12,     GLighthearted discussion of the
+OL,13,     Gweek's political events.
+OL,14,G0010FSurvivor
+OL,15,     GOne castaway has power, but will
+OL,16,     Gthey use it? Who will be the
+OL,17,     Gninth person voted out?
+OL,18,G0105FWeather for the Week Ahead
+OL,19,G0110FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,30 +75,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701382652
+OL,0,        ECIMSBWebfax     F698A1701386262
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 30 NOV
-OL,4,G2200FMock the Week
-OL,5,     GWith guests Maisie Adam,
-OL,6,     GAlasdair Beckett-King, Ivo
-OL,7,     GGraham, Rhys James and Ria Lina.
-OL,8,     GContains some strong language.
-OL,9,G2230FNewsnight
-OL,10,G2310FWeather
-OL,11,G2315FSnooker: UK Championship
-OL,12,     FHighlights
-OL,13,     GHighlights from the sixth day of
-OL,14,     Gthe 2023 UK Snooker Championship.
-OL,15,G0005FSnooker: UK Championship Extra
-OL,16,     GHighlights from the sixth day of
-OL,17,     Gthe 2023 UK Snooker Championship.
-OL,18,G0205FLiz Bonnin's Wild Caribbean
-OL,19,     GLiz discovers the unique
-OL,20,     Grelationships between people and
-OL,21,     Gnature across the Caribbean's
-OL,22,     GSouth American coastline.
+OL,4,G2315FSnooker: UK Championship
+OL,5,     FHighlights
+OL,6,     GHighlights from the sixth day of
+OL,7,     Gthe 2023 UK Snooker Championship.
+OL,8,G0005FSnooker: UK Championship Extra
+OL,9,     GHighlights from the sixth day of
+OL,10,     Gthe 2023 UK Snooker Championship.
+OL,11,G0205FLiz Bonnin's Wild Caribbean
+OL,12,     GLiz discovers the unique
+OL,13,     Grelationships between people and
+OL,14,     Gnature across the Caribbean's
+OL,15,     GSouth American coastline.
+OL,16,G0305FStrictly Come Dancing
+OL,17,     GAs Strictly approaches the
+OL,18,     Gbusiness end of the competition,
+OL,19,     Gthe couples have more to do than
+OL,20,     Gever to secure their place in
+OL,21,     Gthe quarter-final Musicals
+OL,22,     GSpecial.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -108,32 +106,34 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701382652
+OL,0,        ECIMSBWebfax     F698A1701386262
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 30 NOV
-OL,4,G2215FITV News at Ten
-OL,5,     GITV News provides a fresh
-OL,6,     Gperspective on the major stories
-OL,7,     Gof the day with national and
-OL,8,     Ginternational news with reports
-OL,9,     Gand analysis from ITV's
-OL,10,     GCorrespondents.
-OL,11,G2250FRegional News
-OL,12,G2305FHeathrow: Britain's Busiest
-OL,13,     FAirport
-OL,14,     GChristmas is approaching and
-OL,15,     Gthere's a new airline on the
-OL,16,     Gblock, but one of their busiest
-OL,17,     Gflights is scuppered by bad news
-OL,18,     Ginvolving the Covid-19 pandemic.
+OL,4,G2305FHeathrow: Britain's Busiest
+OL,5,     FAirport
+OL,6,     GChristmas is approaching and
+OL,7,     Gthere's a new airline on the
+OL,8,     Gblock, but one of their busiest
+OL,9,     Gflights is scuppered by bad news
+OL,10,     Ginvolving the Covid-19 pandemic.
+OL,11,G2330FHeathrow: Britain's Busiest
+OL,12,     FAirport
+OL,13,     GSpring is about to be sprung,
+OL,14,     Gand Heathrow is readying itself
+OL,15,     Gfor a flurry of passengers as
+OL,16,     Git's announced that
+OL,17,     Gholidaymakers can travel to 12
+OL,18,     Gnew countries.
+OL,19,G0000FShop on TV
+OL,20,     GTeleshopping.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701382652
+OL,0,        ECIMSBWebfax     F698A1701386262
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -158,27 +158,26 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701382652
+OL,0,        ECIMSBWebfax     F698A1701386262
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 30 NOV
-OL,4,G2200FBen Fogle: New Lives in the Wild
-OL,5,     GAdventurer Ben Fogle journeys to
-OL,6,     Gthe mountains of central
-OL,7,     GPortugal, to live with Alex, a
-OL,8,     GBritish man who traded in his
-OL,9,     Glucrative retail career for his
-OL,10,     Gown mountainside hideaway.
-OL,11,G2305FJohn Grisham's The Rainmaker
-OL,12,     GDrama about a young law school
-OL,13,     Ggraduate's first case, as he
-OL,14,     Gpursues a major insurance
-OL,15,     Gcompany accused of stalling on
-OL,16,     Ghealth claims. Stars Matt Damon.
-OL,17,G0005FEntertainment News on 5
-OL,18,     GA daily round-up of showbiz news
-OL,19,     Gand gossip from around the
-OL,20,     Gworld, focusing on celebrities,
-OL,21,     Gmovies, music and entertainment.
+OL,4,G2305FJohn Grisham's The Rainmaker
+OL,5,     GDrama about a young law school
+OL,6,     Ggraduate's first case, as he
+OL,7,     Gpursues a major insurance
+OL,8,     Gcompany accused of stalling on
+OL,9,     Ghealth claims. Stars Matt Damon.
+OL,10,G0005FEntertainment News on 5
+OL,11,     GA daily round-up of showbiz news
+OL,12,     Gand gossip from around the
+OL,13,     Gworld, focusing on celebrities,
+OL,14,     Gmovies, music and entertainment.
+OL,15,G0010FJohn Grisham's The Rainmaker
+OL,16,     GDrama about a young law school
+OL,17,     Ggraduate's first case, as he
+OL,18,     Gpursues a major insurance
+OL,19,     Gcompany accused of stalling on
+OL,20,     Ghealth claims. Stars Matt Damon.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
