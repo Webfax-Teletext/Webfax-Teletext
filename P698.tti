@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701458495
+OL,0,        ECIMSBWebfax     F698A1701462109
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701458495
+OL,0,        ECIMSBWebfax     F698A1701462109
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701458495
+OL,0,        ECIMSBWebfax     F698A1701462109
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G1900FThe One Show
-OL,5,     GAlex Jones and Jermaine Jenas
-OL,6,     Gbring you the stories that
-OL,7,     Gmatter from across the country.
-OL,8,G1930FMake It at Market
-OL,9,     GHave artist Tasia and stone
-OL,10,     Gcarver Alex got what it takes to
-OL,11,     Gsuccess in the marketplace?
-OL,12,G2000FCelebrity Mastermind
-OL,13,     GClive Myrie asks the questions
-OL,14,     Gas Danny O'Carroll, Cheddar
-OL,15,     GGorgeous, Brendan Sheerin and
-OL,16,     GJayde Adams go under the
-OL,17,     Gspotlight in the celebrity
-OL,18,     Gversion of the classic quiz.
+OL,4,G2000FCelebrity Mastermind
+OL,5,     GClive Myrie asks the questions
+OL,6,     Gas Danny O'Carroll, Cheddar
+OL,7,     GGorgeous, Brendan Sheerin and
+OL,8,     GJayde Adams go under the
+OL,9,     Gspotlight in the celebrity
+OL,10,     Gversion of the classic quiz.
+OL,11,G2030FWould I Lie to You?
+OL,12,     GRob Brydon, Lee Mack and David
+OL,13,     GMitchell are joined by Bob
+OL,14,     GMortimer, Samantha Morton, Miles
+OL,15,     GJupp and Sarah Hadland.
+OL,16,G2100FHave I Got News for You
+OL,17,     GGuz Khan is host, with guest
+OL,18,     Gpanellists comedian Ross Noble
+OL,19,     Gand broadcaster Janet Street-
+OL,20,     GPorter joining team captains
+OL,21,     GPaul Merton and Ian Hislop.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,28 +77,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701458495
+OL,0,        ECIMSBWebfax     F698A1701462109
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G1900FSnooker: UK Championship
-OL,5,     GLive coverage from day seven of
-OL,6,     Gthe 2023 UK Snooker Championship.
-OL,7,G1930FMOTD Live: York City v Wigan
-OL,8,     FAthletic
-OL,9,     GCoverage of York City v Wigan
-OL,10,     GAthletic in the second round of
-OL,11,     Gthe FA Cup.
-OL,12,G2200FInside No. 9: The Devil of
-OL,13,     FChristmas
-OL,14,     GAustria, Krampusnacht 1977. Who
-OL,15,     Ghas been good and who has been
-OL,16,     Gbad this Christmas? Contains
-OL,17,     Gscenes which some viewers may
-OL,18,     Gfind disturbing.
-OL,19,G2230FNewsnight
-OL,20,G2300FWeather
+OL,4,G1930FMOTD Live: York City v Wigan
+OL,5,     FAthletic
+OL,6,     GCoverage of York City v Wigan
+OL,7,     GAthletic in the second round of
+OL,8,     Gthe FA Cup.
+OL,9,G2200FInside No. 9: The Devil of
+OL,10,     FChristmas
+OL,11,     GAustria, Krampusnacht 1977. Who
+OL,12,     Ghas been good and who has been
+OL,13,     Gbad this Christmas? Contains
+OL,14,     Gscenes which some viewers may
+OL,15,     Gfind disturbing.
+OL,16,G2230FNewsnight
+OL,17,G2300FWeather
+OL,18,G2305FSnooker: UK Championship
+OL,19,     FHighlights
+OL,20,     GHighlights from the seventh day
+OL,21,     Gof the 2023 UK Snooker
+OL,22,     GChampionship.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -103,74 +108,72 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701458495
+OL,0,        ECIMSBWebfax     F698A1701462109
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G1830FITV Evening News
-OL,5,G1930FEmmerdale
-OL,6,     GEthan is rocked by an
-OL,7,     Ginvitation, Suni is not in a
-OL,8,     Ggood place, and Brenda
-OL,9,     Gencourages Pollard to speak to
-OL,10,     GManpreet.
-OL,11,G2000FCoronation Street
-OL,12,     GChristmas comes early at the
-OL,13,     GWinter-Brown household, but a
-OL,14,     Gshock accusation ruins the day
-OL,15,     Gfor Gemma - meanwhile, Shona
-OL,16,     Gsuspends Lauren for stealing
-OL,17,     Gfrom the cafe's till.
+OL,4,G2000FCoronation Street
+OL,5,     GChristmas comes early at the
+OL,6,     GWinter-Brown household, but a
+OL,7,     Gshock accusation ruins the day
+OL,8,     Gfor Gemma - meanwhile, Shona
+OL,9,     Gsuspends Lauren for stealing
+OL,10,     Gfrom the cafe's till.
+OL,11,G2100FI'm A Celebrity... Get Me...
+OL,12,     GOut Of Here! There are more
+OL,13,     Gtwists and turns in store for
+OL,14,     Gthe campmates as they try to
+OL,15,     Gstay in the race to be crowned
+OL,16,     Gas King or Queen of the Jungle.
+OL,17,G2230FITV News
+OL,18,G2300FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701458495
+OL,0,        ECIMSBWebfax     F698A1701462109
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G1900FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G1930FUnreported World
-OL,8,     GFrom the front line of its
-OL,9,     Glethal drug wars, a look at how
-OL,10,     GSweden has become one of
-OL,11,     GEurope's deadliest hot spots for
-OL,12,     Ggun crime, with shootings often
-OL,13,     Gcommitted by children.
-OL,14,G2000FThe Big British Beef Battle
-OL,15,     GWe've all heard that going vegan
-OL,16,     Gcan help the planet; but is
-OL,17,     Gchicken just as green? And how
-OL,18,     Gcan beef be more sustainable?
-OL,19,     GAde Adepitan examines our diets'
-OL,20,     Gclimate science.
+OL,4,G2000FThe Big British Beef Battle
+OL,5,     GWe've all heard that going vegan
+OL,6,     Gcan help the planet; but is
+OL,7,     Gchicken just as green? And how
+OL,8,     Gcan beef be more sustainable?
+OL,9,     GAde Adepitan examines our diets'
+OL,10,     Gclimate science.
+OL,11,G2100FGogglebox
+OL,12,     GWhat do Britain's top armchair
+OL,13,     Gcritics think of Squid Game: The
+OL,14,     GChallenge, The Couple Next Door,
+OL,15,     GThe Toy Hospital, Survivor,
+OL,16,     GVinnie Jones in the Country and
+OL,17,     GLorraine?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701458495
+OL,0,        ECIMSBWebfax     F698A1701462109
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G1900FShop Smart, Save Money
-OL,5,     GThe team test items from water
-OL,6,     Gfilters to hiking boots, as well
-OL,7,     Gas fans which can keep you warm
-OL,8,     Gor cool you down. Plus some tips
-OL,9,     Gfor living more sustainably
-OL,10,     Gwithout breaking the bank.
-OL,11,G2000FThe Toy Hospital
-OL,12,     GCuddly toy specialist Dr Jackie
-OL,13,     Gcomes to the rescue of a very
-OL,14,     Gprecious Teddy, who has suffered
-OL,15,     Ghorrific injuries as the result
-OL,16,     Gof an unfortunate encounter with
-OL,17,     Ga washing machine.
+OL,4,G2000FThe Toy Hospital
+OL,5,     GCuddly toy specialist Dr Jackie
+OL,6,     Gcomes to the rescue of a very
+OL,7,     Gprecious Teddy, who has suffered
+OL,8,     Ghorrific injuries as the result
+OL,9,     Gof an unfortunate encounter with
+OL,10,     Ga washing machine.
+OL,11,G2100FThe Good Ship Murder
+OL,12,     GAs the ship stops one last time,
+OL,13,     Ga famous singer causes a stir.
+OL,14,     GIt's not long before there's
+OL,15,     Gmurder in Malta. But will the
+OL,16,     Gdrama in Valetta make this Jack
+OL,17,     Gand Kate's final destination?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
