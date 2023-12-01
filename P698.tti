@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701407924
+OL,0,        ECIMSBWebfax     F698A1701411535
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701407924
+OL,0,        ECIMSBWebfax     F698A1701411535
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,25 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701407924
+OL,0,        ECIMSBWebfax     F698A1701411535
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 NOV
-OL,4,G0110FBBC News
+OL,3,CProgramme listings for FRI 1 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FDefenders: Busting the Bad Guys
+OL,12,     GThe holiday scam raking in
+OL,13,     Gmillions of pounds. But the net
+OL,14,     Gis closing on the shameless
+OL,15,     Gtravel agent who is leaving
+OL,16,     Gfamilies out of pocket and
+OL,17,     Gstranded in the sun.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +73,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701407924
+OL,0,        ECIMSBWebfax     F698A1701411535
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 NOV
+OL,3,CProgramme listings for FRI 1 DEC
 OL,4,G0510FThis is BBC Two
+OL,5,G0630FAntiques Road Trip
+OL,6,     GWe're in Cumbria with Hettie
+OL,7,     GJago, David Harper and their
+OL,8,     G1980s Mercedes 280 SL. Who will
+OL,9,     Gstrike a decisive blow in their
+OL,10,     Gbest-of-five auction contest?
+OL,11,G0715FMake It at Market
+OL,12,     GCan upcycler Jaycee and stone
+OL,13,     Gcarver Tristan turn their
+OL,14,     Gtalents into thriving businesses?
+OL,15,G0800FVillages by the Sea: Cushendall
+OL,16,     GBen Robinson travels to
+OL,17,     GCushendall in Northern Ireland
+OL,18,     Gto explore the Curfew Tower and
+OL,19,     Gschoolhouse, built by its
+OL,20,     Gforward-thinking 19th-century
+OL,21,     Gmerchant landlord.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,68 +103,71 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701407924
+OL,0,        ECIMSBWebfax     F698A1701411535
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 NOV
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GBosworth 3: David Dickinson
-OL,6,     Ghosts from Bosworth Hall in
-OL,7,     GMarket Bosworth in
-OL,8,     GLeicestershire as Real Deal
-OL,9,     Gregulars Angela and David mark
-OL,10,     Gtheir eighth appearance on the
-OL,11,     Gshow.
+OL,3,CProgramme listings for FRI 1 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GCelebrating 40 years of Now
+OL,6,     GThat's What I Call Music! with
+OL,7,     Gsuperfan Iain McDermott, plus
+OL,8,     Gsinger extraordinaire Alfie Boe
+OL,9,     Gwaxing lyrical about his new
+OL,10,     Galbum.
+OL,11,G0900FLorraine
+OL,12,     GSupervet Noel Fitzpatrick joins
+OL,13,     GLorraine to explain how his dog
+OL,14,     GKeira taught him everything from
+OL,15,     Gforgiveness to dealing with
+OL,16,     Gdifficult situations.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701407924
+OL,0,        ECIMSBWebfax     F698A1701411535
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 NOV
-OL,4,G0430FKirstie and Phil's Love It or or
-OL,5,     FList It
-OL,6,     GKirstie and Phil meet Sue and
-OL,7,     GRichard in Mapperley. Their
-OL,8,     Gbeautiful home is no longer
-OL,9,     Gsuitable, since Richard had a
-OL,10,     Gcycling accident. Can it be made
-OL,11,     Gaccessible?
-OL,12,G0525FStrangers on a Plane
-OL,13,     GHorse-mad Louise plans a day of
-OL,14,     Griding on the final day in
-OL,15,     GPorto. She also books a
-OL,16,     Gphotographer, but will her
-OL,17,     Gfellow holidaymakers want any
-OL,18,     Gmementoes as the judging
-OL,19,     Gcommences?
+OL,3,CProgramme listings for FRI 1 DEC
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Richard Coles joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0645F3rd Rock from the Sun
+OL,12,     GCitizen Solomon: The flat has
+OL,13,     Gbecome a wreck since Sally moved
+OL,14,     Gout, so Dick, Harry and Tommy
+OL,15,     Ghire Cathy, Mary's cleaner, to
+OL,16,     Gtidy it up. Tommy joins the
+OL,17,     Gschool newspaper.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701407924
+OL,0,        ECIMSBWebfax     F698A1701411535
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 NOV
-OL,4,G0515FNick's Quest
-OL,5,     GNick Baker travels to Karanambo
-OL,6,     Gin Guyana where he finds out
-OL,7,     Gabout efforts to conserve the
-OL,8,     Ggiant river otter.
-OL,9,G0540FEntertainment News on 5
-OL,10,     GA daily round-up of showbiz news
-OL,11,     Gand gossip from around the
-OL,12,     Gworld, focusing on celebrities,
-OL,13,     Gmovies, music and entertainment.
-OL,14,G0545FPaw Patrol
-OL,15,     GCarlos and Tracker make PawPaw
-OL,16,     Gjuice with the Paw Patrol when
-OL,17,     Gthey find out that Mayor Goodway
-OL,18,     Gand Chickaletta are in trouble.
+OL,3,CProgramme listings for FRI 1 DEC
+OL,4,G0615FPeppa Pig
+OL,5,     GPeppa and George visit Mr Fox's
+OL,6,     GShop to buy Granny and Grandpa
+OL,7,     Gan anniversary present, but what
+OL,8,     Gwill they choose?
+OL,9,G0620FPeppa Pig
+OL,10,     GPeppa and George realise that
+OL,11,     Gthey have shadows and no matter
+OL,12,     Gwhat they do, they can't escape
+OL,13,     Gfrom them.
+OL,14,G0630FOggy Oggy
+OL,15,     GOggy Oggy helps Mallow make his
+OL,16,     Gdream to be an AstroCat come
+OL,17,     Gtrue. But once Mallow is in
+OL,18,     Gorbit, he misses his friends.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
