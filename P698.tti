@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701465722
+OL,0,        ECIMSBWebfax     F698A1701469333
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701465722
+OL,0,        ECIMSBWebfax     F698A1701469333
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,55 +47,57 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701465722
+OL,0,        ECIMSBWebfax     F698A1701469333
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G2100FHave I Got News for You
-OL,5,     GGuz Khan is host, with guest
-OL,6,     Gpanellists comedian Ross Noble
-OL,7,     Gand broadcaster Janet Street-
-OL,8,     GPorter joining team captains
-OL,9,     GPaul Merton and Ian Hislop.
-OL,10,G2130FTwo Doors Down
-OL,11,     GA new bathroom is a big
-OL,12,     Gcommitment for Christine. Cathy
-OL,13,     Gand Michelle become BFFs.
-OL,14,     GContains some strong language.
-OL,15,G2200FBBC News and Weather
-OL,16,G2230FRegional News
+OL,4,G2200FBBC News and Weather
+OL,5,G2230FRegional News
+OL,6,G2240FThe Graham Norton Show
+OL,7,     GGraham is joined by Julia
+OL,8,     GRoberts, Hollywood great Tom
+OL,9,     GHanks, Timothee Chalamet and
+OL,10,     Gmusic legend Cher, chatting and
+OL,11,     Gperforming her current single,
+OL,12,     GDJ Play a Christmas Song.
+OL,13,G2330FRuPaul's Drag Race UK
+OL,14,     GThe time has come for the finale
+OL,15,     Gas RuPaul crowns the UK's next
+OL,16,     GDrag Race Superstar! Contains
+OL,17,     Gsome strong language and adult
+OL,18,     Ghumour.
+OL,19,G0040FThe Weakest Link
+OL,20,     GCelebrities including Stephen
+OL,21,     GMangan, Myra DuBois and Alistair
+OL,22,     GMcGowan compete to win.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
+OL,26,@qD@Srr
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701465722
+OL,0,        ECIMSBWebfax     F698A1701469333
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G1930FMOTD Live: York City v Wigan
-OL,5,     FAthletic
-OL,6,     GCoverage of York City v Wigan
-OL,7,     GAthletic in the second round of
-OL,8,     Gthe FA Cup.
-OL,9,G2200FInside No. 9: The Devil of
-OL,10,     FChristmas
-OL,11,     GAustria, Krampusnacht 1977. Who
-OL,12,     Ghas been good and who has been
-OL,13,     Gbad this Christmas? Contains
-OL,14,     Gscenes which some viewers may
-OL,15,     Gfind disturbing.
-OL,16,G2230FNewsnight
-OL,17,G2300FWeather
-OL,18,G2305FSnooker: UK Championship
-OL,19,     FHighlights
-OL,20,     GHighlights from the seventh day
-OL,21,     Gof the 2023 UK Snooker
-OL,22,     GChampionship.
+OL,4,G2200FInside No. 9: The Devil of
+OL,5,     FChristmas
+OL,6,     GAustria, Krampusnacht 1977. Who
+OL,7,     Ghas been good and who has been
+OL,8,     Gbad this Christmas? Contains
+OL,9,     Gscenes which some viewers may
+OL,10,     Gfind disturbing.
+OL,11,G2230FNewsnight
+OL,12,G2300FWeather
+OL,13,G2305FSnooker: UK Championship
+OL,14,     FHighlights
+OL,15,     GHighlights from the seventh day
+OL,16,     Gof the 2023 UK Snooker
+OL,17,     GChampionship.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -103,7 +105,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701465722
+OL,0,        ECIMSBWebfax     F698A1701469333
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -130,46 +132,51 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701465722
+OL,0,        ECIMSBWebfax     F698A1701469333
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G2100FGogglebox
-OL,5,     GWhat do Britain's top armchair
-OL,6,     Gcritics think of Squid Game: The
-OL,7,     GChallenge, The Couple Next Door,
-OL,8,     GThe Toy Hospital, Survivor,
-OL,9,     GVinnie Jones in the Country and
-OL,10,     GLorraine?
-OL,11,G2200FLive: The Last Leg
-OL,12,     GHarry Hill, Chris Packham and
-OL,13,     GJordan Gray join Adam, Josh and
-OL,14,     GAlex for a wry, dry review of
-OL,15,     Gthe week's biggest, boldest news
-OL,16,     Gstories.
+OL,4,G2200FLive: The Last Leg
+OL,5,     GHarry Hill, Chris Packham and
+OL,6,     GJordan Gray join Adam, Josh and
+OL,7,     GAlex for a wry, dry review of
+OL,8,     Gthe week's biggest, boldest news
+OL,9,     Gstories.
+OL,10,G2305FJon & Lucy's Odd Couples
+OL,11,     GJon Richardson and Lucy Beaumont
+OL,12,     Gput celebrity couples to the
+OL,13,     Gtest, to see who has the best
+OL,14,     Grelationship. Rachel Riley and
+OL,15,     GPasha Kovalev take on Richard
+OL,16,     GHerring and Catie Wilkins.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701465722
+OL,0,        ECIMSBWebfax     F698A1701469333
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G2100FThe Good Ship Murder
-OL,5,     GAs the ship stops one last time,
-OL,6,     Ga famous singer causes a stir.
-OL,7,     GIt's not long before there's
-OL,8,     Gmurder in Malta. But will the
-OL,9,     Gdrama in Valetta make this Jack
-OL,10,     Gand Kate's final destination?
-OL,11,G2200FLive Boxing: Gorman vs Myronets
-OL,12,     GBritish heavyweight contender
-OL,13,     GNathan Gorman faces Ukrainian
-OL,14,     GBohdan Myronets. Also headlining
-OL,15,     Gis the EBU European Flyweight
-OL,16,     Gtitle fight between Chloe Watson
-OL,17,     Gand Justine Lallemand.
+OL,4,G2200FLive Boxing: Gorman vs Myronets
+OL,5,     GBritish heavyweight contender
+OL,6,     GNathan Gorman faces Ukrainian
+OL,7,     GBohdan Myronets. Also headlining
+OL,8,     Gis the EBU European Flyweight
+OL,9,     Gtitle fight between Chloe Watson
+OL,10,     Gand Justine Lallemand.
+OL,11,G0005FThe Incident Room
+OL,12,     GStep inside the Incident Room,
+OL,13,     Gwhere cases are cracked and
+OL,14,     Gkillers brought to justice.
+OL,15,     GDetectives hunt the murderer of
+OL,16,     GJulie Hogg, whose body was found
+OL,17,     Gdecomposing behind her bath.
+OL,18,G0105FEntertainment News on 5
+OL,19,     GA daily round-up of showbiz news
+OL,20,     Gand gossip from around the
+OL,21,     Gworld, focusing on celebrities,
+OL,22,     Gmovies, music and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
