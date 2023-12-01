@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701418758
+OL,0,        ECIMSBWebfax     F698A1701422369
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701418758
+OL,0,        ECIMSBWebfax     F698A1701422369
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,25 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701418758
+OL,0,        ECIMSBWebfax     F698A1701422369
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0915FMorning Live
-OL,9,     GConversation, advice and great
-OL,10,     Gcompany to make your morning.
-OL,11,G1000FDefenders: Busting the Bad Guys
-OL,12,     GThe holiday scam raking in
-OL,13,     Gmillions of pounds. But the net
-OL,14,     Gis closing on the shameless
-OL,15,     Gtravel agent who is leaving
-OL,16,     Gfamilies out of pocket and
-OL,17,     Gstranded in the sun.
+OL,4,G0915FMorning Live
+OL,5,     GConversation, advice and great
+OL,6,     Gcompany to make your morning.
+OL,7,G1000FDefenders: Busting the Bad Guys
+OL,8,     GThe holiday scam raking in
+OL,9,     Gmillions of pounds. But the net
+OL,10,     Gis closing on the shameless
+OL,11,     Gtravel agent who is leaving
+OL,12,     Gfamilies out of pocket and
+OL,13,     Gstranded in the sun.
+OL,14,G1045FClaimed and Shamed: Most Shocking
+OL,15,     GShocking stories from the
+OL,16,     Garchive, including a life
+OL,17,     Ginsurance beneficiary seeking
+OL,18,     Gdeadly revenge after a bitter
+OL,19,     Gdivorce and fraudsters
+OL,20,     Gdeliberately flooding empty wine
+OL,21,     Gbars.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -73,30 +77,26 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701418758
+OL,0,        ECIMSBWebfax     F698A1701422369
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G0800FVillages by the Sea: Cushendall
-OL,5,     GBen Robinson travels to
-OL,6,     GCushendall in Northern Ireland
-OL,7,     Gto explore the Curfew Tower and
-OL,8,     Gschoolhouse, built by its
-OL,9,     Gforward-thinking 19th-century
-OL,10,     Gmerchant landlord.
-OL,11,G0830FVillages by the Sea: Holkham
-OL,12,     GBen Robinson makes an amazing
-OL,13,     Gdiscovery at Norfolk's Holkham
-OL,14,     Gestate - its lost medieval
-OL,15,     Gvillage, seen for the first time
-OL,16,     Gsince its disappearance 200
-OL,17,     Gyears ago.
-OL,18,G0900FBBC News
-OL,19,G1215FPolitics UK
-OL,20,     GLeila Nathoo presents highlights
-OL,21,     Gof parliamentary proceedings
-OL,22,     Gfrom across the UK.
+OL,4,G0900FBBC News
+OL,5,G1215FPolitics UK
+OL,6,     GLeila Nathoo presents highlights
+OL,7,     Gof parliamentary proceedings
+OL,8,     Gfrom across the UK.
+OL,9,G1300FSnooker: UK Championship
+OL,10,     GLive coverage from day seven of
+OL,11,     Gthe 2023 UK Snooker Championship.
+OL,12,G1715FFlog It!
+OL,13,     GAntiques series. This edition
+OL,14,     Gcomes from Manchester, a city
+OL,15,     Gfamous for its music scene.
+OL,16,     GCaroline Hawley finds an
+OL,17,     Gautograph from one of rock and
+OL,18,     Groll's biggest names.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,77 +104,83 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701418758
+OL,0,        ECIMSBWebfax     F698A1701422369
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G0600FGood Morning Britain
-OL,5,     GCelebrating 40 years of Now
-OL,6,     GThat's What I Call Music! with
-OL,7,     Gsuperfan Iain McDermott, plus
-OL,8,     Gsinger extraordinaire Alfie Boe
-OL,9,     Gwaxing lyrical about his new
-OL,10,     Galbum.
-OL,11,G0900FLorraine
-OL,12,     GSupervet Noel Fitzpatrick joins
-OL,13,     GLorraine to explain how his dog
-OL,14,     GKeira taught him everything from
-OL,15,     Gforgiveness to dealing with
-OL,16,     Gdifficult situations.
+OL,4,G0900FLorraine
+OL,5,     GSupervet Noel Fitzpatrick joins
+OL,6,     GLorraine to explain how his dog
+OL,7,     GKeira taught him everything from
+OL,8,     Gforgiveness to dealing with
+OL,9,     Gdifficult situations.
+OL,10,G1000FThis Morning
+OL,11,     GSlade's lead guitarist Dave Hill
+OL,12,     Gis on the sofa. Plus, Alison and
+OL,13,     GDermot are reunited with
+OL,14,     GBridgerton's Jonathan Bailey and
+OL,15,     GGyles shows us Christmas jumpers
+OL,16,     GYule just love!
+OL,17,G1230FLoose Women
+OL,18,     GThe Chase star Shaun Wallace
+OL,19,     Ga.k.a. The Dark Destroyer joins
+OL,20,     GKaye, Kelly, Judi, and Nadia for
+OL,21,     Ga catch-up and reveals his
+OL,22,     Gtribute to Olympian Dame Kelly.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701418758
+OL,0,        ECIMSBWebfax     F698A1701422369
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G0800FEverybody Loves Raymond
-OL,5,     GThe Surprise Party: After
-OL,6,     GDebra's mother suggests throwing
-OL,7,     GDebra an old-fashioned English
-OL,8,     Gtea party, Ray reluctantly
-OL,9,     Gagrees, as long as she promises
-OL,10,     Gto do all the work.
-OL,11,G0825FFrasier
-OL,12,     GSecret Admirer: Frasier
-OL,13,     Gmistakenly thinks that he has a
-OL,14,     Gsecret admirer while he's dating
-OL,15,     Gan attractive new woman.
-OL,16,G0855FFrasier
-OL,17,     GHow to Bury a Millionaire: Niles
-OL,18,     Ghas to move in with Frasier
-OL,19,     Gafter his divorce leaves him
-OL,20,     Gstrapped for cash.
+OL,4,G0855FFrasier
+OL,5,     GHow to Bury a Millionaire: Niles
+OL,6,     Ghas to move in with Frasier
+OL,7,     Gafter his divorce leaves him
+OL,8,     Gstrapped for cash.
+OL,9,G0925FFrasier
+OL,10,     GThe Seal Who Came to Dinner:
+OL,11,     GWhile hosting a dinner party for
+OL,12,     GThe Gourmet Society at Maris's
+OL,13,     Gbeach house, Frasier and Niles
+OL,14,     Ghave to deal with a smelly,
+OL,15,     Gwashed-up seal carcass.
+OL,16,G0955FFind It, Fix It, Flog It
+OL,17,     GHenry Cole and Simon O'Brien
+OL,18,     Gfind, fix and flog unwanted
+OL,19,     Ggoods. This time, there's an old
+OL,20,     Gcheese press, and a 1980s
+OL,21,     Gmotorbike almost gets the better
+OL,22,     Gof Henry and restorer Guy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701418758
+OL,0,        ECIMSBWebfax     F698A1701422369
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 1 DEC
-OL,4,G0815FMilo
-OL,5,     GWhen Milo, Lofty and Lark report
-OL,6,     Ginto Mission Control they're
-OL,7,     Gsoon on their way to the moon to
-OL,8,     Gsave Mila's precious space
-OL,9,     Gstrawberries!
-OL,10,G0835FPAW Patrol
-OL,11,     GMyrna the Mynah bird leads her
-OL,12,     Gnew feathered friends astray.
-OL,13,     GIt's up to the PAW Patrol to
-OL,14,     Grescue the wayward flock!
-OL,15,G0845FChip and Potato
-OL,16,     GAfter school, Spud's best friend
-OL,17,     GPacco and Chip's best friend
-OL,18,     GNico come over for a double play
-OL,19,     Gdate! But Spud, Pacco, Chip and
-OL,20,     GNico all like to do different
-OL,21,     Gactivities...
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and Storm discuss
+OL,6,     Gthe latest news and get your
+OL,7,     Gviews and opinions of the day.
+OL,8,G1115FStorm Huntley
+OL,9,     GStorm Huntley carries on the
+OL,10,     Gdiscussion and takes your calls
+OL,11,     Gto discuss the biggest stories
+OL,12,     Gof the day.
+OL,13,G1230FAlexis Conran
+OL,14,     GAlexis Conran hears from you,
+OL,15,     Gtalking about the important
+OL,16,     Gstories and getting your
+OL,17,     Gopinions and views on them.
+OL,18,G1325F5 News at Lunchtime
+OL,19,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
