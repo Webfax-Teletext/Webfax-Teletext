@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701509055
+OL,0,        ECIMSBWebfax     F698A1701512666
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701509055
+OL,0,        ECIMSBWebfax     F698A1701512666
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,25 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701509055
+OL,0,        ECIMSBWebfax     F698A1701512666
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G1000FSaturday Kitchen Live:...
-OL,9,     GCountdown to Christmas. Matt
-OL,10,     GTebbutt is joined by Tony Singh,
-OL,11,     GJane Baxter and James Blunt.
-OL,12,G1130FSimply Nigella
-OL,13,     GNigella introduces us to her
-OL,14,     Gfavourite recipes for sharing
-OL,15,     Gwith family and friends.
-OL,16,G1200FBBC News
-OL,17,G1210FWeather
+OL,4,G1000FSaturday Kitchen Live:...
+OL,5,     GCountdown to Christmas. Matt
+OL,6,     GTebbutt is joined by Tony Singh,
+OL,7,     GJane Baxter and James Blunt.
+OL,8,G1130FSimply Nigella
+OL,9,     GNigella introduces us to her
+OL,10,     Gfavourite recipes for sharing
+OL,11,     Gwith family and friends.
+OL,12,G1200FBBC News
+OL,13,G1210FWeather
+OL,14,G1215FMOTD Live: Alfreton Town v
+OL,15,     FWalsall
+OL,16,     GLive coverage from Derbyshire as
+OL,17,     Gsixth-tier minnows Alfreton Town
+OL,18,     Gseek to reach the FA Cup third
+OL,19,     Ground for the first time in
+OL,20,     Gtheir history with a giant-
+OL,21,     Gkilling victory over Walsall.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -73,30 +77,24 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701509055
+OL,0,        ECIMSBWebfax     F698A1701512666
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0855FAround the World in 80 Gardens
-OL,5,     GMonty Don visits the world's 80
-OL,6,     Gmost inspiring gardens: this
-OL,7,     Gtime, in northern Europe.
-OL,8,     GIncluding Sissinghurst Castle
-OL,9,     Gand Monet's garden at Giverny.
-OL,10,G0955FThe Tommy Steele Story
-OL,11,     GIn the 1950s, after leaving the
-OL,12,     Gmerchant navy, a young Tommy
-OL,13,     GSteele experiences a meteoric
-OL,14,     Grise to fame as a rock 'n' roll
-OL,15,     Gteen idol in the 1950s.
-OL,16,G1115FWorld's Sneakiest Animals
-OL,17,     GChris Packham meets the animals
-OL,18,     Gusing devious tactics and sneaky
-OL,19,     Gtricks to survive. Meet the
-OL,20,     Gmonkey that cheats its own
-OL,21,     Gfamily and the lizard that fakes
-OL,22,     Gits own death.
+OL,4,G0955FThe Tommy Steele Story
+OL,5,     GIn the 1950s, after leaving the
+OL,6,     Gmerchant navy, a young Tommy
+OL,7,     GSteele experiences a meteoric
+OL,8,     Grise to fame as a rock 'n' roll
+OL,9,     Gteen idol in the 1950s.
+OL,10,G1115FWorld's Sneakiest Animals
+OL,11,     GChris Packham meets the animals
+OL,12,     Gusing devious tactics and sneaky
+OL,13,     Gtricks to survive. Meet the
+OL,14,     Gmonkey that cheats its own
+OL,15,     Gfamily and the lizard that fakes
+OL,16,     Gits own death.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,78 +102,76 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701509055
+OL,0,        ECIMSBWebfax     F698A1701512666
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0805FLove Your Weekend with Alan
-OL,5,     FTitchmarsh
-OL,6,     GJoining Alan at Manor Farm are
-OL,7,     GStephen Mangan with an early
-OL,8,     GChristmas present and Queen of
-OL,9,     GDictionary Corner Susie Dent on
-OL,10,     Gthe words that make her smile.
-OL,11,G0925FITV News
-OL,12,G0930FJames Martin's Saturday...
-OL,13,     GMorning at Christmas. James is
-OL,14,     Gin the kitchen and kickstarting
-OL,15,     Gthe countdown to Christmas with
-OL,16,     Gsinger Aled Jones and dishes of
-OL,17,     GFrench onion soup, pork chops,
-OL,18,     Gand cheese straws.
+OL,4,G0930FJames Martin's Saturday...
+OL,5,     GMorning at Christmas. James is
+OL,6,     Gin the kitchen and kickstarting
+OL,7,     Gthe countdown to Christmas with
+OL,8,     Gsinger Aled Jones and dishes of
+OL,9,     GFrench onion soup, pork chops,
+OL,10,     Gand cheese straws.
+OL,11,G1140FAinsley's Mediterranean Cookbook
+OL,12,     GMarrakech - Part One: Ainsley's
+OL,13,     GMediterranean adventure brings
+OL,14,     Ghim to North Africa and the
+OL,15,     GMoroccan city of Marrakesh, a
+OL,16,     Gplace where he gets stuck into
+OL,17,     Gits hustle and bustle.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701509055
+OL,0,        ECIMSBWebfax     F698A1701512666
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0900FThe Simpsons
-OL,5,     GSweet Seymour Skinner's
-OL,6,     GBaadasssss Song: Bart gets
-OL,7,     GPrincipal Skinner sacked and
-OL,8,     GFlanders takes over at the
-OL,9,     Gschool. Out of work, Skinner
-OL,10,     Gbefriends his erstwhile nemesis
-OL,11,     GBart.
-OL,12,G0930FThe Simpsons
-OL,13,     GThe Boy Who Knew Too Much: Bart
-OL,14,     Gis witness when Mayor Quimby's
-OL,15,     Gnephew is falsely accused of
-OL,16,     Gassaulting a French butler. But
-OL,17,     Gto testify, he has to admit to
-OL,18,     Gskipping school...
+OL,4,G1000FWedding March 4: Something Old
+OL,5,     FSomething New
+OL,6,     GRomance. Mick and Olivia are
+OL,7,     Gstill trying to get some time
+OL,8,     Galone. But after they arrange
+OL,9,     Gthe perfect wedding, the bride
+OL,10,     Gstarts to have second thoughts.
+OL,11,     GArgh!
+OL,12,G1145FChristmas at the Palace
+OL,13,     GChristmas romance. A woman who
+OL,14,     Gruns a figure-skating show is
+OL,15,     Gbooked to perform her
+OL,16,     Gextravaganza in a small European
+OL,17,     Gcountry, where she unexpectedly
+OL,18,     Gmeets its handsome king.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701509055
+OL,0,        ECIMSBWebfax     F698A1701512666
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0910FReu & Harper's Wonder World
-OL,5,     GReu and Harper meet Nova, whose
-OL,6,     Gmum grew up in Sweden, to find
-OL,7,     Gout about the country. And as
-OL,8,     Git's been snowing, they go
-OL,9,     Goutside to make a Swedish snow
-OL,10,     Glantern.
-OL,11,G0925FDora the Explorer
-OL,12,     GDora and Boots are waiting for
-OL,13,     Gthe Hip-Hop-Bunny, who's
-OL,14,     Gbringing all the Easter Eggs for
-OL,15,     Gthe big Egg Hunt! But Swiper
-OL,16,     Gswipes the Hip-Hop-Bunny's
-OL,17,     Gbasket. Dora and Boots need your
-OL,18,     Ghelp!
-OL,19,G0950FThe Smurfs
-OL,20,     GVanity's attempt to cure a spot
-OL,21,     Gwith a magic spell accidentally
-OL,22,     Gturns him into a lizard instead.
+OL,4,G1015FEntertainment News on 5
+OL,5,     GA daily round-up of showbiz news
+OL,6,     Gand gossip from around the
+OL,7,     Gworld, focusing on celebrities,
+OL,8,     Gmovies, music and entertainment.
+OL,9,G1025FFriends
+OL,10,     GPhoebe and Joey deliberately set
+OL,11,     Gup Ross and Rachel on bad dates,
+OL,12,     Ghoping they'll get back
+OL,13,     Gtogether. Monica and Chandler
+OL,14,     Gbabysit Emma.
+OL,15,G1055FFriends
+OL,16,     GRoss and Phoebe are mugged
+OL,17,     Goutside Central Perk. Joey gets
+OL,18,     Ga part in a stage play in a
+OL,19,     Gpainful way. Chandler starts his
+OL,20,     Gnew career as an advertising
+OL,21,     Gwriter.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
