@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701604606
+OL,0,        ECIMSBWebfax     F698A1701608217
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701604606
+OL,0,        ECIMSBWebfax     F698A1701608217
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701604606
+OL,0,        ECIMSBWebfax     F698A1701608217
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1130FAmanda & Alan's Italian Job
-OL,5,     GAmanda and Alan aim to transform
-OL,6,     Gthe courtyard into a
-OL,7,     GMediterranean oasis. Alan delves
-OL,8,     Ginto Sicily's famous art scene,
-OL,9,     Gwhile Amanda tackles the
-OL,10,     Gbuilding's damaged exterior.
-OL,11,G1200FAmanda & Alan's Italian Job
-OL,12,     GAlan has concerns over Amanda's
-OL,13,     Gtaste as she aims to bring a
-OL,14,     Gslice of Hollywood to Sicily in
-OL,15,     Gthe master bedroom with a banana
-OL,16,     Gleaf-themed boudoir.
-OL,17,G1230FBargain Hunt
-OL,18,     GNatasha Raskin Sharp presents,
-OL,19,     Gwhile experts Charles Hanson and
-OL,20,     GDavid Harper help the reds and
-OL,21,     Gthe blues battle it out at the
-OL,22,     GEast of England Showground.
+OL,4,G1230FBargain Hunt
+OL,5,     GNatasha Raskin Sharp presents,
+OL,6,     Gwhile experts Charles Hanson and
+OL,7,     GDavid Harper help the reds and
+OL,8,     Gthe blues battle it out at the
+OL,9,     GEast of England Showground.
+OL,10,G1315FBBC News
+OL,11,G1325FWeather for the Week Ahead
+OL,12,G1330FSongs of Praise: Young...
+OL,13,     GChorister of the Year. Aled
+OL,14,     GJones and Rev Kate Bottley host
+OL,15,     Gthe final of BBC Young Chorister
+OL,16,     Gof the Year.
+OL,17,G1415FPlanet Earth III
+OL,18,     GDavid Attenborough presents an
+OL,19,     Gextreme world where animals
+OL,20,     Gbattle to survive the elements -
+OL,21,     Gand life exists on a knife edge.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,30 +77,25 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701604606
+OL,0,        ECIMSBWebfax     F698A1701608217
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1130FJimmy's Food Factory
-OL,5,     GScience series. Jimmy Doherty
-OL,6,     Ginvestigates food producer
-OL,7,     Gtrickery. He turns pork into
-OL,8,     Gsquare sandwich ham and tries to
-OL,9,     Gartificially ripen bananas.
-OL,10,G1200FHome Comforts at Christmas
-OL,11,     GTV chef James Martin gets ahead
-OL,12,     Gfor Christmas, providing lots of
-OL,13,     Gclever tips and tricks to save
-OL,14,     Gtime and stress on the big day.
-OL,15,G1230FHome Comforts at Christmas
-OL,16,     GJames Martin brings together a
-OL,17,     Gclassic collection of festive
-OL,18,     Grecipes to satisfy comfort food
-OL,19,     Gcravings.
-OL,20,G1300FSnooker: UK Championship
-OL,21,     GLive coverage from day nine of
-OL,22,     Gthe 2023 UK Snooker Championship.
+OL,4,G1230FHome Comforts at Christmas
+OL,5,     GJames Martin brings together a
+OL,6,     Gclassic collection of festive
+OL,7,     Grecipes to satisfy comfort food
+OL,8,     Gcravings.
+OL,9,G1300FSnooker: UK Championship
+OL,10,     GLive coverage from day nine of
+OL,11,     Gthe 2023 UK Snooker Championship.
+OL,12,G1715FFlog It!
+OL,13,     GAntiques series. This edition
+OL,14,     Gcomes from Ickworth House in
+OL,15,     GSuffolk, where presenter Paul
+OL,16,     GMartin is joined by experts Adam
+OL,17,     GPartridge and Philip Serrell.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -109,79 +103,81 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701604606
+OL,0,        ECIMSBWebfax     F698A1701608217
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1130FFletchers' Family Farm
-OL,5,     GDocumentary series. There is an
-OL,6,     Gemotional rollercoaster as the
-OL,7,     Gfamily release their pet lamb
-OL,8,     GAga in with the rest of the
-OL,9,     Gflock and a couple of older
-OL,10,     Glambs leave for market.
-OL,11,G1230FITV Lunchtime News
-OL,12,     GThe latest headlines from around
-OL,13,     Gthe world at lunchtime with
-OL,14,     Greports and analysis from ITV's
-OL,15,     GCorrespondents, all of which are
-OL,16,     Gfollowed by a national weather
-OL,17,     Gforecast.
+OL,4,G1240FFA Cup Live: Eastleigh v Reading
+OL,5,     GMark Pougatch is alongside Ian
+OL,6,     GWright and Jobi McAnuff for
+OL,7,     Gcoverage from the 2023-24 FA Cup
+OL,8,     GSecond Round as non-league
+OL,9,     GEastleigh look to upset League
+OL,10,     GOne side Reading.
+OL,11,G1545FUncle Buck
+OL,12,     GOffbeat comedy film starring
+OL,13,     GJohn Candy and Macaulay Culkin,
+OL,14,     G1989. A carefree slob must deal
+OL,15,     Gwith the sudden and unexpected
+OL,16,     Gchallenge of looking after his
+OL,17,     Gbrother's three children.
+OL,18,G1745FITV Evening News
+OL,19,G1800FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701604606
+OL,0,        ECIMSBWebfax     F698A1701608217
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G0930FLive: Sunday Brunch
-OL,5,     GMatt Lucas tells us about his
-OL,6,     Gnew kids' book. Ruth Madeley
-OL,7,     Ggives us the lowdown on new
-OL,8,     Gepisodes of Doctor Who. Plus:
-OL,9,     GRichard Armitage, Carol
-OL,10,     GVorderman, Matthew Wolfenden and
-OL,11,     Gmore.
-OL,12,G1230FThe Simpsons
-OL,13,     GHolidays of Future Passed: The
-OL,14,     GSimpsons flash forward three
-OL,15,     Gdecades to a high-tech,
-OL,16,     Gfuturistic Springfield where
-OL,17,     GBart and Lisa each have children
-OL,18,     Gof their own.
-OL,19,G1255FThe Simpsons
-OL,20,     GGone Boy: Bart disappears and no
-OL,21,     Gone can find him - except a
-OL,22,     Gvengeful Sideshow Bob...
+OL,4,G1255FThe Simpsons
+OL,5,     GGone Boy: Bart disappears and no
+OL,6,     Gone can find him - except a
+OL,7,     Gvengeful Sideshow Bob...
+OL,8,G1325FTerry Pratchett's The...
+OL,9,     GAbominable Snow Baby: Charming
+OL,10,     Ganimation with Julie Walters,
+OL,11,     GHugh Dancy and David Harewood.
+OL,12,     GWhen a 14-foot snow creature
+OL,13,     Gthrows a town into disarray, can
+OL,14,     GGranny and Albert save the day?
+OL,15,G1355FWe're Going On a Bear Hunt
+OL,16,     GWrap up warm and step into the
+OL,17,     Gsnow for a wonderful animated
+OL,18,     Gadventure based on the
+OL,19,     Gbestselling bedtime book by
+OL,20,     GMichael Rosen. Voiced by Olivia
+OL,21,     GColman, Pam Ferris and Mark
+OL,22,     GWilliams.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701604606
+OL,0,        ECIMSBWebfax     F698A1701608217
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1155FFriends
-OL,5,     GChandler and Monica secretly go
-OL,6,     Gto a fertility clinic. Ross
-OL,7,     Ghelps Joey to charm Charlie,
-OL,8,     Geven though he wants to date her
-OL,9,     Gas well.
-OL,10,G1225FUnlocking Christmas
-OL,11,     GWhen a mysterious key and
-OL,12,     Gholiday riddle land on their
-OL,13,     Gdoorsteps, a couple embark on a
-OL,14,     GChristmas adventure they'll
-OL,15,     Gnever forget.
-OL,16,G1325FEntertainment News on 5
-OL,17,     GA daily round-up of showbiz news
-OL,18,     Gand gossip from around the
-OL,19,     Gworld, focusing on celebrities,
-OL,20,     Gmovies, music and entertainment.
+OL,4,G1225FUnlocking Christmas
+OL,5,     GWhen a mysterious key and
+OL,6,     Gholiday riddle land on their
+OL,7,     Gdoorsteps, a couple embark on a
+OL,8,     GChristmas adventure they'll
+OL,9,     Gnever forget.
+OL,10,G1325FEntertainment News on 5
+OL,11,     GA daily round-up of showbiz news
+OL,12,     Gand gossip from around the
+OL,13,     Gworld, focusing on celebrities,
+OL,14,     Gmovies, music and entertainment.
+OL,15,G1330FUnlocking Christmas
+OL,16,     GWhen a mysterious key and
+OL,17,     Gholiday riddle land on their
+OL,18,     Gdoorsteps, a couple embark on a
+OL,19,     GChristmas adventure they'll
+OL,20,     Gnever forget.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
