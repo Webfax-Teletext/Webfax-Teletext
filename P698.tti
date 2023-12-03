@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701597380
+OL,0,        ECIMSBWebfax     F698A1701600995
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701597380
+OL,0,        ECIMSBWebfax     F698A1701600995
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,28 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701597380
+OL,0,        ECIMSBWebfax     F698A1701600995
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G0900FSunday with Laura Kuenssberg
-OL,5,     GLaura Kuenssberg is joined by
-OL,6,     GVictoria Atkins, Jonathan
-OL,7,     GReynolds and Ndileka Mandela.
-OL,8,G1000FRegional Political Programmes
-OL,9,G1030FMy Life at Christmas: Adrian...
-OL,10,     GChiles Meets Oti Mabuse. Adrian
-OL,11,     GChiles meets dancer Oti Mabuse
-OL,12,     Gto discover what Christmas means
-OL,13,     Gto her.
-OL,14,G1130FAmanda & Alan's Italian Job
-OL,15,     GAmanda and Alan aim to transform
-OL,16,     Gthe courtyard into a
-OL,17,     GMediterranean oasis. Alan delves
-OL,18,     Ginto Sicily's famous art scene,
-OL,19,     Gwhile Amanda tackles the
-OL,20,     Gbuilding's damaged exterior.
+OL,4,G1030FMy Life at Christmas: Adrian...
+OL,5,     GChiles Meets Oti Mabuse. Adrian
+OL,6,     GChiles meets dancer Oti Mabuse
+OL,7,     Gto discover what Christmas means
+OL,8,     Gto her.
+OL,9,G1130FAmanda & Alan's Italian Job
+OL,10,     GAmanda and Alan aim to transform
+OL,11,     Gthe courtyard into a
+OL,12,     GMediterranean oasis. Alan delves
+OL,13,     Ginto Sicily's famous art scene,
+OL,14,     Gwhile Amanda tackles the
+OL,15,     Gbuilding's damaged exterior.
+OL,16,G1200FAmanda & Alan's Italian Job
+OL,17,     GAlan has concerns over Amanda's
+OL,18,     Gtaste as she aims to bring a
+OL,19,     Gslice of Hollywood to Sicily in
+OL,20,     Gthe master bedroom with a banana
+OL,21,     Gleaf-themed boudoir.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -76,29 +77,27 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701597380
+OL,0,        ECIMSBWebfax     F698A1701600995
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G0930FLandward
-OL,5,     GDougie makes an early start to
-OL,6,     Gcatch sight of the barnacle
-OL,7,     Ggeese lifting off the Solway
-OL,8,     GFirth, and Cammy meets the
-OL,9,     Gfamily selling their famous herd
-OL,10,     Gof pedigree cattle.
-OL,11,G1000FSaturday Kitchen Best Bites
-OL,12,     GMatt Tebbutt takes a look back
-OL,13,     Gat some of his favourite recipes
-OL,14,     Gand best moments from Saturday
-OL,15,     GKitchen.
-OL,16,G1130FJimmy's Food Factory
-OL,17,     GScience series. Jimmy Doherty
-OL,18,     Ginvestigates food producer
-OL,19,     Gtrickery. He turns pork into
-OL,20,     Gsquare sandwich ham and tries to
-OL,21,     Gartificially ripen bananas.
+OL,4,G1000FSaturday Kitchen Best Bites
+OL,5,     GMatt Tebbutt takes a look back
+OL,6,     Gat some of his favourite recipes
+OL,7,     Gand best moments from Saturday
+OL,8,     GKitchen.
+OL,9,G1130FJimmy's Food Factory
+OL,10,     GScience series. Jimmy Doherty
+OL,11,     Ginvestigates food producer
+OL,12,     Gtrickery. He turns pork into
+OL,13,     Gsquare sandwich ham and tries to
+OL,14,     Gartificially ripen bananas.
+OL,15,G1200FHome Comforts at Christmas
+OL,16,     GTV chef James Martin gets ahead
+OL,17,     Gfor Christmas, providing lots of
+OL,18,     Gclever tips and tricks to save
+OL,19,     Gtime and stress on the big day.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -106,7 +105,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701597380
+OL,0,        ECIMSBWebfax     F698A1701600995
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -131,7 +130,7 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701597380
+OL,0,        ECIMSBWebfax     F698A1701600995
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -160,28 +159,24 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701597380
+OL,0,        ECIMSBWebfax     F698A1701600995
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G0955FSpongeBob Squarepants
-OL,5,     GEveryone in Bikini Bottom
-OL,6,     Gcompetes in a worm-sled race to
-OL,7,     Gthe South Pole. Will SpongeBob
-OL,8,     Gand the gang make it to the
-OL,9,     Gfrosty finish line to claim the
-OL,10,     Gbig prize: one million clams?
-OL,11,G1020FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the
-OL,14,     Gworld, focusing on celebrities,
-OL,15,     Gmovies, music and entertainment.
-OL,16,G1025FNFL - End Zone
-OL,17,     GJoin Cori Yarckin on a road trip
-OL,18,     Garound the NFL following all the
-OL,19,     Gfun of American Football. This
-OL,20,     Gweek she travels to Dallas to
-OL,21,     Gsee the Cowboys take on the
-OL,22,     GSeattle Seahawks.
+OL,4,G1050FFriends
+OL,5,     GRachel has a disturbing dream
+OL,6,     Gabout Joey. Phoebe camps out in
+OL,7,     Gfront of Monica's restaurant.
+OL,8,G1120FFriends
+OL,9,     GRachel struggles with her
+OL,10,     Gfeelings for Joey. Meanwhile,
+OL,11,     GJoey has given the gang tickets
+OL,12,     Gto a play.
+OL,13,G1155FFriends
+OL,14,     GChandler and Monica secretly go
+OL,15,     Gto a fertility clinic. Ross
+OL,16,     Ghelps Joey to charm Charlie,
+OL,17,     Geven though he wants to date her
+OL,18,     Gas well.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
