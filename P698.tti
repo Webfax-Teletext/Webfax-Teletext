@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701568487
+OL,0,        ECIMSBWebfax     F698A1701572098
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701568487
+OL,0,        ECIMSBWebfax     F698A1701572098
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,46 +47,32 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701568487
+OL,0,        ECIMSBWebfax     F698A1701572098
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0105FThe Graham Norton Show
-OL,5,     GWith guests Julia Roberts, Tom
-OL,6,     GHanks, Timothee Chalamet and
-OL,7,     Gmusic legend Cher. Contains some
-OL,8,     Gstrong language.
-OL,9,G0155FWeather for the Week Ahead
-OL,10,G0200FBBC News
+OL,4,G0200FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,26,@nD@Srr
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701568487
+OL,0,        ECIMSBWebfax     F698A1701572098
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0045FBob Dylan: No Direction Home -
-OL,5,     FArena
-OL,6,     GPart 2. Dylan finds a new
-OL,7,     Gmusical vocabulary to capture
-OL,8,     Gthe seismic cultural shift of
-OL,9,     Gthe mid-60s. Contains some
-OL,10,     Gstrong language.
-OL,11,G0215F...Sings Dylan II
-OL,12,     GCover versions of Bob Dylan
-OL,13,     Gsongs from the BBC archives,
-OL,14,     Gwith Joan Baez, Siouxsie and the
-OL,15,     GBanshees, The Hollies, Adele,
-OL,16,     GJulie Felix, Richie Havens,
-OL,17,     GBryan Ferry and KT Tunstall.
-OL,18,G0315FThis is BBC Two
+OL,4,G0215F...Sings Dylan II
+OL,5,     GCover versions of Bob Dylan
+OL,6,     Gsongs from the BBC archives,
+OL,7,     Gwith Joan Baez, Siouxsie and the
+OL,8,     GBanshees, The Hollies, Adele,
+OL,9,     GJulie Felix, Richie Havens,
+OL,10,     GBryan Ferry and KT Tunstall.
+OL,11,G0315FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -94,7 +80,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701568487
+OL,0,        ECIMSBWebfax     F698A1701572098
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -117,30 +103,36 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701568487
+OL,0,        ECIMSBWebfax     F698A1701572098
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G2325FClear and Present Danger
-OL,5,     GViolent thriller with Harrison
-OL,6,     GFord. Can CIA agent Jack Ryan
-OL,7,     Grescue US troops abandoned in
-OL,8,     GColombia, with only a renegade
-OL,9,     Gagent to help? With Willem Dafoe.
-OL,10,G0155FThe Couple Next Door
-OL,11,     GEyebrow-raising drama. Life is
-OL,12,     Gperfect for Evie and Pete,
-OL,13,     Gwho've just moved to a stunning
-OL,14,     Gnew house. But Pete's worried
-OL,15,     Gthat Evie gets on a little too
-OL,16,     Gwell with their neighbour Danny.
+OL,4,G0250FThe Great Climate Fight
+OL,5,     GA world without climate change
+OL,6,     Gis possible. But to get there,
+OL,7,     Gpoliticians must act. So Kevin
+OL,8,     GMcCloud, Mary Portas and Hugh
+OL,9,     GFearnley-Whittingstall demand
+OL,10,     Gchange from the government.
+OL,11,G0345FHollyoaks Omnibus
+OL,12,     GSienna receives some news that
+OL,13,     Gchanges everything. Romeo and
+OL,14,     GPeri seek an important blessing
+OL,15,     Gfor their relationship. Camilla
+OL,16,     Gleaves Nadira a warning about
+OL,17,     Gthe Harcourts.
+OL,18,G0555FSunday Brunch Best Bits
+OL,19,     GTim Lovejoy and Simon Rimmer
+OL,20,     Gpresent highlights from Sunday
+OL,21,     GBrunch, with a compilation of
+OL,22,     Grecipes from comedian Harry Hill.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701568487
+OL,0,        ECIMSBWebfax     F698A1701572098
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
