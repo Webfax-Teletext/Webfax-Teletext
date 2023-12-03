@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701640726
+OL,0,        ECIMSBWebfax     F698A1701644337
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701640726
+OL,0,        ECIMSBWebfax     F698A1701644337
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,26 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701640726
+OL,0,        ECIMSBWebfax     F698A1701644337
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G2100FBoat Story
-OL,5,     GJanet and Samuel scramble for
-OL,6,     Gtheir next move. How far will
-OL,7,     Gthey go to save themselves?
-OL,8,     GContains strong language and
-OL,9,     Gsome violent scenes.
-OL,10,G2200FBBC News and Weather
-OL,11,G2225FRegional News
-OL,12,G2230FMatch of the Day 2
-OL,13,     GJoin Mark Chapman and guests for
-OL,14,     Gaction and analysis of the day's
-OL,15,     Gfive Premier League games,
-OL,16,     Gheadlined by the mouthwatering
-OL,17,     Gclash between Manchester City
-OL,18,     Gand a revitalised Spurs.
+OL,4,G2230FMatch of the Day 2
+OL,5,     GJoin Mark Chapman and guests for
+OL,6,     Gaction and analysis of the day's
+OL,7,     Gfive Premier League games,
+OL,8,     Gheadlined by the mouthwatering
+OL,9,     Gclash between Manchester City
+OL,10,     Gand a revitalised Spurs.
+OL,11,G2355FBooksmart
+OL,12,     GTwo booksmart girls try to cram
+OL,13,     Gin four years of fun on the eve
+OL,14,     Gof their graduation. Contains
+OL,15,     Gvery strong language and some
+OL,16,     Gscenes of a sexual nature.
+OL,17,G0130FWeather for the Week Ahead
+OL,18,G0135FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,28 +74,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701640726
+OL,0,        ECIMSBWebfax     F698A1701644337
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1900FSnooker: UK Championship
-OL,5,     GLive coverage from day nine of
-OL,6,     Gthe 2023 UK Snooker Championship.
-OL,7,G2200FQI XL Xmas Special: Season's
-OL,8,     FGreetings
-OL,9,     GSandi Toksvig hosts this year's
-OL,10,     GQI Christmas special with the
-OL,11,     Ghelp of Alan Davies, Bonnie
-OL,12,     GLangford, Joe Lycett and Sally
-OL,13,     GPhillips. Contains some strong
-OL,14,     Glanguage.
-OL,15,G2245FHell or High Water
-OL,16,     GA divorced father and his ex-con
-OL,17,     Golder brother resort to a
-OL,18,     Gdesperate scheme. Contains very
-OL,19,     Gstrong language and graphic
-OL,20,     Gviolent scenes.
+OL,4,G2245FHell or High Water
+OL,5,     GA divorced father and his ex-con
+OL,6,     Golder brother resort to a
+OL,7,     Gdesperate scheme. Contains very
+OL,8,     Gstrong language and graphic
+OL,9,     Gviolent scenes.
+OL,10,G0020FQuestion Time
+OL,11,     GFiona Bruce presents topical
+OL,12,     Gdebate from Doncaster in South
+OL,13,     GYorkshire. On the panel are
+OL,14,     GEsther McVey MP, Steve Reed MP,
+OL,15,     GLayla Moran MP, Zoe Lyons and
+OL,16,     GAndrew Neil.
+OL,17,G0120FThe Newsreader
+OL,18,     GHype is building for 1988
+OL,19,     Gbicentenary. The News at Six
+OL,20,     Gteam produce a patriotic promo.
+OL,21,     GContains some strong language.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -103,73 +104,71 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701640726
+OL,0,        ECIMSBWebfax     F698A1701644337
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G2100FI'm A Celebrity... Get Me...
-OL,5,     GOut Of Here! The celebrities
-OL,6,     Gcontinue to take on everything
-OL,7,     Gthe jungle throws at them with
-OL,8,     Gonly one week to go and must
-OL,9,     Gremain focused to win stars to
-OL,10,     Gfeed the camp.
-OL,11,G2230FITV News
-OL,12,G2245FSorry, I Didn't Know
-OL,13,     GDesiree Burch, Nick Helm, Tez
-OL,14,     GIlyas and Sikisa join host Jimmy
-OL,15,     GAkingbola and team leaders
-OL,16,     GChizzy Akudolu and Eddie Kadi to
-OL,17,     Gtake viewers on a tour of Black
-OL,18,     GBritish history.
+OL,4,G2245FSorry, I Didn't Know
+OL,5,     GDesiree Burch, Nick Helm, Tez
+OL,6,     GIlyas and Sikisa join host Jimmy
+OL,7,     GAkingbola and team leaders
+OL,8,     GChizzy Akudolu and Eddie Kadi to
+OL,9,     Gtake viewers on a tour of Black
+OL,10,     GBritish history.
+OL,11,G2320FGallagher Premiership Rugby
+OL,12,     FHighlights
+OL,13,     GAll the action from Round Eight
+OL,14,     Gof the 2023-24 Gallagher
+OL,15,     GPremiership season, this time
+OL,16,     Gfeaturing Harlequins v Sale
+OL,17,     GSharks and Saracens v
+OL,18,     GNorthampton Saints.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701640726
+OL,0,        ECIMSBWebfax     F698A1701644337
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G2100F24 Hours in Police Custody
-OL,5,     GThe Siege: Feature-length
-OL,6,     Gspecial telling the gripping
-OL,7,     Ginside story of an armed siege
-OL,8,     Gin a tower block, with
-OL,9,     Gunprecedented access to the
-OL,10,     Gpolice command suite.
-OL,11,G2235FMurdered: Baby on the Beach
-OL,12,     GForty years ago, the discovery
-OL,13,     Gof a baby's remains on a County
-OL,14,     GKerry beach set off a series of
-OL,15,     Gshocking twists that blurred
-OL,16,     Ginnocence and guilt - retold in
-OL,17,     Gthis engrossing tale.
+OL,4,G2235FMurdered: Baby on the Beach
+OL,5,     GForty years ago, the discovery
+OL,6,     Gof a baby's remains on a County
+OL,7,     GKerry beach set off a series of
+OL,8,     Gshocking twists that blurred
+OL,9,     Ginnocence and guilt - retold in
+OL,10,     Gthis engrossing tale.
+OL,11,G2335FGogglebox
+OL,12,     GWhat do Britain's top armchair
+OL,13,     Gcritics think of Squid Game: The
+OL,14,     GChallenge, The Couple Next Door,
+OL,15,     GThe Toy Hospital, Survivor,
+OL,16,     GVinnie Jones in the Country and
+OL,17,     GLorraine?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701640726
+OL,0,        ECIMSBWebfax     F698A1701644337
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G2100FSelfridges at Christmas
-OL,5,     GHow the famous department store
-OL,6,     Gcelebrates the festive season,
-OL,7,     Gfrom their iconic Christmas
-OL,8,     Gwindow displays to top-of-the-
-OL,9,     Grange gifts and a luxury hamper
-OL,10,     Gcosting a whopping #2500.
-OL,11,G2200FWhen Christmas TV Goes Horribly
-OL,12,     FWrong
-OL,13,     GClip show narrated by Noddy
-OL,14,     GHolder, collecting the unplanned
-OL,15,     Gand unwanted but often hilarious
-OL,16,     Gmoments that have beset the
-OL,17,     Gworld of TV during the festive
-OL,18,     Gseason.
+OL,4,G2200FWhen Christmas TV Goes Horribly
+OL,5,     FWrong
+OL,6,     GClip show narrated by Noddy
+OL,7,     GHolder, collecting the unplanned
+OL,8,     Gand unwanted but often hilarious
+OL,9,     Gmoments that have beset the
+OL,10,     Gworld of TV during the festive
+OL,11,     Gseason.
+OL,12,G0050FEntertainment News on 5
+OL,13,     GA daily round-up of showbiz news
+OL,14,     Gand gossip from around the
+OL,15,     Gworld, focusing on celebrities,
+OL,16,     Gmovies, music and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
