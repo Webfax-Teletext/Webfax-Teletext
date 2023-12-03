@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701608217
+OL,0,        ECIMSBWebfax     F698A1701611831
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701608217
+OL,0,        ECIMSBWebfax     F698A1701611831
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701608217
+OL,0,        ECIMSBWebfax     F698A1701611831
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1230FBargain Hunt
-OL,5,     GNatasha Raskin Sharp presents,
-OL,6,     Gwhile experts Charles Hanson and
-OL,7,     GDavid Harper help the reds and
-OL,8,     Gthe blues battle it out at the
-OL,9,     GEast of England Showground.
-OL,10,G1315FBBC News
-OL,11,G1325FWeather for the Week Ahead
-OL,12,G1330FSongs of Praise: Young...
-OL,13,     GChorister of the Year. Aled
-OL,14,     GJones and Rev Kate Bottley host
-OL,15,     Gthe final of BBC Young Chorister
-OL,16,     Gof the Year.
-OL,17,G1415FPlanet Earth III
-OL,18,     GDavid Attenborough presents an
-OL,19,     Gextreme world where animals
-OL,20,     Gbattle to survive the elements -
-OL,21,     Gand life exists on a knife edge.
+OL,4,G1330FSongs of Praise: Young...
+OL,5,     GChorister of the Year. Aled
+OL,6,     GJones and Rev Kate Bottley host
+OL,7,     Gthe final of BBC Young Chorister
+OL,8,     Gof the Year.
+OL,9,G1415FPlanet Earth III
+OL,10,     GDavid Attenborough presents an
+OL,11,     Gextreme world where animals
+OL,12,     Gbattle to survive the elements -
+OL,13,     Gand life exists on a knife edge.
+OL,14,G1515FNativity!
+OL,15,     GComedy starring Martin Freeman
+OL,16,     Gand Ashley Jensen. A teacher
+OL,17,     Gbrags that his ex, a Hollywood
+OL,18,     Gproducer, is thinking of turning
+OL,19,     Ghis school's Nativity play into
+OL,20,     Ga film.
+OL,21,G1655FBBC News
+OL,22,G1710FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,25 +78,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701608217
+OL,0,        ECIMSBWebfax     F698A1701611831
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1230FHome Comforts at Christmas
-OL,5,     GJames Martin brings together a
-OL,6,     Gclassic collection of festive
-OL,7,     Grecipes to satisfy comfort food
-OL,8,     Gcravings.
-OL,9,G1300FSnooker: UK Championship
-OL,10,     GLive coverage from day nine of
-OL,11,     Gthe 2023 UK Snooker Championship.
-OL,12,G1715FFlog It!
-OL,13,     GAntiques series. This edition
-OL,14,     Gcomes from Ickworth House in
-OL,15,     GSuffolk, where presenter Paul
-OL,16,     GMartin is joined by experts Adam
-OL,17,     GPartridge and Philip Serrell.
+OL,4,G1300FSnooker: UK Championship
+OL,5,     GLive coverage from day nine of
+OL,6,     Gthe 2023 UK Snooker Championship.
+OL,7,G1715FFlog It!
+OL,8,     GAntiques series. This edition
+OL,9,     Gcomes from Ickworth House in
+OL,10,     GSuffolk, where presenter Paul
+OL,11,     GMartin is joined by experts Adam
+OL,12,     GPartridge and Philip Serrell.
+OL,13,G1800FMOTD: FA Cup Highlights
+OL,14,     GManish Bhasin introduces all the
+OL,15,     Ggoals and major talking points
+OL,16,     Gfrom the weekend's second-round
+OL,17,     Gties, featuring six non-league
+OL,18,     Gteams with home advantage
+OL,19,     Gagainst EFL opponents.
+OL,20,G1900FSnooker: UK Championship
+OL,21,     GLive coverage from day nine of
+OL,22,     Gthe 2023 UK Snooker Championship.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -103,7 +109,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701608217
+OL,0,        ECIMSBWebfax     F698A1701611831
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -129,55 +135,52 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701608217
+OL,0,        ECIMSBWebfax     F698A1701611831
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1255FThe Simpsons
-OL,5,     GGone Boy: Bart disappears and no
-OL,6,     Gone can find him - except a
-OL,7,     Gvengeful Sideshow Bob...
-OL,8,G1325FTerry Pratchett's The...
-OL,9,     GAbominable Snow Baby: Charming
-OL,10,     Ganimation with Julie Walters,
-OL,11,     GHugh Dancy and David Harewood.
-OL,12,     GWhen a 14-foot snow creature
-OL,13,     Gthrows a town into disarray, can
-OL,14,     GGranny and Albert save the day?
-OL,15,G1355FWe're Going On a Bear Hunt
-OL,16,     GWrap up warm and step into the
-OL,17,     Gsnow for a wonderful animated
-OL,18,     Gadventure based on the
-OL,19,     Gbestselling bedtime book by
-OL,20,     GMichael Rosen. Voiced by Olivia
-OL,21,     GColman, Pam Ferris and Mark
-OL,22,     GWilliams.
+OL,4,G1355FWe're Going On a Bear Hunt
+OL,5,     GWrap up warm and step into the
+OL,6,     Gsnow for a wonderful animated
+OL,7,     Gadventure based on the
+OL,8,     Gbestselling bedtime book by
+OL,9,     GMichael Rosen. Voiced by Olivia
+OL,10,     GColman, Pam Ferris and Mark
+OL,11,     GWilliams.
+OL,12,G1430FThe Great British Bake Off
+OL,13,     GThe Final: The finalists make a
+OL,14,     Gpastry Signature, a sticky
+OL,15,     GTechnical and a showstopping
+OL,16,     Gcelebration cake. Whose choux
+OL,17,     Gwill see them through to be
+OL,18,     Gcrowned Bake Off 2023 winner?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701608217
+OL,0,        ECIMSBWebfax     F698A1701611831
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1225FUnlocking Christmas
+OL,4,G1330FUnlocking Christmas
 OL,5,     GWhen a mysterious key and
 OL,6,     Gholiday riddle land on their
 OL,7,     Gdoorsteps, a couple embark on a
 OL,8,     GChristmas adventure they'll
 OL,9,     Gnever forget.
-OL,10,G1325FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the
-OL,13,     Gworld, focusing on celebrities,
-OL,14,     Gmovies, music and entertainment.
-OL,15,G1330FUnlocking Christmas
-OL,16,     GWhen a mysterious key and
-OL,17,     Gholiday riddle land on their
-OL,18,     Gdoorsteps, a couple embark on a
-OL,19,     GChristmas adventure they'll
-OL,20,     Gnever forget.
+OL,10,G1415FChristmas at the Holly Day Inn
+OL,11,     GRomantic comedy about an over-
+OL,12,     Gachieving executive who quits
+OL,13,     Gher job just before Christmas
+OL,14,     Gand goes to her father's country
+OL,15,     Ginn to try to find some balance
+OL,16,     Gagain.
+OL,17,G1520FEntertainment News on 5
+OL,18,     GA daily round-up of showbiz news
+OL,19,     Gand gossip from around the
+OL,20,     Gworld, focusing on celebrities,
+OL,21,     Gmovies, music and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
