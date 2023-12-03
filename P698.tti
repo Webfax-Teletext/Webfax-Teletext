@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701622666
+OL,0,        ECIMSBWebfax     F698A1701626280
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701622666
+OL,0,        ECIMSBWebfax     F698A1701626280
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,25 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701622666
+OL,0,        ECIMSBWebfax     F698A1701626280
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1655FBBC News
-OL,5,G1710FRegional News
-OL,6,G1715FWeather
-OL,7,G1720FCountryfile
-OL,8,     GEllie Harrison and Anita Rani
-OL,9,     Gare at Poole Harbour to
-OL,10,     Gcelebrate Ellie's last episode.
-OL,11,G1820FPlanet Earth III
-OL,12,     GDiscover the extraordinary ways
-OL,13,     Gin which wildlife survives in a
-OL,14,     Grapidly changing human world.
-OL,15,     GFrom cobras hunting in houses to
-OL,16,     Gmacaques stealing mobile phones
-OL,17,     Gto barter with.
+OL,4,G1720FCountryfile
+OL,5,     GEllie Harrison and Anita Rani
+OL,6,     Gare at Poole Harbour to
+OL,7,     Gcelebrate Ellie's last episode.
+OL,8,G1820FPlanet Earth III
+OL,9,     GDiscover the extraordinary ways
+OL,10,     Gin which wildlife survives in a
+OL,11,     Grapidly changing human world.
+OL,12,     GFrom cobras hunting in houses to
+OL,13,     Gmacaques stealing mobile phones
+OL,14,     Gto barter with.
+OL,15,G1920FStrictly Come Dancing: The
+OL,16,     FResults
+OL,17,     GThe professional dancers perform
+OL,18,     Ga routine inspired by Chorus
+OL,19,     GLine, and Joss Stone sings This
+OL,20,     GTime, from new musical The Time
+OL,21,     GTraveller's Wife.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -73,30 +77,27 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701622666
+OL,0,        ECIMSBWebfax     F698A1701626280
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1300FSnooker: UK Championship
-OL,5,     GLive coverage from day nine of
-OL,6,     Gthe 2023 UK Snooker Championship.
-OL,7,G1715FFlog It!
-OL,8,     GAntiques series. This edition
-OL,9,     Gcomes from Ickworth House in
-OL,10,     GSuffolk, where presenter Paul
-OL,11,     GMartin is joined by experts Adam
-OL,12,     GPartridge and Philip Serrell.
-OL,13,G1800FMOTD: FA Cup Highlights
-OL,14,     GManish Bhasin introduces all the
-OL,15,     Ggoals and major talking points
-OL,16,     Gfrom the weekend's second-round
-OL,17,     Gties, featuring six non-league
-OL,18,     Gteams with home advantage
-OL,19,     Gagainst EFL opponents.
-OL,20,G1900FSnooker: UK Championship
-OL,21,     GLive coverage from day nine of
-OL,22,     Gthe 2023 UK Snooker Championship.
+OL,4,G1715FFlog It!
+OL,5,     GAntiques series. This edition
+OL,6,     Gcomes from Ickworth House in
+OL,7,     GSuffolk, where presenter Paul
+OL,8,     GMartin is joined by experts Adam
+OL,9,     GPartridge and Philip Serrell.
+OL,10,G1800FMOTD: FA Cup Highlights
+OL,11,     GManish Bhasin introduces all the
+OL,12,     Ggoals and major talking points
+OL,13,     Gfrom the weekend's second-round
+OL,14,     Gties, featuring six non-league
+OL,15,     Gteams with home advantage
+OL,16,     Gagainst EFL opponents.
+OL,17,G1900FSnooker: UK Championship
+OL,18,     GLive coverage from day nine of
+OL,19,     Gthe 2023 UK Snooker Championship.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,77 +105,84 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701622666
+OL,0,        ECIMSBWebfax     F698A1701626280
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1545FUncle Buck
-OL,5,     GOffbeat comedy film starring
-OL,6,     GJohn Candy and Macaulay Culkin,
-OL,7,     G1989. A carefree slob must deal
-OL,8,     Gwith the sudden and unexpected
-OL,9,     Gchallenge of looking after his
-OL,10,     Gbrother's three children.
-OL,11,G1745FITV Evening News
-OL,12,G1800FRegional News
-OL,13,G1810FMamma Mia! I Have A Dream
-OL,14,     GIt's the semi-final, but only
-OL,15,     Gfour of the six remaining
-OL,16,     Ghopefuls can make it through to
-OL,17,     Gthe final as they get some
-OL,18,     Gadvice from a singing sensation
-OL,19,     Gand star of the Mamma Mia! films.
+OL,4,G1745FITV Evening News
+OL,5,G1800FRegional News
+OL,6,G1810FMamma Mia! I Have A Dream
+OL,7,     GIt's the semi-final, but only
+OL,8,     Gfour of the six remaining
+OL,9,     Ghopefuls can make it through to
+OL,10,     Gthe final as they get some
+OL,11,     Gadvice from a singing sensation
+OL,12,     Gand star of the Mamma Mia! films.
+OL,13,G1930FGino's Italy: Secrets of the
+OL,14,     FSouth
+OL,15,     GGino travels on his Vespa
+OL,16,     Gfurther south along Puglia's
+OL,17,     Gheel to Salento to meet an
+OL,18,     GItalian free-diving champion and
+OL,19,     Glearn about the secrets of
+OL,20,     Gorganic farming.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701622666
+OL,0,        ECIMSBWebfax     F698A1701626280
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1650FFather Christmas
-OL,5,     GClassic animation based on
-OL,6,     GRaymond Briggs' book. What does
-OL,7,     GFather Christmas do with himself
-OL,8,     Gfor the other 364 days of the
-OL,9,     Gyear? Here's a chance to find
-OL,10,     Gout. Voiced by Mel Smith.
-OL,11,G1720FThe Snowman
-OL,12,     GRaymond Briggs' classic animated
-OL,13,     Gtale of a little boy's snowman
-OL,14,     Gwho comes to life and whisks him
-OL,15,     Goff to the North Pole for an
-OL,16,     Gadventure.
+OL,4,G1755FThe Snowman and the Snowdog
+OL,5,     GCharming animated sequel to
+OL,6,     GRaymond Briggs' classic The
+OL,7,     GSnowman. When a young boy and
+OL,8,     Ghis mother move house, he builds
+OL,9,     Ga snowman and a snowdog who
+OL,10,     Gmagically come to life.
+OL,11,G1820FChannel 4 News
+OL,12,     GChannel 4's flagship news
+OL,13,     Gprogramme. Including the weather.
+OL,14,G1845FThe Festive Pottery Throw Down
+OL,15,     GSiobhan McSweeney hosts a
+OL,16,     Gfabulously festive dollop of
+OL,17,     GChristmas clay, as James Fleet,
+OL,18,     GJenny Eclair, Jamie Laing and
+OL,19,     GSunetra Sarker take on a slab-
+OL,20,     Gbuilt scene and mulled wine
+OL,21,     Gtumblers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,26,@wD@Krp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701622666
+OL,0,        ECIMSBWebfax     F698A1701626280
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 DEC
-OL,4,G1605FChristmas on Main Street
+OL,4,G1710FChristmas on Main Street
 OL,5,     GAmelia, who wants to open a year-
 OL,6,     Ground Christmas store, bids for
 OL,7,     Ga shop against Vic, who wants to
 OL,8,     Gopen a candy store. Festive film
 OL,9,     Gwith Patrick Duffy, Vanessa
 OL,10,     GLachey and Ryan McPartlin.
-OL,11,G1705FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the
-OL,14,     Gworld, focusing on celebrities,
-OL,15,     Gmovies, music and entertainment.
-OL,16,G1710FChristmas on Main Street
-OL,17,     GAmelia, who wants to open a year-
-OL,18,     Ground Christmas store, bids for
-OL,19,     Ga shop against Vic, who wants to
-OL,20,     Gopen a candy store. Festive film
-OL,21,     Gwith Patrick Duffy, Vanessa
-OL,22,     GLachey and Ryan McPartlin.
+OL,11,G1800FSanta Who?
+OL,12,     GSeasonal family comedy starring
+OL,13,     GLeslie Nielsen and Max Morrow.
+OL,14,     GWhen Santa suffers from amnesia
+OL,15,     Gshortly before Christmas, only
+OL,16,     Gthe innocence of a small child
+OL,17,     Gcan save the day.
+OL,18,G1900FEntertainment News on 5
+OL,19,     GA daily round-up of showbiz news
+OL,20,     Gand gossip from around the
+OL,21,     Gworld, focusing on celebrities,
+OL,22,     Gmovies, music and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
