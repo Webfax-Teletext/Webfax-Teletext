@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701582932
+OL,0,        ECIMSBWebfax     F698A1701586543
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701582932
+OL,0,        ECIMSBWebfax     F698A1701586543
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701582932
+OL,0,        ECIMSBWebfax     F698A1701586543
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0200FBBC News
+OL,3,CProgramme listings for SUN 3 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0750FMatch of the Day
+OL,9,     GAll the goals, drama and
+OL,10,     Greaction from the day's five
+OL,11,     GPremier League fixtures,
+OL,12,     Gincluding Newcastle United at
+OL,13,     Ghome to under-pressure
+OL,14,     GManchester United.
+OL,15,G0900FSunday with Laura Kuenssberg
+OL,16,     GLaura Kuenssberg is joined by
+OL,17,     GVictoria Atkins, Jonathan
+OL,18,     GReynolds and Ndileka Mandela.
+OL,19,G1000FRegional Political Programmes
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +75,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701582932
+OL,0,        ECIMSBWebfax     F698A1701586543
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0405FThis is BBC Two
+OL,3,CProgramme listings for SUN 3 DEC
+OL,4,G0650FCountryfile
+OL,5,     GCountryfile returns to Dumfries
+OL,6,     GHouse as autumn is in full swing
+OL,7,     Gand the first year of teaching
+OL,8,     Ggets underway at the new rural
+OL,9,     Gskills centre recently opened by
+OL,10,     Gthe King.
+OL,11,G0750FBreakfast
+OL,12,     GThe latest news, sport, business
+OL,13,     Gand weather from the BBC's
+OL,14,     GBreakfast team.
+OL,15,G0900FWeatherman Walking
+OL,16,     GWeatherman Derek Brockway visits
+OL,17,     Gthe Elan Valley in Powys and
+OL,18,     Gdiscovers the role the area
+OL,19,     Gplayed in the famous Dambusters
+OL,20,     Gattacks of World War Two.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,47 +104,76 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701582932
+OL,0,        ECIMSBWebfax     F698A1701586543
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GWalsall 2: David Dickinson hosts
-OL,6,     Gfrom Walsall Football Club in
-OL,7,     Gthe West Midlands as a set of
-OL,8,     Gfalse teeth found in a loft
-OL,9,     Gcause a stir and James Layte
-OL,10,     Gexplains what a dumpy level is.
+OL,3,CProgramme listings for SUN 3 DEC
+OL,4,G0600FJames Martin's French Adventure
+OL,5,     GGiverny: James arrives in the
+OL,6,     Gmisty gardens of Claude Monet's
+OL,7,     Ghouse in Giverny and walks
+OL,8,     Gacross the iconic Japanese
+OL,9,     Gbridge to gaze at the water
+OL,10,     Glilies made famous by the artist.
+OL,11,G0700FGino's Italy: Secrets of the
+OL,12,     FSouth
+OL,13,     GGino heads back to the
+OL,14,     GBasilicata region - this time on
+OL,15,     Ghorseback - to explore the
+OL,16,     Glargest national park in Italy
+OL,17,     Gand the hill village of San
+OL,18,     GPaolo Albanese.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701582932
+OL,0,        ECIMSBWebfax     F698A1701586543
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0555FSunday Brunch Best Bits
-OL,5,     GTim Lovejoy and Simon Rimmer
-OL,6,     Gpresent highlights from Sunday
-OL,7,     GBrunch, with a compilation of
-OL,8,     Grecipes from comedian Harry Hill.
+OL,3,CProgramme listings for SUN 3 DEC
+OL,4,G0650FCheers
+OL,5,     GBidding on the Boys: Rebecca
+OL,6,     Gorganises a bachelor auction for
+OL,7,     Gcharity, with Sam and Woody
+OL,8,     Gamong the prizes, but both men
+OL,9,     Gare less than thrilled about the
+OL,10,     Gwinning bidders.
+OL,11,G0715FCheers
+OL,12,     GPudd'n Head Boyd: Woody joins a
+OL,13,     Gtheatre group and understudies
+OL,14,     Gfor the role of Mark Twain.
+OL,15,     GWhile wearing his costume and
+OL,16,     Gmake-up in the bar, an older
+OL,17,     Gwoman takes a fancy to him.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701582932
+OL,0,        ECIMSBWebfax     F698A1701586543
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 2 DEC
-OL,4,G0550FMixmups
-OL,5,     GWhen Spin's pet ant dies, he
-OL,6,     Gtakes to his duvet cave of
-OL,7,     Gsadness. Will Pockets and Giggle
-OL,8,     Gfind "another way" to help Spin
-OL,9,     Gwith his sadness?
+OL,3,CProgramme listings for SUN 3 DEC
+OL,4,G0650FFireman Sam
+OL,5,     GThe Big Chill: When the power
+OL,6,     Ggoes out at the fire station,
+OL,7,     GSam has trouble lighting a fire.
+OL,8,     GMeanwhile, Norman borrows his
+OL,9,     Gmother's best scarf for his
+OL,10,     Gsnowman.
+OL,11,G0700FThomas and Friends
+OL,12,     GAnimation. Emily is helping
+OL,13,     GDonald and Douglas with a long
+OL,14,     Gtrain of heavy flatbeds, but
+OL,15,     Gneither of the brothers want to
+OL,16,     Ggo in front and keep swapping
+OL,17,     Gover.
+OL,18,G0715FPAW Patrol
+OL,19,     GThe gang follow some strange
+OL,20,     Gtracks in pursuit of what they
+OL,21,     Gthink is a monster.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
