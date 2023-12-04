@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701676854
+OL,0,        ECIMSBWebfax     F698A1701680470
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701676854
+OL,0,        ECIMSBWebfax     F698A1701680470
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701676854
+OL,0,        ECIMSBWebfax     F698A1701680470
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -77,27 +77,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701676854
+OL,0,        ECIMSBWebfax     F698A1701680470
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 4 DEC
-OL,4,G0800FMarcus Wareing's Tales from a
-OL,5,     FKitchen Garden
-OL,6,     GMarcus Wareing investigates new
-OL,7,     Gways of developing his farm in
-OL,8,     GEast Sussex and is keen to learn
-OL,9,     Gthe art of charcuterie. He also
-OL,10,     Gplants some winter veg.
-OL,11,G0830FMarcus Wareing's Tales from a
-OL,12,     FKitchen Garden
-OL,13,     GMarcus Wareing goes crab fishing
-OL,14,     Gand learns how to prepare rams
-OL,15,     Gfor the mating season.
-OL,16,G0900FBBC News
-OL,17,G1215FPolitics Live
-OL,18,     GThe big political issues of the
-OL,19,     Gday.
+OL,4,G0900FBBC News
+OL,5,G1215FPolitics Live
+OL,6,     GThe big political issues of the
+OL,7,     Gday.
+OL,8,G1300FImpossible Celebrities
+OL,9,     GRick Edwards hosts a new
+OL,10,     Gcelebrity series of the hit
+OL,11,     Gquiz. 18 stars including Happy
+OL,12,     GMondays' Shaun Ryder and reality
+OL,13,     Gstar Charlotte Crosby compete to
+OL,14,     Gwin #10,000 for charity.
+OL,15,G1345FThe Boss
+OL,16,     GSusan Calman hosts the quiz show
+OL,17,     Gof tactics, knowledge and nerve.
+OL,18,     GContestants must work as a team,
+OL,19,     Gbut ultimately there can only be
+OL,20,     Gone Boss. Who will walk away
+OL,21,     Gwith the money?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -105,82 +107,74 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701676854
+OL,0,        ECIMSBWebfax     F698A1701680470
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 4 DEC
-OL,4,G0600FGood Morning Britain
-OL,5,     GNews, current affairs and lively
-OL,6,     Gdebate.
-OL,7,G0900FLorraine
-OL,8,     GLorraine Kelly presents a
-OL,9,     Gtopical mix of entertainment,
-OL,10,     Gdiscussion and showbiz glamour
-OL,11,     Gas well as the latest fashion,
-OL,12,     Gfood and celebrity gossip.
-OL,13,G1000FThis Morning
-OL,14,     GRylan and Emma are joined by
-OL,15,     GSpice Girl Geri Halliwell-
-OL,16,     GHorner, Gok's in the kitchen
-OL,17,     Gsharing a secret family recipe,
-OL,18,     Gand the Queen of Clean's helping
-OL,19,     Gyou get ready for Christmas.
+OL,4,G0900FLorraine
+OL,5,     GLorraine Kelly presents a
+OL,6,     Gtopical mix of entertainment,
+OL,7,     Gdiscussion and showbiz glamour
+OL,8,     Gas well as the latest fashion,
+OL,9,     Gfood and celebrity gossip.
+OL,10,G1000FThis Morning
+OL,11,     GRylan and Emma are joined by
+OL,12,     GSpice Girl Geri Halliwell-
+OL,13,     GHorner, Gok's in the kitchen
+OL,14,     Gsharing a secret family recipe,
+OL,15,     Gand the Queen of Clean's helping
+OL,16,     Gyou get ready for Christmas.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701676854
+OL,0,        ECIMSBWebfax     F698A1701680470
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 4 DEC
-OL,4,G0800FEverybody Loves Raymond
-OL,5,     GSlave: Ray and Debra
-OL,6,     Ginadvertently leave the twins
-OL,7,     Ghome alone and are impressed
-OL,8,     Gwith Ally when she takes care of
-OL,9,     Gthem, so they offer her lots of
-OL,10,     Gother work...
-OL,11,G0825FFrasier
-OL,12,     GRoz, a Loan: Unemployed Roz is
-OL,13,     Ghappy to hear that KACL might be
-OL,14,     Grehiring everyone.
-OL,15,G0855FFrasier
-OL,16,     GMerry Christmas, Mrs. Moskowitz:
-OL,17,     GA friendly woman comes to
-OL,18,     GFrasier's rescue when he is out
-OL,19,     GChristmas shopping. She
-OL,20,     Grecognises him, and he offers to
-OL,21,     Greturn the favour.
+OL,4,G0855FFrasier
+OL,5,     GMerry Christmas, Mrs. Moskowitz:
+OL,6,     GA friendly woman comes to
+OL,7,     GFrasier's rescue when he is out
+OL,8,     GChristmas shopping. She
+OL,9,     Grecognises him, and he offers to
+OL,10,     Greturn the favour.
+OL,11,G0925FFrasier
+OL,12,     GThe Good Samaritan: Frasier is
+OL,13,     Garrested after unwittingly
+OL,14,     Ggiving a ride to a prostitute.
+OL,15,     GTo make matters worse, he must
+OL,16,     Gexplain the public scandal to
+OL,17,     Ghis 11-year-old son.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701676855
+OL,0,        ECIMSBWebfax     F698A1701680470
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 4 DEC
-OL,4,G0800FAnimal Care Club
-OL,5,     GThe cadets need to give the
-OL,6,     Ganimals best care at Scarborough
-OL,7,     GSea Life Centre, with activities
-OL,8,     Gincluding breakfast for the
-OL,9,     Gseals and cleaning the enclosure
-OL,10,     Gfor the Humboldt Penguins.
-OL,11,G0815FMilo
-OL,12,     GMilo, Lofty and Lark are
-OL,13,     Gdelighted to enter the Big Top
-OL,14,     Gto entertain the audience but
-OL,15,     Gpoor Milo is upset when he
-OL,16,     Gthinks everyone is laughing at
-OL,17,     Ghim.
-OL,18,G0830FPAW Patrol
-OL,19,     GAdventure Bay is holding a "kids
-OL,20,     Gonly" soapbox derby race, when a
-OL,21,     Gmysterious newcomer named "Hum-
-OL,22,     GKid" shows up, breaking rules.
+OL,4,G0900FPeppa Pig
+OL,5,     GPrincess Peppa: Granny and
+OL,6,     GGrandpa Pig come for a dinner
+OL,7,     Gparty with Mummy and Daddy Pig.
+OL,8,     GPeppa and George are too tired
+OL,9,     Gto go to bed, until they are
+OL,10,     Gtold a story.
+OL,11,G0905FMilkshake! Story Den
+OL,12,     GKiera reads a story in which
+OL,13,     GSanta and his reindeers run into
+OL,14,     Ga difficulty with the sleigh on
+OL,15,     GChristmas Eve. Now it's up to
+OL,16,     Gthe Paw Patrol to help them and
+OL,17,     Gsave Christmas!
+OL,18,G0915FJeremy Vine
+OL,19,     GJeremy Vine and Storm discuss
+OL,20,     Gthe latest news and get your
+OL,21,     Gviews and opinions of the day.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
