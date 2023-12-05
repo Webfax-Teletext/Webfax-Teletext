@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701752742
+OL,0,        ECIMSBWebfax     F698A1701756353
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701752742
+OL,0,        ECIMSBWebfax     F698A1701756353
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701752742
+OL,0,        ECIMSBWebfax     F698A1701756353
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 4 DEC
-OL,4,G0145FBBC News
+OL,3,CProgramme listings for TUE 5 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live at Christmas
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FDefenders UK
+OL,12,     GThe Civil Aviation Authority
+OL,13,     Gcatches a fraudster working for
+OL,14,     Ga large UK airlines.
+OL,15,G1045FClaimed and Shamed
+OL,16,     GA man who lost his brother to
+OL,17,     GCovid is jailed after
+OL,18,     Gfraudulently taking out life
+OL,19,     Ginsurance policies in his
+OL,20,     Gsibling's name after he had
+OL,21,     Galready died.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +77,24 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701752742
+OL,0,        ECIMSBWebfax     F698A1701756353
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 4 DEC
+OL,3,CProgramme listings for TUE 5 DEC
 OL,4,G0320FThis is BBC Two
+OL,5,G0630FAntiques Road Trip
+OL,6,     GNatasha Raskin Sharp and Ishy
+OL,7,     GKhan point their classic car to
+OL,8,     GNorthumberland.
+OL,9,G0715FMake It at Market
+OL,10,     GCan Alison and Jack turn their
+OL,11,     Gupholstery and blacksmithing
+OL,12,     Ginto successful businesses?
+OL,13,G0800FExpert Witness
+OL,14,     GEvidence unearthed by a forensic
+OL,15,     Garchaeologist helps to catch a
+OL,16,     Gyoung woman's killer.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,70 +102,75 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701752742
+OL,0,        ECIMSBWebfax     F698A1701756353
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 4 DEC
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GLiverpool 4: David Dickinson
-OL,6,     Gpresents from Aintree Racecourse
-OL,7,     Gin Liverpool as a church lamp
-OL,8,     Gturns out to be a bargain and
-OL,9,     GTim Hogarth is pressured by a
-OL,10,     Gseller's granddaughter.
+OL,3,CProgramme listings for TUE 5 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GShane MacGowan's widow Victoria
+OL,6,     GMary Clarke on her hopes for her
+OL,7,     Ghusband's song to reach
+OL,8,     GChristmas number one, plus Jason
+OL,9,     GDonovan is taking his greatest
+OL,10,     Ghits on tour.
+OL,11,G0900FLorraine
+OL,12,     GLorraine Kelly presents a
+OL,13,     Gtopical mix of entertainment,
+OL,14,     Gdiscussion and showbiz glamour
+OL,15,     Gas well as the latest fashion,
+OL,16,     Gfood and celebrity gossip.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701752742
+OL,0,        ECIMSBWebfax     F698A1701756353
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 4 DEC
-OL,4,G0420FChristmas at Highclere Castle
-OL,5,     GA magical behind-the-scenes look
-OL,6,     Gat how one of the world's most
-OL,7,     Grecognisable houses - the
-OL,8,     Gsetting for Downton Abbey - deck
-OL,9,     Gtheir halls and transform for
-OL,10,     GChristmas in their unique way.
-OL,11,G0510FChateau DIY at Christmas
-OL,12,     GAt Chateau de Lalande, will
-OL,13,     GStephanie's opulent salon
-OL,14,     Gwallpaper arrive in time for her
-OL,15,     Gparty? At Chateau Mareuil,
-OL,16,     GBelinda and Lee plan a
-OL,17,     Gmysterious party for their
-OL,18,     Gneighbours.
+OL,3,CProgramme listings for TUE 5 DEC
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Richard Coles joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0645F3rd Rock from the Sun
+OL,12,     GDick's Big Giant Headache : The
+OL,13,     GBig Giant Head warns the aliens
+OL,14,     Gtheir mission has received a sub-
+OL,15,     Gstandard evaluation and that
+OL,16,     Ghe's on his way to Earth to
+OL,17,     Ginvestigate.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@tD@KspwD@Rsp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701752742
+OL,0,        ECIMSBWebfax     F698A1701756353
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 4 DEC
-OL,4,G0505FHouse Doctor
-OL,5,     GAnn Maurice and Alistair
-OL,6,     GAppleton present more home
-OL,7,     Gimprovements. A home in
-OL,8,     GNailsworth, Gloucestershire
-OL,9,     Gneeds some attention.
-OL,10,G0530FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the
-OL,13,     Gworld, focusing on celebrities,
-OL,14,     Gmovies, music and entertainment.
-OL,15,G0540FPip and Posy
-OL,16,     GAnimated series following the
-OL,17,     Gfriendship between spirited
-OL,18,     Grabbit Pip and sweet-natured
-OL,19,     Gmouse Posy. Posy gets a bit
-OL,20,     Ggreedy when Pip shares his
-OL,21,     Gstickers with her.
+OL,3,CProgramme listings for TUE 5 DEC
+OL,4,G0600FMilkshake! News
+OL,5,     GA roundup of all the fun things
+OL,6,     Ghappening at Milkshake! Join
+OL,7,     GKemi for today's report where we
+OL,8,     Ghear all about chickens and eggs!
+OL,9,G0610FMilkshake! Badgers Their Secret
+OL,10,     FWorld
+OL,11,     GWe follow the European badgers
+OL,12,     Gand discover where they live,
+OL,13,     Gand we take a peek into their
+OL,14,     Gunderground homes to see what
+OL,15,     Gthey like to make their beds out
+OL,16,     Gof!
+OL,17,G0615FSunny Bunnies
+OL,18,     GThe Sunny Bunnies can't wait to
+OL,19,     Gopen Christmas presents, but
+OL,20,     Gthey are under the Christmas
+OL,21,     Gtree in the middle of a frozen
+OL,22,     Glake! How can they reach them?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
