@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701852258
+OL,0,        ECIMSBWebfax     F698A1701854063
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701852258
+OL,0,        ECIMSBWebfax     F698A1701854063
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701852258
+OL,0,        ECIMSBWebfax     F698A1701854063
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -77,26 +77,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701852258
+OL,0,        ECIMSBWebfax     F698A1701854063
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0830FNadiya's Simple Spices
-OL,5,     GNadiya serves up deliciously easy
-OL,6,     Gdishes, from a quick curry to a
-OL,7,     Gspiced fruit pudding.
-OL,8,G0900FBBC News
-OL,9,G1115FPolitics Live
-OL,10,     GThe big political issues of the
-OL,11,     Gday.
-OL,12,G1300FImpossible Celebrities
-OL,13,     GRick Edwards hosts a celebrity
-OL,14,     Gseries of the BBC One quiz. 18
-OL,15,     Gcelebrities including reality
-OL,16,     Gstar Charlotte Crosby and rugby
-OL,17,     Glegend Martin Offiah play to win
-OL,18,     G#10,000 for charity.
+OL,4,G0900FBBC News
+OL,5,G1115FPolitics Live
+OL,6,     GThe big political issues of the
+OL,7,     Gday.
+OL,8,G1300FImpossible Celebrities
+OL,9,     GRick Edwards hosts a celebrity
+OL,10,     Gseries of the BBC One quiz. 18
+OL,11,     Gcelebrities including reality
+OL,12,     Gstar Charlotte Crosby and rugby
+OL,13,     Glegend Martin Offiah play to win
+OL,14,     G#10,000 for charity.
+OL,15,G1345FThe Boss
+OL,16,     GSusan Calman hosts the quiz show
+OL,17,     Gof tactics, knowledge and nerve.
+OL,18,     GContestants must work as a team,
+OL,19,     Gbut ultimately there can only be
+OL,20,     Gone Boss. Who will walk away with
+OL,21,     Gthe money?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,81 +107,78 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701852258
+OL,0,        ECIMSBWebfax     F698A1701854063
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0600FGood Morning Britain
-OL,5,     GJames Blunt reveals how he went
-OL,6,     Gfrom the 'most hated man in pop'
-OL,7,     Gto becoming a national treasure,
-OL,8,     Gplus why Sir Rod Stewart and
-OL,9,     GJools Holland are teaming up.
-OL,10,G0900FLorraine
-OL,11,     GJamie Oliver is in the kitchen to
-OL,12,     Gshare top tips for taking the
-OL,13,     Gstress out of cooking this
-OL,14,     GChristmas.
-OL,15,G1000FThis Morning
-OL,16,     GMagazine show with news and
-OL,17,     Gtopical items, celebrity guests,
-OL,18,     Gexpert advice, real life stories,
-OL,19,     Gcompetitions and a mix of
-OL,20,     Gcookery, health, beauty,
-OL,21,     Glifestyle and more.
+OL,4,G0900FLorraine
+OL,5,     GJamie Oliver is in the kitchen to
+OL,6,     Gshare top tips for taking the
+OL,7,     Gstress out of cooking this
+OL,8,     GChristmas.
+OL,9,G1000FThis Morning
+OL,10,     GMagazine show with news and
+OL,11,     Gtopical items, celebrity guests,
+OL,12,     Gexpert advice, real life stories,
+OL,13,     Gcompetitions and a mix of
+OL,14,     Gcookery, health, beauty,
+OL,15,     Glifestyle and more.
+OL,16,G1230FLoose Women
+OL,17,     GActor Greg Wise joins the Loose
+OL,18,     GWomen to talk about a cause close
+OL,19,     Gto his heart.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701852258
+OL,0,        ECIMSBWebfax     F698A1701854063
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0825FFrasier
-OL,5,     GTo Tell the Truth: Niles hires
-OL,6,     GDonny , a legal shark and Roz's
-OL,7,     Gex-boyfriend, to represent him in
-OL,8,     Gthe divorce case.
-OL,9,G0855FFrasier
-OL,10,     GDecoys: Niles discovers that
-OL,11,     GDaphne is dating Donny, his
-OL,12,     Gdivorce attorney, so he hatches a
-OL,13,     Gplan to get Donny back together
-OL,14,     Gwith Roz.
-OL,15,G0925FFrasier
-OL,16,     GDinner Party: Frasier and Niles
-OL,17,     Gdecide to throw a dinner party
-OL,18,     Gbut can't agree on who they
-OL,19,     Gshould invite.
+OL,4,G0855FFrasier
+OL,5,     GDecoys: Niles discovers that
+OL,6,     GDaphne is dating Donny, his
+OL,7,     Gdivorce attorney, so he hatches a
+OL,8,     Gplan to get Donny back together
+OL,9,     Gwith Roz.
+OL,10,G0925FFrasier
+OL,11,     GDinner Party: Frasier and Niles
+OL,12,     Gdecide to throw a dinner party
+OL,13,     Gbut can't agree on who they
+OL,14,     Gshould invite.
+OL,15,G0955FFind It, Fix It, Flog It
+OL,16,     GIn Gloucestershire, Simon O'Brien
+OL,17,     Gconverts a gilded picture frame
+OL,18,     Ginto a flat-screen TV surround,
+OL,19,     Gwhile Henry Cole turns a quick
+OL,20,     Gprofit on a tractor.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701852258
+OL,0,        ECIMSBWebfax     F698A1701854063
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0830FPAW Patrol
-OL,5,     GCGI-animated series. Alex and the
-OL,6,     GMini Patrol get locked inside the
-OL,7,     GFlounder after Cap'n Turbot
-OL,8,     Gaccidentally takes Alex's
-OL,9,     Gcupcakes. The team dives in to
-OL,10,     Ghelp.
-OL,11,G0845FChip and Potato
-OL,12,     GIt's time for Chip's first
-OL,13,     Gswimming lesson, along with the
-OL,14,     Grest of the Happy Hoppers! But
-OL,15,     Gjumping into the pool can be
-OL,16,     Gpretty scary for a little pug!
-OL,17,G0855FPeppa Pig
-OL,18,     GMr Potato Comes to Town: All the
-OL,19,     Gpeople in Peppa's town are
-OL,20,     Gexcited to meet Mr Potato when he
-OL,21,     Gcomes to open a new sports centre.
+OL,4,G0905FMilkshake! Story Den
+OL,5,     GKiera tells a story in which a
+OL,6,     Gcollection of fairy tale
+OL,7,     Gcharacters try to fix Santa's
+OL,8,     Gbroken sleigh! Will they figure
+OL,9,     Gout that all they need to do to
+OL,10,     Gsave Christmas is work together?
+OL,11,G0915FJeremy Vine
+OL,12,     GJeremy Vine and Storm discuss the
+OL,13,     Glatest news and get your views
+OL,14,     Gand opinions of the day.
+OL,15,G1115FStorm Huntley
+OL,16,     GStorm Huntley carries on the
+OL,17,     Gdiscussion and takes your calls
+OL,18,     Gto discuss the biggest stories of
+OL,19,     Gthe day.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
