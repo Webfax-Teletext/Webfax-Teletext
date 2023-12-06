@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701841422
+OL,0,        ECIMSBWebfax     F698A1701845035
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701841422
+OL,0,        ECIMSBWebfax     F698A1701845035
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701841422
+OL,0,        ECIMSBWebfax     F698A1701845035
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 5 DEC
-OL,4,G0125FBBC News
+OL,3,CProgramme listings for WED 6 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live at Christmas
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FDefenders UK
+OL,12,     GInvestigators track down a loan
+OL,13,     Gshark targeting hard-up families.
+OL,14,G1045FClaimed and Shamed
+OL,15,     GA man's #12,000 claim for a
+OL,16,     Gcancelled holiday abroad is
+OL,17,     Gexposed as a flight of fancy.
+OL,18,G1115FHomes Under the Hammer
+OL,19,     GFeaturing properties in
+OL,20,     GMablethorpe, Huddersfield and
+OL,21,     GNorwich.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +77,27 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701841422
+OL,0,        ECIMSBWebfax     F698A1701845035
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 5 DEC
-OL,4,G0340FThis is BBC Two
+OL,3,CProgramme listings for WED 6 DEC
+OL,4,G0630FAntiques Road Trip
+OL,5,     GThe adventure continues in North
+OL,6,     GYorkshire as Natasha and Ishy try
+OL,7,     Gto nab as many auction victories
+OL,8,     Gas they can with what remains of
+OL,9,     Gtheir original #1,500.
+OL,10,G0715FMake It at Market
+OL,11,     GMartin and Charlotte dream of
+OL,12,     Gearning a living from furniture
+OL,13,     Gmaking and stained glass.
+OL,14,G0800FSee Hear
+OL,15,     GSee Hear gets into the Christmas
+OL,16,     Gspirit with its annual panto.
+OL,17,     GYvonne and Julian catch up with
+OL,18,     GDamaris Cooke and Rolf Choutan
+OL,19,     Gabout their year in sport.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,64 +105,79 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701841422
+OL,0,        ECIMSBWebfax     F698A1701845035
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 5 DEC
-OL,4,G0535FGino's Italian Express
-OL,5,     GCinque Terre: This time Gino
-OL,6,     Gvisits the Cinque Terre, the
-OL,7,     Gjewel of the Italian Riviera -
-OL,8,     Gonly accessible by boat or by
-OL,9,     Gtrain, these five breath-taking
-OL,10,     Gtowns cling to cliff edges.
+OL,3,CProgramme listings for WED 6 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GJames Blunt reveals how he went
+OL,6,     Gfrom the 'most hated man in pop'
+OL,7,     Gto becoming a national treasure,
+OL,8,     Gplus why Sir Rod Stewart and
+OL,9,     GJools Holland are teaming up.
+OL,10,G0900FLorraine
+OL,11,     GJamie Oliver is in the kitchen to
+OL,12,     Gshare top tips for taking the
+OL,13,     Gstress out of cooking this
+OL,14,     GChristmas.
+OL,15,G1000FThis Morning
+OL,16,     GMagazine show with news and
+OL,17,     Gtopical items, celebrity guests,
+OL,18,     Gexpert advice, real life stories,
+OL,19,     Gcompetitions and a mix of
+OL,20,     Gcookery, health, beauty,
+OL,21,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701841422
+OL,0,        ECIMSBWebfax     F698A1701845035
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 5 DEC
-OL,4,G0455FCouples Come Dine with Me
-OL,5,     GIn Stockport, there's vanilla
-OL,6,     Gcured salmon, some unwanted
-OL,7,     G'guests' and a shocking tattoo,
-OL,8,     Gas Lee and Tash, Judy and Will,
-OL,9,     Gand Jess and Dale compete to host
-OL,10,     Gthe best dinner party.
-OL,11,G0550FKirstie's Handmade Christmas
-OL,12,     GKirstie Allsopp makes a doll's
-OL,13,     Ghouse that's sure to delight any
-OL,14,     Gchild at Christmas. She also
-OL,15,     Glearns how to make windbackerai:
-OL,16,     Ga magical meringue tree
-OL,17,     Gdecoration from Austria.
+OL,3,CProgramme listings for WED 6 DEC
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Bob Harris joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G0645F3rd Rock from the Sun
+OL,12,     GEpisode I: The Baby Menace: The
+OL,13,     GSolomons panic when they realise
+OL,14,     Gthat Vicki intends to sell the
+OL,15,     Gstory of her baby's alien
+OL,16,     Gconception to the newspapers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701841422
+OL,0,        ECIMSBWebfax     F698A1701845035
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 5 DEC
-OL,4,G0540FPip and Posy
-OL,5,     GPip wants Posy to go to the park
-OL,6,     Gto meet their friends, but she
-OL,7,     Gwants to stay home and have a
-OL,8,     G'pyjama day'. Will Pip persuade
-OL,9,     GPosy to come to the park?
-OL,10,G0545FPaw Patrol
-OL,11,     GSix brave puppies, captained by a
-OL,12,     Gtech-savvy ten-year-old boy,
-OL,13,     GRyder, work together to
-OL,14,     Gaccomplish high-stakes rescue
-OL,15,     Gmissions to safeguard the
-OL,16,     Gresidents of the Adventure Bay
-OL,17,     Gcommunity.
+OL,3,CProgramme listings for WED 6 DEC
+OL,4,G0640FTweedy & Fluff
+OL,5,     GFluff runs rings around Tweedy as
+OL,6,     Ghe pulls an entire roll of ribbon
+OL,7,     Goff a reel. Tweedy had better get
+OL,8,     Gall those loose ends tied up from
+OL,9,     Gnow on.
+OL,10,G0645FFireman Sam
+OL,11,     GFloodlights: The Joneses and the
+OL,12,     GPrices are vying to win
+OL,13,     GPontypandy's best Christmas
+OL,14,     Glights contest. Rivalry is rife
+OL,15,     Gas their displays get more and
+OL,16,     Gmore elaborate.
+OL,17,G0655FThomas & Friends: All Engines Go
+OL,18,     GAfter accidentally derailing
+OL,19,     GGordon, Thomas makes a promise to
+OL,20,     Gdeliver Gordon's cargo to Whiff's
+OL,21,     GRecycling Plant while racing with
+OL,22,     GDiesel to get there first.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
