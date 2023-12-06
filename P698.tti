@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701854063
+OL,0,        ECIMSBWebfax     F698A1701856809
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701854063
+OL,0,        ECIMSBWebfax     F698A1701856809
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701854063
+OL,0,        ECIMSBWebfax     F698A1701856809
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0915FMorning Live at Christmas
-OL,9,     GConversation, advice and great
-OL,10,     Gcompany to make your morning.
-OL,11,G1000FDefenders UK
-OL,12,     GInvestigators track down a loan
-OL,13,     Gshark targeting hard-up families.
-OL,14,G1045FClaimed and Shamed
-OL,15,     GA man's #12,000 claim for a
-OL,16,     Gcancelled holiday abroad is
-OL,17,     Gexposed as a flight of fancy.
-OL,18,G1115FHomes Under the Hammer
-OL,19,     GFeaturing properties in
-OL,20,     GMablethorpe, Huddersfield and
-OL,21,     GNorwich.
+OL,4,G1000FDefenders UK
+OL,5,     GInvestigators track down a loan
+OL,6,     Gshark targeting hard-up families.
+OL,7,G1045FClaimed and Shamed
+OL,8,     GA man's #12,000 claim for a
+OL,9,     Gcancelled holiday abroad is
+OL,10,     Gexposed as a flight of fancy.
+OL,11,G1115FHomes Under the Hammer
+OL,12,     GFeaturing properties in
+OL,13,     GMablethorpe, Huddersfield and
+OL,14,     GNorwich.
+OL,15,G1215FBargain Hunt
+OL,16,     GEric Knowles visits Ardingly in
+OL,17,     GSussex, where experts Raj Bisram
+OL,18,     Gand Nick Hall join the teams as
+OL,19,     Gthey search for the best items to
+OL,20,     Gsell at auction.
+OL,21,G1300FBBC News
+OL,22,G1330FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,7 +78,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701854063
+OL,0,        ECIMSBWebfax     F698A1701856809
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -107,78 +108,79 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701854063
+OL,0,        ECIMSBWebfax     F698A1701856809
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0900FLorraine
-OL,5,     GJamie Oliver is in the kitchen to
-OL,6,     Gshare top tips for taking the
-OL,7,     Gstress out of cooking this
-OL,8,     GChristmas.
-OL,9,G1000FThis Morning
-OL,10,     GMagazine show with news and
-OL,11,     Gtopical items, celebrity guests,
-OL,12,     Gexpert advice, real life stories,
-OL,13,     Gcompetitions and a mix of
-OL,14,     Gcookery, health, beauty,
-OL,15,     Glifestyle and more.
-OL,16,G1230FLoose Women
-OL,17,     GActor Greg Wise joins the Loose
-OL,18,     GWomen to talk about a cause close
-OL,19,     Gto his heart.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real life stories,
+OL,8,     Gcompetitions and a mix of
+OL,9,     Gcookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GActor Greg Wise joins the Loose
+OL,13,     GWomen to talk about a cause close
+OL,14,     Gto his heart.
+OL,15,G1330FITV Lunchtime News
+OL,16,     GThe latest headlines from around
+OL,17,     Gthe world at lunchtime with
+OL,18,     Greports and analysis from ITV's
+OL,19,     GCorrespondents, all of which are
+OL,20,     Gfollowed by a national weather
+OL,21,     Gforecast.
+OL,22,G1355FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701854063
+OL,0,        ECIMSBWebfax     F698A1701856809
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0855FFrasier
-OL,5,     GDecoys: Niles discovers that
-OL,6,     GDaphne is dating Donny, his
-OL,7,     Gdivorce attorney, so he hatches a
-OL,8,     Gplan to get Donny back together
-OL,9,     Gwith Roz.
-OL,10,G0925FFrasier
-OL,11,     GDinner Party: Frasier and Niles
-OL,12,     Gdecide to throw a dinner party
-OL,13,     Gbut can't agree on who they
-OL,14,     Gshould invite.
-OL,15,G0955FFind It, Fix It, Flog It
-OL,16,     GIn Gloucestershire, Simon O'Brien
-OL,17,     Gconverts a gilded picture frame
-OL,18,     Ginto a flat-screen TV surround,
-OL,19,     Gwhile Henry Cole turns a quick
-OL,20,     Gprofit on a tractor.
+OL,4,G0955FFind It, Fix It, Flog It
+OL,5,     GIn Gloucestershire, Simon O'Brien
+OL,6,     Gconverts a gilded picture frame
+OL,7,     Ginto a flat-screen TV surround,
+OL,8,     Gwhile Henry Cole turns a quick
+OL,9,     Gprofit on a tractor.
+OL,10,G1055FThe Great House Giveaway
+OL,11,     GSimon O'Brien gives strangers
+OL,12,     GNoam and Sara the cash to buy and
+OL,13,     Grenovate a house in Newport. They
+OL,14,     Gcan keep any profit they make.
+OL,15,     GBut will their grand designs stop
+OL,16,     Gthem cashing in?
+OL,17,G1155FChannel 4 News Summary
+OL,18,     GChannel 4's midday news summary.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701854063
+OL,0,        ECIMSBWebfax     F698A1701856809
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0905FMilkshake! Story Den
-OL,5,     GKiera tells a story in which a
-OL,6,     Gcollection of fairy tale
-OL,7,     Gcharacters try to fix Santa's
-OL,8,     Gbroken sleigh! Will they figure
-OL,9,     Gout that all they need to do to
-OL,10,     Gsave Christmas is work together?
-OL,11,G0915FJeremy Vine
-OL,12,     GJeremy Vine and Storm discuss the
-OL,13,     Glatest news and get your views
-OL,14,     Gand opinions of the day.
-OL,15,G1115FStorm Huntley
-OL,16,     GStorm Huntley carries on the
-OL,17,     Gdiscussion and takes your calls
-OL,18,     Gto discuss the biggest stories of
-OL,19,     Gthe day.
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and Storm discuss the
+OL,6,     Glatest news and get your views
+OL,7,     Gand opinions of the day.
+OL,8,G1115FStorm Huntley
+OL,9,     GStorm Huntley carries on the
+OL,10,     Gdiscussion and takes your calls
+OL,11,     Gto discuss the biggest stories of
+OL,12,     Gthe day.
+OL,13,G1230FAlexis Conran
+OL,14,     GAlexis Conran hears from you,
+OL,15,     Gtalking about the important
+OL,16,     Gstories and getting your opinions
+OL,17,     Gand views on them.
+OL,18,G1325F5 News at Lunchtime
+OL,19,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
