@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701927510
+OL,0,        ECIMSBWebfax     F698A1701931125
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701927510
+OL,0,        ECIMSBWebfax     F698A1701931125
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701927510
+OL,0,        ECIMSBWebfax     F698A1701931125
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0200FBBC News
+OL,3,CProgramme listings for THU 7 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live at Christmas
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FDefenders UK
+OL,12,     GInvestigators are called in when
+OL,13,     Ga seven-year-old boy suffers a
+OL,14,     Gfatal electric shock, and they
+OL,15,     Gclose in on a fraudster sending
+OL,16,     Gthousands of scam text messages.
+OL,17,G1045FClaimed and Shamed
+OL,18,     GA chef who makes a bogus claim by
+OL,19,     Gexaggerating his injuries finds
+OL,20,     Ghimself in hot water.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +76,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701927510
+OL,0,        ECIMSBWebfax     F698A1701931125
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0315FThis is BBC Two
+OL,3,CProgramme listings for THU 7 DEC
+OL,4,G0630FAntiques Road Trip
+OL,5,     GIt's a new trip with antiques
+OL,6,     Gexperts Natasha Raskin Sharp and
+OL,7,     GIshy Khan as they scour East
+OL,8,     GYorkshire for more antique
+OL,9,     Gdelights.
+OL,10,G0715FMake It at Market
+OL,11,     GJo never quite found the right
+OL,12,     Gcareer until she discovered
+OL,13,     Gleather work, but can it bring in
+OL,14,     Gthe cash? Can Jill fulfil her
+OL,15,     Glifelong dream of making a living
+OL,16,     Gfrom art?
+OL,17,G0800FMary Makes It Easy
+OL,18,     GMary shows Jordan some delicious
+OL,19,     Grecipes, and he takes Mary to the
+OL,20,     Gpub for some darts.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,61 +105,81 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701927510
+OL,0,        ECIMSBWebfax     F698A1701931125
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0505FDeal or No Deal
-OL,5,     GStephen Mulhern hosts the
-OL,6,     Gexciting and iconic gameshow as
-OL,7,     Gone of his brave contestants
-OL,8,     Gdares to face the infamous Banker
-OL,9,     Gfor a chance of winning a life-
-OL,10,     Gchanging cash prize.
+OL,3,CProgramme listings for THU 7 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GActor Keith Allen reveals his
+OL,6,     Gshocking transformation for his
+OL,7,     Grole playing Scrooge, and Linda
+OL,8,     GNolan gives an update on her
+OL,9,     Gcancer battle.
+OL,10,G0900FLorraine
+OL,11,     GLorraine Kelly presents a topical
+OL,12,     Gmix of entertainment, discussion
+OL,13,     Gand showbiz glamour as well as
+OL,14,     Gthe latest fashion, food and
+OL,15,     Gcelebrity gossip.
+OL,16,G1000FThis Morning
+OL,17,     GMagazine show with news and
+OL,18,     Gtopical items, celebrity guests,
+OL,19,     Gexpert advice, real life stories,
+OL,20,     Gcompetitions and a mix of
+OL,21,     Gcookery, health, beauty,
+OL,22,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701927510
+OL,0,        ECIMSBWebfax     F698A1701931125
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0515FChristmas at Warwick Castle
-OL,5,     GA magical look at how Warwick
-OL,6,     GCastle transforms for Christmas
-OL,7,     Gin its own extravagant way, from
-OL,8,     Gdazzling decorations and an ice
-OL,9,     Grink to a light trail through the
-OL,10,     Gcastle's grounds.
+OL,3,CProgramme listings for THU 7 DEC
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Bob Harris joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G0645F3rd Rock from the Sun
+OL,12,     GThe Fifth Solomon: When Dick
+OL,13,     Gcrashes his car into a tree, he
+OL,14,     Gpretends he uses the same
+OL,15,     Ginsurance company as Mary rather
+OL,16,     Gthan admit he is uninsured, so an
+OL,17,     Ginsurance agent drops by.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701927510
+OL,0,        ECIMSBWebfax     F698A1701931125
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 6 DEC
-OL,4,G0515FHouse Doctor
-OL,5,     GAnn Maurice and Alistair Appleton
-OL,6,     Gpresent more home improvements
-OL,7,     Gfor properties proving difficult
-OL,8,     Gto sell. A five-bedroomed house
-OL,9,     Gin Cheshire is this episode's
-OL,10,     Gchallenge.
-OL,11,G0540FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the world,
-OL,14,     Gfocusing on celebrities, movies,
-OL,15,     Gmusic and entertainment.
-OL,16,G0550FPip and Posy
-OL,17,     GPip and Posy promise one another
-OL,18,     Gthat they will wear their silly
-OL,19,     Ghats to the park. But when Pip
-OL,20,     Garrives at the park, Posy isn't
-OL,21,     Gwearing hers.
+OL,3,CProgramme listings for THU 7 DEC
+OL,4,G0635FOdo
+OL,5,     GIt's a windy day and Odo wants to
+OL,6,     Gfly his kite, but Camp Leader has
+OL,7,     Gplanned feather crafts instead,
+OL,8,     Gbut when an intruder comes to
+OL,9,     Gcamp, it's up to Odo and Doodle
+OL,10,     Gto save the day.
+OL,11,G0640FTweedy & Fluff
+OL,12,     GA worried Tweedy discovers that a
+OL,13,     Gcurious Fluff will not think to
+OL,14,     Gtell you where they're going and
+OL,15,     Ghow long they will be. Meanwhile,
+OL,16,     GFluff is having a ball.
+OL,17,G0645FFireman Sam
+OL,18,     GSarah and James head off to a
+OL,19,     Gfrozen lake to skate. But half
+OL,20,     Gway through their routine cracks
+OL,21,     Gstart to appear and Sam has to
+OL,22,     Gcome to the rescue.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
