@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701905846
+OL,0,        ECIMSBWebfax     F698A1701909456
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701905846
+OL,0,        ECIMSBWebfax     F698A1701909456
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,25 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701905846
+OL,0,        ECIMSBWebfax     F698A1701909456
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 DEC
-OL,4,G2240FMatch of the Day
-OL,5,     GHighlights of the midweek Premier
-OL,6,     GLeague games, including
-OL,7,     GManchester United against Chelsea
-OL,8,     Gat Old Trafford and Manchester
-OL,9,     GCity's trip to Aston Villa.
-OL,10,G0010FSurvivor
-OL,11,     GAt a vertigo-inducing immunity
-OL,12,     Gchallenge, who will hold on the
-OL,13,     Glongest to protect their place in
-OL,14,     Gthe competition? Who will be the
-OL,15,     Gtenth person voted out of
-OL,16,     GSurvivor?
-OL,17,G0110FThe Weakest Link: EastEnders
-OL,18,     FSpecial
-OL,19,     GThis show's celebrities include
-OL,20,     GPenny Lancaster, Rickie Haywood-
-OL,21,     GWilliams and Josie Long.
-OL,22,G0155FWeather for the Week Ahead
+OL,4,G0010FSurvivor
+OL,5,     GAt a vertigo-inducing immunity
+OL,6,     Gchallenge, who will hold on the
+OL,7,     Glongest to protect their place in
+OL,8,     Gthe competition? Who will be the
+OL,9,     Gtenth person voted out of
+OL,10,     GSurvivor?
+OL,11,G0110FThe Weakest Link: EastEnders
+OL,12,     FSpecial
+OL,13,     GThis show's celebrities include
+OL,14,     GPenny Lancaster, Rickie Haywood-
+OL,15,     GWilliams and Josie Long.
+OL,16,G0155FWeather for the Week Ahead
+OL,17,G0200FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,7 +73,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701905846
+OL,0,        ECIMSBWebfax     F698A1701909456
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -105,7 +100,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701905846
+OL,0,        ECIMSBWebfax     F698A1701909456
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -131,46 +126,50 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701905846
+OL,0,        ECIMSBWebfax     F698A1701909456
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 DEC
-OL,4,G2305FGogglebox
-OL,5,     GThe Goggleboxers are tuning in to
-OL,6,     GBridgerton, SAS: Who Dares Wins,
-OL,7,     GFreeze the Fear with Wim Hof,
-OL,8,     GMade in Chelsea, and the news on
-OL,9,     GRishi Sunak and the Partygate
-OL,10,     Gscandal.
-OL,11,G0005FTravel Man: 96 Hours in Iceland
-OL,12,     GTravel Man Joe Lycett whisks Bill
-OL,13,     GBailey off to Iceland, for al
-OL,14,     Gfresco bathing, volcanoes,
-OL,15,     GNorthern Lights, husky sledding
-OL,16,     Gand snowflake bread.
+OL,4,G0005FTravel Man: 96 Hours in Iceland
+OL,5,     GTravel Man Joe Lycett whisks Bill
+OL,6,     GBailey off to Iceland, for al
+OL,7,     Gfresco bathing, volcanoes,
+OL,8,     GNorthern Lights, husky sledding
+OL,9,     Gand snowflake bread.
+OL,10,G0105FRamsay's 24 Hours to Hell and Back
+OL,11,     GAt The Old Coffee Pot in New
+OL,12,     GOrleans, Gordon has just 24 hours
+OL,13,     Gto create a fresh, modern dining
+OL,14,     Groom, set up a grab-and-go coffee
+OL,15,     Gstation and whip up an exciting
+OL,16,     Gnew menu.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701905846
+OL,0,        ECIMSBWebfax     F698A1701909456
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 DEC
-OL,4,G2330FSleeping with My Murderer
-OL,5,     GWhen Kylie Dembrey falls for bad
-OL,6,     Gboy Mark Sinclair, the life of
-OL,7,     Gthe sweet 17-year-old quickly
-OL,8,     Gturns sour. She keeps her lover's
-OL,9,     Gviolent streak secret, until the
-OL,10,     Gvery end.
-OL,11,G0030FBody In The Bathroom: The...
-OL,12,     GMurder Of Naomi Hersi. True crime
-OL,13,     Gdocumentary series. Transgender
-OL,14,     Gwoman Naomi Hersi met Jesse
-OL,15,     GMcDonald on a dating website, but
-OL,16,     Ghe claimed to have been drugged
-OL,17,     Gby her.
+OL,4,G0030FBody In The Bathroom: The...
+OL,5,     GMurder Of Naomi Hersi. True crime
+OL,6,     Gdocumentary series. Transgender
+OL,7,     Gwoman Naomi Hersi met Jesse
+OL,8,     GMcDonald on a dating website, but
+OL,9,     Ghe claimed to have been drugged
+OL,10,     Gby her.
+OL,11,G0120FPlayOJO Live Casino Show
+OL,12,     GRed or black? Odds or evens?
+OL,13,     GWhichever way you play, get that
+OL,14,     GOJO feeling with two hours of
+OL,15,     Gexciting live roulette every
+OL,16,     Gsingle night! Take us for a spin
+OL,17,     Gand feel the fun at playojo.com.
+OL,18,G0320FFriends
+OL,19,     GRoss proposes to Emily. Monica
+OL,20,     Gand Rachel try to get their
+OL,21,     Gapartment back.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
