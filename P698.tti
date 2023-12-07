@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701974031
+OL,0,        ECIMSBWebfax     F698A1701977642
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701974031
+OL,0,        ECIMSBWebfax     F698A1701977642
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701974031
+OL,0,        ECIMSBWebfax     F698A1701977642
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 7 DEC
-OL,4,G1830FRegional News
-OL,5,G1900FThe One Show
-OL,6,     GAlex Jones and Roman Kemp bring
-OL,7,     Gyou the stories that matter from
-OL,8,     Gacross the country.
-OL,9,G1930FEastEnders
-OL,10,     GSonia and Reiss reach the next
-OL,11,     Gstage of their IVF journey,
-OL,12,     GElaine resorts to bribery, and
-OL,13,     GRavi needles Denise.
-OL,14,G2000FMasterChef: The Professionals
-OL,15,     GIt's finals week, and just three
-OL,16,     Gincredible chefs remain.
-OL,17,G2100FMary Berry's Ultimate Christmas
-OL,18,     GMary Berry shares her ultimate
-OL,19,     GChristmas feast, including all
-OL,20,     Gthe trimmings, with friends
-OL,21,     GAngela Hartnett, Monica Galetti
-OL,22,     Gand Rylan Clark.
+OL,4,G1930FEastEnders
+OL,5,     GSonia and Reiss reach the next
+OL,6,     Gstage of their IVF journey,
+OL,7,     GElaine resorts to bribery, and
+OL,8,     GRavi needles Denise.
+OL,9,G2000FMasterChef: The Professionals
+OL,10,     GIt's finals week, and just three
+OL,11,     Gincredible chefs remain.
+OL,12,G2100FMary Berry's Ultimate Christmas
+OL,13,     GMary Berry shares her ultimate
+OL,14,     GChristmas feast, including all
+OL,15,     Gthe trimmings, with friends
+OL,16,     GAngela Hartnett, Monica Galetti
+OL,17,     Gand Rylan Clark.
+OL,18,G2200FBBC News and Weather
+OL,19,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,28 +75,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701974031
+OL,0,        ECIMSBWebfax     F698A1701977642
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 7 DEC
-OL,4,G1830FStrictly - It Takes Two
-OL,5,     GJanette Manrara returns with more
-OL,6,     Gbehind-the-scenes action from the
-OL,7,     Gworld of Strictly. And designer
-OL,8,     GVicky Gill is back with an
-OL,9,     Gexclusive look at some of the
-OL,10,     Gweekend's outfits.
-OL,11,G1900FVillages by the Sea: Greyabbey
-OL,12,     GBen Robinson unearths the past of
-OL,13,     GGreyabbey, a village on Northern
-OL,14,     GIreland's beautiful Strangford
-OL,15,     GLough, and discovers the history
-OL,16,     Gof its moneymaking kelp industry.
-OL,17,G1930FMary Makes It Easy
-OL,18,     GMary teaches AJ Odudu the joy of
-OL,19,     Gstress-free cooking with simple
-OL,20,     Gand delicious recipes.
+OL,4,G1930FMary Makes It Easy
+OL,5,     GMary teaches AJ Odudu the joy of
+OL,6,     Gstress-free cooking with simple
+OL,7,     Gand delicious recipes.
+OL,8,G2000FHeadphones: The Secret Genius of
+OL,9,     FModern Life
+OL,10,     GHannah Fry finds out how today's
+OL,11,     Gteeny earbud technology works.
+OL,12,G2100FDisappeared: Mexico's Missing 43
+OL,13,     GIn 2014, in Mexico, 43 students
+OL,14,     Gdisappeared. What happened, and
+OL,15,     Gwho is responsible?
+OL,16,G2200FMock the Week
+OL,17,     GDara O Briain and Hugh Dennis
+OL,18,     Glook back on recent events with
+OL,19,     Gguests Angela Barnes, Ed Byrne,
+OL,20,     GSarah Keyworth, Glenn Moore and
+OL,21,     GAhir Shah. Contains some strong
+OL,22,     Glanguage.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -107,72 +106,78 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701974031
+OL,0,        ECIMSBWebfax     F698A1701977642
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 7 DEC
-OL,4,G1830FITV Evening News
-OL,5,G1930FEmmerdale
-OL,6,     GCaleb manipulates Nate - who may
-OL,7,     Gbe about to catch Tracy and Caleb
-OL,8,     G- and Kim may be set to tell
-OL,9,     GLydia the truth.
-OL,10,G2030FCutting the Cost of Christmas -
-OL,11,     FTonight
-OL,12,     GAngellica Bell discovers the ways
-OL,13,     Gwe can keep costs down and still
-OL,14,     Ghave fun this Christmas after a
-OL,15,     G2023 of rising food prices,
-OL,16,     Gsoaring mortgages, and high fuel
-OL,17,     Gprices.
+OL,4,G1930FEmmerdale
+OL,5,     GCaleb manipulates Nate - who may
+OL,6,     Gbe about to catch Tracy and Caleb
+OL,7,     G- and Kim may be set to tell
+OL,8,     GLydia the truth.
+OL,9,G2030FCutting the Cost of Christmas -
+OL,10,     FTonight
+OL,11,     GAngellica Bell discovers the ways
+OL,12,     Gwe can keep costs down and still
+OL,13,     Ghave fun this Christmas after a
+OL,14,     G2023 of rising food prices,
+OL,15,     Gsoaring mortgages, and high fuel
+OL,16,     Gprices.
+OL,17,G2100FI'm A Celebrity... Get Me...
+OL,18,     GOut Of Here! The campmates have
+OL,19,     Gnearly lasted three weeks in the
+OL,20,     GAustralian jungle - there can
+OL,21,     Gonly be one winner, but the title
+OL,22,     Gis now in touching distance.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701974031
+OL,0,        ECIMSBWebfax     F698A1701977642
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 7 DEC
-OL,4,G1830FThe Simpsons
-OL,5,     GThe Way of the Dog: Series 31
-OL,6,     Gcomes to Channel 4. When Santa's
-OL,7,     GLittle Helper bites Marge, the
-OL,8,     Gfamily explore his troubled past.
-OL,9,G1900FChannel 4 News
-OL,10,     GChannel 4's flagship news
-OL,11,     Gprogramme. Including the weather.
-OL,12,G2000FFur Babies
-OL,13,     GVets James and Bolu welcome
-OL,14,     Glittle litters into the world.
-OL,15,     GWill Labrador Bella have the girl
-OL,16,     Gpuppy Holly craves? Kaylee
-OL,17,     Gthought guinea pig Splodge was a
-OL,18,     Gboy. But Splodge is pregnant!
+OL,4,G1900FChannel 4 News
+OL,5,     GChannel 4's flagship news
+OL,6,     Gprogramme. Including the weather.
+OL,7,G2000FFur Babies
+OL,8,     GVets James and Bolu welcome
+OL,9,     Glittle litters into the world.
+OL,10,     GWill Labrador Bella have the girl
+OL,11,     Gpuppy Holly craves? Kaylee
+OL,12,     Gthought guinea pig Splodge was a
+OL,13,     Gboy. But Splodge is pregnant!
+OL,14,G2100F24 Hours in A&E
+OL,15,     GPeta is rushed to A&E after being
+OL,16,     Gknocked unconscious coming off
+OL,17,     Gher motorbike. Callum has a badly
+OL,18,     Gprolapsed stoma. And Libby's been
+OL,19,     Ghit in the face playing hockey.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1701974031
+OL,0,        ECIMSBWebfax     F698A1701977642
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 7 DEC
-OL,4,G1800FDogs Behaving (Very) Badly
-OL,5,     GButty is bullying the female
-OL,6,     Gmembers of his household, Pixie
-OL,7,     Ghowls like a banshee the moment
-OL,8,     Gshe sees another dog, and Lucy
-OL,9,     Gstays in the park for hours to
-OL,10,     Graid picnics.
-OL,11,G1900FLidl vs Fortnum & Mason:..
-OL,12,     G...Who Does Christmas Better? For
-OL,13,     Gthose who like high-end shopping,
-OL,14,     Gwe investigate if they should
-OL,15,     Gstick with products from Fortnum
-OL,16,     G& Mason or if they can get deluxe
-OL,17,     Gfor less at discounter Lidl.
+OL,4,G1900FLidl vs Fortnum & Mason:..
+OL,5,     G...Who Does Christmas Better? For
+OL,6,     Gthose who like high-end shopping,
+OL,7,     Gwe investigate if they should
+OL,8,     Gstick with products from Fortnum
+OL,9,     G& Mason or if they can get deluxe
+OL,10,     Gfor less at discounter Lidl.
+OL,11,G2000FInside the Tower of London
+OL,12,     GThe Beefeaters prepare to say
+OL,13,     Ggoodbye to their Chief Yeoman
+OL,14,     GWarder, the new baby raven is
+OL,15,     Gnamed, and a 400-year-old suit of
+OL,16,     Garmour gets a deep clean at the
+OL,17,     Gconservation laboratory.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
