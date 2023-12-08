@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702013758
+OL,0,        ECIMSBWebfax     F698A1702017373
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702013758
+OL,0,        ECIMSBWebfax     F698A1702017373
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,25 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702013758
+OL,0,        ECIMSBWebfax     F698A1702017373
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 7 DEC
-OL,4,G0115FBBC News
+OL,3,CProgramme listings for FRI 8 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live at Christmas
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FDefenders UK
+OL,12,     GA secret surveillance operation
+OL,13,     Guncovers a shocking case of
+OL,14,     Gmodern slavery, and the National
+OL,15,     GFood Crime Unit cracks down on an
+OL,16,     Gillegal trade in deadly diet
+OL,17,     Gpills.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +73,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702013758
+OL,0,        ECIMSBWebfax     F698A1702017373
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 7 DEC
-OL,4,G0400FThis is BBC Two
+OL,3,CProgramme listings for FRI 8 DEC
+OL,4,G0630FAntiques Road Trip
+OL,5,     GWatch out West Yorkshire, we're
+OL,6,     Gon the penultimate leg of this
+OL,7,     Groad trip with hot shot
+OL,8,     Gauctioneer Natasha Raskin Sharp
+OL,9,     Gand jewellery connoisseur Ishy
+OL,10,     GKhan.
+OL,11,G0715FMake It at Market
+OL,12,     GCan metalworker Lindon and hand
+OL,13,     Gembroiderer Hannah build
+OL,14,     Gsuccessful craft businesses?
+OL,15,G0800FVillages by the Sea: Solva
+OL,16,     GBen Robinson discovers some of
+OL,17,     Gthe impressive and well-preserved
+OL,18,     Glime kilns in Solva, Wales, and
+OL,19,     Glearns how this industry helped
+OL,20,     Gfeed a growing nation.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,69 +102,78 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702013758
+OL,0,        ECIMSBWebfax     F698A1702017373
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 7 DEC
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GBosworth 4: David Dickinson
-OL,6,     Gpresents from Bosworth Hall in
-OL,7,     GMarket Bosworth in Leicestershire
-OL,8,     Gas a big painting, a big cash
-OL,9,     Goffer, and a big surprise no
-OL,10,     Gawait Stewart Hofgartner.
+OL,3,CProgramme listings for FRI 8 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GMark will be showing us how to
+OL,9,     Gsparkle in sequins this
+OL,10,     GChristmas. Plus, we have the
+OL,11,     Glatest from I'm a Celebrity, and
+OL,12,     Ga visit to the studio from a very
+OL,13,     Gfamiliar face.
+OL,14,G1000FThis Morning
+OL,15,     GMagazine show with news and
+OL,16,     Gtopical items, celebrity guests,
+OL,17,     Gexpert advice, real life stories,
+OL,18,     Gcompetitions and a mix of
+OL,19,     Gcookery, health, beauty,
+OL,20,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702013758
+OL,0,        ECIMSBWebfax     F698A1702017373
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 7 DEC
-OL,4,G0450FChateau DIY at Christmas
-OL,5,     GAt Chateau La Briance, Matt and
-OL,6,     GHelen attempt to decorate their
-OL,7,     G40-foot tree for a special
-OL,8,     Gdinner. And will Ben and Billie's
-OL,9,     Gwine cave be ready in time for
-OL,10,     Gthe Christmas toast?
-OL,11,G0540FStrangers on a Plane
-OL,12,     GOn day one in Barcelona, Damon
-OL,13,     Gtreats his fellow holidaymakers
-OL,14,     Gto a Segway tour and dinner at an
-OL,15,     GAlice in Wonderland-themed
-OL,16,     Grestaurant. Is it a fairy-tale
-OL,17,     Gstart to the week?
+OL,3,CProgramme listings for FRI 8 DEC
+OL,4,G0605FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Bob Harris joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G0645F3rd Rock from the Sun
+OL,12,     GDick and Tuck: Dick considers
+OL,13,     Ghaving plastic surgery when he
+OL,14,     Gsees Mary and Nina admiring
+OL,15,     Ghandsome Hollywood stars in
+OL,16,     Gmagazines. Dick's doctor says
+OL,17,     GHarry is cosmetically perfect.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@mD@Ksp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702013758
+OL,0,        ECIMSBWebfax     F698A1702017373
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 7 DEC
-OL,4,G0520FFriends
-OL,5,     GRachel frantically tries to get
-OL,6,     Gto London before Ross marries
-OL,7,     GEmily. Ross's parents clash with
-OL,8,     GEmily's.
-OL,9,G0540FEntertainment News on 5
-OL,10,     GA daily round-up of showbiz news
-OL,11,     Gand gossip from around the world,
-OL,12,     Gfocusing on celebrities, movies,
-OL,13,     Gmusic and entertainment.
-OL,14,G0545FPaw Patrol
-OL,15,     GSix brave puppies, captained by a
-OL,16,     Gtech-savvy ten-year-old boy,
-OL,17,     GRyder, work together to
-OL,18,     Gaccomplish high-stakes rescue
-OL,19,     Gmissions to safeguard the
-OL,20,     Gresidents of the Adventure Bay
-OL,21,     Gcommunity.
+OL,3,CProgramme listings for FRI 8 DEC
+OL,4,G0635FOdo
+OL,5,     GThe campers are painting a
+OL,6,     Gportrait of their best friend.
+OL,7,     GOdo is Doodle's best friend, so
+OL,8,     Gof course Odo should be the best
+OL,9,     Gat painting her portrait.
+OL,10,G0640FTweedy & Fluff
+OL,11,     GTweedy makes a special woolly
+OL,12,     Gonesie for Fluff but Fluff has
+OL,13,     Gabsolutely no idea what it means
+OL,14,     Gto receive a gift! He's far more
+OL,15,     Ginterested in the wrapping.
+OL,16,G0645FFireman Sam
+OL,17,     GNorman is directing a film up on
+OL,18,     Gthe mountain and accidentally
+OL,19,     Gcauses an avalanche. Elsewhere on
+OL,20,     Gthe mountain, Elvis is learning
+OL,21,     Gto ski.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
