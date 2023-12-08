@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702053994
+OL,0,        ECIMSBWebfax     F698A1702057602
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702053994
+OL,0,        ECIMSBWebfax     F698A1702057602
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,28 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702053994
+OL,0,        ECIMSBWebfax     F698A1702057602
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 8 DEC
-OL,4,G1630FMake It at Market
-OL,5,     GCan artist Will and jeweller Ange
-OL,6,     Gturn their talent and passion
-OL,7,     Ginto thriving businesses?
-OL,8,G1715FPointless
-OL,9,     GThe quiz in which contestants try
-OL,10,     Gto score as few points as
-OL,11,     Gpossible by plumbing the depths
-OL,12,     Gof their general knowledge to
-OL,13,     Gcome up with the answers no-one
-OL,14,     Gelse could think of.
-OL,15,G1800FBBC News
-OL,16,G1830FRegional News
-OL,17,G1900FThe One Show
-OL,18,     GAlex Jones and Jermaine Jenas
-OL,19,     Gbring you the stories that matter
-OL,20,     Gfrom across the country.
+OL,4,G1715FPointless
+OL,5,     GThe quiz in which contestants try
+OL,6,     Gto score as few points as
+OL,7,     Gpossible by plumbing the depths
+OL,8,     Gof their general knowledge to
+OL,9,     Gcome up with the answers no-one
+OL,10,     Gelse could think of.
+OL,11,G1800FBBC News
+OL,12,G1830FRegional News
+OL,13,G1900FThe One Show
+OL,14,     GAlex Jones and Jermaine Jenas
+OL,15,     Gbring you the stories that matter
+OL,16,     Gfrom across the country.
+OL,17,G1930FEastEnders
+OL,18,     GKathy provides a shoulder to cry
+OL,19,     Gon, the battle lines are drawn
+OL,20,     Gbetween Yolande and Elaine, and
+OL,21,     GReiss endures another difficult
+OL,22,     Gnight.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -76,30 +78,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702053994
+OL,0,        ECIMSBWebfax     F698A1702057602
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 8 DEC
-OL,4,G1615FThe Great British Winter
-OL,5,     GSeries exploring Britain's most
-OL,6,     Gextreme winter landscapes. Ellie
-OL,7,     GHarrison visits the Shetland
-OL,8,     GIslands to learn about island
-OL,9,     Glife during Britain's most
-OL,10,     Gchallenging season.
-OL,11,G1715FFlog It!
-OL,12,     GAntiques series. This episode
-OL,13,     Gcomes from Ickworth House, a
-OL,14,     GGeorgian palace. Paul Martin is
-OL,15,     Gjoined by experts Adam Partridge
-OL,16,     Gand Philip Serrell.
-OL,17,G1800FRichard Osman's House of Games
-OL,18,     GMalorie Blackman, Matt Dawson,
-OL,19,     GChris McCausland and Ranvir Singh
-OL,20,     Gtest their general knowledge
-OL,21,     Gskills on this week's House of
-OL,22,     GGames.
+OL,4,G1715FFlog It!
+OL,5,     GAntiques series. This episode
+OL,6,     Gcomes from Ickworth House, a
+OL,7,     GGeorgian palace. Paul Martin is
+OL,8,     Gjoined by experts Adam Partridge
+OL,9,     Gand Philip Serrell.
+OL,10,G1800FRichard Osman's House of Games
+OL,11,     GMalorie Blackman, Matt Dawson,
+OL,12,     GChris McCausland and Ranvir Singh
+OL,13,     Gtest their general knowledge
+OL,14,     Gskills on this week's House of
+OL,15,     GGames.
+OL,16,G1830FStrictly - It Takes Two
+OL,17,     GFleur East is on hand with even
+OL,18,     Gmore Strictly exclusives and is
+OL,19,     Gjoined by a trio of celebrity
+OL,20,     Gsuperfans in the Friday Panel.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -107,75 +107,81 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702053994
+OL,0,        ECIMSBWebfax     F698A1702057602
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 8 DEC
-OL,4,G1600FDeal or No Deal
-OL,5,     GStephen Mulhern hosts the iconic
-OL,6,     Ggameshow as one of his brave
-OL,7,     Gcontestants faces the infamous
-OL,8,     GBanker and could be in with a
-OL,9,     Gchance of winning a life-changing
-OL,10,     Gcash prize.
-OL,11,G1700FThe Chase
-OL,12,     GAll that stands between Karen
-OL,13,     Gfrom Northwich, Anna from
-OL,14,     GCarmarthenshire, David from
-OL,15,     GWhitley Bay, Tony from London and
-OL,16,     Gthousands of pounds is the small
-OL,17,     Gmatter of a Chaser...
-OL,18,G1800FRegional News
-OL,19,G1830FITV Evening News
+OL,4,G1700FThe Chase
+OL,5,     GAll that stands between Karen
+OL,6,     Gfrom Northwich, Anna from
+OL,7,     GCarmarthenshire, David from
+OL,8,     GWhitley Bay, Tony from London and
+OL,9,     Gthousands of pounds is the small
+OL,10,     Gmatter of a Chaser...
+OL,11,G1800FRegional News
+OL,12,G1830FITV Evening News
+OL,13,G1930FEmmerdale
+OL,14,     GVictoria can't resist the
+OL,15,     Gchemistry she has with Jacob, but
+OL,16,     Ghe wants to stop keeping their
+OL,17,     Grelationship a secret -
+OL,18,     Gmeanwhile, Manpreet does her best
+OL,19,     Gto support Brenda and Pollard.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702053994
+OL,0,        ECIMSBWebfax     F698A1702057602
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 8 DEC
-OL,4,G1600FA Place in the Sun
-OL,5,     GThe new run continues. Antonia
-OL,6,     Gand Ross love the beautiful
-OL,7,     Gisland of Ibiza. Having holidayed
-OL,8,     Gthere many times, they now want
-OL,9,     Gtheir own holiday home. Can Lucy
-OL,10,     GAlexander deliver their dream?
-OL,11,G1700FKirstie's Handmade Christmas
-OL,12,     GThe sweet smell of festive
-OL,13,     Gflavours fills the air, as the
-OL,14,     Gculinary crafters compete in
-OL,15,     GKirstie's Christmas hamper
-OL,16,     Gcompetition.
+OL,4,G1700FKirstie's Handmade Christmas
+OL,5,     GThe sweet smell of festive
+OL,6,     Gflavours fills the air, as the
+OL,7,     Gculinary crafters compete in
+OL,8,     GKirstie's Christmas hamper
+OL,9,     Gcompetition.
+OL,10,G1800FFour in a Bed
+OL,11,     GIt's payment day, and the B&Bers
+OL,12,     Ghave more axes to grind than
+OL,13,     Gan... axe grinding shop? Anyway,
+OL,14,     Gafter some dramatic discoveries,
+OL,15,     Gthe payments are revealed and the
+OL,16,     Gwinners announced.
+OL,17,G1830FThe Simpsons
+OL,18,     GBonfire of the Manatees: Marge
+OL,19,     Gmeets a handsome marine biologist
+OL,20,     G. Will he woo her? Can Homer win
+OL,21,     Gher back?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702053994
+OL,0,        ECIMSBWebfax     F698A1702057602
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 8 DEC
-OL,4,G1515FA Prince and Pauper Christmas
-OL,5,     GWhen an informant in a criminal
-OL,6,     Ginvestigation suddenly goes
-OL,7,     Gmissing, a desperate young
-OL,8,     Gfederal agent recruits his
-OL,9,     Gdoppelganger to play his role.
-OL,10,     GWith Brittany Underwood.
-OL,11,G1700F5 News at 5
-OL,12,     GJoin Dan Walker and the team for
-OL,13,     Gthe news that matters to you.
-OL,14,G1800FDogs Behaving (Very) Badly
-OL,15,     GTerrier Marney won't let anyone
-OL,16,     Gnew into Rebecca's life after a
-OL,17,     Gbreak-up. Albert guards Jasper
-OL,18,     Gand Alexis's front door like a
-OL,19,     Gbouncer. Charlie the Chug chases
-OL,20,     Ganything that moves.
+OL,4,G1700F5 News at 5
+OL,5,     GJoin Dan Walker and the team for
+OL,6,     Gthe news that matters to you.
+OL,7,G1800FDogs Behaving (Very) Badly
+OL,8,     GTerrier Marney won't let anyone
+OL,9,     Gnew into Rebecca's life after a
+OL,10,     Gbreak-up. Albert guards Jasper
+OL,11,     Gand Alexis's front door like a
+OL,12,     Gbouncer. Charlie the Chug chases
+OL,13,     Ganything that moves.
+OL,14,G1900FShop Smart, Save Money
+OL,15,     GAngellica and Ortis help the
+OL,16,     GHadley family with innovative
+OL,17,     Gproducts that encourage fun
+OL,18,     Gfamily time; a range of
+OL,19,     Ginteractive toothbrushes; and a
+OL,20,     Gsolution for their smelly cat
+OL,21,     Glitter tray.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
