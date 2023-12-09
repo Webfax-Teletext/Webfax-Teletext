@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702133352
+OL,0,        ECIMSBWebfax     F698A1702136958
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702133352
+OL,0,        ECIMSBWebfax     F698A1702136958
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702133352
+OL,0,        ECIMSBWebfax     F698A1702136958
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G1400FMoney for Nothing
-OL,5,     GJay Blades calls on lighting
-OL,6,     Gexpert Duncan McKean, furniture
-OL,7,     Gartist Chloe Kempster and
-OL,8,     Gwoodworker Ollie Allen to upcycle
-OL,9,     Gan old radiogram, a coffee table
-OL,10,     Gand a chest of drawers.
-OL,11,G1500FEscape to the Country
-OL,12,     GSonali Shah helps a couple from
-OL,13,     Gthe largest town in Dorset to
-OL,14,     Gescape the urban sprawl and kick-
-OL,15,     Gstart their property search so
-OL,16,     Gthat they can establish a new
-OL,17,     Gcountry life in Devon.
-OL,18,G1600FThe Bidding Room
-OL,19,     GFive dealers bid to buy an old
-OL,20,     Ghairdryer, a Corgi toy circus and
-OL,21,     Ga dummy called Jolly Jim.
+OL,4,G1500FEscape to the Country
+OL,5,     GSonali Shah helps a couple from
+OL,6,     Gthe largest town in Dorset to
+OL,7,     Gescape the urban sprawl and kick-
+OL,8,     Gstart their property search so
+OL,9,     Gthat they can establish a new
+OL,10,     Gcountry life in Devon.
+OL,11,G1600FThe Bidding Room
+OL,12,     GFive dealers bid to buy an old
+OL,13,     Ghairdryer, a Corgi toy circus and
+OL,14,     Ga dummy called Jolly Jim.
+OL,15,G1630FFinal Score
+OL,16,     GJason Mohammad keeps you informed
+OL,17,     Gwith all the latest scores,
+OL,18,     Gresults and reaction from the
+OL,19,     Gday's football fixtures,
+OL,20,     Gincluding Aston Villa against
+OL,21,     GArsenal.
+OL,22,G1725FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,26 +78,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702133352
+OL,0,        ECIMSBWebfax     F698A1702136958
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G1440FMarvellous Musicals: Talking
-OL,5,     FPictures
-OL,6,     GCelia Imrie celebrates the
-OL,7,     Gcinema's marvellous musicals,
-OL,8,     Gventuring back through the BBC's
-OL,9,     Garchives to look at film's most
-OL,10,     Gjoyous and arguably enduring
-OL,11,     Ggenre.
-OL,12,G1525FSome Like It Hot
-OL,13,     GComic masterpiece from Billy
-OL,14,     GWilder. Musicians Joe and Jerry
-OL,15,     Gaccidentally witness the St
-OL,16,     GValentine's Day massacre and
-OL,17,     Gattempt to make a getaway by
-OL,18,     Gjoining an all-girl jazz band.
+OL,4,G1525FSome Like It Hot
+OL,5,     GComic masterpiece from Billy
+OL,6,     GWilder. Musicians Joe and Jerry
+OL,7,     Gaccidentally witness the St
+OL,8,     GValentine's Day massacre and
+OL,9,     Gattempt to make a getaway by
+OL,10,     Gjoining an all-girl jazz band.
+OL,11,G1725FFlog It!
+OL,12,     GMembers of the public are invited
+OL,13,     Gto try to make money out of their
+OL,14,     Gantiques by taking a risk at
+OL,15,     Gauction.
+OL,16,G1800FRemarkable Places to Eat Christmas
+OL,17,     GMichel Roux Jr takes Fred to his
+OL,18,     Gfavourite British city, Bristol,
+OL,19,     Gfor a Christmas treat: from the
+OL,20,     Gperfect French bistro to a
+OL,21,     Gfestive countryside escape and
+OL,22,     GJamaican jerk turkey.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,7 +109,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702133352
+OL,0,        ECIMSBWebfax     F698A1702136958
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -130,50 +135,52 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702133352
+OL,0,        ECIMSBWebfax     F698A1702136958
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G1435FFour in a Bed
-OL,5,     GPetra and Martin welcome their
-OL,6,     Grivals to Villa Farm Cottage in
-OL,7,     GThornton Curtis, where the
-OL,8,     Gbathroom tiles make one guest
-OL,9,     Gnostalgic and a generous
-OL,10,     Gbreakfast leaves everyone spoilt
-OL,11,     Gfor choice.
-OL,12,G1510FFour in a Bed
-OL,13,     GIt's the final day of the
-OL,14,     Gcompetition. After dramatic
-OL,15,     Gdiscoveries and score-settling on
-OL,16,     Geverything from noisy fridges to
-OL,17,     Gparking, the payments are
-OL,18,     Grevealed and the winner is
-OL,19,     Gannounced.
+OL,4,G1540FKirstie and Phil's Love It or
+OL,5,     FList It
+OL,6,     GIn Poole, Sue and Roy are at an
+OL,7,     Gimpasse over their four-bed
+OL,8,     Gchalet bungalow, complete with a
+OL,9,     Gpool! Roy loves the space they
+OL,10,     Ghave, but Sue's ready to downsize.
+OL,11,G1640FChannel 4 News
+OL,12,     GChannel 4's flagship news
+OL,13,     Gprogramme. Including the weather.
+OL,14,G1710FCrocodile Dundee
+OL,15,     GOscar-nominated comedy. Paul
+OL,16,     GHogan stars as Crocodile Dundee -
+OL,17,     Gthe fearless Australian Outback
+OL,18,     Ghero who takes on the wilds of
+OL,19,     GNew York. With humour reflecting
+OL,20,     Gattitudes of the era.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702133352
+OL,0,        ECIMSBWebfax     F698A1702136958
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G1440FNostalgic Christmas
-OL,5,     GA woman visits the small town in
-OL,6,     GMaine where she grew up and
-OL,7,     Glearns that her father is set to
-OL,8,     Gsell his toy store and retire
-OL,9,     Gfrom his wood-carving career.
-OL,10,G1525FA Christmas Cookie Catastrophe
-OL,11,     GRomcom. A woman strives to get
-OL,12,     Gher small-town cookie company
-OL,13,     Gback on track. But after her
-OL,14,     Ggrandmother's secret recipe is
-OL,15,     Gstolen, she must try to to find
-OL,16,     Gthe culprit.
-OL,17,G1625F5 News Update
-OL,18,     GNational and international news.
+OL,4,G1525FA Christmas Cookie Catastrophe
+OL,5,     GRomcom. A woman strives to get
+OL,6,     Gher small-town cookie company
+OL,7,     Gback on track. But after her
+OL,8,     Ggrandmother's secret recipe is
+OL,9,     Gstolen, she must try to to find
+OL,10,     Gthe culprit.
+OL,11,G1625F5 News Update
+OL,12,     GNational and international news.
+OL,13,G1630FA Christmas Cookie Catastrophe
+OL,14,     GRomcom. A woman strives to get
+OL,15,     Gher small-town cookie company
+OL,16,     Gback on track. But after her
+OL,17,     Ggrandmother's secret recipe is
+OL,18,     Gstolen, she must try to to find
+OL,19,     Gthe culprit.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
