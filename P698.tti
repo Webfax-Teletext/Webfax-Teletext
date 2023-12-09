@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702140567
+OL,0,        ECIMSBWebfax     F698A1702144172
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702140567
+OL,0,        ECIMSBWebfax     F698A1702144172
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,27 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702140567
+OL,0,        ECIMSBWebfax     F698A1702144172
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G1630FFinal Score
-OL,5,     GJason Mohammad keeps you informed
-OL,6,     Gwith all the latest scores,
-OL,7,     Gresults and reaction from the
-OL,8,     Gday's football fixtures,
-OL,9,     Gincluding Aston Villa against
-OL,10,     GArsenal.
-OL,11,G1725FBBC News
-OL,12,G1735FRegional News
-OL,13,G1740FWeather
-OL,14,G1745FThe Weakest Link
-OL,15,     GKimberly Wyatt, Ellie Taylor,
-OL,16,     GRhys James, Sinitta, Darren
-OL,17,     GHarriott, Gregg Wallace, Hannah
-OL,18,     GByczkowski and Lesley Garrett
-OL,19,     Gcompete to be the strongest link.
+OL,4,G1745FThe Weakest Link
+OL,5,     GKimberly Wyatt, Ellie Taylor,
+OL,6,     GRhys James, Sinitta, Darren
+OL,7,     GHarriott, Gregg Wallace, Hannah
+OL,8,     GByczkowski and Lesley Garrett
+OL,9,     Gcompete to be the strongest link.
+OL,10,G1830FDoctor Who
+OL,11,     GThe giggle of a mysterious puppet
+OL,12,     Gis driving the human race insane.
+OL,13,     GWhen the Doctor discovers the
+OL,14,     Greturn of the terrifying
+OL,15,     GToymaker, he faces a fight he can
+OL,16,     Gnever win.
+OL,17,G1935FStrictly Come Dancing
+OL,18,     GIt's the semi-final, with our
+OL,19,     Gcouples performing twice in their
+OL,20,     Gbid to make it through to the
+OL,21,     Ggrand final.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -75,30 +77,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702140567
+OL,0,        ECIMSBWebfax     F698A1702144172
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G1525FSome Like It Hot
-OL,5,     GComic masterpiece from Billy
-OL,6,     GWilder. Musicians Joe and Jerry
-OL,7,     Gaccidentally witness the St
-OL,8,     GValentine's Day massacre and
-OL,9,     Gattempt to make a getaway by
-OL,10,     Gjoining an all-girl jazz band.
-OL,11,G1725FFlog It!
-OL,12,     GMembers of the public are invited
-OL,13,     Gto try to make money out of their
-OL,14,     Gantiques by taking a risk at
-OL,15,     Gauction.
-OL,16,G1800FRemarkable Places to Eat Christmas
-OL,17,     GMichel Roux Jr takes Fred to his
-OL,18,     Gfavourite British city, Bristol,
-OL,19,     Gfor a Christmas treat: from the
-OL,20,     Gperfect French bistro to a
-OL,21,     Gfestive countryside escape and
-OL,22,     GJamaican jerk turkey.
+OL,4,G1725FFlog It!
+OL,5,     GMembers of the public are invited
+OL,6,     Gto try to make money out of their
+OL,7,     Gantiques by taking a risk at
+OL,8,     Gauction.
+OL,9,G1800FRemarkable Places to Eat Christmas
+OL,10,     GMichel Roux Jr takes Fred to his
+OL,11,     Gfavourite British city, Bristol,
+OL,12,     Gfor a Christmas treat: from the
+OL,13,     Gperfect French bistro to a
+OL,14,     Gfestive countryside escape and
+OL,15,     GJamaican jerk turkey.
+OL,16,G1900FMicrowave: The Secret Genius of
+OL,17,     FModern Life
+OL,18,     GHannah Fry discovers the hidden
+OL,19,     GWWII radar technology that heats
+OL,20,     Gup baked beans.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -106,79 +106,77 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702140567
+OL,0,        ECIMSBWebfax     F698A1702144172
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G1630FMamma Mia! I Have A Dream
-OL,5,     GIt's the semi-final, but only
-OL,6,     Gfour of the six remaining
-OL,7,     Ghopefuls can make it through to
-OL,8,     Gthe final as they get some advice
-OL,9,     Gfrom a singing sensation and star
-OL,10,     Gof the Mamma Mia! films.
-OL,11,G1745FHarry Potter and the Deathly
-OL,12,     FHallows - Part Two
-OL,13,     GFantasy film sequel starring
-OL,14,     GDaniel Radcliffe, 2011. The hunt
-OL,15,     Gfor the secret of Voldemort's
-OL,16,     Gimmortality leads to an epic
-OL,17,     Gultimate showdown for Harry
-OL,18,     GPotter.
+OL,4,G1745FHarry Potter and the Deathly
+OL,5,     FHallows - Part Two
+OL,6,     GFantasy film sequel starring
+OL,7,     GDaniel Radcliffe, 2011. The hunt
+OL,8,     Gfor the secret of Voldemort's
+OL,9,     Gimmortality leads to an epic
+OL,10,     Gultimate showdown for Harry
+OL,11,     GPotter.
+OL,12,G2000FThe Voice UK
+OL,13,     GEmma Willis hosts as star coaches
+OL,14,     Gwill.i.am, Sir Tom Jones, Anne-
+OL,15,     GMarie and Olly Murs return to
+OL,16,     Gselect more singers to join their
+OL,17,     Gteams in the final round of Blind
+OL,18,     GAuditions.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702140567
+OL,0,        ECIMSBWebfax     F698A1702144172
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G1640FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G1710FCrocodile Dundee
-OL,8,     GOscar-nominated comedy. Paul
-OL,9,     GHogan stars as Crocodile Dundee -
-OL,10,     Gthe fearless Australian Outback
-OL,11,     Ghero who takes on the wilds of
-OL,12,     GNew York. With humour reflecting
-OL,13,     Gattitudes of the era.
-OL,14,G1900FA Royal Guide to... Christmas
-OL,15,     GA look at Christmas for the
-OL,16,     Groyals: a spectacular affair
-OL,17,     Gstuffed with extravagant
-OL,18,     Gbanquets, celebrity carol
-OL,19,     Gconcerts and amazing 20-foot
-OL,20,     Gtrees. All before the King tucks
-OL,21,     Ginto his turkey.
+OL,4,G1710FCrocodile Dundee
+OL,5,     GOscar-nominated comedy. Paul
+OL,6,     GHogan stars as Crocodile Dundee -
+OL,7,     Gthe fearless Australian Outback
+OL,8,     Ghero who takes on the wilds of
+OL,9,     GNew York. With humour reflecting
+OL,10,     Gattitudes of the era.
+OL,11,G1900FA Royal Guide to... Christmas
+OL,12,     GA look at Christmas for the
+OL,13,     Groyals: a spectacular affair
+OL,14,     Gstuffed with extravagant
+OL,15,     Gbanquets, celebrity carol
+OL,16,     Gconcerts and amazing 20-foot
+OL,17,     Gtrees. All before the King tucks
+OL,18,     Ginto his turkey.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702140567
+OL,0,        ECIMSBWebfax     F698A1702144172
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G1630FA Christmas Cookie Catastrophe
-OL,5,     GRomcom. A woman strives to get
-OL,6,     Gher small-town cookie company
-OL,7,     Gback on track. But after her
-OL,8,     Ggrandmother's secret recipe is
-OL,9,     Gstolen, she must try to to find
-OL,10,     Gthe culprit.
-OL,11,G1715FA Christmas Masquerade
-OL,12,     GWhen Julieanne is mistaken for
-OL,13,     Gher boss at a ball by a
-OL,14,     Gbusinessman, she continues the
-OL,15,     Gruse over Christmas, wanting to
-OL,16,     Gsecure him as a client. But it
-OL,17,     Gturns into more than just
-OL,18,     Gbusiness...
-OL,19,G1815F5 News Weekend
-OL,20,     GNational and international news.
+OL,4,G1715FA Christmas Masquerade
+OL,5,     GWhen Julieanne is mistaken for
+OL,6,     Gher boss at a ball by a
+OL,7,     Gbusinessman, she continues the
+OL,8,     Gruse over Christmas, wanting to
+OL,9,     Gsecure him as a client. But it
+OL,10,     Gturns into more than just
+OL,11,     Gbusiness...
+OL,12,G1815F5 News Weekend
+OL,13,     GNational and international news.
+OL,14,G1820FA Christmas Masquerade
+OL,15,     GWhen Julieanne is mistaken for
+OL,16,     Gher boss at a ball by a
+OL,17,     Gbusinessman, she continues the
+OL,18,     Gruse over Christmas, wanting to
+OL,19,     Gsecure him as a client. But it
+OL,20,     Gturns into more than just
+OL,21,     Gbusiness...
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
