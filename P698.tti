@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702158604
+OL,0,        ECIMSBWebfax     F698A1702162213
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702158604
+OL,0,        ECIMSBWebfax     F698A1702162213
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702158604
+OL,0,        ECIMSBWebfax     F698A1702162213
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G2100FSurvivor
-OL,5,     GA mysterious item washes up on
-OL,6,     Gshore that could change the game.
-OL,7,     GA huge error leads to an
-OL,8,     Gunpredictable Tribal Council. Who
-OL,9,     Gwill be the twelfth person voted
-OL,10,     Gout of Survivor?
-OL,11,G2200FBBC News
-OL,12,G2215FWeather
-OL,13,G2220FMatch of the Day
-OL,14,     GAll the goals, drama and reaction
-OL,15,     Gfrom the day's six Premier League
-OL,16,     Gfixtures, including Unai Emery
-OL,17,     Gtaking on former club Arsenal
-OL,18,     Gwith Aston Villa.
+OL,4,G2220FMatch of the Day
+OL,5,     GAll the goals, drama and reaction
+OL,6,     Gfrom the day's six Premier League
+OL,7,     Gfixtures, including Unai Emery
+OL,8,     Gtaking on former club Arsenal
+OL,9,     Gwith Aston Villa.
+OL,10,G2340FDoctor Who: Unleashed
+OL,11,     GSteffan Powell goes behind the
+OL,12,     Gscenes of The Giggle and speaks
+OL,13,     Gto the Toymaker, Neil Patrick
+OL,14,     GHarris, and we meet the fifteenth
+OL,15,     GDoctor, Ncuti Gatwa.
+OL,16,G0010FThe Rap Game UK
+OL,17,     GArtists collaborate with the
+OL,18,     Glegendary Fraser T Smith and face
+OL,19,     Gthe crowd in the live performance
+OL,20,     Gchallenge. Only some make it
+OL,21,     Gthrough to the final. Contains
+OL,22,     Gsome strong language.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,30 +78,24 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702158604
+OL,0,        ECIMSBWebfax     F698A1702162213
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G2100FCher Meets Rylan
-OL,5,     GThe goddess of pop sits down for
-OL,6,     Ga fun and in-depth chat with
-OL,7,     GRylan Clark about her new record,
-OL,8,     Gher biggest hits and her
-OL,9,     Gincredible life and career.
-OL,10,G2200FCher at the BBC
-OL,11,     GTurn back time on a journey
-OL,12,     Gthrough the BBC archives to
-OL,13,     Gcelebrate singing superstar Cher
-OL,14,     Gwith a selection of songs and
-OL,15,     Gchat show moments featuring many
-OL,16,     Gof the her greatest hits.
-OL,17,G2300FThe Witches of Eastwick
-OL,18,     GThree single women in the village
-OL,19,     Gof Eastwick have their wish
-OL,20,     Ggranted - at a cost. Contains
-OL,21,     Gsome strong language and adult
-OL,22,     Ghumour.
+OL,4,G2200FCher at the BBC
+OL,5,     GTurn back time on a journey
+OL,6,     Gthrough the BBC archives to
+OL,7,     Gcelebrate singing superstar Cher
+OL,8,     Gwith a selection of songs and
+OL,9,     Gchat show moments featuring many
+OL,10,     Gof the her greatest hits.
+OL,11,G2300FThe Witches of Eastwick
+OL,12,     GThree single women in the village
+OL,13,     Gof Eastwick have their wish
+OL,14,     Ggranted - at a cost. Contains
+OL,15,     Gsome strong language and adult
+OL,16,     Ghumour.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -105,32 +103,33 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702158604
+OL,0,        ECIMSBWebfax     F698A1702162213
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G2130FI'm A Celebrity... Get Me...
-OL,5,     GOut Of Here! The remaining
-OL,6,     Gcelebrities have nearly done all
-OL,7,     Gthey can in their quest for the
-OL,8,     G2023 crown - with only 24 hours
-OL,9,     Gleft in camp, just one will walk
-OL,10,     Gaway as the winner.
-OL,11,G2235FITV News
-OL,12,G2255FThe 1% Club
-OL,13,     GLee Mack hosts the last edition
-OL,14,     Gin the second series of the game
-OL,15,     Gshow where the questions have
-OL,16,     Gnothing to do with remembering
-OL,17,     Gfacts and are all about logic and
-OL,18,     Gcommon sense.
+OL,4,G2235FITV News
+OL,5,G2255FThe 1% Club
+OL,6,     GLee Mack hosts the last edition
+OL,7,     Gin the second series of the game
+OL,8,     Gshow where the questions have
+OL,9,     Gnothing to do with remembering
+OL,10,     Gfacts and are all about logic and
+OL,11,     Gcommon sense.
+OL,12,G2355FEnglish Football League Highlights
+OL,13,     GAction from matches including
+OL,14,     GBlackburn Rovers v Leeds United,
+OL,15,     GSunderland v West Brom, Leicester
+OL,16,     GCity v Plymouth Argyle, and
+OL,17,     GMiddlesbrough v Ipswich Town.
+OL,18,G0110FShop on TV
+OL,19,     GTeleshopping.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702158604
+OL,0,        ECIMSBWebfax     F698A1702162213
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -154,28 +153,28 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702158604
+OL,0,        ECIMSBWebfax     F698A1702162213
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 DEC
-OL,4,G2100FThe Great White Christmas of '81
-OL,5,     GWhen Britain experienced the
-OL,6,     Gwhitest Christmas of the 20th
-OL,7,     GCentury, with over half the
-OL,8,     Gcountry blanketed in snow. This
-OL,9,     Gshow recalls the weather event
-OL,10,     Gvia unseen archive and anecdotes.
-OL,11,G2225FBridget Jones's Diary
-OL,12,     GRomantic comedy starring Renee
-OL,13,     GZellwegger. Bridget writes a
-OL,14,     Gdiary which focuses on the things
-OL,15,     Gshe wishes to happen in her life,
-OL,16,     Gbut her life changes when two men
-OL,17,     Gvie for her affections.
-OL,18,G2325FEntertainment News on 5
-OL,19,     GA daily round-up of showbiz news
-OL,20,     Gand gossip from around the world,
-OL,21,     Gfocusing on celebrities, movies,
-OL,22,     Gmusic and entertainment.
+OL,4,G2225FBridget Jones's Diary
+OL,5,     GRomantic comedy starring Renee
+OL,6,     GZellwegger. Bridget writes a
+OL,7,     Gdiary which focuses on the things
+OL,8,     Gshe wishes to happen in her life,
+OL,9,     Gbut her life changes when two men
+OL,10,     Gvie for her affections.
+OL,11,G2325FEntertainment News on 5
+OL,12,     GA daily round-up of showbiz news
+OL,13,     Gand gossip from around the world,
+OL,14,     Gfocusing on celebrities, movies,
+OL,15,     Gmusic and entertainment.
+OL,16,G2330FBridget Jones's Diary
+OL,17,     GRomantic comedy starring Renee
+OL,18,     GZellwegger. Bridget writes a
+OL,19,     Gdiary which focuses on the things
+OL,20,     Gshe wishes to happen in her life,
+OL,21,     Gbut her life changes when two men
+OL,22,     Gvie for her affections.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
