@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702237992
+OL,0,        ECIMSBWebfax     F698A1702241602
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702237992
+OL,0,        ECIMSBWebfax     F698A1702241602
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,25 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702237992
+OL,0,        ECIMSBWebfax     F698A1702241602
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G1920FStrictly Come Dancing: The Results
-OL,5,     GThe final results show of 2023
-OL,6,     Gfeatures a fantastic group number
-OL,7,     Gfrom our Strictly professionals
-OL,8,     Gand an incredible music
-OL,9,     Gperformance from Take That.
-OL,10,G2000FSurvivor
-OL,11,     GWith just six people left, the
-OL,12,     Gend is in sight. But who's burnt
-OL,13,     Gall their bridges? Who will be
-OL,14,     Gthe thirteenth person voted out
-OL,15,     Gof Survivor?
-OL,16,G2100FVigil
-OL,17,     GWhen a military weapons test
-OL,18,     Gturns deadly, DCI Amy Silva is
-OL,19,     Gcalled in to investigate.
-OL,20,     GContains some strong language and
-OL,21,     Gsome violent scenes.
-OL,22,G2200FBBC News and Weather
+OL,4,G2000FSurvivor
+OL,5,     GWith just six people left, the
+OL,6,     Gend is in sight. But who's burnt
+OL,7,     Gall their bridges? Who will be
+OL,8,     Gthe thirteenth person voted out
+OL,9,     Gof Survivor?
+OL,10,G2100FVigil
+OL,11,     GWhen a military weapons test
+OL,12,     Gturns deadly, DCI Amy Silva is
+OL,13,     Gcalled in to investigate.
+OL,14,     GContains some strong language and
+OL,15,     Gsome violent scenes.
+OL,16,G2200FBBC News and Weather
+OL,17,G2225FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,30 +73,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702237992
+OL,0,        ECIMSBWebfax     F698A1702241602
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G1800FPride and Prejudice
-OL,5,     GRomantic drama. Worried about
-OL,6,     Gwhat is to become of her five
-OL,7,     Gunmarried daughters, Mrs Bennet
-OL,8,     Gbelieves she may found an answer
-OL,9,     Gwhen a wealthy bachelor becomes
-OL,10,     Gtheir neighbour.
-OL,11,G2000FAntiques Roadshow
-OL,12,     GThe team are at Clissold Park in
-OL,13,     GStoke Newington, where treasures
-OL,14,     Ginclude ancient Peruvian pottery,
-OL,15,     Gan archive of textile designs by
-OL,16,     Gpioneer Althea McNish and Harold
-OL,17,     GWilson's pipe.
-OL,18,G2100FKilling Sherlock: Lucy Worsley...
-OL,19,     Gon the Case of Conan Doyle. A
-OL,20,     Glook at the relationship between
-OL,21,     GArthur Conan Doyle and his
-OL,22,     Gcreation Sherlock Holmes.
+OL,4,G2000FAntiques Roadshow
+OL,5,     GThe team are at Clissold Park in
+OL,6,     GStoke Newington, where treasures
+OL,7,     Ginclude ancient Peruvian pottery,
+OL,8,     Gan archive of textile designs by
+OL,9,     Gpioneer Althea McNish and Harold
+OL,10,     GWilson's pipe.
+OL,11,G2100FKilling Sherlock: Lucy Worsley...
+OL,12,     Gon the Case of Conan Doyle. A
+OL,13,     Glook at the relationship between
+OL,14,     GArthur Conan Doyle and his
+OL,15,     Gcreation Sherlock Holmes.
+OL,16,G2200FThe Rocky Horror Picture Show
+OL,17,     GA young couple have an
+OL,18,     Gunforgettable night at the castle
+OL,19,     Gof Dr Frank N Furter. Contains
+OL,20,     Gsome strong language, some sexual
+OL,21,     Gcontent and some violence.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -109,7 +103,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702237992
+OL,0,        ECIMSBWebfax     F698A1702241602
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -134,47 +128,49 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702237992
+OL,0,        ECIMSBWebfax     F698A1702241602
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G1900FEscape to the Chateau at Christmas
-OL,5,     GIt's Christmas at the chateau,
-OL,6,     Gand the Strawbridges throw the
-OL,7,     Gparty of a lifetime to mark the
-OL,8,     Gend of an era and to thank
-OL,9,     Geveryone who's helped them along
-OL,10,     Gtheir journey.
-OL,11,G2000FKirstie's Handmade Christmas
-OL,12,     GKirstie Allsopp brings the cheer
-OL,13,     Gto Christmas 2023 with more
-OL,14,     Gjoyful creations, and gives
-OL,15,     GFestive HQ a glow-up. But which
-OL,16,     Gof her crafty helpers'
-OL,17,     Gdecorations will be the star of
-OL,18,     Gher display?
+OL,4,G2000FKirstie's Handmade Christmas
+OL,5,     GKirstie Allsopp brings the cheer
+OL,6,     Gto Christmas 2023 with more
+OL,7,     Gjoyful creations, and gives
+OL,8,     GFestive HQ a glow-up. But which
+OL,9,     Gof her crafty helpers'
+OL,10,     Gdecorations will be the star of
+OL,11,     Gher display?
+OL,12,G2100F24 Hours in Police Custody The
+OL,13,     FNight Prowler
+OL,14,     GA man secretly films a couple
+OL,15,     Ghaving sex in an alleyway.
+OL,16,     GVoyeurism can be a gateway crime,
+OL,17,     Gso police are concerned when a
+OL,18,     Gclub report a suspected attack on
+OL,19,     Ga woman.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702237992
+OL,0,        ECIMSBWebfax     F698A1702241602
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G1900FCostco at Christmas: Is It...
-OL,5,     GReally Worth It? In the run up to
-OL,6,     Gthe festive season, we reveal the
-OL,7,     Ginside track to becoming a member
-OL,8,     Gof the exclusive Costco shopping
-OL,9,     Gclub.
-OL,10,G2000FAir Fryers: Christmas Made Easy
-OL,11,     GHow this humble but must-have
-OL,12,     Gappliance is going to transform
-OL,13,     Gfood preparation at Christmas -
-OL,14,     Gfrom nibbly bits and succulent
-OL,15,     Gturkey to mouth-watering puds and
-OL,16,     Gall-important leftovers.
+OL,4,G2000FAir Fryers: Christmas Made Easy
+OL,5,     GHow this humble but must-have
+OL,6,     Gappliance is going to transform
+OL,7,     Gfood preparation at Christmas -
+OL,8,     Gfrom nibbly bits and succulent
+OL,9,     Gturkey to mouth-watering puds and
+OL,10,     Gall-important leftovers.
+OL,11,G2100FCarry On: Secrets & Scandals
+OL,12,     GBehind-the-scenes stories reveal
+OL,13,     Gthe truth behind the cheeky,
+OL,14,     Gcheerful image of the film
+OL,15,     Gseries, including the treatment
+OL,16,     Gof the cast at the hands of
+OL,17,     Gmillionaire producer Peter Rogers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
