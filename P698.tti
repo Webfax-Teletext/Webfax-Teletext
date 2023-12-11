@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702288512
+OL,0,        ECIMSBWebfax     F698A1702292120
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702288512
+OL,0,        ECIMSBWebfax     F698A1702292120
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702288512
+OL,0,        ECIMSBWebfax     F698A1702292120
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 11 DEC
-OL,4,G0915FMorning Live at Christmas
-OL,5,     GConversation, advice and great
-OL,6,     Gcompany to make your morning.
-OL,7,G1000FFor Love or Money
-OL,8,     GKym and Ashley investigate the
-OL,9,     Gcase of Barbara, who has given
-OL,10,     Gsix-figure sums to two men.
-OL,11,G1045FFrontline Fightback
-OL,12,     GA couple are confronted by three
-OL,13,     Gmasked men trying to steal the
-OL,14,     Gcatalytic converter from under
-OL,15,     Gthe car parked on their driveway.
-OL,16,G1115FHomes Under the Hammer
-OL,17,     GFeaturing properties in Dover,
-OL,18,     GBurnley and Warwickshire.
+OL,4,G1045FFrontline Fightback
+OL,5,     GA couple are confronted by three
+OL,6,     Gmasked men trying to steal the
+OL,7,     Gcatalytic converter from under
+OL,8,     Gthe car parked on their driveway.
+OL,9,G1115FHomes Under the Hammer
+OL,10,     GFeaturing properties in Dover,
+OL,11,     GBurnley and Warwickshire.
+OL,12,G1215FBargain Hunt: Toy Special
+OL,13,     GThe teams gallop around a huge
+OL,14,     Gtoy fair at Sandown Park
+OL,15,     GRacecourse in Surrey, with
+OL,16,     Gexperts Thomas Forrester and Tim
+OL,17,     GWeeks.
+OL,18,G1300FBBC News
+OL,19,G1330FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,7 +75,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702288512
+OL,0,        ECIMSBWebfax     F698A1702292120
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -102,63 +103,61 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702288512
+OL,0,        ECIMSBWebfax     F698A1702292120
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 11 DEC
-OL,4,G0900FLorraine
-OL,5,     GLorraine Kelly presents a topical
-OL,6,     Gmix of entertainment, discussion
-OL,7,     Gand showbiz glamour as well as
-OL,8,     Gthe latest fashion, food and
-OL,9,     Gcelebrity gossip.
-OL,10,G1000FThis Morning
-OL,11,     GMagazine show with news and
-OL,12,     Gtopical items, celebrity guests,
-OL,13,     Gexpert advice, real life stories,
-OL,14,     Gcompetitions and a mix of
-OL,15,     Gcookery, health, beauty,
-OL,16,     Glifestyle and more.
-OL,17,G1230FLoose Women
-OL,18,     GDragons' Den entrepreneur Sara
-OL,19,     GDavies joins the Loose ladies for
-OL,20,     Gsome Christmas crafting and a
-OL,21,     Gcatch-up.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real life stories,
+OL,8,     Gcompetitions and a mix of
+OL,9,     Gcookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GDragons' Den entrepreneur Sara
+OL,13,     GDavies joins the Loose ladies for
+OL,14,     Gsome Christmas crafting and a
+OL,15,     Gcatch-up.
+OL,16,G1330FITV Lunchtime News
+OL,17,     GThe latest headlines from around
+OL,18,     Gthe world at lunchtime with
+OL,19,     Greports and analysis from ITV's
+OL,20,     GCorrespondents, all of which are
+OL,21,     Gfollowed by a national weather
+OL,22,     Gforecast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702288512
+OL,0,        ECIMSBWebfax     F698A1702292120
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 11 DEC
-OL,4,G0935FFrasier
-OL,5,     GShutout in Seattle : In the
-OL,6,     Gconcluding part of the sixth
-OL,7,     Gseason finale, will any of the
-OL,8,     GCrane men sort out their romantic
-OL,9,     Gproblems?
-OL,10,G1005FFrasier
-OL,11,     GMomma Mia: Niles and Martin get
-OL,12,     Gthe shock of their lives when
-OL,13,     Gthey meet Frasier's new date:
-OL,14,     Gshe's the spitting image of his
-OL,15,     Gmother.
-OL,16,G1035FFrasier
-OL,17,     GFather of the Bride: Frasier and
-OL,18,     GMartin inadvertently offer to pay
-OL,19,     Gfor Daphne's wedding. Meanwhile,
-OL,20,     GFrasier's meddling drives Daphne
-OL,21,     Gcrazy.
+OL,4,G1035FFrasier
+OL,5,     GFather of the Bride: Frasier and
+OL,6,     GMartin inadvertently offer to pay
+OL,7,     Gfor Daphne's wedding. Meanwhile,
+OL,8,     GFrasier's meddling drives Daphne
+OL,9,     Gcrazy.
+OL,10,G1105FChateau DIY at Christmas
+OL,11,     GBen and Billie embark on an
+OL,12,     Gambitious plan to convert their
+OL,13,     Gstable into a Christmas party
+OL,14,     Gvenue, and Anna and Edward have
+OL,15,     Gtheir work cut out felling trees
+OL,16,     Gfor festive firewood.
+OL,17,G1205FChannel 4 News Summary
+OL,18,     GChannel 4's midday news summary.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702288512
+OL,0,        ECIMSBWebfax     F698A1702292120
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
