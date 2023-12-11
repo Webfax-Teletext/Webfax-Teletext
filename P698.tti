@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702321546
+OL,0,        ECIMSBWebfax     F698A1702325153
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702321546
+OL,0,        ECIMSBWebfax     F698A1702325153
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702321546
+OL,0,        ECIMSBWebfax     F698A1702325153
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 11 DEC
-OL,4,G1900FThe One Show
-OL,5,     GAlex Jones and Jermaine Jenas
-OL,6,     Gbring you the stories that matter
-OL,7,     Gfrom across the country.
-OL,8,G1930FEastEnders
-OL,9,     GThings go from bad to worse for
-OL,10,     GKeanu, and Dean receives an
-OL,11,     Gunexpected visitor.
-OL,12,G2000FThe Billionaire Bishop and the...
-OL,13,     GGlobal Megachurch - Panorama.
-OL,14,     GPanorama uncovers allegations
-OL,15,     Gabout the Universal Church of the
-OL,16,     GKingdom of God.
-OL,17,G2030FGarden Rescue
-OL,18,     GCharlie and Chris are in Bristol
-OL,19,     Gto transform a concrete car crash
-OL,20,     Ginto a relaxing retreat for Sam,
-OL,21,     GAmy and their dogs.
+OL,4,G2000FThe Billionaire Bishop and the...
+OL,5,     GGlobal Megachurch - Panorama.
+OL,6,     GPanorama uncovers allegations
+OL,7,     Gabout the Universal Church of the
+OL,8,     GKingdom of God.
+OL,9,G2030FGarden Rescue
+OL,10,     GCharlie and Chris are in Bristol
+OL,11,     Gto transform a concrete car crash
+OL,12,     Ginto a relaxing retreat for Sam,
+OL,13,     GAmy and their dogs.
+OL,14,G2100FVigil
+OL,15,     GAfter escaping from a gunman with
+OL,16,     Gher life, Amy follows a new lead
+OL,17,     Gto the Middle East. Contains some
+OL,18,     Gviolence and some upsetting
+OL,19,     Gscenes.
+OL,20,G2200FBBC News and Weather
+OL,21,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,28 +77,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702321546
+OL,0,        ECIMSBWebfax     F698A1702325153
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 11 DEC
-OL,4,G1900FBetween the Covers
-OL,5,     GSara is joined by Geri Halliwell-
-OL,6,     GHorner, Bill Paterson, Ellie
-OL,7,     GTaylor and Miles Jupp to share
-OL,8,     Gtheir favourite books and review
-OL,9,     Gthe book club choices.
-OL,10,G1930FMastermind
-OL,11,     GSubjects include Bridget Riley,
-OL,12,     Gthe sitcoms of Peter Kay and the
-OL,13,     Ghistory of St Albans.
-OL,14,G2000FOnly Connect
-OL,15,     GIt's a quarter-final, and the
-OL,16,     Gteams have to grapple with such
-OL,17,     Gimportant questions as: what
-OL,18,     Gconnects Meng Po soup, Lacuna
-OL,19,     GInc, the waters of Lethe and
-OL,20,     GSuperman's kiss?
+OL,4,G2000FOnly Connect
+OL,5,     GIt's a quarter-final, and the
+OL,6,     Gteams have to grapple with such
+OL,7,     Gimportant questions as: what
+OL,8,     Gconnects Meng Po soup, Lacuna
+OL,9,     GInc, the waters of Lethe and
+OL,10,     GSuperman's kiss?
+OL,11,G2030FUniversity Challenge
+OL,12,     GThe second round of the quiz
+OL,13,     Gcompetition for students
+OL,14,     Gcontinues. York competes with
+OL,15,     GBirkbeck for a place in the
+OL,16,     Gquarter-finals. Amol Rajan asks
+OL,17,     Gthe questions.
+OL,18,G2100FJulius Caesar: The Making of a
+OL,19,     FDictator
+OL,20,     GAs Caesar's ambition turns to
+OL,21,     Gtyranny, a handful of senators
+OL,22,     Gplot his downfall.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -106,74 +108,76 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702321546
+OL,0,        ECIMSBWebfax     F698A1702325153
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 11 DEC
-OL,4,G1830FITV Evening News
-OL,5,G1930FEmmerdale
-OL,6,     GPollard is taken by surprise when
-OL,7,     Ghe experiences an unexpected
-OL,8,     Gtremor, Tracy and Caleb start to
-OL,9,     Gsee themselves as kindred
-OL,10,     Gspirits, and Jimmy's turned on by
-OL,11,     GNicola's lust for power.
-OL,12,G2000FCoronation Street
-OL,13,     GEvelyn fails to keep her theft of
-OL,14,     GTerry's dog hidden, Daniel
-OL,15,     Gsuggests to Daisy that they buy
-OL,16,     Gthe Rovers, and Stu learns some
-OL,17,     Gjuicy information about Dom.
+OL,4,G2000FCoronation Street
+OL,5,     GEvelyn fails to keep her theft of
+OL,6,     GTerry's dog hidden, Daniel
+OL,7,     Gsuggests to Daisy that they buy
+OL,8,     Gthe Rovers, and Stu learns some
+OL,9,     Gjuicy information about Dom.
+OL,10,G2100FThe Real Full Monty: Jingle Balls
+OL,11,     GAshley Banjo, Coleen Nolan, and a
+OL,12,     Gteam of brave celebrities are
+OL,13,     Gback to highlight the importance
+OL,14,     Gof checking your body and raise
+OL,15,     Gawareness for cancer by baring
+OL,16,     Gall.
+OL,17,G2230FITV News
+OL,18,G2300FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702321546
+OL,0,        ECIMSBWebfax     F698A1702325153
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 11 DEC
-OL,4,G1900FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G2000FJamie's Christmas Shortcuts
-OL,8,     GJamie Oliver shares time-saving
-OL,9,     Grecipes for a spectacular
-OL,10,     GChristmas Day feast, from the
-OL,11,     Gultimate roast turkey and a
-OL,12,     Gshowstopping veggie centrepiece,
-OL,13,     Gto perfectly crunchy roasties.
-OL,14,G2100FGrand Designs
-OL,15,     GIn Derbyshire, Mike and Sarah set
-OL,16,     Gout to build a multigenerational
-OL,17,     Glonghouse. But with a complicated
-OL,18,     Groof, a shortage of materials and
-OL,19,     Gan unexpected bereavement, it
-OL,20,     Gproves far from easy...
+OL,4,G2000FJamie's Christmas Shortcuts
+OL,5,     GJamie Oliver shares time-saving
+OL,6,     Grecipes for a spectacular
+OL,7,     GChristmas Day feast, from the
+OL,8,     Gultimate roast turkey and a
+OL,9,     Gshowstopping veggie centrepiece,
+OL,10,     Gto perfectly crunchy roasties.
+OL,11,G2100FGrand Designs
+OL,12,     GIn Derbyshire, Mike and Sarah set
+OL,13,     Gout to build a multigenerational
+OL,14,     Glonghouse. But with a complicated
+OL,15,     Groof, a shortage of materials and
+OL,16,     Gan unexpected bereavement, it
+OL,17,     Gproves far from easy...
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702321546
+OL,0,        ECIMSBWebfax     F698A1702325153
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 11 DEC
-OL,4,G1900FChristmas at Longleat
-OL,5,     GStep inside one of Britain's
-OL,6,     Ggrandest estates as it is
-OL,7,     Gprepared for a seasonal
-OL,8,     Gextravaganza, from hosting one of
-OL,9,     GEurope's largest lantern
-OL,10,     Gfestivals to dressing the jaw-
-OL,11,     Gdropping Great Hall.
-OL,12,G2000FWinter on the Farm
-OL,13,     GHelen Skelton and Jules Hudson
-OL,14,     Gjoin farming brothers Rob and
-OL,15,     GDave Nicholson at Cannon Hall
-OL,16,     GFarm in South Yorkshire as the UK
-OL,17,     Gprepares for winter and Christmas.
+OL,4,G2000FWinter on the Farm
+OL,5,     GHelen Skelton and Jules Hudson
+OL,6,     Gjoin farming brothers Rob and
+OL,7,     GDave Nicholson at Cannon Hall
+OL,8,     GFarm in South Yorkshire as the UK
+OL,9,     Gprepares for winter and Christmas.
+OL,10,G2100FCasualty 24/7: Every Second Counts
+OL,11,     GAmna, 24, collapsed at work.
+OL,12,     GParamedics are concerned about
+OL,13,     Gher head injuries. Pauline, 86,
+OL,14,     Ghas a history of heart attacks;
+OL,15,     Gher chest pains could be life-
+OL,16,     Gthreatening.
+OL,17,G2200F999: Critical Condition
+OL,18,     GSeventeen-year-old Dougie is
+OL,19,     Grushed in by helicopter after a
+OL,20,     Gmountain bike accident leaves him
+OL,21,     Gwith a catastrophic head injury.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
