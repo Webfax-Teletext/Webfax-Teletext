@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702274075
+OL,0,        ECIMSBWebfax     F698A1702277686
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702274075
+OL,0,        ECIMSBWebfax     F698A1702277686
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702274075
+OL,0,        ECIMSBWebfax     F698A1702277686
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G0215FBBC News
+OL,3,CProgramme listings for MON 11 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live at Christmas
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FFor Love or Money
+OL,12,     GKym and Ashley investigate the
+OL,13,     Gcase of Barbara, who has given
+OL,14,     Gsix-figure sums to two men.
+OL,15,G1045FFrontline Fightback
+OL,16,     GA couple are confronted by three
+OL,17,     Gmasked men trying to steal the
+OL,18,     Gcatalytic converter from under
+OL,19,     Gthe car parked on their driveway.
+OL,20,G1115FHomes Under the Hammer
+OL,21,     GFeaturing properties in Dover,
+OL,22,     GBurnley and Warwickshire.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +78,26 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702274075
+OL,0,        ECIMSBWebfax     F698A1702277686
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G0330FThis is BBC Two
+OL,3,CProgramme listings for MON 11 DEC
+OL,4,G0630FAntiques Road Trip
+OL,5,     GWe're in the east Midlands for a
+OL,6,     Gsparkling road trip finale with
+OL,7,     Gyoung guns Natasha Raskin Sharp
+OL,8,     Gand Ishy Khan.
+OL,9,G0715FMake It at Market
+OL,10,     GCan artist Will and jeweller Ange
+OL,11,     Gturn their talent and passion
+OL,12,     Ginto thriving businesses?
+OL,13,G0800FVillages by the Sea: Seaton Sluice
+OL,14,     GBen Robinson travels to Seaton
+OL,15,     GSluice, home to the notorious
+OL,16,     GDelaval family and the site of a
+OL,17,     Gpast bottle works that shaped the
+OL,18,     Gvillage.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,61 +105,77 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702274075
+OL,0,        ECIMSBWebfax     F698A1702277686
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G0505FFletchers' Family Farm
-OL,5,     GDocumentary series. A break in
-OL,6,     Gthe weather offers a chance to
-OL,7,     Gsave a valuable harvest, the
-OL,8,     Gfamily witness eight piglets
-OL,9,     Gbeing born, and the farm's older
-OL,10,     Gpiglets wreak some havoc.
+OL,3,CProgramme listings for MON 11 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a topical
+OL,9,     Gmix of entertainment, discussion
+OL,10,     Gand showbiz glamour as well as
+OL,11,     Gthe latest fashion, food and
+OL,12,     Gcelebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life stories,
+OL,17,     Gcompetitions and a mix of
+OL,18,     Gcookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702274075
+OL,0,        ECIMSBWebfax     F698A1702277686
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G0500FChristmas at Castle Howard
-OL,5,     GAn enchanting behind-the-scenes
-OL,6,     Glook at how the team at Castle
-OL,7,     GHoward deck the halls with
-OL,8,     Gambitious and lavish decorations,
-OL,9,     Gas they prepare for an
-OL,10,     Gextravagant 'Christmas in Narnia'.
-OL,11,G0555FKirstie's Handmade Christmas
-OL,12,     GKirstie Allsopp glams up
-OL,13,     GChristmas with an embroidered,
-OL,14,     Gfur-topped velvet stocking filled
-OL,15,     Gwith tie-dyed knickers, hot
-OL,16,     Gchocolate dippers and homemade
-OL,17,     Glip balms.
+OL,3,CProgramme listings for MON 11 DEC
+OL,4,G0615FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Bob Harris joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G0655F3rd Rock from the Sun
+OL,12,     GCharitable Dick: When Dick and
+OL,13,     GMary attend a charity auction,
+OL,14,     GDick gets caught up in the
+OL,15,     Gexcitement and enters a bidding
+OL,16,     Gwar with Professor Strudwick.
+OL,17,     GSally's snoring is a problem.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702274075
+OL,0,        ECIMSBWebfax     F698A1702277686
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G0530FWildlife SOS
-OL,5,     GDocumentary series about the work
-OL,6,     Gof dedicated animal lovers who
-OL,7,     Gsave injured and orphaned wild
-OL,8,     Ganimals brought into their
-OL,9,     Gsanctuary.
-OL,10,G0555FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the world,
-OL,13,     Gfocusing on celebrities, movies,
-OL,14,     Gmusic and entertainment.
+OL,3,CProgramme listings for MON 11 DEC
+OL,4,G0645FFireman Sam
+OL,5,     GAfter festooning the supermarket
+OL,6,     Gwith Christmas lights, Norman
+OL,7,     Gpersuades Dilys to fix an
+OL,8,     Ginflatable Santa to the roof.
+OL,9,G0655FThomas & Friends All...
+OL,10,     GEngines Go! With the holidays
+OL,11,     Gjust around the corner, Thomas &
+OL,12,     GPercy are determined to deliver
+OL,13,     Gthe mail. But there's a snowstorm
+OL,14,     Gpreventing them from seeing where
+OL,15,     Gthey're going.
+OL,16,G0710FPeppa Pig
+OL,17,     GCold Winter's Day: Peppa and
+OL,18,     GGeorge go to the park to play.
+OL,19,     GAll the puddles have frozen over,
+OL,20,     Gso the two must think of other
+OL,21,     Gways to entertain themselves.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
