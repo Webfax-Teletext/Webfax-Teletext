@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702292120
+OL,0,        ECIMSBWebfax     F698A1702295730
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702292120
+OL,0,        ECIMSBWebfax     F698A1702295730
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,27 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702292120
+OL,0,        ECIMSBWebfax     F698A1702295730
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 11 DEC
-OL,4,G1045FFrontline Fightback
-OL,5,     GA couple are confronted by three
-OL,6,     Gmasked men trying to steal the
-OL,7,     Gcatalytic converter from under
-OL,8,     Gthe car parked on their driveway.
-OL,9,G1115FHomes Under the Hammer
-OL,10,     GFeaturing properties in Dover,
-OL,11,     GBurnley and Warwickshire.
-OL,12,G1215FBargain Hunt: Toy Special
-OL,13,     GThe teams gallop around a huge
-OL,14,     Gtoy fair at Sandown Park
-OL,15,     GRacecourse in Surrey, with
-OL,16,     Gexperts Thomas Forrester and Tim
-OL,17,     GWeeks.
-OL,18,G1300FBBC News
-OL,19,G1330FRegional News
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GFeaturing properties in Dover,
+OL,6,     GBurnley and Warwickshire.
+OL,7,G1215FBargain Hunt: Toy Special
+OL,8,     GThe teams gallop around a huge
+OL,9,     Gtoy fair at Sandown Park
+OL,10,     GRacecourse in Surrey, with
+OL,11,     Gexperts Thomas Forrester and Tim
+OL,12,     GWeeks.
+OL,13,G1300FBBC News
+OL,14,G1330FRegional News
+OL,15,G1345FDoctors
+OL,16,     GZara accidentally spills the
+OL,17,     Gbeans to the Mill, Sid is
+OL,18,     Gconcerned about Tye's decisions,
+OL,19,     Gand Rob worries that an elderly
+OL,20,     Glady is being scammed by her
+OL,21,     Ggrandson.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -75,7 +77,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702292120
+OL,0,        ECIMSBWebfax     F698A1702295730
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -103,7 +105,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702292120
+OL,0,        ECIMSBWebfax     F698A1702295730
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -132,50 +134,47 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702292120
+OL,0,        ECIMSBWebfax     F698A1702295730
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 11 DEC
-OL,4,G1035FFrasier
-OL,5,     GFather of the Bride: Frasier and
-OL,6,     GMartin inadvertently offer to pay
-OL,7,     Gfor Daphne's wedding. Meanwhile,
-OL,8,     GFrasier's meddling drives Daphne
-OL,9,     Gcrazy.
-OL,10,G1105FChateau DIY at Christmas
-OL,11,     GBen and Billie embark on an
-OL,12,     Gambitious plan to convert their
-OL,13,     Gstable into a Christmas party
-OL,14,     Gvenue, and Anna and Edward have
-OL,15,     Gtheir work cut out felling trees
-OL,16,     Gfor festive firewood.
-OL,17,G1205FChannel 4 News Summary
-OL,18,     GChannel 4's midday news summary.
+OL,4,G1105FChateau DIY at Christmas
+OL,5,     GBen and Billie embark on an
+OL,6,     Gambitious plan to convert their
+OL,7,     Gstable into a Christmas party
+OL,8,     Gvenue, and Anna and Edward have
+OL,9,     Gtheir work cut out felling trees
+OL,10,     Gfor festive firewood.
+OL,11,G1205FChannel 4 News Summary
+OL,12,     GChannel 4's midday news summary.
+OL,13,G1210FAmazing Spaces: George's
+OL,14,     FIcelandic Adventure
+OL,15,     GGeorge Clarke and Will Hardie
+OL,16,     Gexplore Iceland's amazing
+OL,17,     Garchitecture, including a bauble-
+OL,18,     Ginspired treetop hotel room, wild
+OL,19,     Gcamping and geothermal baths.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702292120
+OL,0,        ECIMSBWebfax     F698A1702295730
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 11 DEC
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss the
-OL,6,     Glatest news and get your views
-OL,7,     Gand opinions of the day.
-OL,8,G1115FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories of
-OL,12,     Gthe day.
-OL,13,G1230FAlexis Conran
-OL,14,     GAlexis Conran hears from you,
-OL,15,     Gtalking about the important
-OL,16,     Gstories and getting your opinions
-OL,17,     Gand views on them.
-OL,18,G1325F5 News at Lunchtime
-OL,19,     GNational and international news.
+OL,4,G1115FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories of
+OL,8,     Gthe day.
+OL,9,G1230FAlexis Conran
+OL,10,     GAlexis Conran hears from you,
+OL,11,     Gtalking about the important
+OL,12,     Gstories and getting your opinions
+OL,13,     Gand views on them.
+OL,14,G1325F5 News at Lunchtime
+OL,15,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
