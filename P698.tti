@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702252428
+OL,0,        ECIMSBWebfax     F698A1702256038
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702252428
+OL,0,        ECIMSBWebfax     F698A1702256038
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,19 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702252428
+OL,0,        ECIMSBWebfax     F698A1702256038
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G2345FThe Women's Football Show
-OL,5,     GHighlights from the weekend's
-OL,6,     GBarclays Women's Super League
-OL,7,     Gmatches as Chelsea travel to
-OL,8,     GArsenal, Manchester City host
-OL,9,     GAston Villa and Tottenham welcome
-OL,10,     GManchester United.
-OL,11,G0035FLost at Christmas
-OL,12,     GTwo strangers become stranded in
-OL,13,     Gthe Scottish Highlands and decide
-OL,14,     Gto team up in order to get home
-OL,15,     Gfor Christmas. Contains language
-OL,16,     Gwhich some may find offensive.
-OL,17,G0210FWeather for the Week Ahead
-OL,18,G0215FBBC News
+OL,4,G0035FLost at Christmas
+OL,5,     GTwo strangers become stranded in
+OL,6,     Gthe Scottish Highlands and decide
+OL,7,     Gto team up in order to get home
+OL,8,     Gfor Christmas. Contains language
+OL,9,     Gwhich some may find offensive.
+OL,10,G0210FWeather for the Week Ahead
+OL,11,G0215FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,24 +67,25 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702252428
+OL,0,        ECIMSBWebfax     F698A1702256038
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G2335FThe Kemps: All True
-OL,5,     GSpoof documentary starring Gary
-OL,6,     Gand Martin Kemp, written by Rhys
-OL,7,     GThomas. Contains very strong
-OL,8,     Glanguage and some scenes of a
-OL,9,     Gsexual nature.
-OL,10,G0035FQuestion Time
-OL,11,     GFiona Bruce presents an hour of
-OL,12,     Gtopical debate from Petersfield
-OL,13,     Gin Hampshire. On the panel are
-OL,14,     GJohnny Mercer MP, Anneliese Dodds
-OL,15,     GMP, George Monbiot and Peter
-OL,16,     GHitchens.
+OL,4,G0035FQuestion Time
+OL,5,     GFiona Bruce presents an hour of
+OL,6,     Gtopical debate from Petersfield
+OL,7,     Gin Hampshire. On the panel are
+OL,8,     GJohnny Mercer MP, Anneliese Dodds
+OL,9,     GMP, George Monbiot and Peter
+OL,10,     GHitchens.
+OL,11,G0135FThe Newsreader
+OL,12,     GNews is approached by Geoff's
+OL,13,     Gdaughter Kay with the offer of an
+OL,14,     Gexclusive, but Helen is shocked
+OL,15,     Gat the depth of Kay's
+OL,16,     Gdesperation. Contains some strong
+OL,17,     Glanguage.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -99,72 +93,80 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702252428
+OL,0,        ECIMSBWebfax     F698A1702256038
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G2325FBradley and Barney Walsh:
-OL,5,     FBreaking Dad
-OL,6,     GBradley and Barney Walsh continue
-OL,7,     Gtheir European adventure in
-OL,8,     GGermany as they head to the city
-OL,9,     Gof Frankfurt and Brad is
-OL,10,     Gliterally pushed to the edge
-OL,11,     Gwhile abseiling.
-OL,12,G2355FEnglish Football League Highlights
-OL,13,     GAction from matches including
-OL,14,     GBlackburn Rovers v Leeds United,
-OL,15,     GSunderland v West Brom, Leicester
-OL,16,     GCity v Plymouth Argyle, and
-OL,17,     GMiddlesbrough v Ipswich Town.
-OL,18,G0115FShop on TV
-OL,19,     GTeleshopping.
+OL,4,G2355FEnglish Football League Highlights
+OL,5,     GAction from matches including
+OL,6,     GBlackburn Rovers v Leeds United,
+OL,7,     GSunderland v West Brom, Leicester
+OL,8,     GCity v Plymouth Argyle, and
+OL,9,     GMiddlesbrough v Ipswich Town.
+OL,10,G0115FShop on TV
+OL,11,     GTeleshopping.
+OL,12,G0300FMotorsport UK
+OL,13,     GRichard John Neil presents MSUK
+OL,14,     Gfrom Silverstone with racing from
+OL,15,     Gthe Mini Challenge and the
+OL,16,     GPorsche Carrera Cup.
+OL,17,G0350FUnwind With ITV
+OL,18,     GYour daily escape designed to
+OL,19,     Gcalm the mind and encourage
+OL,20,     Grelaxation and reflection.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702252428
+OL,0,        ECIMSBWebfax     F698A1702256038
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G2255FMade in Italy
-OL,5,     GComedy-drama with Liam Neeson. An
-OL,6,     Gestranged father and son team up
-OL,7,     Gto fix up and sell an old Tuscan
-OL,8,     Gvilla that their late wife and
-OL,9,     Gmother left to them. Some strong
-OL,10,     Glanguage.
-OL,11,G0040FRamsay's 24 Hours to Hell and Back
-OL,12,     GIn Greenville in Mississippi,
-OL,13,     GGordon has just 24 hours to give
-OL,14,     Gfamily-owned fine-dining
-OL,15,     Grestaurant Sherman's a bright,
-OL,16,     Gfarmhouse-chic interior and a
-OL,17,     Gmodernised menu.
+OL,4,G0040FRamsay's 24 Hours to Hell and Back
+OL,5,     GIn Greenville in Mississippi,
+OL,6,     GGordon has just 24 hours to give
+OL,7,     Gfamily-owned fine-dining
+OL,8,     Grestaurant Sherman's a bright,
+OL,9,     Gfarmhouse-chic interior and a
+OL,10,     Gmodernised menu.
+OL,11,G0130FThe Couple Next Door
+OL,12,     GThrilling drama about two
+OL,13,     Gintertwined couples. Pete
+OL,14,     Gstruggles to process what
+OL,15,     Ghappened on the spa weekend. Evie
+OL,16,     Gis determined to conceal her
+OL,17,     Gsecret. Danny is given an
+OL,18,     Gultimatum.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702252428
+OL,0,        ECIMSBWebfax     F698A1702256038
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 10 DEC
-OL,4,G2230FTV's 30 Most Controversial Moments
-OL,5,     GThis documentary charts the most
-OL,6,     Gcomplained-about programmes in
-OL,7,     GBritish TV history - as well as
-OL,8,     Grevealing a few other surprises
-OL,9,     Goutside the list.
-OL,10,G0030FShoplifters: Caught Red Handed
-OL,11,     GA heated argument between
-OL,12,     Gshoppers takes a dangerous turn,
-OL,13,     Gand the possibility of a weapon
-OL,14,     Gescalates the incident. Plus,
-OL,15,     Gchainsaw-wielding thieves target
-OL,16,     Ga convenience store.
+OL,4,G0030FShoplifters: Caught Red Handed
+OL,5,     GA heated argument between
+OL,6,     Gshoppers takes a dangerous turn,
+OL,7,     Gand the possibility of a weapon
+OL,8,     Gescalates the incident. Plus,
+OL,9,     Gchainsaw-wielding thieves target
+OL,10,     Ga convenience store.
+OL,11,G0125FPlayOJO Live Casino Show
+OL,12,     GRed or black? Odds or evens?
+OL,13,     GWhichever way you play, get that
+OL,14,     GOJO feeling with two hours of
+OL,15,     Gexciting live roulette every
+OL,16,     Gsingle night! Take us for a spin
+OL,17,     Gand feel the fun at playojo.com.
+OL,18,G0325FFriends
+OL,19,     GJoey is afraid to end his
+OL,20,     Grelationship with a diminutive
+OL,21,     Gwoman who punches him every time
+OL,22,     Gshe thinks something is funny.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
