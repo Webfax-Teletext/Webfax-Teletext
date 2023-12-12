@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702409789
+OL,0,        ECIMSBWebfax     F698A1702413398
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702409789
+OL,0,        ECIMSBWebfax     F698A1702413398
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,28 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702409789
+OL,0,        ECIMSBWebfax     F698A1702413398
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G1930FEastEnders
-OL,5,     GLinda prepares to face her first
-OL,6,     GChristmas without Mick, Keanu and
-OL,7,     GNish come to blows, and Sonia and
-OL,8,     GReiss take a positive step.
-OL,9,G2000FThe Great British Sewing Bee:...
-OL,10,     GCelebrity Christmas Special. With
-OL,11,     GJohannes Radebe, Natalie Cassidy,
-OL,12,     GRosie Ramsey and Penny Lancaster.
-OL,13,G2100FVigil
-OL,14,     GWhen a pilot is attacked, Amy is
-OL,15,     Gunder pressure to find the
-OL,16,     Gtraitor in the ranks. Contains
-OL,17,     Gsome strong language and some
-OL,18,     Gupsetting scenes.
-OL,19,G2200FBBC News and Weather
-OL,20,G2230FRegional News
+OL,4,G2000FThe Great British Sewing Bee:...
+OL,5,     GCelebrity Christmas Special. With
+OL,6,     GJohannes Radebe, Natalie Cassidy,
+OL,7,     GRosie Ramsey and Penny Lancaster.
+OL,8,G2100FVigil
+OL,9,     GWhen a pilot is attacked, Amy is
+OL,10,     Gunder pressure to find the
+OL,11,     Gtraitor in the ranks. Contains
+OL,12,     Gsome strong language and some
+OL,13,     Gupsetting scenes.
+OL,14,G2200FBBC News and Weather
+OL,15,G2230FRegional News
+OL,16,G2240FEastEnders: The Six - Revealed
+OL,17,     GJoe Swash explores the chaos of
+OL,18,     Gthe Christmas 2023 storyline on
+OL,19,     GEastEnders.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -76,27 +75,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702409789
+OL,0,        ECIMSBWebfax     F698A1702413398
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G1900FCelebrity Antiques Road Trip
-OL,5,     GActors and friends Michelle
-OL,6,     GHardwick and Amy Robbins face off
-OL,7,     Gin a red 1978 MG.
-OL,8,G2000FSecrets of the Aquarium
-OL,9,     GMarcus installs a shark cage for
-OL,10,     Gthe public to use, and a new
-OL,11,     Goctopus arrives.
-OL,12,G2100FLouis Theroux Interviews Ashley
-OL,13,     FWalters
-OL,14,     GLouis Theroux travels to the
-OL,15,     Gseaside town of Herne Bay to
-OL,16,     Gspend time with Top Boy star and
-OL,17,     Gex-So Solid Crew rapper Ashley
-OL,18,     GWalters. Contains some strong
-OL,19,     Glanguage.
+OL,4,G2000FSecrets of the Aquarium
+OL,5,     GMarcus installs a shark cage for
+OL,6,     Gthe public to use, and a new
+OL,7,     Goctopus arrives.
+OL,8,G2100FLouis Theroux Interviews Ashley
+OL,9,     FWalters
+OL,10,     GLouis Theroux travels to the
+OL,11,     Gseaside town of Herne Bay to
+OL,12,     Gspend time with Top Boy star and
+OL,13,     Gex-So Solid Crew rapper Ashley
+OL,14,     GWalters. Contains some strong
+OL,15,     Glanguage.
+OL,16,G2145FLive at the Apollo
+OL,17,     GThe inimitable Stephen Bailey
+OL,18,     Gwelcomes comedians Lara Ricote
+OL,19,     Gand Glenn Moore to the stage.
+OL,20,     GContains some strong language and
+OL,21,     Gadult humour.
+OL,22,G2230FNewsnight
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,80 +106,73 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702409789
+OL,0,        ECIMSBWebfax     F698A1702413398
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G1930FEmmerdale
-OL,5,     GMatty hides the truth about Chloe
-OL,6,     Gand Reuben from Mack, a heated
-OL,7,     Gargument erupts between Matty and
-OL,8,     GAmy, and Sam and Samson look
-OL,9,     Gforward to Christmas.
-OL,10,G2000FThe Martin Lewis Money Show Live
-OL,11,     GTune in for the last of Martin's
-OL,12,     G2023 shows as he finishes the
-OL,13,     Gyear off with his Christmas round-
-OL,14,     Gup, his informative Big Briefing,
-OL,15,     Gand his News You Can Use.
-OL,16,G2100FThe Real Full Monty: Jingle Balls
-OL,17,     GAshley Banjo, Coleen Nolan and
-OL,18,     Gtheir celebrities put cancer
-OL,19,     Gawareness in the spotlight with
-OL,20,     Gan all-singing and all-dancing
-OL,21,     Gspectacular at the New Wimbledon
-OL,22,     GTheatre.
+OL,4,G2000FThe Martin Lewis Money Show Live
+OL,5,     GTune in for the last of Martin's
+OL,6,     G2023 shows as he finishes the
+OL,7,     Gyear off with his Christmas round-
+OL,8,     Gup, his informative Big Briefing,
+OL,9,     Gand his News You Can Use.
+OL,10,G2100FThe Real Full Monty: Jingle Balls
+OL,11,     GAshley Banjo, Coleen Nolan and
+OL,12,     Gtheir celebrities put cancer
+OL,13,     Gawareness in the spotlight with
+OL,14,     Gan all-singing and all-dancing
+OL,15,     Gspectacular at the New Wimbledon
+OL,16,     GTheatre.
+OL,17,G2230FITV News
+OL,18,G2300FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702409789
+OL,0,        ECIMSBWebfax     F698A1702413398
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G1900FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G2000FThe Dog House at Christmas
-OL,8,     G'Tis the season to be
-OL,9,     Gmatchmaking. Jazz hopes Crackers,
-OL,10,     Ga Patterdale cross, will make a
-OL,11,     Gcuddly companion for her dad. And
-OL,12,     Gcan twins Noah and Toby learn to
-OL,13,     Gshare a puppy called Jeff?
-OL,14,G2100FLess for More: The Truth About
-OL,15,     FFood Prices
-OL,16,     GDispatches: As Christmas
-OL,17,     Gapproaches, Harry Wallop examines
-OL,18,     Gsoaring food prices, with budget
-OL,19,     Glines going up the most while
-OL,20,     Gsome big brands have increased
-OL,21,     Gtheir profits.
+OL,4,G2000FThe Dog House at Christmas
+OL,5,     G'Tis the season to be
+OL,6,     Gmatchmaking. Jazz hopes Crackers,
+OL,7,     Ga Patterdale cross, will make a
+OL,8,     Gcuddly companion for her dad. And
+OL,9,     Gcan twins Noah and Toby learn to
+OL,10,     Gshare a puppy called Jeff?
+OL,11,G2100FLess for More: The Truth About
+OL,12,     FFood Prices
+OL,13,     GDispatches: As Christmas
+OL,14,     Gapproaches, Harry Wallop examines
+OL,15,     Gsoaring food prices, with budget
+OL,16,     Glines going up the most while
+OL,17,     Gsome big brands have increased
+OL,18,     Gtheir profits.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702409789
+OL,0,        ECIMSBWebfax     F698A1702413398
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G1900FShoplifters: Caught Red Handed
-OL,5,     GIn Newton Abbot, a pensioner is
-OL,6,     Gshopping when a woman takes an
-OL,7,     Genvelope of money from her. In
-OL,8,     GCoventry, Mal spots a suspected
-OL,9,     Gdrug user who already has a
-OL,10,     Glifetime ban.
-OL,11,G2000FWinter on the Farm
-OL,12,     GRob and Dave Nicholson shop for a
-OL,13,     Gnew alpaca, JB Gill visits a
-OL,14,     Gwater vole conservation project
-OL,15,     Gin Devon, and chef Tim Bilton
-OL,16,     Ggoes head to head against a soup-
-OL,17,     Gmaking machine.
+OL,4,G2000FWinter on the Farm
+OL,5,     GRob and Dave Nicholson shop for a
+OL,6,     Gnew alpaca, JB Gill visits a
+OL,7,     Gwater vole conservation project
+OL,8,     Gin Devon, and chef Tim Bilton
+OL,9,     Ggoes head to head against a soup-
+OL,10,     Gmaking machine.
+OL,11,G2100FPortillo's Andalucia
+OL,12,     GMichael finishes his Andalucian
+OL,13,     Godyssey, taking us to two places
+OL,14,     Ghe knows best - the capital city
+OL,15,     Gof Sevilla, and Carmona where he
+OL,16,     Glives - taking in the Metropol
+OL,17,     GParasol and tapas.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
