@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702417007
+OL,0,        ECIMSBWebfax     F698A1702420613
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702417007
+OL,0,        ECIMSBWebfax     F698A1702420613
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,28 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702417007
+OL,0,        ECIMSBWebfax     F698A1702420613
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G2100FVigil
-OL,5,     GWhen a pilot is attacked, Amy is
-OL,6,     Gunder pressure to find the
-OL,7,     Gtraitor in the ranks. Contains
-OL,8,     Gsome strong language and some
-OL,9,     Gupsetting scenes.
-OL,10,G2200FBBC News and Weather
-OL,11,G2230FRegional News
-OL,12,G2240FEastEnders: The Six - Revealed
-OL,13,     GJoe Swash explores the chaos of
-OL,14,     Gthe Christmas 2023 storyline on
-OL,15,     GEastEnders.
-OL,16,G2310FHave I Got a Bit More News for You
-OL,17,     GNaga Munchetty is host, with
-OL,18,     Gguest panellists Richard Osman
-OL,19,     Gand Maisie Adam. Contains some
-OL,20,     Gstrong language.
+OL,4,G2230FRegional News
+OL,5,G2240FEastEnders: The Six - Revealed
+OL,6,     GJoe Swash explores the chaos of
+OL,7,     Gthe Christmas 2023 storyline on
+OL,8,     GEastEnders.
+OL,9,G2310FHave I Got a Bit More News for You
+OL,10,     GNaga Munchetty is host, with
+OL,11,     Gguest panellists Richard Osman
+OL,12,     Gand Maisie Adam. Contains some
+OL,13,     Gstrong language.
+OL,14,G2355FMan Up
+OL,15,     GRomantic comedy. A divorcee
+OL,16,     Gmistakes Nancy for his blind
+OL,17,     Gdate. Contains strong language.
+OL,18,G0120FGrime Kids
+OL,19,     GThe boys try to get Bishop out of
+OL,20,     Gtrouble and also get their music
+OL,21,     Gon pirate radio. Deals with adult
+OL,22,     Gthemes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -76,27 +78,24 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702417007
+OL,0,        ECIMSBWebfax     F698A1702420613
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G2100FLouis Theroux Interviews Ashley
-OL,5,     FWalters
-OL,6,     GLouis Theroux travels to the
-OL,7,     Gseaside town of Herne Bay to
-OL,8,     Gspend time with Top Boy star and
-OL,9,     Gex-So Solid Crew rapper Ashley
-OL,10,     GWalters. Contains some strong
-OL,11,     Glanguage.
-OL,12,G2145FLive at the Apollo
-OL,13,     GThe inimitable Stephen Bailey
-OL,14,     Gwelcomes comedians Lara Ricote
-OL,15,     Gand Glenn Moore to the stage.
-OL,16,     GContains some strong language and
-OL,17,     Gadult humour.
-OL,18,G2230FNewsnight
-OL,19,G2310FWeather
+OL,4,G2230FNewsnight
+OL,5,G2310FWeather
+OL,6,G2315FThe Last Bus
+OL,7,     GTom, an elderly widower, takes a
+OL,8,     Gdeeply nostalgic trip across the
+OL,9,     Glength of the UK. Contains some
+OL,10,     Gstrong language and some scenes
+OL,11,     Gof a sexual nature.
+OL,12,G0040FLiz Bonnin's Wild Caribbean
+OL,13,     GLiz discovers the unique
+OL,14,     Grelationships between people and
+OL,15,     Gnature across the Caribbean's
+OL,16,     GSouth American coastline.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,78 +103,77 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702417007
+OL,0,        ECIMSBWebfax     F698A1702420613
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G2100FThe Real Full Monty: Jingle Balls
-OL,5,     GAshley Banjo, Coleen Nolan and
-OL,6,     Gtheir celebrities put cancer
-OL,7,     Gawareness in the spotlight with
-OL,8,     Gan all-singing and all-dancing
-OL,9,     Gspectacular at the New Wimbledon
-OL,10,     GTheatre.
-OL,11,G2230FITV News
-OL,12,G2300FRegional News
-OL,13,G2315FVermeer - The Greatest Exhibition
-OL,14,     GThis documentary is an invite to
-OL,15,     Ga privileged view of the largest
-OL,16,     GVermeer exhibition ever
-OL,17,     Gaccompanied by the director of
-OL,18,     Gthe Rijksmuseum and the curators
-OL,19,     Gof the show.
-OL,20,G0055FShop on TV
-OL,21,     GTeleshopping.
+OL,4,G2230FITV News
+OL,5,G2300FRegional News
+OL,6,G2315FVermeer - The Greatest Exhibition
+OL,7,     GThis documentary is an invite to
+OL,8,     Ga privileged view of the largest
+OL,9,     GVermeer exhibition ever
+OL,10,     Gaccompanied by the director of
+OL,11,     Gthe Rijksmuseum and the curators
+OL,12,     Gof the show.
+OL,13,G0055FShop on TV
+OL,14,     GTeleshopping.
+OL,15,G0300FDeal or No Deal
+OL,16,     GStephen Mulhern hosts the
+OL,17,     Gexciting and iconic gameshow as
+OL,18,     Gone of his bold contestants takes
+OL,19,     Gon the infamous Banker for a
+OL,20,     Gchance to win a life-changing
+OL,21,     Gcash prize.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702417007
+OL,0,        ECIMSBWebfax     F698A1702420613
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G2100FLess for More: The Truth About
-OL,5,     FFood Prices
-OL,6,     GDispatches: As Christmas
-OL,7,     Gapproaches, Harry Wallop examines
-OL,8,     Gsoaring food prices, with budget
-OL,9,     Glines going up the most while
-OL,10,     Gsome big brands have increased
-OL,11,     Gtheir profits.
-OL,12,G2200FGogglebox 10 Year Anniversary
-OL,13,     FSpecial
-OL,14,     GGogglebox celebrates 10 years
-OL,15,     Gwatching TV with some stand-out
-OL,16,     Gmoments and favourite
-OL,17,     GGoggleboxers - from old faces
-OL,18,     GSteph and Dom to Mary and Giles
-OL,19,     Gand the Siddiquis.
+OL,4,G2200FGogglebox 10 Year Anniversary
+OL,5,     FSpecial
+OL,6,     GGogglebox celebrates 10 years
+OL,7,     Gwatching TV with some stand-out
+OL,8,     Gmoments and favourite
+OL,9,     GGoggleboxers - from old faces
+OL,10,     GSteph and Dom to Mary and Giles
+OL,11,     Gand the Siddiquis.
+OL,12,G2335FGogglebox
+OL,13,     GWhat do the Goggleboxers think of
+OL,14,     GSquid Game: The Challenge, The
+OL,15,     GCouple Next Door, Strictly Come
+OL,16,     GDancing, The Graham Norton Show,
+OL,17,     GPlanet Earth III and Jingle All
+OL,18,     Gthe Way?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702417007
+OL,0,        ECIMSBWebfax     F698A1702420613
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G2100FPortillo's Andalucia
-OL,5,     GMichael finishes his Andalucian
-OL,6,     Godyssey, taking us to two places
-OL,7,     Ghe knows best - the capital city
-OL,8,     Gof Sevilla, and Carmona where he
-OL,9,     Glives - taking in the Metropol
-OL,10,     GParasol and tapas.
-OL,11,G2200FReported Missing: What Happened
-OL,12,     Fto Lynda Spence
-OL,13,     GAfter financial adviser Lynda
-OL,14,     GSpence disappears, police uncover
-OL,15,     Ga woman with multiple identities
-OL,16,     Gand links to organised crime. But
-OL,17,     Ghow did she die, and who was
-OL,18,     Gresponsible?
+OL,4,G2200FReported Missing: What Happened
+OL,5,     Fto Lynda Spence
+OL,6,     GAfter financial adviser Lynda
+OL,7,     GSpence disappears, police uncover
+OL,8,     Ga woman with multiple identities
+OL,9,     Gand links to organised crime. But
+OL,10,     Ghow did she die, and who was
+OL,11,     Gresponsible?
+OL,12,G2335FCause of Death
+OL,13,     GCoroners investigate the death of
+OL,14,     Ga normally healthy 26-year-old
+OL,15,     Gman who dies following seizures,
+OL,16,     Gand unravel whether a vaccination
+OL,17,     Gcould have contributed to the
+OL,18,     Gdeath of a 50-year-old.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
