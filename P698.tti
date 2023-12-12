@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702359255
+OL,0,        ECIMSBWebfax     F698A1702362867
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702359255
+OL,0,        ECIMSBWebfax     F698A1702362867
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702359255
+OL,0,        ECIMSBWebfax     F698A1702362867
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 11 DEC
-OL,4,G0230FBBC News
+OL,3,CProgramme listings for TUE 12 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live at Christmas
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FFor Love or Money
+OL,12,     GMelo met a man on an investment
+OL,13,     Gforum, but she's worried she's
+OL,14,     Gbeing taken for a ride.
+OL,15,G1045FFrontline Fightback
+OL,16,     GDedicated police teams are issued
+OL,17,     Gwith heat-seeking gear as part of
+OL,18,     Ga night-time crackdown on a multi-
+OL,19,     Gmillion-pound rural crimewave.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +75,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702359255
+OL,0,        ECIMSBWebfax     F698A1702362867
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 11 DEC
-OL,4,G0335FThis is BBC Two
+OL,3,CProgramme listings for TUE 12 DEC
+OL,4,G0620FAntiques Road Trip
+OL,5,     GA new road trip with a couple of
+OL,6,     Gvery familiar experts, Catherine
+OL,7,     GSouthon and Phil Serrell, this
+OL,8,     Gtime motoring through the West
+OL,9,     GCountry in their red Morgan
+OL,10,     GRoadster.
+OL,11,G0705FMake It at Market
+OL,12,     GCan Emily and Momoka turn their
+OL,13,     Gpassions into profits and create
+OL,14,     Gtheir dream businesses?
+OL,15,G0750FPlanet Earth III
+OL,16,     GSir David Attenborough explores
+OL,17,     Gthe dangerous frontiers created
+OL,18,     Gby the world's coasts, where
+OL,19,     Ganimals fight for survival amidst
+OL,20,     Gconstant change.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,59 +104,72 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702359255
+OL,0,        ECIMSBWebfax     F698A1702362867
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 11 DEC
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GNewark 3: David Dickinson hosts
-OL,6,     Gfrom the Newark Showground as
-OL,7,     GHenry Nicholls pays more than he
-OL,8,     Gintends for a portrait painting
-OL,9,     Gand Simon Schneider misses out on
-OL,10,     Ga ring.
+OL,3,CProgramme listings for TUE 12 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a topical
+OL,9,     Gmix of entertainment, discussion
+OL,10,     Gand showbiz glamour as well as
+OL,11,     Gthe latest fashion, food and
+OL,12,     Gcelebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life stories,
+OL,17,     Gcompetitions and a mix of
+OL,18,     Gcookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702359255
+OL,0,        ECIMSBWebfax     F698A1702362867
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 11 DEC
-OL,4,G0520FChristmas at Chatsworth House
-OL,5,     GA joyful look at how the team at
-OL,6,     GChatsworth House bring together
-OL,7,     Gthe best installations of
-OL,8,     GChristmases past and battle
-OL,9,     Gagainst the odds to create an
-OL,10,     Genchanting Christmas.
+OL,3,CProgramme listings for TUE 12 DEC
+OL,4,G0615FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Bob Harris joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G0655F3rd Rock from the Sun
+OL,12,     GDick Puts the 'Id' in Cupid: When
+OL,13,     GDick discovers that Mary is
+OL,14,     Gseeing a therapist, he worries
+OL,15,     Gshe may be talking about him
+OL,16,     Gduring her sessions. Don gives
+OL,17,     GSally a Valentine's card.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702359255
+OL,0,        ECIMSBWebfax     F698A1702362867
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 11 DEC
-OL,4,G0530FEntertainment News on 5
-OL,5,     GA daily round-up of showbiz news
-OL,6,     Gand gossip from around the world,
-OL,7,     Gfocusing on celebrities, movies,
-OL,8,     Gmusic and entertainment.
-OL,9,G0540FPip and Posy
-OL,10,     GPip and Posy come to regret
-OL,11,     Gletting Zac join their band as he
-OL,12,     Gplays his drums too loudly, but
-OL,13,     Gthey come up with another way for
-OL,14,     Ghim to be included in their fun.
-OL,15,G0545FPaw Patrol
-OL,16,     GThe bouncy turkey from the
-OL,17,     GThanksgiving feast at City Hall
-OL,18,     Ghas flown away with Mayor
-OL,19,     GHumdinger and his kittens!
+OL,3,CProgramme listings for TUE 12 DEC
+OL,4,G0625FOggy Oggy
+OL,5,     GOn ShepherdCat's birthday, Oggy
+OL,6,     GOggy sees the Sheep packing up to
+OL,7,     Gleave. But ShepherdCat's party
+OL,8,     Gwill be a flop without them! He
+OL,9,     Gtries to bring them back,
+OL,10,     Gwhatever it takes...
+OL,11,G0635FOdo
+OL,12,     GOdo says he can go to the moon
+OL,13,     Gbut then lands in hot water after
+OL,14,     Geverything he and Doodle try
+OL,15,     Gcomes up short, until Odo's dad
+OL,16,     Gshows up to help.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
