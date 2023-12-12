@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702395354
+OL,0,        ECIMSBWebfax     F698A1702398963
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702395354
+OL,0,        ECIMSBWebfax     F698A1702398963
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702395354
+OL,0,        ECIMSBWebfax     F698A1702398963
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G1500FEscape to the Country
-OL,5,     GOn the lookout for a property
-OL,6,     Gwith potential for a holiday let
-OL,7,     Gbusiness, as well as a home,
-OL,8,     GJules Hudson shows off a
-OL,9,     Ggloriously sunny Cornwall to
-OL,10,     Gtoday's entrepreneurial couple.
-OL,11,G1545FAntiques Road Trip
-OL,12,     GTwo of our best-loved experts,
-OL,13,     GCatherine Southon and Phil
-OL,14,     GSerrell, are back on a treasure
-OL,15,     Ghunt. They tour Dorset, Wiltshire
-OL,16,     Gand Hampshire in a red Morgan
-OL,17,     GRoadster.
-OL,18,G1630FMake It at Market
-OL,19,     GCan leatherworker Dani and
-OL,20,     Gcalligraphy artist Masooma grow
-OL,21,     Gtheir creative businesses?
+OL,4,G1630FMake It at Market
+OL,5,     GCan leatherworker Dani and
+OL,6,     Gcalligraphy artist Masooma grow
+OL,7,     Gtheir creative businesses?
+OL,8,G1715FPointless
+OL,9,     GThe quiz in which contestants try
+OL,10,     Gto score as few points as
+OL,11,     Gpossible by plumbing the depths
+OL,12,     Gof their general knowledge to
+OL,13,     Gcome up with the answers no-one
+OL,14,     Gelse could think of.
+OL,15,G1800FBBC News
+OL,16,G1830FRegional News
+OL,17,G1900FThe One Show
+OL,18,     GLauren Laverne and Jermaine Jenas
+OL,19,     Gbring you the stories that matter
+OL,20,     Gfrom across the country.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,29 +76,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702395354
+OL,0,        ECIMSBWebfax     F698A1702398963
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G1500FWild Brazil
-OL,5,     GNature series. Three animal
-OL,6,     Gfamilies - capuchin monkeys,
-OL,7,     Ggiant otters and coatis - strive
-OL,8,     Gto raise their families in a
-OL,9,     Gspectacular yet dangerous
-OL,10,     Genvironment.
-OL,11,G1600FThe Real Marigold Hotel
-OL,12,     GThe group travel to India's
-OL,13,     Glargest golden temple to explore
-OL,14,     GHinduism before taking a night
-OL,15,     Gtrain to Madurai to experience
-OL,16,     Gthe sights and sounds of the
-OL,17,     GChithirai festival.
-OL,18,G1700FFlog It!
-OL,19,     GIn this episode, Flog It! comes
-OL,20,     Gfrom the Imperial War Museum at
-OL,21,     GDuxford in Cambridgeshire.
+OL,4,G1600FThe Real Marigold Hotel
+OL,5,     GThe group travel to India's
+OL,6,     Glargest golden temple to explore
+OL,7,     GHinduism before taking a night
+OL,8,     Gtrain to Madurai to experience
+OL,9,     Gthe sights and sounds of the
+OL,10,     GChithirai festival.
+OL,11,G1700FFlog It!
+OL,12,     GIn this episode, Flog It! comes
+OL,13,     Gfrom the Imperial War Museum at
+OL,14,     GDuxford in Cambridgeshire.
+OL,15,G1800FRichard Osman's Festive House of
+OL,16,     FGames
+OL,17,     GClare Balding, Ivo Graham, Ugo
+OL,18,     GMonye and Su Pollard test their
+OL,19,     Ggeneral knowledge skills for a
+OL,20,     Gspecial festive show in Richard
+OL,21,     GOsman's House of Games.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -107,56 +106,58 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702395354
+OL,0,        ECIMSBWebfax     F698A1702398963
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G1500FLingo
-OL,5,     GLeading the Lingo charge are soon-
-OL,6,     Gto-be-parents Holly and Rich,
-OL,7,     Gcompetitive mother and son Julie
-OL,8,     Gand Kelton, and Glaswegian couple
-OL,9,     GJohn and Cathy. Hosted by Adil
-OL,10,     GRay.
-OL,11,G1600FDeal or No Deal
-OL,12,     GStephen Mulhern hosts the
-OL,13,     Gexciting and iconic gameshow as
-OL,14,     Gone of his bold contestants takes
-OL,15,     Gon the infamous Banker for a
-OL,16,     Gchance to win a life-changing
-OL,17,     Gcash prize.
+OL,4,G1600FDeal or No Deal
+OL,5,     GStephen Mulhern hosts the
+OL,6,     Gexciting and iconic gameshow as
+OL,7,     Gone of his bold contestants takes
+OL,8,     Gon the infamous Banker for a
+OL,9,     Gchance to win a life-changing
+OL,10,     Gcash prize.
+OL,11,G1700FThe Chase
+OL,12,     GBradley Walsh and his criminally
+OL,13,     Gclever Chaser are back as
+OL,14,     Gcontestants Stephen from
+OL,15,     GCheltenham, Maurice from
+OL,16,     GManchester, Maryanne from Fife
+OL,17,     Gand Dawn from Chesterfield face
+OL,18,     Gthem.
+OL,19,G1800FRegional News
+OL,20,G1830FITV Evening News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702395354
+OL,0,        ECIMSBWebfax     F698A1702398963
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G1500FA Place in the Sun
-OL,5,     GDiane and David are relocating to
-OL,6,     GSpain and are looking for a new
-OL,7,     Ghome near their favourite town of
-OL,8,     GArboleas in Almeria. Can Danni
-OL,9,     GMenzies find their dream
-OL,10,     Gcharacter property for #150k?
-OL,11,G1600FA Place in the Sun
-OL,12,     GThe new run continues. Laura
-OL,13,     GHamilton helps mum and son Dawn
-OL,14,     Gand Charlie look for the perfect
-OL,15,     Gholiday home around the town of
-OL,16,     GTavira on Portugal's eastern
-OL,17,     GAlgarve, for their #180k.
+OL,4,G1600FA Place in the Sun
+OL,5,     GThe new run continues. Laura
+OL,6,     GHamilton helps mum and son Dawn
+OL,7,     Gand Charlie look for the perfect
+OL,8,     Gholiday home around the town of
+OL,9,     GTavira on Portugal's eastern
+OL,10,     GAlgarve, for their #180k.
+OL,11,G1700FKirstie's Handmade Christmas
+OL,12,     GFrom floristry to willow weaving,
+OL,13,     Gfestive HQ brings more creativity
+OL,14,     Gthan you can shake a snow globe
+OL,15,     Gat, as our Christmas crafters
+OL,16,     Gtake on Kirstie's handmade wreath
+OL,17,     Gcompetition.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@pD@Wrt
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702395354
+OL,0,        ECIMSBWebfax     F698A1702398963
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
