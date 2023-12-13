@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702445870
+OL,0,        ECIMSBWebfax     F698A1702449481
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702445870
+OL,0,        ECIMSBWebfax     F698A1702449481
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702445870
+OL,0,        ECIMSBWebfax     F698A1702449481
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G0220FBBC News
+OL,3,CProgramme listings for WED 13 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FMorning Live at Christmas
+OL,9,     GConversation, advice and great
+OL,10,     Gcompany to make your morning.
+OL,11,G1000FFor Love or Money
+OL,12,     GDianne has fallen hard for Larry,
+OL,13,     Gbut her family fear that she's
+OL,14,     Glosing her life savings.
+OL,15,G1045FFrontline Fightback
+OL,16,     GCrime scene investigators use the
+OL,17,     Glatest technology to create 3D
+OL,18,     Gcrime scenes. Will it help catch
+OL,19,     Gmore criminals like the burglars
+OL,20,     Gwho broke into a couple's new
+OL,21,     Ghome?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +77,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702445870
+OL,0,        ECIMSBWebfax     F698A1702449481
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G0345FThis is BBC Two
+OL,3,CProgramme listings for WED 13 DEC
+OL,4,G0630FAntiques Road Trip
+OL,5,     GTwo of our best-loved experts,
+OL,6,     GCatherine Southon and Phil
+OL,7,     GSerrell, are back on a treasure
+OL,8,     Ghunt. They tour Dorset, Wiltshire
+OL,9,     Gand Hampshire in a red Morgan
+OL,10,     GRoadster.
+OL,11,G0715FMake It at Market
+OL,12,     GCan leatherworker Dani and
+OL,13,     Gcalligraphy artist Masooma grow
+OL,14,     Gtheir creative businesses?
+OL,15,G0800FNadiya's Simple Spices
+OL,16,     GNadiya shares moreish
+OL,17,     Gmoneysavers, from crispy fried
+OL,18,     Gpakoras to a crowd-pleasing
+OL,19,     Gbiryani and a scrumptious
+OL,20,     Gcinnamon shortbread with a cheeky
+OL,21,     Gfragrant fudgy twist.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,58 +107,79 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702445870
+OL,0,        ECIMSBWebfax     F698A1702449481
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GWalsall 4: David Dickinson hosts
-OL,6,     Gfrom Walsall Football Club in the
-OL,7,     GWest Midlands as a fascinating
-OL,8,     Gfamily collection of 400 First
-OL,9,     GWorld War postcards turns up in
-OL,10,     Gthe Dealers' Den.
+OL,3,CProgramme listings for WED 13 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GStrictly's Amy Dowden joins
+OL,9,     GLorraine in the studio, and as he
+OL,10,     Gcelebrates more than four decades
+OL,11,     Gin showbusiness, Walking in the
+OL,12,     GAir star Aled Jones has an
+OL,13,     Gexclusive announcement.
+OL,14,G1000FThis Morning
+OL,15,     GMagazine show with news and
+OL,16,     Gtopical items, celebrity guests,
+OL,17,     Gexpert advice, real life stories,
+OL,18,     Gcompetitions and a mix of
+OL,19,     Gcookery, health, beauty,
+OL,20,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702445870
+OL,0,        ECIMSBWebfax     F698A1702449481
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G0520FFood Unwrapped's Christmas Cracker
-OL,5,     GThe gang unwrap festive facts.
-OL,6,     GWhat's the secret to perfect
-OL,7,     Gstollen? Why red cabbage at
-OL,8,     GChristmas? How long does an open
-OL,9,     Gbottle of port stay drinkable?
-OL,10,     GPlus: a pigs in blankets
-OL,11,     Galternative.
+OL,3,CProgramme listings for WED 13 DEC
+OL,4,G0615FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Marcus Brigstocke joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0655F3rd Rock from the Sun
+OL,12,     GThis Little Dick Went to Market:
+OL,13,     GDick and Tommy dabble in the
+OL,14,     Gstock market, but while Tommy
+OL,15,     Gwants to diversify, Dick insists
+OL,16,     Gthat they put all their money
+OL,17,     Ginto one company.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702445870
+OL,0,        ECIMSBWebfax     F698A1702449481
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 12 DEC
-OL,4,G0530FEntertainment News on 5
-OL,5,     GA daily round-up of showbiz news
-OL,6,     Gand gossip from around the world,
-OL,7,     Gfocusing on celebrities, movies,
-OL,8,     Gmusic and entertainment.
-OL,9,G0540FPip and Posy
-OL,10,     GPip and Posy play a fun dragon
-OL,11,     Ggame with their friends, but Posy
-OL,12,     Gloses her temper and accidentally
-OL,13,     Gbreaks Pip's costume.
-OL,14,G0545FPaw Patrol
-OL,15,     GA super-strong wind suddenly
-OL,16,     Gsweeps up all the surfers in the
-OL,17,     GAdventure Bay Windsurfing Race!
+OL,3,CProgramme listings for WED 13 DEC
+OL,4,G0635FOdo
+OL,5,     GOdo and Doodle learn about how
+OL,6,     Gthings grow after finding tiny
+OL,7,     Gcreatures in the pond which will
+OL,8,     Gone day grow up into much bigger
+OL,9,     Ganimals.
+OL,10,G0640FTweedy & Fluff
+OL,11,     GInspired by a photo of a dog
+OL,12,     Gbeing walked, Tweedy is eager to
+OL,13,     Gtry it out with Fluff! You can
+OL,14,     Gguess who gets taken for a walk.
+OL,15,     GPets don't always behave the way
+OL,16,     Gwe imagine they will...
+OL,17,G0645FFireman Sam
+OL,18,     GIce Cold in Pontypandy: Trevor
+OL,19,     Gloses control of the bus and ends
+OL,20,     Gup on a frozen lake. Elvis tries
+OL,21,     Gto hide Woolly and Lambikins from
+OL,22,     GStation Officer Steele.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
