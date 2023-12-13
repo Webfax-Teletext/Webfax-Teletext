@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702495146
+OL,0,        ECIMSBWebfax     F698A1702498752
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702495146
+OL,0,        ECIMSBWebfax     F698A1702498752
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,55 +47,57 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702495146
+OL,0,        ECIMSBWebfax     F698A1702498752
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 13 DEC
-OL,4,G1900FThe One Show
-OL,5,     GAlex Jones and Ronan Keating
-OL,6,     Gbring you the stories that matter
-OL,7,     Gfrom across the country.
-OL,8,G1930FEastEnders
-OL,9,     GSharon takes precautions, and
-OL,10,     GStacey is touched by a gesture.
-OL,11,G2000FThe Repair Shop at Christmas
-OL,12,     GThe team restore a very special
-OL,13,     Gmechanical doll, a traditional
-OL,14,     GGerman decoration, an ageing
-OL,15,     Gharmonium and a train set from
-OL,16,     GKenya.
+OL,4,G2000FThe Repair Shop at Christmas
+OL,5,     GThe team restore a very special
+OL,6,     Gmechanical doll, a traditional
+OL,7,     GGerman decoration, an ageing
+OL,8,     Gharmonium and a train set from
+OL,9,     GKenya.
+OL,10,G2100FMary Berry's Highland Christmas
+OL,11,     GDame Mary Berry travels to her
+OL,12,     Gmother's homeland of Scotland,
+OL,13,     Gwhere she's joined by friends
+OL,14,     GAndy Murray, Iain Stirling and
+OL,15,     GEmeli Sande to cook indulgent
+OL,16,     GChristmas dishes.
+OL,17,G2200FBBC News and Weather
+OL,18,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
+OL,26,@wD@Prr
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702495146
+OL,0,        ECIMSBWebfax     F698A1702498752
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 13 DEC
-OL,4,G1900FSaving Lives at Sea
-OL,5,     GThe volunteers of the RNLI race
-OL,6,     Gto save a surfer at the mercy of
-OL,7,     GStorm Brendan, and a
-OL,8,     Gpaddleboarder who's being swept
-OL,9,     Gout to sea - and away from his
-OL,10,     Gyoung children.
-OL,11,G1930FMOTD Live: Stockport County v
-OL,12,     FAldershot Town
-OL,13,     GCoverage of the FA Cup second
-OL,14,     Ground replay between Stockport
-OL,15,     GCounty and Aldershot Town.
-OL,16,G2200FInside No.9 Christmas Special
-OL,17,     GWhy would a history professor
-OL,18,     Gstay overnight in a haunted
-OL,19,     Gchurch on Christmas Eve? Contains
+OL,4,G1930FMOTD Live: Stockport County v
+OL,5,     FAldershot Town
+OL,6,     GCoverage of the FA Cup second
+OL,7,     Ground replay between Stockport
+OL,8,     GCounty and Aldershot Town.
+OL,9,G2200FInside No.9 Christmas Special
+OL,10,     GWhy would a history professor
+OL,11,     Gstay overnight in a haunted
+OL,12,     Gchurch on Christmas Eve? Contains
+OL,13,     Gsome strong language and some
+OL,14,     Gupsetting scenes.
+OL,15,G2230FNewsnight
+OL,16,G2315FMayfair Witches
+OL,17,     GA grieving Rowan discovers that
+OL,18,     GElena lied about trying to track
+OL,19,     Gdown her birth parents. Contains
 OL,20,     Gsome strong language and some
-OL,21,     Gupsetting scenes.
-OL,22,G2230FNewsnight
+OL,21,     Gscenes of a sexual nature.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -103,75 +105,72 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702495146
+OL,0,        ECIMSBWebfax     F698A1702498752
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 13 DEC
-OL,4,G1830FITV Evening News
-OL,5,G1930FEmmerdale
-OL,6,     GMack is frustrated over Amy's
-OL,7,     Gunwillingness to tell him where
-OL,8,     Ghis son is, Manpreet encourages
-OL,9,     GPollard to open up to his friend,
-OL,10,     Gand Vic talks to Aaron about her
-OL,11,     Gwith Jacob.
-OL,12,G2000FCoronation Street
-OL,13,     GThe weight of her betrayal forces
-OL,14,     GDaisy to confess all to Daniel,
-OL,15,     GStu offers Dom a cash incentive,
-OL,16,     GTerry demands his dog's return
-OL,17,     Gfrom Tyrone, and David unearths a
-OL,18,     Gfamily secret.
+OL,4,G2000FCoronation Street
+OL,5,     GThe weight of her betrayal forces
+OL,6,     GDaisy to confess all to Daniel,
+OL,7,     GStu offers Dom a cash incentive,
+OL,8,     GTerry demands his dog's return
+OL,9,     Gfrom Tyrone, and David unearths a
+OL,10,     Gfamily secret.
+OL,11,G2100FI'm A Celebrity... Get Me...
+OL,12,     GOut Of Here! Coming Out. An
+OL,13,     Gexclusive behind-the-scenes look
+OL,14,     Gas the celebrity class of 2023
+OL,15,     Gleave the jungle, return to VIP
+OL,16,     Gparadise, and celebrate their
+OL,17,     Gtime on the show.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702495146
+OL,0,        ECIMSBWebfax     F698A1702498752
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 13 DEC
-OL,4,G1900FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G2000FLocation, Location, Location
-OL,8,     GIn Manchester, Kirstie helps
-OL,9,     GRobyn and Alice find a classic
-OL,10,     G'Corrie' redbrick, while Phil's
-OL,11,     Gwith Steph and Christopher, who
-OL,12,     Gare hoping to close a deal before
-OL,13,     G'best and finals'.
-OL,14,G2100FThe Couple Next Door
-OL,15,     GThrilling drama about two
-OL,16,     Gintertwined couples. An ultimatum
-OL,17,     Gfrom Pete deepens Evie's
-OL,18,     Gobsession with Danny. Danny's
-OL,19,     Gplan is thwarted by Pete and
-OL,20,     GSophie's front-page scoop.
+OL,4,G2000FLocation, Location, Location
+OL,5,     GIn Manchester, Kirstie helps
+OL,6,     GRobyn and Alice find a classic
+OL,7,     G'Corrie' redbrick, while Phil's
+OL,8,     Gwith Steph and Christopher, who
+OL,9,     Gare hoping to close a deal before
+OL,10,     G'best and finals'.
+OL,11,G2100FThe Couple Next Door
+OL,12,     GThrilling drama about two
+OL,13,     Gintertwined couples. An ultimatum
+OL,14,     Gfrom Pete deepens Evie's
+OL,15,     Gobsession with Danny. Danny's
+OL,16,     Gplan is thwarted by Pete and
+OL,17,     GSophie's front-page scoop.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702495146
+OL,0,        ECIMSBWebfax     F698A1702498752
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 13 DEC
-OL,4,G1900FShoplifters: Caught Red Handed
-OL,5,     GAt West Orchards, Paige receives
-OL,6,     Gan SOS from a new store that a
-OL,7,     Gdastardly duo are back. And
-OL,8,     GFarrah is on the case of a pair
-OL,9,     Gwho work together to hit a small
-OL,10,     Gconvenience store.
-OL,11,G2000FWinter on the Farm
-OL,12,     GRob and Dave Nicholson scan their
-OL,13,     Gsheep to see if they are
-OL,14,     Gexpecting lambs for springtime.
-OL,15,     GJules Hudson discovers the mental
-OL,16,     Ghealth benefits of walking in the
-OL,17,     Gforest.
+OL,4,G2000FWinter on the Farm
+OL,5,     GRob and Dave Nicholson scan their
+OL,6,     Gsheep to see if they are
+OL,7,     Gexpecting lambs for springtime.
+OL,8,     GJules Hudson discovers the mental
+OL,9,     Ghealth benefits of walking in the
+OL,10,     Gforest.
+OL,11,G2100FCause of Death
+OL,12,     GMum of two Mandy Lewis was an
+OL,13,     Gactive 52-year-old who suddenly
+OL,14,     Gdied without apparent
+OL,15,     Gexplanation. Dr Adeley
+OL,16,     Ginvestigates whether an inherited
+OL,17,     Gcondition might have caused her
+OL,18,     Gdeath.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
