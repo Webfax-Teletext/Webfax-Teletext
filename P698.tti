@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702463915
+OL,0,        ECIMSBWebfax     F698A1702467523
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702463915
+OL,0,        ECIMSBWebfax     F698A1702467523
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702463915
+OL,0,        ECIMSBWebfax     F698A1702467523
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 13 DEC
-OL,4,G1000FFor Love or Money
-OL,5,     GDianne has fallen hard for Larry,
-OL,6,     Gbut her family fear that she's
-OL,7,     Glosing her life savings.
-OL,8,G1045FFrontline Fightback
-OL,9,     GCrime scene investigators use the
-OL,10,     Glatest technology to create 3D
-OL,11,     Gcrime scenes. Will it help catch
-OL,12,     Gmore criminals like the burglars
-OL,13,     Gwho broke into a couple's new
-OL,14,     Ghome?
-OL,15,G1115FHomes Under the Hammer
-OL,16,     GFeaturing short-lease flats in
-OL,17,     GLondon and Leicestershire, and a
-OL,18,     Gterrace in Larkfield in Kent.
-OL,19,G1215FBargain Hunt
-OL,20,     GCharlie Ross and the teams are at
-OL,21,     GArdingly Antiques Fair in West
-OL,22,     GSussex.
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GFeaturing short-lease flats in
+OL,6,     GLondon and Leicestershire, and a
+OL,7,     Gterrace in Larkfield in Kent.
+OL,8,G1215FBargain Hunt
+OL,9,     GCharlie Ross and the teams are at
+OL,10,     GArdingly Antiques Fair in West
+OL,11,     GSussex.
+OL,12,G1300FBBC News
+OL,13,G1330FRegional News
+OL,14,G1345FDoctors
+OL,15,     GNina's dealings with a patient
+OL,16,     Gbring up memories of her dead
+OL,17,     Ghusband.
+OL,18,G1415FThe Bidding Room
+OL,19,     GFive dealers bid for a 1980s
+OL,20,     GDanish table, a set of antique
+OL,21,     Gskittles and an electric pen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,28 +77,27 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702463915
+OL,0,        ECIMSBWebfax     F698A1702467523
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 13 DEC
-OL,4,G0900FBBC News
-OL,5,G1115FPolitics Live
-OL,6,     GThe big political issues of the
-OL,7,     Gday.
-OL,8,G1300FCelebrity Catchpoint
-OL,9,     GComedian Joel Dommett and his
-OL,10,     Gwife Hannah Cooper Dommett take
-OL,11,     Gon Radio 1 DJs Rickie Haywood
-OL,12,     GWilliams and Melvin Odoom, all
-OL,13,     Gtrying to win money for charity.
-OL,14,G1330FThe Boss
-OL,15,     GSusan Calman hosts the quiz show
-OL,16,     Gof tactics, knowledge and nerve.
-OL,17,     GContestants must work as a team,
-OL,18,     Gbut ultimately there can only be
-OL,19,     Gone Boss. Who will walk away with
-OL,20,     Gthe money?
+OL,4,G1115FPolitics Live
+OL,5,     GThe big political issues of the
+OL,6,     Gday.
+OL,7,G1300FCelebrity Catchpoint
+OL,8,     GComedian Joel Dommett and his
+OL,9,     Gwife Hannah Cooper Dommett take
+OL,10,     Gon Radio 1 DJs Rickie Haywood
+OL,11,     GWilliams and Melvin Odoom, all
+OL,12,     Gtrying to win money for charity.
+OL,13,G1330FThe Boss
+OL,14,     GSusan Calman hosts the quiz show
+OL,15,     Gof tactics, knowledge and nerve.
+OL,16,     GContestants must work as a team,
+OL,17,     Gbut ultimately there can only be
+OL,18,     Gone Boss. Who will walk away with
+OL,19,     Gthe money?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -107,7 +105,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702463915
+OL,0,        ECIMSBWebfax     F698A1702467523
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -131,52 +129,54 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702463915
+OL,0,        ECIMSBWebfax     F698A1702467523
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 13 DEC
-OL,4,G1035FFrasier
-OL,5,     GThe Late Doctor Crane: Frasier's
-OL,6,     Gname becomes confused with
-OL,7,     Ganother in casualty. The next
-OL,8,     Gday, his death is announced on
-OL,9,     Gtelevision and he reads his own
-OL,10,     Gobituary.
-OL,11,G1105FChateau DIY at Christmas
-OL,12,     GPaul and Julia have grand plans
-OL,13,     Gfor an even grander antique
-OL,14,     Gbilliard table. Trish aims to
-OL,15,     Gmake her Christmas more
-OL,16,     Gsustainable. Alison and Zion
-OL,17,     Gstart decorating the hunting
-OL,18,     Glodge.
-OL,19,G1205FChannel 4 News Summary
-OL,20,     GChannel 4's midday news summary.
+OL,4,G1105FChateau DIY at Christmas
+OL,5,     GPaul and Julia have grand plans
+OL,6,     Gfor an even grander antique
+OL,7,     Gbilliard table. Trish aims to
+OL,8,     Gmake her Christmas more
+OL,9,     Gsustainable. Alison and Zion
+OL,10,     Gstart decorating the hunting
+OL,11,     Glodge.
+OL,12,G1205FChannel 4 News Summary
+OL,13,     GChannel 4's midday news summary.
+OL,14,G1210FGeorge Clarke's Amazing Spaces:
+OL,15,     FWinter World Tour
+OL,16,     GGeorge Clarke and Will Hardie
+OL,17,     Gvisit Norway, Finland, the Alps
+OL,18,     Gand Canada to check out some
+OL,19,     Gamazing winter designs, from ice
+OL,20,     Ghotels to stunning modern homes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702463915
+OL,0,        ECIMSBWebfax     F698A1702467523
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 13 DEC
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss the
-OL,6,     Glatest news and get your views
-OL,7,     Gand opinions of the day.
-OL,8,G1115FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories of
-OL,12,     Gthe day.
-OL,13,G1230FAlexis Conran
-OL,14,     GAlexis Conran hears from you,
-OL,15,     Gtalking about the important
-OL,16,     Gstories and getting your opinions
-OL,17,     Gand views on them.
-OL,18,G1325F5 News at Lunchtime
-OL,19,     GNational and international news.
+OL,4,G1115FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories of
+OL,8,     Gthe day.
+OL,9,G1230FAlexis Conran
+OL,10,     GAlexis Conran hears from you,
+OL,11,     Gtalking about the important
+OL,12,     Gstories and getting your opinions
+OL,13,     Gand views on them.
+OL,14,G1325F5 News at Lunchtime
+OL,15,     GNational and international news.
+OL,16,G1330FMy First Christmas
+OL,17,     GA writer who was placed in foster
+OL,18,     Gcare at a young age is invited to
+OL,19,     Gspend the Christmas holiday in
+OL,20,     GNew Orleans with her biological
+OL,21,     Gfamily.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
