@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702675549
+OL,0,        ECIMSBWebfax     F698A1702679158
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702675549
+OL,0,        ECIMSBWebfax     F698A1702679158
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,24 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702675549
+OL,0,        ECIMSBWebfax     F698A1702679158
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G2100FHave I Got News for You
-OL,5,     GKirsty Young is host, with guest
-OL,6,     Gpanellists writer and director
-OL,7,     GArmando Iannucci and comedian
-OL,8,     GPhil Wang joining team captains
-OL,9,     GPaul Merton and Ian Hislop.
-OL,10,G2130FTwo Doors Down
-OL,11,     GChristine's no mug when it comes
-OL,12,     Gto a Father's Day visit to the
-OL,13,     Gcarvery. Contains some strong
-OL,14,     Glanguage.
-OL,15,G2200FBBC News and Weather
-OL,16,G2230FRegional News
+OL,4,G2200FBBC News and Weather
+OL,5,G2230FRegional News
+OL,6,G2240FThe Graham Norton Show
+OL,7,     GTogether on Graham's sofa are
+OL,8,     GImelda Staunton, Ncuti Gatwa,
+OL,9,     GJamie Dornan and Jack Lowden.
+OL,10,     GWith music from Gregory Porter,
+OL,11,     Gwho performs his song Christmas
+OL,12,     GWish.
+OL,13,G2330FPoint Break
+OL,14,     GAn undercover cop, pursuing a
+OL,15,     Ggang of bank robbers, is seduced
+OL,16,     Gby the LA surf scene. Contains
+OL,17,     Gvery strong language and some
+OL,18,     Gviolent scenes.
+OL,19,G0125FWeather for the Week Ahead
+OL,20,G0130FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -72,25 +76,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702675549
+OL,0,        ECIMSBWebfax     F698A1702679158
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G2100FInside the Christmas Factory
-OL,5,     GGregg visits the Woodmansterne
-OL,6,     Gcard factory in in Watford. It's
-OL,7,     Gone of the largest greeting card
-OL,8,     Gcompanies in the UK, a family
-OL,9,     Gbusiness sending out 35 million
-OL,10,     Gcards a year.
-OL,11,G2200FQI: Toys, Tinsel, and Turkeys
-OL,12,     GSandi Toksvig presents QI's T
-OL,13,     Gseries Christmas special with
-OL,14,     GAisling Bea, Chris McCausland,
-OL,15,     GGyles Brandreth and Alan Davies.
-OL,16,G2230FNewsnight
-OL,17,G2300FWeather
+OL,4,G2200FQI: Toys, Tinsel, and Turkeys
+OL,5,     GSandi Toksvig presents QI's T
+OL,6,     Gseries Christmas special with
+OL,7,     GAisling Bea, Chris McCausland,
+OL,8,     GGyles Brandreth and Alan Davies.
+OL,9,G2230FNewsnight
+OL,10,G2300FWeather
+OL,11,G2305FMud
+OL,12,     GTwo young lads join a spirited
+OL,13,     Gmystery man's quest to reunite
+OL,14,     Gwith his one true love, unaware
+OL,15,     Gof the forces and feelings that
+OL,16,     Gmust be faced.
+OL,17,G0110FThe Water Pollution Cover-Up -
+OL,18,     FPanorama
+OL,19,     GWhy do some of the worst
+OL,20,     Goffending water companies have
+OL,21,     Gsuch good environmental ratings?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -98,74 +106,72 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702675549
+OL,0,        ECIMSBWebfax     F698A1702679158
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G2100FBeat The Chasers - Celebrity
-OL,5,     FSpecial
-OL,6,     GBradley Walsh hosts as Russell
-OL,7,     GKane, Dr Zoe Williams, Kaye
-OL,8,     GAdams, Matt Allwright and Gyles
-OL,9,     GBrandreth take on the Chasers in
-OL,10,     Ga bid to win big for their chosen
-OL,11,     Gcharities.
-OL,12,G2200FITV News at Ten
-OL,13,     GITV News provides a fresh
-OL,14,     Gperspective on the major stories
-OL,15,     Gof the day with national and
-OL,16,     Ginternational news with reports
-OL,17,     Gand analysis from ITV's
-OL,18,     GCorrespondents.
-OL,19,G2230FRegional News
+OL,4,G2200FITV News at Ten
+OL,5,     GITV News provides a fresh
+OL,6,     Gperspective on the major stories
+OL,7,     Gof the day with national and
+OL,8,     Ginternational news with reports
+OL,9,     Gand analysis from ITV's
+OL,10,     GCorrespondents.
+OL,11,G2230FRegional News
+OL,12,G2245FThe NFL Show
+OL,13,     GHost Craig Doyle is joined by two-
+OL,14,     Gtime Super Bowl winner Osi
+OL,15,     GUmenyiora and former NFL star
+OL,16,     GJason Bell as we enter a crucial
+OL,17,     Gperiod in the race for a place at
+OL,18,     GSuper Bowl LVIII.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702675549
+OL,0,        ECIMSBWebfax     F698A1702679158
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G2100FCelebrity Gogglebox
-OL,5,     GA collection of the best bits as
-OL,6,     Gseveral famous faces enjoyed top
-OL,7,     GTV including Five Star Kitchen:
-OL,8,     GBritain's Next Great Chef, The 1%
-OL,9,     GClub, Hijack, Antiques Roadshow
-OL,10,     Gand The Yorkshire Vet.
-OL,11,G2200FLive: The Last Leg
-OL,12,     GAdam Hills, Josh Widdicombe and
-OL,13,     GAlex Brooker bluntly confront the
-OL,14,     Gweek's forefront news stories,
-OL,15,     Gfrom battlefronts to Jeremy Hunt,
-OL,16,     Gwith Joanna Lumley, Ahir Shah and
-OL,17,     GJames Blunt.
+OL,4,G2200FLive: The Last Leg
+OL,5,     GAdam Hills, Josh Widdicombe and
+OL,6,     GAlex Brooker bluntly confront the
+OL,7,     Gweek's forefront news stories,
+OL,8,     Gfrom battlefronts to Jeremy Hunt,
+OL,9,     Gwith Joanna Lumley, Ahir Shah and
+OL,10,     GJames Blunt.
+OL,11,G2305FBen Elton Live
+OL,12,     GAlmost 40 years on from exploding
+OL,13,     Gonto the stand-up comedy scene as
+OL,14,     Ghost of Saturday Live, Ben Elton
+OL,15,     Greturns to the medium he did so
+OL,16,     Gmuch to define. Recorded in
+OL,17,     GSouthend in 2022.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702675549
+OL,0,        ECIMSBWebfax     F698A1702679158
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G2100FChristmas in the Cotswolds
-OL,5,     GIn this special festive programme
-OL,6,     Gwe head to the Cotswolds, one of
-OL,7,     Gthe UK's most visited
-OL,8,     Gdestinations, for a magical
-OL,9,     GChristmas as we follow farmers
-OL,10,     Gand artisans, chefs and stately
-OL,11,     Ghome curators.
-OL,12,G2200FWhen 80s TV Goes Horribly Wrong
-OL,13,     GAnita Dobson narrates a look at
-OL,14,     Gsome '80s TV moments that many
-OL,15,     Gcelebrities would rather forget,
-OL,16,     Gfrom a stunt that went wrong for
-OL,17,     GPaul Daniels to Des O'Connor's
-OL,18,     Gdog bite on the nose.
+OL,4,G2200FWhen 80s TV Goes Horribly Wrong
+OL,5,     GAnita Dobson narrates a look at
+OL,6,     Gsome '80s TV moments that many
+OL,7,     Gcelebrities would rather forget,
+OL,8,     Gfrom a stunt that went wrong for
+OL,9,     GPaul Daniels to Des O'Connor's
+OL,10,     Gdog bite on the nose.
+OL,11,G0005FGreatest Hits of the 80s
+OL,12,     GA retrospective celebrating
+OL,13,     Gsingles from across the 80s.
+OL,14,     GGeorge Michael's Careless
+OL,15,     GWhisper, Ultravox's Vienna, and
+OL,16,     GSade's Smooth Operator are among
+OL,17,     Gthe revisited classics.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
