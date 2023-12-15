@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702643070
+OL,0,        ECIMSBWebfax     F698A1702646677
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702643070
+OL,0,        ECIMSBWebfax     F698A1702646677
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,24 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702643070
+OL,0,        ECIMSBWebfax     F698A1702646677
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G1215FBargain Hunt: Collectors Special
-OL,5,     GDanny Sebastian celebrates the
-OL,6,     Gworld of collectibles, from
-OL,7,     Gsilver and ceramics to glassware
-OL,8,     Gand mid-century toys, and learns
-OL,9,     Gabout some impressive record-
-OL,10,     Gbreaking collections.
-OL,11,G1300FBBC News
-OL,12,G1330FRegional News
-OL,13,G1345FFather Brown
-OL,14,     GBunty reunites with Father Brown
-OL,15,     Gto uncover a dark secret at the
-OL,16,     Glocal girls' borstal.
+OL,4,G1300FBBC News
+OL,5,G1330FRegional News
+OL,6,G1345FFather Brown
+OL,7,     GBunty reunites with Father Brown
+OL,8,     Gto uncover a dark secret at the
+OL,9,     Glocal girls' borstal.
+OL,10,G1430FThe Bidding Room
+OL,11,     GNigel Havers hosts as five
+OL,12,     Gdealers bid to buy items brought
+OL,13,     Gin by the public, including a set
+OL,14,     Gof medical posters, a 1950s toy
+OL,15,     Ghelicopter and a life-size
+OL,16,     Gceramic sheep.
+OL,17,G1515FEscape to the Country
+OL,18,     GAlistair Appleton helps an
+OL,19,     Gindustrious young couple from
+OL,20,     GHertfordshire who are eager to
+OL,21,     Gmake a rural move to Somerset.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -72,28 +77,24 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702643070
+OL,0,        ECIMSBWebfax     F698A1702646677
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G1215FPolitics UK
-OL,5,     GHelen Catt presents highlights of
-OL,6,     Gparliamentary proceedings from
-OL,7,     Gacross the UK.
-OL,8,G1300FCelebrity Catchpoint
-OL,9,     GSporting superstars Kadeena Cox
-OL,10,     Gand Perri Shakes-Drayton play
-OL,11,     Gagainst 80s pop icons Shirlie and
-OL,12,     GMartin Kemp - but who will take
-OL,13,     Ghome gold for charity?
-OL,14,G1330FThe Boss
-OL,15,     GSusan Calman hosts the quiz show
-OL,16,     Gof tactics, knowledge and nerve.
-OL,17,     GContestants must work as a team,
-OL,18,     Gbut ultimately there can only be
-OL,19,     Gone Boss. Who will walk away with
-OL,20,     Gthe money?
+OL,4,G1300FCelebrity Catchpoint
+OL,5,     GSporting superstars Kadeena Cox
+OL,6,     Gand Perri Shakes-Drayton play
+OL,7,     Gagainst 80s pop icons Shirlie and
+OL,8,     GMartin Kemp - but who will take
+OL,9,     Ghome gold for charity?
+OL,10,G1330FThe Boss
+OL,11,     GSusan Calman hosts the quiz show
+OL,12,     Gof tactics, knowledge and nerve.
+OL,13,     GContestants must work as a team,
+OL,14,     Gbut ultimately there can only be
+OL,15,     Gone Boss. Who will walk away with
+OL,16,     Gthe money?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -101,77 +102,72 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702643070
+OL,0,        ECIMSBWebfax     F698A1702646677
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G1000FThis Morning
-OL,5,     GMagazine show with news and
-OL,6,     Gtopical items, celebrity guests,
-OL,7,     Gexpert advice, real life stories,
-OL,8,     Gcompetitions and a mix of
-OL,9,     Gcookery, health, beauty,
-OL,10,     Glifestyle and more.
-OL,11,G1230FLoose Women
-OL,12,     GJoin the Loose Women panellists
-OL,13,     Gas they interview celebrity
-OL,14,     Gguests and discuss the day's most
-OL,15,     Gtopical issues, from current
-OL,16,     Gaffairs to celebrity gossip and
-OL,17,     Gthe latest showbiz news.
+OL,4,G1230FLoose Women
+OL,5,     GJoin the Loose Women panellists
+OL,6,     Gas they interview celebrity
+OL,7,     Gguests and discuss the day's most
+OL,8,     Gtopical issues, from current
+OL,9,     Gaffairs to celebrity gossip and
+OL,10,     Gthe latest showbiz news.
+OL,11,G1330FITV Lunchtime News
+OL,12,     GThe latest headlines from around
+OL,13,     Gthe world at lunchtime with
+OL,14,     Greports and analysis from ITV's
+OL,15,     GCorrespondents, all of which are
+OL,16,     Gfollowed by a national weather
+OL,17,     Gforecast.
+OL,18,G1355FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702643070
+OL,0,        ECIMSBWebfax     F698A1702646677
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G1210FAmazing Spaces Snow and Ice
-OL,5,     FSpecial
-OL,6,     GIn Norway, George Clarke and Will
-OL,7,     GHardie visit an ice hotel, an
-OL,8,     Gepic mountain home, a geodesic
-OL,9,     Gdome, a circular home in an old
-OL,10,     Goil silo, and a super-strong tree
-OL,11,     Ghouse.
-OL,12,G1310FJamie's Easy Christmas
-OL,13,     GJamie Oliver shows us how to make
-OL,14,     Gour Christmas dinner extra-
-OL,15,     Gspecial the easy way, with a
-OL,16,     Gsalmon gravadlax starter and some
-OL,17,     Ggnarly new ways to do the turkey,
-OL,18,     Groasties and Brussels.
+OL,4,G1310FJamie's Easy Christmas
+OL,5,     GJamie Oliver shows us how to make
+OL,6,     Gour Christmas dinner extra-
+OL,7,     Gspecial the easy way, with a
+OL,8,     Gsalmon gravadlax starter and some
+OL,9,     Ggnarly new ways to do the turkey,
+OL,10,     Groasties and Brussels.
+OL,11,G1410FCountdown
+OL,12,     GColin Murray and Rachel Riley
+OL,13,     Ghost as contestants race against
+OL,14,     Gthe clock to pit their wits
+OL,15,     Gagainst vowels, consonants and
+OL,16,     Gnumbers. Marcus Brigstocke joins
+OL,17,     GSusie Dent in Dictionary Corner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702643070
+OL,0,        ECIMSBWebfax     F698A1702646677
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G1115FStorm Huntley
-OL,5,     GStorm Huntley carries on the
-OL,6,     Gdiscussion and takes your calls
-OL,7,     Gto discuss the biggest stories of
-OL,8,     Gthe day.
-OL,9,G1230FAlexis Conran
-OL,10,     GAlexis Conran hears from you,
-OL,11,     Gtalking about the important
-OL,12,     Gstories and getting your opinions
-OL,13,     Gand views on them.
-OL,14,G1325F5 News at Lunchtime
-OL,15,     GNational and international news.
-OL,16,G1330FThe Night Before Christmas
-OL,17,     GA handsome pastor and a music
-OL,18,     Gteacher motivate an estranged
-OL,19,     Gmother and daughter to reconnect
-OL,20,     Gafter the pair take refuge inside
-OL,21,     Ga church during a snowstorm on
-OL,22,     GChristmas Eve.
+OL,4,G1230FAlexis Conran
+OL,5,     GAlexis Conran hears from you,
+OL,6,     Gtalking about the important
+OL,7,     Gstories and getting your opinions
+OL,8,     Gand views on them.
+OL,9,G1325F5 News at Lunchtime
+OL,10,     GNational and international news.
+OL,11,G1330FThe Night Before Christmas
+OL,12,     GA handsome pastor and a music
+OL,13,     Gteacher motivate an estranged
+OL,14,     Gmother and daughter to reconnect
+OL,15,     Gafter the pair take refuge inside
+OL,16,     Ga church during a snowstorm on
+OL,17,     GChristmas Eve.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
