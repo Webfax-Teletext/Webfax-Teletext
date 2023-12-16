@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702704410
+OL,0,        ECIMSBWebfax     F698A1702708017
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702704410
+OL,0,        ECIMSBWebfax     F698A1702708017
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702704410
+OL,0,        ECIMSBWebfax     F698A1702708017
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G0130FBBC News
+OL,3,CProgramme listings for SAT 16 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live:...
+OL,9,     GCountdown to Christmas. Matt
+OL,10,     GTebbutt is joined by Big Has,
+OL,11,     GGennaro Contaldo and Rob Brydon.
+OL,12,G1130FMary Makes It Easy
+OL,13,     GMary joins Michael Ball on stage
+OL,14,     Gin the West End to teach him some
+OL,15,     Gnew and exciting recipes - ideal
+OL,16,     Gfor a keen cook who wants to be a
+OL,17,     Glittle more adventurous.
+OL,18,G1200FFootball Focus
+OL,19,     GManchester City's key man Rodri
+OL,20,     Gtalks to Nedum Onuoha and there's
+OL,21,     Ga look at the Liverpool v
+OL,22,     GManchester Utd rivalry.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +78,27 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702704410
+OL,0,        ECIMSBWebfax     F698A1702708017
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G0425FThis is BBC Two
+OL,3,CProgramme listings for SAT 16 DEC
+OL,4,G0620FShaun the Sheep
+OL,5,     GA Prickly Problem. Animated
+OL,6,     GSeries. Timmy decides to help the
+OL,7,     Ghedgehogs find a resting place
+OL,8,     Gfor the night. However, his
+OL,9,     Gefforts lead his weary friends
+OL,10,     Ginto a series a scrapes.
+OL,11,G0630FShaun the Sheep
+OL,12,     GWanted. Animated Series. The farm
+OL,13,     Gis paid an unexpected visit by an
+OL,14,     Gescapee from the nearby prison
+OL,15,     Gwho takes refuge in the barn.
+OL,16,G0635FDennis & Gnasher Unleashed!
+OL,17,     GWOAH! So Quiet. Walter and Dennis
+OL,18,     Ggo head to head in a sponsored
+OL,19,     Gsilence.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,67 +106,77 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702704410
+OL,0,        ECIMSBWebfax     F698A1702708017
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GNewark 4: David Dickinson hosts
-OL,6,     Gfrom the Newark Showground as a
-OL,7,     Gprehistoric collection of fossils
-OL,8,     Gfound locally is described as
-OL,9,     Gsomeone's favourite-ever items.
+OL,3,CProgramme listings for SAT 16 DEC
+OL,4,G0600FCatchphrase
+OL,5,     GStephen Mulhern hosts the classic
+OL,6,     Ggame show as Bryoney, Gary and
+OL,7,     GSanaj compete to guess the
+OL,8,     Gfamiliar phrases hidden in
+OL,9,     Ganimated clues for a chance to
+OL,10,     Gwin up to 50,000 pounds.
+OL,11,G0640FLove Your Garden
+OL,12,     GAlan Titchmarsh is in South Wales
+OL,13,     Gtackling the most difficult plot
+OL,14,     Gthe team has ever faced for
+OL,15,     Gfather-of-three Chris Garlick who
+OL,16,     Ghas lost his hands and feet to
+OL,17,     Gsepsis.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702704410
+OL,0,        ECIMSBWebfax     F698A1702708017
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G0515FCome Dine with Me
-OL,5,     GHastings and Rye. Former pop star
-OL,6,     GDec plans some musical surprises
-OL,7,     Gand a simple seaside menu, on a
-OL,8,     Gnight that features 'talking'
-OL,9,     Golives, celebrity stories and a
-OL,10,     Gpeculiar pudding.
-OL,11,G0540FCome Dine with Me
-OL,12,     GHastings and Rye. Beauty
-OL,13,     Gtherapist Chiara goes back to her
-OL,14,     GItalian roots. But Dec compares
-OL,15,     Ghis host to a Page Three glamour
-OL,16,     Ggirl, and Gary gets in a fluster
-OL,17,     Gin a game with Emily.
+OL,3,CProgramme listings for SAT 16 DEC
+OL,4,G0610FThe Simpsons
+OL,5,     GSecrets of a Successful Marriage:
+OL,6,     GHomer teaches a class on how to
+OL,7,     Gmaintain a good marriage. But he
+OL,8,     Gdivulges a load of secrets about
+OL,9,     GMarge and ends up in the doghouse.
+OL,10,G0635FThe Simpsons
+OL,11,     GMilhouse of Sand and Fog: When
+OL,12,     GMilhouse's parents reunite,
+OL,13,     GMilhouse is annoyed because he
+OL,14,     Greceives less attention from
+OL,15,     Gthem. Will they stay together?
+OL,16,     GHomer catches chicken pox.
+OL,17,G0700FThe Simpsons
+OL,18,     GMarge's Son Poisoning: Bart gets
+OL,19,     Gpicked on at school for riding a
+OL,20,     Gtandem with Marge.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702704410
+OL,0,        ECIMSBWebfax     F698A1702708017
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 15 DEC
-OL,4,G0505FGreat Artists
-OL,5,     GTim Marlow looks at the work of
-OL,6,     Gsome of the Western world's most
-OL,7,     Gfamous artists. The Venetian
-OL,8,     GTiziano Vecellio pioneered the
-OL,9,     Guse of oils with a radical
-OL,10,     Gapproach.
-OL,11,G0530FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the world,
-OL,14,     Gfocusing on celebrities, movies,
-OL,15,     Gmusic and entertainment.
-OL,16,G0540FPip and Posy
-OL,17,     GPosy must figure out what to do
-OL,18,     Gwhen she accidentally forgets her
-OL,19,     Gpromise to play with Frankie in
-OL,20,     Gthe sandpit when she agrees to
-OL,21,     Gplay with Pip as well.
+OL,3,CProgramme listings for SAT 16 DEC
+OL,4,G0625FSesame Street Mecha Builders
+OL,5,     GIzzy and Timmy are making a bird
+OL,6,     Gcaller for Grandma, but have
+OL,7,     Gtrouble connecting pieces of
+OL,8,     Gtheir machine.
+OL,9,G0640FPirata and Capitano
+OL,10,     GCGI-animated adventures on the
+OL,11,     GGreat Sea. Pirata finds a piece
+OL,12,     Gof carved wood which looks like a
+OL,13,     Gfragment from a very old pirate
+OL,14,     Gship.
+OL,15,G0650FFireman Sam
+OL,16,     GSarah and James head off to a
+OL,17,     Gfrozen lake to skate. But half
+OL,18,     Gway through their routine cracks
+OL,19,     Gstart to appear and Sam has to
+OL,20,     Gcome to the rescue.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
