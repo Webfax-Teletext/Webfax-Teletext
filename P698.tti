@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702801835
+OL,0,        ECIMSBWebfax     F698A1702805443
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702801835
+OL,0,        ECIMSBWebfax     F698A1702805443
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702801835
+OL,0,        ECIMSBWebfax     F698A1702805443
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 17 DEC
-OL,4,G0740FMatch of the Day
-OL,5,     GAll the goals, drama and reaction
-OL,6,     Gfrom the day's five Premier
-OL,7,     GLeague fixtures as Manchester
-OL,8,     GCity take on Crystal Palace and
-OL,9,     GEverton visit Burnley.
-OL,10,G0900FSunday with Laura Kuenssberg
-OL,11,     GLaura Kuenssberg is joined by
-OL,12,     Gdeputy prime minister Oliver
-OL,13,     GDowden MP, shadow health
-OL,14,     Gsecretary Wes Streeting MP and
-OL,15,     Gactor Brian Cox.
-OL,16,G1000FRegional Political Programmes
-OL,17,G1030FMy Life at Christmas: Adrian...
-OL,18,     GChiles Meets Martin and Shirlie
-OL,19,     GKemp. Adrian Chiles meets Martin
-OL,20,     Gand Shirlie Kemp to discover what
-OL,21,     GChristmas means to them.
+OL,4,G0900FSunday with Laura Kuenssberg
+OL,5,     GLaura Kuenssberg is joined by
+OL,6,     Gdeputy prime minister Oliver
+OL,7,     GDowden MP, shadow health
+OL,8,     Gsecretary Wes Streeting MP and
+OL,9,     Gactor Brian Cox.
+OL,10,G1000FRegional Political Programmes
+OL,11,G1030FMy Life at Christmas: Adrian...
+OL,12,     GChiles Meets Martin and Shirlie
+OL,13,     GKemp. Adrian Chiles meets Martin
+OL,14,     Gand Shirlie Kemp to discover what
+OL,15,     GChristmas means to them.
+OL,16,G1130FHomes Under the Hammer
+OL,17,     GA three bedroom semi in West
+OL,18,     GBromwich, a flat in Stoneycroft
+OL,19,     Gin Liverpool and a Grade II
+OL,20,     Glisted building in Whitehaven in
+OL,21,     GCumbria are sold under the hammer.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,24 +77,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702801835
+OL,0,        ECIMSBWebfax     F698A1702805443
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 17 DEC
-OL,4,G0740FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0900FLandward
-OL,9,     GDougie celebrates the season at
-OL,10,     GCastle Fraser and looks back on
-OL,11,     Gthe highlights of 2023.
-OL,12,G0930FSaturday Kitchen Best Bites
-OL,13,     GMatt Tebbutt takes a look back at
-OL,14,     Gsome of his favourite recipes and
-OL,15,     Gbest moments from Saturday
-OL,16,     GKitchen.
+OL,4,G0930FSaturday Kitchen Best Bites
+OL,5,     GMatt Tebbutt takes a look back at
+OL,6,     Gsome of his favourite recipes and
+OL,7,     Gbest moments from Saturday
+OL,8,     GKitchen.
+OL,9,G1100FA Taste of Christmas with Andi
+OL,10,     FOliver
+OL,11,     GAndi meets three Glaswegian
+OL,12,     Gfamilies and joins in with their
+OL,13,     Gfestive feasts. She hopes to
+OL,14,     Glearn what the joyous meals mean
+OL,15,     Gto them and what they say about
+OL,16,     Gtheir city.
+OL,17,G1200FMOTD Live: Women's Super League
+OL,18,     GManchester United v Liverpool.
+OL,19,     GCoverage as Manchester United
+OL,20,     Gplay Liverpool in the Women's
+OL,21,     GSuper League.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -102,72 +107,74 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702801835
+OL,0,        ECIMSBWebfax     F698A1702805443
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 17 DEC
-OL,4,G0730FJames Martin's Saturday...
-OL,5,     GMorning at Christmas. James's
-OL,6,     Gcountdown to Christmas continues
-OL,7,     Gwith Sir Cliff Richard, comedian
-OL,8,     GJudi Love, baker Richard
-OL,9,     GBertinet, and chefs Lisa Goodwin-
-OL,10,     GAllen and Sat Bains.
-OL,11,G0925FITV News
-OL,12,G0930FLove Your Weekend with Alan
-OL,13,     FTitchmarsh
-OL,14,     GJoining Alan as we gear up for
-OL,15,     GChristmas 2023 are actress Jenny
-OL,16,     GAgutter, popular dancing queen
-OL,17,     GArlene Phillips, and some history-
-OL,18,     Gmaking rare breed Wetterhouns.
+OL,4,G0930FLove Your Weekend with Alan
+OL,5,     FTitchmarsh
+OL,6,     GJoining Alan as we gear up for
+OL,7,     GChristmas 2023 are actress Jenny
+OL,8,     GAgutter, popular dancing queen
+OL,9,     GArlene Phillips, and some history-
+OL,10,     Gmaking rare breed Wetterhouns.
+OL,11,G1125FJohn and Lisa's Christmas Kitchen
+OL,12,     GJohn and Lisa have some cost-
+OL,13,     Geffective ideas in their
+OL,14,     GChristmas Kitchen this time,
+OL,15,     Gincluding an alternative to
+OL,16,     Gturkey and the ultimate festive
+OL,17,     Gtoasted leftovers sandwich.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702801835
+OL,0,        ECIMSBWebfax     F698A1702805443
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 17 DEC
-OL,4,G0750FA Godwink Christmas: Second
-OL,5,     FChance, First Love
-OL,6,     GRomcom. At Christmas, single dad
-OL,7,     GPat moves back to his picture-
-OL,8,     Gpostcard home town, then keeps
-OL,9,     Gbumping into his school
-OL,10,     Gsweetheart. Is a rekindling on
-OL,11,     Gthe cards?
-OL,12,G0930FLive: Sunday Brunch
-OL,13,     GSlade legend Noddy Holder chats
-OL,14,     Gabout his music. Tom Davis tells
-OL,15,     Gus about the new Wonka film.
-OL,16,     GPlus: chat with Julia Bradbury
-OL,17,     Gand Vicki Pepperdine and live
-OL,18,     Gmusic from Romy.
+OL,4,G0930FLive: Sunday Brunch
+OL,5,     GSlade legend Noddy Holder chats
+OL,6,     Gabout his music. Tom Davis tells
+OL,7,     Gus about the new Wonka film.
+OL,8,     GPlus: chat with Julia Bradbury
+OL,9,     Gand Vicki Pepperdine and live
+OL,10,     Gmusic from Romy.
+OL,11,G1230FThe Snowman
+OL,12,     GRaymond Briggs' classic animated
+OL,13,     Gtale of a little boy's snowman
+OL,14,     Gwho comes to life and whisks him
+OL,15,     Goff to the North Pole for an
+OL,16,     Gadventure.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702801835
+OL,0,        ECIMSBWebfax     F698A1702805443
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 17 DEC
-OL,4,G0830FBen and Holly's Little Kingdom
-OL,5,     GVisiting the Marigolds: Impish
-OL,6,     Ganimation. Mishap follows mishap
-OL,7,     Gas everyone pays a visit to
-OL,8,     Gsnooty King and Queen Marigold's
-OL,9,     Gcastle.
-OL,10,G0845FPop Paper City
-OL,11,     GThe friends are riding around an
-OL,12,     Gamazing bicycle trail! But when
-OL,13,     GPhoebe worries that she might
-OL,14,     Gfall off her new bike, will she
-OL,15,     Gcomplete the trail with her
-OL,16,     Gfriends?
+OL,4,G0920FDora the Explorer
+OL,5,     GOne night, while taking care of
+OL,6,     GAbuela's three kitties, Dora
+OL,7,     Gawakens to find that Lucky has
+OL,8,     Gchased a ball of string into a
+OL,9,     Gstorybook world! Help her find
+OL,10,     Ghim on a magical adventure!
+OL,11,G0945FThe Smurfs
+OL,12,     GWhen Gargamel places a magic
+OL,13,     Garmoire in the forest, Vanity
+OL,14,     Gmust resist the temptation to
+OL,15,     Glook into its mirror.
+OL,16,G0955FSpongeBob Squarepants
+OL,17,     GPatrick tries desperately to
+OL,18,     Gsupply everyone in Bikini Bottom
+OL,19,     Gwith his highly demanded `rocks-
+OL,20,     Gwith-googly-eyes,' after an art
+OL,21,     Gcritic deems him a true artist.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
