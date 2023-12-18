@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702877632
+OL,0,        ECIMSBWebfax     F698A1702881242
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702877632
+OL,0,        ECIMSBWebfax     F698A1702881242
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702877632
+OL,0,        ECIMSBWebfax     F698A1702881242
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 17 DEC
-OL,4,G0235FBBC News
+OL,3,CProgramme listings for MON 18 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FAnimal Park Christmas Special
+OL,9,     GCan Hamza Yassin work out why the
+OL,10,     Ggorillas are grumpy at Christmas?
+OL,11,G1000FFor Love or Money
+OL,12,     GMichelle lost everything to a
+OL,13,     Ghandsome stranger called Michael.
+OL,14,     GShe now wants to know who he
+OL,15,     Greally is.
+OL,16,G1045FFrontline Fightback
+OL,17,     GA father leads a campaign against
+OL,18,     Gknife crime after his teenage son
+OL,19,     Gis stabbed to death. He's
+OL,20,     Gdetermined to tackle the root
+OL,21,     Gcauses and prevent the loss of
+OL,22,     Gmore young lives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +78,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702877632
+OL,0,        ECIMSBWebfax     F698A1702881242
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 17 DEC
-OL,4,G0345FThis is BBC Two
+OL,3,CProgramme listings for MON 18 DEC
+OL,4,G0630FAntiques Road Trip
+OL,5,     GCatherine Southon and Phil
+OL,6,     GSerrell breeze around Essex,
+OL,7,     Gpicking up curiosities in a
+OL,8,     GMercedes convertible. Catherine
+OL,9,     Genjoys a revenge prank on Phil.
+OL,10,G0715FMake It at Market
+OL,11,     GCan Harrison and Rachel fulfil
+OL,12,     Gtheir dreams of running
+OL,13,     Gsuccessful businesses?
+OL,14,G0800FMy Life at Christmas: Adrian...
+OL,15,     GChiles Meets Oti Mabuse. Adrian
+OL,16,     GChiles meets dancer Oti Mabuse to
+OL,17,     Gdiscover what Christmas means to
+OL,18,     Gher.
+OL,19,G0900FBBC News
+OL,20,G1215FPolitics Live
+OL,21,     GThe big political issues of the
+OL,22,     Gday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,65 +109,79 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702877632
+OL,0,        ECIMSBWebfax     F698A1702881242
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 17 DEC
-OL,4,G0505FAlan Carr's Epic Gameshow
-OL,5,     FChristmas Special
-OL,6,     GThe Price Is Right: Get ready to
-OL,7,     G'Come on down!' with a Christmas
-OL,8,     Gspecial of The Price Is Right as
-OL,9,     Gplucky contestants compete to
-OL,10,     Gtake on the Epic Showcase.
+OL,3,CProgramme listings for MON 18 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a topical
+OL,9,     Gmix of entertainment, discussion
+OL,10,     Gand showbiz glamour as well as
+OL,11,     Gthe latest fashion, food and
+OL,12,     Gcelebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life stories,
+OL,17,     Gcompetitions and a mix of
+OL,18,     Gcookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702877632
+OL,0,        ECIMSBWebfax     F698A1702881242
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 17 DEC
-OL,4,G0525FStrangers on a Plane
-OL,5,     GOn day four in Barcelona, Lubomba
-OL,6,     Gopts for some jet skiing fun, but
-OL,7,     Gnot everyone is keen to take the
-OL,8,     Gplunge. And some cuisine
-OL,9,     Gconfusion causes tension at
-OL,10,     Gdinner.
-OL,11,G0550FKirstie's Handmade Christmas
-OL,12,     GKirstie Allsopp lines up some of
-OL,13,     GBritain's best bakers, to find
-OL,14,     Gout who can make the best snow-
-OL,15,     Gtopped gingerbread house.
+OL,3,CProgramme listings for MON 18 DEC
+OL,4,G0625FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Marcus Brigstocke joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0705FThe King of Queens
+OL,12,     GWalk, Man: Doug and Carrie want
+OL,13,     Gto get pregnant, but can't get
+OL,14,     GArthur out from under their feet.
+OL,15,     GSo Doug hires an attractive dog
+OL,16,     Gwalker to take him out...
+OL,17,G0730FThe King of Queens
+OL,18,     GSight Gag: Carrie is upset when
+OL,19,     Gshe finds out that she needs
+OL,20,     Gglasses, so Doug buys her
+OL,21,     Gdiscount laser eye surgery.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702877632
+OL,0,        ECIMSBWebfax     F698A1702881242
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 17 DEC
-OL,4,G0505FGreat Artists
-OL,5,     GTim Marlow looks at the work of
-OL,6,     Gsome of the western world's most
-OL,7,     Gfamous artists. Featuring the
-OL,8,     GGreek artist adopted by Spain and
-OL,9,     Gdubbed 'El Greco'.
-OL,10,G0535FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the world,
-OL,13,     Gfocusing on celebrities, movies,
-OL,14,     Gmusic and entertainment.
-OL,15,G0540FPip and Posy
-OL,16,     GPip, Posy and their friends keep
-OL,17,     Gtelling lies to hide what they
-OL,18,     Gdid after they are tempted to
-OL,19,     Gsecretly eat Frankie's cupcakes
-OL,20,     Gat a Wizards Picnic with everyone.
+OL,3,CProgramme listings for MON 18 DEC
+OL,4,G0625FOggy Oggy
+OL,5,     GOggy Oggy worries about how Santa
+OL,6,     GPaws celebrates Christmas, and
+OL,7,     Gsets off to give him a gift.
+OL,8,G0635FOdo
+OL,9,     GThe Elite Jungle Adventure
+OL,10,     GChallenge is the most fun
+OL,11,     Gobstacle course in the forest,
+OL,12,     Gbut Odo will have to prove he's
+OL,13,     Gtall enough to play on it.
+OL,14,G0640FTweedy & Fluff
+OL,15,     GThere's a fly in the den! Fluff
+OL,16,     Gis in hot pursuit, and nothing
+OL,17,     Gwill stand in his way -
+OL,18,     Gfurniture, high shelves, or even
+OL,19,     Ga sleeping Tweedy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
