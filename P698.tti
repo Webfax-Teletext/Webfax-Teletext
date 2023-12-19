@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702964617
+OL,0,        ECIMSBWebfax     F698A1702968228
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702964617
+OL,0,        ECIMSBWebfax     F698A1702968228
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702964617
+OL,0,        ECIMSBWebfax     F698A1702968228
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 18 DEC
-OL,4,G0135FBBC News
+OL,3,CProgramme listings for TUE 19 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FAnimal Park Christmas Special
+OL,9,     GHamza Yassin investigates a
+OL,10,     Gfamily bust-up in the meerkat
+OL,11,     Genclosure, and Megan McCubbin
+OL,12,     Gfinds out what the animals make
+OL,13,     Gof our British Christmas
+OL,14,     Gtraditions.
+OL,15,G1000FFor Love or Money
+OL,16,     GRecently bereaved David has been
+OL,17,     Gtalking to Louisa on social
+OL,18,     Gmedia. It's early days - can she
+OL,19,     Gbe trusted?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +75,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702964617
+OL,0,        ECIMSBWebfax     F698A1702968228
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 18 DEC
-OL,4,G0400FThis is BBC Two
+OL,3,CProgramme listings for TUE 19 DEC
+OL,4,G0630FBargain Hunt: Collectors Special
+OL,5,     GDanny Sebastian celebrates the
+OL,6,     Gworld of collectibles, from
+OL,7,     Gsilver and ceramics to glassware
+OL,8,     Gand mid-century toys, and learns
+OL,9,     Gabout some impressive record-
+OL,10,     Gbreaking collections.
+OL,11,G0715FEscape to the Country
+OL,12,     GOn the lookout for a property
+OL,13,     Gwith potential for a holiday let
+OL,14,     Gbusiness, as well as a home,
+OL,15,     GJules Hudson shows off a
+OL,16,     Ggloriously sunny Cornwall to
+OL,17,     Gtoday's entrepreneurial couple.
+OL,18,G0800FPlanet Earth III
+OL,19,     GSir David Attenborough reveals
+OL,20,     Gextraordinary new animal
+OL,21,     Gbehaviours in the ocean.
+OL,22,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,55 +106,76 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702964617
+OL,0,        ECIMSBWebfax     F698A1702968228
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 18 DEC
-OL,4,G0505FJames Martin's French Adventure
-OL,5,     GVersailles: James arrives at the
-OL,6,     Gpalace of Versailles - as well as
-OL,7,     Gbeautiful grounds, it boasts an
-OL,8,     Gincredible market where James
-OL,9,     Gshops for ingredients for a dish
-OL,10,     Gof sole Veronique.
+OL,3,CProgramme listings for TUE 19 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a topical
+OL,9,     Gmix of entertainment, discussion
+OL,10,     Gand showbiz glamour as well as
+OL,11,     Gthe latest fashion, food and
+OL,12,     Gcelebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life stories,
+OL,17,     Gcompetitions and a mix of
+OL,18,     Gcookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702964617
+OL,0,        ECIMSBWebfax     F698A1702968228
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 18 DEC
-OL,4,G0540FKirstie's Handmade Christmas
-OL,5,     GKirstie Allsopp shares her
-OL,6,     Grecipes for a magnificent mulled
-OL,7,     Gwine and fondue.
+OL,3,CProgramme listings for TUE 19 DEC
+OL,4,G0625FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Marcus Brigstocke joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0705FThe King of Queens
+OL,12,     GFriender Bender: When Doug rams
+OL,13,     GKelly's car, he offers to pay for
+OL,14,     Gthe damage, but Kelly presents
+OL,15,     Ghim with an exorbitant bill.
+OL,16,     GMeanwhile, Kirby terrorises
+OL,17,     GSpence with peanuts.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702964617
+OL,0,        ECIMSBWebfax     F698A1702968228
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 18 DEC
-OL,4,G0540FPip and Posy
-OL,5,     GPosy persuades Pip to swap toys
-OL,6,     Gfor keeps in Swapsies, but soon
-OL,7,     Gregrets her decision. It turns
-OL,8,     Gout Pip's toy shark doesn't mean
-OL,9,     Gas much to her as her old fire
-OL,10,     Gengine.
-OL,11,G0545FPaw Patrol
-OL,12,     GSix brave puppies, captained by a
-OL,13,     Gtech-savvy ten-year-old boy,
-OL,14,     GRyder, work together to
-OL,15,     Gaccomplish high-stakes rescue
-OL,16,     Gmissions to safeguard the
-OL,17,     Gresidents of the Adventure Bay
-OL,18,     Gcommunity.
+OL,3,CProgramme listings for TUE 19 DEC
+OL,4,G0640FTweedy & Fluff
+OL,5,     GTweedy discovers the limits of
+OL,6,     Glittle Fluff's imagination when
+OL,7,     Ghe tries to pretend they're at
+OL,8,     Gsea on a boat. Fluff can only
+OL,9,     Gever be a Fluff, doing Fluff
+OL,10,     Gthings.
+OL,11,G0645FFireman Sam
+OL,12,     GSam has to abandon his search for
+OL,13,     Ga Christmas tree for the town to
+OL,14,     Grescue Gareth and the children
+OL,15,     Gfrom a snowstorm in the mountains.
+OL,16,G0655FThomas & Friends: All Engines Go
+OL,17,     GThomas finds a map to the special
+OL,18,     GCrystal Locomotive landmark in
+OL,19,     Gthe Crystal Caves and forms a Big
+OL,20,     GAdventure Club to go explore.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
