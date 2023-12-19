@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702975444
+OL,0,        ECIMSBWebfax     F698A1702979050
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702975444
+OL,0,        ECIMSBWebfax     F698A1702979050
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,27 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702975444
+OL,0,        ECIMSBWebfax     F698A1702979050
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0915FAnimal Park Christmas Special
-OL,9,     GHamza Yassin investigates a
-OL,10,     Gfamily bust-up in the meerkat
-OL,11,     Genclosure, and Megan McCubbin
-OL,12,     Gfinds out what the animals make
-OL,13,     Gof our British Christmas
-OL,14,     Gtraditions.
-OL,15,G1000FFor Love or Money
-OL,16,     GRecently bereaved David has been
-OL,17,     Gtalking to Louisa on social
-OL,18,     Gmedia. It's early days - can she
-OL,19,     Gbe trusted?
+OL,4,G0915FAnimal Park Christmas Special
+OL,5,     GHamza Yassin investigates a
+OL,6,     Gfamily bust-up in the meerkat
+OL,7,     Genclosure, and Megan McCubbin
+OL,8,     Gfinds out what the animals make
+OL,9,     Gof our British Christmas
+OL,10,     Gtraditions.
+OL,11,G1000FFor Love or Money
+OL,12,     GRecently bereaved David has been
+OL,13,     Gtalking to Louisa on social
+OL,14,     Gmedia. It's early days - can she
+OL,15,     Gbe trusted?
+OL,16,G1045FFrontline Fightback
+OL,17,     GA widow turns detective when her
+OL,18,     Ghusband's wedding ring is stolen
+OL,19,     G- but will she find the thief?
+OL,20,     GThis episode looks at how the
+OL,21,     Glatest fingerprint techniques
+OL,22,     Ghelp catch criminals.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -75,25 +78,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702975444
+OL,0,        ECIMSBWebfax     F698A1702979050
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0800FPlanet Earth III
-OL,5,     GSir David Attenborough reveals
-OL,6,     Gextraordinary new animal
-OL,7,     Gbehaviours in the ocean.
-OL,8,G0900FBBC News
-OL,9,G1215FPolitics Live
-OL,10,     GThe big political issues of the
-OL,11,     Gday.
-OL,12,G1300FThe African Queen
-OL,13,     GIn WWI, spinster Rose Sayer,
-OL,14,     Gpersuaded to escape her destroyed
-OL,15,     GMethodist mission by Canadian
-OL,16,     Gmechanic Charlie Allnut, comes up
-OL,17,     Gwith an unlikely plan for revenge.
+OL,4,G0900FBBC News
+OL,5,G1215FPolitics Live
+OL,6,     GThe big political issues of the
+OL,7,     Gday.
+OL,8,G1300FThe African Queen
+OL,9,     GIn WWI, spinster Rose Sayer,
+OL,10,     Gpersuaded to escape her destroyed
+OL,11,     GMethodist mission by Canadian
+OL,12,     Gmechanic Charlie Allnut, comes up
+OL,13,     Gwith an unlikely plan for revenge.
+OL,14,G1440FThe Railway Children
+OL,15,     GClassic period drama about three
+OL,16,     Gchildren whose lives change
+OL,17,     Gdramatically after they move from
+OL,18,     Ga comfortable townhouse to a
+OL,19,     Gsmall Yorkshire cottage near a
+OL,20,     Grailway line.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -101,81 +107,78 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702975444
+OL,0,        ECIMSBWebfax     F698A1702979050
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0600FGood Morning Britain
-OL,5,     GNews, current affairs and lively
-OL,6,     Gdebate.
-OL,7,G0900FLorraine
-OL,8,     GLorraine Kelly presents a topical
-OL,9,     Gmix of entertainment, discussion
-OL,10,     Gand showbiz glamour as well as
-OL,11,     Gthe latest fashion, food and
-OL,12,     Gcelebrity gossip.
-OL,13,G1000FThis Morning
-OL,14,     GMagazine show with news and
-OL,15,     Gtopical items, celebrity guests,
-OL,16,     Gexpert advice, real life stories,
-OL,17,     Gcompetitions and a mix of
-OL,18,     Gcookery, health, beauty,
-OL,19,     Glifestyle and more.
+OL,4,G0900FLorraine
+OL,5,     GLorraine Kelly presents a topical
+OL,6,     Gmix of entertainment, discussion
+OL,7,     Gand showbiz glamour as well as
+OL,8,     Gthe latest fashion, food and
+OL,9,     Gcelebrity gossip.
+OL,10,G1000FThis Morning
+OL,11,     GMagazine show with news and
+OL,12,     Gtopical items, celebrity guests,
+OL,13,     Gexpert advice, real life stories,
+OL,14,     Gcompetitions and a mix of
+OL,15,     Gcookery, health, beauty,
+OL,16,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702975444
+OL,0,        ECIMSBWebfax     F698A1702979050
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0820FThe Big Bang Theory
-OL,5,     GThe Change Constant: Sheldon and
-OL,6,     GAmy stay up late awaiting a phone
-OL,7,     Gcall that could bring big news
-OL,8,     Gfrom the Nobel Committee: are
-OL,9,     Gtheir lives about to change?
-OL,10,G0850FThe Big Bang Theory
-OL,11,     GThe Stockholm Syndrome: Howard
-OL,12,     Gand Bernadette go on a trip
-OL,13,     Gwithout their children, Leonard
-OL,14,     Gand Penny try to keep a secret,
-OL,15,     Gand Raj makes a new friend.
-OL,16,G0920FEverybody Loves Raymond
-OL,17,     GNot So Fast: Ray and Debra are
-OL,18,     Gshocked to discover that Frank
-OL,19,     Gand Marie are going to be thrown
-OL,20,     Gout of their apartment.
+OL,4,G0920FEverybody Loves Raymond
+OL,5,     GNot So Fast: Ray and Debra are
+OL,6,     Gshocked to discover that Frank
+OL,7,     Gand Marie are going to be thrown
+OL,8,     Gout of their apartment.
+OL,9,G0950FEverybody Loves Raymond
+OL,10,     GAngry Sex: Ray discovers that
+OL,11,     GDebra becomes more passionate
+OL,12,     Gwhen she argues with Marie, so he
+OL,13,     Gconcocts a series of lies in an
+OL,14,     Gattempt to boost his love life.
+OL,15,G1020FFrasier
+OL,16,     GWhine Club: Frasier's hopes of
+OL,17,     Gbeing elected corkmaster of the
+OL,18,     Gwine club are dashed when Niles's
+OL,19,     Ggirlfriend Mel convinces him to
+OL,20,     Grun against his brother.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1702975444
+OL,0,        ECIMSBWebfax     F698A1702979050
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0830FPAW Patrol
-OL,5,     GBig Hairy's little brother falls
-OL,6,     Ginto a hole and Tracker gets
-OL,7,     Gcarried away by Big Hairy.
-OL,8,G0845FChip and Potato
-OL,9,     GIt's Butterfly Day for the Happy
-OL,10,     GHoppers. The class caterpillar is
-OL,11,     Gabout to emerge from its
-OL,12,     Gchrysalis as a butterfly! Chip
-OL,13,     Gwants to be part of the fun, even
-OL,14,     Gwhen she starts to feel sick.
-OL,15,G0855FPeppa Pig
-OL,16,     GBaby Alexander: Baby Alexander is
-OL,17,     Gtoo young to talk, until Peppa
-OL,18,     Gteaches him his first word.
-OL,19,G0900FPeppa Pig
-OL,20,     GGrandpa Pig takes Peppa, George
-OL,21,     Gand Danny Dog to visit Grampy
-OL,22,     GRabbit's lighthouse.
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and Storm discuss the
+OL,6,     Glatest news and get your views
+OL,7,     Gand opinions of the day.
+OL,8,G1115FStorm Huntley
+OL,9,     GStorm Huntley carries on the
+OL,10,     Gdiscussion and takes your calls
+OL,11,     Gto discuss the biggest stories of
+OL,12,     Gthe day.
+OL,13,G1215FAlexis Conran
+OL,14,     GAlexis Conran hears from you,
+OL,15,     Gtalking about the important
+OL,16,     Gstories and getting your opinions
+OL,17,     Gand views on them.
+OL,18,G1315FEntertainment News on 5
+OL,19,     GA daily round-up of showbiz news
+OL,20,     Gand gossip from around the world,
+OL,21,     Gfocusing on celebrities, movies,
+OL,22,     Gmusic and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
