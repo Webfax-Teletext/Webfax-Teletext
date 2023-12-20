@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703044747
+OL,0,        ECIMSBWebfax     F698A1703048356
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703044747
+OL,0,        ECIMSBWebfax     F698A1703048356
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,12 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703044747
+OL,0,        ECIMSBWebfax     F698A1703048356
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0200FBBC News
+OL,4,G0210FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,18 +60,12 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703044747
+OL,0,        ECIMSBWebfax     F698A1703048356
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0325FVigil
-OL,5,     GAmy and Eliza are held hostage by
-OL,6,     Gthe dissidents at the heart of
-OL,7,     Gthe investigation. Contains some
-OL,8,     Gstrong language, some violence
-OL,9,     Gand some upsetting scenes.
-OL,10,G0425FThis is BBC Two
+OL,4,G0425FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -79,7 +73,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703044747
+OL,0,        ECIMSBWebfax     F698A1703048356
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -100,51 +94,50 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703044747
+OL,0,        ECIMSBWebfax     F698A1703048356
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0345FCouples Come Dine with Me
-OL,5,     GIn Dartford and Beckenham, Jamie
-OL,6,     Gand Carol take inspiration from
-OL,7,     Gtheir love of all things 'crazy'.
-OL,8,     GPaul and Justin serve an global
-OL,9,     Gmenu. And Richard and Julie
-OL,10,     Gappeal to a mature palate.
-OL,11,G0440FSainsbury's: Christmas Food
-OL,12,     FSecrets
-OL,13,     GA tasty look at how Sainsbury's
-OL,14,     Gcreate innovative festive
-OL,15,     Gdelicacies, from pigs in snowy
-OL,16,     Gblankets sushi and plant-based no
-OL,17,     Ggammon with maple glaze, to
-OL,18,     Gcranberry gin liqueur.
+OL,4,G0440FSainsbury's: Christmas Food
+OL,5,     FSecrets
+OL,6,     GA tasty look at how Sainsbury's
+OL,7,     Gcreate innovative festive
+OL,8,     Gdelicacies, from pigs in snowy
+OL,9,     Gblankets sushi and plant-based no
+OL,10,     Ggammon with maple glaze, to
+OL,11,     Gcranberry gin liqueur.
+OL,12,G0535FStrangers on a Plane
+OL,13,     GOn the last day in Barcelona,
+OL,14,     GStuart slides into action with a
+OL,15,     Gtrip to an inflatable water park.
+OL,16,     GIs it enough to bring balmy
+OL,17,     Gbliss, or will a frosty dinner
+OL,18,     Gput everyone off?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703044747
+OL,0,        ECIMSBWebfax     F698A1703048356
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0325FThe Toy Hospital
-OL,5,     GAnother three badly-damaged, much-
-OL,6,     Gloved childhood toys are brought
-OL,7,     Gback to life: '70s TV icon Humpty
-OL,8,     GDumpty, a '90s Subbuteo game and
-OL,9,     Gan '80s Cabbage Patch Doll.
-OL,10,G0415FFriends
-OL,11,     GIt's baby Emma's first birthday
-OL,12,     Gand Rachel makes everyone wait
-OL,13,     Guntil Emma wakes up before the
-OL,14,     Gparty can start.
-OL,15,G0440FFriends
-OL,16,     GMonica and Rachel hire an
-OL,17,     Gungainly stripper for Phoebe's
-OL,18,     Gbachelorette party. Joey appears
-OL,19,     Gas a celebrity game show
-OL,20,     Gcontestant.
+OL,4,G0440FFriends
+OL,5,     GMonica and Rachel hire an
+OL,6,     Gungainly stripper for Phoebe's
+OL,7,     Gbachelorette party. Joey appears
+OL,8,     Gas a celebrity game show
+OL,9,     Gcontestant.
+OL,10,G0505FFriends
+OL,11,     GRachel struggles with her
+OL,12,     Gfeelings for Joey. Meanwhile,
+OL,13,     GJoey has given the gang tickets
+OL,14,     Gto a play.
+OL,15,G0530FEntertainment News on 5
+OL,16,     GA daily round-up of showbiz news
+OL,17,     Gand gossip from around the world,
+OL,18,     Gfocusing on celebrities, movies,
+OL,19,     Gmusic and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
