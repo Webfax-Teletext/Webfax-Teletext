@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703051964
+OL,0,        ECIMSBWebfax     F698A1703055571
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703051964
+OL,0,        ECIMSBWebfax     F698A1703055571
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,25 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703051964
+OL,0,        ECIMSBWebfax     F698A1703055571
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0210FBBC News
+OL,3,CProgramme listings for WED 20 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FAnimal Park Christmas Special
+OL,9,     GMegan takes Reuben the reindeer
+OL,10,     Gfor a walk, 18 water voles are
+OL,11,     Greleased into the park, and has a
+OL,12,     Gsecond koala baby been born at
+OL,13,     Gthe park?
+OL,14,G1000FFor Love or Money
+OL,15,     GDebbie was willing to put Daniel
+OL,16,     Gahead of her family, but now she
+OL,17,     Gsuspects he's a con man.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +73,27 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703051964
+OL,0,        ECIMSBWebfax     F698A1703055571
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0425FThis is BBC Two
+OL,3,CProgramme listings for WED 20 DEC
+OL,4,G0635FBaking All the Way
+OL,5,     GAccomplished restaurateur and
+OL,6,     Gcookery book author Julie Wilson
+OL,7,     Gfinds herself in Wisconsin,
+OL,8,     Gattempting to wrangle a
+OL,9,     Ggingerbread recipe from baker
+OL,10,     GKris Thompson.
+OL,11,G0800FNadiya's Simple Spices
+OL,12,     GNadiya presents her best-loved
+OL,13,     Grecipes for get-togethers,
+OL,14,     Gincluding her marinated chicken.
+OL,15,G0830FMary Makes It Easy
+OL,16,     GMary surprises Lorraine Kelly and
+OL,17,     Gdaughter Rosie with some
+OL,18,     Gdelicious time-saving recipes.
+OL,19,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,51 +101,79 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703051964
+OL,0,        ECIMSBWebfax     F698A1703055571
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0505FTenable All Stars Christmas
-OL,5,     FSpecial
-OL,6,     GWarwick Davis presents a
-OL,7,     GChristmas-themed version of the
-OL,8,     Gquiz with Debbie McGee, Louie
-OL,9,     GSpence, Paul Elliott , Paul
-OL,10,     GZerdin and Rustie Lee.
+OL,3,CProgramme listings for WED 20 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GAhead the upcoming ITV drama Mr
+OL,9,     GBates vs the Post Office, we're
+OL,10,     Gjoined by one of its stars,
+OL,11,     GLesley Nicol.
+OL,12,G1000FThis Morning
+OL,13,     GMagazine show with news and
+OL,14,     Gtopical items, celebrity guests,
+OL,15,     Gexpert advice, real life stories,
+OL,16,     Gcompetitions and a mix of
+OL,17,     Gcookery, health, beauty,
+OL,18,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703051964
+OL,0,        ECIMSBWebfax     F698A1703055571
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0535FStrangers on a Plane
-OL,5,     GOn the last day in Barcelona,
-OL,6,     GStuart slides into action with a
-OL,7,     Gtrip to an inflatable water park.
-OL,8,     GIs it enough to bring balmy
-OL,9,     Gbliss, or will a frosty dinner
-OL,10,     Gput everyone off?
+OL,3,CProgramme listings for WED 20 DEC
+OL,4,G0625FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Christopher Biggins
+OL,10,     Gjoins Susie Dent in Dictionary
+OL,11,     GCorner.
+OL,12,G0705FThe King of Queens
+OL,13,     GLyin' Hearted: Carrie discovers a
+OL,14,     Gsecret about Arthur, and Doug
+OL,15,     Gregrets befriending a quirky
+OL,16,     Gstranger.
+OL,17,G0730FThe King of Queens
+OL,18,     GLife Sentence: Doug installs a
+OL,19,     Gcamera in Arthur's room and his
+OL,20,     Gfriends get addicted to Arthur TV.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703051964
+OL,0,        ECIMSBWebfax     F698A1703055571
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 19 DEC
-OL,4,G0545FPaw Patrol
-OL,5,     GSix brave puppies, captained by a
-OL,6,     Gtech-savvy ten-year-old boy,
-OL,7,     GRyder, work together to
-OL,8,     Gaccomplish high-stakes rescue
-OL,9,     Gmissions to safeguard the
-OL,10,     Gresidents of the Adventure Bay
-OL,11,     Gcommunity.
+OL,3,CProgramme listings for WED 20 DEC
+OL,4,G0645FFireman Sam
+OL,5,     GAfter festooning the supermarket
+OL,6,     Gwith Christmas lights, Norman
+OL,7,     Gpersuades Dilys to fix an
+OL,8,     Ginflatable Santa to the roof.
+OL,9,G0700FThomas & Friends: All Engines Go
+OL,10,     GThomas is nervous about taking a
+OL,11,     Gdelivery to the mine so Percy
+OL,12,     Ggives him his lucky bell to take
+OL,13,     Galong. However, Thomas is
+OL,14,     Gcareless with the bell and it
+OL,15,     Gfalls down the mine.
+OL,16,G0710FPeppa Pig
+OL,17,     GPeppa and George have fun in the
+OL,18,     Gsnow by making footprints,
+OL,19,     Gthrowing snowballs and putting a
+OL,20,     Ghat, scarf and gloves on a
+OL,21,     Gsnowman that they build.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
