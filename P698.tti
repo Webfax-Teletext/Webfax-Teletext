@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703088051
+OL,0,        ECIMSBWebfax     F698A1703091658
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703088051
+OL,0,        ECIMSBWebfax     F698A1703091658
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,26 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703088051
+OL,0,        ECIMSBWebfax     F698A1703091658
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1545FRicky & Ralf's Very Northern Road
-OL,5,     FTrip
-OL,6,     GThe pair explore the north east,
-OL,7,     Gvisiting the Angel of the North
-OL,8,     Gand a working coal mine.
-OL,9,G1630FCelebrity Bridge of Lies
-OL,10,     GRoss Kemp presents as celebrity
-OL,11,     Gdrag queens The Vivienne, Tia
-OL,12,     GKofi, Kitty Scott-Claus and
-OL,13,     GLawrence Chaney take on the
-OL,14,     GBridge of Lies for their chosen
-OL,15,     Gcharity.
-OL,16,G1715FPointless Celebrities
-OL,17,     GA special Eurovision edition of
-OL,18,     Gthe general knowledge quiz in
-OL,19,     Gwhich four teams try to come up
-OL,20,     Gwith the answers that no-one else
-OL,21,     Gcould think of.
-OL,22,G1800FBBC News
+OL,4,G1630FCelebrity Bridge of Lies
+OL,5,     GRoss Kemp presents as celebrity
+OL,6,     Gdrag queens The Vivienne, Tia
+OL,7,     GKofi, Kitty Scott-Claus and
+OL,8,     GLawrence Chaney take on the
+OL,9,     GBridge of Lies for their chosen
+OL,10,     Gcharity.
+OL,11,G1715FPointless Celebrities
+OL,12,     GA special Eurovision edition of
+OL,13,     Gthe general knowledge quiz in
+OL,14,     Gwhich four teams try to come up
+OL,15,     Gwith the answers that no-one else
+OL,16,     Gcould think of.
+OL,17,G1800FBBC News
+OL,18,G1830FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,30 +74,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703088051
+OL,0,        ECIMSBWebfax     F698A1703091658
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1440FMove Over, Darling
-OL,5,     GRomantic caper about a man with a
-OL,6,     Gnew wife who encounters much
-OL,7,     Gconfusion when his previous wife
-OL,8,     G- presumed dead after a plane
-OL,9,     Gcrash five years earlier -
-OL,10,     Greappears.
-OL,11,G1620FA Countryside Christmas
-OL,12,     GAnita Rani and Adam Henson show
-OL,13,     Ghow to make sloe gin, and Chris
-OL,14,     GPackham and Michaela Strachan
-OL,15,     Gembark on a winter adventure to
-OL,16,     Gsee the Northern Lights.
-OL,17,G1650FFlog It!
-OL,18,     GPaul Martin presents from
-OL,19,     GSouthwell, near Nottingham, where
-OL,20,     Gexperts Caroline Hawley and Mark
-OL,21,     GStacey find antiques and
-OL,22,     Gcollectables for auction.
+OL,4,G1650FFlog It!
+OL,5,     GPaul Martin presents from
+OL,6,     GSouthwell, near Nottingham, where
+OL,7,     Gexperts Caroline Hawley and Mark
+OL,8,     GStacey find antiques and
+OL,9,     Gcollectables for auction.
+OL,10,G1745FCelebrity Antiques Road Trip
+OL,11,     GThe friendship of reality TV's
+OL,12,     GChris Hughes and Jake Quickenden
+OL,13,     Gis put to the test as they
+OL,14,     Gexplore South Yorkshire's antique
+OL,15,     Gshops with Izzie and Irita.
+OL,16,G1845FPorridge
+OL,17,     GClassic sitcom. Fletcher plans to
+OL,18,     Gadd a bit of Christmas spirit to
+OL,19,     Gthe festive season at Slade
+OL,20,     GPrison in the form of his very
+OL,21,     Gown homemade liquor.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -109,79 +104,73 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703088051
+OL,0,        ECIMSBWebfax     F698A1703091658
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1600FTipping Point
-OL,5,     GBen Shephard hosts the quiz show
-OL,6,     Gin which four players take on an
-OL,7,     Gextraordinary machine in the hope
-OL,8,     Gof winning a cash jackpot.
-OL,9,G1700FThe Chase
-OL,10,     GFour contestants - Jim, Nuala,
-OL,11,     GSarah and Jack - battle against a
-OL,12,     GChaser in the hope of winning
-OL,13,     Gthousands of pounds. Bradley
-OL,14,     GWalsh is with them every step of
-OL,15,     Gthe way.
-OL,16,G1800FRegional News
-OL,17,G1830FITV Evening News
-OL,18,G1930FEmmerdale
-OL,19,     GWill is stunned by Kim's
-OL,20,     Gconfession and is left with a
-OL,21,     Gdecision to make, and Mary's
-OL,22,     Gconcern for Gus and Ivy grows.
+OL,4,G1700FThe Chase
+OL,5,     GFour contestants - Jim, Nuala,
+OL,6,     GSarah and Jack - battle against a
+OL,7,     GChaser in the hope of winning
+OL,8,     Gthousands of pounds. Bradley
+OL,9,     GWalsh is with them every step of
+OL,10,     Gthe way.
+OL,11,G1800FRegional News
+OL,12,G1830FITV Evening News
+OL,13,G1930FEmmerdale
+OL,14,     GWill is stunned by Kim's
+OL,15,     Gconfession and is left with a
+OL,16,     Gdecision to make, and Mary's
+OL,17,     Gconcern for Gus and Ivy grows.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703088051
+OL,0,        ECIMSBWebfax     F698A1703091658
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1600FA Place in the Sun
-OL,5,     GThe new run continues. Penny and
-OL,6,     GRussell want a holiday home near
-OL,7,     GSpain's seaside town of Mojacar
-OL,8,     Gwith a pool and a short drive to
-OL,9,     Gthe beach. Can Ben Hillman
-OL,10,     Gdeliver their dream for #125k?
-OL,11,G1700FChateau DIY at Christmas
-OL,12,     GThe new series continues. At
-OL,13,     GChateau des Vieilles Vignes, Nick
-OL,14,     Gand Nicole prepare for a big
-OL,15,     Gparty... with no floor! In the
-OL,16,     GDordogne, Tim plans an
-OL,17,     Gunforgettable treat for his son.
+OL,4,G1700FChateau DIY at Christmas
+OL,5,     GThe new series continues. At
+OL,6,     GChateau des Vieilles Vignes, Nick
+OL,7,     Gand Nicole prepare for a big
+OL,8,     Gparty... with no floor! In the
+OL,9,     GDordogne, Tim plans an
+OL,10,     Gunforgettable treat for his son.
+OL,11,G1800FFour in a Bed
+OL,12,     GOn day three, Rob hosts at his
+OL,13,     Gvineyard and glampsite in
+OL,14,     GNottinghamshire. What will his
+OL,15,     Gguests make of gravy wine and a
+OL,16,     Gchicken invasion at breakfast?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@oD@arpuD@Hsp
+OL,26,@nD@Hsp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703088051
+OL,0,        ECIMSBWebfax     F698A1703091658
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1525FCrazy About Christmas
+OL,4,G1630FCrazy About Christmas
 OL,5,     GA best-selling author hides her
 OL,6,     Glove for Christmas after an ugly
 OL,7,     Gbreakup, but could find love
 OL,8,     Gagain when she discovers a
 OL,9,     Gwebsite for people who are crazy
 OL,10,     Gabout Christmas.
-OL,11,G1625F5 News Update
-OL,12,     GNational and international news.
-OL,13,G1630FCrazy About Christmas
-OL,14,     GA best-selling author hides her
-OL,15,     Glove for Christmas after an ugly
-OL,16,     Gbreakup, but could find love
-OL,17,     Gagain when she discovers a
-OL,18,     Gwebsite for people who are crazy
-OL,19,     Gabout Christmas.
+OL,11,G1715FA Christmas Carol
+OL,12,     GDickens's classic tale starring
+OL,13,     GPatrick Stewart and Richard E
+OL,14,     GGrant. A tale of hope, compassion
+OL,15,     Gand the uplifting power of the
+OL,16,     Gspirit, with a mainly British all-
+OL,17,     Gstar cast.
+OL,18,G1855F5 News Update
+OL,19,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
