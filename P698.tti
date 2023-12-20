@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703066397
+OL,0,        ECIMSBWebfax     F698A1703070010
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703066397
+OL,0,        ECIMSBWebfax     F698A1703070010
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,27 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703066397
+OL,0,        ECIMSBWebfax     F698A1703070010
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G0915FAnimal Park Christmas Special
-OL,5,     GMegan takes Reuben the reindeer
-OL,6,     Gfor a walk, 18 water voles are
-OL,7,     Greleased into the park, and has a
-OL,8,     Gsecond koala baby been born at
-OL,9,     Gthe park?
-OL,10,G1000FFor Love or Money
-OL,11,     GDebbie was willing to put Daniel
-OL,12,     Gahead of her family, but now she
-OL,13,     Gsuspects he's a con man.
-OL,14,G1045FFrontline Fightback
-OL,15,     GA 73-year-old mechanic has his
-OL,16,     Gvan broken into, and a collection
-OL,17,     Gof tools built up over a lifetime
-OL,18,     Gare stolen. Can the community
-OL,19,     Ghelp him rebuild his business?
+OL,4,G1045FFrontline Fightback
+OL,5,     GA 73-year-old mechanic has his
+OL,6,     Gvan broken into, and a collection
+OL,7,     Gof tools built up over a lifetime
+OL,8,     Gare stolen. Can the community
+OL,9,     Ghelp him rebuild his business?
+OL,10,G1115FHomes Under the Hammer: Celebrity
+OL,11,     FSpecial
+OL,12,     GA special 20th anniversary
+OL,13,     Gepisode, featuring one of the
+OL,14,     Gshow's most iconic properties.
+OL,15,G1215FBargain Hunt: Christmas Special
+OL,16,     GCharlie Ross learns about a royal
+OL,17,     GChristmas gift sent to troops
+OL,18,     Gduring WWI. Charles Hanson and
+OL,19,     GDavid Harper guide the teams as
+OL,20,     Gthey shop at Wetherby Racecourse.
+OL,21,G1300FBBC News
+OL,22,G1330FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -75,7 +78,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703066397
+OL,0,        ECIMSBWebfax     F698A1703070010
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -105,63 +108,60 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703066397
+OL,0,        ECIMSBWebfax     F698A1703070010
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G0900FLorraine
-OL,5,     GAhead the upcoming ITV drama Mr
-OL,6,     GBates vs the Post Office, we're
-OL,7,     Gjoined by one of its stars,
-OL,8,     GLesley Nicol.
-OL,9,G1000FThis Morning
-OL,10,     GMagazine show with news and
-OL,11,     Gtopical items, celebrity guests,
-OL,12,     Gexpert advice, real life stories,
-OL,13,     Gcompetitions and a mix of
-OL,14,     Gcookery, health, beauty,
-OL,15,     Glifestyle and more.
-OL,16,G1230FLoose Women
-OL,17,     GIn an exclusive interview,
-OL,18,     GStrictly finalist Bobby Brazier
-OL,19,     Gand his dad join Christine,
-OL,20,     GColeen, Stacey and Sophie.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real life stories,
+OL,8,     Gcompetitions and a mix of
+OL,9,     Gcookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GIn an exclusive interview,
+OL,13,     GStrictly finalist Bobby Brazier
+OL,14,     Gand his dad join Christine,
+OL,15,     GColeen, Stacey and Sophie.
+OL,16,G1330FITV Lunchtime News
+OL,17,     GThe latest headlines from around
+OL,18,     Gthe world at lunchtime with
+OL,19,     Greports and analysis from ITV's
+OL,20,     GCorrespondents, all of which are
+OL,21,     Gfollowed by a national weather
+OL,22,     Gforecast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703066397
+OL,0,        ECIMSBWebfax     F698A1703070010
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G0950FEverybody Loves Raymond
-OL,5,     GThe Christmas Picture: Ray thinks
-OL,6,     Gthat a family portrait would make
-OL,7,     Ga great Christmas present for his
-OL,8,     Gparents, until Marie and Debra
-OL,9,     Gclash over who counts as 'family'.
-OL,10,G1020FFrasier
-OL,11,     GFrasier Grinch: Frasier is
-OL,12,     Gexcited that his son Frederick is
-OL,13,     Gcoming for Christmas, but Martin
-OL,14,     Gthinks a proper Christmas should
-OL,15,     Gmean more than just educational
-OL,16,     Gpresents.
-OL,17,G1050FFrasier
-OL,18,     GPerspectives on Christmas:
-OL,19,     GMartin, Daphne, Niles and Roz
-OL,20,     Geach describe the tedious holiday
-OL,21,     Gseason from their own differing
-OL,22,     Gperspectives.
+OL,4,G1050FFrasier
+OL,5,     GPerspectives on Christmas:
+OL,6,     GMartin, Daphne, Niles and Roz
+OL,7,     Geach describe the tedious holiday
+OL,8,     Gseason from their own differing
+OL,9,     Gperspectives.
+OL,10,G1120FChannel 4 News Summary
+OL,11,     GChannel 4's midday news summary.
+OL,12,G1125FChristmas in Love
+OL,13,     GChristmassy romcom. A big-city
+OL,14,     Gexec arrives to cut costs - and
+OL,15,     Gpeople - at a small-town bakery.
+OL,16,     GEllie, who works there, sets out
+OL,17,     Gto show him why he shouldn't.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703066397
+OL,0,        ECIMSBWebfax     F698A1703070010
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
