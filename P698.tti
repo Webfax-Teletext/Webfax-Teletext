@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703091658
+OL,0,        ECIMSBWebfax     F698A1703095264
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703091658
+OL,0,        ECIMSBWebfax     F698A1703095264
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,25 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703091658
+OL,0,        ECIMSBWebfax     F698A1703095264
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1630FCelebrity Bridge of Lies
-OL,5,     GRoss Kemp presents as celebrity
-OL,6,     Gdrag queens The Vivienne, Tia
-OL,7,     GKofi, Kitty Scott-Claus and
-OL,8,     GLawrence Chaney take on the
-OL,9,     GBridge of Lies for their chosen
-OL,10,     Gcharity.
-OL,11,G1715FPointless Celebrities
-OL,12,     GA special Eurovision edition of
-OL,13,     Gthe general knowledge quiz in
-OL,14,     Gwhich four teams try to come up
-OL,15,     Gwith the answers that no-one else
-OL,16,     Gcould think of.
-OL,17,G1800FBBC News
-OL,18,G1830FRegional News
+OL,4,G1800FBBC News
+OL,5,G1830FRegional News
+OL,6,G1900FCelebrity Mastermind
+OL,7,     GJane Hill, Mica Ven, Dr Amir Khan
+OL,8,     Gand Jamie MacDonald are in the
+OL,9,     Gblack chair tonight. Clive Myrie
+OL,10,     Gasks the questions in the
+OL,11,     Gcelebrity version of the classic
+OL,12,     Gquiz.
+OL,13,G1930FEastEnders
+OL,14,     GSuki puts a dangerous plan into
+OL,15,     Gaction, Kim offers some harsh but
+OL,16,     Ghonest advice, and Sharon and
+OL,17,     GKeanu celebrate a positive step.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,29 +73,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703091658
+OL,0,        ECIMSBWebfax     F698A1703095264
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1650FFlog It!
-OL,5,     GPaul Martin presents from
-OL,6,     GSouthwell, near Nottingham, where
-OL,7,     Gexperts Caroline Hawley and Mark
-OL,8,     GStacey find antiques and
-OL,9,     Gcollectables for auction.
-OL,10,G1745FCelebrity Antiques Road Trip
-OL,11,     GThe friendship of reality TV's
-OL,12,     GChris Hughes and Jake Quickenden
-OL,13,     Gis put to the test as they
-OL,14,     Gexplore South Yorkshire's antique
-OL,15,     Gshops with Izzie and Irita.
-OL,16,G1845FPorridge
-OL,17,     GClassic sitcom. Fletcher plans to
-OL,18,     Gadd a bit of Christmas spirit to
-OL,19,     Gthe festive season at Slade
-OL,20,     GPrison in the form of his very
-OL,21,     Gown homemade liquor.
+OL,4,G1745FCelebrity Antiques Road Trip
+OL,5,     GThe friendship of reality TV's
+OL,6,     GChris Hughes and Jake Quickenden
+OL,7,     Gis put to the test as they
+OL,8,     Gexplore South Yorkshire's antique
+OL,9,     Gshops with Izzie and Irita.
+OL,10,G1845FPorridge
+OL,11,     GClassic sitcom. Fletcher plans to
+OL,12,     Gadd a bit of Christmas spirit to
+OL,13,     Gthe festive season at Slade
+OL,14,     GPrison in the form of his very
+OL,15,     Gown homemade liquor.
+OL,16,G1930FRichard Osman's Festive House of
+OL,17,     FGames
+OL,18,     GRichie Anderson, Simon Gregson,
+OL,19,     GJessica Knappett and Debbie McGee
+OL,20,     Gface more questions.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -104,73 +102,75 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703091658
+OL,0,        ECIMSBWebfax     F698A1703095264
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1700FThe Chase
-OL,5,     GFour contestants - Jim, Nuala,
-OL,6,     GSarah and Jack - battle against a
-OL,7,     GChaser in the hope of winning
-OL,8,     Gthousands of pounds. Bradley
-OL,9,     GWalsh is with them every step of
-OL,10,     Gthe way.
-OL,11,G1800FRegional News
-OL,12,G1830FITV Evening News
-OL,13,G1930FEmmerdale
-OL,14,     GWill is stunned by Kim's
-OL,15,     Gconfession and is left with a
-OL,16,     Gdecision to make, and Mary's
-OL,17,     Gconcern for Gus and Ivy grows.
+OL,4,G1800FRegional News
+OL,5,G1830FITV Evening News
+OL,6,G1930FEmmerdale
+OL,7,     GWill is stunned by Kim's
+OL,8,     Gconfession and is left with a
+OL,9,     Gdecision to make, and Mary's
+OL,10,     Gconcern for Gus and Ivy grows.
+OL,11,G2000FCoronation Street
+OL,12,     GJenny asks Carla for a loan to
+OL,13,     Gbuy the Rovers, Audrey interviews
+OL,14,     GMaria and David for the post of
+OL,15,     Gsalon manager, and Peter
+OL,16,     Gnervously meets the mother of his
+OL,17,     Gliver donor.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703091658
+OL,0,        ECIMSBWebfax     F698A1703095264
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1700FChateau DIY at Christmas
-OL,5,     GThe new series continues. At
-OL,6,     GChateau des Vieilles Vignes, Nick
-OL,7,     Gand Nicole prepare for a big
-OL,8,     Gparty... with no floor! In the
-OL,9,     GDordogne, Tim plans an
-OL,10,     Gunforgettable treat for his son.
-OL,11,G1800FFour in a Bed
-OL,12,     GOn day three, Rob hosts at his
-OL,13,     Gvineyard and glampsite in
-OL,14,     GNottinghamshire. What will his
-OL,15,     Gguests make of gravy wine and a
-OL,16,     Gchicken invasion at breakfast?
+OL,4,G1800FFour in a Bed
+OL,5,     GOn day three, Rob hosts at his
+OL,6,     Gvineyard and glampsite in
+OL,7,     GNottinghamshire. What will his
+OL,8,     Gguests make of gravy wine and a
+OL,9,     Gchicken invasion at breakfast?
+OL,10,G1830FThe Simpsons
+OL,11,     GKill Gil, Volumes I & II: The
+OL,12,     GSimpsons are stuck with an
+OL,13,     Gunwanted house guest, Gil, at
+OL,14,     GChristmas. After putting up with
+OL,15,     Ghim for a year, Marge throws him
+OL,16,     Gout on Christmas Eve.
+OL,17,G1900FChannel 4 News
+OL,18,     GChannel 4's flagship news
+OL,19,     Gprogramme. Including the weather.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@nD@Hsp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703091658
+OL,0,        ECIMSBWebfax     F698A1703095264
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1630FCrazy About Christmas
-OL,5,     GA best-selling author hides her
-OL,6,     Glove for Christmas after an ugly
-OL,7,     Gbreakup, but could find love
-OL,8,     Gagain when she discovers a
-OL,9,     Gwebsite for people who are crazy
-OL,10,     Gabout Christmas.
-OL,11,G1715FA Christmas Carol
-OL,12,     GDickens's classic tale starring
-OL,13,     GPatrick Stewart and Richard E
-OL,14,     GGrant. A tale of hope, compassion
-OL,15,     Gand the uplifting power of the
-OL,16,     Gspirit, with a mainly British all-
-OL,17,     Gstar cast.
-OL,18,G1855F5 News Update
-OL,19,     GNational and international news.
+OL,4,G1715FA Christmas Carol
+OL,5,     GDickens's classic tale starring
+OL,6,     GPatrick Stewart and Richard E
+OL,7,     GGrant. A tale of hope, compassion
+OL,8,     Gand the uplifting power of the
+OL,9,     Gspirit, with a mainly British all-
+OL,10,     Gstar cast.
+OL,11,G1855F5 News Update
+OL,12,     GNational and international news.
+OL,13,G1900FWorld's Strongest Man 2023
+OL,14,     GAt Sheffield's Utilita Arena, a
+OL,15,     Gnew British champion is about to
+OL,16,     Gbe crowned. The contest comprises
+OL,17,     Gfive gruelling tests of strength
+OL,18,     Gincluding the Car Walk and the
+OL,19,     Gepic Power Stairs.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
