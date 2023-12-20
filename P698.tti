@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703080832
+OL,0,        ECIMSBWebfax     F698A1703084443
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703080832
+OL,0,        ECIMSBWebfax     F698A1703084443
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703080832
+OL,0,        ECIMSBWebfax     F698A1703084443
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1345FFather Brown: The Tree of Truth
-OL,5,     GPeriod drama series. Father Brown
-OL,6,     Gattempts to overturn a
-OL,7,     Gmiscarriage of justice while
-OL,8,     Grehearsing for the Kembleford
-OL,9,     GChristmas pantomime.
-OL,10,G1430FNigel Slater's Christmas Suppers
-OL,11,     GNigel Slater transforms Christmas
-OL,12,     Gleftovers into meals which make
-OL,13,     Gthe prospect of festive
-OL,14,     Gentertaining a treat rather than
-OL,15,     Ga terror, ensuring that nothing
-OL,16,     Ggoes to waste.
-OL,17,G1500FCelebrity Escape to the Country
-OL,18,     GJules Hudson helps Jenny 'The
-OL,19,     GVixen' Ryan and her partner Thom
-OL,20,     Gfind a new countryside home in
-OL,21,     Grural Lancashire, worthy of the
-OL,22,     GUK's 'queen of the quiz'.
+OL,4,G1500FCelebrity Escape to the Country
+OL,5,     GJules Hudson helps Jenny 'The
+OL,6,     GVixen' Ryan and her partner Thom
+OL,7,     Gfind a new countryside home in
+OL,8,     Grural Lancashire, worthy of the
+OL,9,     GUK's 'queen of the quiz'.
+OL,10,G1545FRicky & Ralf's Very Northern Road
+OL,11,     FTrip
+OL,12,     GThe pair explore the north east,
+OL,13,     Gvisiting the Angel of the North
+OL,14,     Gand a working coal mine.
+OL,15,G1630FCelebrity Bridge of Lies
+OL,16,     GRoss Kemp presents as celebrity
+OL,17,     Gdrag queens The Vivienne, Tia
+OL,18,     GKofi, Kitty Scott-Claus and
+OL,19,     GLawrence Chaney take on the
+OL,20,     GBridge of Lies for their chosen
+OL,21,     Gcharity.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,28 +77,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703080832
+OL,0,        ECIMSBWebfax     F698A1703084443
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1300FPillow Talk
-OL,5,     GJan Morrow meets a handsome
-OL,6,     GTexan, not realising he's the
-OL,7,     Gsame person as philanderer Brad.
-OL,8,G1440FMove Over, Darling
-OL,9,     GRomantic caper about a man with a
-OL,10,     Gnew wife who encounters much
-OL,11,     Gconfusion when his previous wife
-OL,12,     G- presumed dead after a plane
-OL,13,     Gcrash five years earlier -
-OL,14,     Greappears.
-OL,15,G1620FA Countryside Christmas
-OL,16,     GAnita Rani and Adam Henson show
-OL,17,     Ghow to make sloe gin, and Chris
-OL,18,     GPackham and Michaela Strachan
-OL,19,     Gembark on a winter adventure to
-OL,20,     Gsee the Northern Lights.
+OL,4,G1440FMove Over, Darling
+OL,5,     GRomantic caper about a man with a
+OL,6,     Gnew wife who encounters much
+OL,7,     Gconfusion when his previous wife
+OL,8,     G- presumed dead after a plane
+OL,9,     Gcrash five years earlier -
+OL,10,     Greappears.
+OL,11,G1620FA Countryside Christmas
+OL,12,     GAnita Rani and Adam Henson show
+OL,13,     Ghow to make sloe gin, and Chris
+OL,14,     GPackham and Michaela Strachan
+OL,15,     Gembark on a winter adventure to
+OL,16,     Gsee the Northern Lights.
+OL,17,G1650FFlog It!
+OL,18,     GPaul Martin presents from
+OL,19,     GSouthwell, near Nottingham, where
+OL,20,     Gexperts Caroline Hawley and Mark
+OL,21,     GStacey find antiques and
+OL,22,     Gcollectables for auction.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -107,82 +108,78 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703080832
+OL,0,        ECIMSBWebfax     F698A1703084443
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1400FSimply Raymond Blanc
-OL,5,     GMaman Blanc: Raymond pays
-OL,6,     Gculinary homage to his Maman
-OL,7,     GBlanc by sharing nostalgic dishes
-OL,8,     Gfrom his childhood that include
-OL,9,     Gvegetable soup three ways and a
-OL,10,     Gspecial assiette of salads.
-OL,11,G1500FLingo
-OL,12,     GQuiz show hosted by Adil Ray.
-OL,13,     GCrossing words are Chele and
-OL,14,     Ghusband Harry from Falkirk, Jeena
-OL,15,     Gand Reuben from Nuneaton, and
-OL,16,     Gbrothers Jordan and Greg from
-OL,17,     GWatford.
-OL,18,G1600FTipping Point
-OL,19,     GBen Shephard hosts the quiz show
-OL,20,     Gin which four players take on an
-OL,21,     Gextraordinary machine in the hope
-OL,22,     Gof winning a cash jackpot.
+OL,4,G1500FLingo
+OL,5,     GQuiz show hosted by Adil Ray.
+OL,6,     GCrossing words are Chele and
+OL,7,     Ghusband Harry from Falkirk, Jeena
+OL,8,     Gand Reuben from Nuneaton, and
+OL,9,     Gbrothers Jordan and Greg from
+OL,10,     GWatford.
+OL,11,G1600FTipping Point
+OL,12,     GBen Shephard hosts the quiz show
+OL,13,     Gin which four players take on an
+OL,14,     Gextraordinary machine in the hope
+OL,15,     Gof winning a cash jackpot.
+OL,16,G1700FThe Chase
+OL,17,     GFour contestants - Jim, Nuala,
+OL,18,     GSarah and Jack - battle against a
+OL,19,     GChaser in the hope of winning
+OL,20,     Gthousands of pounds. Bradley
+OL,21,     GWalsh is with them every step of
+OL,22,     Gthe way.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703080832
+OL,0,        ECIMSBWebfax     F698A1703084443
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1305FJamie: Together at Christmas
-OL,5,     GJamie Oliver creates a
-OL,6,     Gsensational alternative to the
-OL,7,     Gtraditional Christmas dinner with
-OL,8,     Gan epic mixed roast, a veggie
-OL,9,     Gcrown and a panettone dessert to
-OL,10,     Gmake the big day even better.
-OL,11,G1410FCountdown
-OL,12,     GColin Murray and Rachel Riley
-OL,13,     Ghost as contestants race against
-OL,14,     Gthe clock to pit their wits
-OL,15,     Gagainst vowels, consonants and
-OL,16,     Gnumbers. Christopher Biggins
-OL,17,     Gjoins Susie Dent in Dictionary
-OL,18,     GCorner.
+OL,4,G1500FKirstie's Handmade Christmas
+OL,5,     GChristmas HQ gets cosied up as
+OL,6,     Gfour knitters create 'must-have'
+OL,7,     GChristmas jumpers. Plus: how to
+OL,8,     Gmake a beautiful bauble using
+OL,9,     Gnails and string.
+OL,10,G1600FA Place in the Sun
+OL,11,     GThe new run continues. Penny and
+OL,12,     GRussell want a holiday home near
+OL,13,     GSpain's seaside town of Mojacar
+OL,14,     Gwith a pool and a short drive to
+OL,15,     Gthe beach. Can Ben Hillman
+OL,16,     Gdeliver their dream for #125k?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,26,@uD@arp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703080832
+OL,0,        ECIMSBWebfax     F698A1703084443
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 20 DEC
-OL,4,G1325FThe Christmas Express
+OL,4,G1430FThe Christmas Express
 OL,5,     GSeasonal romance starring Dermot
 OL,6,     GMulroney and Danny Glover. A
 OL,7,     Gcynical journalist meets new
 OL,8,     Gpeople and runs into his old
 OL,9,     Gflame while travelling by train
 OL,10,     Gduring Christmas.
-OL,11,G1425FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the world,
-OL,14,     Gfocusing on celebrities, movies,
-OL,15,     Gmusic and entertainment.
-OL,16,G1430FThe Christmas Express
-OL,17,     GSeasonal romance starring Dermot
-OL,18,     GMulroney and Danny Glover. A
-OL,19,     Gcynical journalist meets new
-OL,20,     Gpeople and runs into his old
-OL,21,     Gflame while travelling by train
-OL,22,     Gduring Christmas.
+OL,11,G1525FCrazy About Christmas
+OL,12,     GA best-selling author hides her
+OL,13,     Glove for Christmas after an ugly
+OL,14,     Gbreakup, but could find love
+OL,15,     Gagain when she discovers a
+OL,16,     Gwebsite for people who are crazy
+OL,17,     Gabout Christmas.
+OL,18,G1625F5 News Update
+OL,19,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
