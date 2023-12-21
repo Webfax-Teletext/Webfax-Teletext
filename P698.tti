@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703138400
+OL,0,        ECIMSBWebfax     F698A1703142013
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703138400
+OL,0,        ECIMSBWebfax     F698A1703142013
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703138400
+OL,0,        ECIMSBWebfax     F698A1703142013
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 20 DEC
-OL,4,G0145FBBC News
+OL,3,CProgramme listings for THU 21 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FAnimal Park Christmas Special
+OL,9,     GMegan and the keepers hide lumps
+OL,10,     Gof meat on a Christmas tree to
+OL,11,     Gcreate a puzzle for the cheetahs,
+OL,12,     Gand can Hamza spot signs of a
+OL,13,     Gfestive romance in the cheetah
+OL,14,     Genclosure?
+OL,15,G1000FFor Love or Money
+OL,16,     GGill has been bombarded by online
+OL,17,     Gfriend requests by a man she knew
+OL,18,     Gas Michael. Is a scammer behind
+OL,19,     Gthem all?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +75,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703138400
+OL,0,        ECIMSBWebfax     F698A1703142013
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 20 DEC
-OL,4,G0340FThis is BBC Two
+OL,3,CProgramme listings for THU 21 DEC
+OL,4,G0635FChristmas in Toyland
+OL,5,     GData analyst Charlie is sent by
+OL,6,     Gher boss to see why one of their
+OL,7,     Gstores is kicking the downward
+OL,8,     Gsales trend. There, she meets
+OL,9,     Gmanager Grant, who has a contempt
+OL,10,     Gfor corporate life.
+OL,11,G0800FMy Life at Christmas: Adrian...
+OL,12,     GChiles Meets John Simpson. Adrian
+OL,13,     GChiles meets war correspondent
+OL,14,     GJohn Simpson to discuss his
+OL,15,     Gmemories of Christmas.
+OL,16,G0900FBBC News
+OL,17,G1300FMeet Me in St Louis
+OL,18,     GA colourful musical about the
+OL,19,     Geveryday adventures and romantic
+OL,20,     Gentanglements of the Smith family
+OL,21,     Gin St Louis. Starring Judy
+OL,22,     GGarland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,49 +106,80 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703138400
+OL,0,        ECIMSBWebfax     F698A1703142013
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 20 DEC
-OL,4,G0530FGino's Italian Express
-OL,5,     GPisa - Lucca - Florence: Gino
-OL,6,     Ggoes on a star-studded line up of
-OL,7,     GTuscan cities - he starts off in
-OL,8,     GPisa before heading to the
-OL,9,     Gmedieval city of Lucca and
-OL,10,     Gbeautiful Florence.
+OL,3,CProgramme listings for THU 21 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GBroadcasting legend Clare Balding
+OL,6,     Gis in the studio to talk about
+OL,7,     Gher first love - dogs!
+OL,8,G0900FLorraine
+OL,9,     GLorraine Kelly presents a topical
+OL,10,     Gmix of entertainment, discussion
+OL,11,     Gand showbiz glamour as well as
+OL,12,     Gthe latest fashion, food and
+OL,13,     Gcelebrity gossip.
+OL,14,G1000FThis Morning
+OL,15,     GMagazine show with news and
+OL,16,     Gtopical items, celebrity guests,
+OL,17,     Gexpert advice, real life stories,
+OL,18,     Gcompetitions and a mix of
+OL,19,     Gcookery, health, beauty,
+OL,20,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703138400
+OL,0,        ECIMSBWebfax     F698A1703142013
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 20 DEC
-OL,4,G0550FKirstie's Handmade Christmas
-OL,5,     GLooking for ideas for your
-OL,6,     GChristmas tree? Kirstie Allsopp
-OL,7,     Gtakes inspiration from some of
-OL,8,     Gthe most creative people around.
+OL,3,CProgramme listings for THU 21 DEC
+OL,4,G0625FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Christopher Biggins
+OL,10,     Gjoins Susie Dent in Dictionary
+OL,11,     GCorner.
+OL,12,G0705FThe King of Queens
+OL,13,     GOxy Moron: Carrie is upset when,
+OL,14,     Gon a bumpy plane landing, Doug
+OL,15,     Gtakes the only oxygen mask.
+OL,16,     GThings don't go as well as hoped
+OL,17,     Gfor Spence with the hot Brazilian
+OL,18,     Gexchange student.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703138400
+OL,0,        ECIMSBWebfax     F698A1703142013
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 20 DEC
-OL,4,G0545FPaw Patrol
-OL,5,     GSix brave puppies, captained by a
-OL,6,     Gtech-savvy ten-year-old boy,
-OL,7,     GRyder, work together to
-OL,8,     Gaccomplish high-stakes rescue
-OL,9,     Gmissions to safeguard the
-OL,10,     Gresidents of the Adventure Bay
-OL,11,     Gcommunity.
+OL,3,CProgramme listings for THU 21 DEC
+OL,4,G0700FThomas & Friends: All Engines Go
+OL,5,     GWhen Sandy learns about a
+OL,6,     Gshipment of sand that needs to be
+OL,7,     Gdelivered, she is determined to
+OL,8,     Ghelp. But her size means she
+OL,9,     Gcan't help Thomas tow the sand.
+OL,10,G0710FPeppa Pig
+OL,11,     GCold Winter's Day: Peppa and
+OL,12,     GGeorge go to the park to play.
+OL,13,     GAll the puddles have frozen over,
+OL,14,     Gso the two must think of other
+OL,15,     Gways to entertain themselves.
+OL,16,G0715FPeppa Pig
+OL,17,     GPeppa and her family are visiting
+OL,18,     GCousin Chloe's House to play with
+OL,19,     GBaby Alexander. Peppa learns that
+OL,20,     Gbabies play, eat, sleep, fill
+OL,21,     Gnappies, bite on things, and need
+OL,22,     Glots of sleep!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
