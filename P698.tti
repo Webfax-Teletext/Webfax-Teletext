@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703178106
+OL,0,        ECIMSBWebfax     F698A1703181712
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703178106
+OL,0,        ECIMSBWebfax     F698A1703181712
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,26 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703178106
+OL,0,        ECIMSBWebfax     F698A1703181712
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 21 DEC
-OL,4,G1630FCelebrity Bridge of Lies
-OL,5,     GRoss Kemp hosts as a team of
-OL,6,     Gcelebrity comedians - Susan
-OL,7,     GCalman, John Thomson, Jon Culshaw
-OL,8,     Gand Shazia Mirza - takes on the
-OL,9,     GBridge of Lies for their chosen
-OL,10,     Gcharities.
-OL,11,G1715FPointless Celebrities
-OL,12,     GA celebrity special edition
-OL,13,     Gfeaturing Rick Edwards, Emer
-OL,14,     GKenny, Danny Wallace, Yuriko
-OL,15,     GKotani, Ian Waite, Vincent
-OL,16,     GSimone, Russ Bray and Deta Hedman.
-OL,17,G1800FBBC News
-OL,18,G1830FRegional News
+OL,4,G1800FBBC News
+OL,5,G1830FRegional News
+OL,6,G1900FCelebrity Mastermind
+OL,7,     GAndrew Roachford, Sara Barron, Jo
+OL,8,     GCoffey and Jason Mohammad are put
+OL,9,     Gto the test by Clive Myrie in the
+OL,10,     Gclassic quiz where celebrities go
+OL,11,     Gunder the spotlight.
+OL,12,G1930FEastEnders
+OL,13,     GDenise makes a decision, disaster
+OL,14,     Gstrikes for Sharon, and Dean
+OL,15,     Ghatches a plan after receiving
+OL,16,     Gadvice from an unlikely source.
+OL,17,G2000FNigella's Amsterdam Christmas
+OL,18,     GNigella returns for a very
+OL,19,     Gspecial Christmas treat when she
+OL,20,     Gtravels to Amsterdam to enjoy the
+OL,21,     Gfestive season in the Venice of
+OL,22,     Gthe North.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -74,30 +78,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703178106
+OL,0,        ECIMSBWebfax     F698A1703181712
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 21 DEC
-OL,4,G1450FSweet Charity
-OL,5,     GMusical comedy about the romantic
-OL,6,     Gups and downs of a dance partner-
-OL,7,     Gfor-hire at a seedy New York
-OL,8,     Gdance hall, who longs for true
-OL,9,     Glove but has bad luck with men.
-OL,10,G1710FFlog It!
-OL,11,     GPaul Martin presents from the Old
-OL,12,     GRoyal Naval College in Greenwich.
-OL,13,     GAntique expert Philip Serrell
-OL,14,     Gdiscovers a postcard signed by
-OL,15,     GMalcolm Campbell.
-OL,16,G1750FEdward Scissorhands
-OL,17,     GEdward, an artificial human being
-OL,18,     Gwho has remained unfinished since
-OL,19,     Ghis creator suddenly died,
-OL,20,     Gleaving him with scissors for
-OL,21,     Ghands, is discovered by a kindly
-OL,22,     Gsuburban housewife.
+OL,4,G1750FEdward Scissorhands
+OL,5,     GEdward, an artificial human being
+OL,6,     Gwho has remained unfinished since
+OL,7,     Ghis creator suddenly died,
+OL,8,     Gleaving him with scissors for
+OL,9,     Ghands, is discovered by a kindly
+OL,10,     Gsuburban housewife.
+OL,11,G1930FRichard Osman's Festive House of
+OL,12,     FGames
+OL,13,     GRichie Anderson, Simon Gregson,
+OL,14,     GJessica Knappett and Debbie McGee
+OL,15,     Gface more questions.
+OL,16,G2000FOnly Connect Specials: Travel
+OL,17,     GVictoria Coren Mitchell hosts the
+OL,18,     Gseries where knowledge will only
+OL,19,     Gtake you so far. In this episode,
+OL,20,     Gtwo former teams with a
+OL,21,     Gconnection to travel return.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -105,73 +108,76 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703178106
+OL,0,        ECIMSBWebfax     F698A1703181712
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 21 DEC
-OL,4,G1700FThe Chase
-OL,5,     GFee from East Lothian, Tom from
-OL,6,     GPaignton, Adie from London and
-OL,7,     GDean from the Wirral take on a
-OL,8,     GChaser in the hope of winning
-OL,9,     Gthousands of pounds. Hosted by
-OL,10,     GBradley Walsh.
-OL,11,G1800FRegional News
-OL,12,G1830FITV Evening News
-OL,13,G1930FEmmerdale
-OL,14,     GDawn's contractions start,
-OL,15,     GRhona's jaw drops when Mary
-OL,16,     Garrives home with Gus and Ivy,
-OL,17,     Gand Tracy is afraid that Nicky
-OL,18,     Gknows about their affair.
+OL,4,G1800FRegional News
+OL,5,G1830FITV Evening News
+OL,6,G1930FEmmerdale
+OL,7,     GDawn's contractions start,
+OL,8,     GRhona's jaw drops when Mary
+OL,9,     Garrives home with Gus and Ivy,
+OL,10,     Gand Tracy is afraid that Nicky
+OL,11,     Gknows about their affair.
+OL,12,G2030FHomeless Families: Our...
+OL,13,     GChristmas Crisis - Tonight. As
+OL,14,     GChristmas nears, award-winning
+OL,15,     Gjournalist Daniel Hewitt meets
+OL,16,     Gfamilies whose lives have been
+OL,17,     Gthrust into chaos by a housing
+OL,18,     Gsystem on its knees.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703178106
+OL,0,        ECIMSBWebfax     F698A1703181712
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 21 DEC
-OL,4,G1700FChateau DIY at Christmas
-OL,5,     GThe new series continues. Can
-OL,6,     GChris and Jolyon transform their
-OL,7,     Ghallway before their party at
-OL,8,     GChateau Trois Cloches? In the
-OL,9,     GPyrenees, Trish gets to work on
-OL,10,     Gher guest bedroom.
-OL,11,G1800FFour in a Bed
-OL,12,     GKarlie hosts the week's final
-OL,13,     Gvisit at her holiday park in
-OL,14,     GGreater Manchester, where lavish
-OL,15,     Glodges and hot tubs are a hit.
-OL,16,     GBut one pair still find cause to
-OL,17,     Gmoan about their mattress...
+OL,4,G1800FFour in a Bed
+OL,5,     GKarlie hosts the week's final
+OL,6,     Gvisit at her holiday park in
+OL,7,     GGreater Manchester, where lavish
+OL,8,     Glodges and hot tubs are a hit.
+OL,9,     GBut one pair still find cause to
+OL,10,     Gmoan about their mattress...
+OL,11,G1830FThe Simpsons
+OL,12,     GSkinner's Sense of Snow: When a
+OL,13,     Ghuge snowdrift engulfs the
+OL,14,     Gschool, Bart leads the kids in a
+OL,15,     Grebellion, gagging Principal
+OL,16,     GSkinner and tying him to a chair
+OL,17,     Gas they run amok.
+OL,18,G1900FChannel 4 News
+OL,19,     GChannel 4's flagship news
+OL,20,     Gprogramme. Including the weather.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@pD@Hsp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703178106
+OL,0,        ECIMSBWebfax     F698A1703181712
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 21 DEC
-OL,4,G1615FMrs Miracle 2: Miracle in
-OL,5,     FManhattan
-OL,6,     GDrama starring Doris Roberts and
-OL,7,     GJewel Staite. Magic and romance
-OL,8,     Gabound in a family-run department
-OL,9,     Gstore in the lead up to Christmas.
-OL,10,G1705FThe Secret Garden
-OL,11,     GChildren's classic starring Kate
-OL,12,     GMaberly and Heydon Prowse. An
-OL,13,     Gorphan who is sent to live in her
-OL,14,     Guncle's sombre mansion discovers
-OL,15,     Ga forbidden walled garden.
-OL,16,G1855F5 News Update
-OL,17,     GNational and international news.
+OL,4,G1705FThe Secret Garden
+OL,5,     GChildren's classic starring Kate
+OL,6,     GMaberly and Heydon Prowse. An
+OL,7,     Gorphan who is sent to live in her
+OL,8,     Guncle's sombre mansion discovers
+OL,9,     Ga forbidden walled garden.
+OL,10,G1855F5 News Update
+OL,11,     GNational and international news.
+OL,12,G1900FWorld's Strongest Man 2023
+OL,13,     GIn Leeds, a world class field of
+OL,14,     Gathletes vie for the continental
+OL,15,     Gtitle, competing in the Conan's
+OL,16,     GWheel, Log Ladder, Deadlift for
+OL,17,     GReps, Load and Push and the
+OL,18,     Giconic Castle Stone.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
