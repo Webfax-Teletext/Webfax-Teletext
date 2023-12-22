@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703221414
+OL,0,        ECIMSBWebfax     F698A1703225020
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703221414
+OL,0,        ECIMSBWebfax     F698A1703225020
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,24 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703221414
+OL,0,        ECIMSBWebfax     F698A1703225020
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 21 DEC
-OL,4,G0100FBBC News
+OL,3,CProgramme listings for FRI 22 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0915FAnimal Park Christmas Special
+OL,9,     GBen and Kate compile a 'naughty'
+OL,10,     Gand 'nice' list, but what will be
+OL,11,     Gin store for the animals on
+OL,12,     GChristmas morning?
+OL,13,G1000FFor Love or Money
+OL,14,     GSusan met Brook playing scrabble,
+OL,15,     Gbut this costly game ended up
+OL,16,     Glosing her a five-figure sum.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +72,27 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703221414
+OL,0,        ECIMSBWebfax     F698A1703225020
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 21 DEC
+OL,3,CProgramme listings for FRI 22 DEC
 OL,4,G0415FThis is BBC Two
+OL,5,G0615FHomes Under the Hammer: Celebrity
+OL,6,     FSpecial
+OL,7,     GPop superstar Toyah Willcox looks
+OL,8,     Garound a house in her native
+OL,9,     GBirmingham.
+OL,10,G0715FCelebrity Escape to the Country
+OL,11,     GDenise Nurse helps TV's Dr Ranj
+OL,12,     Gescape the city blues by looking
+OL,13,     Gat a fabulous selection of
+OL,14,     Gproperty options within reach of
+OL,15,     Gthe Peak District.
+OL,16,G0800FGardeners' World Winter Specials
+OL,17,     GAdam Frost visits Mary Berry at
+OL,18,     Ghome to hear about her great
+OL,19,     Gpassion for gardening.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,73 +100,85 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703221414
+OL,0,        ECIMSBWebfax     F698A1703225020
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 21 DEC
-OL,4,G0420FUnwind With ITV
-OL,5,     GYour daily escape designed to
-OL,6,     Gcalm the mind and encourage
-OL,7,     Grelaxation and reflection.
-OL,8,G0535FMade in Britain
-OL,9,     GFarrow and Ball Paint & Marshall
-OL,10,     GAmps: A look at how paint and
-OL,11,     Gwallpaper are made, how a guitar
-OL,12,     Gamp changed musical history, how
-OL,13,     Gfrozen peas go from field to
-OL,14,     Gfreezer, and the creation of
-OL,15,     Gpens. (SL,S,A
+OL,3,CProgramme listings for FRI 22 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GWe're joined by Myleene Klass and
+OL,6,     Gher daughter Ava for a very
+OL,7,     Gspecial musical performance of
+OL,8,     GFairytale of New York.
+OL,9,G0900FLorraine
+OL,10,     GRalph Little and Anita Dobson
+OL,11,     Gjoin us ahead of the Death in
+OL,12,     GParadise and Dr Who Christmas
+OL,13,     Gspecials. Plus, with only 3 days
+OL,14,     Gto go - we've got our last-minute
+OL,15,     Ggift guide.
+OL,16,G1000FThis Morning
+OL,17,     GMagazine show with news and
+OL,18,     Gtopical items, celebrity guests,
+OL,19,     Gexpert advice, real life stories,
+OL,20,     Gcompetitions and a mix of
+OL,21,     Gcookery, health, beauty,
+OL,22,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@wD@Lpm
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703221414
+OL,0,        ECIMSBWebfax     F698A1703225020
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 21 DEC
-OL,4,G0445FWaitrose at Christmas
-OL,5,     GBehind the scenes for the festive
-OL,6,     Gbuild-up, as Waitrose trial
-OL,7,     Ginnovative festive recipes,
-OL,8,     Geagerly await this year's fizz,
-OL,9,     Gand prepare to make their all-
-OL,10,     Gimportant Christmas advert.
-OL,11,G0540FKirstie's Handmade Christmas
-OL,12,     GAdd a bit of glamour to your home
-OL,13,     Gthis Christmas with Kirstie
-OL,14,     GAllsopp's festive floral
-OL,15,     Gdisplays, from sumptuous wreaths
-OL,16,     Gto glorious garlands.
+OL,3,CProgramme listings for FRI 22 DEC
+OL,4,G0600FCome Dine with Me Christmas
+OL,5,     GYork. Estella Nicholson hosts the
+OL,6,     Gfinal night in her own pub,
+OL,7,     Gserving up classic pub grub with
+OL,8,     Ga festive twist.
+OL,9,G0625FCountdown
+OL,10,     GColin Murray and Rachel Riley
+OL,11,     Ghost as contestants race against
+OL,12,     Gthe clock to pit their wits
+OL,13,     Gagainst vowels, consonants and
+OL,14,     Gnumbers. Christopher Biggins
+OL,15,     Gjoins Susie Dent in Dictionary
+OL,16,     GCorner.
+OL,17,G0705FThe King of Queens
+OL,18,     GDouble Downer: Carrie and Doug go
+OL,19,     Gon an anniversary trip to
+OL,20,     GAtlantic City. Unfortunately,
+OL,21,     GDoug's boss is going too.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703221414
+OL,0,        ECIMSBWebfax     F698A1703225020
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 21 DEC
-OL,4,G0415FNever Teach Your Wife to Drive
-OL,5,     GDocumentary following three
-OL,6,     GBritish couples during one of the
-OL,7,     Gmost stressful tests of their
-OL,8,     Grelationships. As tempers flare,
-OL,9,     Gwill they get as far as the
-OL,10,     Gdriving test?
-OL,11,G0505FFriends
-OL,12,     GMonica and Chandler interview
-OL,13,     Gcandidates in the hope of finding
-OL,14,     Ga sperm donor. Rachel is mean to
-OL,15,     GCharlie because she is jealous of
-OL,16,     GCharlie's interest in Joey.
-OL,17,G0530FEntertainment News on 5
-OL,18,     GA daily round-up of showbiz news
-OL,19,     Gand gossip from around the world,
-OL,20,     Gfocusing on celebrities, movies,
-OL,21,     Gmusic and entertainment.
+OL,3,CProgramme listings for FRI 22 DEC
+OL,4,G0600FMilkshake! News
+OL,5,     GJoin Kemi for today's report
+OL,6,     Gwhere we hear all about fruit!
+OL,7,G0610FMilkshake! Fantastic Foxes:..
+OL,8,     G...Their Secret World. We follow
+OL,9,     Gthe seven as they grow in their
+OL,10,     Grescue centre enclosure, we find
+OL,11,     Gout who is top in the group, and
+OL,12,     Gwatch them take steps as they
+OL,13,     Ghead back to the wild.
+OL,14,G0615FSunny Bunnies
+OL,15,     GIt's Christmas time and Sunny
+OL,16,     GBunnies appear on a stage,
+OL,17,     Gsinging away with great
+OL,18,     Genthusiasm.
+OL,19,G0620FPeppa Pig
+OL,20,     GEek! There's a spider in the
+OL,21,     Ghouse! Mummy Pig tells Daddy Pig
+OL,22,     Gto get rid of it.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
