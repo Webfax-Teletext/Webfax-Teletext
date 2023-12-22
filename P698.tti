@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703279155
+OL,0,        ECIMSBWebfax     F698A1703282762
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703279155
+OL,0,        ECIMSBWebfax     F698A1703282762
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703279155
+OL,0,        ECIMSBWebfax     F698A1703282762
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 22 DEC
-OL,4,G2100FHave I Got 2023 News for You
-OL,5,     GA variety of guests join Ian
-OL,6,     GHislop and Paul Merton for the
-OL,7,     Gtopical news quiz compilation.
-OL,8,     GContains very strong language and
-OL,9,     Gadult humour
-OL,10,G2130FTwo Doors Down
-OL,11,     GIt's payday, so Michelle invites
-OL,12,     Gthe neighbours round for a
-OL,13,     GChinese takeaway. Contains some
-OL,14,     Gstrong language.
-OL,15,G2200FBBC News and Weather
-OL,16,G2230FRegional News
-OL,17,G2240FBad Education: A Christmas Carol
-OL,18,     GStephen has an important decision
-OL,19,     Gto make with the help of some
-OL,20,     Gghostly friends. Contains adult
-OL,21,     Ghumour.
+OL,4,G2200FBBC News and Weather
+OL,5,G2230FRegional News
+OL,6,G2240FBad Education: A Christmas Carol
+OL,7,     GStephen has an important decision
+OL,8,     Gto make with the help of some
+OL,9,     Gghostly friends. Contains adult
+OL,10,     Ghumour.
+OL,11,G2310FThe Cleaner: A Clean Christmas
+OL,12,     GIt's Christmas Day. Wicky has got
+OL,13,     Gto clean up after a murder in an
+OL,14,     Gice cream parlour. Contains some
+OL,15,     Gstrong language and adult humour.
+OL,16,G2340FMrs Brown's Boys D'Movie
+OL,17,     GMrs Brown faces car chases and
+OL,18,     Gninjas as she battles to save her
+OL,19,     GDublin market stall. Contains
+OL,20,     Gstrong language and adult humour.
+OL,21,G0115FWeather for the Week Ahead
+OL,22,G0120FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,7 +78,7 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703279155
+OL,0,        ECIMSBWebfax     F698A1703282762
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -108,7 +109,7 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703279155
+OL,0,        ECIMSBWebfax     F698A1703282762
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -136,48 +137,52 @@ PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703279155
+OL,0,        ECIMSBWebfax     F698A1703282762
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 22 DEC
-OL,4,G2100FThe Last Leg of Christmas
-OL,5,     GIn this very special Christmas
-OL,6,     Gepisode, Adam Hills, Josh
-OL,7,     GWiddicombe and Alex Brooker are
-OL,8,     Gjoined by Tom Davis and Alison
-OL,9,     GHammond for a dose of merry
-OL,10,     GYuletide leglessness.
-OL,11,G2200FJimmy Carr's Celebrity I...
-OL,12,     GLiterally Just Told You: AJ
-OL,13,     GOdudu, Ben Shephard, Bill Bailey
-OL,14,     Gand Sarah Millican join Jimmy
-OL,15,     GCarr for a festive edition of the
-OL,16,     Gunique game show, to win up to
-OL,17,     G#25,000 for charity.
+OL,4,G2200FJimmy Carr's Celebrity I...
+OL,5,     GLiterally Just Told You: AJ
+OL,6,     GOdudu, Ben Shephard, Bill Bailey
+OL,7,     Gand Sarah Millican join Jimmy
+OL,8,     GCarr for a festive edition of the
+OL,9,     Gunique game show, to win up to
+OL,10,     G#25,000 for charity.
+OL,11,G2305FPaul
+OL,12,     GSci-fi comedy. Can two UFO geeks
+OL,13,     Ghelp a wisecracking alien to
+OL,14,     Gescape from the US secret
+OL,15,     Gservices? Violence/strong
+OL,16,     Glanguage/drugs.
+OL,17,G0100FDaddy's Home
+OL,18,     GComedy. Brad is living happily
+OL,19,     Gwith his wife and stepchildren,
+OL,20,     Guntil the kids' macho biological
+OL,21,     Gdad swaggers back into their
+OL,22,     Glives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703279155
+OL,0,        ECIMSBWebfax     F698A1703282762
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 22 DEC
-OL,4,G2100FThe Madame Blanc...
-OL,5,     GMysteries Christmas Special.
-OL,6,     GJudith and Jeremy arrange for
-OL,7,     Gfriends to attend a murder
-OL,8,     Gmystery night at a 'haunted'
-OL,9,     Ghotel, but events take a deadly
-OL,10,     Gturn when an actual murder takes
-OL,11,     Gplace.
-OL,12,G2200FThe Bodyguard
-OL,13,     GRomantic thriller starring Kevin
-OL,14,     GCostner and Whitney Houston. A
-OL,15,     Gsinger takes on a bodyguard to
-OL,16,     Gdefend her against someone who is
-OL,17,     Gtrying to kill her - and romance
-OL,18,     Gfollows.
+OL,4,G2200FThe Bodyguard
+OL,5,     GRomantic thriller starring Kevin
+OL,6,     GCostner and Whitney Houston. A
+OL,7,     Gsinger takes on a bodyguard to
+OL,8,     Gdefend her against someone who is
+OL,9,     Gtrying to kill her - and romance
+OL,10,     Gfollows.
+OL,11,G0030FCelebs at Christmas: How...
+OL,12,     GDo They Do It? Dip into the
+OL,13,     GChristmas homes of celebrities
+OL,14,     Gfrom the Beckhams to the
+OL,15,     GKardashians, with clips they've
+OL,16,     Gshared on social media of their
+OL,17,     Gfabulously festive homes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
