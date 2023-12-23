@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703311630
+OL,0,        ECIMSBWebfax     F698A1703315241
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703311630
+OL,0,        ECIMSBWebfax     F698A1703315241
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703311630
+OL,0,        ECIMSBWebfax     F698A1703315241
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -76,28 +76,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703311630
+OL,0,        ECIMSBWebfax     F698A1703315241
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 23 DEC
-OL,4,G0350FThis is BBC Two
-OL,5,G0630FHey Duggee: The Christmas Badge
-OL,6,     GThe Christmas Badge. The
-OL,7,     GSquirrels try and inspire
-OL,8,     GDuggee's friend Clarence, who has
-OL,9,     Glost his Christmas cheer.
-OL,10,G0640FLove Monster: A Very Merry
-OL,11,     FUnicorn Day
-OL,12,     GA Very Merry Unicorn Day. Love
-OL,13,     GMonster accidentally snows
-OL,14,     Geveryone in on Unicorn Day.
-OL,15,G0655FNick Cope's Popcast
-OL,16,     GWho's at the Door? Norman gives
-OL,17,     GNick a very special Christmas
-OL,18,     Gpresent - something that
-OL,19,     GChristmas dreams are made of. But
-OL,20,     Gnot all is as it seems - or is it?
+OL,4,G0705FGo Jetters Christmas Special: The
+OL,5,     FNorth Pole
+OL,6,     GGo Jetters Christmas Special: The
+OL,7,     GNorth Pole. It's Christmas Eve
+OL,8,     Gand Santa's sleigh has vanished!
+OL,9,     GCan the Go Jetters save Christmas?
+OL,10,G0725FDanger Mouse: Yule Only Watch
+OL,11,     FTwice
+OL,12,     GYule Only Watch Twice. Animated
+OL,13,     Gseries. Danger Mouse and
+OL,14,     GPenfold's friendship comes under
+OL,15,     Gscrutiny in this double-length
+OL,16,     GChristmas clip episode.
+OL,17,G0750FGrizzy and the Lemmings
+OL,18,     GOrdeal of Comfort. A helicopter
+OL,19,     Gtakes off from the beach, leaving
+OL,20,     Gbehind installations for a TV
+OL,21,     Ggame.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -105,77 +106,79 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703311630
+OL,0,        ECIMSBWebfax     F698A1703315241
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 23 DEC
-OL,4,G0600FLove Your Garden
-OL,5,     GThe Sola Family: Alan Titchmarsh
-OL,6,     Gis in Cambridge to help transform
-OL,7,     Gthe garden of a mother whose son
-OL,8,     Grequires round-the-clock care
-OL,9,     Gwith a beach theme complete with
-OL,10,     Ga sound system.
-OL,11,G0630FLove Your Garden
-OL,12,     GAlan Titchmarsh heads to
-OL,13,     GBirmingham to surprise Georgie
-OL,14,     GMoseley - the founder of
-OL,15,     GBritain's first cancer drop-in
-OL,16,     Gcentre - with a stunning Ibizan-
-OL,17,     Gstyle hideaway garden.
+OL,4,G0630FLove Your Garden
+OL,5,     GAlan Titchmarsh heads to
+OL,6,     GBirmingham to surprise Georgie
+OL,7,     GMoseley - the founder of
+OL,8,     GBritain's first cancer drop-in
+OL,9,     Gcentre - with a stunning Ibizan-
+OL,10,     Gstyle hideaway garden.
+OL,11,G0730FLove Your Weekend with Alan
+OL,12,     FTitchmarsh
+OL,13,     GJoining Alan as we gear up for
+OL,14,     GChristmas 2023 are actress Jenny
+OL,15,     GAgutter, popular dancing queen
+OL,16,     GArlene Phillips, and some history-
+OL,17,     Gmaking rare breed Wetterhouns.
+OL,18,G0925FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703311630
+OL,0,        ECIMSBWebfax     F698A1703315241
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 23 DEC
-OL,4,G0540FJamie: Keep Cooking at Christmas
-OL,5,     GJamie Oliver makes gorgeous food
-OL,6,     Ggifts, including a roasted mulled
-OL,7,     Gwine ham cooked and glazed in all
-OL,8,     Gthe flavours of Christmas, ready-
-OL,9,     Gto-bake flavoured cheeses, and
-OL,10,     Gthe ultimate yule log.
-OL,11,G0610FThe King of Queens
-OL,12,     GOvary Action: Doug's parents'
-OL,13,     Gvisit coincides with Carrie's
-OL,14,     G'fertile time'.
-OL,15,G0635FThe King of Queens
-OL,16,     GBaker's Doesn't: Doug and Carrie
-OL,17,     Gare roped into helping out at
-OL,18,     Gtheir church during the holidays.
-OL,19,     GHe guards the manger, while she
-OL,20,     Gtries to bake a cake.
+OL,4,G0700FThe King of Queens
+OL,5,     GSanta Claustrophobia: Carrie
+OL,6,     Gtakes a temporary job working
+OL,7,     Gwith Doug. What could possibly go
+OL,8,     Gwrong?
+OL,9,G0725FEverybody Loves Raymond
+OL,10,     GThe Toaster: Ray is upset when
+OL,11,     Ghis parents swap the personalised
+OL,12,     Gtoaster he gave them as a
+OL,13,     GChristmas present for a coffee
+OL,14,     Gmachine.
+OL,15,G0755FThe Simpsons
+OL,16,     GThe Girl Who Slept Too Little:
+OL,17,     GLisa becomes plagued by
+OL,18,     Gnightmares when the council move
+OL,19,     Gthe cemetery next door to the
+OL,20,     GSimpsons' house.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703311630
+OL,0,        ECIMSBWebfax     F698A1703315241
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 23 DEC
-OL,4,G0605FBlue's Clues & You
-OL,5,     GBlue plays a game to figure out
-OL,6,     Gwhat the surprise is, and along
-OL,7,     Gthe way, they make shapes in the
-OL,8,     Gsnow with friends and sing a snow
-OL,9,     Gday song.
-OL,10,G0625FSesame Street Mecha Builders
-OL,11,     GGrandma and her twin sister want
-OL,12,     Gto recreate their old zipline
-OL,13,     Gact, but quickly discover that
-OL,14,     Gthe zipline no longer exists!
-OL,15,G0640FPirata and Capitano
-OL,16,     GTradition holds that the first to
-OL,17,     Gset foot on an island gets to
-OL,18,     Gname it, so Pirata and Capitano,
-OL,19,     Gboth wanting to name an island
-OL,20,     Gafter themselves, make a bet.
+OL,4,G0700FThomas & Friends
+OL,5,     GDaisy loves Christmas on Sodor,
+OL,6,     Gbut this year everyone keeps
+OL,7,     Gbreaking with tradition and she
+OL,8,     Gis not happy at all...
+OL,9,G0715FPeppa Pig
+OL,10,     GThe playgroup are putting on a
+OL,11,     GChristmas show for their parents.
+OL,12,     GWhile Danny Dog is dressed up as
+OL,13,     Ga Santa, the real Father
+OL,14,     GChristmas pays them a visit!
+OL,15,G0720FPeppa Pig
+OL,16,     GIt's a snowy day and Peppa's
+OL,17,     Gfamily build an igloo for their
+OL,18,     Gsnowman. They hide in it during a
+OL,19,     Gsnowstorm, but Penny Polar Bear
+OL,20,     Gand her parents love snowstorms -
+OL,21,     Gand also Peppa's igloo!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
