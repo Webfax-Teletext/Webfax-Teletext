@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703365767
+OL,0,        ECIMSBWebfax     F698A1703369377
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703365767
+OL,0,        ECIMSBWebfax     F698A1703369377
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,25 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703365767
+OL,0,        ECIMSBWebfax     F698A1703369377
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 23 DEC
-OL,4,G2100FBlankety Blank Christmas Special
-OL,5,     GThe panel game is back for a
-OL,6,     Gfestive special as Bradley Walsh
-OL,7,     Gand a group of celebrities fill
-OL,8,     Gin the Christmassy blanks to win
-OL,9,     Gsome brilliant prizes for our
-OL,10,     Glucky contestants.
-OL,11,G2135FTwo Doors Down
-OL,12,     GAlan and Michelle share some big
-OL,13,     Gnews, but the celebrations get
-OL,14,     Gquickly out of hand. Contains
-OL,15,     Gstrong language.
-OL,16,G2205FBBC News
-OL,17,G2220FWeather
+OL,4,G2205FBBC News
+OL,5,G2220FWeather
+OL,6,G2225FMatch of the Day
+OL,7,     GGary Lineker presents all the
+OL,8,     Ggoals, drama and reaction from
+OL,9,     Gthe day's six Premier League
+OL,10,     Gfixtures, including the
+OL,11,     Gblockbuster clash between
+OL,12,     GLiverpool and Arsenal at Anfield.
+OL,13,G2350FOut of Sight
+OL,14,     GJack Foley is planning one last
+OL,15,     Grobbery, but US marshal Karen
+OL,16,     GSisco is out to stop him.
+OL,17,     GContains very strong language and
+OL,18,     Gsome violent scenes.
+OL,19,G0145FWeather for the Week Ahead
+OL,20,G0150FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -73,27 +76,30 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703365767
+OL,0,        ECIMSBWebfax     F698A1703369377
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 23 DEC
-OL,4,G2100FDisco at the BBC: Volume Three
-OL,5,     GAnother selection of dance floor
-OL,6,     Gdisco classics from the BBC's
-OL,7,     Garchives.
-OL,8,G2200FDisco: Soundtrack of a Revolution
-OL,9,     GBy the end of the 1970s, disco
-OL,10,     Gseemed untouchable. But it was
-OL,11,     Gabout to face a violent backlash
-OL,12,     Gthat almost destroyed it.
-OL,13,     GContains some strong language.
-OL,14,G2300FDonna Summer: TOTP2 Special
-OL,15,     GMark Radcliffe introduces this
-OL,16,     Garchive tribute to the Queen of
-OL,17,     GDisco. Featuring footage from
-OL,18,     GSummer's early hits to her last
-OL,19,     Gstudio performance.
+OL,4,G2200FDisco: Soundtrack of a Revolution
+OL,5,     GBy the end of the 1970s, disco
+OL,6,     Gseemed untouchable. But it was
+OL,7,     Gabout to face a violent backlash
+OL,8,     Gthat almost destroyed it.
+OL,9,     GContains some strong language.
+OL,10,G2300FDonna Summer: TOTP2 Special
+OL,11,     GMark Radcliffe introduces this
+OL,12,     Garchive tribute to the Queen of
+OL,13,     GDisco. Featuring footage from
+OL,14,     GSummer's early hits to her last
+OL,15,     Gstudio performance.
+OL,16,G2330FStudio 54
+OL,17,     GIan Schrager, one of the two
+OL,18,     Gpeople behind the infamous Studio
+OL,19,     G54, tells the in-depth story of
+OL,20,     Ghow one of the world's greatest
+OL,21,     Gnightclubs was created. Contains
+OL,22,     Gsome strong language.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -101,36 +107,33 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703365767
+OL,0,        ECIMSBWebfax     F698A1703369377
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 23 DEC
-OL,4,G2010FThe Voice UK
-OL,5,     GEmma Willis returns to host the
-OL,6,     Gsemi-finals as the superstar
-OL,7,     Gcoaches need to take one of their
-OL,8,     Gsingers through to the final.
-OL,9,G2205FThe 1% Club
-OL,10,     GLee Mack hosts the quiz show
-OL,11,     Gwhere 100 contestants compete,
-OL,12,     Gbut in order to win a up to
-OL,13,     G100,000 pounds they will need to
-OL,14,     Ganswer a question only 1% of the
-OL,15,     Gcountry can get right.
-OL,16,G2255FITV News
-OL,17,G2310FEnglish Football League Highlights
-OL,18,     GAction from the latest games in
-OL,19,     Gthe EFL including Leeds United v
-OL,20,     GIpswich Town, Blackburn Rovers v
-OL,21,     GWatford, Sunderland v Coventry
-OL,22,     GCity, and Barnsley v Stevenage.
+OL,4,G2205FThe 1% Club
+OL,5,     GLee Mack hosts the quiz show
+OL,6,     Gwhere 100 contestants compete,
+OL,7,     Gbut in order to win a up to
+OL,8,     G100,000 pounds they will need to
+OL,9,     Ganswer a question only 1% of the
+OL,10,     Gcountry can get right.
+OL,11,G2255FITV News
+OL,12,G2310FEnglish Football League Highlights
+OL,13,     GAction from the latest games in
+OL,14,     Gthe EFL including Leeds United v
+OL,15,     GIpswich Town, Blackburn Rovers v
+OL,16,     GWatford, Sunderland v Coventry
+OL,17,     GCity, and Barnsley v Stevenage.
+OL,18,G0030FShop on TV
+OL,19,     GTeleshopping.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703365767
+OL,0,        ECIMSBWebfax     F698A1703369377
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -154,7 +157,7 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703365767
+OL,0,        ECIMSBWebfax     F698A1703369377
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
