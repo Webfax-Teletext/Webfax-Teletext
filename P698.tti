@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703481251
+OL,0,        ECIMSBWebfax     F698A1703484861
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703481251
+OL,0,        ECIMSBWebfax     F698A1703484861
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,26 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703481251
+OL,0,        ECIMSBWebfax     F698A1703484861
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 24 DEC
-OL,4,G0255FBBC News
+OL,3,CProgramme listings for MON 25 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0850FThe Gruffalo
+OL,9,     GAnimation based on the classic
+OL,10,     Gchildren's book written by Julia
+OL,11,     GDonaldson, telling the magical
+OL,12,     Gtale of a mouse who takes a walk
+OL,13,     Gthrough the woods in search of a
+OL,14,     Gnut.
+OL,15,G0915FHow to Train Your Dragon:
+OL,16,     FHomecoming
+OL,17,     GHiccup celebrates dragons with a
+OL,18,     Ggrand holiday pageant.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +74,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703481251
+OL,0,        ECIMSBWebfax     F698A1703484861
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 24 DEC
+OL,3,CProgramme listings for MON 25 DEC
 OL,4,G0445FThis is BBC Two
+OL,5,G0615FHomes Under the Hammer: Celebrity
+OL,6,     FSpecial
+OL,7,     GA special 20th anniversary
+OL,8,     Gepisode, featuring one of the
+OL,9,     Gshow's most iconic properties.
+OL,10,G0715FBargain Hunt: Christmas Special
+OL,11,     GThe reds and blues are Christmas
+OL,12,     Gshopping in Malvern alongside
+OL,13,     Gexperts Tim Weeks and Izzie
+OL,14,     GBalmer. Charlie Ross learns about
+OL,15,     Gthe story of British Christmas
+OL,16,     Gstamps.
+OL,17,G0800FChristmas at St Paul's
+OL,18,     GA behind-the-scenes look at St
+OL,19,     GPaul's during their busiest time
+OL,20,     Gof year, revealing the secrets of
+OL,21,     GChristmas at the cathedral.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,65 +104,80 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703481251
+OL,0,        ECIMSBWebfax     F698A1703484861
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 24 DEC
-OL,4,G0505FFamily Fortunes:...
-OL,5,     GCelebrity Christmas Special. Gino
-OL,6,     GD'Acampo hosts a festive special
-OL,7,     Gof the show where the families of
-OL,8,     GStrictly judge Shirley Ballas,
-OL,9,     GVogue Williams and Spencer
-OL,10,     GMatthews square off.
+OL,3,CProgramme listings for MON 25 DEC
+OL,4,G0600FFletchers' Family Farm at
+OL,5,     FChristmas
+OL,6,     GJoin Kelvin Fletcher and his
+OL,7,     Gfamily for a special festive
+OL,8,     Gepisode where baby alpacas come
+OL,9,     Gto the farm and pressure mounts
+OL,10,     Gas Kelvin and Liz prepare for a
+OL,11,     Ghuge event.
+OL,12,G0700FJohn and Lisa's Christmas Kitchen
+OL,13,     GJohn and Lisa are feeling
+OL,14,     Gnostalgic and looking back on
+OL,15,     Gsome of their favourite recipes
+OL,16,     Gfrom their Christmas Kitchen with
+OL,17,     Geverything from breakfast to
+OL,18,     Gfestive drinks.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703481251
+OL,0,        ECIMSBWebfax     F698A1703484861
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 24 DEC
-OL,4,G0455FDevon and Cornwall at Christmas
-OL,5,     GCelebrate with the people of
-OL,6,     GDevon and Cornwall as they push
-OL,7,     Gthe boat out for Christmas, from
-OL,8,     Gthe Dartmouth steam train of
-OL,9,     Glights to a Christmas tree made
-OL,10,     Gfrom ocean rubbish.
-OL,11,G0545FJamie: Keep Cooking at Christmas
-OL,12,     GJamie Oliver makes a beautiful
-OL,13,     Gsage, onion and apricot stuffing
-OL,14,     Gand a simple but phenomenal
-OL,15,     Gchestnut gravy to top off any
-OL,16,     Gplate, and shows us the best way
-OL,17,     Gto layer our veg with flavour.
+OL,3,CProgramme listings for MON 25 DEC
+OL,4,G0610FThe Simpsons
+OL,5,     GSkinner's Sense of Snow: When a
+OL,6,     Ghuge snowdrift engulfs the
+OL,7,     Gschool, Bart leads the kids in a
+OL,8,     Grebellion, gagging Principal
+OL,9,     GSkinner and tying him to a chair
+OL,10,     Gas they run amok.
+OL,11,G0635FThe Simpsons
+OL,12,     GSimpson Christmas Stories: Homer
+OL,13,     Ggives his version of Jesus's
+OL,14,     Gbirth, Grampa tells a Yuletide
+OL,15,     Gwar story, and the residents of
+OL,16,     GSpringfield prepare for Christmas.
+OL,17,G0700FThe Simpsons
+OL,18,     GGrift of the Magi: After Bart
+OL,19,     Gbreaks his coccyx and ends up
+OL,20,     Gusing a wheelchair, Principal
+OL,21,     GSkinner foolishly hires Fat Tony
+OL,22,     Gto build ramps at the school.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703481251
+OL,0,        ECIMSBWebfax     F698A1703484861
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 24 DEC
-OL,4,G0510FPAW Patrol
-OL,5,     GAnother Mission PAW to
-OL,6,     GBarkingburg! The Princess thinks
-OL,7,     Gshe's seen a ghost, and the PAW
-OL,8,     GPatrol needs to get to the bottom
-OL,9,     Gof it.
-OL,10,G0525FPeppa Pig
-OL,11,     GIt's Christmas time! The
-OL,12,     GPlaygroup are going to see a
-OL,13,     Gspecial performance at the
-OL,14,     Gtheatre...
-OL,15,G0530FFireman Sam
-OL,16,     GThe Joneses and the Prices are
-OL,17,     Gvying to win Pontypandy's best
-OL,18,     GChristmas lights contest.
+OL,3,CProgramme listings for MON 25 DEC
+OL,4,G0610FPeppa Pig
+OL,5,     GSanta's Grotto: Peppa and George
+OL,6,     Gpay a visit to Father Christmas.
+OL,7,     GPeppa asks for a very special
+OL,8,     Gdoll as a present, but will Santa
+OL,9,     Gbe able to deliver it to her?
+OL,10,G0615FPeppa Pig
+OL,11,     GSanta's Visit: Peppa and George
+OL,12,     Gwake up very early on Christmas
+OL,13,     Gmorning - has Santa delivered the
+OL,14,     Gpresents they want?
+OL,15,G0620FPeppa Pig
+OL,16,     GThe playgroup are putting on a
+OL,17,     GChristmas show for their parents.
+OL,18,     GWhile Danny Dog is dressed up as
+OL,19,     Ga Santa, the real Father
+OL,20,     GChristmas pays them a visit!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
