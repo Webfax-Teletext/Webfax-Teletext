@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703470426
+OL,0,        ECIMSBWebfax     F698A1703474036
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703470426
+OL,0,        ECIMSBWebfax     F698A1703474036
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,17 +47,12 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703470426
+OL,0,        ECIMSBWebfax     F698A1703474036
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 24 DEC
-OL,4,G0055FFar from the Madding Crowd
-OL,5,     GRomantic drama adapted from the
-OL,6,     Gclassic novel by Thomas Hardy,
-OL,7,     Gstarring Carey Mulligan.
-OL,8,G0250FWeather for the Week Ahead
-OL,9,G0255FBBC News
+OL,4,G0255FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -65,30 +60,23 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703470426
+OL,0,        ECIMSBWebfax     F698A1703474036
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 24 DEC
-OL,4,G0145FStacey Solomon's Crafty Christmas
-OL,5,     GWith a little help from her
-OL,6,     Gfamily, Stacey Solomon shows us
-OL,7,     Gcrafty ways to create beautiful
-OL,8,     Gdecorations and gifts that are
-OL,9,     Gsure to spread some homemade
-OL,10,     Gcheer this Christmas time.
-OL,11,G0245FNigella's Amsterdam Christmas
-OL,12,     GNigella returns for a very
-OL,13,     Gspecial Christmas treat when she
-OL,14,     Gtravels to Amsterdam to enjoy the
-OL,15,     Gfestive season in the Venice of
-OL,16,     Gthe North.
-OL,17,G0345FThe Hairy Bikers: Coming Home for
-OL,18,     FChristmas
-OL,19,     GThe Hairy Bikers throw a festive
-OL,20,     Gfeast to thank those who helped
-OL,21,     GDave through his illness.
-OL,22,G0445FThis is BBC Two
+OL,4,G0245FNigella's Amsterdam Christmas
+OL,5,     GNigella returns for a very
+OL,6,     Gspecial Christmas treat when she
+OL,7,     Gtravels to Amsterdam to enjoy the
+OL,8,     Gfestive season in the Venice of
+OL,9,     Gthe North.
+OL,10,G0345FThe Hairy Bikers: Coming Home for
+OL,11,     FChristmas
+OL,12,     GThe Hairy Bikers throw a festive
+OL,13,     Gfeast to thank those who helped
+OL,14,     GDave through his illness.
+OL,15,G0445FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -96,55 +84,59 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703470426
+OL,0,        ECIMSBWebfax     F698A1703474036
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 24 DEC
-OL,4,G0025FThe Royal Variety Performance 2023
-OL,5,     GBradley Walsh hosts the 2023
-OL,6,     Gedition of the event including
-OL,7,     Gperformances from Cher, Zara
-OL,8,     GLarsson, and a festive treat from
-OL,9,     GHannah Waddingham and the ENO
-OL,10,     GChorus.
-OL,11,G0235FAlan Carr's Epic Gameshow
-OL,12,     FChristmas Special
-OL,13,     GChild's Play: Judi Love, Joe
-OL,14,     GSwash, David James and Samia
-OL,15,     GLongchambon try to get on the
-OL,16,     Gsame wavelength as the Child's
-OL,17,     GPlay children to win big for
-OL,18,     Gcharity.
+OL,4,G0235FAlan Carr's Epic Gameshow
+OL,5,     FChristmas Special
+OL,6,     GChild's Play: Judi Love, Joe
+OL,7,     GSwash, David James and Samia
+OL,8,     GLongchambon try to get on the
+OL,9,     Gsame wavelength as the Child's
+OL,10,     GPlay children to win big for
+OL,11,     Gcharity.
+OL,12,G0325FMotorsport UK
+OL,13,     GRichard John Neil presents MSUK
+OL,14,     Gfrom Brands Hatch with racing
+OL,15,     Gfrom the Rokit British Formula 4
+OL,16,     GChampionship and the Mini
+OL,17,     GChallenge.
+OL,18,G0415FUnwind With ITV
+OL,19,     GYour daily escape designed to
+OL,20,     Gcalm the mind and encourage
+OL,21,     Grelaxation and reflection.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703470426
+OL,0,        ECIMSBWebfax     F698A1703474036
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 24 DEC
-OL,4,G0125FMicky Flanagan's Out Out Tour
-OL,5,     GCritically-acclaimed comedian
-OL,6,     GMicky Flanagan presents his sell-
-OL,7,     Gout nationwide stand-up tour,
-OL,8,     Gfeaturing hilarious routines and
-OL,9,     Gcaptivating, plain-talking wit.
-OL,10,G0220FThe Last Leg of Christmas
-OL,11,     GIn this very special Christmas
-OL,12,     Gepisode, Adam Hills, Josh
-OL,13,     GWiddicombe and Alex Brooker are
-OL,14,     Gjoined by Tom Davis and Alison
-OL,15,     GHammond for a dose of merry
-OL,16,     GYuletide leglessness.
+OL,4,G0220FThe Last Leg of Christmas
+OL,5,     GIn this very special Christmas
+OL,6,     Gepisode, Adam Hills, Josh
+OL,7,     GWiddicombe and Alex Brooker are
+OL,8,     Gjoined by Tom Davis and Alison
+OL,9,     GHammond for a dose of merry
+OL,10,     GYuletide leglessness.
+OL,11,G0315FRamsay's 24 Hours to Hell and Back
+OL,12,     GGordon Ramsay visits Catfish
+OL,13,     GCabin in Memphis, Tennessee,
+OL,14,     Gwhere waning staff morale is
+OL,15,     Gcausing problems. Can the team
+OL,16,     Goverhaul the dark interior and
+OL,17,     Gtired menu in just 24 hours?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703470426
+OL,0,        ECIMSBWebfax     F698A1703474036
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
