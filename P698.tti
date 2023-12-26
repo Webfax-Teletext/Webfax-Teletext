@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703593141
+OL,0,        ECIMSBWebfax     F698A1703596752
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703593141
+OL,0,        ECIMSBWebfax     F698A1703596752
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,26 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703593141
+OL,0,        ECIMSBWebfax     F698A1703596752
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G1125FAbominable
-OL,5,     GA teenaged girl, Yi, embarks on
-OL,6,     Gan epic journey to help a lost
-OL,7,     Gyeti return home to the Himalayas.
-OL,8,G1250FBBC News
-OL,9,G1305FRegional News
-OL,10,G1315FBeauty and the Beast
-OL,11,     GAn enchantress casts a spell on a
-OL,12,     Gselfish prince, turning him into
-OL,13,     Ga beast. Meanwhile, Belle, the
-OL,14,     Gbook-loving daughter of a music
-OL,15,     Gbox maker, dreams of adventure.
-OL,16,G1515FPeter Rabbit 2: The Runaway
-OL,17,     GPeter, horrified that he is being
-OL,18,     Gcast as a bad character, sets out
-OL,19,     Gon his own to the city. He is
-OL,20,     Gsoon approached by Barnabas, who
-OL,21,     Gembroils Peter in some dastardly
-OL,22,     Gdeeds.
+OL,4,G1315FBeauty and the Beast
+OL,5,     GAn enchantress casts a spell on a
+OL,6,     Gselfish prince, turning him into
+OL,7,     Ga beast. Meanwhile, Belle, the
+OL,8,     Gbook-loving daughter of a music
+OL,9,     Gbox maker, dreams of adventure.
+OL,10,G1515FPeter Rabbit 2: The Runaway
+OL,11,     GPeter, horrified that he is being
+OL,12,     Gcast as a bad character, sets out
+OL,13,     Gon his own to the city. He is
+OL,14,     Gsoon approached by Barnabas, who
+OL,15,     Gembroils Peter in some dastardly
+OL,16,     Gdeeds.
+OL,17,G1640FBBC News
+OL,18,G1655FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,29 +74,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703593141
+OL,0,        ECIMSBWebfax     F698A1703596752
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G1145FBargain Hunt
-OL,5,     GNatasha Raskin Sharp leads
-OL,6,     Gproceedings from Stamford Meadows
-OL,7,     Gin Lincolnshire. Mark Stacey and
-OL,8,     GGary Pe are the experts helping
-OL,9,     Gthe reds and blues spend their
-OL,10,     G#300.
-OL,11,G1245FBrief Encounter
-OL,12,     GA chance meeting in a railway
-OL,13,     Gstation brings together two
-OL,14,     Gmarried people.
-OL,15,G1410FNorth by Northwest
-OL,16,     GClassic, darkly comic Hitchcock
-OL,17,     Gthriller in which an adman is
-OL,18,     Gpursued both by spies, who
-OL,19,     Gmistake him for a double agent,
-OL,20,     Gand by the police, who think he
-OL,21,     Gis an assassin.
+OL,4,G1245FBrief Encounter
+OL,5,     GA chance meeting in a railway
+OL,6,     Gstation brings together two
+OL,7,     Gmarried people.
+OL,8,G1410FNorth by Northwest
+OL,9,     GClassic, darkly comic Hitchcock
+OL,10,     Gthriller in which an adman is
+OL,11,     Gpursued both by spies, who
+OL,12,     Gmistake him for a double agent,
+OL,13,     Gand by the police, who think he
+OL,14,     Gis an assassin.
+OL,15,G1625FFinal Score
+OL,16,     GBetty Glover keeps you informed
+OL,17,     Gwith all the latest scores,
+OL,18,     Gresults and reaction from today's
+OL,19,     Gfootball fixtures, including
+OL,20,     GSheffield United against Luton
+OL,21,     GTown.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -108,31 +104,31 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703593141
+OL,0,        ECIMSBWebfax     F698A1703596752
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G1215FITV Lunchtime News
-OL,5,     GThe latest headlines from around
-OL,6,     Gthe world at lunchtime with
-OL,7,     Greports and analysis from ITV's
-OL,8,     GCorrespondents, all of which are
-OL,9,     Gfollowed by a national weather
-OL,10,     Gforecast.
-OL,11,G1230FITV Racing: Live from Kempton
-OL,12,     GEd Chamberlin presents coverage
-OL,13,     Gof racing from Kempton, Wetherby
-OL,14,     Gand Aintree - the feature meeting
-OL,15,     Gof the day is at Kempton and
-OL,16,     Gincludes the much-anticipated
-OL,17,     GKing George VI Chase.
+OL,4,G1230FITV Racing: Live from Kempton
+OL,5,     GEd Chamberlin presents coverage
+OL,6,     Gof racing from Kempton, Wetherby
+OL,7,     Gand Aintree - the feature meeting
+OL,8,     Gof the day is at Kempton and
+OL,9,     Gincludes the much-anticipated
+OL,10,     GKing George VI Chase.
+OL,11,G1500FChitty Chitty Bang Bang
+OL,12,     GClassic musical adventure film
+OL,13,     Gstarring Dick van Dyke and Sally
+OL,14,     GAnn Howes, 1968. A down-on-his-
+OL,15,     Gluck inventor turns a broken-down
+OL,16,     GGrand Prix car into a fun vehicle
+OL,17,     Gfor his children.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703593141
+OL,0,        ECIMSBWebfax     F698A1703596752
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -159,7 +155,7 @@ PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703593141
+OL,0,        ECIMSBWebfax     F698A1703596752
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
