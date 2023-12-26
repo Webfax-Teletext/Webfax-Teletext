@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703614799
+OL,0,        ECIMSBWebfax     F698A1703618409
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703614799
+OL,0,        ECIMSBWebfax     F698A1703618409
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,57 +47,59 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703614799
+OL,0,        ECIMSBWebfax     F698A1703618409
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G1705FThe Lion King
-OL,5,     GClassic Disney animation. Simba,
-OL,6,     Ga young lion cub, is forced to
-OL,7,     Gflee his kingdom when his evil
-OL,8,     Guncle frames him for the murder
-OL,9,     Gof his father.
-OL,10,G1850FCharles III: The Coronation Year
-OL,11,     GThe behind-the-scenes story of
-OL,12,     Gthe new reign, with unique access
-OL,13,     Gto the King, the Queen and their
-OL,14,     Gfamily. How will Charles III
-OL,15,     Gfollow the longest-serving
-OL,16,     Gmonarch in British history?
-OL,17,G2025FEastEnders
-OL,18,     GThe Six are driven to desperate
-OL,19,     Gmeasures as the magnitude of the
-OL,20,     Gsituation starts to settle in.
+OL,4,G1850FCharles III: The Coronation Year
+OL,5,     GThe behind-the-scenes story of
+OL,6,     Gthe new reign, with unique access
+OL,7,     Gto the King, the Queen and their
+OL,8,     Gfamily. How will Charles III
+OL,9,     Gfollow the longest-serving
+OL,10,     Gmonarch in British history?
+OL,11,G2025FEastEnders
+OL,12,     GThe Six are driven to desperate
+OL,13,     Gmeasures as the magnitude of the
+OL,14,     Gsituation starts to settle in.
+OL,15,G2100FDeath in Paradise
+OL,16,     GWhen a CEO falls to his death one
+OL,17,     Gnight, things take an even
+OL,18,     Gstranger turn when his house
+OL,19,     Gguest mysteriously vanishes,
+OL,20,     Gprompting her fiance to fly out
+OL,21,     Gon a rescue mission.
+OL,22,G2230FBBC News and Weather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
+OL,26,@|D@Yrr
 PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703614799
+OL,0,        ECIMSBWebfax     F698A1703618409
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G1815FCrawford and Dotrice Remember
-OL,5,     G. Some Mothers Do 'Ave 'Em.
-OL,6,     GMichael Crawford and Michele
-OL,7,     GDotrice recall their time working
-OL,8,     Gon the hit 1970s comedy.
-OL,9,G1845FSome Mothers Do 'Ave 'Em:...
-OL,10,     GJessica's First Christmas.
-OL,11,     GClassic sitcom about one-man
-OL,12,     Gdisaster area Frank Spencer.
-OL,13,     GFrank and Betty are looking
-OL,14,     Gforward to Christmas, especially
-OL,15,     Gthe church's Nativity play.
-OL,16,G1930FRichard Osman's Festive House of
-OL,17,     FGames
-OL,18,     GHugh Dennis, Kerry Godliman,
-OL,19,     GGbemisola Ikumelo and Harry Judd
-OL,20,     Gtest their trivia skills.
+OL,4,G1845FSome Mothers Do 'Ave 'Em:...
+OL,5,     GJessica's First Christmas.
+OL,6,     GClassic sitcom about one-man
+OL,7,     Gdisaster area Frank Spencer.
+OL,8,     GFrank and Betty are looking
+OL,9,     Gforward to Christmas, especially
+OL,10,     Gthe church's Nativity play.
+OL,11,G1930FRichard Osman's Festive House of
+OL,12,     FGames
+OL,13,     GHugh Dennis, Kerry Godliman,
+OL,14,     GGbemisola Ikumelo and Harry Judd
+OL,15,     Gtest their trivia skills.
+OL,16,G2000FOnly Connect Specials: Boxing
+OL,17,     GTwo 'sporting' teams from
+OL,18,     Gprevious series have returned to
+OL,19,     Gfight it out.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -105,71 +107,78 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703614799
+OL,0,        ECIMSBWebfax     F698A1703618409
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G1745FTipping Point: Lucky Stars
-OL,5,     FChristmas Special
-OL,6,     GBen Shephard hosts a seasonal
-OL,7,     Gedition with comedian Julian
-OL,8,     GClary, legendary actress
-OL,9,     GStephanie Beacham, and reality TV
-OL,10,     Gfavourite Jamie Laing playing for
-OL,11,     Gcharity.
-OL,12,G1845FITV Evening News
-OL,13,G1900FEmmerdale
-OL,14,     GSuni urges Amit to tell the
-OL,15,     Gtruth, Rhona tries to hide her
-OL,16,     Gunease, and Aaron is desperate
-OL,17,     Gfor information.
+OL,4,G1900FEmmerdale
+OL,5,     GSuni urges Amit to tell the
+OL,6,     Gtruth, Rhona tries to hide her
+OL,7,     Gunease, and Aaron is desperate
+OL,8,     Gfor information.
+OL,9,G1930FCoronation Street
+OL,10,     GAn emotional Peter and Carla
+OL,11,     Gexamine their relationship and
+OL,12,     Gdecide that they might be better
+OL,13,     Goff apart - after one last supper
+OL,14,     Gwith Carla, Peter bids farewell
+OL,15,     Gto Weatherfield.
+OL,16,G2000FVera
+OL,17,     GThe Rising Tide: A special
+OL,18,     GChristmas episode of the crime
+OL,19,     Gdrama. The apparent suicide of a
+OL,20,     Gdisgraced television personality
+OL,21,     Gsees Vera heading to Holy Island
+OL,22,     Gto look into the case.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703614799
+OL,0,        ECIMSBWebfax     F698A1703618409
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G1530FThe Great Escape
-OL,5,     GClassic - no, wait - iconic World
-OL,6,     GWar II movie starring Steve
-OL,7,     GMcQueen, James Garner and Richard
-OL,8,     GAttenborough. Allied soldiers
-OL,9,     Gplan a daring escape from a
-OL,10,     GGerman prisoner of war camp.
-OL,11,G1850FRaiders of the Lost Ark
-OL,12,     GHarrison Ford's first outing as
-OL,13,     Gthe swashbuckling archaeology
-OL,14,     Gprofessor. Indy races against the
-OL,15,     GNazis to hunt down the Ark of the
-OL,16,     GCovenant in Steven Spielberg's
-OL,17,     Gaction-adventure.
+OL,4,G1850FRaiders of the Lost Ark
+OL,5,     GHarrison Ford's first outing as
+OL,6,     Gthe swashbuckling archaeology
+OL,7,     Gprofessor. Indy races against the
+OL,8,     GNazis to hunt down the Ark of the
+OL,9,     GCovenant in Steven Spielberg's
+OL,10,     Gaction-adventure.
+OL,11,G2100FBig Fat Quiz of the Year 2023
+OL,12,     GJimmy Carr hosts as Richard
+OL,13,     GAyoade, Katherine Ryan, Mel
+OL,14,     GGiedroyc, Mo Gilligan, Rosie
+OL,15,     GJones and Kevin Bridges answer
+OL,16,     Gquestions about Keir Starmer's
+OL,17,     Gsparkle and the Pope's fashion
+OL,18,     Gsense.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703614799
+OL,0,        ECIMSBWebfax     F698A1703618409
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G1800FAll Creatures Great & Small:...
-OL,5,     GYorkshire Vet Special. With
-OL,6,     Gexclusive behind the scenes
-OL,7,     Gaccess to the film set and
-OL,8,     Gstudios, Yorkshire Vets Peter
-OL,9,     GWright and Shona Searson visit
-OL,10,     Gthe hit drama.
-OL,11,G1900FWorld's Strongest Man 2023
-OL,12,     GThe Qualifying tour reaches its
-OL,13,     Gconclusion as the World Tour
-OL,14,     GFinals return to the OVO Hydro in
-OL,15,     GGlasgow as stand-out performers
-OL,16,     Gfrom across the season go head-to-
-OL,17,     Ghead for supremacy.
+OL,4,G1900FWorld's Strongest Man 2023
+OL,5,     GThe Qualifying tour reaches its
+OL,6,     Gconclusion as the World Tour
+OL,7,     GFinals return to the OVO Hydro in
+OL,8,     GGlasgow as stand-out performers
+OL,9,     Gfrom across the season go head-to-
+OL,10,     Ghead for supremacy.
+OL,11,G2000FRonnie Corbett: My 30 Funniest
+OL,12,     FMoments
+OL,13,     GThis special documentary
+OL,14,     Gcelebrates one of our most
+OL,15,     Gtalented comedians and comedy
+OL,16,     Gactors through 30 moments - from
+OL,17,     Gsketches to sitcoms - in a career
+OL,18,     Gspanning six decades.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
