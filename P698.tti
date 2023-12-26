@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703567865
+OL,0,        ECIMSBWebfax     F698A1703571476
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703567865
+OL,0,        ECIMSBWebfax     F698A1703571476
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,28 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703567865
+OL,0,        ECIMSBWebfax     F698A1703571476
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 25 DEC
-OL,4,G0315FBBC News
+OL,3,CProgramme listings for TUE 26 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0855FTabby McTat
+OL,9,     GAn animated special for all the
+OL,10,     Gfamily about Tabby McTat, based
+OL,11,     Gon the picture book written by
+OL,12,     GJulia Donaldson and illustrated
+OL,13,     Gby Axel Scheffler.
+OL,14,G0920FThe Gruffalo's Child
+OL,15,     GAnimated film based on the
+OL,16,     Gclassic children's picture book.
+OL,17,     GA little Gruffalo ignores her
+OL,18,     Gfather's warnings and tiptoes out
+OL,19,     Ginto the snow in search of the
+OL,20,     GBig Bad Mouse...
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +76,29 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703567865
+OL,0,        ECIMSBWebfax     F698A1703571476
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 25 DEC
-OL,4,G0435FThis is BBC Two
+OL,3,CProgramme listings for TUE 26 DEC
+OL,4,G0615FPlanet Earth III
+OL,5,     GDavid Attenborough explores
+OL,6,     Gearth's greatest wildernesses,
+OL,7,     Gwhere extraordinary life survives
+OL,8,     Gin unexpected ways, and nature
+OL,9,     Gputs on its most dramatic show.
+OL,10,G0715FBargain Hunt: Christmas Special
+OL,11,     GTwo Christmas-loving teams enjoy
+OL,12,     Ga festive shop in Malvern with
+OL,13,     GTim Weeks and Izzie Balmer, while
+OL,14,     GCharlie Ross discovers how to
+OL,15,     Gmake the perfect Christmas
+OL,16,     Gcracker.
+OL,17,G0800FThe Great British Sewing Bee:...
+OL,18,     GCelebrity Christmas Special. With
+OL,19,     Gthe Rev Kate Bottley, Antony
+OL,20,     GCotton, Kiell Smith-Bynoe and
+OL,21,     GAnneka Rice.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,65 +106,77 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703567865
+OL,0,        ECIMSBWebfax     F698A1703571476
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 25 DEC
-OL,4,G0505FLove Your Garden
-OL,5,     GBicester: Alan and the team are
-OL,6,     Gin the Oxfordshire town of
-OL,7,     GBicester to transform the drab
-OL,8,     Gnew-build garden of local
-OL,9,     Gcommunity heroes Adam and Alice
-OL,10,     Ginto a voyage around the Far East.
+OL,3,CProgramme listings for TUE 26 DEC
+OL,4,G0600FThe Masked Singer: Christmas
+OL,5,     FSpecial
+OL,6,     GSpecial guest Leona Lewis joins
+OL,7,     Ghost Joel Dommett as Partridge ,
+OL,8,     GDecorations, Reindeer and Sprout
+OL,9,     Gbattle to be crowned as Christmas
+OL,10,     Gnumber one.
+OL,11,G0720FAinsley's Festive Flavours
+OL,12,     GJoin Ainsley Harriott in the
+OL,13,     Gkitchen for a fun-filled
+OL,14,     GChristmas feast with guests Joe
+OL,15,     GPasquale, Jane McDonald, chef
+OL,16,     GAngela Hartnett and drinks expert
+OL,17,     GAndy Clarke all dropping by.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703567865
+OL,0,        ECIMSBWebfax     F698A1703571476
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 25 DEC
-OL,4,G0450FMog's Christmas
-OL,5,     GFamily animation. The Thomas
-OL,6,     Gfamily's cat Mog is feeling
-OL,7,     Gignored on Christmas Eve, so she
-OL,8,     Gdecides to spend the night on the
-OL,9,     Groof. With the voices of Benedict
-OL,10,     GCumberbatch and Claire Foy.
-OL,11,G0520FJamie: Keep Cooking at Christmas
-OL,12,     GJamie Oliver gets creative with
-OL,13,     Gleftovers and makes an oozy pie
-OL,14,     Gwith turkey meat, stuffing, gravy
-OL,15,     Gand even sprouts, a fonduta with
-OL,16,     Gbits from the cheeseboard, and an
-OL,17,     G'anything goes' strudel.
+OL,3,CProgramme listings for TUE 26 DEC
+OL,4,G0600FThe Simpsons
+OL,5,     GWe're on the Road to D'oh-where:
+OL,6,     GHomer misses a Moe's Tavern trip
+OL,7,     Gto Las Vegas when he has to drive
+OL,8,     GBart to juvenile delinquent camp.
+OL,9,G0625FTad the Lost Explorer and the...
+OL,10,     GSecret of King Midas: Animated
+OL,11,     Gadventure. Bumbling explorer Tad
+OL,12,     GJones returns to rescue the girl
+OL,13,     Ghe fancies, using a notebook that
+OL,14,     Gcontains clues to finding King
+OL,15,     GMidas's necklace.
+OL,16,G0750FThe SpongeBob SquarePants Movie
+OL,17,     GAnimated family comedy. SpongeBob
+OL,18,     Gand his starfish pal Patrick set
+OL,19,     Gout to recover King Neptune's
+OL,20,     Gcrown, which was stolen by
+OL,21,     GPlankton in order to cause
+OL,22,     Gproblems for Mr Krabs.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703567865
+OL,0,        ECIMSBWebfax     F698A1703571476
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 25 DEC
-OL,4,G0505FHouse Doctor
-OL,5,     GHome-improvement series with
-OL,6,     Ginterior designer Ann Maurice and
-OL,7,     GAlistair Appleton.
-OL,8,G0530FEntertainment News on 5
-OL,9,     GA daily round-up of showbiz news
-OL,10,     Gand gossip from around the world,
-OL,11,     Gfocusing on celebrities, movies,
-OL,12,     Gmusic and entertainment.
-OL,13,G0540FPip and Posy
-OL,14,     GWhen Pip can't get the handshake
-OL,15,     Gright to join the club that
-OL,16,     GFrankie has created, his pride is
-OL,17,     Ghurt and he says he doesn't want
-OL,18,     Gto be in the club.
+OL,3,CProgramme listings for TUE 26 DEC
+OL,4,G0615FPeppa Pig
+OL,5,     GSanta's Grotto: Peppa and George
+OL,6,     Gpay a visit to Father Christmas.
+OL,7,     GPeppa asks for a very special
+OL,8,     Gdoll as a present, but will Santa
+OL,9,     Gbe able to deliver it to her?
+OL,10,G0620FPeppa Pig
+OL,11,     GFather Christmas delivers a
+OL,12,     Gfantastic present for Grandpa
+OL,13,     GPig: a toy flying machine.
+OL,14,G0625FBen and Holly's Little Kingdom
+OL,15,     GBen and Holly save the day when
+OL,16,     GMr Elf forgets to deliver the
+OL,17,     Glast box of toys to Father
+OL,18,     GChristmas.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
