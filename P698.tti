@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703643670
+OL,0,        ECIMSBWebfax     F698A1703647278
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703643670
+OL,0,        ECIMSBWebfax     F698A1703647278
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,20 +47,12 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703643670
+OL,0,        ECIMSBWebfax     F698A1703647278
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G0220FBlankety Blank Christmas Special
-OL,5,     GThe panel game is back for a
-OL,6,     Gfestive special as Bradley Walsh
-OL,7,     Gand a group of celebrities fill
-OL,8,     Gin the Christmassy blanks to win
-OL,9,     Gsome brilliant prizes for our
-OL,10,     Glucky contestants.
-OL,11,G0255FWeather for the Week Ahead
-OL,12,G0300FBBC News
+OL,4,G0300FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -68,30 +60,24 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703643670
+OL,0,        ECIMSBWebfax     F698A1703647278
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G0155FDoctor Who
-OL,5,     GLong ago, on Christmas Eve, a
-OL,6,     Gbaby was abandoned in the snow.
-OL,7,     GToday, Ruby Sunday meets the
-OL,8,     GDoctor, goblins, stolen babies
-OL,9,     Gand, perhaps, the secret of her
-OL,10,     Gbirth.
-OL,11,G0255Fimagine Russell T Davies: The
-OL,12,     FDoctor and Me
-OL,13,     Gimagine... follows Russell T
-OL,14,     GDavies's return to Doctor Who.
-OL,15,     GContains some strong language,
-OL,16,     Gsome sexual content and some
-OL,17,     Gviolence.
-OL,18,G0410FCelebrity MasterChef: Christmas
-OL,19,     FCook-Off 2023
-OL,20,     GFour celebrities from past series
-OL,21,     Gcompete to be MasterChef
-OL,22,     GChristmas Champion 2023.
+OL,4,G0255Fimagine Russell T Davies: The
+OL,5,     FDoctor and Me
+OL,6,     Gimagine... follows Russell T
+OL,7,     GDavies's return to Doctor Who.
+OL,8,     GContains some strong language,
+OL,9,     Gsome sexual content and some
+OL,10,     Gviolence.
+OL,11,G0410FCelebrity MasterChef: Christmas
+OL,12,     FCook-Off 2023
+OL,13,     GFour celebrities from past series
+OL,14,     Gcompete to be MasterChef
+OL,15,     GChristmas Champion 2023.
+OL,16,G0510FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -99,54 +85,59 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703643670
+OL,0,        ECIMSBWebfax     F698A1703647278
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G0125FShop on TV
-OL,5,     GTeleshopping.
-OL,6,G0300FThe Real Full Monty: Jingle Balls
-OL,7,     GAshley Banjo, Coleen Nolan and
-OL,8,     Gtheir celebrities put cancer
-OL,9,     Gawareness in the spotlight with
-OL,10,     Gan all-singing and all-dancing
-OL,11,     Gspectacular at the New Wimbledon
-OL,12,     GTheatre.
-OL,13,G0415FUnwind With ITV
-OL,14,     GYour daily escape designed to
-OL,15,     Gcalm the mind and encourage
-OL,16,     Grelaxation and reflection.
+OL,4,G0300FThe Real Full Monty: Jingle Balls
+OL,5,     GAshley Banjo, Coleen Nolan and
+OL,6,     Gtheir celebrities put cancer
+OL,7,     Gawareness in the spotlight with
+OL,8,     Gan all-singing and all-dancing
+OL,9,     Gspectacular at the New Wimbledon
+OL,10,     GTheatre.
+OL,11,G0415FUnwind With ITV
+OL,12,     GYour daily escape designed to
+OL,13,     Gcalm the mind and encourage
+OL,14,     Grelaxation and reflection.
+OL,15,G0535FGino's Italian Express
+OL,16,     GMilan - Treviglio - Bergamo:
+OL,17,     GGino's journey this time begins
+OL,18,     Gin Milan - the Italian capital of
+OL,19,     Gfashion - and is followed by
+OL,20,     Gvisits to Treviglio and the
+OL,21,     Gmedieval town of Bergamo.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703643670
+OL,0,        ECIMSBWebfax     F698A1703647278
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G0100FTeenage Mutant Ninja Turtles
-OL,5,     GPart-animated action-comedy with
-OL,6,     GMegan Fox. Can four six-foot,
-OL,7,     Gsuper-powered mutant turtles that
-OL,8,     Gwere once journalist April
-OL,9,     GO'Neil's pets save New York from
-OL,10,     Gthe Foot Clan? Violence.
-OL,11,G0245FThe Festive Pottery Throw Down
-OL,12,     GHugh Dennis, Sophie Duker, Alice
-OL,13,     GLevine and Joe Swash take on some
-OL,14,     Gfestive firing as they hand-build
-OL,15,     Ga Christmas birdhouse and compete
-OL,16,     Gto throw the most festive nibbles
-OL,17,     Gbowls.
+OL,4,G0245FThe Festive Pottery Throw Down
+OL,5,     GHugh Dennis, Sophie Duker, Alice
+OL,6,     GLevine and Joe Swash take on some
+OL,7,     Gfestive firing as they hand-build
+OL,8,     Ga Christmas birdhouse and compete
+OL,9,     Gto throw the most festive nibbles
+OL,10,     Gbowls.
+OL,11,G0345FExtraordinary Escapes at...
+OL,12,     GChristmas with Sandi Toksvig: In
+OL,13,     Gthis magical episode, Deborah
+OL,14,     GMeaden, Fay Ripley and Dr Maggie
+OL,15,     GAderin-Pocock join Sandi Toksvig
+OL,16,     Gto explore some awe-inspiring
+OL,17,     Glocations in snowy Norway.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703643670
+OL,0,        ECIMSBWebfax     F698A1703647278
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
