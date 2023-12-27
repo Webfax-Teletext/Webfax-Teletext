@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703654494
+OL,0,        ECIMSBWebfax     F698A1703658105
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703654494
+OL,0,        ECIMSBWebfax     F698A1703658105
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,29 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703654494
+OL,0,        ECIMSBWebfax     F698A1703658105
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G0300FBBC News
+OL,3,CProgramme listings for WED 27 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0910FMatch of the Day
+OL,9,     GGary Lineker presents all the
+OL,10,     Ggoals, drama and reaction from
+OL,11,     GBoxing Day's five Premier League
+OL,12,     Gfixtures, including Liverpool's
+OL,13,     Gtrip to Turf Moor to take on
+OL,14,     GBurnley.
+OL,15,G1015FTrolls
+OL,16,     GChildren's adventure. The Trolls
+OL,17,     Gare creatures that sing, dance
+OL,18,     Gand love to hug - but when they
+OL,19,     Gare kidnapped, it is up to the
+OL,20,     Gone grumpy troll to save the
+OL,21,     Gvillage.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +77,28 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703654494
+OL,0,        ECIMSBWebfax     F698A1703658105
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 26 DEC
+OL,3,CProgramme listings for WED 27 DEC
 OL,4,G0505FThis is BBC Two
+OL,5,G0625FToy Story 4
+OL,6,     GWoody, Buzz and the gang are
+OL,7,     Glaunched on a wild quest filled
+OL,8,     Gwith unexpected new characters -
+OL,9,     Gand one long-lost friend!
+OL,10,G0755FCelebrity Escape to the Country
+OL,11,     GJules Hudson helps Jenny 'The
+OL,12,     GVixen' Ryan and her partner Thom
+OL,13,     Gfind a new countryside home in
+OL,14,     Grural Lancashire, worthy of the
+OL,15,     GUK's 'queen of the quiz'.
+OL,16,G0840FSuspicion
+OL,17,     GClassic Alfred Hitchcock thriller
+OL,18,     Gabout a timid heiress who becomes
+OL,19,     Gconvinced that her husband is
+OL,20,     Gtrying to kill her.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,64 +106,76 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703654494
+OL,0,        ECIMSBWebfax     F698A1703658105
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G0415FUnwind With ITV
-OL,5,     GYour daily escape designed to
-OL,6,     Gcalm the mind and encourage
-OL,7,     Grelaxation and reflection.
-OL,8,G0535FGino's Italian Express
-OL,9,     GMilan - Treviglio - Bergamo:
-OL,10,     GGino's journey this time begins
-OL,11,     Gin Milan - the Italian capital of
-OL,12,     Gfashion - and is followed by
-OL,13,     Gvisits to Treviglio and the
-OL,14,     Gmedieval town of Bergamo.
+OL,3,CProgramme listings for WED 27 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GFrom Donny Osmond to Hannah
+OL,9,     GWaddingham, Lorraine looks back
+OL,10,     Gat her favourite moments with the
+OL,11,     Gstars from 2023.
+OL,12,G1000FThis Morning
+OL,13,     GComedian Mo Gilligan joins Rylan
+OL,14,     GClark and Emma Willis ahead of
+OL,15,     Gthe new series of The Masked
+OL,16,     GSinger. Plus, Phil Vickery shows
+OL,17,     Gus how to turn leftovers into a
+OL,18,     Gfestive family pie.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703654494
+OL,0,        ECIMSBWebfax     F698A1703658105
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G0510FCouples Come Dine with Me
-OL,5,     GThree couples put their hosting
-OL,6,     Gskills to the test on Jersey, in
-OL,7,     Ga week featuring wedding talk, a
-OL,8,     Gchinchilla dinner guest and
-OL,9,     Gcocktails from a fake cow...
+OL,3,CProgramme listings for WED 27 DEC
+OL,4,G0600FThe Simpsons
+OL,5,     GKill Gil, Volumes I & II: The
+OL,6,     GSimpsons are stuck with an
+OL,7,     Gunwanted house guest, Gil, at
+OL,8,     GChristmas. After putting up with
+OL,9,     Ghim for a year, Marge throws him
+OL,10,     Gout on Christmas Eve.
+OL,11,G0625FThe Simpsons
+OL,12,     GThe Ten-Per-Cent Solution: Krusty
+OL,13,     Gthe Clown's career is stuck in a
+OL,14,     Grut when the TV network pulls his
+OL,15,     Gshow. Can his first agent, Annie
+OL,16,     G, help him craft a comeback?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703654494
+OL,0,        ECIMSBWebfax     F698A1703658105
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 26 DEC
-OL,4,G0520FFriends
-OL,5,     G...Inappropriate Song. When
-OL,6,     GChandler's former rival sells his
-OL,7,     Gapartment, Chandler asks Joey to
-OL,8,     Ghelp him secretly inspect it.
-OL,9,     GThey're shocked to find an old
-OL,10,     Gvideo of Monica and Richard.
-OL,11,G0540FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the world,
-OL,14,     Gfocusing on celebrities, movies,
-OL,15,     Gmusic and entertainment.
-OL,16,G0550FThomas & Friends
-OL,17,     GGordon has a tantrum about all
-OL,18,     Gthe changes being made to the
-OL,19,     Grailway but his new friend Nia
-OL,20,     Gfrom Kenya helps him to see the
-OL,21,     Gchanges in a different light.
+OL,3,CProgramme listings for WED 27 DEC
+OL,4,G0615FOggy Oggy
+OL,5,     GOggy Oggy helps Santa Paws
+OL,6,     Gdistribute gifts. But Prankster,
+OL,7,     Gdisguised in a beard and hat, is
+OL,8,     Gtrying to steal all the presents.
+OL,9,     GOggy Oggy must stop her!
+OL,10,G0625FOdo
+OL,11,     GIt's time for the yearly Apple
+OL,12,     GFestival, but everything is going
+OL,13,     Gwrong and Reggie the fox gets the
+OL,14,     Gblame. Will Odo be able to prove
+OL,15,     Gthat his furry friend is innocent?
+OL,16,G0630FTweedy & Fluff
+OL,17,     GBrand new stop-motion animation.
+OL,18,     GWhen Fluff has a sticky encounter
+OL,19,     Gwith a roll of tape, Tweedy must
+OL,20,     Gstep in to help his frightened
+OL,21,     Gpet! But can Tweedy calm him down
+OL,22,     Genough to help?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
