@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703755570
+OL,0,        ECIMSBWebfax     F698A1703759180
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703755570
+OL,0,        ECIMSBWebfax     F698A1703759180
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,29 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703755570
+OL,0,        ECIMSBWebfax     F698A1703759180
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 28 DEC
-OL,4,G0900FCBeebies Panto: Robin Hood
-OL,5,     G2023. A host of CBeebies stars
-OL,6,     Gstage an action-packed festive
-OL,7,     Gadventure in Sherwood Forest,
-OL,8,     Gfull of catchy songs, dancing and
-OL,9,     Gpantomime fun for all the family.
-OL,10,G1005FTrolls World Tour
-OL,11,     GSix troll tribes clash over their
-OL,12,     Gdevotion to different types of
-OL,13,     Gmusic. Queen Poppy has to prevent
-OL,14,     GQueen Barb of the rock tribe from
-OL,15,     Gdestroying all other music.
-OL,16,G1130FInside Out
-OL,17,     GThe five emotions living in a
-OL,18,     Ggirl's brain all battle to avoid
-OL,19,     Ga complete meltdown.
-OL,20,G1300FBBC News
-OL,21,G1320FRegional News
+OL,4,G1005FTrolls World Tour
+OL,5,     GSix troll tribes clash over their
+OL,6,     Gdevotion to different types of
+OL,7,     Gmusic. Queen Poppy has to prevent
+OL,8,     GQueen Barb of the rock tribe from
+OL,9,     Gdestroying all other music.
+OL,10,G1130FInside Out
+OL,11,     GThe five emotions living in a
+OL,12,     Ggirl's brain all battle to avoid
+OL,13,     Ga complete meltdown.
+OL,14,G1300FBBC News
+OL,15,G1320FRegional News
+OL,16,G1325FSuperworm
+OL,17,     GAn animated comedy for all the
+OL,18,     Gfamily about Superworm, a super-
+OL,19,     Glong and super-strong worm. Based
+OL,20,     Gon the picture book written by
+OL,21,     GJulia Donaldson and illustrated
+OL,22,     Gby Axel Scheffler.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -77,30 +78,26 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703755570
+OL,0,        ECIMSBWebfax     F698A1703759180
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 28 DEC
-OL,4,G0835FBears About the House
-OL,5,     GConservationist Giles Clark is in
-OL,6,     GLaos caring for a rescued sun
-OL,7,     Gbear cub.
-OL,8,G0935FGreat Expectations (1946)
-OL,9,     GVivid adaptation of the Dickens
-OL,10,     Gclassic about a poor young orphan
-OL,11,     Gwho becomes a gentleman of means
-OL,12,     Gthanks to a mysterious benefactor.
-OL,13,G1130FHomes Under the Hammer
-OL,14,     GFeaturing properties in the West
-OL,15,     GMidlands, Greater Manchester and
-OL,16,     GWalsall.
-OL,17,G1230FBargain Hunt
-OL,18,     GToday's show comes from the Royal
-OL,19,     GWelsh Showground at Builth Wells,
-OL,20,     Gwhere Eric Knowles is joined by
-OL,21,     Gexperts Caroline Hawley and Raj
-OL,22,     GBisram.
+OL,4,G0935FGreat Expectations (1946)
+OL,5,     GVivid adaptation of the Dickens
+OL,6,     Gclassic about a poor young orphan
+OL,7,     Gwho becomes a gentleman of means
+OL,8,     Gthanks to a mysterious benefactor.
+OL,9,G1130FHomes Under the Hammer
+OL,10,     GFeaturing properties in the West
+OL,11,     GMidlands, Greater Manchester and
+OL,12,     GWalsall.
+OL,13,G1230FBargain Hunt
+OL,14,     GToday's show comes from the Royal
+OL,15,     GWelsh Showground at Builth Wells,
+OL,16,     Gwhere Eric Knowles is joined by
+OL,17,     Gexperts Caroline Hawley and Raj
+OL,18,     GBisram.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -108,79 +105,77 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703755570
+OL,0,        ECIMSBWebfax     F698A1703759180
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 28 DEC
-OL,4,G0900FLorraine
-OL,5,     GLorraine shares her highlights
-OL,6,     Gfrom 2023, including catching up
-OL,7,     Gwith Dolly Parton and Niall Horan.
-OL,8,G1000FThis Morning
-OL,9,     GUnlikely best mates Jordan North
-OL,10,     Gand William Hanson discuss
-OL,11,     Gputting pen to paper in a new
-OL,12,     Gbook and William shares some
-OL,13,     Gessential etiquette advice for
-OL,14,     Gyour New Year celebrations.
-OL,15,G1200FLoose Women
-OL,16,     GCoronation Street star Jodie
-OL,17,     GPrenger joins Christine Lampard,
-OL,18,     GLinda Robson, Gloria Hunniford
-OL,19,     Gand Kelle Bryan to reveal all
-OL,20,     Gabout a big New Year's Eve
-OL,21,     Gstoryline in the soap.
+OL,4,G1000FThis Morning
+OL,5,     GUnlikely best mates Jordan North
+OL,6,     Gand William Hanson discuss
+OL,7,     Gputting pen to paper in a new
+OL,8,     Gbook and William shares some
+OL,9,     Gessential etiquette advice for
+OL,10,     Gyour New Year celebrations.
+OL,11,G1200FLoose Women
+OL,12,     GCoronation Street star Jodie
+OL,13,     GPrenger joins Christine Lampard,
+OL,14,     GLinda Robson, Gloria Hunniford
+OL,15,     Gand Kelle Bryan to reveal all
+OL,16,     Gabout a big New Year's Eve
+OL,17,     Gstoryline in the soap.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703755570
+OL,0,        ECIMSBWebfax     F698A1703759180
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 28 DEC
-OL,4,G0810FAlvin and the Chipmunks The
-OL,5,     FSqueakquel
-OL,6,     GThe animated singing rodents
-OL,7,     Greturn for another family
-OL,8,     Gadventure. This time they must
-OL,9,     Gcope with school and a rivalry
-OL,10,     Gwith a female singing group.
-OL,11,G0950FAliens in the Attic
-OL,12,     GSci-fi comedy-adventure. A group
-OL,13,     Gof children find four small
-OL,14,     Galiens at their remote holiday
-OL,15,     Gcottage. But they want to conquer
-OL,16,     GEarth, and only the kids can stop
-OL,17,     Gthem.
-OL,18,G1135FChannel 4 News Summary
-OL,19,     GChannel 4's midday news summary.
+OL,4,G0950FAliens in the Attic
+OL,5,     GSci-fi comedy-adventure. A group
+OL,6,     Gof children find four small
+OL,7,     Galiens at their remote holiday
+OL,8,     Gcottage. But they want to conquer
+OL,9,     GEarth, and only the kids can stop
+OL,10,     Gthem.
+OL,11,G1135FChannel 4 News Summary
+OL,12,     GChannel 4's midday news summary.
+OL,13,G1140FJunior Bake Off
+OL,14,     GThe tastiest bits from the second
+OL,15,     Gheat of Junior Bake Off 2021,
+OL,16,     Gfrom edible biscuit sunglasses to
+OL,17,     Ga rainbow baked Alaska and a
+OL,18,     Gfamily crest pie.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703755570
+OL,0,        ECIMSBWebfax     F698A1703759180
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 28 DEC
-OL,4,G0915FFriends
-OL,5,     GThe six friends say goodbye and
-OL,6,     Gembark on the next chapters of
-OL,7,     Gtheir lives, with momentous
-OL,8,     Gevents and last-minute surprises.
-OL,9,G0945FThe Secret Garden
-OL,10,     GChildren's classic starring Kate
-OL,11,     GMaberly and Heydon Prowse. An
-OL,12,     Gorphan who is sent to live in her
-OL,13,     Guncle's sombre mansion discovers
-OL,14,     Ga forbidden walled garden.
-OL,15,G1045FEntertainment News on 5
-OL,16,     GA daily round-up of showbiz news
-OL,17,     Gand gossip from around the world,
-OL,18,     Gfocusing on celebrities, movies,
-OL,19,     Gmusic and entertainment.
+OL,4,G0945FThe Secret Garden
+OL,5,     GChildren's classic starring Kate
+OL,6,     GMaberly and Heydon Prowse. An
+OL,7,     Gorphan who is sent to live in her
+OL,8,     Guncle's sombre mansion discovers
+OL,9,     Ga forbidden walled garden.
+OL,10,G1045FEntertainment News on 5
+OL,11,     GA daily round-up of showbiz news
+OL,12,     Gand gossip from around the world,
+OL,13,     Gfocusing on celebrities, movies,
+OL,14,     Gmusic and entertainment.
+OL,15,G1050FThe Secret Garden
+OL,16,     GChildren's classic starring Kate
+OL,17,     GMaberly and Heydon Prowse. An
+OL,18,     Gorphan who is sent to live in her
+OL,19,     Guncle's sombre mansion discovers
+OL,20,     Ga forbidden walled garden.
+OL,21,G1155F5 News at Lunchtime
+OL,22,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
