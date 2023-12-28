@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703741126
+OL,0,        ECIMSBWebfax     F698A1703744737
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703741126
+OL,0,        ECIMSBWebfax     F698A1703744737
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,12 +47,27 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703741126
+OL,0,        ECIMSBWebfax     F698A1703744737
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 27 DEC
-OL,4,G0255FBBC News
+OL,3,CProgramme listings for THU 28 DEC
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0900FCBeebies Panto: Robin Hood
+OL,9,     G2023. A host of CBeebies stars
+OL,10,     Gstage an action-packed festive
+OL,11,     Gadventure in Sherwood Forest,
+OL,12,     Gfull of catchy songs, dancing and
+OL,13,     Gpantomime fun for all the family.
+OL,14,G1005FTrolls World Tour
+OL,15,     GSix troll tribes clash over their
+OL,16,     Gdevotion to different types of
+OL,17,     Gmusic. Queen Poppy has to prevent
+OL,18,     GQueen Barb of the rock tribe from
+OL,19,     Gdestroying all other music.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -60,12 +75,27 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703741126
+OL,0,        ECIMSBWebfax     F698A1703744737
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 27 DEC
-OL,4,G0450FThis is BBC Two
+OL,3,CProgramme listings for THU 28 DEC
+OL,4,G0605FTabby McTat
+OL,5,     GAn animated special for all the
+OL,6,     Gfamily about Tabby McTat, based
+OL,7,     Gon the picture book written by
+OL,8,     GJulia Donaldson and illustrated
+OL,9,     Gby Axel Scheffler.
+OL,10,G0635FMy Life at Christmas: Adrian...
+OL,11,     GChiles Meets Martin and Shirlie
+OL,12,     GKemp. Adrian Chiles meets Martin
+OL,13,     Gand Shirlie Kemp to discover what
+OL,14,     GChristmas means to them.
+OL,15,G0735FHomes Under the Hammer: Celebrity
+OL,16,     FSpecial
+OL,17,     G'Traitor' Amanda Lovett joins
+OL,18,     GTommy Walsh to look around a
+OL,19,     Gderelict flat in Bucks.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -73,60 +103,72 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703741126
+OL,0,        ECIMSBWebfax     F698A1703744737
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 27 DEC
-OL,4,G0505FAinsley's Festive Flavours
-OL,5,     GJoin Ainsley Harriott in the
-OL,6,     Gkitchen for a fun-filled
-OL,7,     GChristmas feast with guests Joe
-OL,8,     GPasquale, Jane McDonald, chef
-OL,9,     GAngela Hartnett and drinks expert
-OL,10,     GAndy Clarke all dropping by.
+OL,3,CProgramme listings for THU 28 DEC
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine shares her highlights
+OL,9,     Gfrom 2023, including catching up
+OL,10,     Gwith Dolly Parton and Niall Horan.
+OL,11,G1000FThis Morning
+OL,12,     GUnlikely best mates Jordan North
+OL,13,     Gand William Hanson discuss
+OL,14,     Gputting pen to paper in a new
+OL,15,     Gbook and William shares some
+OL,16,     Gessential etiquette advice for
+OL,17,     Gyour New Year celebrations.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703741126
+OL,0,        ECIMSBWebfax     F698A1703744737
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 27 DEC
-OL,4,G0505FThe Piano at Christmas
-OL,5,     GClaudia, Mika and Lang Lang are
-OL,6,     Gback with a festive songbook,
-OL,7,     Gsecret Santa, celebrity surprises
-OL,8,     Gand an unmissable musical finale
-OL,9,     Gfor the holiday crowds at
-OL,10,     GLondon's King's Cross station.
+OL,3,CProgramme listings for THU 28 DEC
+OL,4,G0605FThe Simpsons
+OL,5,     GMr. Lisa's Opus: A look at Lisa's
+OL,6,     Glife from talking toddler to
+OL,7,     Gcollege-bound. And Homer enters a
+OL,8,     G12-step plan.
+OL,9,G0630FThe Simpsons
+OL,10,     GHomer the Vigilante: Homer sets
+OL,11,     Gup a chaotic vigilante group to
+OL,12,     Gcombat one-man crime spree Molloy
+OL,13,     G.
+OL,14,G0655FThe Simpsons
+OL,15,     GMy Fair Laddy: Lisa tries to
+OL,16,     Gtransform Groundskeeper Willie
+OL,17,     Ginto a gentleman after his shack
+OL,18,     Gcollapses and he's forced to move
+OL,19,     Gin with her family.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703741126
+OL,0,        ECIMSBWebfax     F698A1703744737
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 27 DEC
-OL,4,G0525FEntertainment News on 5
-OL,5,     GA daily round-up of showbiz news
-OL,6,     Gand gossip from around the world,
-OL,7,     Gfocusing on celebrities, movies,
-OL,8,     Gmusic and entertainment.
-OL,9,G0530FPip and Posy
-OL,10,     GWhen Pip and Posy see Jamila
-OL,11,     Gplaying by herself, they assume
-OL,12,     Gshe is lonely and decide to spend
-OL,13,     Gthe whole day playing with just
-OL,14,     Gher in Jamila Day.
-OL,15,G0535FThomas & Friends
-OL,16,     GRebecca, a big new tender engine,
-OL,17,     Gcomes to the Island of Sodor and
-OL,18,     Gworks so hard not to be late that
-OL,19,     Gshe keeps leaving stations too
-OL,20,     Gearly!
+OL,3,CProgramme listings for THU 28 DEC
+OL,4,G0620FOggy Oggy
+OL,5,     GOggy Oggy stands in for
+OL,6,     GWeatherCat who hangs the day's
+OL,7,     Gweather up in the sky and
+OL,8,     Gcontrols sunshine and rainfall.
+OL,9,     GUnfortunately, Oggy Oggy
+OL,10,     Gderegulates the climate!
+OL,11,G0630FOdo
+OL,12,     GThe toucans love joking and
+OL,13,     Gmaking people laugh, but when
+OL,14,     Gthey accidentally injure Doodle,
+OL,15,     Gthey ask Odo to teach them how to
+OL,16,     Gbe sensible.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
