@@ -2,7 +2,7 @@ PN,69801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703788055
+OL,0,        ECIMSBWebfax     F698A1703791665
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -23,7 +23,7 @@ PN,69802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703788055
+OL,0,        ECIMSBWebfax     F698A1703791665
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,30 +47,30 @@ PN,69803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703788055
+OL,0,        ECIMSBWebfax     F698A1703791665
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 28 DEC
-OL,4,G1815FBBC News
-OL,5,G1835FRegional News
-OL,6,G1845FCelebrity Escape to the Country
-OL,7,     GNicki Chapman helps Christopher
-OL,8,     GBiggins and his partner escape to
-OL,9,     Gthe rural Home Counties.
-OL,10,G1930FEastEnders
-OL,11,     GThe Walford residents try to come
-OL,12,     Gto terms with recent events.
-OL,13,G2000FMasterChef: Battle of the Critics
-OL,14,     F2023
-OL,15,     GFive restaurant critics put their
-OL,16,     Gculinary reputations on the line
-OL,17,     Gas they battle for the title of
-OL,18,     GMasterChef Critics Champion 2023.
-OL,19,G2100FMurder Is Easy
-OL,20,     GAs Wychwood suffers another
-OL,21,     Gdeath, Luke Fitzwilliam is
-OL,22,     Gdetermined to reveal the murderer.
+OL,4,G1845FCelebrity Escape to the Country
+OL,5,     GNicki Chapman helps Christopher
+OL,6,     GBiggins and his partner escape to
+OL,7,     Gthe rural Home Counties.
+OL,8,G1930FEastEnders
+OL,9,     GThe Walford residents try to come
+OL,10,     Gto terms with recent events.
+OL,11,G2000FMasterChef: Battle of the Critics
+OL,12,     F2023
+OL,13,     GFive restaurant critics put their
+OL,14,     Gculinary reputations on the line
+OL,15,     Gas they battle for the title of
+OL,16,     GMasterChef Critics Champion 2023.
+OL,17,G2100FMurder Is Easy
+OL,18,     GAs Wychwood suffers another
+OL,19,     Gdeath, Luke Fitzwilliam is
+OL,20,     Gdetermined to reveal the murderer.
+OL,21,G2200FBBC News and Weather
+OL,22,G2225FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
@@ -78,26 +78,27 @@ PN,69804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703788055
+OL,0,        ECIMSBWebfax     F698A1703791665
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 28 DEC
-OL,4,G1625FMurder on the Orient Express
-OL,5,     GReturning to England from
-OL,6,     GIstanbul on the Orient Express,
-OL,7,     GHercule Poirot is asked to
-OL,8,     Ginvestigate a murder.
-OL,9,G1830FTop of the Pops: Review of the
-OL,10,     FYear 2023
-OL,11,     GClara Amfo looks back over many
-OL,12,     Gof the musical stories and
-OL,13,     Ghighlights of 2023.
-OL,14,G1930FRichard Osman's Festive House of
-OL,15,     FGames
-OL,16,     GHugh Dennis, Kerry Godliman,
-OL,17,     GGbemisola Ikumelo and Harry Judd
-OL,18,     Gface more questions.
+OL,4,G1830FTop of the Pops: Review of the
+OL,5,     FYear 2023
+OL,6,     GClara Amfo looks back over many
+OL,7,     Gof the musical stories and
+OL,8,     Ghighlights of 2023.
+OL,9,G1930FRichard Osman's Festive House of
+OL,10,     FGames
+OL,11,     GHugh Dennis, Kerry Godliman,
+OL,12,     GGbemisola Ikumelo and Harry Judd
+OL,13,     Gface more questions.
+OL,14,G2000FOnly Connect Specials: Politics
+OL,15,     GPrevious contestants return -
+OL,16,     Gprofessional politicians,
+OL,17,     Gincluding a real, live
+OL,18,     GConservative MP , face a team of
+OL,19,     Gactivists.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
@@ -105,70 +106,75 @@ PN,69805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703788055
+OL,0,        ECIMSBWebfax     F698A1703791665
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 28 DEC
-OL,4,G1730FThe Chase Celebrity Special
-OL,5,     GBradley Walsh hosts as comedian
-OL,6,     GSusan Calman, broadcaster Dermot
-OL,7,     GMurnaghan, athlete Perri Shakes-
-OL,8,     GDrayton, and comedian and actor
-OL,9,     GOmid Djalili take on the
-OL,10,     Gchallenge for charity.
-OL,11,G1830FRegional News
-OL,12,G1845FITV Evening News
-OL,13,G1900FEmmerdale
-OL,14,     GBelle proposes to Tom with the
-OL,15,     Ghelp of Torvill and Dean, Bear is
-OL,16,     Gdeflated, and Aaron is irritated.
+OL,4,G1900FEmmerdale
+OL,5,     GBelle proposes to Tom with the
+OL,6,     Ghelp of Torvill and Dean, Bear is
+OL,7,     Gdeflated, and Aaron is irritated.
+OL,8,G2000FThe Big Quiz: Coronation Street
+OL,9,     Fvs Emmerdale
+OL,10,     GStephen Mulhern hosts the annual
+OL,11,     Gclash between ITV's biggest soaps
+OL,12,     Gas the casts of Coronation Street
+OL,13,     Gand Emmerdale find out who knows
+OL,14,     Gthe most.
+OL,15,G2100FNolly
+OL,16,     GDrama based on real events. Her
+OL,17,     Gexit from Crossroads looming,
+OL,18,     GNolly is desperate to know how
+OL,19,     Gshe is going to be killed off as
+OL,20,     Gshe is dreading that her
+OL,21,     Gcharacter Meg might die.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703788055
+OL,0,        ECIMSBWebfax     F698A1703791665
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 28 DEC
-OL,4,G1800FA Place in the Sun
-OL,5,     GThe new run continues. Dee and
-OL,6,     GJoe have decided to swap Ireland
-OL,7,     Gfor Portugal and make a permanent
-OL,8,     Gmove to their favourite town of
-OL,9,     GAlbufeira. Jean Johansson shows
-OL,10,     Gthem what #155k can buy.
-OL,11,G1900FThe Dog House at Christmas
-OL,12,     G'Tis the season to be
-OL,13,     Gmatchmaking. Jazz hopes Crackers,
-OL,14,     Ga Patterdale cross, will make a
-OL,15,     Gcuddly companion for her dad. And
-OL,16,     Gcan twins Noah and Toby learn to
-OL,17,     Gshare a puppy called Jeff?
+OL,4,G1900FThe Dog House at Christmas
+OL,5,     G'Tis the season to be
+OL,6,     Gmatchmaking. Jazz hopes Crackers,
+OL,7,     Ga Patterdale cross, will make a
+OL,8,     Gcuddly companion for her dad. And
+OL,9,     Gcan twins Noah and Toby learn to
+OL,10,     Gshare a puppy called Jeff?
+OL,11,G2000FFur Babies
+OL,12,     GLorraine and Kevin, who already
+OL,13,     Gshare their bed with eight dogs,
+OL,14,     Gprepare for Cockapoo Nala's home
+OL,15,     Gbirth. And will 11-year-old
+OL,16,     GBessie's pet Pekin Bantam
+OL,17,     Gchickens hatch any chicks?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1703788055
+OL,0,        ECIMSBWebfax     F698A1703791665
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 28 DEC
-OL,4,G1735FSherlock Holmes: A Game of Shadows
-OL,5,     GRobert Downey Jr and Jude law
-OL,6,     Greturn as Holmes and Watson in
-OL,7,     GGuy Ritchie's detective sequel,
-OL,8,     Gin which the evil Professor
-OL,9,     GMoriarty is on a European crime
-OL,10,     Gspree and must be stopped.
-OL,11,G1900FWorld's Strongest Man 2023
-OL,12,     GHeat 2 features 2020 Champion
-OL,13,     GOleksii Novikov. He faces two
-OL,14,     GBritish athletes: three-time
-OL,15,     Gfinalist Luke Stoltman in his
-OL,16,     Geighth appearance, while Gavin
-OL,17,     GBilton returns for his fourth.
+OL,4,G1900FWorld's Strongest Man 2023
+OL,5,     GHeat 2 features 2020 Champion
+OL,6,     GOleksii Novikov. He faces two
+OL,7,     GBritish athletes: three-time
+OL,8,     Gfinalist Luke Stoltman in his
+OL,9,     Geighth appearance, while Gavin
+OL,10,     GBilton returns for his fourth.
+OL,11,G2000FBritain's Favourite 70s Sitcoms
+OL,12,     GA 60-minute special celebrating
+OL,13,     Gthe funniest sitcoms of the 1970s
+OL,14,     G- from hostile hoteliers to
+OL,15,     Gcomedy convicts - with inside
+OL,16,     Gstories, hilarious moments and
+OL,17,     Gsecrets from the shows.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
