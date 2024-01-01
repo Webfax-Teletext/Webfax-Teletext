@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704096859
+OL,0,        ECIMSBWebfax     F698A1704100465
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704096859
+OL,0,        ECIMSBWebfax     F698A1704100465
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,62 +44,64 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704096859
+OL,0,        ECIMSBWebfax     F698A1704100465
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 1 JAN
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0900FThe Highway Rat
-OL,9,     GShort animated film. A greedy rat
-OL,10,     Gtravels the highway in search of
-OL,11,     Gother animals' food, before his
-OL,12,     Gsweet tooth finally leads him to
-OL,13,     Ga sticky outcome.
-OL,14,G0925FThe Farmer's Llamas
-OL,15,     GAnimated comedy. Shaun the Sheep
-OL,16,     Gtricks the Farmer into buying
-OL,17,     Gthree prank-pulling llamas, but
-OL,18,     Gwhen the mischief goes too far,
-OL,19,     GShaun is forced to take action to
-OL,20,     Gget rid of them.
+OL,4,G0900FThe Highway Rat
+OL,5,     GShort animated film. A greedy rat
+OL,6,     Gtravels the highway in search of
+OL,7,     Gother animals' food, before his
+OL,8,     Gsweet tooth finally leads him to
+OL,9,     Ga sticky outcome.
+OL,10,G0925FThe Farmer's Llamas
+OL,11,     GAnimated comedy. Shaun the Sheep
+OL,12,     Gtricks the Farmer into buying
+OL,13,     Gthree prank-pulling llamas, but
+OL,14,     Gwhen the mischief goes too far,
+OL,15,     GShaun is forced to take action to
+OL,16,     Gget rid of them.
+OL,17,G0955FShaun the Sheep: Farmageddon
+OL,18,     GWhen an alien crash-lands near
+OL,19,     Gthe farm, Shaun has to help her
+OL,20,     Greturn home before the Ministry
+OL,21,     Gof Alien Detection discovers her.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704096859
+OL,0,        ECIMSBWebfax     F698A1704100465
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 1 JAN
-OL,4,G0750FThe Great British Sewing Bee:...
-OL,5,     GCelebrity New Year Special. With
-OL,6,     GLawrence Chaney, Rose Matafeo,
-OL,7,     GClaire Richards and Kirsty Wark.
-OL,8,G0850FLetter from an Unknown Woman
-OL,9,     GClassic melodrama in which a
-OL,10,     Gyoung woman falls in love with a
-OL,11,     Gconcert pianist, beginning a
-OL,12,     Glifelong infatuation.
-OL,13,G1015FNew Year's Day Concert Live from
-OL,14,     FVienna 2024
-OL,15,     GPetroc Trelawny presents the
-OL,16,     GVienna Philharmonic's annual New
-OL,17,     GYear's Day concert, taking place
-OL,18,     Gat the Golden Hall of the
-OL,19,     GMusikverein in Vienna.
+OL,4,G0850FLetter from an Unknown Woman
+OL,5,     GClassic melodrama in which a
+OL,6,     Gyoung woman falls in love with a
+OL,7,     Gconcert pianist, beginning a
+OL,8,     Glifelong infatuation.
+OL,9,G1015FNew Year's Day Concert Live from
+OL,10,     FVienna 2024
+OL,11,     GPetroc Trelawny presents the
+OL,12,     GVienna Philharmonic's annual New
+OL,13,     GYear's Day concert, taking place
+OL,14,     Gat the Golden Hall of the
+OL,15,     GMusikverein in Vienna.
+OL,16,G1245FButch Cassidy and the Sundance Kid
+OL,17,     GClassic western adventure,
+OL,18,     Gstarring Paul Newman and Robert
+OL,19,     GRedford as legendary outlaws
+OL,20,     GButch and Kid.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704096859
+OL,0,        ECIMSBWebfax     F698A1704100465
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -122,51 +124,52 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704096859
+OL,0,        ECIMSBWebfax     F698A1704100465
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 1 JAN
-OL,4,G0810FThe Simpsons
-OL,5,     GThe Seemingly Never-Ending Story:
-OL,6,     GWhen Homer and Lisa get trapped
-OL,7,     Gin a cave, she tells him about a
-OL,8,     Gday she spent with Mr Burns after
-OL,9,     Ga goat chased her into his
-OL,10,     Gmansion.
-OL,11,G0835FThe King of Queens
-OL,12,     GLush Life: Carrie starts Doug on
-OL,13,     Ga new diet but goes easy on him
-OL,14,     Gif she's been out drinking with
-OL,15,     Gher friends. When she falls out
-OL,16,     Gwith her pals, Doug keeps the
-OL,17,     Galcohol coming...
+OL,4,G0905FThe King of Queens
+OL,5,     GBun Dummy: Doug tries to stop
+OL,6,     GCarrie wearing her hair in a bun
+OL,7,     Gbecause he wants her to look sexy
+OL,8,     Gat his school reunion. But how
+OL,9,     Gcan he tell her without hurting
+OL,10,     Gher feelings?
+OL,11,G0935FFrasier
+OL,12,     GHot Pursuit: Martin helps Donny
+OL,13,     Gto stake out a man who's cheating
+OL,14,     Gon his wife, while Frasier and
+OL,15,     GRoz nearly have a romantic
+OL,16,     Gencounter at a conference.
+OL,17,G1005FFrasier
+OL,18,     GMorning Becomes Entertainment:
+OL,19,     GFrasier and Bebe fill in for a
+OL,20,     Gweek on a morning TV chat show.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704096859
+OL,0,        ECIMSBWebfax     F698A1704100465
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 1 JAN
-OL,4,G0725FPaw Patrol: Jet to the Rescue
-OL,5,     GThe Princess of Blaffenburcht is
-OL,6,     Ghaving her birthday party. But if
-OL,7,     Gher birthday present ends up in
-OL,8,     Gthe wrong hands, it causes a lot
-OL,9,     Gof problems.
-OL,10,G0815FThe Adventures of Paddington
-OL,11,     GIt's a windy day and Jonathan
-OL,12,     Gwishes to play kite with his dad.
-OL,13,     GSince Mr Brown is stuck at home,
-OL,14,     GPaddington takes Jonathan to the
-OL,15,     Gpark.
-OL,16,G0830FAnimal Care Club
-OL,17,     GEager young cadets across the UK
-OL,18,     Goffer assistance to pets, farm
-OL,19,     Ganimals, wildlife and zoo animals
-OL,20,     Gwho need help. Niah, Rory, Emy
-OL,21,     Gand Peter visit Blackpool Zoo to
-OL,22,     Gwork with the keepers.
+OL,4,G0910FAn American in Paris
+OL,5,     GOscar-winning musical starring
+OL,6,     GGene Kelly and Leslie Caron. An
+OL,7,     GAmerican artist living in Paris
+OL,8,     Gis torn between a wealthy beauty
+OL,9,     Gand a poor orphan.
+OL,10,G1010FEntertainment News on 5
+OL,11,     GA daily round-up of showbiz news
+OL,12,     Gand gossip from around the world,
+OL,13,     Gfocusing on celebrities, movies,
+OL,14,     Gmusic and entertainment.
+OL,15,G1015FAn American in Paris
+OL,16,     GOscar-winning musical starring
+OL,17,     GGene Kelly and Leslie Caron. An
+OL,18,     GAmerican artist living in Paris
+OL,19,     Gis torn between a wealthy beauty
+OL,20,     Gand a poor orphan.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
