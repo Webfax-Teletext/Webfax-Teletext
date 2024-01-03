@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704273637
+OL,0,        ECIMSBWebfax     F698A1704277249
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704273637
+OL,0,        ECIMSBWebfax     F698A1704277249
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,34 +44,36 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704273637
+OL,0,        ECIMSBWebfax     F698A1704277249
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 3 JAN
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0930FMorning Live
-OL,9,     GJoin Gethin Jones, Helen Skelton,
-OL,10,     GMichelle Ackerley and the team
-OL,11,     Gfor conversation, advice and tips
-OL,12,     Gto make your day that little bit
-OL,13,     Geasier.
-OL,14,G1045FRip Off Britain
-OL,15,     GHow a burst pipe and rejected
-OL,16,     Ginsurance claim left one woman
-OL,17,     Gwith an #86,000 repair bill, all
-OL,18,     Gthanks to a condition in the
-OL,19,     Gsmall print.
+OL,4,G0930FMorning Live
+OL,5,     GJoin Gethin Jones, Helen Skelton,
+OL,6,     GMichelle Ackerley and the team
+OL,7,     Gfor conversation, advice and tips
+OL,8,     Gto make your day that little bit
+OL,9,     Geasier.
+OL,10,G1045FRip Off Britain
+OL,11,     GHow a burst pipe and rejected
+OL,12,     Ginsurance claim left one woman
+OL,13,     Gwith an #86,000 repair bill, all
+OL,14,     Gthanks to a condition in the
+OL,15,     Gsmall print.
+OL,16,G1130FHomes Under the Hammer
+OL,17,     GFeaturing a three-bed semi in
+OL,18,     GKidsgrove in Stoke-on-Trent, a
+OL,19,     Gsplit-level maisonette in Brixton
+OL,20,     Gin London and a detached house in
+OL,21,     GLeicester.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704273637
+OL,0,        ECIMSBWebfax     F698A1704277249
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -101,62 +103,52 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704273637
+OL,0,        ECIMSBWebfax     F698A1704277249
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 3 JAN
-OL,4,G0900FLorraine
-OL,5,     GStrictly's Amy Dowden reveals how
-OL,6,     Gcancer 'robbing' her of 2023 has
-OL,7,     Gmade her determined to not waste
-OL,8,     Gone second of the year ahead.
-OL,9,G1000FThis Morning
-OL,10,     GMagazine show with news and
-OL,11,     Gtopical items, celebrity guests,
-OL,12,     Gexpert advice, real life stories,
-OL,13,     Gcompetitions and a mix of
-OL,14,     Gcookery, health, beauty,
-OL,15,     Glifestyle and more.
-OL,16,G1230FLoose Women
-OL,17,     GStars from the TV series Bad
-OL,18,     GGirls join Coleen Nolan, Linda
-OL,19,     GRobson, Olivia Attwood Dack and
-OL,20,     GBrenda Edwards in the studio to
-OL,21,     Gcelebrate the 25th anniversary of
-OL,22,     Gthe show.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real life stories,
+OL,8,     Gcompetitions and a mix of
+OL,9,     Gcookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GStars from the TV series Bad
+OL,13,     GGirls join Coleen Nolan, Linda
+OL,14,     GRobson, Olivia Attwood Dack and
+OL,15,     GBrenda Edwards in the studio to
+OL,16,     Gcelebrate the 25th anniversary of
+OL,17,     Gthe show.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704273637
+OL,0,        ECIMSBWebfax     F698A1704277249
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 3 JAN
-OL,4,G0905FThe King of Queens
-OL,5,     GArthur, Spooner: When Carrie has
-OL,6,     Gto work the night shift, Doug
-OL,7,     Ggets lonely, until he discovers
-OL,8,     Gthat Arthur is the ideal
-OL,9,     Gcompanion.
-OL,10,G0935FThe King of Queens
-OL,11,     GWindow Pain: Doug and Carrie
-OL,12,     Gdon't make a good first
-OL,13,     Gimpression on their new
-OL,14,     Gneighbours - young professional
-OL,15,     Gcouple Mike and Debi - when they
-OL,16,     Ghave a particularly loud argument.
-OL,17,G1005FFrasier
-OL,18,     GSomething Borrowed, Someone Blue
-OL,19,     G: Will Daphne admit her affection
-OL,20,     Gfor Niles before she marries
-OL,21,     GDonny?
+OL,4,G1005FFrasier
+OL,5,     GSomething Borrowed, Someone Blue
+OL,6,     G: Will Daphne admit her affection
+OL,7,     Gfor Niles before she marries
+OL,8,     GDonny?
+OL,9,G1035FFrasier
+OL,10,     GAnd the Dish Ran Away with the
+OL,11,     GSpoon: In a double-length
+OL,12,     Gepisode, Niles and Daphne
+OL,13,     Gdiscover that there's a price to
+OL,14,     Gpay for admitting their true love.
+OL,15,G1135FChannel 4 News Summary
+OL,16,     GChannel 4's midday news summary.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704273637
+OL,0,        ECIMSBWebfax     F698A1704277249
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
