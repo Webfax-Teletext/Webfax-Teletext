@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704266424
+OL,0,        ECIMSBWebfax     F698A1704270031
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704266424
+OL,0,        ECIMSBWebfax     F698A1704270031
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,7 +44,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704266424
+OL,0,        ECIMSBWebfax     F698A1704270031
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -71,35 +71,36 @@ FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704266424
+OL,0,        ECIMSBWebfax     F698A1704270031
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 3 JAN
-OL,4,G0645FCelebrity Escape to the Country
-OL,5,     GNicki Chapman helps Christopher
-OL,6,     GBiggins and his partner escape to
-OL,7,     Gthe rural Home Counties.
-OL,8,G0730FRobson Green's Weekend Escapes
-OL,9,     GRobson is reunited with long-time
-OL,10,     Gacting pal Angela Lonsdale for a
-OL,11,     Gweekend break in Northumberland.
-OL,12,     GThe pair try outdoor swimming and
-OL,13,     Ga laughter yoga session.
-OL,14,G0800FSee Hear
-OL,15,     GRuaridh Lever-Hogg and Dilara
-OL,16,     GEarle take a look back at 2023,
-OL,17,     Gshowcasing favourite See Hear
-OL,18,     Gstories and highlighting
-OL,19,     Gmonumental achievements within
-OL,20,     Gthe deaf community.
+OL,4,G0800FSee Hear
+OL,5,     GRuaridh Lever-Hogg and Dilara
+OL,6,     GEarle take a look back at 2023,
+OL,7,     Gshowcasing favourite See Hear
+OL,8,     Gstories and highlighting
+OL,9,     Gmonumental achievements within
+OL,10,     Gthe deaf community.
+OL,11,G0830FMarcus Wareing's Tales from a
+OL,12,     FKitchen Garden
+OL,13,     GMarcus discovers the secret to
+OL,14,     Ggreat cider making in Somerset,
+OL,15,     Gvisits an edible food forest, and
+OL,16,     Gcooks a lunch of sausages and
+OL,17,     Gfried potatoes.
+OL,18,G0900FBBC News
+OL,19,G1300FThe Big Country
+OL,20,     GJames McKay finds himself at the
+OL,21,     Gcentre of a vicious family feud.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704266424
+OL,0,        ECIMSBWebfax     F698A1704270031
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -126,51 +127,55 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704266424
+OL,0,        ECIMSBWebfax     F698A1704270031
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 3 JAN
-OL,4,G0720F3rd Rock from the Sun
-OL,5,     GDick Digs: Mary invites Dick
-OL,6,     Galong to an archaeological dig,
-OL,7,     Gbut he's disappointed that the
-OL,8,     Gquiet work involved is nothing
-OL,9,     Glike the exciting scenes in
-OL,10,     GRaiders of the Lost Ark.
-OL,11,G0745FThe Simpsons
-OL,12,     GMillion Dollar Abie: Grampa costs
-OL,13,     GSpringfield the chance of getting
-OL,14,     Ga major football team. So he
-OL,15,     Gstarts a new life as a
-OL,16,     Gbullfighter.
-OL,17,G0810FThe Simpsons
-OL,18,     GHomer the Vigilante: Homer sets
-OL,19,     Gup a chaotic vigilante group to
-OL,20,     Gcombat one-man crime spree Molloy
-OL,21,     G.
+OL,4,G0810FThe Simpsons
+OL,5,     GHomer the Vigilante: Homer sets
+OL,6,     Gup a chaotic vigilante group to
+OL,7,     Gcombat one-man crime spree Molloy
+OL,8,     G.
+OL,9,G0835FThe King of Queens
+OL,10,     GShrink Wrap: When Carrie and
+OL,11,     GArthur's bickering spirals out of
+OL,12,     Gcontrol, Doug and Carrie decide
+OL,13,     Git's time to send Arthur to a
+OL,14,     Gpsychotherapist to find the root
+OL,15,     Gof his anger.
+OL,16,G0905FThe King of Queens
+OL,17,     GArthur, Spooner: When Carrie has
+OL,18,     Gto work the night shift, Doug
+OL,19,     Ggets lonely, until he discovers
+OL,20,     Gthat Arthur is the ideal
+OL,21,     Gcompanion.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704266424
+OL,0,        ECIMSBWebfax     F698A1704270031
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 3 JAN
-OL,4,G0715FPeppa Pig
-OL,5,     GMummy, Daddy, Peppa and George
-OL,6,     Gare going to the seaside. Mummy
-OL,7,     Gand Daddy explain clouds to Peppa
-OL,8,     Gand George who have a little sing
-OL,9,     Gand dance about clouds.
-OL,10,G0725FPAW Patrol
-OL,11,     GWhen Everest joins the Paw Patrol
-OL,12,     Gfor a visit to the jungle, she
-OL,13,     Gmakes friends with a clumsy
-OL,14,     Gelephant calf and then must help
-OL,15,     Grescue him.
-OL,16,G0735FPip and Posy
-OL,17,     GPip becomes flustered when his
-OL,18,     Gjoke gets re-told incorrectly.
+OL,4,G0820FPAW Patrol
+OL,5,     GWhen the Ruff-Ruff Pack steals Mr
+OL,6,     GPorter's Mini-Donut Maker, the
+OL,7,     GMoto Pups set off to get the
+OL,8,     Gmachine back in one piece.
+OL,9,G0835FPop Paper City
+OL,10,     GHelping Hand builds the friends a
+OL,11,     Gtheatre stage. Plom and his
+OL,12,     Gfriends want to put on a play for
+OL,13,     GHelping Hand... but what should
+OL,14,     Git be? Plom decides to be the
+OL,15,     Gdirector.
+OL,16,G0845FAnimal Care Club
+OL,17,     GSophia, Henry, Amber, and Teddy
+OL,18,     Ghead to Mablethorpe Seal
+OL,19,     GSanctuary in Lincolnshire where
+OL,20,     Gexperts nurse sick and injured
+OL,21,     Gwildlife back to full health. the
+OL,22,     Gcadets also meet a baby owl.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
