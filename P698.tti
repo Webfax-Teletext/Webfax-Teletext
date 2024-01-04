@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704327772
+OL,0,        ECIMSBWebfax     F698A1704331381
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704327772
+OL,0,        ECIMSBWebfax     F698A1704331381
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,7 +44,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704327772
+OL,0,        ECIMSBWebfax     F698A1704331381
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -64,103 +64,107 @@ FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704327772
+OL,0,        ECIMSBWebfax     F698A1704331381
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 3 JAN
-OL,4,G0015FWild Scandinavia
-OL,5,     GLynxes, wolves and reindeer
-OL,6,     Gsurvive through surprising
-OL,7,     Galliances in the forest.
-OL,8,G0115FSee Hear
-OL,9,     GRuaridh Lever-Hogg and Dilara
-OL,10,     GEarle take a look back at 2023,
-OL,11,     Gshowcasing favourite See Hear
-OL,12,     Gstories and highlighting
-OL,13,     Gmonumental achievements within
-OL,14,     Gthe deaf community.
-OL,15,G0145FSecrets of the Aquarium
-OL,16,     GThere's a surprise visit from the
-OL,17,     GPrincess of Wales, concern for a
-OL,18,     Grecent arrival and a pregnancy
-OL,19,     Gtest for Florence the shark.
+OL,4,G0115FSee Hear
+OL,5,     GRuaridh Lever-Hogg and Dilara
+OL,6,     GEarle take a look back at 2023,
+OL,7,     Gshowcasing favourite See Hear
+OL,8,     Gstories and highlighting
+OL,9,     Gmonumental achievements within
+OL,10,     Gthe deaf community.
+OL,11,G0145FSecrets of the Aquarium
+OL,12,     GThere's a surprise visit from the
+OL,13,     GPrincess of Wales, concern for a
+OL,14,     Grecent arrival and a pregnancy
+OL,15,     Gtest for Florence the shark.
+OL,16,G0245FSmartphone: The Secret Genius of
+OL,17,     FModern Life
+OL,18,     GWith rare access to electronics
+OL,19,     Ggiant Samsung, Hannah uncovers
+OL,20,     Gthe technological game changers
+OL,21,     Gthat have made the smartphone a
+OL,22,     Greality.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704327772
+OL,0,        ECIMSBWebfax     F698A1704331381
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 3 JAN
-OL,4,G2245FThe Silence of the Lambs
-OL,5,     GOscar-winning thriller film
-OL,6,     Gstarring Anthony Hopkins and
-OL,7,     GJodie Foster, 1991. A notorious
-OL,8,     Gcannibal is called upon by an FBI
-OL,9,     Gtrainee agent for help with
-OL,10,     Gcatching a serial killer.
-OL,11,G0045FShop on TV
-OL,12,     GTeleshopping.
-OL,13,G0300FPaul O'Grady's Great British
-OL,14,     FEscape
-OL,15,     GDocumentary series. Paul explores
-OL,16,     GKent's beautiful forests and
-OL,17,     Gvisits the Wildwood Trust, a
-OL,18,     Gwildlife conservation centre that
-OL,19,     Gprotects Britain's endangered
-OL,20,     Ganimals.
+OL,4,G0045FShop on TV
+OL,5,     GTeleshopping.
+OL,6,G0300FPaul O'Grady's Great British
+OL,7,     FEscape
+OL,8,     GDocumentary series. Paul explores
+OL,9,     GKent's beautiful forests and
+OL,10,     Gvisits the Wildwood Trust, a
+OL,11,     Gwildlife conservation centre that
+OL,12,     Gprotects Britain's endangered
+OL,13,     Ganimals.
+OL,14,G0325FMade in Britain
+OL,15,     GEdwin Jagger Safety Razors and
+OL,16,     GSavile Row Suits: Meet the
+OL,17,     GSheffield man making classic
+OL,18,     Gsafety razors, then learn about
+OL,19,     Gthe labour of love that goes into
+OL,20,     Gmaking a Savile Row suit.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704327772
+OL,0,        ECIMSBWebfax     F698A1704331381
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 3 JAN
-OL,4,G0005FTravel Man: 96 Hours in Rio
-OL,5,     GIn this festive special, Joe
-OL,6,     GLycett and Stephen Mangan romp
-OL,7,     Garound Rio de Janeiro as they
-OL,8,     Gtake to the skies, try out their
-OL,9,     Gsamba skills and learn to cook a
-OL,10,     GChristmas dinner Brazilian-style.
-OL,11,G0100FRamsay's 24 Hours to Hell & Back
-OL,12,     GLowery's Seafood Restaurant:
-OL,13,     GGordon revamps Lowery's Seafood
-OL,14,     Gin Tappahannock, Virginia, where
-OL,15,     Ghe finds two brothers - the owner
-OL,16,     Gand the manager - at loggerheads.
+OL,4,G0100FRamsay's 24 Hours to Hell & Back
+OL,5,     GLowery's Seafood Restaurant:
+OL,6,     GGordon revamps Lowery's Seafood
+OL,7,     Gin Tappahannock, Virginia, where
+OL,8,     Ghe finds two brothers - the owner
+OL,9,     Gand the manager - at loggerheads.
+OL,10,G0145FCouples Come Dine with Me
+OL,11,     GIn Lincolnshire, former soldier
+OL,12,     GScott is under his partner
+OL,13,     GClare's command. Su and Dylan
+OL,14,     Gserve up a pagan ritual and a
+OL,15,     GGary Barlow tribute. And Adele
+OL,16,     Gand Dave recreate an officers'
+OL,17,     Gmess.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704327772
+OL,0,        ECIMSBWebfax     F698A1704331381
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 3 JAN
-OL,4,G0005FSleeping with My Murderer
-OL,5,     GLakhvir Singh and "Lucky" Cheema
-OL,6,     Ghave a 16-year love affair which
-OL,7,     Gturns into a nightmare. When he
-OL,8,     Gfalls for a younger woman, she
-OL,9,     Gvisits India searching for
-OL,10,     Gpoison...
-OL,11,G0100FPlayOJO Live Casino Show
-OL,12,     GRed or black? Odds or evens?
-OL,13,     GWhichever way you play, get that
-OL,14,     GOJO feeling with two hours of
-OL,15,     Gexciting live roulette every
-OL,16,     Gsingle night! Take us for a spin
-OL,17,     Gand feel the fun at playojo.com.
-OL,18,G0300FEntertainment News on 5
-OL,19,     GA daily round-up of showbiz news
-OL,20,     Gand gossip from around the world,
-OL,21,     Gfocusing on celebrities, movies,
-OL,22,     Gmusic and entertainment.
+OL,4,G0100FPlayOJO Live Casino Show
+OL,5,     GRed or black? Odds or evens?
+OL,6,     GWhichever way you play, get that
+OL,7,     GOJO feeling with two hours of
+OL,8,     Gexciting live roulette every
+OL,9,     Gsingle night! Take us for a spin
+OL,10,     Gand feel the fun at playojo.com.
+OL,11,G0300FEntertainment News on 5
+OL,12,     GA daily round-up of showbiz news
+OL,13,     Gand gossip from around the world,
+OL,14,     Gfocusing on celebrities, movies,
+OL,15,     Gmusic and entertainment.
+OL,16,G0310FDogs Behaving (Very) Badly
+OL,17,     GGraeme Hall deals with a St
+OL,18,     GBernard who's far from the placid
+OL,19,     Ggiant his owners were hoping for,
+OL,20,     Ga Pug with an extreme foot
+OL,21,     Gfetish, and an embarrassing case
+OL,22,     Gof the "splats".
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
