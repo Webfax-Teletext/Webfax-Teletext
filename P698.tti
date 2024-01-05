@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704432420
+OL,0,        ECIMSBWebfax     F698A1704436032
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704432420
+OL,0,        ECIMSBWebfax     F698A1704436032
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,89 +44,132 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704432420
+OL,0,        ECIMSBWebfax     F698A1704436032
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 4 JAN
-OL,4,G0145FBBC News
+OL,3,CProgramme listings for FRI 5 JAN
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FMorning Live
+OL,9,     GJoin Gethin Jones, Helen Skelton,
+OL,10,     GMichelle Ackerley and the team
+OL,11,     Gfor conversation, advice and tips
+OL,12,     Gto make your day that little bit
+OL,13,     Geasier.
+OL,14,G1045FRip Off Britain: Holidays
+OL,15,     GThe Canary Islands holiday con
+OL,16,     Gthat cost Brits thousands. And
+OL,17,     Gthe couples left furious after
+OL,18,     Gtheir long-awaited cruises
+OL,19,     Gskipped key sights but still
+OL,20,     Grefused them a refund.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704432420
+OL,0,        ECIMSBWebfax     F698A1704436032
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 4 JAN
+OL,3,CProgramme listings for FRI 5 JAN
 OL,4,G0315FThis is BBC Two
+OL,5,G0645FI Escaped to the Country
+OL,6,     GAlistair Appleton and Denise
+OL,7,     GNurse catch up with some
+OL,8,     Gadventurous women who have found
+OL,9,     Gfulfilment in the rural
+OL,10,     Gborderlands of Wales.
+OL,11,G0730FRobson Green's Weekend Escapes
+OL,12,     GDenise Welch joins Robson for a
+OL,13,     Gday in Allendale. They unwind by
+OL,14,     Gpainting and pony trekking and
+OL,15,     Grelax during an open air sound
+OL,16,     Gbath.
+OL,17,G0800FGardeners' World Winter Specials
+OL,18,     GFrances Tophill and the team
+OL,19,     Gcelebrate the joy that the
+OL,20,     Ggardening year brings throughout
+OL,21,     Gthe seasons.
+OL,22,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704432420
+OL,0,        ECIMSBWebfax     F698A1704436032
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 4 JAN
-OL,4,G0505FJason Atherton's Dubai Dishes
-OL,5,     GBreakfast and Brunch: Jason
-OL,6,     Ginvites us over for breakfast
-OL,7,     Gthis time - he cooks a Spanish
-OL,8,     Gdish inspired by a full English.
+OL,3,CProgramme listings for FRI 5 JAN
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a topical
+OL,9,     Gmix of entertainment, discussion
+OL,10,     Gand showbiz glamour as well as
+OL,11,     Gthe latest fashion, food and
+OL,12,     Gcelebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life stories,
+OL,17,     Gcompetitions and a mix of
+OL,18,     Gcookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704432420
+OL,0,        ECIMSBWebfax     F698A1704436032
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 4 JAN
-OL,4,G0500FFood Unwrapped New Year Health
-OL,5,     FSecrets
-OL,6,     GThe Food Unwrapped team take a
-OL,7,     Glook at some handy health hacks,
-OL,8,     Gincluding the joy of ginger, why
-OL,9,     Gspinach is special and your 'five-
-OL,10,     Ga-day' fruit and veg.
-OL,11,G0555FCountdown
-OL,12,     GColin Murray and Rachel Riley
-OL,13,     Ghost as contestants race against
-OL,14,     Gthe clock to pit their wits
-OL,15,     Gagainst vowels, consonants and
-OL,16,     Gnumbers. Babatunde Aleshe joins
-OL,17,     GSusie Dent in Dictionary Corner.
+OL,3,CProgramme listings for FRI 5 JAN
+OL,4,G0555FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Babatunde Aleshe joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0635F3rd Rock from the Sun
+OL,12,     GYou Don't Know Dick: When Nina
+OL,13,     Gquizzes Dick about Mary's likes
+OL,14,     Gand dislikes, it becomes clear
+OL,15,     Gthat Nina knows virtually
+OL,16,     Geverything about her, while Dick
+OL,17,     Gknows next to nothing.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@xD@[rrxD@^rr
+OL,26,@qD@[rrqD@^rr
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704432420
+OL,0,        ECIMSBWebfax     F698A1704436032
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 4 JAN
-OL,4,G0510FHouse Doctor
-OL,5,     GHome improvement series with
-OL,6,     Ginterior designer Ann Maurice and
-OL,7,     GAlistair Appleton. A three-
-OL,8,     Gbedroom house in Colchester,
-OL,9,     GEssex needs some toning down on
-OL,10,     Gthe colours front.
-OL,11,G0535FEntertainment News on 5
-OL,12,     GA daily round-up of showbiz news
-OL,13,     Gand gossip from around the world,
-OL,14,     Gfocusing on celebrities, movies,
-OL,15,     Gmusic and entertainment.
-OL,16,G0540FPip and Posy
-OL,17,     GPip and Posy are playing against
-OL,18,     GFrankie and Zac in a football
-OL,19,     Gmatch. Posy is so focussed on
-OL,20,     Gwinning the trophy that she
-OL,21,     Gbecomes a bad sport.
+OL,3,CProgramme listings for FRI 5 JAN
+OL,4,G0625FPeppa Pig
+OL,5,     GGrampy Rabbit loses his voice
+OL,6,     Gwhile giving Peppa's playgroup a
+OL,7,     Gtalk about space rockets. Can
+OL,8,     GDoctor Brown Bear get him
+OL,9,     Gspeaking again?
+OL,10,G0630FOggy Oggy
+OL,11,     GOggy Oggy invites himself onto
+OL,12,     GFarmerCat's truck.
+OL,13,G0635FOdo
+OL,14,     GAfter inviting his parents to
+OL,15,     G'Bring Your Parents to Camp Day'
+OL,16,     Gon the wrong day, Odo hopes to
+OL,17,     Gmake the most of his mistake by
+OL,18,     Gshowing his friends just how fun
+OL,19,     Ghis parents can be.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
