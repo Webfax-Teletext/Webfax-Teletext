@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704519048
+OL,0,        ECIMSBWebfax     F698A1704522661
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704519048
+OL,0,        ECIMSBWebfax     F698A1704522661
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,87 +44,131 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704519048
+OL,0,        ECIMSBWebfax     F698A1704522661
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 5 JAN
-OL,4,G0140FBBC News
+OL,3,CProgramme listings for SAT 6 JAN
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen
+OL,9,     GHost Matt Tebbutt is joined by
+OL,10,     Gchefs Adam Byatt and Saliha
+OL,11,     GMahmood-Ahmed, and by special
+OL,12,     Gguest Jason Donovan. Drinks
+OL,13,     Gexpert Helen McGinn picks the
+OL,14,     Gwines to go with the studio
+OL,15,     Gdishes.
+OL,16,G1130FFootball Focus
+OL,17,     GAlex Scott and guests look ahead
+OL,18,     Gto a packed weekend of FA Cup
+OL,19,     Gaction as the giants of the
+OL,20,     GPremier League enter football's
+OL,21,     Goldest cup competition.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704519048
+OL,0,        ECIMSBWebfax     F698A1704522661
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 5 JAN
-OL,4,G0330FThis is BBC Two
+OL,3,CProgramme listings for SAT 6 JAN
+OL,4,G0630FGrizzy and the Lemmings
+OL,5,     GParental Overload. Grizzy and the
+OL,6,     GLemmings happen upon a crying
+OL,7,     Gpolar bear cub.
+OL,8,G0635FGrizzy and the Lemmings
+OL,9,     GThe Attraction of Lemmings. The
+OL,10,     Gmagnetism of a meteorite close to
+OL,11,     Gthe cabin inspires new games for
+OL,12,     Gthe Lemmings.
+OL,13,G0645FDennis & Gnasher Unleashed!
+OL,14,     GJJ's Lucky Day. The gang find out
+OL,15,     Gthat JJ has a set of pre-match
+OL,16,     Ggood luck rituals.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704519048
+OL,0,        ECIMSBWebfax     F698A1704522661
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 5 JAN
-OL,4,G0505FThe Real Nolly
-OL,5,     GNarrated by Helena Bonham-Carter,
-OL,6,     Gthis companion documentary to the
-OL,7,     Gdrama series Nolly explores the
-OL,8,     Glife of Noele Gordon with
-OL,9,     Gexclusive access to her personal
-OL,10,     Gpapers and pictures.
+OL,3,CProgramme listings for SAT 6 JAN
+OL,4,G0630FLove Your Garden
+OL,5,     GBirmingham: Alan goes traditional
+OL,6,     Gwith a twist to create an elegant
+OL,7,     Gtea garden for a charity
+OL,8,     Gvolunteer and baker who has made
+OL,9,     Gcakes for more than 9,000
+OL,10,     Gservicemen and women.
+OL,11,G0725FLove Your Weekend with Alan
+OL,12,     FTitchmarsh
+OL,13,     GCall the Midwife's Laura Main
+OL,14,     Gdiscusses her new bittersweet
+OL,15,     Gcomedy, and actors Susie Blake
+OL,16,     Gand Sophie Ward talk about the
+OL,17,     Grevival of a crime classic.
+OL,18,G0925FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704519048
+OL,0,        ECIMSBWebfax     F698A1704522661
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 5 JAN
-OL,4,G0530FCome Dine with Me
-OL,5,     GPerth. New Zealand-born Craig
-OL,6,     Ghopes that his lobster and wild
-OL,7,     Gboar will blow his rivals out of
-OL,8,     Gthe water. But the brewing
-OL,9,     Gtension threatens to boil over.
-OL,10,G0555FKirstie's House of Craft
-OL,11,     GKirstie Allsopp shows us how to
-OL,12,     Gcreate beautiful crafts with
-OL,13,     Gitems we already own. She makes a
-OL,14,     Gfun garland from paper, a
-OL,15,     Gbeautiful spring wreath, and a
-OL,16,     Gstring-art hot air balloon.
+OL,3,CProgramme listings for SAT 6 JAN
+OL,4,G0615FThe King of Queens
+OL,5,     GLoaner Car: Doug convinces Carrie
+OL,6,     Gto help Deacon out with the
+OL,7,     Gcooking and childcare over
+OL,8,     GThanksgiving. But things start to
+OL,9,     Ggo wrong when Deacon tastes her
+OL,10,     Gfood...
+OL,11,G0640FThe King of Queens
+OL,12,     GJung Frankenstein: Carrie
+OL,13,     Gconvinces Doug to see a therapist
+OL,14,     Gto explore his relationship with
+OL,15,     Gfood. And Arthur is convinced
+OL,16,     Gthat he's addicted to nasal spray.
+OL,17,G0705FThe King of Queens
+OL,18,     GAttention Deficit: Doug tries to
+OL,19,     Gprove to Carrie that he thinks
+OL,20,     Gabout her during the day, while
+OL,21,     Galso arranging a Super Bowl party.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1704519048
+OL,0,        ECIMSBWebfax     F698A1704522661
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 5 JAN
-OL,4,G0505FHouse Doctor
-OL,5,     GHome improvement series with
-OL,6,     GCalifornian interior designer Ann
-OL,7,     GMaurice. A much-loved bungalow in
-OL,8,     GBristol is in need of a makeover,
-OL,9,     Gbut will the proud owner allow it?
-OL,10,G0535FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the world,
-OL,13,     Gfocusing on celebrities, movies,
-OL,14,     Gmusic and entertainment.
-OL,15,G0540FPip and Posy
-OL,16,     GPip and Posy are having a spooky
-OL,17,     Gday at Posy's house trying to
-OL,18,     Gscare each other with an
-OL,19,     Gimaginary Mischief Monster.
+OL,3,CProgramme listings for SAT 6 JAN
+OL,4,G0625FSesame Street Mecha Builders
+OL,5,     GIt's MacBarm's croquet tournament
+OL,6,     Gand Zee has made giant
+OL,7,     Gdecorations - but they're too big
+OL,8,     Gto get to the farm.
+OL,9,G0640FFireman Sam
+OL,10,     GWhen Ellie takes the Junior
+OL,11,     GCadets for a training day in the
+OL,12,     Gwoods, Fireman Sam must get
+OL,13,     Gthings under control when a
+OL,14,     Gcanister explodes.
+OL,15,G0650FThomas & Friends: Big World!...
+OL,16,     GBig Adventures! The Fancy Costume
+OL,17,     GContest comes to town and all the
+OL,18,     Gengines are excited about getting
+OL,19,     Gdressed up and taking part. All
+OL,20,     Gexcept Shankar, who doesn't want
+OL,21,     Gto enter.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
