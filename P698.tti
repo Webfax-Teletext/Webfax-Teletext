@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705038012
+OL,0,        ECIMSBWebfax     F698A1705041619
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705038012
+OL,0,        ECIMSBWebfax     F698A1705041619
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,79 +44,125 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705038012
+OL,0,        ECIMSBWebfax     F698A1705041619
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 11 JAN
-OL,4,G0015FBBC News
+OL,3,CProgramme listings for FRI 12 JAN
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FMorning Live
+OL,9,     GJoin Gethin Jones, Helen Skelton,
+OL,10,     GMichelle Ackerley and the team
+OL,11,     Gfor conversation, advice and tips
+OL,12,     Gto make your day that little bit
+OL,13,     Geasier.
+OL,14,G1045FRip Off Britain: Holidays
+OL,15,     GHoliday horrors at the check-in
+OL,16,     Gdesk when a family of ten are
+OL,17,     Gsplit up, thanks to a plane swap
+OL,18,     Gleaving seven of them grounded.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705038012
+OL,0,        ECIMSBWebfax     F698A1705041619
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 11 JAN
+OL,3,CProgramme listings for FRI 12 JAN
 OL,4,G0450FThis is BBC Two
+OL,5,G0645FThe Travelling Auctioneers
+OL,6,     GA hidden treasure trove of gold
+OL,7,     Gcoins and a big diamond promise
+OL,8,     Gbig rewards at auction.
+OL,9,G0730FRobson Green's Weekend Escapes
+OL,10,     GRobson takes former Newcastle
+OL,11,     Gstriker Shola Ameobi for a day
+OL,12,     Gout. After wing foiling, they
+OL,13,     Gjoin an outdoor ballet class, and
+OL,14,     GRobson takes a wildlife
+OL,15,     Gphotography lesson.
+OL,16,G0800FInside the Factory
+OL,17,     GGregg Wallace steps inside a huge
+OL,18,     GYorkshire puddings factory in
+OL,19,     GHull to learn how Aunt Bessie's
+OL,20,     Gproduces a staggering 500 million
+OL,21,     GYorkshire puddings every year.
+OL,22,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705038012
+OL,0,        ECIMSBWebfax     F698A1705041619
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 11 JAN
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GCirencester 1: David Dickinson
-OL,6,     Gand the team are in Cirencester
-OL,7,     Gas a French watch, a Chinese
-OL,8,     Gbronze censer, and a charity shop
-OL,9,     Gbargain meat platter turn up in
-OL,10,     Gthe Dealers' Den.
+OL,3,CProgramme listings for FRI 12 JAN
+OL,4,G0600FGood Morning Britain
+OL,5,     GAfter a former royal marine's
+OL,6,     Gartificial limbs were stolen from
+OL,7,     Ghis car in West London, Mark
+OL,8,     GOrmond has been reunited with his
+OL,9,     Gprosthetic legs thanks to the
+OL,10,     Gpower of social media.
+OL,11,G0900FLorraine
+OL,12,     GChristine gets nostalgic with
+OL,13,     Goriginal Gladiators host Ulrika
+OL,14,     GJonsson. Plus, we report from the
+OL,15,     GDancing On Ice rink ahead of the
+OL,16,     Glaunch, and Strictly stars Bobby
+OL,17,     Gand Dianne pop in!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705038012
+OL,0,        ECIMSBWebfax     F698A1705041619
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 11 JAN
-OL,4,G0525FUndercover Boss Australia
-OL,5,     GTony Chamberlain, the managing
-OL,6,     Gdirector of Staging Connections,
-OL,7,     Ga live events company with 1000
-OL,8,     Gemployees across Australia, goes
-OL,9,     Gundercover in his own firm,
-OL,10,     Gworking in a variety of roles.
+OL,3,CProgramme listings for FRI 12 JAN
+OL,4,G0615FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. John Thomson joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G0655FCheers
+OL,12,     GBar Wars: Traditional rivalry
+OL,13,     Gbetween Cheers and Gary's Old
+OL,14,     GTown Tavern grows as they play
+OL,15,     Gincreasingly bizarre practical
+OL,16,     Gjokes on each other after a
+OL,17,     Gbowling trophy is stolen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705038012
+OL,0,        ECIMSBWebfax     F698A1705041619
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 11 JAN
-OL,4,G0540FPip and Posy
-OL,5,     GPip, Posy and Zac are having fun
-OL,6,     Gplaying in the snow and try to
-OL,7,     Gpersuade Frankie to join them.
-OL,8,     GFrankie reveals that she doesn't
-OL,9,     Glike getting snow on her because
-OL,10,     Git's cold and wet.
-OL,11,G0545FThomas & Friends
-OL,12,     G...Big World! Big Adventures!
-OL,13,     GWhile working in the Australian
-OL,14,     Grainforest, Thomas offers a lift
-OL,15,     Gto a ranger and then he helps
-OL,16,     Grescue some koala bears from a
-OL,17,     Gbushfire in the rainforest.
+OL,3,CProgramme listings for FRI 12 JAN
+OL,4,G0635FOdo
+OL,5,     GOdo has convinced Camp Leader to
+OL,6,     Gleave Pigeon Post in charge of
+OL,7,     Gthe camp for the day. Now the
+OL,8,     Gcampers are out of control! The
+OL,9,     Gbirds are covered in paint,
+OL,10,     Gwhooping and dancing.
+OL,11,G0645FTweedy & Fluff
+OL,12,     GInspired by a photo of a dog
+OL,13,     Gbeing walked, Tweedy is eager to
+OL,14,     Gtry it out with Fluff! You can
+OL,15,     Gguess who gets taken for a walk.
+OL,16,     GPets don't always behave the way
+OL,17,     Gwe imagine they will...
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
