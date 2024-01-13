@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705124615
+OL,0,        ECIMSBWebfax     F698A1705128228
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705124615
+OL,0,        ECIMSBWebfax     F698A1705128228
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,83 +44,128 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705124615
+OL,0,        ECIMSBWebfax     F698A1705128228
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 12 JAN
-OL,4,G0140FBBC News
+OL,3,CProgramme listings for SAT 13 JAN
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GHost Matt Tebbutt is joined by
+OL,10,     Gchefs Joe Wicks and Ching-He
+OL,11,     GHuang, and by special guest Alan
+OL,12,     GCumming. Drinks expert Olly Smith
+OL,13,     Gpicks the wines to go with the
+OL,14,     Gstudio dishes.
+OL,15,G1130FThe Great Food Guys
+OL,16,     GChef Nick Nairn and Dougie Vipond
+OL,17,     Gfocus on Asian fusion, cooking
+OL,18,     Gsalt chilli squid with a
+OL,19,     GVietnamese dipping sauce with
+OL,20,     Gguests chef Kaori Simpson and
+OL,21,     Gactor Greg McHugh.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705124615
+OL,0,        ECIMSBWebfax     F698A1705128228
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 12 JAN
-OL,4,G0525FThis is BBC Two
+OL,3,CProgramme listings for SAT 13 JAN
+OL,4,G0635FGrizzy and the Lemmings
+OL,5,     GExtreme Dominos. Grizzy gets his
+OL,6,     Ghands on a machine that can
+OL,7,     Gsculpt ice.
+OL,8,G0645FGrizzy and the Lemmings
+OL,9,     GSurprise Deglaciation. The
+OL,10,     GLemmings find an ice block that
+OL,11,     Gholds a frozen prehistoric animal.
+OL,12,G0650FDennis & Gnasher Unleashed!
+OL,13,     GPartners in Crime. The gang
+OL,14,     Gunknowingly become entangled in
+OL,15,     GDoctor Pfooflepfeffer's real
+OL,16,     Gtheft.
+OL,17,G0705FDanger Mouse
+OL,18,     GDanger at C Level. Animated
+OL,19,     Gseries. Danger Mouse is forced to
+OL,20,     Gchoose between dedication to duty
+OL,21,     Gand friendship when he battles
+OL,22,     Gthe Baron in his underwater base.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705124615
+OL,0,        ECIMSBWebfax     F698A1705128228
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 12 JAN
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GBradford 1: David Dickinson is in
-OL,6,     GBradford as Alison Chapman has
-OL,7,     Gher eye on a jewellery gift for
-OL,8,     Gher ten-year-old granddaughter
-OL,9,     Gand Tim Hogarth consults a
-OL,10,     Gcelebrity astrologer chum.
+OL,3,CProgramme listings for SAT 13 JAN
+OL,4,G0630FLove Your Garden
+OL,5,     GEssex: Alan and his team of
+OL,6,     Ggardening experts head to Waltham
+OL,7,     GAbbey to create a tropical escape
+OL,8,     Gwith a yoga deck and home office
+OL,9,     Gat its heart for a selfless
+OL,10,     Gleukaemia survivor.
+OL,11,G0730FLove Your Weekend with Alan
+OL,12,     FTitchmarsh
+OL,13,     GIt's a New Year at Manor Farm,
+OL,14,     Gand joining Alan are original
+OL,15,     GQueen of the Vic Anita Dobson,
+OL,16,     Gmusic and chat from Martin and
+OL,17,     GShirlie Kemp, and a snowy owl.
+OL,18,G0925FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705124615
+OL,0,        ECIMSBWebfax     F698A1705128228
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 12 JAN
-OL,4,G0510FUndercover Boss Australia
-OL,5,     GJeanpaul Dimech, the CEO of
-OL,6,     GSodexo Australia, goes undercover
-OL,7,     Gto work with some of the
-OL,8,     Gcompany's employees as they
-OL,9,     Gprovide catering, maintenance and
-OL,10,     Gfacilities management services.
-OL,11,G0555FKirstie's House of Craft
-OL,12,     GKirstie Allsopp makes colourful
-OL,13,     Grecycled candles and a fun
-OL,14,     Gpainted pebble game with her
-OL,15,     Gsons, and creates a host of cute
-OL,16,     Gfeathered friends as she shows us
-OL,17,     Ghow to make loo roll animals.
+OL,3,CProgramme listings for SAT 13 JAN
+OL,4,G0620FThe King of Queens
+OL,5,     GEggsit Strategy: Carrie worries
+OL,6,     Gthat she may lose her job. Doug
+OL,7,     Gis in Deacon's bad books.
+OL,8,G0645FThe King of Queens
+OL,9,     GThanks Man: While Carrie cooks
+OL,10,     GThanksgiving dinner for 10
+OL,11,     Gpeople, Doug lets a stranger into
+OL,12,     Gthe house...
+OL,13,G0705FThe King of Queens
+OL,14,     GAmerican Idle: When Carrie loses
+OL,15,     Gher job, she eventually decides
+OL,16,     Gto set up her own business. But
+OL,17,     Ghow successful will it be?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705124615
+OL,0,        ECIMSBWebfax     F698A1705128228
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 12 JAN
-OL,4,G0540FPeppa Pig
-OL,5,     GGeorge has a new hat and Mummy
-OL,6,     GPig is determined it doesn't get
-OL,7,     Gmuddy when Peppa and George go to
-OL,8,     Gvisit Grandpa and Granny Pig.
-OL,9,G0545FThomas & Friends
-OL,10,     G...Big World! Big Adventures!
-OL,11,     GWhen Nia derails because she has
-OL,12,     Gnever learned to read numbers,
-OL,13,     GAnnie and Clarabel decide to
-OL,14,     Gteach her.
+OL,3,CProgramme listings for SAT 13 JAN
+OL,4,G0640FFireman Sam
+OL,5,     GThe town is excited as everyone
+OL,6,     Ggets the quayside ready for a
+OL,7,     Groyal visit by the Prince and
+OL,8,     GPrincess. Unfortunately, Elvis
+OL,9,     Grolls the red carpet into the sea
+OL,10,     Gand it shrinks.
+OL,11,G0650FThomas & Friends:..
+OL,12,     G...Big World! Big Adventures!
+OL,13,     GRebecca tells James he could be a
+OL,14,     Gcomicbook super-engine. He takes
+OL,15,     Gher seriously and Rail Rocket is
+OL,16,     Gborn...
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
