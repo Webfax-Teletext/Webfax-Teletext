@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705211218
+OL,0,        ECIMSBWebfax     F698A1705214828
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705211218
+OL,0,        ECIMSBWebfax     F698A1705214828
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,77 +44,131 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705211218
+OL,0,        ECIMSBWebfax     F698A1705214828
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 13 JAN
-OL,4,G0150FBBC News
+OL,3,CProgramme listings for SUN 14 JAN
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0815FMatch of the Day
+OL,9,     GHighlights of today's two Premier
+OL,10,     GLeague games, with Newcastle
+OL,11,     Ghosting Manchester City and
+OL,12,     GChelsea taking on west London
+OL,13,     Grivals Fulham.
+OL,14,G0900FSunday with Laura Kuenssberg
+OL,15,     GLaura Kuenssberg's guests are
+OL,16,     Gforeign secretary Lord Cameron
+OL,17,     Gand Sir Keir Starmer MP, leader
+OL,18,     Gof the Labour Party.
+OL,19,G1000FRegional Political Programmes
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705211218
+OL,0,        ECIMSBWebfax     F698A1705214828
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 13 JAN
-OL,4,G0430FThis is BBC Two
+OL,3,CProgramme listings for SUN 14 JAN
+OL,4,G0630FGlorious Gardens from Above
+OL,5,     GHorticulturist Christine Walkden
+OL,6,     Gexplores gardens and countryside
+OL,7,     Gfrom a hot-air balloon. Christine
+OL,8,     Gheads for the lakes and fells of
+OL,9,     GCumbria.
+OL,10,G0715FCountryfile
+OL,11,     GAnita and Matt head to Blakeney
+OL,12,     GNational Nature Reserve, a
+OL,13,     Ghabitat for grey seals.
+OL,14,G0815FBreakfast
+OL,15,     GThe latest news, sport, business
+OL,16,     Gand weather from the BBC's
+OL,17,     GBreakfast team.
+OL,18,G0900FThe Great Northern Garden Build
+OL,19,     GA look at the team responsible
+OL,20,     Gfor growing over 20,000 plants
+OL,21,     Gevery year, which are planted out
+OL,22,     Ginto RHS Bridgewater.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705211218
+OL,0,        ECIMSBWebfax     F698A1705214828
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 13 JAN
-OL,4,G0505FJason Atherton's Dubai Dishes
-OL,5,     GFish: Award-winning chef Jason
-OL,6,     GAtherton continues his journey
-OL,7,     Gthrough Dubai at the beach as he
-OL,8,     Gcooks up delicious fish and
-OL,9,     Gseafood recipes inspired by this
-OL,10,     Gbeautiful coastal city.
+OL,3,CProgramme listings for SUN 14 JAN
+OL,4,G0630FJames Martin's Spanish Adventure
+OL,5,     GBilbao: James visits an indoor
+OL,6,     Gfood market in Bilbao, takes a
+OL,7,     Gfunicular to a famous steak
+OL,8,     Grestaurant, heads to a winery on
+OL,9,     Ga seabed and learns how La
+OL,10,     GCarolina is made.
+OL,11,G0730FJames Martin's Saturday Morning
+OL,12,     GJames is back in the kitchen and
+OL,13,     Gis joined by Greg Rutherford and
+OL,14,     Gchefs Lesley Waters and Jonathan
+OL,15,     GPhang as they serve up some
+OL,16,     Gdelicious dishes of their own.
+OL,17,G0925FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705211218
+OL,0,        ECIMSBWebfax     F698A1705214828
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 13 JAN
-OL,4,G0355FHollyoaks Omnibus
-OL,5,     GThe true identity of Rayne's
-OL,6,     Gkiller is finally revealed,
-OL,7,     Gleading to the entire village
-OL,8,     Gsearching for one resident. Is
-OL,9,     GRafe beginning to get genuine
-OL,10,     Gfeelings for his 'fiancee'?
-OL,11,G0555FKirstie's House of Craft
-OL,12,     GKirstie Allsopp puts celebs to
-OL,13,     Gthe test in crafting challenges.
-OL,14,     GChris Hollins and Laura Hamilton
-OL,15,     Gcraft colourful paper gift bags.
+OL,3,CProgramme listings for SUN 14 JAN
+OL,4,G0640FCheers
+OL,5,     GExecutive Sweet: Greg Stone is
+OL,6,     Gfired, and Rebecca gets a new
+OL,7,     Gboss - Martin Teal, a young
+OL,8,     Ghotshot who takes a liking to her
+OL,9,     Gand reinstates her as bar manager.
+OL,10,G0705FCheers
+OL,11,     GOne Happy Chappy in a Snappy
+OL,12,     GSerape: The company sends Sam to
+OL,13,     Gopen a new bar in Mexico, but
+OL,14,     GRebecca needs him to stay in
+OL,15,     GBoston and pose as her fiance to
+OL,16,     Gdefend her from Martin.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@rD@]rr
+OL,26,@wD@brr
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705211218
+OL,0,        ECIMSBWebfax     F698A1705214828
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 13 JAN
-OL,4,G0545FThomas & Friends
-OL,5,     G...Big World! Big Adventures!
-OL,6,     GThomas is terrified when he is
-OL,7,     Ggiven the honour of bringing a
-OL,8,     Gdragon to the Chinese New Year
-OL,9,     Gcelebrations.
+OL,3,CProgramme listings for SUN 14 JAN
+OL,4,G0640FFireman Sam
+OL,5,     GBronwen is staging a synchronised
+OL,6,     Gswimming spectacular to mark the
+OL,7,     Greopening of the lido, when
+OL,8,     GNorman accidentally starts a fire.
+OL,9,G0650FThomas & Friends:..
+OL,10,     G...Big World! Big Adventures!
+OL,11,     GThomas has a run of bad luck.
+OL,12,     GLorenzo and Beppe tell Thomas
+OL,13,     Gabout many strange, unusual
+OL,14,     Gsuperstitions that promise to
+OL,15,     Gbring good luck.
+OL,16,G0700FChip and Potato
+OL,17,     GChip's homework is to draw all
+OL,18,     Gher family and friends, but she
+OL,19,     Gkeeps running out of space. Spud
+OL,20,     Gtells Chip she should make a step-
+OL,21,     Gby-step plan - but Chip's never
+OL,22,     Gmade a plan before!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
