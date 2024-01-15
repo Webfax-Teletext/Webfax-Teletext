@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705333903
+OL,0,        ECIMSBWebfax     F698A1705337510
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705333903
+OL,0,        ECIMSBWebfax     F698A1705337510
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,37 +44,35 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705333903
+OL,0,        ECIMSBWebfax     F698A1705337510
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 15 JAN
-OL,4,G1545FThe Repair Shop
-OL,5,     GJay Blades and the team work
-OL,6,     Gtheir magic on a famous red book
-OL,7,     Gfrom the TV series This Is Your
-OL,8,     GLife, a miniature sewing machine
-OL,9,     Gand a 1950s recording device.
-OL,10,G1630FThe Travelling Auctioneers
-OL,11,     GAn unsteady zebra and finding
-OL,12,     Glost gold test Christina and JJ
-OL,13,     Gas they clear a home.
-OL,14,G1715FPointless
-OL,15,     GThe quiz returns for another
-OL,16,     Gseries in which contestants try
-OL,17,     Gto score as few points as
-OL,18,     Gpossible by coming up with the
-OL,19,     Ganswers no-one else could think
-OL,20,     Gof.
-OL,21,G1800FBBC News
-OL,22,G1830FRegional News
+OL,4,G1630FThe Travelling Auctioneers
+OL,5,     GAn unsteady zebra and finding
+OL,6,     Glost gold test Christina and JJ
+OL,7,     Gas they clear a home.
+OL,8,G1715FPointless
+OL,9,     GThe quiz returns for another
+OL,10,     Gseries in which contestants try
+OL,11,     Gto score as few points as
+OL,12,     Gpossible by coming up with the
+OL,13,     Ganswers no-one else could think
+OL,14,     Gof.
+OL,15,G1800FBBC News
+OL,16,G1830FRegional News
+OL,17,G1900FThe One Show
+OL,18,     GAlex Jones and Jermaine Jenas
+OL,19,     Gbring you the stories that matter
+OL,20,     Gfrom across the country.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705333903
+OL,0,        ECIMSBWebfax     F698A1705337510
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -100,72 +98,76 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705333903
+OL,0,        ECIMSBWebfax     F698A1705337510
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 15 JAN
-OL,4,G1500FRiddiculous
-OL,5,     GRanvir Singh hosts the rapid and
-OL,6,     Gruthless quiz as contestants Yuz
-OL,7,     Gand Scott, Karen and Mark, and
-OL,8,     GJess and Emma take on
-OL,9,     GRiddlemaster Henry Lewis in a bid
-OL,10,     Gto solve his riddles.
-OL,11,G1600FJeopardy!
-OL,12,     GStephen Fry welcomes new
-OL,13,     Gcontestants Justin and Sally as
-OL,14,     Gthey hope that their intelligence
-OL,15,     Gand buzzer speed will be enough
-OL,16,     Gto steal the crown from the
-OL,17,     Greigning Jeopardy! champion.
+OL,4,G1600FJeopardy!
+OL,5,     GStephen Fry welcomes new
+OL,6,     Gcontestants Justin and Sally as
+OL,7,     Gthey hope that their intelligence
+OL,8,     Gand buzzer speed will be enough
+OL,9,     Gto steal the crown from the
+OL,10,     Greigning Jeopardy! champion.
+OL,11,G1700FThe Chase
+OL,12,     GBradley Walsh guides four people
+OL,13,     Gwho have never met before - Ellen
+OL,14,     Gfrom London, Ben from Surrey, Dan
+OL,15,     Gfrom Cannock and Ange from Oxford
+OL,16,     G- as they take on a Chaser.
+OL,17,G1800FRegional News
+OL,18,G1830FITV Evening News
+OL,19,G1930FEmmerdale
+OL,20,     GMandy is suspicious, Chas breaks
+OL,21,     Gdown, and Ethan tries to help
+OL,22,     GAaron.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705333903
+OL,0,        ECIMSBWebfax     F698A1705337510
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 15 JAN
-OL,4,G1500FA Place in the Sun
-OL,5,     GDanni Menzies helps Poppy and her
-OL,6,     Gdad Philip realise their dream of
-OL,7,     Gfinding a holiday home in
-OL,8,     GAndalucia for their budget of
-OL,9,     G#50k, that all the family can use
-OL,10,     Gto enjoy the Spanish sunshine.
-OL,11,G1600FA New Life in the Sun
-OL,12,     GThe new series continues. Ex-
-OL,13,     Gforces couple Clint and Carol
-OL,14,     Gprepare to do battle at a B&B in
-OL,15,     GNormandy. And Sam and Tony launch
-OL,16,     Gan events business at their
-OL,17,     Gchateau in Creuse.
+OL,4,G1600FA New Life in the Sun
+OL,5,     GThe new series continues. Ex-
+OL,6,     Gforces couple Clint and Carol
+OL,7,     Gprepare to do battle at a B&B in
+OL,8,     GNormandy. And Sam and Tony launch
+OL,9,     Gan events business at their
+OL,10,     Gchateau in Creuse.
+OL,11,G1700FJunior Bake Off
+OL,12,     GThe new series continues. Finals
+OL,13,     GWeek begins with American Day.
+OL,14,     GThe bakers create red velvet
+OL,15,     Gwhoopee pies shaped like American
+OL,16,     Gfootballs, and showstopping
+OL,17,     GThanksgiving cakes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@pD@MrtyD@Hsp
+OL,26,@rD@Hsp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705333903
+OL,0,        ECIMSBWebfax     F698A1705337510
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 15 JAN
-OL,4,G1415FPicture Perfect Mysteries: Dead
-OL,5,     FOver Diamonds
-OL,6,     GProfessional wedding photographer
-OL,7,     GAllie Adams and Detective Sam's
-OL,8,     Ginvestigation into a priceless
-OL,9,     Gstolen necklace leads to danger
-OL,10,     Gand an unexpected death.
-OL,11,G1600FBargain-Loving Brits in the Sun
-OL,12,     GLouise and Ed, owners of their
-OL,13,     Gown catering company in the town
-OL,14,     Gof Sotogrande, serve up
-OL,15,     Gtraditional English Sunday roasts
-OL,16,     Gto their growing clientele.
-OL,17,G1700F5 News at 5
-OL,18,     GJoin Dan Walker and the team for
-OL,19,     Gthe news that matters to you.
+OL,4,G1600FBargain-Loving Brits in the Sun
+OL,5,     GLouise and Ed, owners of their
+OL,6,     Gown catering company in the town
+OL,7,     Gof Sotogrande, serve up
+OL,8,     Gtraditional English Sunday roasts
+OL,9,     Gto their growing clientele.
+OL,10,G1700F5 News at 5
+OL,11,     GJoin Dan Walker and the team for
+OL,12,     Gthe news that matters to you.
+OL,13,G1800FSunshine Getaways with Amanda Lamb
+OL,14,     GIn and around Antibes and Cannes,
+OL,15,     Grental options are a renovated
+OL,16,     Ghillside maisonette, a duplex
+OL,17,     Gwith a private courtyard, and a
+OL,18,     Gspaceous apartment near the water.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
