@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705668560
+OL,0,        ECIMSBWebfax     F698A1705672168
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705668560
+OL,0,        ECIMSBWebfax     F698A1705672168
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,128 +44,130 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705668560
+OL,0,        ECIMSBWebfax     F698A1705672168
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 19 JAN
-OL,4,G1215FBargain Hunt
-OL,5,     GCaroline Hawley gets behind the
-OL,6,     Gwheel of an antique automobile
-OL,7,     Gwhile Raj Bisram and Stephanie
-OL,8,     GConnell try to steer their teams
-OL,9,     Gto victory.
-OL,10,G1300FBBC News
-OL,11,G1330FRegional News
-OL,12,G1345FFather Brown
-OL,13,     GBrenda faces ghosts from her past
-OL,14,     Gand becomes embroiled in a local
-OL,15,     Gdispute that ends in murder.
-OL,16,G1430FMoney for Nothing
-OL,17,     GJunk makeover show. Upcycling
-OL,18,     Gexpert EJ Osborne is in Woking,
-OL,19,     Gwhere he finds an outdated
-OL,20,     Garmchair, old scaffolding props
-OL,21,     Gand a collection of wooden
-OL,22,     Gfloorboards.
+OL,4,G1345FFather Brown
+OL,5,     GBrenda faces ghosts from her past
+OL,6,     Gand becomes embroiled in a local
+OL,7,     Gdispute that ends in murder.
+OL,8,G1430FMoney for Nothing
+OL,9,     GJunk makeover show. Upcycling
+OL,10,     Gexpert EJ Osborne is in Woking,
+OL,11,     Gwhere he finds an outdated
+OL,12,     Garmchair, old scaffolding props
+OL,13,     Gand a collection of wooden
+OL,14,     Gfloorboards.
+OL,15,G1500FI Escaped to the Country
+OL,16,     GNicki Chapman catches up with
+OL,17,     Gescapees who found dream homes
+OL,18,     Gwith spectacular views on
+OL,19,     GScotland's west coast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705668560
+OL,0,        ECIMSBWebfax     F698A1705672168
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 19 JAN
-OL,4,G1215FPolitics UK
-OL,5,     GHighlights of parliamentary
-OL,6,     Gproceedings from across the UK.
-OL,7,G1300FBowls: World Indoor Championships
-OL,8,     GLive coverage of the most
-OL,9,     Gprestigious tournament in world
-OL,10,     Gindoor bowls.
-OL,11,G1715FFlog It!
-OL,12,     GToday's Flog It! comes from the
-OL,13,     GRoyal Marines Museum in Hampshire.
-OL,14,G1800FRichard Osman's House of Games
-OL,15,     GSir Chris Hoy, Rosie Jones, Ola
-OL,16,     GLabib and Ian 'H' Watkins test
-OL,17,     Gtheir general knowledge skills on
-OL,18,     Gthis week's House of Games.
+OL,4,G1300FBowls: World Indoor Championships
+OL,5,     GLive coverage of the most
+OL,6,     Gprestigious tournament in world
+OL,7,     Gindoor bowls.
+OL,8,G1715FFlog It!
+OL,9,     GToday's Flog It! comes from the
+OL,10,     GRoyal Marines Museum in Hampshire.
+OL,11,G1800FRichard Osman's House of Games
+OL,12,     GSir Chris Hoy, Rosie Jones, Ola
+OL,13,     GLabib and Ian 'H' Watkins test
+OL,14,     Gtheir general knowledge skills on
+OL,15,     Gthis week's House of Games.
+OL,16,G1830FRobson Green's Weekend Escapes
+OL,17,     GRobson and his Uncle Matheson
+OL,18,     Ghead to the Lake District. They
+OL,19,     Gtry ghyll scrambling near
+OL,20,     GHonister and spend a night in a
+OL,21,     GMongolian yurt.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705668560
+OL,0,        ECIMSBWebfax     F698A1705672168
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 19 JAN
-OL,4,G1230FLoose Women
-OL,5,     GChloe Madeley joins Kaye Adams,
-OL,6,     GKatie Piper, Myleene Klass and
-OL,7,     GNadia Sawalha in the studio for
-OL,8,     Gher first interview since
-OL,9,     Gannouncing her split from husband
-OL,10,     GJames Haskell.
-OL,11,G1330FITV Lunchtime News
-OL,12,     GThe latest headlines from around
-OL,13,     Gthe world at lunchtime with
-OL,14,     Greports and analysis from ITV's
-OL,15,     GCorrespondents, all of which are
-OL,16,     Gfollowed by a national weather
-OL,17,     Gforecast.
-OL,18,G1355FRegional News
+OL,4,G1330FITV Lunchtime News
+OL,5,     GThe latest headlines from around
+OL,6,     Gthe world at lunchtime with
+OL,7,     Greports and analysis from ITV's
+OL,8,     GCorrespondents, all of which are
+OL,9,     Gfollowed by a national weather
+OL,10,     Gforecast.
+OL,11,G1355FRegional News
+OL,12,G1400FDickinson's Real Deal
+OL,13,     GSolihull 2: The National
+OL,14,     GMotorcycle Museum in Solihull in
+OL,15,     Gthe West Midlands welcomes a
+OL,16,     Gcollection of railway memorabilia
+OL,17,     Gas Simon Schneider is pressured
+OL,18,     Gto pay a fair price for gold.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705668560
+OL,0,        ECIMSBWebfax     F698A1705672168
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 19 JAN
-OL,4,G1240FFour in a Bed
-OL,5,     GVisit three is to Holly Grove
-OL,6,     GFarm in Staffordshire. Hosts Dave
-OL,7,     Gand Karon think that their rural
-OL,8,     Gglampsite is a tucked-away idyll,
-OL,9,     Gand their guests concur - apart
-OL,10,     Gfrom one...
-OL,11,G1310FFour in a Bed
-OL,12,     GCan host Pav handle his guests'
-OL,13,     Ggrumbles about cleanliness and
-OL,14,     Ginstant coffee when he hosts the
-OL,15,     Gweek's final visit, at Beldon
-OL,16,     GHouse B&B in Lincolnshire?
+OL,4,G1340FFour in a Bed
+OL,5,     GOne B&Ber comes under fire on
+OL,6,     Gpayment day for some suspicious
+OL,7,     Gscoring, while a confusing
+OL,8,     Gbreakfast rating is high on the
+OL,9,     Gagenda for another. But most
+OL,10,     Gimportantly, who's won the week?
+OL,11,G1410FCountdown
+OL,12,     GColin Murray and Rachel Riley
+OL,13,     Ghost as contestants race against
+OL,14,     Gthe clock to pit their wits
+OL,15,     Gagainst vowels, consonants and
+OL,16,     Gnumbers. Prue Leith joins Susie
+OL,17,     GDent in Dictionary Corner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705668560
+OL,0,        ECIMSBWebfax     F698A1705672168
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 19 JAN
-OL,4,G1245FAlexis Conran & Friends
-OL,5,     GAll new series where Alexis and
-OL,6,     Ghis team of experts tackle the
-OL,7,     Gproblems affecting you the most.
-OL,8,G1340F5 News at Lunchtime
-OL,9,     GNational and international news.
-OL,10,G1345FHome and Away
-OL,11,     GIrene pushes Harper and Dana
-OL,12,     Gaway, Felicity is caught out in a
-OL,13,     Glie, and Tane is inconsolable.
-OL,14,G1415FMystery 101: An Education in
-OL,15,     FMurder
-OL,16,     GA writer's research prompts the
-OL,17,     Gpolice to revisit a murder case
-OL,18,     Gthat convicted Amy's colleague,
-OL,19,     Gso Travis and Amy get a chance at
-OL,20,     Gclearing the professor's name.
+OL,4,G1345FHome and Away
+OL,5,     GIrene pushes Harper and Dana
+OL,6,     Gaway, Felicity is caught out in a
+OL,7,     Glie, and Tane is inconsolable.
+OL,8,G1415FMystery 101: An Education in
+OL,9,     FMurder
+OL,10,     GA writer's research prompts the
+OL,11,     Gpolice to revisit a murder case
+OL,12,     Gthat convicted Amy's colleague,
+OL,13,     Gso Travis and Amy get a chance at
+OL,14,     Gclearing the professor's name.
+OL,15,G1600FBargain-Loving Brits in the Sun
+OL,16,     GWe meet couple Deb and Dave who
+OL,17,     Gtraded in the delights of Essex
+OL,18,     Gfor a home in a beautiful 'pueblo
+OL,19,     Gblanco' or traditional white
+OL,20,     Gvillage on a mountain overlooking
+OL,21,     Gthe Mediterranean.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
