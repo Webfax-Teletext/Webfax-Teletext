@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705729913
+OL,0,        ECIMSBWebfax     F698A1705733526
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705729913
+OL,0,        ECIMSBWebfax     F698A1705733526
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,79 +44,130 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705729913
+OL,0,        ECIMSBWebfax     F698A1705733526
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 19 JAN
-OL,4,G0140FBBC News
+OL,3,CProgramme listings for SAT 20 JAN
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GHost Matt Tebbutt is joined by
+OL,10,     Gchefs Tom Parker Bowles and Thuy
+OL,11,     GDiem Pham, and by special guest
+OL,12,     GMatt Lucas. Drinks expert Helen
+OL,13,     GMcGinn picks the wines to go with
+OL,14,     Gthe studio dishes.
+OL,15,G1130FThe Great Food Guys
+OL,16,     GChef Nick Nairn and Dougie Vipond
+OL,17,     Gfocus on wild food and cook
+OL,18,     Ggnocchi with smoked haddock and
+OL,19,     Gwild greens, with guests chef
+OL,20,     GBilly Boyter and crime writer Val
+OL,21,     GMcDermid.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705729913
+OL,0,        ECIMSBWebfax     F698A1705733526
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 19 JAN
-OL,4,G0425FThis is BBC Two
+OL,3,CProgramme listings for SAT 20 JAN
+OL,4,G0645FDennis & Gnasher Unleashed!
+OL,5,     GThe Hairy Wiggler. Dennis dresses
+OL,6,     GGnasher up as a rare breed of
+OL,7,     Ganimal.
+OL,8,G0700FDanger Mouse
+OL,9,     GGreenfinger. Animated series.
+OL,10,     GDanger Mouse's attempts at
+OL,11,     Ggardening lead to a gigantic
+OL,12,     GWelsh space plant taking over the
+OL,13,     Gworld and an attack of
+OL,14,     Gintergalactic bees.
+OL,15,G0710FShaun the Sheep
+OL,16,     GHappy Farmers' Day. Animated
+OL,17,     Gseries. Bitzer treats the farmer
+OL,18,     Gto a restaurant-style dining
+OL,19,     Gexperience, but the main course
+OL,20,     Ggoes missing.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705729913
+OL,0,        ECIMSBWebfax     F698A1705733526
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 19 JAN
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GSolihull 2: The National
-OL,6,     GMotorcycle Museum in Solihull in
-OL,7,     Gthe West Midlands welcomes a
-OL,8,     Gcollection of railway memorabilia
-OL,9,     Gas Simon Schneider is pressured
-OL,10,     Gto pay a fair price for gold.
+OL,3,CProgramme listings for SAT 20 JAN
+OL,4,G0630FLove Your Garden
+OL,5,     GCroydon: Alan surprises a group
+OL,6,     Gof senior citizens in busy
+OL,7,     GThornton Heath and turns an urban
+OL,8,     Gwasteland into a welcoming oasis
+OL,9,     Gof grasses and daisy flowers.
+OL,10,G0730FLove Your Weekend with Alan
+OL,11,     FTitchmarsh
+OL,12,     GJoining Alan this time are
+OL,13,     Glegendary lyricist Sir Tim Rice,
+OL,14,     Gactress Glynis Barber, weatherman
+OL,15,     Gand drummer Owain Wyn Evans and
+OL,16,     Gsome cold climate dogs.
+OL,17,G0925FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705729913
+OL,0,        ECIMSBWebfax     F698A1705733526
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 19 JAN
-OL,4,G0505FUndercover Boss Australia
-OL,5,     GPeter Murray, the director of
-OL,6,     GVeolia Environmental Services,
-OL,7,     Ggoes undercover in his business.
-OL,8,     GBut he soon finds himself in
-OL,9,     Gtrouble when he breaks one of the
-OL,10,     Gcompany's recycling systems.
-OL,11,G0555FFood Unwrapped
-OL,12,     GMatt Tebbutt visits an
-OL,13,     Gextraordinary underwater basil
-OL,14,     Gfarm as he investigates pesto.
-OL,15,     GAnd could squid and chips replace
-OL,16,     Gfish and chips as our national
-OL,17,     Gdish?
+OL,3,CProgramme listings for SAT 20 JAN
+OL,4,G0635FThe King of Queens
+OL,5,     GEntertainment Weakly: Doug's
+OL,6,     Gposition as the office clown is
+OL,7,     Gthreatened when a new employee
+OL,8,     Gwins over the workforce with his
+OL,9,     Gimpersonations.
+OL,10,G0700FThe King of Queens
+OL,11,     GName Dropper: Doug fakes a heart
+OL,12,     Gattack to cover up the fact that
+OL,13,     Ghe's forgotten Carrie's friend's
+OL,14,     Gname.
+OL,15,G0725FCheers
+OL,16,     GDon't Paint Your Chickens: Sam
+OL,17,     Gdates Erin, an exercise fan who
+OL,18,     Gexhausts him with her dedication
+OL,19,     Gto athletics and outdoor
+OL,20,     Gpursuits. Rebecca promotes Norm's
+OL,21,     Gdecorating business.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1705729913
+OL,0,        ECIMSBWebfax     F698A1705733526
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 19 JAN
-OL,4,G0545FThomas & Friends
-OL,5,     G...Big World! Big Adventures!
-OL,6,     GThomas is in Australia for
-OL,7,     GChristmas and is disappointed
-OL,8,     Git's different to Sodor. He helps
-OL,9,     Ga girl retrieve her toy kangaroo
-OL,10,     Gfrom a real one.
+OL,3,CProgramme listings for SAT 20 JAN
+OL,4,G0650FThomas & Friends: Big World Big
+OL,5,     FAdventures!
+OL,6,     GThomas travels to the land down
+OL,7,     Gunder, where he helps his friend
+OL,8,     GAce overcome his fear of animals
+OL,9,     Gso that he can compete in
+OL,10,     GAustralia's Super Stunt Rally.
+OL,11,G0700FChip and Potato
+OL,12,     GChip's friend Nico is in the
+OL,13,     Ghospital with a broken arm and a
+OL,14,     Gbump on his head. Doctors want
+OL,15,     GNico to stay one more night, so
+OL,16,     GChip and Potato come up with a
+OL,17,     Gway to help Nico feel better!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
