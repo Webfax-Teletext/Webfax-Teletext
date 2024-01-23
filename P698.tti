@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706040399
+OL,0,        ECIMSBWebfax     F698A1706044006
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706040399
+OL,0,        ECIMSBWebfax     F698A1706044006
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,129 +44,130 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706040399
+OL,0,        ECIMSBWebfax     F698A1706044006
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 23 JAN
-OL,4,G2000FWaterloo Road
-OL,5,     GShola's new obsession sends
-OL,6,     Gshockwaves through the school,
-OL,7,     Gwith devastating consequences for
-OL,8,     GJoe and Mike.
-OL,9,G2100FWho Do You Think You Are?
-OL,10,     GComedian Josh Widdicombe embarks
-OL,11,     Gon a rollercoaster ride through
-OL,12,     Ghis extraordinary family history,
-OL,13,     Gincluding a courtier with very
-OL,14,     Gpersonal access to King Charles I.
-OL,15,G2200FBBC News and Weather
-OL,16,G2230FRegional News
-OL,17,G2240FTell Me Lies
-OL,18,     GLucy and Stephen go home for the
-OL,19,     Gwinter break and have to deal
-OL,20,     Gwith family tensions. Lucy
-OL,21,     Guncovers a secret. Contains
-OL,22,     Gstrong language.
+OL,4,G2100FWho Do You Think You Are?
+OL,5,     GComedian Josh Widdicombe embarks
+OL,6,     Gon a rollercoaster ride through
+OL,7,     Ghis extraordinary family history,
+OL,8,     Gincluding a courtier with very
+OL,9,     Gpersonal access to King Charles I.
+OL,10,G2200FBBC News and Weather
+OL,11,G2230FRegional News
+OL,12,G2240FTell Me Lies
+OL,13,     GLucy and Stephen go home for the
+OL,14,     Gwinter break and have to deal
+OL,15,     Gwith family tensions. Lucy
+OL,16,     Guncovers a secret. Contains
+OL,17,     Gstrong language.
+OL,18,G2330FTell Me Lies
+OL,19,     GLucy confronts Stephen about what
+OL,20,     Gshe found at Macy's memorial.
+OL,21,     GContains very strong language and
+OL,22,     Gscenes of a sexual nature.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706040399
+OL,0,        ECIMSBWebfax     F698A1706044006
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 23 JAN
-OL,4,G2000FGreat British Menu
-OL,5,     GFour chefs compete for north east
-OL,6,     GEngland with canapes, starters
-OL,7,     Gand fish dishes inspired by the
-OL,8,     GOlympics and Paralympics. Who
-OL,9,     Gwill be eliminated?
-OL,10,G2100FInside the Factory
-OL,11,     GGregg Wallace visits a huge
-OL,12,     Gbrewery in Dublin to learn how
-OL,13,     Gtwo million litres of an iconic
-OL,14,     GIrish stout are produced every
-OL,15,     Gday.
-OL,16,G2200FWhat We Do in the Shadows
-OL,17,     GThe vampires take a trip to the
-OL,18,     Gsecret Night Market, where all
-OL,19,     Gthe supernatural creatures gather
-OL,20,     Gto barter and haggle. Contains
-OL,21,     Gstrong language.
+OL,4,G2100FInside the Factory
+OL,5,     GGregg Wallace visits a huge
+OL,6,     Gbrewery in Dublin to learn how
+OL,7,     Gtwo million litres of an iconic
+OL,8,     GIrish stout are produced every
+OL,9,     Gday.
+OL,10,G2200FWhat We Do in the Shadows
+OL,11,     GThe vampires take a trip to the
+OL,12,     Gsecret Night Market, where all
+OL,13,     Gthe supernatural creatures gather
+OL,14,     Gto barter and haggle. Contains
+OL,15,     Gstrong language.
+OL,16,G2225FLaugh Lessons
+OL,17,     GEhiz, one of the UK's biggest
+OL,18,     Gsocial media stars, breaks down
+OL,19,     Ghis own experiences of toxic
+OL,20,     Gmasculinity in this sick grime
+OL,21,     Gtrack.
+OL,22,G2230FNewsnight
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
-OL,26,@nD@Xrr
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706040399
+OL,0,        ECIMSBWebfax     F698A1706044006
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 23 JAN
-OL,4,G2000FThe Martin Lewis Money Show Live
-OL,5,     GMartin's Big Briefing is packed
-OL,6,     Gwith information on mortgages,
-OL,7,     Grenting, house prices and
-OL,8,     Ginterest rates as he is joined by
-OL,9,     Ga team of specialists to answer
-OL,10,     Gyour queries.
-OL,11,G2100FCoronation Street
-OL,12,     GBernie's road trip culminates in
-OL,13,     Ga shock revelation, Tracy demands
-OL,14,     Ga makeover for her birthday,
-OL,15,     GMaria urges Liam to tell the
-OL,16,     Gpolice the truth, and the
-OL,17,     Gbailiffs call on the Baileys.
+OL,4,G2100FCoronation Street
+OL,5,     GBernie's road trip culminates in
+OL,6,     Ga shock revelation, Tracy demands
+OL,7,     Ga makeover for her birthday,
+OL,8,     GMaria urges Liam to tell the
+OL,9,     Gpolice the truth, and the
+OL,10,     Gbailiffs call on the Baileys.
+OL,11,G2200FITV News at Ten
+OL,12,     GITV News provides a fresh
+OL,13,     Gperspective on the major stories
+OL,14,     Gof the day with national and
+OL,15,     Ginternational news with reports
+OL,16,     Gand analysis from ITV's
+OL,17,     GCorrespondents.
+OL,18,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706040399
+OL,0,        ECIMSBWebfax     F698A1706044006
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 23 JAN
-OL,4,G2000F24 Hours in A&E
-OL,5,     GSome memorable stories from A&E.
-OL,6,     GAn 80-year-old has fallen into
-OL,7,     Gher empty swimming pool. And
-OL,8,     GGraham's stubbed his toe trying
-OL,9,     Gto avoid his friend's black cat.
-OL,10,     GAnd he doesn't even like cats!
-OL,11,G2100FAround the World in 80 Weighs
-OL,12,     GSix Brits who are living with
-OL,13,     Gobesity continue their fact-
-OL,14,     Gfinding global journey. In Tonga,
-OL,15,     Gthe group meet the driven Ofeina
-OL,16,     Gand reluctantly embrace the
-OL,17,     Gtraditional raw fish diet.
+OL,4,G2100FAround the World in 80 Weighs
+OL,5,     GSix Brits who are living with
+OL,6,     Gobesity continue their fact-
+OL,7,     Gfinding global journey. In Tonga,
+OL,8,     Gthe group meet the driven Ofeina
+OL,9,     Gand reluctantly embrace the
+OL,10,     Gtraditional raw fish diet.
+OL,11,G2200FFirst Dates
+OL,12,     GBarrister Sarah meets Dan, an ex-
+OL,13,     Gmilitary man guilty of too many
+OL,14,     Gdad jokes. And besties Megan and
+OL,15,     GEllena are out on a double date
+OL,16,     Ghoping to have their trust in men
+OL,17,     Grestored.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706040399
+OL,0,        ECIMSBWebfax     F698A1706044006
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 23 JAN
-OL,4,G2000FDogs Behaving (Very) Badly
-OL,5,     GGraeme Hall deals with intimacy-
-OL,6,     Gdestroying missile Chihuahua
-OL,7,     GWally, who is disrupting the love
-OL,8,     Glife of newlyweds Melody and
-OL,9,     GAdam. And Dachshund Floki is a
-OL,10,     Gnuisance on public transport.
-OL,11,G2100FBen Fogle: New Lives in the Wild
-OL,12,     GOn the island of Koh Samui, Ben
-OL,13,     Gmeets entrepreneur Niall who
-OL,14,     Gtraded in a high-flying career
-OL,15,     Gfor the beaches of Thailand to
-OL,16,     Ghelp street dogs who, in turn,
-OL,17,     Ghave rescued him.
+OL,4,G2100FBen Fogle: New Lives in the Wild
+OL,5,     GOn the island of Koh Samui, Ben
+OL,6,     Gmeets entrepreneur Niall who
+OL,7,     Gtraded in a high-flying career
+OL,8,     Gfor the beaches of Thailand to
+OL,9,     Ghelp street dogs who, in turn,
+OL,10,     Ghave rescued him.
+OL,11,G2200FJames Bulger: The Trial
+OL,12,     GThirty years on from the trial
+OL,13,     Gthat shocked the world, for first
+OL,14,     Gtime this film reveals what
+OL,15,     Ghappened in the courtroom hearing
+OL,16,     Gfrom the lawyers, jurors and
+OL,17,     Gwitnesses who were there.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
