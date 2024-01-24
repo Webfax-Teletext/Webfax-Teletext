@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706072859
+OL,0,        ECIMSBWebfax     F698A1706076466
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706072859
+OL,0,        ECIMSBWebfax     F698A1706076466
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,88 +44,133 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706072859
+OL,0,        ECIMSBWebfax     F698A1706076466
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 23 JAN
-OL,4,G0105FBBC News
+OL,3,CProgramme listings for WED 24 JAN
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FMorning Live
+OL,9,     GJoin Gethin Jones, Helen Skelton,
+OL,10,     GMichelle Ackerley and the team
+OL,11,     Gfor conversation, advice and tips
+OL,12,     Gto make your day that little bit
+OL,13,     Geasier.
+OL,14,G1045FRip Off Britain
+OL,15,     GThe team show you how to prevent
+OL,16,     Gyour credit rating being ruined
+OL,17,     Gby scammers.
+OL,18,G1130FHomes Under the Hammer
+OL,19,     GTommy masks up as he investigates
+OL,20,     Gan odour-filled townhouse in
+OL,21,     GWindsor.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706072859
+OL,0,        ECIMSBWebfax     F698A1706076466
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 23 JAN
+OL,3,CProgramme listings for WED 24 JAN
 OL,4,G0345FThis is BBC Two
+OL,5,G0645FThe Travelling Auctioneers
+OL,6,     GLouise has inherited her parents'
+OL,7,     Ghuge collection of antiques,
+OL,8,     Gincluding paintings, Chinese
+OL,9,     Gvases and jewellery. Can enough
+OL,10,     Gcash be made to send her children
+OL,11,     Gto university?
+OL,12,G0730FDavid & Jay's Touring Toolshed
+OL,13,     GDavid and Jay meet a vehicle
+OL,14,     Genthusiast in need of help and
+OL,15,     Gtry neon sign making.
+OL,16,G0800FSee Hear
+OL,17,     GNadeem Islam hosts a panel debate
+OL,18,     Gon what it means to be deaf in
+OL,19,     G21st-century Britain.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706072859
+OL,0,        ECIMSBWebfax     F698A1706076466
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 23 JAN
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GSolihull 3: David Dickinson is at
-OL,6,     Gthe National Motorcycle Museum in
-OL,7,     GSolihull as one dealer ends up
-OL,8,     Gwith the show's smallest profit
-OL,9,     Gto date and Mark Stevens is
-OL,10,     Gtempted by a tantalus.
+OL,3,CProgramme listings for WED 24 JAN
+OL,4,G0600FGood Morning Britain
+OL,5,     GThe mother of murdered schoolgirl
+OL,6,     GBrianna Ghey talks about why she
+OL,7,     Ghas no sympathy for her
+OL,8,     Gdaughter's teenage killers.
+OL,9,G0900FLorraine
+OL,10,     GLorraine Kelly presents a topical
+OL,11,     Gmix of entertainment, discussion
+OL,12,     Gand showbiz glamour as well as
+OL,13,     Gthe latest fashion, food and
+OL,14,     Gcelebrity gossip.
+OL,15,G1000FThis Morning
+OL,16,     GMagazine show with news and
+OL,17,     Gtopical items, celebrity guests,
+OL,18,     Gexpert advice, real life stories,
+OL,19,     Gcompetitions and a mix of
+OL,20,     Gcookery, health, beauty,
+OL,21,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706072859
+OL,0,        ECIMSBWebfax     F698A1706076466
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 23 JAN
-OL,4,G0450FUndercover Boss Australia
-OL,5,     GBIG4 Holiday Parks' chief
-OL,6,     Gexecutive, Ray Schleibs, goes
-OL,7,     Gundercover in his own company,
-OL,8,     Gcleaning bathrooms and making
-OL,9,     Gbeds alongside his staff.
-OL,10,G0545FFood Unwrapped
-OL,11,     GThe team explore how the UK food
-OL,12,     Gindustry is meeting the
-OL,13,     Gchallenges of climate change -
-OL,14,     Gfrom cucumber wrapping and
-OL,15,     Gpumpkins at Halloween to beef
-OL,16,     Gproduction and meat substitutes.
+OL,3,CProgramme listings for WED 24 JAN
+OL,4,G0545FFood Unwrapped
+OL,5,     GThe team explore how the UK food
+OL,6,     Gindustry is meeting the
+OL,7,     Gchallenges of climate change -
+OL,8,     Gfrom cucumber wrapping and
+OL,9,     Gpumpkins at Halloween to beef
+OL,10,     Gproduction and meat substitutes.
+OL,11,G0615FCountdown
+OL,12,     GColin Murray and Rachel Riley
+OL,13,     Ghost as contestants race against
+OL,14,     Gthe clock to pit their wits
+OL,15,     Gagainst vowels, consonants and
+OL,16,     Gnumbers. Jon Culshaw joins Susie
+OL,17,     GDent in Dictionary Corner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706072859
+OL,0,        ECIMSBWebfax     F698A1706076466
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 23 JAN
-OL,4,G0505FHouse Doctor
-OL,5,     GAnn Maurice presents a
-OL,6,     Gcompilation of tips from the
-OL,7,     Gseries on how to improve a hard-
-OL,8,     Gto-sell property.
-OL,9,G0530FEntertainment News on 5
-OL,10,     GA daily round-up of showbiz news
-OL,11,     Gand gossip from around the world,
-OL,12,     Gfocusing on celebrities, movies,
-OL,13,     Gmusic and entertainment.
-OL,14,G0540FMilkshake! Monkey Amazing
-OL,15,     FAdventures
-OL,16,     GIn Wales, Milkshake! Monkey
-OL,17,     Gvisits a Roman bath house and
-OL,18,     Gfinds out how the ancient Romans
-OL,19,     Gkept clean. The Milkshakers! make
-OL,20,     GRoman brooches and try on togas.
+OL,3,CProgramme listings for WED 24 JAN
+OL,4,G0605FBrave Bunnies
+OL,5,     GWhen Bop and Boo meet a zebra who
+OL,6,     Gloves dragons, they inspire their
+OL,7,     Gfriend to use her imagination and
+OL,8,     Gbring her favourite fairy tale
+OL,9,     Gcreature to life.
+OL,10,G0610FPeppa Pig
+OL,11,     GWhen Pedro Pony tries to rescue
+OL,12,     GTiddles the Tortoise from up a
+OL,13,     Gtree, it sets off a chain of
+OL,14,     Gevents that need several visits
+OL,15,     Gfrom the doctors to save the day.
+OL,16,G0615FPeppa Pig
+OL,17,     GMr Potato visits the playgroup
+OL,18,     Gwith his superhero friend Super
+OL,19,     GPotato, who teaches the children
+OL,20,     Gthe importance of eating fruit
+OL,21,     Gand vegetables every day.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
