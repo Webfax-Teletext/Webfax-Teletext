@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706300313
+OL,0,        ECIMSBWebfax     F698A1706303919
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706300313
+OL,0,        ECIMSBWebfax     F698A1706303919
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,65 +44,67 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706300313
+OL,0,        ECIMSBWebfax     F698A1706303919
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 26 JAN
-OL,4,G2000FWould I Lie to You?
-OL,5,     GSam Campbell, Will Mellor,
-OL,6,     GKimberley Walsh and Charlene
-OL,7,     GWhite join host Rob Brydon and
-OL,8,     Gteam captains Lee Mack and David
-OL,9,     GMitchell to sort out the fact
-OL,10,     Gfrom the fiction.
-OL,11,G2030FAmanda & Alan's Italian Job
-OL,12,     GAlan is in charge of tackling the
-OL,13,     Gfirst bedroom, and he doesn't
-OL,14,     Ghold back with his design.
-OL,15,G2100FThe Traitors
-OL,16,     GIt's the final day of the
-OL,17,     Gultimate psychological game of
-OL,18,     Gtrust! Contains some strong
-OL,19,     Glanguage.
-OL,20,G2210FBBC News and Weather
-OL,21,G2240FRegional News
+OL,4,G2100FThe Traitors
+OL,5,     GIt's the final day of the
+OL,6,     Gultimate psychological game of
+OL,7,     Gtrust! Contains some strong
+OL,8,     Glanguage.
+OL,9,G2210FBBC News and Weather
+OL,10,G2240FRegional News
+OL,11,G2250FThe Graham Norton Show
+OL,12,     GActors Bradley Cooper, Carey
+OL,13,     GMulligan, Bryan Cranston, Bryce
+OL,14,     GDallas Howard, Daniel Kaluuya and
+OL,15,     Gcomedian Kevin Bridges join
+OL,16,     GGraham on his sofa.
+OL,17,G2340FMeet Joe Black
+OL,18,     GMeet Joe Black. Sooner or later
+OL,19,     Geveryone does. Contains some
+OL,20,     Gstrong language.
+OL,21,G0230FWeather for the Week Ahead
+OL,22,G0235FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706300313
+OL,0,        ECIMSBWebfax     F698A1706303919
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 26 JAN
-OL,4,G2000FGardeners' World
-OL,5,     GMonty and the team bring a bit of
-OL,6,     Gcolour to these dark winter days
-OL,7,     Gby looking back at some seasonal
-OL,8,     Ghighlights of Gardeners' World.
-OL,9,G2100FQI XL
-OL,10,     GSandi Toksvig puts the UK-US
-OL,11,     Gspecial relationship under the
-OL,12,     Gmicroscope with Kemah Bob, Alex
-OL,13,     GEdelman, David Mitchell, and Alan
-OL,14,     GDavies. Contains some strong
-OL,15,     Glanguage.
-OL,16,G2145FMan Like Mobeen
-OL,17,     GAfter the attack on his best
-OL,18,     Gfriends, Mobeen is armed,
-OL,19,     Gdangerous and set for revenge.
-OL,20,     GContains very strong language and
-OL,21,     Gadult humour
+OL,4,G2100FQI XL
+OL,5,     GSandi Toksvig puts the UK-US
+OL,6,     Gspecial relationship under the
+OL,7,     Gmicroscope with Kemah Bob, Alex
+OL,8,     GEdelman, David Mitchell, and Alan
+OL,9,     GDavies. Contains some strong
+OL,10,     Glanguage.
+OL,11,G2145FMan Like Mobeen
+OL,12,     GAfter the attack on his best
+OL,13,     Gfriends, Mobeen is armed,
+OL,14,     Gdangerous and set for revenge.
+OL,15,     GContains very strong language and
+OL,16,     Gadult humour
+OL,17,G2210FThe Traitors: Uncloaked
+OL,18,     GEd Gamble and his celebrity
+OL,19,     Gguests debrief on the latest
+OL,20,     Gaction from the castle.
+OL,21,G2250FNewsnight
+OL,22,G2320FWeather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706300313
+OL,0,        ECIMSBWebfax     F698A1706303919
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -127,48 +129,52 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706300313
+OL,0,        ECIMSBWebfax     F698A1706303919
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 26 JAN
-OL,4,G2000FExtraordinary Extensions
-OL,5,     GTinie Tempah meets a couple
-OL,6,     Gadding not one but three huge
-OL,7,     Gextensions to their dream home,
-OL,8,     Gand follows a newly qualified
-OL,9,     Garchitect's build for his first
-OL,10,     Gclients - his own family!
-OL,11,G2100F8 Out of 10 Cats Does Countdown
-OL,12,     GJimmy Carr hosts the game show
-OL,13,     Gmash-up, as Rob Brydon and
-OL,14,     GKatherine Parkinson take on Jon
-OL,15,     GRichardson and Babatunde Aleshe.
-OL,16,     GWith Joe Wilkinson and Adam
-OL,17,     GBuxton.
+OL,4,G2100F8 Out of 10 Cats Does Countdown
+OL,5,     GJimmy Carr hosts the game show
+OL,6,     Gmash-up, as Rob Brydon and
+OL,7,     GKatherine Parkinson take on Jon
+OL,8,     GRichardson and Babatunde Aleshe.
+OL,9,     GWith Joe Wilkinson and Adam
+OL,10,     GBuxton.
+OL,11,G2200FJimmy Carr's I Literally Just
+OL,12,     FTold You
+OL,13,     GFour contestants try to win up to
+OL,14,     G#25,000 in the unique game show
+OL,15,     Ghosted by Jimmy Carr. All they've
+OL,16,     Ggot to do is remember what's
+OL,17,     Ghappened during the show...
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@wD@arrwD@drr
+OL,26,@pD@arrpD@drr
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706300313
+OL,0,        ECIMSBWebfax     F698A1706303919
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 26 JAN
-OL,4,G2000FCruising with Susan Calman
-OL,5,     GSusan travels through the Douro
-OL,6,     Gvalley, starting in Porto, where
-OL,7,     Gshe takes the city's cable car
-OL,8,     Gand visits Europe's biggest lock.
-OL,9,     GShe also visits Salamanca, to
-OL,10,     Genjoy tapas and flamenco.
-OL,11,G2100FThe Canary Islands with Jane
-OL,12,     FMcDonald
-OL,13,     GIn Lanzarote, Jane visits the
-OL,14,     Gunderground volcanic tunnels of
-OL,15,     Gthe Jameos del Agua caves, Playa
-OL,16,     GBlanca's attraction 'the spoon in
-OL,17,     Gconcrete' and Timanfaya National
-OL,18,     GPark.
+OL,4,G2100FThe Canary Islands with Jane
+OL,5,     FMcDonald
+OL,6,     GIn Lanzarote, Jane visits the
+OL,7,     Gunderground volcanic tunnels of
+OL,8,     Gthe Jameos del Agua caves, Playa
+OL,9,     GBlanca's attraction 'the spoon in
+OL,10,     Gconcrete' and Timanfaya National
+OL,11,     GPark.
+OL,12,G2200FLethal Weapon 4
+OL,13,     GAction sequel starring Mel Gibson
+OL,14,     Gand Danny Glover as the ill-
+OL,15,     Gmatched crazy cop duo who find
+OL,16,     Gthemselves pitched against the
+OL,17,     GChinese Triads.
+OL,18,G2300FEntertainment News on 5
+OL,19,     GA daily round-up of showbiz news
+OL,20,     Gand gossip from around the world,
+OL,21,     Gfocusing on celebrities, movies,
+OL,22,     Gmusic and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
