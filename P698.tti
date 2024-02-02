@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706850143
+OL,0,        ECIMSBWebfax     F698A1706853752
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706850143
+OL,0,        ECIMSBWebfax     F698A1706853752
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,96 +44,122 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706850143
+OL,0,        ECIMSBWebfax     F698A1706853752
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 1 FEB
-OL,4,G0015FBBC News
+OL,3,CProgramme listings for FRI 2 FEB
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FMorning Live
+OL,9,     GJoin Gethin Jones, Helen Skelton,
+OL,10,     GMichelle Ackerley and the team
+OL,11,     Gfor conversation, advice and tips
+OL,12,     Gto make your day that little bit
+OL,13,     Geasier.
+OL,14,G1045FDr Xand's Con or Cure
+OL,15,     GIs there a cure for a hangover?
+OL,16,     GCan drinking celery juice help
+OL,17,     Gwith weight loss? Also, a look at
+OL,18,     Gthe dangers of DIY dentistry and
+OL,19,     Gadvice on dealing with tinnitus.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706850143
+OL,0,        ECIMSBWebfax     F698A1706853752
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 1 FEB
+OL,3,CProgramme listings for FRI 2 FEB
 OL,4,G0410FThis is BBC Two
+OL,5,G0645FThe Travelling Auctioneers
+OL,6,     GAfter 42 years working abroad, a
+OL,7,     Gformer government diplomat has
+OL,8,     Gexotic treasures to sell.
+OL,9,     GHowever, will a postcard
+OL,10,     Gcollection, medals and a family
+OL,11,     Gmystery hold value at auction?
+OL,12,G0730FDavid & Jay's Touring Toolshed
+OL,13,     GSir David Jason and Jay Blades
+OL,14,     Ghelp a creative veteran to learn
+OL,15,     Gcarpentry to build her own
+OL,16,     Gmemorial bench and discover that
+OL,17,     Gleatherwork is harder than it
+OL,18,     Glooks.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706850143
+OL,0,        ECIMSBWebfax     F698A1706853752
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 1 FEB
-OL,4,G0350FUnwind with ITV
-OL,5,     GYour daily escape designed to
-OL,6,     Gcalm the mind and encourage
-OL,7,     Grelaxation and reflection.
-OL,8,G0505FDickinson's Real Deal
-OL,9,     GBradford 4: It's a big day for
-OL,10,     GDavid Dickinson and his team in
-OL,11,     GBradford with the show's biggest
-OL,12,     Gcash offer to date and Tim
-OL,13,     GHogarth getting a lesson in
-OL,14,     Ghaggling from a young seller.
+OL,3,CProgramme listings for FRI 2 FEB
+OL,4,G0600FGood Morning Britain
+OL,5,     GCorrie star Will Mellor joins us
+OL,6,     Gto talk about playing a Post
+OL,7,     GOffice scandal victim, and we
+OL,8,     Galso talk to him about his new
+OL,9,     Gtour alongside his friend Ralf
+OL,10,     GLittle.
+OL,11,G0900FLorraine
+OL,12,     GStrictly's Graziano Di Prima and
+OL,13,     GAnnabel Croft join Ranvir with
+OL,14,     Gall the gossip from its live
+OL,15,     Gtour, and comedian and actor Bill
+OL,16,     GBailey reveals all about his
+OL,17,     Gupcoming reality series.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706850143
+OL,0,        ECIMSBWebfax     F698A1706853752
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 1 FEB
-OL,4,G0445FKirstie and Phil's Love It or
-OL,5,     FList It
-OL,6,     GBrilliant Builds: Kirstie and
-OL,7,     GPhil look back on their best
-OL,8,     Gsmall-space transformations, from
-OL,9,     Gknocking down walls in Windsor to
-OL,10,     Ga Northamptonshire ground-floor
-OL,11,     Grevamp.
-OL,12,G0540FKirstie's House of Craft
-OL,13,     GKirstie Allsopp puts celebs to
-OL,14,     Gthe test in head-to-head craft
-OL,15,     Gchallenges. Mark-Francis Vandelli
-OL,16,     Gand Aggie MacKenzie make jelly
-OL,17,     Gart. Tony Singh and Sophie Morgan
-OL,18,     Ghave a snow globe craft-off.
+OL,3,CProgramme listings for FRI 2 FEB
+OL,4,G0550FFood Unwrapped
+OL,5,     GWhy are some fruits hairier than
+OL,6,     Gothers? What's the difference
+OL,7,     Gbetween single and double cream?
+OL,8,     GPlus: the science behind canned
+OL,9,     Gfood and why it can keep for so
+OL,10,     Glong.
+OL,11,G0615FCountdown
+OL,12,     GColin Murray and Rachel Riley
+OL,13,     Ghost as contestants race against
+OL,14,     Gthe clock to pit their wits
+OL,15,     Gagainst vowels, consonants and
+OL,16,     Gnumbers. Tasha Ghouri joins Susie
+OL,17,     GDent in Dictionary Corner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706850143
+OL,0,        ECIMSBWebfax     F698A1706853752
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 1 FEB
-OL,4,G0500FHouse Doctor
-OL,5,     GAnn Maurice provides home
-OL,6,     Gimprovement advice for
-OL,7,     Gproperties. Ann is in County
-OL,8,     GDurham to help renovate the house
-OL,9,     Gof a widow.
-OL,10,G0525FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the world,
-OL,13,     Gfocusing on celebrities, movies,
-OL,14,     Gmusic and entertainment.
-OL,15,G0540FMilkshake! Monkey Amazing
-OL,16,     FAdventures
-OL,17,     GMilkshake! Monkey hikes to the
-OL,18,     Gtop of Arthur's Seat, an extinct
-OL,19,     Gvolcano in Edinburgh! Lily
-OL,20,     Gemploys a very messy
-OL,21,     Gdemonstration to explain all
-OL,22,     Gabout volcanic eruptions.
+OL,3,CProgramme listings for FRI 2 FEB
+OL,4,G0600FSunny Bunnies
+OL,5,     GAnimated exploits of five
+OL,6,     Gcolourful balls of light. The
+OL,7,     GSunny Bunnies gather around a TV
+OL,8,     Gto watch a circus show, but they
+OL,9,     Gcan't decide on who gets the
+OL,10,     Gfront seat.
+OL,11,G0605FBrave Bunnies
+OL,12,     GAnimated series. When Boo and
+OL,13,     Gtheir llama BBF, Lara, disagree
+OL,14,     Gover what dish to cook for their
+OL,15,     Gdolls, Bop suggests that their
+OL,16,     Gpretend restaurant have more than
+OL,17,     Gone chef.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
