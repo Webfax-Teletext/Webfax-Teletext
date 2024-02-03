@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706936825
+OL,0,        ECIMSBWebfax     F698A1706940436
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706936825
+OL,0,        ECIMSBWebfax     F698A1706940436
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,91 +44,128 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706936825
+OL,0,        ECIMSBWebfax     F698A1706940436
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 2 FEB
-OL,4,G0200FBBC News
+OL,3,CProgramme listings for SAT 3 FEB
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GMatt Tebbutt is joined by Freddy
+OL,10,     GBird, Dina Macki, Tom Allen and
+OL,11,     GSuzi Ruffell.
+OL,12,G1130FThe Great Food Guys
+OL,13,     GNick Nairn and Dougie Vipond
+OL,14,     Gfocus on plant-based food with
+OL,15,     Gactress Jane McCarry.
+OL,16,G1200FFootball Focus
+OL,17,     GFocus looks ahead to Liverpool's
+OL,18,     Gtrip to Arsenal and asks if Xabi
+OL,19,     GAlonso might be the man to
+OL,20,     Gsucceed Jurgen Klopp.
+OL,21,G1300FBBC News
+OL,22,G1310FWeather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706936825
+OL,0,        ECIMSBWebfax     F698A1706940436
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 2 FEB
+OL,3,CProgramme listings for SAT 3 FEB
 OL,4,G0400FThis is BBC Two
+OL,5,G0615FHey Duggee
+OL,6,     GThe Get Indoors Badge. A weather
+OL,7,     Gwarning from Duggee's barometer
+OL,8,     Gleads the Squirrels to round up
+OL,9,     Gthe creatures.
+OL,10,G0625FSupertato
+OL,11,     GBroccoli's Movie Night. Broccoli
+OL,12,     Gscreens Supertato: The Movie, but
+OL,13,     GEvil Pea has plans to change the
+OL,14,     Gstory.
+OL,15,G0630FGrizzy and the Lemmings
+OL,16,     GPolar Superstar. The Lemmings
+OL,17,     Gperform acrobatic high jumps,
+OL,18,     Gcompeting for the winning prize.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706936825
+OL,0,        ECIMSBWebfax     F698A1706940436
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 2 FEB
-OL,4,G0505FDickinson's Real Deal
-OL,5,     GCirencester 4: David Dickinson
-OL,6,     Ghosts from Cirencester in
-OL,7,     GGloucestershire as a rare
-OL,8,     Gcollection of royal letters
-OL,9,     Gcauses a stir in the Den and two
-OL,10,     Gamazing bargains make big returns.
+OL,3,CProgramme listings for SAT 3 FEB
+OL,4,G0600FLove Your Garden
+OL,5,     GEssex: Alan and his team of
+OL,6,     Ggardening experts head to Waltham
+OL,7,     GAbbey to create a tropical escape
+OL,8,     Gwith a yoga deck and home office
+OL,9,     Gat its heart for a selfless
+OL,10,     Gleukaemia survivor.
+OL,11,G0630FLove Your Garden
+OL,12,     GChippenham: Alan and his team
+OL,13,     Gcreate a traditional formal
+OL,14,     Ggarden for inspirational couple
+OL,15,     GRichard and Lynette Warren while
+OL,16,     Galso revealing how to mark out a
+OL,17,     Gperfectly oval lawn.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706936825
+OL,0,        ECIMSBWebfax     F698A1706940436
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 2 FEB
-OL,4,G0435FKirstie and Phil's Love It or
-OL,5,     FList It
-OL,6,     GBrilliant Builds: Kirstie and
-OL,7,     GPhil look back on some of their
-OL,8,     Gbest future-proofing renovations,
-OL,9,     Gfrom a layout let-down in
-OL,10,     GYorkshire to a bothersome
-OL,11,     Gbungalow in Surrey.
-OL,12,G0525FFood Unwrapped
-OL,13,     GWhy is the shelf life for a
-OL,14,     Gvegetable stir-fry mix so short?
-OL,15,     GWhat's the secret to making
-OL,16,     Gperfect layers in a rocket ice
-OL,17,     Glolly? And, in Portugal, Kate
-OL,18,     Ginvestigates piri-piri.
+OL,3,CProgramme listings for SAT 3 FEB
+OL,4,G0555FCheers
+OL,5,     GMr Otis Regrets: Rebecca sends
+OL,6,     GSam undercover at a high society
+OL,7,     Gball to check out her boyfriend
+OL,8,     GRobin's 'other woman'. A woman
+OL,9,     Ganswers Woody's advertisement for
+OL,10,     Ga new roommate.
+OL,11,G0620FCheers
+OL,12,     GCry Hard: Rebecca moves in with
+OL,13,     GRobin and shows the Cheers gang
+OL,14,     Ghis fancy flat while he's away,
+OL,15,     Gonly to find he may be using her
+OL,16,     Gto gather information for a
+OL,17,     Gcorporate takeover.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1706936825
+OL,0,        ECIMSBWebfax     F698A1706940436
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 2 FEB
-OL,4,G0450FDivine Designs
-OL,5,     GDocumentary series exploring
-OL,6,     GBritain's religious art. Paul
-OL,7,     GBinski visits Liverpool to view
-OL,8,     Gthe city's two radically
-OL,9,     Gdifferent cathedrals.
-OL,10,G0515FHouse Doctor
-OL,11,     GHome-improvement advice for
-OL,12,     Gproperties that are proving
-OL,13,     Gdifficult to sell. Can a
-OL,14,     Gcluttered flat in Hammersmith be
-OL,15,     Gtransformed into a streamlined
-OL,16,     Gpied-a-terre?
-OL,17,G0540FEntertainment News on 5
-OL,18,     GA daily round-up of showbiz news
-OL,19,     Gand gossip from around the world,
-OL,20,     Gfocusing on celebrities, movies,
-OL,21,     Gmusic and entertainment.
+OL,3,CProgramme listings for SAT 3 FEB
+OL,4,G0605FBlue's Clues & You!
+OL,5,     GJosh is being silly but still
+OL,6,     Gcannot get Blue to laugh. While
+OL,7,     Glooking for clues, viewers find
+OL,8,     Gpatterns with a goofy gopher and
+OL,9,     Glocate all the mixed-up things in
+OL,10,     GSilly Town.
+OL,11,G0630FSesame Street Mecha Builders
+OL,12,     GIt's Food Day in Pretty Big City,
+OL,13,     Gbut the Mechas need to help when
+OL,14,     Gthe banana on top of the banana
+OL,15,     Gsplit statue is not split!
+OL,16,G0640FFireman Sam
+OL,17,     GNorman and Hannah set themselves
+OL,18,     Gup to investigate The Why Files -
+OL,19,     Gmysterious goings-on in
+OL,20,     GPontypandy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
