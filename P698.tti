@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707023546
+OL,0,        ECIMSBWebfax     F698A1707027161
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707023546
+OL,0,        ECIMSBWebfax     F698A1707027161
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,51 +44,90 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707023546
+OL,0,        ECIMSBWebfax     F698A1707027161
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 3 FEB
-OL,4,G0130FBBC News
+OL,3,CProgramme listings for SUN 4 FEB
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0745FMatch of the Day
+OL,9,     GGary Lineker and guests being you
+OL,10,     Gall the goals, drama and reaction
+OL,11,     Gfrom the day's five matches in
+OL,12,     Gthe Premier League, including
+OL,13,     GEverton v Tottenham.
+OL,14,G0900FSunday with Laura Kuenssberg
+OL,15,     GLaura Kuenssberg's guests are
+OL,16,     Geducation secretary Gillian
+OL,17,     GKeegan MP, shadow secretary of
+OL,18,     Gstate for science, innovation and
+OL,19,     Gtechnology Peter Kyle MP, and
+OL,20,     GEsther Ghey.
+OL,21,G1000FRegional Political Programmes
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707023546
+OL,0,        ECIMSBWebfax     F698A1707027161
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 3 FEB
+OL,3,CProgramme listings for SUN 4 FEB
 OL,4,G0335FThis is BBC Two
+OL,5,G0650FCountryfile
+OL,6,     GJoe Crowley explores the history,
+OL,7,     Gheritage and farming of the
+OL,8,     GSomerset Levels.
+OL,9,G0745FBreakfast
+OL,10,     GThe latest news, sport, business
+OL,11,     Gand weather from the BBC's
+OL,12,     GBreakfast team.
+OL,13,G0900FWild About Your Garden
+OL,14,     GNick Knowles attempts to give
+OL,15,     Gurban spaces a reverse makeover.
+OL,16,     GThe team faces their toughest
+OL,17,     Gchallenge yet: to attract the
+OL,18,     Grare red squirrel to a barren
+OL,19,     Ggarden in Dundee.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707023546
+OL,0,        ECIMSBWebfax     F698A1707027161
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 3 FEB
-OL,4,G0505FJason Atherton's Dubai Dishes
-OL,5,     GTea and Coffee: Jason makes a
-OL,6,     Gsplash with delicious recipes
-OL,7,     Gflavoured with tea and coffee and
-OL,8,     Ggets a lesson in the dos and
-OL,9,     Gdon'ts of serving a traditional
-OL,10,     GEmirati cup of coffee.
+OL,3,CProgramme listings for SUN 4 FEB
+OL,4,G0600FJames Martin's American Adventure
+OL,5,     GSalem: James's adventure brings
+OL,6,     Ghim to Salem on the East Coast -
+OL,7,     Gwhich was made famous by the
+OL,8,     Gwitch trials of 1692 - and things
+OL,9,     Gget spooky as he visits on the
+OL,10,     Gapproach to Halloween.
+OL,11,G0630FJames Martin's Spanish Adventure
+OL,12,     GVigo: James visits Vigo, which is
+OL,13,     Ghome to the biggest fish market
+OL,14,     Gin Europe, to try Galician
+OL,15,     Goctopus, see how a traditional
+OL,16,     GGalician loaf is made, and visit
+OL,17,     Ga furancho.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707023546
+OL,0,        ECIMSBWebfax     F698A1707027161
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 3 FEB
+OL,3,CProgramme listings for SUN 4 FEB
 OL,4,G0415FHollyoaks Omnibus
 OL,5,     GTom comes clean to Yazz. A
 OL,6,     Gfrustrated Cindy wants answers
@@ -96,31 +135,35 @@ OL,7,     Gabout Ella's death. Feeling lost,
 OL,8,     GPeri turns to partying. And the
 OL,9,     Gidentity of Mercedes' unborn
 OL,10,     Gtwins' father is revealed.
+OL,11,G0620FCheers
+OL,12,     GLove Is a Really, Really
+OL,13,     GPerfectly Okay Thing: In order to
+OL,14,     Gremain friends with Rebecca, Sam
+OL,15,     Gstrives to protect her reputation
+OL,16,     Gby denying he finally managed to
+OL,17,     Gget her into bed.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707023546
+OL,0,        ECIMSBWebfax     F698A1707027161
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 3 FEB
-OL,4,G0505FHouse Doctor
-OL,5,     GHome-improvement series with Ann
-OL,6,     GMaurice. A lacklustre house in
-OL,7,     GWelton, near Daventry, requires a
-OL,8,     Grevamp.
-OL,9,G0530FEntertainment News on 5
-OL,10,     GA daily round-up of showbiz news
-OL,11,     Gand gossip from around the world,
-OL,12,     Gfocusing on celebrities, movies,
-OL,13,     Gmusic and entertainment.
-OL,14,G0540FMilkshake! Monkey Amazing
-OL,15,     FAdventures
-OL,16,     GLive action series featuring an
-OL,17,     Ginquisitive puppet monkey.
-OL,18,     GMilkshake! Monkey visits
-OL,19,     GScotland's capital city and
-OL,20,     Glearns about traditional Scottish
-OL,21,     Gclothing and music.
+OL,3,CProgramme listings for SUN 4 FEB
+OL,4,G0605FBlue's Clues & You!
+OL,5,     GJosh and Blue try to identify
+OL,6,     Gsounds of musical instruments and
+OL,7,     Ghelp chicks from the farm with
+OL,8,     Gtheir song show.
+OL,9,G0625FSesame Street Mecha Builders
+OL,10,     GThe magnet crane at the
+OL,11,     Gconstruction site accidentally
+OL,12,     Gturns on, sucking up all the
+OL,13,     Gmetal, including the Mecha
+OL,14,     GBuilders!
+OL,15,G0640FFireman Sam
+OL,16,     GThe residents of Pontypandy
+OL,17,     Ggather in the park for the annual
+OL,18,     Gtown festival.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
