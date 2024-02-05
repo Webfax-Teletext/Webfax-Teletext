@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707110276
+OL,0,        ECIMSBWebfax     F698A1707113884
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707110276
+OL,0,        ECIMSBWebfax     F698A1707113884
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,101 +44,132 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707110276
+OL,0,        ECIMSBWebfax     F698A1707113884
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 4 FEB
-OL,4,G0105FBBC News
+OL,3,CProgramme listings for MON 5 FEB
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FMorning Live
+OL,9,     GJoin Gethin Jones, Helen Skelton,
+OL,10,     GMichelle Ackerley and the team
+OL,11,     Gfor conversation, advice and tips
+OL,12,     Gto make your day that little bit
+OL,13,     Geasier.
+OL,14,G1045FDr Xand's Con or Cure
+OL,15,     GCan robotic pets be a therapy for
+OL,16,     Gdementia?
+OL,17,G1115FHomes Under the Hammer
+OL,18,     GFeaturing properties in
+OL,19,     GBirkenhead, Ramsgate and Hull.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707110276
+OL,0,        ECIMSBWebfax     F698A1707113884
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 4 FEB
+OL,3,CProgramme listings for MON 5 FEB
 OL,4,G0320FThis is BBC Two
+OL,5,G0645FI Escaped to the Country
+OL,6,     GDenise Nurse finds out the
+OL,7,     Goutcome of a retired teacher's
+OL,8,     G2021 property search in North
+OL,9,     GYorkshire.
+OL,10,G0730FDavid & Jay's Touring Toolshed
+OL,11,     GSir David Jason and Jay Blades
+OL,12,     Gjump at the chance to help a
+OL,13,     Gmotorcycle enthusiast with his
+OL,14,     GWorld War II bike, and a model
+OL,15,     Ghelicopter pilot puts the pair to
+OL,16,     Gthe test.
+OL,17,G0800FCelebrity Race Across the World
+OL,18,     GIt's a race to the finish line in
+OL,19,     GTromsl for the four celebrity
+OL,20,     Gteams. Which will get there first
+OL,21,     Gand be crowned champions?
+OL,22,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
+OL,26,@{D@KO|
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707110276
+OL,0,        ECIMSBWebfax     F698A1707113884
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 4 FEB
-OL,4,G0505FKaren Carney's Leaders of the Pack
-OL,5,     GSuperstar Melchie Dumornay is a
-OL,6,     Gfootballer with the world at her
-OL,7,     Gfeet - Karen talks to the Haitian
-OL,8,     Gteen in France, the country that
-OL,9,     Gshe now calls home.
-OL,10,G0535FMade in Britain
-OL,11,     GBirds Eye Peas and Marbles: See
-OL,12,     Ghow frozen peas get from field to
-OL,13,     Gfreezer in a few hours, then
-OL,14,     Glearn about the labour of love
-OL,15,     Gthat goes into creating beautiful
-OL,16,     Ghandmade marbles.
+OL,3,CProgramme listings for MON 5 FEB
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a topical
+OL,9,     Gmix of entertainment, discussion
+OL,10,     Gand showbiz glamour as well as
+OL,11,     Gthe latest fashion, food and
+OL,12,     Gcelebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real life stories,
+OL,17,     Gcompetitions and a mix of
+OL,18,     Gcookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707110276
+OL,0,        ECIMSBWebfax     F698A1707113884
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 4 FEB
-OL,4,G0510FCome Dine with Me
-OL,5,     GGloucestershire. Hair salon
-OL,6,     Gmanager Chris hosts a high-octane
-OL,7,     Gfinal night, and the guests
-OL,8,     Greveal what they really think of
-OL,9,     Geach other.
-OL,10,G0535FSunday Brunch Best Bits
-OL,11,     GGuest chef Big Zuu makes
-OL,12,     Gcheeseburger quesadillas in a
-OL,13,     Ghighlight from Sunday Brunch,
-OL,14,     Gpresented by Tim Lovejoy and
-OL,15,     GSimon Rimmer.
-OL,16,G0550FFood Unwrapped
-OL,17,     GThe team uncork the mystery of
-OL,18,     Gwine and hangovers. Amanda Byram
-OL,19,     Gexplores peas and the plastic
-OL,20,     Gpollution problem. And why
-OL,21,     Gdoesn't shop-bought grated cheese
-OL,22,     Gstick together?
+OL,3,CProgramme listings for MON 5 FEB
+OL,4,G0615FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Tasha Ghouri joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G0655FCheers
+OL,12,     GRebecca Redux: Sam aims to free
+OL,13,     Ghimself from his managerial
+OL,14,     Gduties by rehiring Rebecca, who's
+OL,15,     Gworking at a car show, but
+OL,16,     GCheers' staff and patrons adore
+OL,17,     Gnew bar manager Earl.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707110276
+OL,0,        ECIMSBWebfax     F698A1707113884
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SUN 4 FEB
-OL,4,G0510FHouse Doctor
-OL,5,     GHome-improvement series with Ann
-OL,6,     GMaurice. The owners of a
-OL,7,     Gcolourful property in Milton
-OL,8,     GKeynes need to make a sale so
-OL,9,     Gthey can move to France.
-OL,10,G0530FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the world,
-OL,13,     Gfocusing on celebrities, movies,
-OL,14,     Gmusic and entertainment.
-OL,15,G0540FMilkshake! Monkey Amazing
-OL,16,     FAdventures
-OL,17,     GLive action series featuring an
-OL,18,     Ginquisitive puppet monkey.
-OL,19,     GMilkshake! Monkey meets Richard
-OL,20,     Gto find out how a canal lock help
-OL,21,     Gboats travel up and down hill.
+OL,3,CProgramme listings for MON 5 FEB
+OL,4,G0615FPeppa Pig
+OL,5,     GGrandpa can't find his old metal
+OL,6,     Gdetector to look for the key for
+OL,7,     GGeorge's new toy robot lost in
+OL,8,     Gthe long grass.
+OL,9,G0620FPeppa Pig
+OL,10,     GFor World Book Day, the playgroup
+OL,11,     Gmust dress up as a character from
+OL,12,     Gtheir favourite book. But Peppa
+OL,13,     Gcan't decide which as she has so
+OL,14,     Gmany favourites!
+OL,15,G0630FOggy Oggy
+OL,16,     GMallow has a Sticker Club. Oggy
+OL,17,     GOggy creates havoc when he tries
+OL,18,     Gto make it more fun. But Mallow
+OL,19,     Gbecomes too strict and all his
+OL,20,     Gfriends leave.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
