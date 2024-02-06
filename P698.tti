@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707200565
+OL,0,        ECIMSBWebfax     F698A1707204177
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707200565
+OL,0,        ECIMSBWebfax     F698A1707204177
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,7 +44,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707200565
+OL,0,        ECIMSBWebfax     F698A1707204177
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -71,35 +71,37 @@ FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707200565
+OL,0,        ECIMSBWebfax     F698A1707204177
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 6 FEB
-OL,4,G0315FThis is BBC Two
-OL,5,G0645FI Escaped to the Country
-OL,6,     GWe're escaping to France, where
-OL,7,     GAlistair Appleton relives his
-OL,8,     Genchanting encounter with a
-OL,9,     GYorkshire lass who had her eyes
-OL,10,     Gfirmly set on the horizon... and
-OL,11,     Gbeyond!
-OL,12,G0730FDavid & Jay's Touring Toolshed
-OL,13,     GDavid and Jay help Chris with his
-OL,14,     Ghacky racer car and meet some hot-
-OL,15,     Gair balloonists.
-OL,16,G0800FWinterwatch
-OL,17,     GSay goodbye to those winter blues
-OL,18,     Gas Winterwatch returns to whet
-OL,19,     Gyour wildlife appetite.
-OL,20,G0900FBBC News
+OL,4,G0645FI Escaped to the Country
+OL,5,     GWe're escaping to France, where
+OL,6,     GAlistair Appleton relives his
+OL,7,     Genchanting encounter with a
+OL,8,     GYorkshire lass who had her eyes
+OL,9,     Gfirmly set on the horizon... and
+OL,10,     Gbeyond!
+OL,11,G0730FDavid & Jay's Touring Toolshed
+OL,12,     GDavid and Jay help Chris with his
+OL,13,     Ghacky racer car and meet some hot-
+OL,14,     Gair balloonists.
+OL,15,G0800FWinterwatch
+OL,16,     GSay goodbye to those winter blues
+OL,17,     Gas Winterwatch returns to whet
+OL,18,     Gyour wildlife appetite.
+OL,19,G0900FBBC News
+OL,20,G1215FPolitics Live
+OL,21,     GThe big political issues of the
+OL,22,     Gday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707200565
+OL,0,        ECIMSBWebfax     F698A1707204177
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -124,49 +126,44 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707200565
+OL,0,        ECIMSBWebfax     F698A1707204177
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 6 FEB
-OL,4,G0615FCountdown
-OL,5,     GColin Murray and Rachel Riley
-OL,6,     Ghost as contestants race against
-OL,7,     Gthe clock to pit their wits
-OL,8,     Gagainst vowels, consonants and
-OL,9,     Gnumbers. Jo Brand joins Susie
-OL,10,     GDent in Dictionary Corner.
-OL,11,G0655FCheers
-OL,12,     GMa Always Liked You Best: Cliff
-OL,13,     Gmakes a stand for independence by
-OL,14,     Ginsisting that his visiting
-OL,15,     Gmother stays at Woody's place,
-OL,16,     Gbut he feels left out when they
-OL,17,     Ghit it off.
+OL,4,G0720FCheers
+OL,5,     GGrease: Norm struggles to come to
+OL,6,     Gterms with the news that the
+OL,7,     GHungry Heifer restaurant is to
+OL,8,     Gclose and launches a campaign to
+OL,9,     Gsave it. Rebecca worries about
+OL,10,     GRobin's welfare.
+OL,11,G0745F3rd Rock from the Sun
+OL,12,     GMy Mother the Alien: Dick
+OL,13,     Gdiscovers that he lacks nurturing
+OL,14,     Gskills when he accidentally kills
+OL,15,     GMary Albright's pet fish while
+OL,16,     Gshe is away at a conference.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707200565
+OL,0,        ECIMSBWebfax     F698A1707204177
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 6 FEB
-OL,4,G0620FPeppa Pig
-OL,5,     GGranny and Grandpa Pig decide to
-OL,6,     Ggo and pick their own
-OL,7,     Gstrawberries at Miss Rabbit's
-OL,8,     Gstrawberry farm.
-OL,9,G0630FOggy Oggy
-OL,10,     GOggy Oggy tries in vain to make
-OL,11,     Gfriends laugh with a 'Ba-a-ah'
-OL,12,     Gbleat box, which he finds
-OL,13,     Ghilarious. But he makes it bleat
-OL,14,     Gso loudly, it creates trouble all
-OL,15,     Gover town.
-OL,16,G0635FOdo
-OL,17,     GOdo discovers that he has a
-OL,18,     Gsecret ability-amazing 'owl
-OL,19,     Gvision'. From high atop a tree,
-OL,20,     GOdo can see faraway things.
+OL,4,G0720FPAW Patrol
+OL,5,     G...Golden Lion Mask. When the
+OL,6,     GRuff-Ruff Pack swipes a priceless
+OL,7,     Ggolden lion mask from the museum,
+OL,8,     GShade and Wild must help the Paw
+OL,9,     GPatrol to retrieve the stolen
+OL,10,     Gartefact.
+OL,11,G0735FPip and Posy
+OL,12,     GThe friends are forming a band
+OL,13,     Gand Posy gives out roles to
+OL,14,     Geveryone except Mo, who feels
+OL,15,     Gleft out. She must figure out how
+OL,16,     Gto properly include him.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
