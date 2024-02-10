@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707543805
+OL,0,        ECIMSBWebfax     F698A1707547414
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707543805
+OL,0,        ECIMSBWebfax     F698A1707547414
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,75 +44,132 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707543805
+OL,0,        ECIMSBWebfax     F698A1707547414
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 9 FEB
-OL,4,G0105FBBC News
+OL,3,CProgramme listings for SAT 10 FEB
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GMatt Tebbutt is joined by chefs
+OL,10,     GBig Zuu and Bryn Williams, plus
+OL,11,     Gspecial guest Oti Mabuse. Drinks
+OL,12,     Gexpert Helen McGinn picks the
+OL,13,     Gwines to go with the studio
+OL,14,     Gdishes.
+OL,15,G1130FThe Great Food Guys
+OL,16,     GNick Nairn and Dougie Vipond
+OL,17,     Gfocus on meat and cook a rack of
+OL,18,     GScotch lamb with roast aubergine.
+OL,19,     GThey are joined by sheep farmer
+OL,20,     GMichelle Stephen and comedian Jim
+OL,21,     GSmith.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707543805
+OL,0,        ECIMSBWebfax     F698A1707547414
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 9 FEB
-OL,4,G0250FThis is BBC Two
+OL,3,CProgramme listings for SAT 10 FEB
+OL,4,G0640FGrizzy and the Lemmings
+OL,5,     GThermal Shock! Seeking a source
+OL,6,     Gof heat, Grizzy moves into a
+OL,7,     Ggreenhouse - but the Lemmings are
+OL,8,     Gcoming too!
+OL,9,G0645FDennis & Gnasher Unleashed!
+OL,10,     GDozing Dennis. Dennis was up most
+OL,11,     Gof the night and can barely stay
+OL,12,     Gawake. Gnasher and the gang work
+OL,13,     Ghard to help steer dozing Dennis
+OL,14,     Gthrough the day.
+OL,15,G0700FDanger Mouse
+OL,16,     GBig Head Awakens. Animated
+OL,17,     Gseries. DM must save his
+OL,18,     Greputation and the world when
+OL,19,     GSquawkencluck's artificially
+OL,20,     Gintelligent defence supercomputer
+OL,21,     Ggoes insane.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707543805
+OL,0,        ECIMSBWebfax     F698A1707547414
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 9 FEB
-OL,4,G0505FAinsley's Taste of Malta
-OL,5,     GGozo: Ainsley Harriott heads to
-OL,6,     Gthe idyllic island of Gozo to
-OL,7,     Gfinish his journey with a
-OL,8,     Gpicturesque picnic, a lesson in
-OL,9,     Ghow Maltese cheese is made, and
-OL,10,     Gan attempt at lace making.
+OL,3,CProgramme listings for SAT 10 FEB
+OL,4,G0630FLove Your Garden
+OL,5,     GDudley: Alan and the team
+OL,6,     Gtransforms a deserving young
+OL,7,     Gfamily's inaccessible and 'boring
+OL,8,     Gwith a capital B' patch of lawn
+OL,9,     Gin the Midlands into a
+OL,10,     GMediterranean-style garden.
+OL,11,G0730FLove Your Weekend with Alan
+OL,12,     FTitchmarsh
+OL,13,     GJoining Alan at Manor Farm this
+OL,14,     Gtime are Angela Rippon, Amol
+OL,15,     GRajan, horticulturalist Camilla
+OL,16,     GBassett-Smith and a Best of
+OL,17,     GBritish celebration of the ski
+OL,18,     Gslopes.
+OL,19,G0925FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707543805
+OL,0,        ECIMSBWebfax     F698A1707547414
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 9 FEB
-OL,4,G0505FKirstie and Phil's Love It or
-OL,5,     FList It
-OL,6,     GBrilliant Builds: Kirstie and
-OL,7,     GPhil look back on two land-
-OL,8,     Ggrabbing renovations that balance
-OL,9,     Ghome and garden; a detached in
-OL,10,     GBury St Edmunds and a three-bed
-OL,11,     Gin Harrogate.
+OL,3,CProgramme listings for SAT 10 FEB
+OL,4,G0625FCheers
+OL,5,     GThe Days of Wine and Neuroses:
+OL,6,     GRobin proposes to Rebecca and
+OL,7,     Gwants to marry her on his release
+OL,8,     Gfrom jail, but she gets cold
+OL,9,     Gfeet. Frasier is hooked on the
+OL,10,     Gnew karaoke machine.
+OL,11,G0655FThe King of Queens
+OL,12,     GHartford Wailer: Doug crashes
+OL,13,     GCarrie's work weekend away, but
+OL,14,     Gshe's not there. Danny and Spence
+OL,15,     Gblag their way into a Huey Lewis
+OL,16,     Gconcert .
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1707543805
+OL,0,        ECIMSBWebfax     F698A1707547414
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 9 FEB
-OL,4,G0540FMilkshake! Monkey Amazing
-OL,5,     FAdventures
-OL,6,     GA cheeky monkey travels across
-OL,7,     Gthe country, getting into hijinks
-OL,8,     Gwith his friends.
-OL,9,G0545FPAW Patrol
-OL,10,     GThe pier could fall into the
-OL,11,     Gwater due to a broken support
-OL,12,     Gpost...
+OL,3,CProgramme listings for SAT 10 FEB
+OL,4,G0640FFireman Sam
+OL,5,     GMandy At Sea: Animation. Mandy's
+OL,6,     Gbid to be a round-the-world
+OL,7,     Gsailor comes adrift on her maiden
+OL,8,     Gvoyage when her mast breaks.
+OL,9,G0650FThomas & Friends: Big World!..
+OL,10,     G...Big Adventures! Thomas is in
+OL,11,     GChina where he is given the job
+OL,12,     Gof taking the dragon to the New
+OL,13,     GYear party. But Thomas is worried
+OL,14,     Gas he has never met a dragon
+OL,15,     Gbefore!
+OL,16,G0700FChip and Potato
+OL,17,     GChip volunteers to take the class
+OL,18,     Gattendance to the school office,
+OL,19,     Gbut the school is a pretty big
+OL,20,     Gplace for a little pug to
+OL,21,     Gnavigate all on her own!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
