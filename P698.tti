@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708114848
+OL,0,        ECIMSBWebfax     F698A1708118461
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708114848
+OL,0,        ECIMSBWebfax     F698A1708118461
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,34 +44,34 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708114848
+OL,0,        ECIMSBWebfax     F698A1708118461
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 16 FEB
-OL,4,G2000FHere We Go
-OL,5,     GIt's Valentine's Day, and the
-OL,6,     GJessops attempt to expose Paul's
-OL,7,     Gsecret admirer.
-OL,8,G2030FAmanda & Alan's Italian Job
-OL,9,     GThe DIY duo face their biggest
-OL,10,     Gtask yet, taking on a medieval
-OL,11,     Gtower room and the cellar.
-OL,12,G2100FWould I Lie to You?
-OL,13,     GBabatunde Aleshe, Mike Bubbins,
-OL,14,     GJessica Knappett and Claudia
-OL,15,     GWinkleman join host Rob Brydon
-OL,16,     Gand team captains Lee Mack and
-OL,17,     GDavid Mitchell to sort out the
-OL,18,     Gfact from the fiction.
+OL,4,G2100FWould I Lie to You?
+OL,5,     GBabatunde Aleshe, Mike Bubbins,
+OL,6,     GJessica Knappett and Claudia
+OL,7,     GWinkleman join host Rob Brydon
+OL,8,     Gand team captains Lee Mack and
+OL,9,     GDavid Mitchell to sort out the
+OL,10,     Gfact from the fiction.
+OL,11,G2130FNot Going Out
+OL,12,     GLee lands his hands on three free
+OL,13,     Gtickets to Adventure Canyon Theme
+OL,14,     GPark. Now all he has to do is
+OL,15,     Gthink of an excuse to justify
+OL,16,     GMollie's absence from school.
+OL,17,G2200FBBC News and Weather
+OL,18,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
-OL,26,@uD@RrruD@Urr
+OL,26,@mD@RrrmD@Urr
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708114848
+OL,0,        ECIMSBWebfax     F698A1708118461
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -97,70 +97,71 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708114848
+OL,0,        ECIMSBWebfax     F698A1708118461
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 16 FEB
-OL,4,G2000FCoronation Street
-OL,5,     GMaria and Gary make a horrifying
-OL,6,     Gdiscovery about Liam's state of
-OL,7,     Gmind, Lauren reveals a secret
-OL,8,     Gsource of income, and David urges
-OL,9,     GNick to voice his doubts to
-OL,10,     GLeanne.
-OL,11,G2100FBeat The Chasers - Celebrity
-OL,12,     FSpecial
-OL,13,     GBradley Walsh hosts as Omid
-OL,14,     GDjalili, Richard Whitehead, Jenny
-OL,15,     GEclair and Clive Mantle try to
-OL,16,     Gwin big money for their chosen
-OL,17,     Gcharities... but can anyone beat
-OL,18,     Gthe Chasers?
+OL,4,G2100FBeat The Chasers - Celebrity
+OL,5,     FSpecial
+OL,6,     GBradley Walsh hosts as Omid
+OL,7,     GDjalili, Richard Whitehead, Jenny
+OL,8,     GEclair and Clive Mantle try to
+OL,9,     Gwin big money for their chosen
+OL,10,     Gcharities... but can anyone beat
+OL,11,     Gthe Chasers?
+OL,12,G2200FITV News at Ten
+OL,13,     GITV News provides a fresh
+OL,14,     Gperspective on the major stories
+OL,15,     Gof the day with national and
+OL,16,     Ginternational news with reports
+OL,17,     Gand analysis from ITV's
+OL,18,     GCorrespondents.
+OL,19,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708114848
+OL,0,        ECIMSBWebfax     F698A1708118461
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 16 FEB
-OL,4,G2000FExtraordinary Extensions
-OL,5,     GTinie Tempah meets a couple
-OL,6,     Gadding a glass box mega-extension
-OL,7,     Gto their classic country pile in
-OL,8,     GManchester and a couple hoping to
-OL,9,     Gmake their big design dreams come
-OL,10,     Gtrue in London.
-OL,11,G2100FGogglebox
-OL,12,     GThe Goggleboxers kick off a new
-OL,13,     Gseries by watching Saltburn,
-OL,14,     GGladiators, First Dates: Be My
-OL,15,     GValentine, Trigger Point, This
-OL,16,     GMorning, The Repair Shop, Bring
-OL,17,     Gthe Drama, and BBC News.
+OL,4,G2100FGogglebox
+OL,5,     GThe Goggleboxers kick off a new
+OL,6,     Gseries by watching Saltburn,
+OL,7,     GGladiators, First Dates: Be My
+OL,8,     GValentine, Trigger Point, This
+OL,9,     GMorning, The Repair Shop, Bring
+OL,10,     Gthe Drama, and BBC News.
+OL,11,G2200FLive: The Last Leg
+OL,12,     GAdam Hills, Josh Widdicombe, Alex
+OL,13,     GBrooker and their guests Rosie
+OL,14,     GJones and Richard Ayoade share
+OL,15,     Gtheir unique insight into the
+OL,16,     Gweek's biggest and most
+OL,17,     Gentertaining news stories.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708114848
+OL,0,        ECIMSBWebfax     F698A1708118461
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 16 FEB
-OL,4,G2000FCruising with Susan Calman
-OL,5,     GReaching the ends of the Earth,
-OL,6,     GSusan kayaks with Orcas, sees a
-OL,7,     Gdifferent view from a
-OL,8,     Gsubmersible, and has the chance
-OL,9,     Gto jump off the back of the ship
-OL,10,     Ginto the freezing waters...
-OL,11,G2100FSue Perkins: Lost in Alaska
-OL,12,     GSue takes the gold trail route
-OL,13,     Ginto the Alaskan interior, goes
-OL,14,     Gdog mushing, and takes an intense
-OL,15,     G"bug out" boat ride deep into the
-OL,16,     Gwilderness to find out how people
-OL,17,     Gsurvive there.
+OL,4,G2100FSue Perkins: Lost in Alaska
+OL,5,     GSue takes the gold trail route
+OL,6,     Ginto the Alaskan interior, goes
+OL,7,     Gdog mushing, and takes an intense
+OL,8,     G"bug out" boat ride deep into the
+OL,9,     Gwilderness to find out how people
+OL,10,     Gsurvive there.
+OL,11,G2200FWhen TV Goes Horribly Wrong
+OL,12,     GKate Garraway narrates notable TV
+OL,13,     Gmoments, including John Torode
+OL,14,     Gversus a chopper, The Stone Roses
+OL,15,     Gin a power cut, Will Self in a
+OL,16,     Gstare-off, and the inimitable
+OL,17,     GWilliam Shatner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
