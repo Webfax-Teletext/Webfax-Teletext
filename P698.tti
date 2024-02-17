@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708147363
+OL,0,        ECIMSBWebfax     F698A1708150980
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708147363
+OL,0,        ECIMSBWebfax     F698A1708150980
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,88 +44,127 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708147363
+OL,0,        ECIMSBWebfax     F698A1708150980
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 16 FEB
-OL,4,G0210FBBC News
+OL,3,CProgramme listings for SAT 17 FEB
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GMatt Tebbutt is joined by chefs
+OL,10,     GOllie Dabbous and Mandy Yin, and
+OL,11,     Gthe special guests are Martin
+OL,12,     GCompston and Phil MacHugh. Helen
+OL,13,     GMcGinn picks the wines to go with
+OL,14,     Gthe studio dishes.
+OL,15,G1130FThe Great Food Guys
+OL,16,     GNick Nairn and Dougie Vipond
+OL,17,     Gfocus on seafood and cook
+OL,18,     Gmonkfish with mussels. They are
+OL,19,     Gjoined by Fenella and Kirsty from
+OL,20,     Gthe Seafood Shack in Ullapool,
+OL,21,     Gand athlete JJ Chalmers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708147363
+OL,0,        ECIMSBWebfax     F698A1708150980
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 16 FEB
-OL,4,G0330FThis is BBC Two
+OL,3,CProgramme listings for SAT 17 FEB
+OL,4,G0620FHey Duggee
+OL,5,     GThe Pen Pal Badge. Duggee
+OL,6,     Garranges for the Squirrels to
+OL,7,     Gwrite to some pen pals.
+OL,8,G0625FGo Jetters
+OL,9,     GThe Pyramids of Giza, Egypt. Meet
+OL,10,     Gthe Go Jetters, four explorers on
+OL,11,     Ga global adventure! Glitch
+OL,12,     Gcreates big trouble with a little
+OL,13,     Gpyramid when the Go Jetters visit
+OL,14,     GEgypt.
+OL,15,G0640FGrizzy and the Lemmings
+OL,16,     GPrimitive Activities. The
+OL,17,     GLemmings dream up a scheme where
+OL,18,     GGrizzy would submit to their will.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708147363
+OL,0,        ECIMSBWebfax     F698A1708150980
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 16 FEB
-OL,4,G0505FJimmy's Taste of Florida
-OL,5,     GCentral Orlando / Miami: Jimmy
-OL,6,     Gvisits the Universal Studios
-OL,7,     GResort for a culinary tour,
-OL,8,     Gexplores a community growing
-OL,9,     Gproject, and heads down to Miami
-OL,10,     Gfor a taste of Little Havana.
+OL,3,CProgramme listings for SAT 17 FEB
+OL,4,G0600FLove Your Garden
+OL,5,     GMarcellus Baz: Alan and the team
+OL,6,     Gsurprise boxing coach Marcellus
+OL,7,     GBaz as they turn a dingy alley
+OL,8,     Ginto a beautiful kitchen garden
+OL,9,     Gand give him a Moroccan-inspired
+OL,10,     Ggarden at home.
+OL,11,G0630FLove Your Garden
+OL,12,     GA Touch of Stately in Somerset:
+OL,13,     GAlan Titchmarsh and team show you
+OL,14,     Ghow to take inspiration from the
+OL,15,     Ggrand gardens of the nation's
+OL,16,     Ggrand stately homes to create a
+OL,17,     Gbeautiful design.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708147363
+OL,0,        ECIMSBWebfax     F698A1708150980
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 16 FEB
-OL,4,G0520FKirstie's House of Craft
-OL,5,     GKirstie Allsopp puts celebs to
-OL,6,     Gthe test in tricky crafting
-OL,7,     Gchallenges. Comedians Rufus Hound
-OL,8,     Gand Jenny Eclair compete to make
-OL,9,     Gkimono-style garments in just 30
-OL,10,     Gminutes.
-OL,11,G0530FUndercover Boss USA
-OL,12,     GGround-breaking model, author and
-OL,13,     Gbody activist Ashley Graham dons
-OL,14,     Ga disguise to go undercover and
-OL,15,     Gmeet people who hope to break
-OL,16,     Ginto the fashion world.
+OL,3,CProgramme listings for SAT 17 FEB
+OL,4,G0620FCheers
+OL,5,     GThe Norm Who Came in from the
+OL,6,     GCold: Norm hurts his back while
+OL,7,     Gpainting Frasier and Lilith's
+OL,8,     Gapartment so Frasier lets him
+OL,9,     Gsleep on the sofa. Rebecca tests
+OL,10,     Gher mothering skills.
+OL,11,G0645FCheers
+OL,12,     GMa's Little Maggie: Cliff fears
+OL,13,     Gthe first meeting between his
+OL,14,     Gmother and his girlfriend
+OL,15,     GMargaret, but the two women get
+OL,16,     Galong famously. Rebecca aims to
+OL,17,     Gimprove Sam's fertility.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708147363
+OL,0,        ECIMSBWebfax     F698A1708150980
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 16 FEB
-OL,4,G0505FWildlife SOS
-OL,5,     GDocumentary series about the work
-OL,6,     Gof dedicated animal lovers who
-OL,7,     Gsave injured and orphaned wild
-OL,8,     Ganimals brought into their
-OL,9,     Gsanctuary.
-OL,10,G0530FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the world,
-OL,13,     Gfocusing on celebrities, movies,
-OL,14,     Gmusic and entertainment.
-OL,15,G0535FFireman Sam
-OL,16,     GSarah and James's new pet guinea
-OL,17,     Gpig escapes and chews through
-OL,18,     Gsome electrical cables at the
-OL,19,     GWholefish Cafe, starting a fire.
+OL,3,CProgramme listings for SAT 17 FEB
+OL,4,G0605FBlue's Clues & You!
+OL,5,     GWe learn about science today as
+OL,6,     Gwe play Blue's Clues to figure
+OL,7,     Gout what experiment Blue wants to
+OL,8,     Gtry. While we search for clues,
+OL,9,     Gwe look at the world and more.
+OL,10,G0625FSesame Street Mecha Builders
+OL,11,     GPretty Big City is cooling off
+OL,12,     Gwith an ice slide in the park,
+OL,13,     Gbut the situation gets slippery
+OL,14,     Gwhen the slide starts melting.
+OL,15,G0640FFireman Sam
+OL,16,     GSam rescues a cat from a drain
+OL,17,     Gand Hannah, Mandy and Norman look
+OL,18,     Gafter it. But Norman lets it out
+OL,19,     Gof the basket - with cat-
+OL,20,     Gastrophic consequences!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,26,@{D@Srr
