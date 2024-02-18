@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708234091
+OL,0,        ECIMSBWebfax     F698A1708237708
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708234091
+OL,0,        ECIMSBWebfax     F698A1708237708
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,89 +44,136 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708234091
+OL,0,        ECIMSBWebfax     F698A1708237708
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 17 FEB
-OL,4,G0135FBBC News
+OL,3,CProgramme listings for SUN 18 FEB
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0730FMatch of the Day
+OL,9,     GGary Lineker presents highlights
+OL,10,     Gof the day's Premier League
+OL,11,     Gmatches, including Manchester
+OL,12,     GCity v Chelsea, Brentford v
+OL,13,     GLiverpool, Burnley v Arsenal and
+OL,14,     GFulham v Aston Villa.
+OL,15,G0900FSunday with Laura Kuenssberg
+OL,16,     GLaura Kuenssberg is joined by
+OL,17,     Gillegal immigration minister
+OL,18,     GMichael Tomlinson MP and Robin
+OL,19,     GSimcox, the commissioner for
+OL,20,     Gcountering extremism.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708234091
+OL,0,        ECIMSBWebfax     F698A1708237708
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 17 FEB
+OL,3,CProgramme listings for SUN 18 FEB
 OL,4,G0400FThis is BBC Two
+OL,5,G0635FCountryfile
+OL,6,     GMatt Baker and Charlotte Smith
+OL,7,     Gvisit Ashdown Forest in East
+OL,8,     GSussex, the inspiration for
+OL,9,     GWinnie-the-Pooh's magical home,
+OL,10,     G100 Aker Wood, to learn more
+OL,11,     Gabout this ancient woodland.
+OL,12,G0730FBreakfast
+OL,13,     GThe latest news, sport, business
+OL,14,     Gand weather from the BBC's
+OL,15,     GBreakfast team.
+OL,16,G0900FLife in a Cottage Garden with
+OL,17,     FCarol Klein
+OL,18,     GSeries following a year in Carol
+OL,19,     GKlein's garden at Glebe Cottage.
+OL,20,     GIn May and June, Carol is
+OL,21,     Gplanting out sweet peas and
+OL,22,     Gstaking perennials.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708234091
+OL,0,        ECIMSBWebfax     F698A1708237708
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 17 FEB
-OL,4,G0505FJason Atherton's Dubai Dishes
-OL,5,     GDubai Innovations: Jason cooks up
-OL,6,     Gsome classic British and French
-OL,7,     Gdishes from his first time in
-OL,8,     GDubai over 20 years ago while
-OL,9,     Gcelebrating his dear friend and
-OL,10,     Ginnovator Gary Rhodes.
+OL,3,CProgramme listings for SUN 18 FEB
+OL,4,G0600FJames Martin's American Adventure
+OL,5,     GNew York: James ends his epic
+OL,6,     Gcoast-to-coast exploration of the
+OL,7,     Ggreat US of A with a visit to New
+OL,8,     GYork City that includes a bite of
+OL,9,     Gpizza at a popular pizzeria in
+OL,10,     GGreenwich Village.
+OL,11,G0630FJames Martin's Spanish Adventure
+OL,12,     GMadrid: James tries a calamari
+OL,13,     Gsandwich in Madrid, samples
+OL,14,     Ggarlic prawns, tastes churros,
+OL,15,     Gmeets a blind food critic and
+OL,16,     Gtastes vermouth.
+OL,17,G0730FJames Martin's Saturday Morning
+OL,18,     GJames is back in the kitchen and
+OL,19,     Gis joined by singer Tony Hadley,
+OL,20,     Gchefs Judy Joo and Ryan and Liam
+OL,21,     GSimpson-Trotman, and forager
+OL,22,     GAlysia Vasey with some free food.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708234091
+OL,0,        ECIMSBWebfax     F698A1708237708
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 17 FEB
-OL,4,G0335FHollyoaks Omnibus
-OL,5,     GSte's guilt takes him down a dark
-OL,6,     Gpath. Leela is forced to fess up.
-OL,7,     GTwo former lovers are called out,
-OL,8,     Gleaving their rekindled
-OL,9,     Grelationship in jeopardy. And
-OL,10,     GNancy confronts Carter.
-OL,11,G0535FSunday Brunch Best Bits
-OL,12,     GTim Lovejoy and Simon Rimmer
-OL,13,     Gpresent highlights from Sunday
-OL,14,     GBrunch, featuring actor and
-OL,15,     Gcomedian Jack McBrayer.
-OL,16,G0545FSupermarkets Unwrapped: Fruit &
-OL,17,     FVeg Aisle
-OL,18,     GThe team get the inside info on
-OL,19,     Gsummer veggies in winter,
-OL,20,     Gtemperamental bananas, and how to
-OL,21,     Gwaste less produce.
+OL,3,CProgramme listings for SUN 18 FEB
+OL,4,G0615FCheers
+OL,5,     GBar Wars V: The Final Judgement:
+OL,6,     GThe gang face Gary's Old Town
+OL,7,     GTavern in their traditional
+OL,8,     GHalloween prank war, but the
+OL,9,     Gevent is called off due to Gary's
+OL,10,     Ghigh blood pressure.
+OL,11,G0645FCheers
+OL,12,     GWhere Have All the Floorboards
+OL,13,     GGone?: The gang are racked with
+OL,14,     Gguilt when their sporting hero
+OL,15,     Gloses his form after developing
+OL,16,     Gan obsession with Norm and
+OL,17,     GCliff's bar trivia.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708234091
+OL,0,        ECIMSBWebfax     F698A1708237708
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 17 FEB
-OL,4,G0515FWildlife SOS
-OL,5,     GDocumentary series about the work
-OL,6,     Gof dedicated animal lovers who
-OL,7,     Gsave injured and orphaned wild
-OL,8,     Ganimals brought into their
-OL,9,     Gsanctuary.
-OL,10,G0540FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the world,
-OL,13,     Gfocusing on celebrities, movies,
-OL,14,     Gmusic and entertainment.
-OL,15,G0545FPAW Patrol
-OL,16,     GMayor Goodway turns into a frog!
+OL,3,CProgramme listings for SUN 18 FEB
+OL,4,G0625FSesame Street Mecha Builders
+OL,5,     GFarmer MacBarm hosts the Sunny
+OL,6,     GField Farm Chicken Roll, but the
+OL,7,     Grace gets off to a slow start
+OL,8,     Gwhen the chickens don't roll.
+OL,9,G0640FFireman Sam
+OL,10,     GWhen Norman sets out to get a big
+OL,11,     Gscoop for the Pontypandy Planet,
+OL,12,     Ghe ends up out of control on
+OL,13,     GJoe's new rocket-powered pogo
+OL,14,     Gstick.
+OL,15,G0650FThomas & Friends: Big World!...
+OL,16,     GBig Adventures! Thomas dresses up
+OL,17,     Gas a monkey and the other engines
+OL,18,     Glaugh at him. But Rebecca helps
+OL,19,     Ghim feel more confident and soon
+OL,20,     GThomas is back to doing what he
+OL,21,     Gloves.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
