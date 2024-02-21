@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708500363
+OL,0,        ECIMSBWebfax     F698A1708503979
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708500363
+OL,0,        ECIMSBWebfax     F698A1708503979
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,7 +44,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708500363
+OL,0,        ECIMSBWebfax     F698A1708503979
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -74,36 +74,33 @@ FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708500363
+OL,0,        ECIMSBWebfax     F698A1708503979
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 21 FEB
-OL,4,G0715FClean It, Fix It
-OL,5,     GThe team help a mum reinvent her
-OL,6,     Gflat. In just 24 hours, with a
-OL,7,     Glimited budget, they transform an
-OL,8,     Gold bedroom into a relaxation
-OL,9,     Garea.
-OL,10,G0800FAmanda & Alan's Italian Job
-OL,11,     GAmanda and Alan take on their
-OL,12,     Gfirst project, designing a Tuscan
-OL,13,     Gliving room.
-OL,14,G0830FRobson Green's Weekend Escapes
-OL,15,     GRobson and fellow Grantchester
-OL,16,     Gstar Tessa Peake-Jones take in
-OL,17,     Gthe landscape of the North York
-OL,18,     GMoors and find themselves
-OL,19,     Gexploring the benefits of outdoor
-OL,20,     Gyoga with goats.
-OL,21,G0900FBBC News
+OL,4,G0800FAmanda & Alan's Italian Job
+OL,5,     GAmanda and Alan take on their
+OL,6,     Gfirst project, designing a Tuscan
+OL,7,     Gliving room.
+OL,8,G0830FRobson Green's Weekend Escapes
+OL,9,     GRobson and fellow Grantchester
+OL,10,     Gstar Tessa Peake-Jones take in
+OL,11,     Gthe landscape of the North York
+OL,12,     GMoors and find themselves
+OL,13,     Gexploring the benefits of outdoor
+OL,14,     Gyoga with goats.
+OL,15,G0900FBBC News
+OL,16,G1115FPolitics Live
+OL,17,     GThe big political issues of the
+OL,18,     Gday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708500363
+OL,0,        ECIMSBWebfax     F698A1708503979
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -126,48 +123,54 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708500363
+OL,0,        ECIMSBWebfax     F698A1708503979
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 21 FEB
-OL,4,G0715FCheers
-OL,5,     GMy Son, the Father: Carla makes
-OL,6,     Gthe most of her son's decision to
-OL,7,     Gbecome a priest. Sam aims to get
-OL,8,     Geven with John Hill after
-OL,9,     Gbreaking a tooth on his
-OL,10,     Grestaurant's crab salad.
-OL,11,G0740F3rd Rock from the Sun
-OL,12,     GScaredy Dick: Dick runs away from
-OL,13,     Gthe doctor's surgery as he's
-OL,14,     Gterrified of having a routine
-OL,15,     Gphysical. On Halloween night,
-OL,16,     Gfrightening noises in the flat
-OL,17,     Gscare Dick and Harry.
+OL,4,G0805F3rd Rock from the Sun
+OL,5,     GMoby Dick: Having put on weight
+OL,6,     Gfrom comfort eating after his
+OL,7,     Gfallout with Mary, Dick struggles
+OL,8,     Gwith a new diet and exercise
+OL,9,     Gregime. Tommy asks Harry to do
+OL,10,     Gsome detective work.
+OL,11,G0830FEverybody Loves Raymond
+OL,12,     GThe Lone Barone: Ray's advice
+OL,13,     Gcomes back to haunt him when he
+OL,14,     Gis blamed for the break-up of
+OL,15,     GRobert's relationship with Amy.
+OL,16,G0900FEverybody Loves Raymond
+OL,17,     GNo Fat: Frank's not happy when
+OL,18,     GMarie decides that they should
+OL,19,     Gboth go on a strict diet just
+OL,20,     Gbefore the Thanksgiving holiday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708500363
+OL,0,        ECIMSBWebfax     F698A1708503979
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 21 FEB
-OL,4,G0720FPAW Patrol
-OL,5,     GJulius loses his tooth and has a
-OL,6,     Gdream that the Paw Patrol saves a
-OL,7,     Gbumbling Tooth Fairy.
-OL,8,G0735FPip and Posy
-OL,9,     GPlaying 'Capture the Piggy', Pip
-OL,10,     Gand Zac can't agree on a plan to
-OL,11,     Gevade 'evil queen' Posy and
-OL,12,     Gcapture Piggy. So they have to
-OL,13,     Glearn how to work together.
-OL,14,G0750FThe Adventures of Paddington
-OL,15,     GPaddington wants to thank Mrs
-OL,16,     GBird for everything she does for
-OL,17,     Ghim, so he decides he wants to
-OL,18,     Gmake a special marmalade sponge
-OL,19,     Gcake.
+OL,4,G0820FPaw Patrol
+OL,5,     GThe Paw Patrol helps a Mystery
+OL,6,     GKnight, the Princess in disguise,
+OL,7,     Gto win a tournament when Claw and
+OL,8,     GSparks show up and sabotage the
+OL,9,     Gevent.
+OL,10,G0830FPop Paper City
+OL,11,     GThe friends board the Zip
+OL,12,     GExpress, a train that takes them
+OL,13,     Gacross Pop Paper City! But when
+OL,14,     Gthe friends face an unexpected
+OL,15,     Gchallenge, will the train reach
+OL,16,     Gtheir destination on time?
+OL,17,G0845FAnimal Care Club
+OL,18,     GThe cadets meet a lovely ferret
+OL,19,     Gcalled Betty who's in for an
+OL,20,     Goperation and care for a dog
+OL,21,     Gcalled Luna who has a sore ear
+OL,22,     Gand needs drops to make it better.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
