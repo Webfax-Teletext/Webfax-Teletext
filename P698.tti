@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708839895
+OL,0,        ECIMSBWebfax     F698A1708843509
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708839895
+OL,0,        ECIMSBWebfax     F698A1708843509
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,78 +44,133 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708839895
+OL,0,        ECIMSBWebfax     F698A1708843509
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 24 FEB
-OL,4,G0130FBBC News
+OL,3,CProgramme listings for SUN 25 FEB
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0735FMatch of the Day
+OL,9,     GGary Lineker introduces the
+OL,10,     Ggoals, drama and reaction from
+OL,11,     Gthe day's six Premier League
+OL,12,     Gfixtures, all of which have an
+OL,13,     Gimpact on the top or bottom of
+OL,14,     Gthe table.
+OL,15,G0900FSunday with Laura Kuenssberg
+OL,16,     GWith Oliver Dowden MP, Lisa Nandy
+OL,17,     GMP, Sir Ed Davey MP and Kaja
+OL,18,     GKallas.
+OL,19,G1000FRegional Political Programmes
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708839895
+OL,0,        ECIMSBWebfax     F698A1708843509
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 24 FEB
-OL,4,G0235FThis is BBC Two
+OL,3,CProgramme listings for SUN 25 FEB
+OL,4,G0640FCountryfile
+OL,5,     GJoe Crowley and Anita Rani are at
+OL,6,     Gthe Colesbourne estate in the
+OL,7,     GCotswolds, where its gardens at
+OL,8,     Gthis time of year are home to
+OL,9,     Gmillions of one hardy flower -
+OL,10,     Gthe snowdrop.
+OL,11,G0735FBreakfast
+OL,12,     GThe latest news, sport, business
+OL,13,     Gand weather from the BBC's
+OL,14,     GBreakfast team.
+OL,15,G0900FWild About Your Garden
+OL,16,     GUrban spaces receive makeovers.
+OL,17,     GThe team are in Milton Keynes to
+OL,18,     Ghelp a family whose father's
+OL,19,     Gmeddling has managed to cause
+OL,20,     Gnigh-on irreparable damage.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708839895
+OL,0,        ECIMSBWebfax     F698A1708843509
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 24 FEB
-OL,4,G0535FKaren Carney's Leaders of the Pack
-OL,5,     GLaura Coombs: Karen travels to
-OL,6,     GLondon Zoo to catch up with
-OL,7,     GManchester City's Laura Coombs -
-OL,8,     Gone of England's Lionesses -
-OL,9,     Gahead of the 2023 FIFA Women's
-OL,10,     GWorld Cup.
+OL,3,CProgramme listings for SUN 25 FEB
+OL,4,G0630FJames Martin's Spanish Adventure
+OL,5,     GCastilla-La Mancha: James is
+OL,6,     Gintroduced to carcamusa in
+OL,7,     GCastilla-La Mancha, tries local
+OL,8,     Gmarzipan, meets an organic honey
+OL,9,     Gproducer and sees how manchego is
+OL,10,     Gmade.
+OL,11,G0730FJames Martin's Saturday Morning
+OL,12,     GJames is back in the kitchen and
+OL,13,     Gis joined by Lorraine Kelly,
+OL,14,     Gformer Wet Wet Wet star Marti
+OL,15,     GPellow, and chefs Dipna Anand and
+OL,16,     GAndres Alemany for some delicious
+OL,17,     Gdishes.
+OL,18,G0925FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708839895
+OL,0,        ECIMSBWebfax     F698A1708843509
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 24 FEB
-OL,4,G0420FHollyoaks Omnibus
-OL,5,     GRomeo gets caught in the middle
-OL,6,     Gof his dad's mess. Yazz has a
-OL,7,     Gchoice to make, and gives Peri
-OL,8,     Gsome advice. Ethan dishes out
-OL,9,     Gsome harsh home truths to Dilly.
-OL,10,     GAnd will a fugitive be found out?
+OL,3,CProgramme listings for SUN 25 FEB
+OL,4,G0645FCheers
+OL,5,     GHeeeeeere's Cliffy!: Norm tricks
+OL,6,     GCliff into believing that one of
+OL,7,     Ghis jokes is going to be used on
+OL,8,     GThe Tonight Show with Johnny
+OL,9,     GCarson. Sam and Woody install a
+OL,10,     Gsatellite dish.
+OL,11,G0715FCheers
+OL,12,     GAn Old-Fashioned Wedding Part 1:
+OL,13,     GKelly and Woody fight the desire
+OL,14,     Gto consummate their marriage
+OL,15,     Gbefore the ceremony. Carla
+OL,16,     Gpredicts that the big day will be
+OL,17,     Gmarred by disaster.
+OL,18,G0740FEverybody Loves Raymond
+OL,19,     GThe Getaway: Ray and Debra go
+OL,20,     Gaway for a romantic weekend but
+OL,21,     Gworry that they're boring. Back
+OL,22,     Ghome, Robert babysits the kids.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1708839895
+OL,0,        ECIMSBWebfax     F698A1708843509
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 24 FEB
-OL,4,G0540FFireman Sam
-OL,5,     GOn a wilderness excursion with
-OL,6,     Gthe Pontypandy Pioneers, rivalry
-OL,7,     Gover who has the best survival
-OL,8,     Gskills lands Tom and Moose in
-OL,9,     Gtrouble.
-OL,10,G0550FMixmups
-OL,11,     GThe Mixmups build a nature box
-OL,12,     Gand then try to find someone to
-OL,13,     Glive in their home. But when
-OL,14,     Gtheir new friend doesn't want to
-OL,15,     Glive in the box, can they find
-OL,16,     Ganother way to make it happy?
+OL,3,CProgramme listings for SUN 25 FEB
+OL,4,G0640FFireman Sam
+OL,5,     GNorman and Mandy, bored during
+OL,6,     GMoose's Mountain Adventure
+OL,7,     Gactivity day, sneak away to try
+OL,8,     Gout the Zip Line of Doom.
+OL,9,G0650FThomas and Friends Special: Start
+OL,10,     FYour Engines
+OL,11,     GThe engines attempt to settle a
+OL,12,     Gbet regarding the optimal number
+OL,13,     Gof wheels an engine needs by
+OL,14,     Gtaking the duke and duchess to
+OL,15,     GCallan Castle.
+OL,16,G0705FChip and Potato
+OL,17,     GChip is excited for her first gym
+OL,18,     Gclass, but with her short puggy
+OL,19,     Glegs she can't jump as high as
+OL,20,     Gthe other Happy Hoppers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
