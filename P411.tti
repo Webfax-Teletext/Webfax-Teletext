@@ -2,7 +2,7 @@ PN,41101
 SC,0001
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F411A1708940977
+OL,0,        ECIMSBWebfax     F411A1708955427
 OL,3,CSevere disruption to rail services due
 OL,4,Cto major signalling fault across
 OL,5,Cnetwork
@@ -18,7 +18,7 @@ OL,17,FSignalling has been restored on most
 OL,18,Flines but some are still affected and
 OL,19,FNetwork Rail engineers are still
 OL,20,Fdealing with the following faults:
-OL,1,W h7}h7}j7}h7}h7}                 G1/5
+OL,1,W h7}h7}j7}h7}h7}                 G1/8
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 FL,412,410,8ff,8ff,8ff,8ff
@@ -26,7 +26,7 @@ PN,41102
 SC,0002
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F411A1708940977
+OL,0,        ECIMSBWebfax     F411A1708955427
 OL,3,CSevere disruption to rail services due
 OL,4,Cto major signalling fault across
 OL,5,Cnetwork
@@ -38,7 +38,7 @@ OL,12,FHave you heard our new podcast Talking
 OL,13,FPolitics? Every week Tom, Robert and
 OL,14,FAnushka dig into the biggest issues
 OL,15,Fdominating the political agenda...
-OL,1,W h7}h7}j7}h7}h7}                 G2/5
+OL,1,W h7}h7}j7}h7}h7}                 G2/8
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 FL,412,410,8ff,8ff,8ff,8ff
@@ -46,24 +46,24 @@ PN,41103
 SC,0003
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F411A1708940977
+OL,0,        ECIMSBWebfax     F411A1708955427
 OL,3,CSevere disruption to rail services due
 OL,4,Cto major signalling fault across
 OL,5,Cnetwork
 OL,7,FThe signalling issue also prevented
-OL,8,Fsome early morning services to be
-OL,9,Funable to leave the depots where they
-OL,10,Fare kept overnight and this has caused
-OL,11,Fdelays and cancellations between
-OL,12,FBrighton and Chichester and Eastbourne
-OL,13,Fand Haywards Heath.
+OL,8,Fsome early morning services from
+OL,9,Fleaving the depots where they are kept
+OL,10,Fovernight and this has caused delays
+OL,11,Fand cancellations between Brighton and
+OL,12,FChichester and Eastbourne and Haywards
+OL,13,FHeath.
 OL,15,FTrains between East Croydon and
 OL,16,FBrighton may be cancelled or diverted
 OL,17,Fwith disruption expected until 12:00.
 OL,19,FThere is a reduced service between
 OL,20,FThree Bridges and Brighton and between
 OL,21,FBrighton and Chichester.
-OL,1,W h7}h7}j7}h7}h7}                 G3/5
+OL,1,W h7}h7}j7}h7}h7}                 G3/8
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 FL,412,410,8ff,8ff,8ff,8ff
@@ -71,7 +71,7 @@ PN,41104
 SC,0004
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F411A1708940977
+OL,0,        ECIMSBWebfax     F411A1708955427
 OL,3,CSevere disruption to rail services due
 OL,4,Cto major signalling fault across
 OL,5,Cnetwork
@@ -79,11 +79,16 @@ OL,7,FServices which are running are
 OL,8,Fexpected to be extremely busy and
 OL,9,Fthere may be queuing systems in place
 OL,10,Fat some stations.
-OL,12,FGatwick Express:
-OL,14,FThameslink:
-OL,16,FYour ticket will be accepted at no
-OL,17,Fextra cost on:
-OL,1,W h7}h7}j7}h7}h7}                 G4/5
+OL,12,FA Network Rail spokesman said: "At
+OL,13,F3.04am there was a loss of power
+OL,14,Facross some of the UK Power Network
+OL,15,Fwhich significantly impacted our Three
+OL,16,FBridges Signalling Centre which
+OL,17,Fcontrols the signalling, the railway's
+OL,18,Ftraffic light system, across the
+OL,19,Fmajority of our Sussex route.
+OL,26,@tD@`OU
+OL,1,W h7}h7}j7}h7}h7}                 G4/8
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 FL,412,410,8ff,8ff,8ff,8ff
@@ -91,15 +96,93 @@ PN,41105
 SC,0005
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F411A1708940977
+OL,0,        ECIMSBWebfax     F411A1708955427
 OL,3,CSevere disruption to rail services due
 OL,4,Cto major signalling fault across
 OL,5,Cnetwork
-OL,7,FWant a quick and expert briefing on
-OL,8,Fthe biggest news stories? Listen to
-OL,9,Four latest podcasts to find out What
-OL,10,FYou Need To Know...
-OL,1,W h7}h7}j7}h7}h7}                 G5/5
+OL,7,F"All signalling was restored at 6.30am
+OL,8,Fand, while some Southern services have
+OL,9,Fresumed operating across the Sussex
+OL,10,Froute, a number of Southern and
+OL,11,FThameslink services remain
+OL,12,Fsignificantly disrupted and there are
+OL,13,Fcurrently no Gatwick Express services
+OL,14,Fin operation until further notice.
+OL,16,F"We're really sorry to any passengers
+OL,17,Fdisrupted this morning and we
+OL,18,Fencourage passengers to check with
+OL,19,Ftheir train operator before travelling
+OL,20,Ffor the latest information and
+OL,21,Fupdates."
+OL,26,@oD@AOUxD@AOU}D@IO]
+OL,1,W h7}h7}j7}h7}h7}                 G5/8
+OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
+OL,23,Tppppppppppppppppppppppppppppppppppppppp
+FL,412,410,8ff,8ff,8ff,8ff
+PN,41106
+SC,0006
+CT,2,C
+PS,c000
+OL,0,        ECIMSBWebfax     F411A1708955427
+OL,3,CSevere disruption to rail services due
+OL,4,Cto major signalling fault across
+OL,5,Cnetwork
+OL,7,FA Govia Thameslink Railway
+OL,8,Fspokesperson added: "We are sorry for
+OL,9,Fthe significant disruption our
+OL,10,Fcustomers have been facing today
+OL,11,Ffollowing a power cut at 3am and two
+OL,12,Fadditional signalling failures that
+OL,13,Ffollowed in the morning rush hour.
+OL,15,F"We did our best to keep people on the
+OL,16,Fmove and updated with the latest
+OL,17,Ftravel advice. Anyone who has been
+OL,18,Fdelayed by 15 minutes or more can
+OL,19,Fclaim compensation at any one of our
+OL,20,Fwebsites."
+OL,26,@|D@JO]
+OL,1,W h7}h7}j7}h7}h7}                 G6/8
+OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
+OL,23,Tppppppppppppppppppppppppppppppppppppppp
+FL,412,410,8ff,8ff,8ff,8ff
+PN,41107
+SC,0007
+CT,2,C
+PS,c000
+OL,0,        ECIMSBWebfax     F411A1708955427
+OL,3,CSevere disruption to rail services due
+OL,4,Cto major signalling fault across
+OL,5,Cnetwork
+OL,7,FGatwick Express:
+OL,9,FThameslink:
+OL,11,FYour ticket will be accepted at no
+OL,12,Fextra cost on:
+OL,14,FMeanwhile, Great Western Railway and
+OL,15,FElizabeth line services are disrupted
+OL,16,Fby a landslip between Twyford and
+OL,17,FReading, affecting routes to and from
+OL,18,FLondon Paddington.
+OL,1,W h7}h7}j7}h7}h7}                 G7/8
+OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
+OL,23,Tppppppppppppppppppppppppppppppppppppppp
+FL,412,410,8ff,8ff,8ff,8ff
+PN,41108
+SC,0008
+CT,2,C
+PS,c000
+OL,0,        ECIMSBWebfax     F411A1708955427
+OL,3,CSevere disruption to rail services due
+OL,4,Cto major signalling fault across
+OL,5,Cnetwork
+OL,7,FTwo out of four lines in the area have
+OL,8,Fbeen taken out of use, and the
+OL,9,Fcapacity has been reduced on the
+OL,10,Fremaining lines.
+OL,12,FWant a quick and expert briefing on
+OL,13,Fthe biggest news stories? Listen to
+OL,14,Four latest podcasts to find out What
+OL,15,FYou Need To Know...
+OL,1,W h7}h7}j7}h7}h7}                 G8/8
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 FL,412,410,8ff,8ff,8ff,8ff
