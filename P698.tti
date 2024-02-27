@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709031278
+OL,0,        ECIMSBWebfax     F698A1709034896
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709031278
+OL,0,        ECIMSBWebfax     F698A1709034896
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,33 +44,34 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709031278
+OL,0,        ECIMSBWebfax     F698A1709034896
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 27 FEB
-OL,4,G1045FAnimal Park
-OL,5,     GFollowing the death of their
-OL,6,     Gmother, the residents of the wolf
-OL,7,     Gwood now face losing their father.
-OL,8,G1115FHomes Under the Hammer
-OL,9,     GA three-bedroom semi in the West
-OL,10,     GMidlands has Dion worried.
-OL,11,G1215FBargain Hunt
-OL,12,     GToday, our teams are hunting for
-OL,13,     Gbargains at Newark Antiques Fair.
-OL,14,     GChristina Trevanion learns about
-OL,15,     Ga poignant collection at the
-OL,16,     GNational Holocaust Centre.
-OL,17,G1300FBBC News
-OL,18,G1330FRegional News
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GA three-bedroom semi in the West
+OL,6,     GMidlands has Dion worried.
+OL,7,G1215FBargain Hunt
+OL,8,     GToday, our teams are hunting for
+OL,9,     Gbargains at Newark Antiques Fair.
+OL,10,     GChristina Trevanion learns about
+OL,11,     Ga poignant collection at the
+OL,12,     GNational Holocaust Centre.
+OL,13,G1300FBBC News
+OL,14,G1330FRegional News
+OL,15,G1345FDoctors
+OL,16,     GSuni is back at work - but will
+OL,17,     Ghe cope? Luca surprises Scarlett,
+OL,18,     Gand Sid meets a couple hiding a
+OL,19,     Gshocking secret.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709031278
+OL,0,        ECIMSBWebfax     F698A1709034896
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -97,7 +98,7 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709031278
+OL,0,        ECIMSBWebfax     F698A1709034896
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -120,47 +121,51 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709031278
+OL,0,        ECIMSBWebfax     F698A1709034896
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 27 FEB
-OL,4,G1030FFrasier
-OL,5,     GOops: Frasier carelessly passes
-OL,6,     Gon a snippet of juicy gossip that
-OL,7,     Gleads to his colleague Bulldog
-OL,8,     Glosing his job.
-OL,9,G1100FThe Great House Giveaway
-OL,10,     GIn St Helens, Sami and Lennon
-OL,11,     Gtake on a 1960s semi in one of
-OL,12,     Gour fastest renovations ever. But
-OL,13,     Gwill their eye for a bargain cost
-OL,14,     Gthem in a market where it's all
-OL,15,     Gabout the finish?
-OL,16,G1200FChannel 4 News Summary
-OL,17,     GChannel 4's midday news summary.
+OL,4,G1100FThe Great House Giveaway
+OL,5,     GIn St Helens, Sami and Lennon
+OL,6,     Gtake on a 1960s semi in one of
+OL,7,     Gour fastest renovations ever. But
+OL,8,     Gwill their eye for a bargain cost
+OL,9,     Gthem in a market where it's all
+OL,10,     Gabout the finish?
+OL,11,G1200FChannel 4 News Summary
+OL,12,     GChannel 4's midday news summary.
+OL,13,G1205FSun, Sea and Selling Houses
+OL,14,     GSocialites Max, who's 86, and
+OL,15,     GKathy are looking for a perfect
+OL,16,     Gparty pad. In Almeria, retired
+OL,17,     Glandlord Brian and his wife Kim
+OL,18,     Gare searching for their forever
+OL,19,     Ghome.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,26,@xD@Yrt
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709031278
+OL,0,        ECIMSBWebfax     F698A1709034896
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 27 FEB
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss the
-OL,6,     Glatest news and get your views
-OL,7,     Gand opinions of the day.
-OL,8,G1115FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories of
-OL,12,     Gthe day.
-OL,13,G1245FAlexis Conran & Friends
-OL,14,     GAll new series where Alexis and
-OL,15,     Ghis team of experts tackle the
-OL,16,     Gproblems affecting you the most.
-OL,17,G1340F5 News at Lunchtime
-OL,18,     GNational and international news.
+OL,4,G1115FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories of
+OL,8,     Gthe day.
+OL,9,G1245FAlexis Conran & Friends
+OL,10,     GAll new series where Alexis and
+OL,11,     Ghis team of experts tackle the
+OL,12,     Gproblems affecting you the most.
+OL,13,G1340F5 News at Lunchtime
+OL,14,     GNational and international news.
+OL,15,G1345FHome and Away
+OL,16,     GTane breaks Felicity's heart all
+OL,17,     Gover again, Eden can't make peace
+OL,18,     Gwith Levi, and Mali fears the
+OL,19,     Gworst...
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
