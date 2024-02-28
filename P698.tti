@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709103542
+OL,0,        ECIMSBWebfax     F698A1709107152
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709103542
+OL,0,        ECIMSBWebfax     F698A1709107152
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,7 +44,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709103542
+OL,0,        ECIMSBWebfax     F698A1709107152
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -73,34 +73,36 @@ FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709103542
+OL,0,        ECIMSBWebfax     F698A1709107152
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G0630FEscape to the Country
-OL,5,     GWanting to move closer to family,
-OL,6,     GNicki Chapman celebrates the
-OL,7,     Garrival of her buyers' first
-OL,8,     Ggrandchild by helping them find a
-OL,9,     Gnew home in Cumbria.
-OL,10,G0715FClean It, Fix It
-OL,11,     GThe team help a first-time buyer
-OL,12,     Gcomplete her renovation. In just
-OL,13,     G24 hours, on a limited budget,
-OL,14,     Gthey create clever storage
-OL,15,     Gsolutions throughout.
-OL,16,G0800FAmanda & Alan's Italian Job
-OL,17,     GAmanda and Alan face their
-OL,18,     Gbiggest challenge yet as they aim
-OL,19,     Gto tackle the garden.
+OL,4,G0715FClean It, Fix It
+OL,5,     GThe team help a first-time buyer
+OL,6,     Gcomplete her renovation. In just
+OL,7,     G24 hours, on a limited budget,
+OL,8,     Gthey create clever storage
+OL,9,     Gsolutions throughout.
+OL,10,G0800FAmanda & Alan's Italian Job
+OL,11,     GAmanda and Alan face their
+OL,12,     Gbiggest challenge yet as they aim
+OL,13,     Gto tackle the garden.
+OL,14,G0830FRobson Green's Weekend Escapes
+OL,15,     GCelebrity chef Kenny Atkinson
+OL,16,     Gjoins Robson on a trip to
+OL,17,     GScotland's St Abb's Head. A
+OL,18,     Gbirdwatching boat trip, outdoor
+OL,19,     Gcookery and pottery are on the
+OL,20,     Gmenu.
+OL,21,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709103542
+OL,0,        ECIMSBWebfax     F698A1709107152
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -126,46 +128,54 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709103542
+OL,0,        ECIMSBWebfax     F698A1709107152
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G0650FCheers
-OL,5,     GThe Magnificent Six: Henri
-OL,6,     Gchallenges Sam to a contest to
-OL,7,     Gfind out who's the biggest
-OL,8,     Gladies' man. Rebecca aims to quit
-OL,9,     Gsmoking. Woody and Kelly try to
-OL,10,     Grekindle their honeymoon.
-OL,11,G0715FCheers
-OL,12,     GDo Not Forsake Me, O My Postman:
-OL,13,     GCliff's ex-girlfriend Maggie
-OL,14,     Greturns to Cheers, heavily
-OL,15,     Gpregnant, claiming that the baby
-OL,16,     Gis his. Rebecca wants a jingle to
-OL,17,     Gadvertise the bar.
+OL,4,G0740F3rd Rock from the Sun
+OL,5,     G36! 24! 36! Dick! : Dick, Harry
+OL,6,     Gand Tommy's search for Sally
+OL,7,     Gleads them to the Venusians'
+OL,8,     Glair, where they discover the
+OL,9,     Ginvaders' evil plan to enslave
+OL,10,     Gmankind.
+OL,11,G0805F3rd Rock from the Sun
+OL,12,     GPickles and Ice Cream: Fascinated
+OL,13,     Gby the concept of pregnancy,
+OL,14,     GSally pretends to be expecting a
+OL,15,     Gbaby. Pickles, Harry's pet from
+OL,16,     Ghis home planet, turns up on
+OL,17,     GEarth in human form.
+OL,18,G0830FEverybody Loves Raymond
+OL,19,     GYou Bet: Is Ray right to be
+OL,20,     Gsceptical when Frank
+OL,21,     Guncharacteristically displays a
+OL,22,     Gkeen interest in his work?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709103542
+OL,0,        ECIMSBWebfax     F698A1709107152
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G0650FFireman Sam
-OL,5,     GMandy tries to earn her 'Pioneers
-OL,6,     GYoga Teaching Badge' by teaching
-OL,7,     Gthe 'Upward Octopus' sequence.
-OL,8,     GBut constant interruptions test
-OL,9,     Gher patience, and she ends up
-OL,10,     Gstuck on a cliff ledge!
-OL,11,G0700FThomas & Friends All Engines Go!
-OL,12,     GWhen water lines break all over
-OL,13,     GSodor, the engines chug into
-OL,14,     Gaction to deliver repair parts.
-OL,15,     GBut engines are not what this
-OL,16,     Gproblem needs: it needs the help
-OL,17,     Gof Skiff and Terence.
+OL,4,G0745FThe Adventures of Paddington
+OL,5,     GThere's an ice rink in the park,
+OL,6,     Gso Mr. Gruber teaches Paddington
+OL,7,     Ghow to skate for the ice disco,
+OL,8,     Gbut he must brave the ice himself
+OL,9,     Gagain after a past fall.
+OL,10,G0805FMilo
+OL,11,     GMilo, Lofty and Lark help Shona
+OL,12,     Gthe professional artist in her
+OL,13,     Gstudio where a high-stakes royal
+OL,14,     Gportrait unveiling at Shona's
+OL,15,     GGrand Exhibition proves stressful.
+OL,16,G0820FPaw Patrol
+OL,17,     GThe pups investigate a mystery at
+OL,18,     Gan undersea-themed museum exhibit
+OL,19,     Gand discover an octopus that
+OL,20,     Gwants to return to the ocean.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
