@@ -1,7 +1,7 @@
 PN,28401
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F284A1709016839
+OL,0,        ECIMSBWebfax     F284A1709099925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/11
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 28 FEB
@@ -10,11 +10,11 @@ OL,5,     GNews and current affairs,
 OL,6,     Gincluding Sports Desk, Weather
 OL,7,     Gand Thought for the Day.
 OL,8,G0900FMore or Less
-OL,9,     GTim Harford explains - and
-OL,10,     Gsometimes debunks - the numbers
-OL,11,     Gand statistics used in political
-OL,12,     Gdebate, the news and everyday
-OL,13,     Glife.
+OL,9,     GIs school funding at record
+OL,10,     Glevels? Why did the ONS change
+OL,11,     Ghow they measure excess deaths?
+OL,12,     GDid 6.5bn creatures arrive in the
+OL,13,     GUK by plane last year?
 OL,14,G0930FJust One Thing - with Michael
 OL,15,     FMosley
 OL,16,     GSwitch up your snacks! Michael
@@ -27,7 +27,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,28402
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F284A1709016839
+OL,0,        ECIMSBWebfax     F284A1709099925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/11
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 28 FEB
@@ -37,235 +37,242 @@ OL,6,     Gon how extreme rituals create
 OL,7,     Gcollective transcendent
 OL,8,     Gexperiences.
 OL,9,G1000FWoman's Hour
-OL,10,     GWomen's voices and women's lives
-OL,11,     G- topical conversations to
-OL,12,     Ginform, challenge and inspire.
-OL,13,G1100FWhy Do You Hate Me?
-OL,14,     GMarianna Spring investigates
-OL,15,     Gdifferent extraordinary cases of
-OL,16,     Gonline hate.
-OL,17,G1130FLady Killers with Lucy Worsley
-OL,18,     GLucy Worsley uncovers the story
-OL,19,     Gof Alice Mitchell who kills her
-OL,20,     Gformer girlfriend in Memphis,
-OL,21,     GTennessee in 1892 after a stormy
-OL,22,     Gand illicit relationship.
+OL,10,     GIn a new Woman's Hour series we
+OL,11,     Gwant to start an honest
+OL,12,     Gconversation about how the
+OL,13,     Gavailability and content of porn
+OL,14,     Gaffects what we do, how we feel
+OL,15,     Gand what we expect from sex and
+OL,16,     Grelationships.
+OL,17,G1100FWhy Do You Hate Me?
+OL,18,     GMarianna Spring investigates
+OL,19,     Gdifferent extraordinary cases of
+OL,20,     Gonline hate.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,28403
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F284A1709016839
+OL,0,        ECIMSBWebfax     F284A1709099925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G3/11
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G1200FNews Summary
-OL,5,     GThe latest national and
-OL,6,     Ginternational news from BBC Radio
-OL,7,     G4.
-OL,8,G1204FYou and Yours
-OL,9,     GNews and discussion of consumer
-OL,10,     Gaffairs.
-OL,11,G1257FWeather Forecast
-OL,12,     GThe latest weather forecast.
-OL,13,G1300FWorld at One
-OL,14,     GForty-five minutes of news,
-OL,15,     Ganalysis and comment.
-OL,16,G1345FThe Political Butterfly Effect
-OL,17,     GJim Waterson looks at how the
-OL,18,     Gloss of a handwritten note from
-OL,19,     GBoris Johnson led to Theresa May
-OL,20,     Gbecoming prime minister and
-OL,21,     Gchanged the course of British
-OL,22,     Ghistory.
+OL,4,G1130FLady Killers with Lucy Worsley
+OL,5,     GLucy Worsley uncovers the story
+OL,6,     Gof Alice Mitchell who kills her
+OL,7,     Gformer girlfriend in Memphis,
+OL,8,     GTennessee in 1892 after a stormy
+OL,9,     Gand illicit relationship.
+OL,10,G1200FNews Summary
+OL,11,     GThe latest national and
+OL,12,     Ginternational news from BBC Radio
+OL,13,     G4.
+OL,14,G1204FYou and Yours
+OL,15,     GNews and discussion of consumer
+OL,16,     Gaffairs.
+OL,17,G1257FWeather Forecast
+OL,18,     GThe latest weather forecast.
+OL,19,G1300FWorld at One
+OL,20,     GForty-five minutes of news,
+OL,21,     Ganalysis and comment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,28404
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F284A1709016839
+OL,0,        ECIMSBWebfax     F284A1709099925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G4/11
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G1400FThe Archers
-OL,5,     GThe walls close in on Harrison,
-OL,6,     Gand Jazzer has a confession to
-OL,7,     Gmake.
-OL,8,G1415FSappho in Fragments
-OL,9,     GBy Hattie Naylor. Sappho adores
-OL,10,     Gher brother Charaxus, but his
-OL,11,     Gobsession with the courtesan-
-OL,12,     Gslave Rhodopis threatens to
-OL,13,     Gdestroy their family. Stars
-OL,14,     GThalissa Teixeira.
-OL,15,G1500FMoney Box Live
-OL,16,     GThe Money Box team invites
-OL,17,     Glisteners and a panel of experts
-OL,18,     Gto discuss one personal finance
-OL,19,     Gtopic in depth.
+OL,4,G1345FThe Political Butterfly Effect
+OL,5,     GJim Waterson looks at how the
+OL,6,     Gloss of a handwritten note from
+OL,7,     GBoris Johnson led to Theresa May
+OL,8,     Gbecoming prime minister and
+OL,9,     Gchanged the course of British
+OL,10,     Ghistory.
+OL,11,G1400FThe Archers
+OL,12,     GThe walls close in on Harrison,
+OL,13,     Gand Jazzer has a confession to
+OL,14,     Gmake.
+OL,15,G1415FSappho in Fragments
+OL,16,     GBy Hattie Naylor. Sappho adores
+OL,17,     Gher brother Charaxus, but his
+OL,18,     Gobsession with the courtesan-
+OL,19,     Gslave Rhodopis threatens to
+OL,20,     Gdestroy their family. Stars
+OL,21,     GThalissa Teixeira.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,28405
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F284A1709016839
+OL,0,        ECIMSBWebfax     F284A1709099925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G5/11
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G1530FAll in the Mind
-OL,5,     GClaudia Hammond and guests
-OL,6,     Gconsider the worrying statistics
-OL,7,     Garound mental health issues in
-OL,8,     Gchildren and young people - in
-OL,9,     Gparticular, the long-term trends
-OL,10,     Gamong teenage girls.
-OL,11,G1600FSideways with Matthew Syed
-OL,12,     GMeet the man who reunites
-OL,13,     Gfamilies with lost photographs
-OL,14,     Gand videos - precious memories
-OL,15,     Gthey could never replace. Matthew
-OL,16,     GSyed considers the role of visual
-OL,17,     Gmemory recording.
-OL,18,G1630FThe Media Show
-OL,19,     GSocial media, anti-social media,
-OL,20,     Gbreaking news, faking news: this
-OL,21,     Gis the programme about a
-OL,22,     Grevolution in media.
+OL,4,G1500FMoney Box Live
+OL,5,     GThe Money Box team invites
+OL,6,     Glisteners and a panel of experts
+OL,7,     Gto discuss one personal finance
+OL,8,     Gtopic in depth.
+OL,9,G1530FAll in the Mind
+OL,10,     GClaudia Hammond and guests
+OL,11,     Gconsider the worrying statistics
+OL,12,     Garound mental health issues in
+OL,13,     Gchildren and young people - in
+OL,14,     Gparticular, the long-term trends
+OL,15,     Gamong teenage girls.
+OL,16,G1600FSideways with Matthew Syed
+OL,17,     GMeet the man who reunites
+OL,18,     Gfamilies with lost photographs
+OL,19,     Gand videos - precious memories
+OL,20,     Gthey could never replace. Matthew
+OL,21,     GSyed considers the role of visual
+OL,22,     Gmemory recording.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,28406
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F284A1709016839
+OL,0,        ECIMSBWebfax     F284A1709099925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G6/11
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G1700FPM
-OL,5,     GAfternoon news and current
-OL,6,     Gaffairs programme, reporting on
-OL,7,     Gbreaking stories and summing up
-OL,8,     Gthe day's headlines.
-OL,9,G1800FSix O'Clock News
-OL,10,     GThe early evening national and
-OL,11,     Ginternational news from BBC Radio
-OL,12,     G4.
-OL,13,G1830FPowerhouse
-OL,14,     GHave you ever watched a feminist
-OL,15,     Gtry and take 'hench' as a
-OL,16,     Gcompliment? It's like watching a
-OL,17,     Gsnake eat, but funny. Edinburgh
-OL,18,     GComedy Award nominated stand-up
-OL,19,     Gfrom Jessica Fostekew.
-OL,20,G1900FThe Archers
-OL,21,     GJim hatches a cunning plan, and
-OL,22,     GKenton has reservations.
+OL,4,G1630FThe Media Show
+OL,5,     GSocial media, anti-social media,
+OL,6,     Gbreaking news, faking news: this
+OL,7,     Gis the programme about a
+OL,8,     Grevolution in media.
+OL,9,G1700FPM
+OL,10,     GAfternoon news and current
+OL,11,     Gaffairs programme, reporting on
+OL,12,     Gbreaking stories and summing up
+OL,13,     Gthe day's headlines.
+OL,14,G1800FSix O'Clock News
+OL,15,     GThe early evening national and
+OL,16,     Ginternational news from BBC Radio
+OL,17,     G4.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,28407
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F284A1709016839
+OL,0,        ECIMSBWebfax     F284A1709099925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G7/11
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G1915FFront Row
-OL,5,     GLive magazine programme on the
-OL,6,     Gworlds of arts, literature, film,
-OL,7,     Gmedia and music.
-OL,8,G2000FThe Moral Maze
-OL,9,     GLive debate examining the moral
-OL,10,     Gissues behind one of the week's
-OL,11,     Gnews stories.
-OL,12,G2100FWhen It Hits the Fan
-OL,13,     GWho's in the news for all the
-OL,14,     Gwrong reasons? With David Yelland
-OL,15,     Gand Simon Lewis.
-OL,16,G2130FThe Media Show
-OL,17,     GSocial media, anti-social media,
-OL,18,     Gbreaking news, faking news: this
-OL,19,     Gis the programme about a
-OL,20,     Grevolution in media.
+OL,4,G1830FPowerhouse
+OL,5,     GHave you ever watched a feminist
+OL,6,     Gtry and take 'hench' as a
+OL,7,     Gcompliment? It's like watching a
+OL,8,     Gsnake eat, but funny. Edinburgh
+OL,9,     GComedy Award nominated stand-up
+OL,10,     Gfrom Jessica Fostekew.
+OL,11,G1900FThe Archers
+OL,12,     GJim hatches a cunning plan, and
+OL,13,     GKenton has reservations.
+OL,14,G1915FFront Row
+OL,15,     GLive magazine programme on the
+OL,16,     Gworlds of arts, literature, film,
+OL,17,     Gmedia and music.
+OL,18,G2000FThe Moral Maze
+OL,19,     GLive debate examining the moral
+OL,20,     Gissues behind one of the week's
+OL,21,     Gnews stories.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,28408
 SC,0008
 PS,c000
-OL,0,        ECIMSBWebfax     F284A1709016839
+OL,0,        ECIMSBWebfax     F284A1709099925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G8/11
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G2200FThe World Tonight
-OL,5,     GIn depth reporting, intelligent
-OL,6,     Ganalysis and breaking news from a
-OL,7,     Gglobal perspective.
-OL,8,G2245FWhat You Can See From Here by
-OL,9,     FMariana Leky
-OL,10,     GFrederick has gone back to Japan,
-OL,11,     Gand Luisa is impatiently waiting
-OL,12,     Gfor his first letter. In her
-OL,13,     Ganxiety, she has written to him
-OL,14,     Galready.
-OL,15,G2300FDMs Are Open
-OL,16,     GDMs are Open is back for a new-
-OL,17,     Glook series, hosted by Stevie
-OL,18,     GMartin. There may be a new host
-OL,19,     Gand new features, but as always,
-OL,20,     Gstill written by the Great
-OL,21,     GBritish public.
+OL,4,G2100FWhen It Hits the Fan
+OL,5,     GDavid Yelland and Simon Lewis
+OL,6,     Gdiscuss when calling your share
+OL,7,     Gprice crap is good PR, walking
+OL,8,     Gout of a TV interview and putting
+OL,9,     Ga positive spin on Trident's
+OL,10,     Gfailed test.
+OL,11,G2130FThe Media Show
+OL,12,     GSocial media, anti-social media,
+OL,13,     Gbreaking news, faking news: this
+OL,14,     Gis the programme about a
+OL,15,     Grevolution in media.
+OL,16,G2200FThe World Tonight
+OL,17,     GIn depth reporting, intelligent
+OL,18,     Ganalysis and breaking news from a
+OL,19,     Gglobal perspective.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,28409
 SC,0009
 PS,c000
-OL,0,        ECIMSBWebfax     F284A1709016839
+OL,0,        ECIMSBWebfax     F284A1709099925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G9/11
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G2315FThe Skewer
-OL,5,     GJon Holmes's hit satire returns
-OL,6,     Gto remix the news into a comedy
-OL,7,     Gconcept album.
-OL,8,G2330FToday in Parliament
-OL,9,     GNews, views and features on
-OL,10,     Gtoday's stories in Parliament.
-OL,11,G0000FMidnight News
-OL,12,     GThe latest news and weather
-OL,13,     Gforecast from BBC Radio 4.
-OL,14,G0030FRitual by Dimitris Xygalatas
-OL,15,     GBy Dimitris Xygalatas. Focusing
-OL,16,     Gon how extreme rituals create
-OL,17,     Gcollective transcendent
-OL,18,     Gexperiences.
-OL,19,G0048FShipping Forecast
-OL,20,     GThe latest weather reports and
-OL,21,     Gforecasts for UK shipping.
+OL,4,G2245FWhat You Can See From Here by
+OL,5,     FMariana Leky
+OL,6,     GFrederick has gone back to Japan,
+OL,7,     Gand Luisa is impatiently waiting
+OL,8,     Gfor his first letter. In her
+OL,9,     Ganxiety, she has written to him
+OL,10,     Galready.
+OL,11,G2300FDMs Are Open
+OL,12,     GDMs are Open is back for a new-
+OL,13,     Glook series, hosted by Stevie
+OL,14,     GMartin. There may be a new host
+OL,15,     Gand new features, but as always,
+OL,16,     Gstill written by the Great
+OL,17,     GBritish public.
+OL,18,G2315FThe Skewer
+OL,19,     GJon Holmes's hit satire returns
+OL,20,     Gto remix the news into a comedy
+OL,21,     Gconcept album.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,28410
 SC,0010
 PS,c000
-OL,0,        ECIMSBWebfax     F284A1709016839
+OL,0,        ECIMSBWebfax     F284A1709099925
 OL,1,W{${$~+$ {$~{4k4h7} *u|      G10/11
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G0100FWorld Service
-OL,5,     GBBC Radio 4 joins the BBC World
-OL,6,     GService.
-OL,7,G0520FShipping Forecast
-OL,8,     GThe latest weather reports and
-OL,9,     Gforecasts for UK shipping.
-OL,10,G0530FNews Briefing
-OL,11,     GNational and international news
-OL,12,     Gfrom BBC Radio 4.
-OL,13,G0543FPrayer for the Day
-OL,14,     GA reading and a reflection to
-OL,15,     Gstart the day on Radio 4.
-OL,16,G0545FFarming Today
-OL,17,     GThe latest news about food,
-OL,18,     Gfarming and the countryside.
+OL,4,G2330FToday in Parliament
+OL,5,     GNews, views and features on
+OL,6,     Gtoday's stories in Parliament.
+OL,7,G0000FMidnight News
+OL,8,     GThe latest news and weather
+OL,9,     Gforecast from BBC Radio 4.
+OL,10,G0030FRitual by Dimitris Xygalatas
+OL,11,     GBy Dimitris Xygalatas. Focusing
+OL,12,     Gon how extreme rituals create
+OL,13,     Gcollective transcendent
+OL,14,     Gexperiences.
+OL,15,G0048FShipping Forecast
+OL,16,     GThe latest weather reports and
+OL,17,     Gforecasts for UK shipping.
+OL,18,G0100FWorld Service
+OL,19,     GBBC Radio 4 joins the BBC World
+OL,20,     GService.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,28411
 SC,0011
 PS,c000
-OL,0,        ECIMSBWebfax     F284A1709016839
+OL,0,        ECIMSBWebfax     F284A1709099925
 OL,1,W{${$~+$ {$~{4k4h7} *u|      G11/11
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 28 FEB
-OL,4,G0558FTweet of the Day
-OL,5,     GMusician Joe Acheson describes
-OL,6,     Grecording the sounds of starlings
-OL,7,     Gat the Lizard in Cornwall to use
-OL,8,     Gin his work as Hidden Orchestra.
+OL,4,G0520FShipping Forecast
+OL,5,     GThe latest weather reports and
+OL,6,     Gforecasts for UK shipping.
+OL,7,G0530FNews Briefing
+OL,8,     GNational and international news
+OL,9,     Gfrom BBC Radio 4.
+OL,10,G0543FPrayer for the Day
+OL,11,     GA reading and a reflection to
+OL,12,     Gstart the day on Radio 4.
+OL,13,G0545FFarming Today
+OL,14,     GThe latest news about food,
+OL,15,     Gfarming and the countryside.
+OL,16,G0558FTweet of the Day
+OL,17,     GMusician Joe Acheson describes
+OL,18,     Grecording the sounds of starlings
+OL,19,     Gat the Lizard in Cornwall to use
+OL,20,     Gin his work as Hidden Orchestra.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
