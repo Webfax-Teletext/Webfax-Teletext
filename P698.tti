@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709457652
+OL,0,        ECIMSBWebfax     F698A1709461267
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709457652
+OL,0,        ECIMSBWebfax     F698A1709461267
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,126 +44,135 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709457652
+OL,0,        ECIMSBWebfax     F698A1709461267
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 MAR
-OL,4,G0900FSunday with Laura Kuenssberg
-OL,5,     GLaura Kuenssberg is joined by
-OL,6,     Gchancellor of the exchequer
-OL,7,     GJeremy Hunt MP, shadow education
-OL,8,     Gsecretary Bridget Phillipson MP
-OL,9,     Gand Mariano Janin.
-OL,10,G1000FRegional Political Programmes
-OL,11,G1030FSunday Morning Live
-OL,12,     GAfter Labour and the
-OL,13,     GConservatives both accused each
-OL,14,     Gother of pandering to extremists,
-OL,15,     Gwe ask whether extremism has been
-OL,16,     Gallowed to grip British politics.
-OL,17,G1130FMarried, Sikh and Wanting a...
-OL,18,     GBaby - Love, Faith and Me. Sarina
-OL,19,     Gand Vik are trying for a baby.
-OL,20,     GCan Sikhism help at this
-OL,21,     Gemotional time?
+OL,4,G1000FRegional Political Programmes
+OL,5,G1030FSunday Morning Live
+OL,6,     GAfter Labour and the
+OL,7,     GConservatives both accused each
+OL,8,     Gother of pandering to extremists,
+OL,9,     Gwe ask whether extremism has been
+OL,10,     Gallowed to grip British politics.
+OL,11,G1130FMarried, Sikh and Wanting a...
+OL,12,     GBaby - Love, Faith and Me. Sarina
+OL,13,     Gand Vik are trying for a baby.
+OL,14,     GCan Sikhism help at this
+OL,15,     Gemotional time?
+OL,16,G1215FBargain Hunt
+OL,17,     GPhilip Serrell and Raj Bisram
+OL,18,     Gtake the teams around a fair in
+OL,19,     GHarrogate, while Natasha Raskin
+OL,20,     GSharp looks at the appeal of
+OL,21,     GRobert 'Mouseman' Thompson's work.
+OL,22,G1300FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709457652
+OL,0,        ECIMSBWebfax     F698A1709461267
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 MAR
-OL,4,G0900FLife in a Cottage Garden with
-OL,5,     FCarol Klein
-OL,6,     GIn July and August there's
-OL,7,     Gstaking to be done and roses to
-OL,8,     Gdeadhead.
-OL,9,G0930FAthletics: World Indoor
-OL,10,     FChampionships
-OL,11,     GAll the action as champions are
-OL,12,     Gcrowned in the men's high jump
-OL,13,     Gand women's triple jump.
-OL,14,G1215FMOTD Live: Women's Super League
-OL,15,     GArsenal v Tottenham. WSL coverage
-OL,16,     Gas Arsenal face Tottenham Hotspur
-OL,17,     Gin Holloway.
+OL,4,G0930FAthletics: World Indoor
+OL,5,     FChampionships
+OL,6,     GAll the action as champions are
+OL,7,     Gcrowned in the men's high jump
+OL,8,     Gand women's triple jump.
+OL,9,G1215FMOTD Live: Women's Super League
+OL,10,     GArsenal v Tottenham. WSL coverage
+OL,11,     Gas Arsenal face Tottenham Hotspur
+OL,12,     Gin Holloway.
+OL,13,G1445FScott of the Antarctic
+OL,14,     GFilm drama. Determined to lead
+OL,15,     Gthe first expedition to reach the
+OL,16,     GSouth Pole, naval officer Scott
+OL,17,     Gassembles a team to try to beat a
+OL,18,     GNorwegian attempt.
+OL,19,G1630FFlog It!
+OL,20,     GMembers of the public try and
+OL,21,     Gmake money out of their antiques.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709457652
+OL,0,        ECIMSBWebfax     F698A1709461267
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 MAR
-OL,4,G0730FJames Martin's Saturday Morning
-OL,5,     GJames is back in the kitchen and
-OL,6,     Gis joined by former England rugby
-OL,7,     Gplayer Chris Robshaw, classical
-OL,8,     Gsinger Camilla Kerslake, and Ed
-OL,9,     GChamberlin from ITV Racing.
-OL,10,G0925FITV News
-OL,11,G0930FLove Your Weekend with Alan
-OL,12,     FTitchmarsh
-OL,13,     GAlan welcomes broadcaster and
-OL,14,     Gformer tennis pro Andrew Castle
-OL,15,     Gto the show, and Midsomer's
-OL,16,     GBarnabys - also known as actors
-OL,17,     GFiona Dolman and Neil Dudgeon -
-OL,18,     Gdrop in.
+OL,4,G0930FLove Your Weekend with Alan
+OL,5,     FTitchmarsh
+OL,6,     GAlan welcomes broadcaster and
+OL,7,     Gformer tennis pro Andrew Castle
+OL,8,     Gto the show, and Midsomer's
+OL,9,     GBarnabys - also known as actors
+OL,10,     GFiona Dolman and Neil Dudgeon -
+OL,11,     Gdrop in.
+OL,12,G1130FRaymond Blanc's Royal Kitchen
+OL,13,     FGardens
+OL,14,     GDumfries House: A trip to
+OL,15,     GAyrshire sees Raymond visit the
+OL,16,     Gsplendid Dumfries House and hear
+OL,17,     Ghow King Charles III's passion
+OL,18,     Gfor sustainability is being
+OL,19,     Gpassed on.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709457652
+OL,0,        ECIMSBWebfax     F698A1709461267
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 MAR
-OL,4,G0900FThe Simpsons
-OL,5,     GI'm Goin' to Praiseland: Ned
-OL,6,     Gopens a Christian amusement park.
-OL,7,     GAt first, the tame religious
-OL,8,     Gattractions are unpopular. But
-OL,9,     Gthen visitors start to have
-OL,10,     Gvisions...
-OL,11,G0930FLive: Sunday Brunch
-OL,12,     GRichard Hammond and his daughter
-OL,13,     GIzzy tell us about their new
-OL,14,     Gpodcast. Kaiser Chiefs chat about
-OL,15,     Gtheir upcoming tour. Plus: Daniel
-OL,16,     GLawrence Taylor, Tony Curran and
-OL,17,     Gmusic from Ella Henderson.
+OL,4,G0930FLive: Sunday Brunch
+OL,5,     GRichard Hammond and his daughter
+OL,6,     GIzzy tell us about their new
+OL,7,     Gpodcast. Kaiser Chiefs chat about
+OL,8,     Gtheir upcoming tour. Plus: Daniel
+OL,9,     GLawrence Taylor, Tony Curran and
+OL,10,     Gmusic from Ella Henderson.
+OL,11,G1230FThe Simpsons
+OL,12,     GThrow Grampa from the Dane: The
+OL,13,     GSimpsons visit Denmark and
+OL,14,     Geveryone but Homer falls in love
+OL,15,     Gwith the happy country.
+OL,16,     GMeanwhile, Grampa needs a serious
+OL,17,     Goperation.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1709457652
+OL,0,        ECIMSBWebfax     F698A1709461267
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 MAR
-OL,4,G0920FFriends
-OL,5,     G...Device. Chandler and Janice
-OL,6,     Gmake a difficult decision about
-OL,7,     Gtheir relationship. Phoebe
-OL,8,     Gworries that she has killed Ugly
-OL,9,     GNaked Guy.
-OL,10,G0945FFriends
-OL,11,     GOn Thanksgiving Day, a good-
-OL,12,     Gnatured football game reveals
-OL,13,     Gsome serious rivalries.
-OL,14,G1010FFriends
-OL,15,     GRachel wonders whether she will
-OL,16,     Gever get another job. Joey's job
-OL,17,     Gselling Christmas trees upsets
-OL,18,     GPhoebe. Ross accidentally breaks
-OL,19,     Ga little girl's leg.
+OL,4,G1010FFriends
+OL,5,     GRachel wonders whether she will
+OL,6,     Gever get another job. Joey's job
+OL,7,     Gselling Christmas trees upsets
+OL,8,     GPhoebe. Ross accidentally breaks
+OL,9,     Ga little girl's leg.
+OL,10,G1040FFriends
+OL,11,     G...Remember Which Sister.
+OL,12,     GChandler cannot remember which of
+OL,13,     GJoey's seven sisters he fooled
+OL,14,     Garound with. Rachel meets a man
+OL,15,     Gwho offers to help her career.
+OL,16,G1110FHolidaying with Jane McDonald &
+OL,17,     FFriends
+OL,18,     GJane McDonald and guests explore
+OL,19,     Gdestinations across the globe to
+OL,20,     Ghelp us to choose our dream
+OL,21,     Gholidays. Jane takes a sight-
+OL,22,     Gseeing safari tour of Corfu.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
