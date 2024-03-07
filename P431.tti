@@ -2,7 +2,7 @@ PN,43101
 SC,0001
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F431A1709765722
+OL,0,        ECIMSBWebfax     F431A1709801811
 OL,3,CMurder investigation launched after
 OL,4,Cman, 30, suffers fatal injuries
 OL,6,FA murder investigation has been
@@ -24,7 +24,7 @@ PN,43102
 SC,0002
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F431A1709765722
+OL,0,        ECIMSBWebfax     F431A1709801811
 OL,3,CMurder investigation launched after
 OL,4,Cman, 30, suffers fatal injuries
 OL,6,FIn a statement on the website, the
@@ -49,7 +49,7 @@ PN,43103
 SC,0003
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F431A1709765722
+OL,0,        ECIMSBWebfax     F431A1709801811
 OL,3,CMurder investigation launched after
 OL,4,Cman, 30, suffers fatal injuries
 OL,6,FBristol Commander Mark Runacres said:
@@ -62,6 +62,9 @@ OL,13,Fat this time, who have been notified
 OL,14,Fof his death. Specially-trained family
 OL,15,Fliaison officers will be supporting
 OL,16,Fthem.
+OL,18,F"This is the fourth murder
+OL,19,Finvestigation launched in east Bristol
+OL,20,Fsince June last year."
 OL,26,@oD@AOUsD@AOU
 OL,1,W h7}h7}j7}h7}h7}                 G3/6
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
@@ -71,21 +74,20 @@ PN,43104
 SC,0004
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F431A1709765722
+OL,0,        ECIMSBWebfax     F431A1709801811
 OL,3,CMurder investigation launched after
 OL,4,Cman, 30, suffers fatal injuries
-OL,6,F"This is the third murder
-OL,7,Finvestigation launched in east Bristol
-OL,8,Fin the past two months and the third
-OL,9,Fmurder in this part of St Paul's in
-OL,10,Fless than a year.
-OL,12,F"We do believe there is no wider risk
-OL,13,Fto the public as a result of this
-OL,14,Fincident, however we recognise the
-OL,15,Fconcern recent events are causing and
-OL,16,Fthe negative light this is shining on
-OL,17,Four city.
-OL,26,@nD@AOUtD@AOU
+OL,6,F"We do believe there is no wider risk
+OL,7,Fto the public as a result of this
+OL,8,Fincident, however we recognise the
+OL,9,Fconcern recent events are causing and
+OL,10,Fthe negative light this is shining on
+OL,11,Four city.
+OL,13,F"We are aware of on this issue and
+OL,14,Fwill not shy away from taking every
+OL,15,Fnecessary step to prevent serious
+OL,16,Fviolence.
+OL,26,@uD@AOU
 OL,1,W h7}h7}j7}h7}h7}                 G4/6
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -94,24 +96,20 @@ PN,43105
 SC,0005
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F431A1709765722
+OL,0,        ECIMSBWebfax     F431A1709801811
 OL,3,CMurder investigation launched after
 OL,4,Cman, 30, suffers fatal injuries
-OL,6,F"We are aware of on this issue and
-OL,7,Fwill not shy away from taking every
-OL,8,Fnecessary step to prevent serious
-OL,9,Fviolence.
-OL,11,F"For this very reason we launched a
-OL,12,Fproactive operation three weeks ago
-OL,13,Fwhich will see a dedicated team of
-OL,14,Fpolice officers and staff carry out a
-OL,15,Fwide range of activities and tactics.
-OL,17,F"The impact and trauma the community
-OL,18,Fis feeling is not underestimated and
-OL,19,Fwe are working very closely with our
-OL,20,Fpartners to make sure appropriate
-OL,21,Fsupport is available.
-OL,26,@nD@AOUsD@AOUyD@AOU
+OL,6,F"For this very reason we launched a
+OL,7,Fproactive operation three weeks ago
+OL,8,Fwhich will see a dedicated team of
+OL,9,Fpolice officers and staff carry out a
+OL,10,Fwide range of activities and tactics.
+OL,12,F"The impact and trauma the community
+OL,13,Fis feeling is not underestimated and
+OL,14,Fwe are working very closely with our
+OL,15,Fpartners to make sure appropriate
+OL,16,Fsupport is available.
+OL,26,@nD@AOUtD@AOU
 OL,1,W h7}h7}j7}h7}h7}                 G5/6
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -120,7 +118,7 @@ PN,43106
 SC,0006
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F431A1709765722
+OL,0,        ECIMSBWebfax     F431A1709801811
 OL,3,CMurder investigation launched after
 OL,4,Cman, 30, suffers fatal injuries
 OL,6,F"The community can expect to see an
