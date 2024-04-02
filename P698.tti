@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712033944
+OL,0,        ECIMSBWebfax     F698A1712037557
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712033944
+OL,0,        ECIMSBWebfax     F698A1712037557
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,70 +44,133 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712033944
+OL,0,        ECIMSBWebfax     F698A1712037557
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 1 APR
-OL,4,G0220FBBC News
+OL,3,CProgramme listings for TUE 2 APR
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FCritical Incident
+OL,9,     GTwo paramedics talk of their
+OL,10,     Gexperience at the scene of the
+OL,11,     G2017 London Bridge attacks. In
+OL,12,     GManchester, the police launch a
+OL,13,     Gnew initiative to crack down on
+OL,14,     Gknife crime.
+OL,15,G1000FFraud Squad
+OL,16,     GA gang fuelled by greed evade
+OL,17,     Gover #3 million in tax by selling
+OL,18,     Gillicit petrol.
+OL,19,G1030FAnimal Park
+OL,20,     GThe threat of a deadly disease
+OL,21,     Gforces the keepers to take action.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712033944
+OL,0,        ECIMSBWebfax     F698A1712037557
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 1 APR
-OL,4,G0325FThis is BBC Two
+OL,3,CProgramme listings for TUE 2 APR
+OL,4,G0630FBargain Hunt: Asian Special
+OL,5,     GFrom Japanese cabinets to Indian
+OL,6,     Gsilver bowls - Roo Irvine
+OL,7,     Ghighlights some Asian treasures
+OL,8,     Gbought by our Bargain Hunt teams
+OL,9,     Gand counts down the most
+OL,10,     Gprofitable at auction.
+OL,11,G0715FBridge of Lies
+OL,12,     GFour friends, Trim, Kevis, Ben
+OL,13,     Gand Jack, take on the Bridge of
+OL,14,     GLies. One by one, they must cross
+OL,15,     Gthe Bridge, stepping on the
+OL,16,     Gtruths and avoiding the lies.
+OL,17,G0800FSort Your Life Out
+OL,18,     GStacey Solomon and her crack team
+OL,19,     Ghelp Charlie and Keith, parents
+OL,20,     Gto three young boys, transform
+OL,21,     Gtheir family home through a life-
+OL,22,     Gchanging declutter.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712033944
+OL,0,        ECIMSBWebfax     F698A1712037557
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 1 APR
-OL,4,G0505FAinsley's Fantastic Flavours
-OL,5,     GFloral: Ainsley gets creative
-OL,6,     Gwith floral flavours this time -
-OL,7,     GApril Jackson has an expert rum
-OL,8,     Gtasting, and singer Ella Eyre
-OL,9,     Gjoins Ainsley to cook a fragrant
-OL,10,     Gpork and mint rice bowl.
+OL,3,CProgramme listings for TUE 2 APR
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a topical
+OL,9,     Gmix of entertainment, discussion
+OL,10,     Gand showbiz glamour as well as
+OL,11,     Gthe latest fashion, food and
+OL,12,     Gcelebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real-life stories,
+OL,17,     Gcompetitions and a mix of
+OL,18,     Gcookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712033944
+OL,0,        ECIMSBWebfax     F698A1712037557
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 1 APR
-OL,4,G0540FThe Perfect Pitch
-OL,5,     GThe campers wrap up their
-OL,6,     GPembrokeshire tour with the
-OL,7,     Gperfect wind-down of bubbles,
-OL,8,     Gpampering and a BBQ at Fishguard
-OL,9,     GBay Resort, before they announce
-OL,10,     Gthe week's perfect pitch winner.
+OL,3,CProgramme listings for TUE 2 APR
+OL,4,G0650F3rd Rock from the Sun
+OL,5,     GDick and Harry Fall Down a Hole:
+OL,6,     GDick and Harry run out of petrol
+OL,7,     Gand, while crossing a field to
+OL,8,     Gfind a petrol station, fall into
+OL,9,     Ga giant hole that is too deep to
+OL,10,     Gclimb out of.
+OL,11,G0715F3rd Rock from the Sun
+OL,12,     GFrankie Goes to Rutherford: Dick
+OL,13,     Gis extremely jealous when one of
+OL,14,     GMary's former students, a
+OL,15,     Ghandsome man named Frank, returns
+OL,16,     Gto town and greets her with great
+OL,17,     Gaffection.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712033944
+OL,0,        ECIMSBWebfax     F698A1712037557
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 1 APR
-OL,4,G0550FPip and Posy
-OL,5,     GWhen Posy starts a game where she
-OL,6,     Gis king and Pip is her subject,
-OL,7,     Gthe power goes to her head and
-OL,8,     GPip decides not to play anymore.
+OL,3,CProgramme listings for TUE 2 APR
+OL,4,G0655FOdo
+OL,5,     GOne of Odo's favourite trees has
+OL,6,     Gfallen down. But it's worse for
+OL,7,     GMichael the mouse - his whole
+OL,8,     Ghome has been swept away, and Odo
+OL,9,     Gpromises to help him.
+OL,10,G0700FTweedy & Fluff
+OL,11,     GFluff discovers the power of
+OL,12,     Gsound, when an empty yarn cone
+OL,13,     Ggives his little voice a BIG
+OL,14,     Gimpact!
+OL,15,G0705FPeppa Pig
+OL,16,     GMummy, Daddy, Peppa and George
+OL,17,     Gare going to the seaside. Mummy
+OL,18,     Gand Daddy explain clouds to Peppa
+OL,19,     Gand George who have a little sing
+OL,20,     Gand dance about clouds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
