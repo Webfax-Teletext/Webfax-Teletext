@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712218116
+OL,0,        ECIMSBWebfax     F698A1712221725
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712218116
+OL,0,        ECIMSBWebfax     F698A1712221725
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,35 +44,37 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712218116
+OL,0,        ECIMSBWebfax     F698A1712221725
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 4 APR
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0930FCritical Incident
-OL,9,     GIn London, a paramedic is
-OL,10,     Gsexually assaulted while on a
-OL,11,     Gcall, and firefighters in
-OL,12,     GNottinghamshire tackle one of the
-OL,13,     Gbiggest blazes they've ever seen.
-OL,14,G1000FFraud Squad
-OL,15,     GA school mops up taxpayer cash
-OL,16,     Gpretending to employ 40 cleaners,
-OL,17,     Ga union rep rips off her members
-OL,18,     Gand the NHS, and a man is guilty
-OL,19,     Gof illegally dumping 14,000
-OL,20,     Gtonnes of waste.
+OL,4,G1000FFraud Squad
+OL,5,     GA school mops up taxpayer cash
+OL,6,     Gpretending to employ 40 cleaners,
+OL,7,     Ga union rep rips off her members
+OL,8,     Gand the NHS, and a man is guilty
+OL,9,     Gof illegally dumping 14,000
+OL,10,     Gtonnes of waste.
+OL,11,G1030FAnimal Park
+OL,12,     GAn armadillo emergency could
+OL,13,     Gspell the end for one of the
+OL,14,     Gpark's favourite couples, but
+OL,15,     Gwhat will the vet find when he
+OL,16,     Gcomes to check on Polly?
+OL,17,G1115FHomes Under the Hammer
+OL,18,     GFeaturing a three-bed terrace in
+OL,19,     GRugeley in Staffordshire, a
+OL,20,     Gterrace in Bromley and two flats
+OL,21,     Gin north west London that might
+OL,22,     Gbe better converted back into one.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712218116
+OL,0,        ECIMSBWebfax     F698A1712221725
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -101,80 +103,75 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712218116
+OL,0,        ECIMSBWebfax     F698A1712221725
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 4 APR
-OL,4,G0900FLorraine
-OL,5,     GLorraine Kelly presents a topical
-OL,6,     Gmix of entertainment, discussion
-OL,7,     Gand showbiz glamour as well as
-OL,8,     Gthe latest fashion, food and
-OL,9,     Gcelebrity gossip.
-OL,10,G1000FThis Morning
-OL,11,     GMagazine show with news and
-OL,12,     Gtopical items, celebrity guests,
-OL,13,     Gexpert advice, real-life stories,
-OL,14,     Gcompetitions and a mix of
-OL,15,     Gcookery, health, beauty,
-OL,16,     Glifestyle and more.
-OL,17,G1230FLoose Women
-OL,18,     GKaye Adams, Coleen Nolan, Kelly
-OL,19,     GHolmes and Denise Welch discuss
-OL,20,     Gthe day's news and celebrity
-OL,21,     Gstories with plenty of humour
-OL,22,     Gthrown in for good measure.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real-life stories,
+OL,8,     Gcompetitions and a mix of
+OL,9,     Gcookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GKaye Adams, Coleen Nolan, Kelly
+OL,13,     GHolmes and Denise Welch discuss
+OL,14,     Gthe day's news and celebrity
+OL,15,     Gstories with plenty of humour
+OL,16,     Gthrown in for good measure.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712218116
+OL,0,        ECIMSBWebfax     F698A1712221725
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 4 APR
-OL,4,G0900FEverybody Loves Raymond
-OL,5,     GThe Bird: Robert and Amy convince
-OL,6,     Gtheir families that it would be
-OL,7,     Gfun to spend Thanksgiving
-OL,8,     Gtogether, but the day gets off to
-OL,9,     Ga bad start.
-OL,10,G0930FFrasier
-OL,11,     GRoz's Krantz & Gouldenstein Are
-OL,12,     GDead: Roz serves a community
-OL,13,     Gservice order at a retirement
-OL,14,     Ghome, but all the people she
-OL,15,     Glooks after pass away.
-OL,16,G1000FFrasier
-OL,17,     GThe Unnatural: Frasier tries to
-OL,18,     Gstop Frederick from realising
-OL,19,     Gthat he's a less-than-perfect
-OL,20,     Gfather when he fills in on the
-OL,21,     Gradio station's baseball team.
+OL,4,G1000FFrasier
+OL,5,     GThe Unnatural: Frasier tries to
+OL,6,     Gstop Frederick from realising
+OL,7,     Gthat he's a less-than-perfect
+OL,8,     Gfather when he fills in on the
+OL,9,     Gradio station's baseball team.
+OL,10,G1030FFrasier
+OL,11,     GRoz's Turn: When a spot opens up
+OL,12,     Gat the radio station for a new
+OL,13,     Gtalk-show host, Roz decides that
+OL,14,     Git's her turn to host her own
+OL,15,     Gshow.
+OL,16,G1100FThe Great House Giveaway
+OL,17,     GIn Cramlington, strangers
+OL,18,     GAshleigh and Joe take on a run-
+OL,19,     Gdown suburban semi in urgent need
+OL,20,     Gof some TLC. But as costs spiral
+OL,21,     Gout of control, will they make
+OL,22,     Gany money?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712218116
+OL,0,        ECIMSBWebfax     F698A1712221725
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 4 APR
-OL,4,G0905FMilkshake! Story Den
-OL,5,     GThe story of little owl Odo who,
-OL,6,     Gafter reading his favourite comic
-OL,7,     Gbook, wants to be a superhero.
-OL,8,     GSadly nobody needs his help.
-OL,9,     GUntil he hears the sound of
-OL,10,     Gsomeone in trouble!
-OL,11,G0915FJeremy Vine
-OL,12,     GJeremy Vine and Storm discuss the
-OL,13,     Glatest news and get your views
-OL,14,     Gand opinions of the day.
-OL,15,G1115FStorm Huntley
-OL,16,     GStorm Huntley carries on the
-OL,17,     Gdiscussion and takes your calls
-OL,18,     Gto discuss the biggest stories of
-OL,19,     Gthe day.
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and Storm discuss the
+OL,6,     Glatest news and get your views
+OL,7,     Gand opinions of the day.
+OL,8,G1115FStorm Huntley
+OL,9,     GStorm Huntley carries on the
+OL,10,     Gdiscussion and takes your calls
+OL,11,     Gto discuss the biggest stories of
+OL,12,     Gthe day.
+OL,13,G1245FFriends
+OL,14,     GChandler tries to earn Joey's
+OL,15,     Gforgiveness by lying in a wooden
+OL,16,     Gbox for six hours. Monica is
+OL,17,     Gsurprised to find herself
+OL,18,     Gattracted to the son of her ex-
+OL,19,     Gboyfriend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
