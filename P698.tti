@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712304762
+OL,0,        ECIMSBWebfax     F698A1712308378
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712304762
+OL,0,        ECIMSBWebfax     F698A1712308378
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,32 +44,37 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712304762
+OL,0,        ECIMSBWebfax     F698A1712308378
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 5 APR
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0930FCritical Incident
-OL,9,     GIt's a busy night in Newcastle
-OL,10,     Gfor Northumbria Police as they
-OL,11,     Gwork the night-time shift.
-OL,12,G1000FFraud Squad
-OL,13,     GA dentist lets her unqualified
-OL,14,     Gboyfriend operate on her patients
-OL,15,     Gand pocket #120,000, and a man
-OL,16,     Gsells dodgy student exemption
-OL,17,     Gcertificates.
+OL,4,G1000FFraud Squad
+OL,5,     GA dentist lets her unqualified
+OL,6,     Gboyfriend operate on her patients
+OL,7,     Gand pocket #120,000, and a man
+OL,8,     Gsells dodgy student exemption
+OL,9,     Gcertificates.
+OL,10,G1030FAnimal Park
+OL,11,     GThorn the giraffe is having
+OL,12,     Gproblems with his hooves, but for
+OL,13,     Gthe vet to get close enough to
+OL,14,     Gfix them, he needs to be within
+OL,15,     Gkicking distance of the giant
+OL,16,     Ganimal.
+OL,17,G1115FHomes Under the Hammer
+OL,18,     GJacqui looks around flats in
+OL,19,     GVauxhall and Aylesbury, and Dion
+OL,20,     Gvisits a Grade II listed two-bed
+OL,21,     Ghome in an old mill in
+OL,22,     GMacclesfield.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712304762
+OL,0,        ECIMSBWebfax     F698A1712308378
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -99,80 +104,84 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712304762
+OL,0,        ECIMSBWebfax     F698A1712308378
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 5 APR
-OL,4,G0900FLorraine
-OL,5,     GShe's been helping families clear
-OL,6,     Gtheir clutter on Sort Your Life
-OL,7,     GOut - and today professional
-OL,8,     Gorganiser Dilly Carter joins
-OL,9,     GChristine to help us get our
-OL,10,     Ghomes ready for spring.
-OL,11,G1000FThis Morning
-OL,12,     GMagazine show with news and
-OL,13,     Gtopical items, celebrity guests,
-OL,14,     Gexpert advice, real-life stories,
-OL,15,     Gcompetitions and a mix of
-OL,16,     Gcookery, health, beauty,
-OL,17,     Glifestyle and more.
-OL,18,G1230FLoose Women
-OL,19,     GStyle guru Susannah Constantine
-OL,20,     Gjoins the ladies for an update on
-OL,21,     Gher health battles and a catch-up.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real-life stories,
+OL,8,     Gcompetitions and a mix of
+OL,9,     Gcookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GStyle guru Susannah Constantine
+OL,13,     Gjoins the ladies for an update on
+OL,14,     Gher health battles and a catch-up.
+OL,15,G1330FITV Lunchtime News
+OL,16,     GThe latest headlines from around
+OL,17,     Gthe world at lunchtime with
+OL,18,     Greports and analysis from ITV's
+OL,19,     GCorrespondents, all of which are
+OL,20,     Gfollowed by a national weather
+OL,21,     Gforecast.
+OL,22,G1355FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712304762
+OL,0,        ECIMSBWebfax     F698A1712308378
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 5 APR
-OL,4,G0900FEverybody Loves Raymond
-OL,5,     GSlave: Ray and Debra
-OL,6,     Ginadvertently leave the twins
-OL,7,     Ghome alone and are impressed with
-OL,8,     GAlly when she takes care of them,
-OL,9,     Gso they offer her lots of other
-OL,10,     Gwork...
-OL,11,G0930FFrasier
-OL,12,     GHam Radio: Frasier's attempt to
-OL,13,     Gproduce a live, 1940s-style radio
-OL,14,     Gdrama for KACL's 50th anniversary
-OL,15,     Gproves disastrous when Niles
-OL,16,     Gtakes matters into his own hands.
-OL,17,G1000FFrasier
-OL,18,     GThree Dates and a Breakup :
-OL,19,     GFrasier goes on dates with three
-OL,20,     Gvery different women, while
-OL,21,     GMartin and Sherry consider
-OL,22,     Gsplitting up.
+OL,4,G1000FFrasier
+OL,5,     GThree Dates and a Breakup :
+OL,6,     GFrasier goes on dates with three
+OL,7,     Gvery different women, while
+OL,8,     GMartin and Sherry consider
+OL,9,     Gsplitting up.
+OL,10,G1030FFrasier
+OL,11,     GThree Dates and a Breakup :
+OL,12,     GFrasier and Niles celebrate
+OL,13,     GSherry's departure with glee, but
+OL,14,     Gshe won't give up on Martin that
+OL,15,     Geasily.
+OL,16,G1100FThe Great House Giveaway
+OL,17,     GIn Leeds, strangers Boris and
+OL,18,     GShane join forces to renovate a
+OL,19,     Gdecrepit family home. But when
+OL,20,     Gone of them struggles to commit
+OL,21,     Gto the work, the pressure is on
+OL,22,     Gto get the job done.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712304762
+OL,0,        ECIMSBWebfax     F698A1712308378
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 5 APR
-OL,4,G0905FMilkshake! Story Den
-OL,5,     GThe story of Sally the Skunk, who
-OL,6,     Ghas trouble making friends as
-OL,7,     Geveryone fears her smelly spray.
-OL,8,     GBut one day when she runs into a
-OL,9,     Grobber, she shows how useful her
-OL,10,     Gstink can be!
-OL,11,G0915FJeremy Vine
-OL,12,     GJeremy Vine and Storm discuss the
-OL,13,     Glatest news and get your views
-OL,14,     Gand opinions of the day.
-OL,15,G1115FStorm Huntley
-OL,16,     GStorm Huntley carries on the
-OL,17,     Gdiscussion and takes your calls
-OL,18,     Gto discuss the biggest stories of
-OL,19,     Gthe day.
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and Storm discuss the
+OL,6,     Glatest news and get your views
+OL,7,     Gand opinions of the day.
+OL,8,G1115FStorm Huntley
+OL,9,     GStorm Huntley carries on the
+OL,10,     Gdiscussion and takes your calls
+OL,11,     Gto discuss the biggest stories of
+OL,12,     Gthe day.
+OL,13,G1245FFriends
+OL,14,     G...Poughkeepsie. Ross struggles
+OL,15,     Gto maintain a long-distance
+OL,16,     Grelationship, and Monica schemes
+OL,17,     Gto establish authority at her new
+OL,18,     Grestaurant job.
+OL,19,G1310FFriends
+OL,20,     GPhoebe's half-brother makes an
+OL,21,     Gastounding announcement. Joey
+OL,22,     Gfinds himself in a class struggle.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
