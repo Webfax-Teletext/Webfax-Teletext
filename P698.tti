@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712724174
+OL,0,        ECIMSBWebfax     F698A1712727787
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712724174
+OL,0,        ECIMSBWebfax     F698A1712727787
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,73 +44,131 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712724174
+OL,0,        ECIMSBWebfax     F698A1712727787
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 9 APR
-OL,4,G0020FBBC News
+OL,3,CProgramme listings for WED 10 APR
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FMorning Live
+OL,9,     GJoin Gethin Jones, Helen Skelton,
+OL,10,     GMichelle Ackerley and the team
+OL,11,     Gfor conversation, advice and tips
+OL,12,     Gto make your day that little bit
+OL,13,     Geasier.
+OL,14,G1045FBig Little Crimes
+OL,15,     GA rookie officer who helps a
+OL,16,     Gdrunk man get home suddenly finds
+OL,17,     Ghimself on the front line of a
+OL,18,     Gmurder investigation. And shoddy
+OL,19,     Gbuilding work helps convict a
+OL,20,     Gserial fraudster.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712724174
+OL,0,        ECIMSBWebfax     F698A1712727787
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 9 APR
-OL,4,G0325FThis is BBC Two
+OL,3,CProgramme listings for WED 10 APR
+OL,4,G0630FMoney for Nothing
+OL,5,     GSarah Moore rescues a retro
+OL,6,     Gorange armchair, a tallboy and
+OL,7,     Gdresser set and some discarded
+OL,8,     Gspectacle cases from the skips at
+OL,9,     GBeaconsfield recycling centre.
+OL,10,G0715FBridge of Lies
+OL,11,     GFriends Craig Kerry, Tony and
+OL,12,     GLouise take on the Bridge of
+OL,13,     GLies. One by one, they must cross
+OL,14,     Gthe Bridge, stepping on the
+OL,15,     Gtruths and avoiding the lies.
+OL,16,G0800FMasterChef
+OL,17,     GIn the first quarter-final, the
+OL,18,     Gsix contestants must impress food
+OL,19,     Gcritic William Sitwell with
+OL,20,     Gdishes based on classic school
+OL,21,     Gdinners.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712724174
+OL,0,        ECIMSBWebfax     F698A1712727787
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 9 APR
-OL,4,G0510FJames Martin's Spanish Adventure
-OL,5,     GCosta del Sol: James is shown how
-OL,6,     Ghuge paella is made in the Costa
-OL,7,     Gdel Sol, visits a lost village,
-OL,8,     Gdrops by a citrus farm and sees
-OL,9,     Ghow moscatel ice cream is made.
+OL,3,CProgramme listings for WED 10 APR
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a topical
+OL,9,     Gmix of entertainment, discussion
+OL,10,     Gand showbiz glamour as well as
+OL,11,     Gthe latest fashion, food and
+OL,12,     Gcelebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real-life stories,
+OL,17,     Gcompetitions and a mix of
+OL,18,     Gcookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712724174
+OL,0,        ECIMSBWebfax     F698A1712727787
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 9 APR
-OL,4,G0515FRenovation Nation
-OL,5,     GAnouska and Greig search for
-OL,6,     Ghidden treasure. In North
-OL,7,     GYorkshire, Naomi and Byron get
-OL,8,     Gknee-deep in sludge.
+OL,3,CProgramme listings for WED 10 APR
+OL,4,G0610FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Dr Nighat Arif joins
+OL,10,     GSusie Dent in Dictionary Corner.
+OL,11,G0650F3rd Rock from the Sun
+OL,12,     GMy Mother, My Dick: When Harry
+OL,13,     Gand Sally mess about with the
+OL,14,     Gtime-space portal in the
+OL,15,     Gapartment, they accidentally
+OL,16,     Gbring an alien from the home
+OL,17,     Gplanet back to Earth.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1712724174
+OL,0,        ECIMSBWebfax     F698A1712727787
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 9 APR
-OL,4,G0540FFireman Sam
-OL,5,     GWhen the Big Chill strikes
-OL,6,     GPontypandy and knocks out the
-OL,7,     Gpower at the fire station, Sam
-OL,8,     Ghas trouble lighting a fire.
-OL,9,G0550FPip and Posy
-OL,10,     GPip, Posy and their friends keep
-OL,11,     Gtelling lies to hide what they
-OL,12,     Gdid after they are tempted to
-OL,13,     Gsecretly eat Frankie's cupcakes
-OL,14,     Gat a Wizards Picnic with everyone.
+OL,3,CProgramme listings for WED 10 APR
+OL,4,G0640FFireman Sam
+OL,5,     GCharlie starts an out-of-control
+OL,6,     Gfire in the park during a pizza
+OL,7,     Gcontest.
+OL,8,G0650FOdo
+OL,9,     GOdo meets Michael's brother Ger,
+OL,10,     Gbut gets a surprise. Ger doesn't
+OL,11,     Glike Odo at all because he
+OL,12,     Gdoesn't trust owls. It's very
+OL,13,     Gunfair, and Odo's feelings are
+OL,14,     Ghurt.
+OL,15,G0700FTweedy & Fluff
+OL,16,     GA bored Fluff discovers a wooden
+OL,17,     Gruler while waiting for Tweedy to
+OL,18,     Gplay with him. It gives Tweedy an
+OL,19,     Gidea for some seesaw fun that
+OL,20,     Gthey can both enjoy!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
