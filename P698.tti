@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713139454
+OL,0,        ECIMSBWebfax     F698A1713143060
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713139454
+OL,0,        ECIMSBWebfax     F698A1713143060
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,122 +44,108 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713139454
+OL,0,        ECIMSBWebfax     F698A1713143060
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 14 APR
-OL,4,G2335FThe Duchess
-OL,5,     GThe tumultuous life story of the
-OL,6,     G18th-century duchess of
-OL,7,     GDevonshire . Contains some scenes
-OL,8,     Gof a sexual nature.
-OL,9,G0115FWeather for the Week Ahead
-OL,10,G0120FBBC News
+OL,4,G0120FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713139454
+OL,0,        ECIMSBWebfax     F698A1713143060
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 14 APR
-OL,4,G2340FSorry to Bother You
-OL,5,     GAn African American telemarketer
-OL,6,     Gdiscovers an unsettling key to
-OL,7,     Gsuccess. Contains very strong
-OL,8,     Glanguage, sexual content, some
-OL,9,     Gviolence and some up...
-OL,10,G0125FThe Bradford Aunties
-OL,11,     GThis engaging film follows three
-OL,12,     GAsian aunties bringing Bradford's
-OL,13,     Gold and young together for a
-OL,14,     Gcoach trip - part of a unique
-OL,15,     Gproject to preserve Asian culture.
-OL,16,G0215FMandy
-OL,17,     GA shocking revelation in the nail
-OL,18,     Gbar leads Mandy to confess a dark
-OL,19,     Gsecret to Lola. Contains some
-OL,20,     Gstrong language and adult humour.
+OL,4,G0125FThe Bradford Aunties
+OL,5,     GThis engaging film follows three
+OL,6,     GAsian aunties bringing Bradford's
+OL,7,     Gold and young together for a
+OL,8,     Gcoach trip - part of a unique
+OL,9,     Gproject to preserve Asian culture.
+OL,10,G0215FMandy
+OL,11,     GA shocking revelation in the nail
+OL,12,     Gbar leads Mandy to confess a dark
+OL,13,     Gsecret to Lola. Contains some
+OL,14,     Gstrong language and adult humour.
+OL,15,G0230FMandy
+OL,16,     GMandy examines the role of the
+OL,17,     Gshadowy global elite in
+OL,18,     Gcontemporary world events.
+OL,19,     GContains some strong language.
+OL,20,G0245FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713139454
+OL,0,        ECIMSBWebfax     F698A1713143060
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 14 APR
-OL,4,G0010FEnglish Football League Highlights
-OL,5,     GAction from across the leagues in
-OL,6,     Gthe EFL including Leeds v
-OL,7,     GBlackburn, Ipswich v
-OL,8,     GMiddlesbrough, Sheffield
-OL,9,     GWednesday v Stoke, and West Brom
-OL,10,     Gv Sunderland in the Championship.
-OL,11,G0130FShop on TV
-OL,12,     GTeleshopping.
-OL,13,G0300FRaymond Blanc's Royal Kitchen
-OL,14,     FGardens
-OL,15,     GCastle of Mey: Raymond is once
-OL,16,     Gagain at the farthest tip of
-OL,17,     Gmainland Scotland to learn about
-OL,18,     Gwhat it takes to grow produce -
-OL,19,     Gincluding peaches - in its
-OL,20,     Ggrounds.
+OL,4,G0130FShop on TV
+OL,5,     GTeleshopping.
+OL,6,G0300FRaymond Blanc's Royal Kitchen
+OL,7,     FGardens
+OL,8,     GCastle of Mey: Raymond is once
+OL,9,     Gagain at the farthest tip of
+OL,10,     Gmainland Scotland to learn about
+OL,11,     Gwhat it takes to grow produce -
+OL,12,     Gincluding peaches - in its
+OL,13,     Ggrounds.
+OL,14,G0350FUnwind with ITV
+OL,15,     GYour daily escape designed to
+OL,16,     Gcalm the mind and encourage
+OL,17,     Grelaxation and reflection.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713139454
+OL,0,        ECIMSBWebfax     F698A1713143060
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 14 APR
-OL,4,G0010FWalter Presents: Sweetheart
-OL,5,     GCanadian drama series. When
-OL,6,     GSandrick, an attractive school
-OL,7,     Gstudent, enrols in her class,
-OL,8,     Gmarried teacher Chanelle feels
-OL,9,     Gdestabilised, but also drawn to
-OL,10,     Ghim. In French/subs.
-OL,11,G0105FAmerican Gigolo
-OL,12,     GCrime drama with Richard Gere. A
-OL,13,     Gmale escort falls for a senator's
-OL,14,     Gwife and is accused of a former
-OL,15,     Gclient's murder. Very strong
-OL,16,     Glanguage/sex/drugs.
+OL,4,G0105FAmerican Gigolo
+OL,5,     GCrime drama with Richard Gere. A
+OL,6,     Gmale escort falls for a senator's
+OL,7,     Gwife and is accused of a former
+OL,8,     Gclient's murder. Very strong
+OL,9,     Glanguage/sex/drugs.
+OL,10,G0255FCar S.O.S
+OL,11,     GJaguar XJ-S V12: Tim Shaw and
+OL,12,     GFuzz Townshend head to
+OL,13,     GWolverhampton to take on a 1980
+OL,14,     GJaguar XJ-S V12, a great British
+OL,15,     GGrand Tourer that has fallen into
+OL,16,     Gneglect.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713139454
+OL,0,        ECIMSBWebfax     F698A1713143060
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 14 APR
-OL,4,G0100FEntertainment News on 5
-OL,5,     GA daily round-up of showbiz news
-OL,6,     Gand gossip from around the world,
-OL,7,     Gfocusing on celebrities, movies,
-OL,8,     Gmusic and entertainment.
-OL,9,G0105FPlayOJO Live Casino Show
-OL,10,     GRed or black? Odds or evens?
-OL,11,     GWhichever way you play, get that
-OL,12,     GOJO feeling with two hours of
-OL,13,     Gexciting live roulette every
-OL,14,     Gsingle night! Take us for a spin
-OL,15,     Gand feel the fun at playojo.com.
-OL,16,G0305FMurdered by a Mob
-OL,17,     GDocumentary telling the story of
-OL,18,     Gthe murder of Bijan Ebrahimi. A
-OL,19,     Gmob murder, a police force that
-OL,20,     Glooked the other way and a victim
-OL,21,     Gfailed by the authorities
-OL,22,     Grepeatedly.
+OL,4,G0105FPlayOJO Live Casino Show
+OL,5,     GRed or black? Odds or evens?
+OL,6,     GWhichever way you play, get that
+OL,7,     GOJO feeling with two hours of
+OL,8,     Gexciting live roulette every
+OL,9,     Gsingle night! Take us for a spin
+OL,10,     Gand feel the fun at playojo.com.
+OL,11,G0305FMurdered by a Mob
+OL,12,     GDocumentary telling the story of
+OL,13,     Gthe murder of Bijan Ebrahimi. A
+OL,14,     Gmob murder, a police force that
+OL,15,     Glooked the other way and a victim
+OL,16,     Gfailed by the authorities
+OL,17,     Grepeatedly.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
