@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713586490
+OL,0,        ECIMSBWebfax     F698A1713590099
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713586490
+OL,0,        ECIMSBWebfax     F698A1713590099
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,90 +44,132 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713586490
+OL,0,        ECIMSBWebfax     F698A1713590099
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 19 APR
-OL,4,G0125FBBC News
+OL,3,CProgramme listings for SAT 20 APR
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GHost Matt Tebbutt is joined by
+OL,10,     Gchefs Georgina Hayden and Alexina
+OL,11,     GAnatole, and by special guest Ben
+OL,12,     GElton. Drinks expert Olly Smith
+OL,13,     Gpicks the wines to go with the
+OL,14,     Gstudio dishes.
+OL,15,G1130FMary Berry's Simple Comforts
+OL,16,     GMary visits Yorkshire's dramatic
+OL,17,     Gcoastline, tastes seaside
+OL,18,     Gfavourites and makes some crowd-
+OL,19,     Gpleasing bonfire food.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713586490
+OL,0,        ECIMSBWebfax     F698A1713590099
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 19 APR
+OL,3,CProgramme listings for SAT 20 APR
 OL,4,G0330FThis is BBC Two
+OL,5,G0615FHey Duggee
+OL,6,     GThe Philosophy Badge. The
+OL,7,     GSquirrels think about life's big
+OL,8,     Gquestions, helping Tino the
+OL,9,     GArtistic Mouse escape a crisis of
+OL,10,     Gconfidence and gaining their
+OL,11,     GPhilosophy Badges in the process.
+OL,12,G0625FGo Jetters
+OL,13,     GThe Great Wall of China. Animated
+OL,14,     Gadventure comedy series. Glitch
+OL,15,     Gand his grimbots have a long race
+OL,16,     Gon a very long wall - the Great
+OL,17,     GWall of China!
+OL,18,G0635FGrizzy and the Lemmings
+OL,19,     GFalse Children. The Lemmings are
+OL,20,     Gtrapped in a ball, and an ostrich
+OL,21,     Gsits on it, mistaking it for an
+OL,22,     Gegg.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713586490
+OL,0,        ECIMSBWebfax     F698A1713590099
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 19 APR
-OL,4,G0505FKatie Piper's Breakfast Show
-OL,5,     GKatie is joined by TV legend
-OL,6,     GClaire Sweeney, BBC Radio One
-OL,7,     Ghost Rickie Haywood-Williams, and
-OL,8,     GDr Idz Mughal as we learn how to
-OL,9,     Grevamp denim with fashion
-OL,10,     G'redesigner' Rosette Ale.
+OL,3,CProgramme listings for SAT 20 APR
+OL,4,G0600FLove Your Garden
+OL,5,     GRosie Mitchell: Gardening
+OL,6,     Gmagician Alan Titchmarsh and his
+OL,7,     Gteam of experts head to Eastleigh
+OL,8,     Gto transform an uninviting patch
+OL,9,     Gof uneven lawn into a cruise ship-
+OL,10,     Ginspired garden.
+OL,11,G0630FLove Your Weekend with Alan
+OL,12,     FTitchmarsh
+OL,13,     GBrightening up this edition with
+OL,14,     GAlan are 'Allo 'Allo! star Vicki
+OL,15,     GMichelle, former football manager
+OL,16,     GHarry Redknapp, and best-selling
+OL,17,     Gnovelist Marian Keyes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713586490
+OL,0,        ECIMSBWebfax     F698A1713590099
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 19 APR
-OL,4,G0510FCome Dine with Me
-OL,5,     GHull area. The competition moves
-OL,6,     Gto Doncaster, where Tony serves
-OL,7,     Gup some countryside cuisine on a
-OL,8,     Gfinal night featuring hit-and-
-OL,9,     Gmiss food, dirty cutlery and a
-OL,10,     Gwolf-whistling hoo-ha.
-OL,11,G0535FThe Perfect Pitch
-OL,12,     GIn search of the Jurassic Coast's
-OL,13,     Gperfect pitch, the campers swing
-OL,14,     Ginto action at Oakdown Caravan
-OL,15,     GPark's nine-hole golf course and
-OL,16,     Gget muddy at a family-friendly
-OL,17,     Gassault course.
+OL,3,CProgramme listings for SAT 20 APR
+OL,4,G0605FEverybody Loves Raymond
+OL,5,     GWho's Handsome?: Ray starts to
+OL,6,     Gfeel insecure about his looks
+OL,7,     Gafter hearing Debra compliment
+OL,8,     GRobert on his appearance.
+OL,9,G0635FEverybody Loves Raymond
+OL,10,     GThe Car: Debra refuses to drive
+OL,11,     Gthe car that Ray buys from his
+OL,12,     Gparents after finding out that
+OL,13,     GRay 'got lucky' in it as a
+OL,14,     Gteenager.
+OL,15,G0700FThe Simpsons
+OL,16,     GFear of Flying: Homer is mistaken
+OL,17,     Gfor a pilot when he frequents an
+OL,18,     Gairport bar. Marge visits a
+OL,19,     Gpsychiatrist to get to the bottom
+OL,20,     Gof her fear of flying.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713586490
+OL,0,        ECIMSBWebfax     F698A1713590099
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 19 APR
-OL,4,G0505FHouse Doctor
-OL,5,     GHome improvement series. Alistair
-OL,6,     GAppleton and Californian interior
-OL,7,     Gdesigner Ann Maurice work their
-OL,8,     Gmagic in Warrington, Cheshire,
-OL,9,     Gwhere Cath can't sell her house.
-OL,10,G0530FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the world,
-OL,13,     Gfocusing on celebrities, movies,
-OL,14,     Gmusic and entertainment.
-OL,15,G0540FFireman Sam
-OL,16,     GWhen Sarah hears the legend of
-OL,17,     Gthe Pontypandyness Monster, she
-OL,18,     Gpretends to have seen it in order
-OL,19,     Gto boost visitors to the
-OL,20,     Gmountains on her granddad
-OL,21,     GGareth's train
+OL,3,CProgramme listings for SAT 20 APR
+OL,4,G0610FDora the Explorer
+OL,5,     GWith her brave dog at her side,
+OL,6,     GDora races on her scooter to the
+OL,7,     GBig River so they can rescue
+OL,8,     GBoots.
+OL,9,G0630FThomas and Friends: Thrills and
+OL,10,     FSpills
+OL,11,     GBill and Ben tease Harvey the
+OL,12,     Gcrane engine for having a hook,
+OL,13,     Gasking him 'is he going fishing?'
+OL,14,     GPorter tries to help Harvey see
+OL,15,     Gthe positive.
+OL,16,G0640FFireman Sam
+OL,17,     GMandy decides to make a movie.
+OL,18,     GSarah is so convincing at
+OL,19,     Gscreaming for help that Charlie
+OL,20,     Grushes to her rescue!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
