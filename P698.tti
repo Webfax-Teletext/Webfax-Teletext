@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713864681
+OL,0,        ECIMSBWebfax     F698A1713868292
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713864681
+OL,0,        ECIMSBWebfax     F698A1713868292
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,36 +44,32 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713864681
+OL,0,        ECIMSBWebfax     F698A1713868292
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 23 APR
-OL,4,G0930FMorning Live
-OL,5,     GJoin Gethin Jones, Helen Skelton,
-OL,6,     GMichelle Ackerley and the team
-OL,7,     Gfor conversation, advice and tips
-OL,8,     Gto make your day that little bit
-OL,9,     Geasier.
-OL,10,G1045FBig Little Crimes
-OL,11,     GA seemingly accidental house fire
-OL,12,     Gleads detectives to snare a
-OL,13,     Gkiller. And a van pulled over for
-OL,14,     Ghaving a cracked windscreen turns
-OL,15,     Gout to contain a massive cannabis
-OL,16,     Gstash.
-OL,17,G1115FHomes Under the Hammer
-OL,18,     GWhere else but London?! A one-
-OL,19,     Gbedroom flat has a potential
-OL,20,     Gvalue of one million pounds, as
-OL,21,     Glong as it's renovated properly.
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GWhere else but London?! A one-
+OL,6,     Gbedroom flat has a potential
+OL,7,     Gvalue of one million pounds, as
+OL,8,     Glong as it's renovated properly.
+OL,9,G1215FBargain Hunt
+OL,10,     GCaroline Hawley and the teams
+OL,11,     Gshop for antiques in Kent with
+OL,12,     Gexperts Nick Hall and Tim Weeks.
+OL,13,     GCaroline also visits Bekonscot,
+OL,14,     Gthe oldest model village in the
+OL,15,     Gworld.
+OL,16,G1300FBBC News
+OL,17,G1330FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713864681
+OL,0,        ECIMSBWebfax     F698A1713868292
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -101,7 +97,7 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713864681
+OL,0,        ECIMSBWebfax     F698A1713868292
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -124,49 +120,53 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713864681
+OL,0,        ECIMSBWebfax     F698A1713868292
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 23 APR
-OL,4,G1030FFrasier
-OL,5,     GThe Seal Who Came to Dinner:
-OL,6,     GWhile hosting a dinner party for
-OL,7,     GThe Gourmet Society at Maris's
-OL,8,     Gbeach house, Frasier and Niles
-OL,9,     Ghave to deal with a smelly,
-OL,10,     Gwashed-up seal carcass.
-OL,11,G1100FWork on the Wild Side
-OL,12,     GVets and volunteers rescue and
-OL,13,     Grehabilitate animals in South
-OL,14,     GAfrica. Annie and Will move an
-OL,15,     Ginfamous pride of lions, and
-OL,16,     GJosie introduces some blind
-OL,17,     Gmonkeys to their new home.
-OL,18,G1200FChannel 4 News Summary
-OL,19,     GChannel 4's midday news summary.
+OL,4,G1100FWork on the Wild Side
+OL,5,     GVets and volunteers rescue and
+OL,6,     Grehabilitate animals in South
+OL,7,     GAfrica. Annie and Will move an
+OL,8,     Ginfamous pride of lions, and
+OL,9,     GJosie introduces some blind
+OL,10,     Gmonkeys to their new home.
+OL,11,G1200FChannel 4 News Summary
+OL,12,     GChannel 4's midday news summary.
+OL,13,G1205FSun, Sea and Selling Houses
+OL,14,     GIn Alicante, the Rodriguez
+OL,15,     Gsisters search with hustle-and-
+OL,16,     Gbustle-loving Emma and Elwyn,
+OL,17,     Gwhile the Garners help Lee and
+OL,18,     GTony find their first home
+OL,19,     Gtogether in Almeria.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,26,@{D@Wrt
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713864681
+OL,0,        ECIMSBWebfax     F698A1713868292
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 23 APR
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss the
-OL,6,     Glatest news and get your views
-OL,7,     Gand opinions of the day.
-OL,8,G1115FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories of
-OL,12,     Gthe day.
-OL,13,G1245FFriends
-OL,14,     GA bored Ross creates havoc in
-OL,15,     GJoey and Chandler's lives, whilst
-OL,16,     GRachel is disturbed by her date's
-OL,17,     Ginappropriate relationship with
-OL,18,     Ghis sister.
+OL,4,G1115FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories of
+OL,8,     Gthe day.
+OL,9,G1245FFriends
+OL,10,     GA bored Ross creates havoc in
+OL,11,     GJoey and Chandler's lives, whilst
+OL,12,     GRachel is disturbed by her date's
+OL,13,     Ginappropriate relationship with
+OL,14,     Ghis sister.
+OL,15,G1310FFriends
+OL,16,     GThe gang make a series of New
+OL,17,     GYear's resolutions and then find
+OL,18,     Git extremely difficult to keep
+OL,19,     Gthem.
+OL,20,G1340F5 News at Lunchtime
+OL,21,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
