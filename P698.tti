@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713966185
+OL,0,        ECIMSBWebfax     F698A1713969826
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713966185
+OL,0,        ECIMSBWebfax     F698A1713969826
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,31 +44,34 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713966185
+OL,0,        ECIMSBWebfax     F698A1713969826
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 24 APR
-OL,4,G1415FMoney for Nothing
-OL,5,     GJJ Chalmers rescues a white
-OL,6,     Gdinner service, bookcase and
-OL,7,     Grocking horse from the skips.
-OL,8,G1500FEscape to the Country
-OL,9,     GSteve Brown helps a London
-OL,10,     Gcouple, with #425,000 to spend,
-OL,11,     Gfind a new home and less hectic
-OL,12,     Glifestyle in Yorkshire.
-OL,13,G1545FThe Bidding Room
-OL,14,     GAirline seats, a rickshaw and a
-OL,15,     Gspinning top turn heads in the
-OL,16,     GBidding Room.
+OL,4,G1500FEscape to the Country
+OL,5,     GSteve Brown helps a London
+OL,6,     Gcouple, with #425,000 to spend,
+OL,7,     Gfind a new home and less hectic
+OL,8,     Glifestyle in Yorkshire.
+OL,9,G1545FThe Bidding Room
+OL,10,     GAirline seats, a rickshaw and a
+OL,11,     Gspinning top turn heads in the
+OL,12,     GBidding Room.
+OL,13,G1630FBridge of Lies
+OL,14,     GRoss Kemp presents the quiz show
+OL,15,     Gwhere a team of four take on the
+OL,16,     GBridge of Lies. One by one, they
+OL,17,     Gmust cross the bridge, stepping
+OL,18,     Gon the truths and avoiding the
+OL,19,     Glies.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713966185
+OL,0,        ECIMSBWebfax     F698A1713969826
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -96,58 +99,59 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713966185
+OL,0,        ECIMSBWebfax     F698A1713969826
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 24 APR
-OL,4,G1400FRiddiculous
-OL,5,     GRanvir Singh hosts the quiz where
-OL,6,     Gcontestants take on the
-OL,7,     GRiddlemaster in a bid to solve
-OL,8,     Ghis riddles - how will James and
-OL,9,     GSharron, Patricia and Mica, and
-OL,10,     GKira and Rhiannon cope?
-OL,11,G1500FWinning Combination
-OL,12,     GQuiz show hosted by Omid Djalili.
-OL,13,     GWhich of this edition's nine
-OL,14,     Gcompetitors - Kim, Andrew,
-OL,15,     GNatasha, Stephen, Colin, Sarah,
-OL,16,     GPepita, Deb and Niraj - will make
-OL,17,     Git to the final?
-OL,18,G1600FTipping Point
-OL,19,     GBen Shephard hosts the quiz show
-OL,20,     Gin which four players take on an
-OL,21,     Gextraordinary machine in the hope
-OL,22,     Gof winning a cash jackpot.
+OL,4,G1500FWinning Combination
+OL,5,     GQuiz show hosted by Omid Djalili.
+OL,6,     GWhich of this edition's nine
+OL,7,     Gcompetitors - Kim, Andrew,
+OL,8,     GNatasha, Stephen, Colin, Sarah,
+OL,9,     GPepita, Deb and Niraj - will make
+OL,10,     Git to the final?
+OL,11,G1600FTipping Point
+OL,12,     GBen Shephard hosts the quiz show
+OL,13,     Gin which four players take on an
+OL,14,     Gextraordinary machine in the hope
+OL,15,     Gof winning a cash jackpot.
+OL,16,G1700FThe Chase
+OL,17,     GBradley Walsh hosts as Alex from
+OL,18,     GDudley, Michele from Wakefield,
+OL,19,     GNicky from Bournemouth and Joe
+OL,20,     Gfrom London work together as a
+OL,21,     Gteam to face one of the country's
+OL,22,     Gfinest quiz brains.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713966185
+OL,0,        ECIMSBWebfax     F698A1713969826
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 24 APR
-OL,4,G1410FCountdown
-OL,5,     GColin Murray and Rachel Riley
-OL,6,     Ghost as contestants race against
-OL,7,     Gthe clock to pit their wits
-OL,8,     Gagainst vowels, consonants and
-OL,9,     Gnumbers. Les Dennis joins Susie
-OL,10,     GDent in Dictionary Corner.
-OL,11,G1500FA Place in the Sun
-OL,12,     GMotorbike lovers Carol and Mark
-OL,13,     Gdream of owning a holiday home in
-OL,14,     GEl Campello on the Costa Blanca.
-OL,15,     GWith a budget of #130k, will any
-OL,16,     Gof Laura Hamilton's properties
-OL,17,     Gget them revved up?
+OL,4,G1500FA Place in the Sun
+OL,5,     GMotorbike lovers Carol and Mark
+OL,6,     Gdream of owning a holiday home in
+OL,7,     GEl Campello on the Costa Blanca.
+OL,8,     GWith a budget of #130k, will any
+OL,9,     Gof Laura Hamilton's properties
+OL,10,     Gget them revved up?
+OL,11,G1600FA New Life in the Sun
+OL,12,     GA B&B owner swaps Brighton for
+OL,13,     Gthe Costa del Sol, stormy weather
+OL,14,     Ghalts a couple's gite renovations
+OL,15,     Gin France, and a new idea gets
+OL,16,     Goff to a bumpy start on an
+OL,17,     Gorganic farm in Italy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,26,@vD@Xst
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1713966185
+OL,0,        ECIMSBWebfax     F698A1713969826
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
