@@ -1,19 +1,45 @@
-PN,39900
-SC,0000
+PN,39901
+SC,0001
 CT,2,C
-PS,8000
-OL,0,        ECIMSBWebfax     F399A1714065714
+PS,c000
+OL,0,        ECIMSBWebfax     F399A1714069327
 OL,3,CYour Granada Weather Forecast
 OL,5,FHere's your latest weather forecast
 OL,6,Ffor NW England and the Isle of Man
-OL,7,Fwith Jo Blythe
-OL,9,FOutlook for Thursday to Saturday:
-OL,11,FLargely dry to start with sunny spells
-OL,12,Fand the odd shower. Showers becoming
-OL,13,Fmore widespread through Friday and
-OL,14,Finto Saturday. Temperatures generally
-OL,15,Fat or below average with chilly nights.
-OL,1,W{$~k4{$k4~sjw=
+OL,7,Fwith Tori Lacey
+OL,9,FClearing skies with patchy frost
+OL,10,Ftonight.JTonight:
+OL,12,FAny showers fading away, leaving some
+OL,13,Flate evening sunshine. Dry overnight
+OL,14,Fwith clear periods and turning cold
+OL,15,Fwith a slight frost in the countryside
+OL,16,Fand a few fog patches. Minimum
+OL,17,Ftemperature 2 C.JFriday:
+OL,26,@yD@OOX
+OL,1,W{$~k4{$k4~sjw=                 G1/2
+OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
+OL,23,Tppppppppppppppppppppppppppppppppppppppp
+FL,400,398,8ff,8ff,8ff,8ff
+PN,39902
+SC,0002
+CT,2,C
+PS,c000
+OL,0,        ECIMSBWebfax     F399A1714069327
+OL,3,CYour Granada Weather Forecast
+OL,5,FDry, chilly and mostly sunny to start.
+OL,6,FCloud bubbling up with a scattering of
+OL,7,Fshowers developing but many places
+OL,8,Fremaining dry. Light winds but still
+OL,9,Ffeeling rather cool. Maximum
+OL,10,Ftemperature 10 C.JOutlook for
+OL,11,FSaturday to Monday:
+OL,13,FCloudy but mainly dry on Saturday,
+OL,14,Fthen breezier on Sunday and wet with
+OL,15,Fthe chance of some heavy rain at
+OL,16,Ftimes. Drier and brighter on Monday.
+OL,17,FRather cool for late April.
+OL,26,@rD@POX
+OL,1,W{$~k4{$k4~sjw=                 G2/2
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 FL,400,398,8ff,8ff,8ff,8ff
