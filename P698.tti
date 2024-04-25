@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714083779
+OL,0,        ECIMSBWebfax     F698A1714087387
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714083779
+OL,0,        ECIMSBWebfax     F698A1714087387
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,80 +44,72 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714083779
+OL,0,        ECIMSBWebfax     F698A1714087387
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 25 APR
-OL,4,G2240FQuestion Time
-OL,5,     GFiona Bruce presents topical
-OL,6,     Gdebate from Tottenham in north
-OL,7,     GLondon. On the panel are Chris
-OL,8,     GPhilp MP, Wes Streeting MP,
-OL,9,     GMunira Wilson MP, Victor
-OL,10,     GAdebowale and Charles Moore.
-OL,11,G2340FNewscast
-OL,12,     GLighthearted discussion of the
-OL,13,     Gweek's political events.
-OL,14,G0010FWeather for the Week Ahead
-OL,15,G0015FBBC News
+OL,4,G0015FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714083779
+OL,0,        ECIMSBWebfax     F698A1714087387
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 25 APR
-OL,4,G2315FSnooker: World Championship
-OL,5,     FHighlights
-OL,6,     GHighlights from the sixth day of
-OL,7,     Gthe World Snooker Championship in
-OL,8,     GSheffield.
-OL,9,G0005FSnooker: World Championship Extra
-OL,10,     GFurther coverage of the sixth day
-OL,11,     Gof the World Snooker Championship
-OL,12,     Gin Sheffield.
-OL,13,G0205FBeyond Paradise
-OL,14,     GOn a moor outside of Shipton
-OL,15,     GAbbott, a woman is found with an
-OL,16,     Garrow in her back and no sign of
-OL,17,     Gwho might have shot her.
+OL,4,G0005FSnooker: World Championship Extra
+OL,5,     GFurther coverage of the sixth day
+OL,6,     Gof the World Snooker Championship
+OL,7,     Gin Sheffield.
+OL,8,G0205FBeyond Paradise
+OL,9,     GOn a moor outside of Shipton
+OL,10,     GAbbott, a woman is found with an
+OL,11,     Garrow in her back and no sign of
+OL,12,     Gwho might have shot her.
+OL,13,G0305FSaving Lives at Sea
+OL,14,     GIn Castletownbere, crew member
+OL,15,     GDonagh faces a baptism of fire on
+OL,16,     Ghis first shout as the crew carry
+OL,17,     Gout a dramatic rescue of a
+OL,18,     Gfisherman who has suffered a
+OL,19,     Gsuspected stroke.
+OL,20,G0405FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714083779
+OL,0,        ECIMSBWebfax     F698A1714087387
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 25 APR
-OL,4,G2245FThe Twelve
-OL,5,     GDrama series exploring the lives
-OL,6,     Gand loves of 12 ordinary citizens
-OL,7,     Gat a murder trial. Claire's
-OL,8,     Gmother Diane takes the stand and
-OL,9,     Gthrows suspicion onto Nathan in
-OL,10,     Gsupport of Kate.
-OL,11,G2345FGlitter: The Popstar Paedophile
-OL,12,     GThis film explores the dual life
-OL,13,     Gof the iconic performer and
-OL,14,     Gpredatory abuser Gary Glitter and
-OL,15,     Gdocuments his global crimes and
-OL,16,     Gthe failures to bring him to
-OL,17,     Gjustice.
-OL,18,G0055FShop on TV
-OL,19,     GTeleshopping.
+OL,4,G2345FGlitter: The Popstar Paedophile
+OL,5,     GThis film explores the dual life
+OL,6,     Gof the iconic performer and
+OL,7,     Gpredatory abuser Gary Glitter and
+OL,8,     Gdocuments his global crimes and
+OL,9,     Gthe failures to bring him to
+OL,10,     Gjustice.
+OL,11,G0055FShop on TV
+OL,12,     GTeleshopping.
+OL,13,G0300FThe Twelve
+OL,14,     GDrama series exploring the lives
+OL,15,     Gand loves of 12 ordinary citizens
+OL,16,     Gat a murder trial. Claire's
+OL,17,     Gmother Diane takes the stand and
+OL,18,     Gthrows suspicion onto Nathan in
+OL,19,     Gsupport of Kate.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714083779
+OL,0,        ECIMSBWebfax     F698A1714087387
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -139,24 +131,24 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714083779
+OL,0,        ECIMSBWebfax     F698A1714087387
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 25 APR
-OL,4,G2305FMaking a Serial Killer
-OL,5,     GWhen Willie Inmon visited an
-OL,6,     GArizona police station to make a
-OL,7,     Gcomplaint about harassment from
-OL,8,     Gcops, the events that follow
-OL,9,     Greveal him as America's youngest
-OL,10,     Gserial killer.
-OL,11,G0005FMotorway Cops: Catching Britain's
-OL,12,     FSpeeders
-OL,13,     GPC Matt is attempting to stop a
-OL,14,     Gvehicle with links to drug
-OL,15,     Gdealing in Macclesfield. The
-OL,16,     Gsuspect is being cooperative, but
-OL,17,     Ga search reveals he has more to
-OL,18,     Ghide.
+OL,4,G0005FMotorway Cops: Catching Britain's
+OL,5,     FSpeeders
+OL,6,     GPC Matt is attempting to stop a
+OL,7,     Gvehicle with links to drug
+OL,8,     Gdealing in Macclesfield. The
+OL,9,     Gsuspect is being cooperative, but
+OL,10,     Ga search reveals he has more to
+OL,11,     Ghide.
+OL,12,G0100FPlayOJO Live Casino Show
+OL,13,     GRed or black? Odds or evens?
+OL,14,     GWhichever way you play, get that
+OL,15,     GOJO feeling with two hours of
+OL,16,     Gexciting live roulette every
+OL,17,     Gsingle night! Take us for a spin
+OL,18,     Gand feel the fun at playojo.com.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
