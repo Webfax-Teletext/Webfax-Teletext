@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714279682
+OL,0,        ECIMSBWebfax     F698A1714283289
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714279682
+OL,0,        ECIMSBWebfax     F698A1714283289
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,77 +44,138 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714279682
+OL,0,        ECIMSBWebfax     F698A1714283289
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 27 APR
-OL,4,G0125FBBC News
+OL,3,CProgramme listings for SUN 28 APR
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0730FMatch of the Day
+OL,9,     GGary Lineker introduces
+OL,10,     Ghighlights of the day's seven
+OL,11,     GPremier League matches, including
+OL,12,     Gtitle-chasing Liverpool's game
+OL,13,     Gaway to West Ham.
+OL,14,G0900FSunday with Laura Kuenssberg
+OL,15,     GLaura Kuenssberg is joined by
+OL,16,     GHome Office minister Chris Philp
+OL,17,     GMP, shadow Health secretary Wes
+OL,18,     GStreeting MP and former speaker
+OL,19,     Gof the US House of
+OL,20,     GRepresentatives Nancy Pelosi.
+OL,21,G1000FRegional Political Programmes
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714279682
+OL,0,        ECIMSBWebfax     F698A1714283289
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 27 APR
-OL,4,G0325FThis is BBC Two
+OL,3,CProgramme listings for SUN 28 APR
+OL,4,G0635FCountryfile
+OL,5,     GFrom the blooming gardens of RHS
+OL,6,     GWisley in Surrey, Hamza Yassin
+OL,7,     Gand Sammi Kinghorn celebrate one
+OL,8,     Gof nature's heroes - the not-so-
+OL,9,     Ghumble bee!
+OL,10,G0730FBreakfast
+OL,11,     GThe latest news, sport, business
+OL,12,     Gand weather from the BBC's
+OL,13,     GBreakfast team.
+OL,14,G0900FBeechgrove Garden
+OL,15,     GKirsty Wilson and Calum Clunie
+OL,16,     Gare busy tackling spring jobs,
+OL,17,     Gincluding a revamp of the roses
+OL,18,     Gin the picket fence garden.
+OL,19,G0930FLandward
+OL,20,     GDougie is on Loch Lomond for a
+OL,21,     Gspecial episode about Scotland's
+OL,22,     Gnational parks.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714279682
+OL,0,        ECIMSBWebfax     F698A1714283289
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 27 APR
-OL,4,G0505FPrue Leith's Cotswold Kitchen
-OL,5,     GLaura Jackson: Prue Leith is
-OL,6,     Gjoined in her Cotswold Kitchen by
-OL,7,     Gbroadcaster Laura Jackson - who
-OL,8,     Greveals her family's favourite
-OL,9,     Gdish - and has a handy hack to
-OL,10,     Gstop sugar going hard.
+OL,3,CProgramme listings for SUN 28 APR
+OL,4,G0600FJames Martin's Spanish Adventure
+OL,5,     GCordoba: James tours Cordoba on
+OL,6,     Gan eco tuk tuk as he visits a
+OL,7,     Gfood market, eats oxtail at a
+OL,8,     GMichelin-starred restaurant, and
+OL,9,     Ghelps judge a salmorejo
+OL,10,     Gcompetition.
+OL,11,G0650FCloudy with a Chance of Meatballs
+OL,12,     F2
+OL,13,     GAnimated adventure comedy film
+OL,14,     Gsequel featuring the voices of
+OL,15,     GBill Hader and Anna Faris, 2013.
+OL,16,     GFlint learns that his most
+OL,17,     Ginfamous invention is still
+OL,18,     Goperational.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714279682
+OL,0,        ECIMSBWebfax     F698A1714283289
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 27 APR
-OL,4,G0400FHollyoaks Omnibus
-OL,5,     GGrace Black is back! Meanwhile,
-OL,6,     GDarren puts his daughter first,
-OL,7,     GKitty's past catches up with her,
-OL,8,     GFreddie's love life lands him in
-OL,9,     Gtrouble, and John Paul questions
-OL,10,     GLucas' homophobic views.
+OL,3,CProgramme listings for SUN 28 APR
+OL,4,G0645FEverybody Loves Raymond
+OL,5,     GMia Famiglia: Ray's oldest living
+OL,6,     Grelative, his great aunt Sarina,
+OL,7,     Gturns up from Italy to help Ally
+OL,8,     Gwith a school project about
+OL,9,     Gfamily trees.
+OL,10,G0710FEverybody Loves Raymond
+OL,11,     GMarie's Meatballs: Ray asks Marie
+OL,12,     Gto teach Debra how to make her
+OL,13,     Gfamous meatballs, to cure his
+OL,14,     Gwife's culinary inferiority
+OL,15,     Gcomplex. But Ray's plan has
+OL,16,     Gconsequences...
+OL,17,G0735FEverybody Loves Raymond
+OL,18,     GThe Checkbook: Ray runs into
+OL,19,     Gmoney trouble when he takes over
+OL,20,     Gthe family finances to show Debra
+OL,21,     Ghow easy it is.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714279682
+OL,0,        ECIMSBWebfax     F698A1714283289
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 27 APR
-OL,4,G0540FFireman Sam
-OL,5,     GIn order to get out of cleaning
-OL,6,     GMike's muddy van, naughty Norman
-OL,7,     Glocks everyone out on the
-OL,8,     Glighthouse balcony so they won't
-OL,9,     Gget back until late.
-OL,10,G0550FPip and Posy
-OL,11,     GPip and Posy are playing against
-OL,12,     GFrankie and Zac in a football
-OL,13,     Gmatch. Posy is so focussed on
-OL,14,     Gwinning the trophy that she
-OL,15,     Gbecomes a bad sport.
+OL,3,CProgramme listings for SUN 28 APR
+OL,4,G0630FDora the Explorer
+OL,5,     GDora and Boots put on their
+OL,6,     Groller skates and take off on a
+OL,7,     Gskating adventure to stand up to
+OL,8,     Ga bully named Big Wheeler and
+OL,9,     Gopen Skate Park for everyone.
+OL,10,G0650FChip and Potato
+OL,11,     GChip finds out Grandma and Gordie
+OL,12,     Gare getting married and she
+OL,13,     Gpromises to keep the engagement
+OL,14,     Gring secret until it's time for
+OL,15,     Gthe couple to make their big
+OL,16,     Gannouncement.
+OL,17,G0705FPip and Posy
+OL,18,     GPip wants Posy to go to the park
+OL,19,     Gto meet their friends, but she
+OL,20,     Gwants to stay home and have a
+OL,21,     G'pyjama day'. Will Pip persuade
+OL,22,     GPosy to come to the park?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
