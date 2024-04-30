@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714453013
+OL,0,        ECIMSBWebfax     F698A1714456621
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714453013
+OL,0,        ECIMSBWebfax     F698A1714456621
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,69 +44,132 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714453013
+OL,0,        ECIMSBWebfax     F698A1714456621
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 29 APR
-OL,4,G0130FBBC News
+OL,3,CProgramme listings for TUE 30 APR
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FMorning Live
+OL,9,     GJoin Gethin Jones, Helen Skelton,
+OL,10,     GMichelle Ackerley and the team
+OL,11,     Gfor conversation, advice and tips
+OL,12,     Gto make your day that little bit
+OL,13,     Geasier.
+OL,14,G1045FBig Little Crimes
+OL,15,     GA copper's instinct leads to
+OL,16,     Garmed robbers being caught in the
+OL,17,     Gact, and a dangerous driver turns
+OL,18,     Gout to be a big-time drug dealer.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714453013
+OL,0,        ECIMSBWebfax     F698A1714456621
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 29 APR
-OL,4,G0430FThis is BBC Two
+OL,3,CProgramme listings for TUE 30 APR
+OL,4,G0630FBargain Hunt
+OL,5,     GStephanie Connell helps the reds
+OL,6,     Gtackle their military challenge,
+OL,7,     Gwhile John Cameron and the blues
+OL,8,     Ghunt for an item with a
+OL,9,     Gconnection to music or drama.
+OL,10,G0715FGarden Rescue
+OL,11,     GCharlie and Chris are in Port
+OL,12,     GSunlight to transform Emma and
+OL,13,     GNathan's scruffy cottage garden
+OL,14,     Ginto a Balinese paradise.
+OL,15,G0800FMasterChef
+OL,16,     GIt's the last chance for
+OL,17,     GMasterChef novices to enter the
+OL,18,     Garena as six new amateurs give
+OL,19,     Gtheir all to win the right to
+OL,20,     Gwear a gleaming apron.
+OL,21,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714453013
+OL,0,        ECIMSBWebfax     F698A1714456621
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 29 APR
-OL,4,G0530FMade in Britain
-OL,5,     GBombay Sapphire and Ghillie
-OL,6,     GKettle: Go behind the scenes at
-OL,7,     Gthe Bombay Sapphire gin
-OL,8,     Gdistillery, then discover how the
-OL,9,     Gingenious design of the Ghillie
-OL,10,     GKettle works while outdoors.
+OL,3,CProgramme listings for TUE 30 APR
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GKatherine Ryan and Joe Wilkinson
+OL,9,     Gjoin Lorraine to talk about their
+OL,10,     Galternative travel show Joe and
+OL,11,     GKatherine's Budget Holidays.
+OL,12,     GPlus, Jill Scott joins us ahead
+OL,13,     Gof Soccer Aid.
+OL,14,G1000FThis Morning
+OL,15,     GMagazine show with news and
+OL,16,     Gtopical items, celebrity guests,
+OL,17,     Gexpert advice, real-life stories,
+OL,18,     Gcompetitions and a mix of
+OL,19,     Gcookery, health, beauty,
+OL,20,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714453013
+OL,0,        ECIMSBWebfax     F698A1714456621
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 29 APR
-OL,4,G0550FKirstie's House of Craft
-OL,5,     GKirstie Allsopp shows us how to
-OL,6,     Gcreate beautiful crafts with
-OL,7,     Gitems we already own. In this
-OL,8,     Gepisode, Kirstie turns trash into
-OL,9,     Gtreasure with Mexican tin art,
-OL,10,     Gsoap recycling and a tin can dog.
+OL,3,CProgramme listings for TUE 30 APR
+OL,4,G0650F3rd Rock from the Sun
+OL,5,     GDickmalion: Mary Albright is
+OL,6,     Girked when the cream of
+OL,7,     GRutherford society don't accept
+OL,8,     Gher. But when Dick makes the cut,
+OL,9,     Ghe discovers the high life isn't
+OL,10,     Gall it's cracked up to be.
+OL,11,G0715F3rd Rock from the Sun
+OL,12,     GSensitive Dick: Dick is forced to
+OL,13,     Gtake special training after he
+OL,14,     Gcomes down too hard on his
+OL,15,     Gstudents and they complain about
+OL,16,     Ghim. Harry escorts Vicki to her
+OL,17,     Ghigh school reunion.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714453013
+OL,0,        ECIMSBWebfax     F698A1714456621
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 29 APR
-OL,4,G0550FFireman Sam
-OL,5,     GMandy offers to babysit Lily when
-OL,6,     GHelen Flood invites Mrs Chen and
-OL,7,     GPenny over for a girls' night in.
+OL,3,CProgramme listings for TUE 30 APR
+OL,4,G0655FThomas & Friends: All...
+OL,5,     GEngines Go! When Percy's lucky
+OL,6,     Gbell goes missing after his
+OL,7,     Gdeliveries, he enlists Thomas to
+OL,8,     Gembark on a quest to solve who
+OL,9,     Ghas "stolen" his prized
+OL,10,     Gpossession.
+OL,11,G0705FPeppa Pig
+OL,12,     GPeppa and her family take a
+OL,13,     Gpoorly swift to the vet's. After
+OL,14,     Ga night of rest, the swift
+OL,15,     Grecovers and Doctor Hamster
+OL,16,     Greleases it so it can fly around
+OL,17,     Gthe world again.
+OL,18,G0710FPeppa Pig
+OL,19,     GA new synthesiser arrives for
+OL,20,     GDaddy Pig, and his family collect
+OL,21,     Gsounds for it from around the
+OL,22,     Ghouse while he is out at work.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
