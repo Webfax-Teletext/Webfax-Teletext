@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714481905
+OL,0,        ECIMSBWebfax     F698A1714485512
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714481905
+OL,0,        ECIMSBWebfax     F698A1714485512
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,32 +44,36 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714481905
+OL,0,        ECIMSBWebfax     F698A1714485512
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 30 APR
-OL,4,G1345FDoctors
-OL,5,     GThe partners have a crisis
-OL,6,     Gmeeting, and Paige's couture
-OL,7,     Gcauses problems at The Mill. Sid
-OL,8,     Gtreats a former homeless patient
-OL,9,     Gwho is struggling to adapt to
-OL,10,     Glife off the street.
-OL,11,G1415FMoney for Nothing
-OL,12,     GWhat is boxy, brown and sounds
-OL,13,     Gamazing? Audio engineer Mark
-OL,14,     G'Horse' Phillips tries to turn a
-OL,15,     Gkitchen cabinet into a banging
-OL,16,     GBluetooth speaker -but will it be
-OL,17,     Ga smash hit?
+OL,4,G1415FMoney for Nothing
+OL,5,     GWhat is boxy, brown and sounds
+OL,6,     Gamazing? Audio engineer Mark
+OL,7,     G'Horse' Phillips tries to turn a
+OL,8,     Gkitchen cabinet into a banging
+OL,9,     GBluetooth speaker -but will it be
+OL,10,     Ga smash hit?
+OL,11,G1500FEscape to the Country
+OL,12,     GJules Hudson explores one of the
+OL,13,     GUK's most beautiful locations
+OL,14,     Gtoday as he sets about finding
+OL,15,     Gthe ideal Wye Valley property for
+OL,16,     Ghis house hunters.
+OL,17,G1545FGarden Rescue
+OL,18,     GCharlie and Lee are in Cwybran to
+OL,19,     Gcreate a relaxed, free-flowing
+OL,20,     Ggarden to celebrate Jane's all-
+OL,21,     Gclear from cancer.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714481905
+OL,0,        ECIMSBWebfax     F698A1714485512
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -98,68 +102,77 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714481905
+OL,0,        ECIMSBWebfax     F698A1714485512
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 30 APR
-OL,4,G1355FRegional News
-OL,5,G1400FRiddiculous
-OL,6,     GRanvir Singh hosts the quiz where
-OL,7,     Gcontestants take on the
-OL,8,     GRiddlemaster in a bid to solve
-OL,9,     Ghis riddles - how will Catherine
-OL,10,     Gand Emily, Harpreet and Isaac,
-OL,11,     Gand Scarlett and Megan do?
-OL,12,G1500FWinning Combination
-OL,13,     GQuiz show hosted by Omid Djalili.
-OL,14,     GKane, George, Martin, Vanda, Ali,
-OL,15,     GSandra, Olly, Dave and Andrew try
-OL,16,     Gto get themselves and their
-OL,17,     Gnumber through to the final and
-OL,18,     Gwin a prize pot.
+OL,4,G1400FRiddiculous
+OL,5,     GRanvir Singh hosts the quiz where
+OL,6,     Gcontestants take on the
+OL,7,     GRiddlemaster in a bid to solve
+OL,8,     Ghis riddles - how will Catherine
+OL,9,     Gand Emily, Harpreet and Isaac,
+OL,10,     Gand Scarlett and Megan do?
+OL,11,G1500FWinning Combination
+OL,12,     GQuiz show hosted by Omid Djalili.
+OL,13,     GKane, George, Martin, Vanda, Ali,
+OL,14,     GSandra, Olly, Dave and Andrew try
+OL,15,     Gto get themselves and their
+OL,16,     Gnumber through to the final and
+OL,17,     Gwin a prize pot.
+OL,18,G1600FTipping Point
+OL,19,     GBen Shephard hosts the quiz show
+OL,20,     Gin which four players take on an
+OL,21,     Gextraordinary machine in the hope
+OL,22,     Gof winning a cash jackpot.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714481905
+OL,0,        ECIMSBWebfax     F698A1714485512
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 30 APR
-OL,4,G1305FFind It, Fix It, Flog It
-OL,5,     GHenry Cole calls in a safe-
-OL,6,     Gcracker to bring a safe back from
-OL,7,     Gthe scrapheap, and a ship's wheel
-OL,8,     Gis left in splinters when Henry
-OL,9,     Gfalls out with restorer Guy.
-OL,10,G1410FCountdown
-OL,11,     GColin Murray and Rachel Riley
-OL,12,     Ghost as contestants race against
-OL,13,     Gthe clock to pit their wits
-OL,14,     Gagainst vowels, consonants and
-OL,15,     Gnumbers. John Virgo joins Susie
-OL,16,     GDent in Dictionary Corner.
+OL,4,G1410FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. John Virgo joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G1500FA Place in the Sun
+OL,12,     GThe new run continues. Martin and
+OL,13,     GMandy want to make the permanent
+OL,14,     Gmove to Mayenne in France. Can
+OL,15,     GJean Johansson find them, their
+OL,16,     Gthree motorbikes and two parrots
+OL,17,     Ga forever home for #50k?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714481905
+OL,0,        ECIMSBWebfax     F698A1714485512
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 30 APR
-OL,4,G1345FHome and Away
-OL,5,     GMackenzie fears she's been
-OL,6,     Gexposed. Remi is caught in a lie.
-OL,7,     GJustin and Leah set a date.
-OL,8,     GStevie's astonished to see Cash
-OL,9,     Garriving groceries.
-OL,10,G1415FA Husband's Revenge
-OL,11,     GThriller. Controlling husband
-OL,12,     GBrad kills his wife after she has
-OL,13,     Gan affair with colleague Kirk.
-OL,14,     GBrad then turns his attention to
-OL,15,     GKirk and his spouse, with a plan
-OL,16,     Gto destroy their marriage.
+OL,4,G1415FA Husband's Revenge
+OL,5,     GThriller. Controlling husband
+OL,6,     GBrad kills his wife after she has
+OL,7,     Gan affair with colleague Kirk.
+OL,8,     GBrad then turns his attention to
+OL,9,     GKirk and his spouse, with a plan
+OL,10,     Gto destroy their marriage.
+OL,11,G1600FBargain-Loving Brits in the Sun
+OL,12,     GFurniture store owner Haley faces
+OL,13,     Gher biggest job this year: a
+OL,14,     Gclient who wants her to furnish
+OL,15,     Gtheir villa. To add to the
+OL,16,     Gpressure, her dad is left in
+OL,17,     Gcharge of the shop.
+OL,18,G1700F5 News at 5
+OL,19,     GJoin Dan Walker and the team for
+OL,20,     Gthe news that matters to you.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
