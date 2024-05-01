@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714564963
+OL,0,        ECIMSBWebfax     F698A1714568573
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714564963
+OL,0,        ECIMSBWebfax     F698A1714568573
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,31 +44,36 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714564963
+OL,0,        ECIMSBWebfax     F698A1714568573
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 1 MAY
-OL,4,G1300FBBC News
-OL,5,G1330FRegional News
-OL,6,G1345FDoctors
-OL,7,     GZara reels when Sid confronts her
-OL,8,     Gabout how she spoke to Paige, and
-OL,9,     GSuni has an interesting lunch
-OL,10,     Gdate. Rob plays cupid for two
-OL,11,     Gpensioner activists who have
-OL,12,     Gdrifted apart.
-OL,13,G1415FMoney for Nothing
-OL,14,     GSarah Moore rescues a dining
-OL,15,     Gtable, some wood logs and
-OL,16,     Gflatpack drawers from the skips.
+OL,4,G1345FDoctors
+OL,5,     GZara reels when Sid confronts her
+OL,6,     Gabout how she spoke to Paige, and
+OL,7,     GSuni has an interesting lunch
+OL,8,     Gdate. Rob plays cupid for two
+OL,9,     Gpensioner activists who have
+OL,10,     Gdrifted apart.
+OL,11,G1415FMoney for Nothing
+OL,12,     GSarah Moore rescues a dining
+OL,13,     Gtable, some wood logs and
+OL,14,     Gflatpack drawers from the skips.
+OL,15,G1500FEscape to the Country
+OL,16,     GSonali Shah tours Lincolnshire
+OL,17,     Gwith a couple looking to relocate
+OL,18,     Gthere from Scotland, showing them
+OL,19,     Gthe very best property the county
+OL,20,     Ghas to offer for their #220,000
+OL,21,     Gbudget.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714564963
+OL,0,        ECIMSBWebfax     F698A1714568573
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -95,79 +100,84 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714564963
+OL,0,        ECIMSBWebfax     F698A1714568573
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 1 MAY
-OL,4,G1230FLoose Women
-OL,5,     GJoin the Loose Women panellists
-OL,6,     Gas they interview celebrity
-OL,7,     Gguests and discuss the day's most
-OL,8,     Gtopical issues, from current
-OL,9,     Gaffairs to celebrity gossip and
-OL,10,     Gthe latest showbiz news.
-OL,11,G1330FITV Lunchtime News
-OL,12,     GThe latest headlines from around
-OL,13,     Gthe world at lunchtime with
-OL,14,     Greports and analysis from ITV's
-OL,15,     GCorrespondents, all of which are
-OL,16,     Gfollowed by a national weather
-OL,17,     Gforecast.
-OL,18,G1355FRegional News
+OL,4,G1400FRiddiculous
+OL,5,     GRanvir Singh hosts the quiz where
+OL,6,     Gcontestants take on the
+OL,7,     GRiddlemaster in a bid to solve
+OL,8,     Ghis riddles - how will Catherine
+OL,9,     Gand Niall, Adam and Daryl, and
+OL,10,     GSally and Madison cope?
+OL,11,G1500FWinning Combination
+OL,12,     GQuiz show hosted by Omid Djalili.
+OL,13,     GAntonia, Vicky, Jeremy, Isobel,
+OL,14,     GAndrew, James, Lorraine, Neil and
+OL,15,     GAdam use their wits and numbers
+OL,16,     Gto get through to the final in
+OL,17,     Gthis edition.
+OL,18,G1600FTipping Point
+OL,19,     GBen Shephard hosts the quiz show
+OL,20,     Gin which four players take on an
+OL,21,     Gextraordinary machine in the hope
+OL,22,     Gof winning a cash jackpot.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714564963
+OL,0,        ECIMSBWebfax     F698A1714568573
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 1 MAY
-OL,4,G1205FSun, Sea and Selling Houses
-OL,5,     GThe Garners catch up with Phil
-OL,6,     Gand Sue; how have they
-OL,7,     Gtransformed their slice of
-OL,8,     Gparadise? The Rodriguezes see how
-OL,9,     GJoy and Steve's lives have
-OL,10,     Gchanged since they moved to Spain.
-OL,11,G1305FFind It, Fix It, Flog It
-OL,12,     GMax McMurdo upcycles a brass
-OL,13,     Gpropeller into a stylish table
-OL,14,     Glamp, while Henry Cole goes all
-OL,15,     GVictorian with an old pond yacht.
-OL,16,G1410FCountdown
-OL,17,     GColin Murray and Rachel Riley
-OL,18,     Ghost as contestants race against
-OL,19,     Gthe clock to pit their wits
-OL,20,     Gagainst vowels, consonants and
-OL,21,     Gnumbers. John Virgo joins Susie
-OL,22,     GDent in Dictionary Corner.
+OL,4,G1305FFind It, Fix It, Flog It
+OL,5,     GMax McMurdo upcycles a brass
+OL,6,     Gpropeller into a stylish table
+OL,7,     Glamp, while Henry Cole goes all
+OL,8,     GVictorian with an old pond yacht.
+OL,9,G1410FCountdown
+OL,10,     GColin Murray and Rachel Riley
+OL,11,     Ghost as contestants race against
+OL,12,     Gthe clock to pit their wits
+OL,13,     Gagainst vowels, consonants and
+OL,14,     Gnumbers. John Virgo joins Susie
+OL,15,     GDent in Dictionary Corner.
+OL,16,G1500FA Place in the Sun
+OL,17,     GThe new run continues. Louise's
+OL,18,     Gbest friend June has just bought
+OL,19,     Ga holiday home in La Duquesa, and
+OL,20,     Gnow Louise wants to follow suit!
+OL,21,     GBen Hillman shows her what her
+OL,22,     Gbudget of #120k can buy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1714564963
+OL,0,        ECIMSBWebfax     F698A1714568573
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 1 MAY
-OL,4,G1245FFriends
-OL,5,     GJoey's first major film role
-OL,6,     Gleads to an adventure in Las
-OL,7,     GVegas. Phoebe cannot remember why
-OL,8,     Gshe hates Ross.
-OL,9,G1310FFriends
-OL,10,     GThe gang head for Vegas to
-OL,11,     Gsupport Joey in his big movie
-OL,12,     Gbreak. However, the original plan
-OL,13,     Gundergoes a few alterations.
-OL,14,G1340F5 News at Lunchtime
-OL,15,     GNational and international news.
-OL,16,G1345FHome and Away
-OL,17,     GRemi comes clean to Bree. Alf is
-OL,18,     Gfrustrated that Tane's name has
-OL,19,     Gbeen dragged through the mud. Roo
-OL,20,     Gfinds a clue, or is it a red
-OL,21,     Gherring?
+OL,4,G1345FHome and Away
+OL,5,     GRemi comes clean to Bree. Alf is
+OL,6,     Gfrustrated that Tane's name has
+OL,7,     Gbeen dragged through the mud. Roo
+OL,8,     Gfinds a clue, or is it a red
+OL,9,     Gherring?
+OL,10,G1415FA Murder in Venice
+OL,11,     GWhen her new roommate goes
+OL,12,     Gmissing in Italy, an art student
+OL,13,     Gteams up with her eccentric aunt
+OL,14,     Gto save her friend and bring the
+OL,15,     Gkidnapper to justice.
+OL,16,G1600FBargain-Loving Brits in the Sun
+OL,17,     GNatalie has three jobs to make
+OL,18,     Gends meet, including working as a
+OL,19,     Gchildren's entertainer. And now
+OL,20,     Gshe is starting a fourth role,
+OL,21,     Gteaching kids at a local dance
+OL,22,     Gacademy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
