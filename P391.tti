@@ -2,7 +2,7 @@ PN,39101
 SC,0001
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F391A1714741909
+OL,0,        ECIMSBWebfax     F391A1714745523
 OL,3,CLocal elections 2024: What are the
 OL,4,Cresults in the North West?
 OL,6,FCounting is underway after many cast
@@ -24,7 +24,7 @@ PN,39102
 SC,0002
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F391A1714741909
+OL,0,        ECIMSBWebfax     F391A1714745523
 OL,3,CLocal elections 2024: What are the
 OL,4,Cresults in the North West?
 OL,6,FIn all but one of the 22 councils
@@ -46,7 +46,7 @@ PN,39103
 SC,0003
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F391A1714741909
+OL,0,        ECIMSBWebfax     F391A1714745523
 OL,3,CLocal elections 2024: What are the
 OL,4,Cresults in the North West?
 OL,6,FHere are all the results in full, or
@@ -66,7 +66,7 @@ PN,39104
 SC,0004
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F391A1714741909
+OL,0,        ECIMSBWebfax     F391A1714745523
 OL,3,CLocal elections 2024: What are the
 OL,4,Cresults in the North West?
 OL,6,FTameside: Labour hold
@@ -74,9 +74,9 @@ OL,8,FStockport: No overall control
 OL,10,FBlackburn with Darwen: Labour hold
 OL,12,FManchester: 1pm
 OL,14,FPreston: 1pm
-OL,16,FBurnley: 1.30pm
-OL,18,FHyndburn: 2pm
-OL,20,FKnowsley: 2pm
+OL,16,FBurnley: No overall control
+OL,18,FHyndburn: Labour gain
+OL,20,FKnowsley: Labour hold
 OL,1,W{$~k4{$k4~sjw=                 G4/6
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -85,17 +85,17 @@ PN,39105
 SC,0005
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F391A1714741909
+OL,0,        ECIMSBWebfax     F391A1714745523
 OL,3,CLocal elections 2024: What are the
 OL,4,Cresults in the North West?
-OL,6,FRossendale: 2pm
-OL,8,FRochdale: 2.30pm
-OL,10,FTrafford: 3.30pm
-OL,12,FLancashire PCC: 4pm
-OL,14,FPendle: 4pm
-OL,16,FWest Lancashire: 8pm
-OL,18,FLiverpool City Region Mayor: 12pm
-OL,20,FCheshire PCC: 3pm
+OL,6,FHalton: Labour hold
+OL,8,FRossendale: 2pm
+OL,10,FRochdale: 2.30pm
+OL,12,FTrafford: 3.30pm
+OL,14,FLancashire PCC: 4pm
+OL,16,FPendle: 4pm
+OL,18,FWest Lancashire: 8pm
+OL,20,FLiverpool City Region Mayor: 12pm
 OL,1,W{$~k4{$k4~sjw=                 G5/6
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -104,13 +104,14 @@ PN,39106
 SC,0006
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F391A1714741909
+OL,0,        ECIMSBWebfax     F391A1714745523
 OL,3,CLocal elections 2024: What are the
 OL,4,Cresults in the North West?
-OL,6,FMerseyside PCC: 3.30pm
-OL,8,FGreater Manchester Mayor: 4pm
-OL,10,FWarrington: 4pm
-OL,12,FSalford Council + Mayor: 5pm
+OL,6,FCheshire PCC: 3pm
+OL,8,FMerseyside PCC: 3.30pm
+OL,10,FGreater Manchester Mayor: 4pm
+OL,12,FWarrington: 4pm
+OL,14,FSalford Council + Mayor: 5pm
 OL,1,W{$~k4{$k4~sjw=                 G6/6
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
