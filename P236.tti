@@ -1,7 +1,7 @@
 PN,23601
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1715059682
+OL,0,        ECIMSBWebfax     F236A1715141778
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -27,7 +27,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23602
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1715059682
+OL,0,        ECIMSBWebfax     F236A1715141778
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -54,7 +54,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23603
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1715059682
+OL,0,        ECIMSBWebfax     F236A1715141778
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -79,7 +79,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23604
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1715059682
+OL,0,        ECIMSBWebfax     F236A1715141778
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -105,7 +105,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23605
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1715059682
+OL,0,        ECIMSBWebfax     F236A1715141778
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -132,7 +132,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23606
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1715059682
+OL,0,        ECIMSBWebfax     F236A1715141778
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G6/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -159,7 +159,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23607
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1715059682
+OL,0,        ECIMSBWebfax     F236A1715141778
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G7/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -176,101 +176,105 @@ OL,12,G2310FNewsday
 OL,13,     GLive from Singapore, the latest
 OL,14,     Ginternational news from the BBC.
 OL,15,G2330FHARDtalk
-OL,16,     GIn-depth interviews with the
-OL,17,     Gworld's leading politicians,
-OL,18,     Gopinion-formers and key figures
-OL,19,     Gfrom culture, business and sport.
-OL,20,G0000FNewsday
-OL,21,     GLive from Singapore, the latest
-OL,22,     Ginternational news from the BBC.
+OL,16,     GStephen Sackur speaks to
+OL,17,     GLithuania's foreign minister
+OL,18,     GGabrielius Landsbergis, who wants
+OL,19,     Gthe west to ramp-up support for
+OL,20,     GUkraine and has infuriated China
+OL,21,     Gwith his stand on Taiwan.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23608
 SC,0008
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1715059682
+OL,0,        ECIMSBWebfax     F236A1715141778
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G8/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 MAY
-OL,4,G0030FBusiness Today
-OL,5,     GBringing the latest business news
-OL,6,     Gand up-to-date informed analysis
-OL,7,     Gfrom Singapore and around the
-OL,8,     Gworld.
-OL,9,G0045FSportsday
-OL,10,     GA round-up of the day's sporting
-OL,11,     Gaction, plus talking points,
-OL,12,     Ganalysis and original journalism.
-OL,13,G0100FNewsday
-OL,14,     GLive from Singapore, the latest
-OL,15,     Ginternational news from the BBC.
-OL,16,G0130FBusiness Today
-OL,17,     GBringing the latest business news
-OL,18,     Gand up-to-date informed analysis
-OL,19,     Gfrom Singapore and around the
-OL,20,     Gworld.
+OL,4,G0000FNewsday
+OL,5,     GLive from Singapore, the latest
+OL,6,     Ginternational news from the BBC.
+OL,7,G0030FBusiness Today
+OL,8,     GBringing the latest business news
+OL,9,     Gand up-to-date informed analysis
+OL,10,     Gfrom Singapore and around the
+OL,11,     Gworld.
+OL,12,G0045FSportsday
+OL,13,     GA round-up of the day's sporting
+OL,14,     Gaction, plus talking points,
+OL,15,     Ganalysis and original journalism.
+OL,16,G0100FNewsday
+OL,17,     GLive from Singapore, the latest
+OL,18,     Ginternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23609
 SC,0009
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1715059682
+OL,0,        ECIMSBWebfax     F236A1715141778
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G9/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 MAY
-OL,4,G0145FSportsday
-OL,5,     GA round-up of the day's sporting
-OL,6,     Gaction, plus talking points,
-OL,7,     Ganalysis and original journalism.
-OL,8,G0200FBBC News
-OL,9,     GThe latest news from the BBC.
-OL,10,G0230FBusiness Today
-OL,11,     GBusiness Today. Bringing the
-OL,12,     Glatest business news and up-to-
-OL,13,     Gdate informed analysis from
-OL,14,     GSingapore and around the world.
-OL,15,G0245FSportsday
-OL,16,     GA round-up of the day's sporting
-OL,17,     Gaction, plus talking points,
-OL,18,     Ganalysis and original journalism.
-OL,19,G0300FBBC News
-OL,20,     GThe latest news from the BBC.
+OL,4,G0130FBusiness Today
+OL,5,     GBringing the latest business news
+OL,6,     Gand up-to-date informed analysis
+OL,7,     Gfrom Singapore and around the
+OL,8,     Gworld.
+OL,9,G0145FSportsday
+OL,10,     GA round-up of the day's sporting
+OL,11,     Gaction, plus talking points,
+OL,12,     Ganalysis and original journalism.
+OL,13,G0200FBBC News
+OL,14,     GThe latest news from the BBC.
+OL,15,G0230FBusiness Today
+OL,16,     GBusiness Today. Bringing the
+OL,17,     Glatest business news and up-to-
+OL,18,     Gdate informed analysis from
+OL,19,     GSingapore and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23610
 SC,0010
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1715059682
+OL,0,        ECIMSBWebfax     F236A1715141778
 OL,1,W{${$~+$ ~k4~sj5j5~s1          G10/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 MAY
-OL,4,G0330FThis is India
-OL,5,     GThere will be 18.3 million first-
-OL,6,     Gtime voters heading to the polls.
-OL,7,     GWhat are their main priorities?
-OL,8,     GWith women accounting for nearly
-OL,9,     Ghalf of the voting population,
-OL,10,     Ghow important is their vote?
-OL,11,G0400FBBC News
-OL,12,     GThe latest news from the BBC.
-OL,13,G0430FHARDtalk
-OL,14,     GIn-depth interviews with the
-OL,15,     Gworld's leading politicians,
-OL,16,     Gopinion-formers and key figures
-OL,17,     Gfrom culture, business and sport.
-OL,18,G0500FBBC News
-OL,19,     GThe latest news from the BBC.
+OL,4,G0245FSportsday
+OL,5,     GA round-up of the day's sporting
+OL,6,     Gaction, plus talking points,
+OL,7,     Ganalysis and original journalism.
+OL,8,G0300FBBC News
+OL,9,     GThe latest news from the BBC.
+OL,10,G0330FThis is India
+OL,11,     GThere will be 18.3 million first-
+OL,12,     Gtime voters heading to the polls.
+OL,13,     GWhat are their main priorities?
+OL,14,     GWith women accounting for nearly
+OL,15,     Ghalf of the voting population,
+OL,16,     Ghow important is their vote?
+OL,17,G0400FBBC News
+OL,18,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23611
 SC,0011
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1715059682
+OL,0,        ECIMSBWebfax     F236A1715141778
 OL,1,W{${$~+$ ~k4~sj5j5~s1          G11/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 MAY
-OL,4,G0530FBusiness Today
-OL,5,     GBringing the latest business news
-OL,6,     Gand up-to-date informed analysis
-OL,7,     Gfrom London and around the world.
+OL,4,G0430FHARDtalk
+OL,5,     GStephen Sackur speaks to
+OL,6,     GLithuania's foreign minister
+OL,7,     GGabrielius Landsbergis, who wants
+OL,8,     Gthe west to ramp-up support for
+OL,9,     GUkraine and has infuriated China
+OL,10,     Gwith his stand on Taiwan.
+OL,11,G0500FBBC News
+OL,12,     GThe latest news from the BBC.
+OL,13,G0530FBusiness Today
+OL,14,     GBringing the latest business news
+OL,15,     Gand up-to-date informed analysis
+OL,16,     Gfrom London and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
