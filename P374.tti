@@ -2,19 +2,17 @@ PN,37401
 SC,0001
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F374A1715185119
+OL,0,        ECIMSBWebfax     F374A1715188728
 OL,3,CYour Pollen forecast for the Midlands
 OL,5,FEast Midlands Pollen Forecast
-OL,7,FPollen levels are high for the next
-OL,8,Ffew days
+OL,7,FPollen levels are generally moderate,
+OL,8,Frising during sunny spells.
 OL,10,FWest Midlands Pollen Forecast
-OL,12,FPollen levels are high for the next
-OL,13,Ffew days
-OL,15,FWhat is pollen?
-OL,17,FThe Pollen Season
-OL,19,FRunning from March to the end of
-OL,20,FSeptember, the pollen season is split
-OL,21,Finto three main categories
+OL,12,FPollen levels are moderate for the
+OL,13,Fnext few days, slightly higher during
+OL,14,Fsunny spells
+OL,16,FWhat is pollen?
+OL,18,FThe Pollen Season
 OL,1,W{$~k4{$k4~sjw=                 G1/5
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -23,18 +21,21 @@ PN,37402
 SC,0002
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F374A1715185119
+OL,0,        ECIMSBWebfax     F374A1715188728
 OL,3,CYour Pollen forecast for the Midlands
-OL,5,FPollen is a very fine powder produced
-OL,6,Fby the male parts of trees, flowers,
-OL,7,Fgrasses, and weeds to fertilize other
-OL,8,Fplants of the same species. Many
-OL,9,Fpeople have an adverse immune response
-OL,10,Fwhen they breathe in pollen.
-OL,12,FThe immune system normally defends the
-OL,13,Fbody against harmful invaders, such as
-OL,14,Fviruses and bacteria, to ward off
-OL,15,Fillnesses.
+OL,5,FRunning from March to the end of
+OL,6,FSeptember, the pollen season is split
+OL,7,Finto three main categories
+OL,9,FPollen is a very fine powder produced
+OL,10,Fby the male parts of trees, flowers,
+OL,11,Fgrasses, and weeds to fertilize other
+OL,12,Fplants of the same species. Many
+OL,13,Fpeople have an adverse immune response
+OL,14,Fwhen they breathe in pollen.
+OL,16,FThe immune system normally defends the
+OL,17,Fbody against harmful invaders, such as
+OL,18,Fviruses and bacteria, to ward off
+OL,19,Fillnesses.
 OL,1,W{$~k4{$k4~sjw=                 G2/5
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -43,7 +44,7 @@ PN,37403
 SC,0003
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F374A1715185119
+OL,0,        ECIMSBWebfax     F374A1715188728
 OL,3,CYour Pollen forecast for the Midlands
 OL,5,FSome peoples immune system mistakenly
 OL,6,Fidentify harmless pollen as a threat
@@ -66,7 +67,7 @@ PN,37404
 SC,0004
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F374A1715185119
+OL,0,        ECIMSBWebfax     F374A1715188728
 OL,3,CYour Pollen forecast for the Midlands
 OL,5,FPollen counts tend to be higher in the
 OL,6,Fearly morning and late evening,
@@ -88,7 +89,7 @@ PN,37405
 SC,0005
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F374A1715185119
+OL,0,        ECIMSBWebfax     F374A1715188728
 OL,3,CYour Pollen forecast for the Midlands
 OL,5,FIn rural areas, the evening peak tends
 OL,6,Fto occur between 6pm and 9pm but in
