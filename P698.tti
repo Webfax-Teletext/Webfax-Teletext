@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715664400
+OL,0,        ECIMSBWebfax     F698A1715668008
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715664400
+OL,0,        ECIMSBWebfax     F698A1715668008
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,7 +44,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715664400
+OL,0,        ECIMSBWebfax     F698A1715668008
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -71,35 +71,34 @@ FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715664400
+OL,0,        ECIMSBWebfax     F698A1715668008
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 14 MAY
-OL,4,G0310FThis is BBC Two
-OL,5,G0630FEscape to the Country
-OL,6,     GJules Hudson helps a couple
-OL,7,     Gwanting to relocate from Canada
-OL,8,     Gto Northern Ireland.
-OL,9,G0715FGarden Rescue
-OL,10,     GChris and Charlie create a
-OL,11,     Gfragrant rose garden with full
-OL,12,     Gaccess for Val and Mike.
-OL,13,G0800FMasterChef
-OL,14,     GKnockout Week continues, and the
-OL,15,     Gsecond group of eight remaining
-OL,16,     Gamateurs return.
-OL,17,G0900FBBC News
-OL,18,G1215FPolitics Live
-OL,19,     GThe big political issues of the
-OL,20,     Gday.
+OL,4,G0715FGarden Rescue
+OL,5,     GChris and Charlie create a
+OL,6,     Gfragrant rose garden with full
+OL,7,     Gaccess for Val and Mike.
+OL,8,G0800FMasterChef
+OL,9,     GKnockout Week continues, and the
+OL,10,     Gsecond group of eight remaining
+OL,11,     Gamateurs return.
+OL,12,G0900FBBC News
+OL,13,G1215FPolitics Live
+OL,14,     GThe big political issues of the
+OL,15,     Gday.
+OL,16,G1300FImpossible
+OL,17,     GCan players avoid giving
+OL,18,     GImpossible answers and stay in
+OL,19,     Gthe running for a #10,000 jackpot?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715664400
+OL,0,        ECIMSBWebfax     F698A1715668008
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -124,51 +123,53 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715664400
+OL,0,        ECIMSBWebfax     F698A1715668008
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 14 MAY
-OL,4,G0550FCountdown
-OL,5,     GColin Murray and Rachel Riley
-OL,6,     Ghost as contestants race against
-OL,7,     Gthe clock to pit their wits
-OL,8,     Gagainst vowels, consonants and
-OL,9,     Gnumbers. Sunetra Sarker joins
-OL,10,     GSusie Dent in Dictionary Corner.
-OL,11,G0630F3rd Rock from the Sun
-OL,12,     GSally and Don's First Kiss: Sally
-OL,13,     Gis not excited by the idea of her
-OL,14,     Gfirst kiss with Officer Don and
-OL,15,     Gturns to romantic novels for
-OL,16,     Ginspiration. Harry graduates from
-OL,17,     Gnight school.
+OL,4,G0720F3rd Rock from the Sun
+OL,5,     GThe Tooth Harry: Dick's nose is
+OL,6,     Gput out of joint when Mary is
+OL,7,     Gasked to appear in an advert for
+OL,8,     Gthe university. Harry takes Nina
+OL,9,     Gto the dentist to have her wisdom
+OL,10,     Gteeth extracted.
+OL,11,G0745FEverybody Loves Raymond
+OL,12,     GSomeone's Cranky: Following a run-
+OL,13,     Gin with a bull, Robert is in a
+OL,14,     Gfoul mood. But Debra decides to
+OL,15,     Gget to the heart of the matter.
+OL,16,G0810FEverybody Loves Raymond
+OL,17,     GBad Moon Rising: Ray's clumsy
+OL,18,     Gattempts to help alleviate
+OL,19,     GDebra's PMT only make a bad
+OL,20,     Gsituation much worse.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715664400
+OL,0,        ECIMSBWebfax     F698A1715668008
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 14 MAY
-OL,4,G0625FPip and Posy
-OL,5,     GIt's a rainy day in the park. Pip
-OL,6,     Gand Posy's friend Jamila is
-OL,7,     Gpicking up worms to save them.
-OL,8,     GJamila asks Pip and Posy for
-OL,9,     Gtheir help.
-OL,10,G0630FOdo
-OL,11,     GThe Elite Jungle Adventure
-OL,12,     GChallenge is the most fun
-OL,13,     Gobstacle course in the forest,
-OL,14,     Gbut Odo will have to prove he's
-OL,15,     Gtall enough to play on it.
-OL,16,G0640FTweedy & Fluff
-OL,17,     GFluff has an instinct for hiding
-OL,18,     Gand gets a big kick out of
-OL,19,     Gfollowing Tweedy without him
-OL,20,     Gnoticing! When Tweedy eventually
-OL,21,     Gfinds him, Fluff discovers that
-OL,22,     GTweedy loves hide and seek too.
+OL,4,G0715FPaw Patrol
+OL,5,     GAlex and Mr Porter are delivering
+OL,6,     Gpizza for a big party on Jake's
+OL,7,     GMountain when the van spins out
+OL,8,     Gof control!
+OL,9,G0730FPip and Posy
+OL,10,     GPip and Frankie get "the
+OL,11,     Gsillybillies" and begin acting
+OL,12,     Gvery silly. It's fun until they
+OL,13,     Gtake it too far and upset Posy.
+OL,14,     GThey remember a fix for the
+OL,15,     Gsillybillies and make it up to
+OL,16,     GPosy.
+OL,17,G0735FThe Adventures of Paddington
+OL,18,     GPaddington enjoys a diving
+OL,19,     Gadventure with Jonathan and Judy,
+OL,20,     Gbut Judy loses her necklace! Can
+OL,21,     GPaddington and Jonathan help Judy?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
