@@ -2,7 +2,7 @@ PN,43201
 SC,0001
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F432A1715797962
+OL,0,        ECIMSBWebfax     F432A1715808797
 OL,3,CPeople warned to boil water as disease
 OL,4,Ccases confirmed
 OL,6,FPeople living in parts of Devon are
@@ -10,11 +10,15 @@ OL,7,Fbeing warned to boil tap water after
 OL,8,Fmultiple cases of cryptosporidium were
 OL,9,Fconfirmed.
 OL,11,FThe UK Health Security Agency has
-OL,12,Fconfirmed 16 cases of the parasite,
+OL,12,Fconfirmed 22 cases of the parasite,
 OL,13,Fwhich causes a diarrhoea-type illness,
-OL,14,Fin the Brixham area.
-OL,16,FThere have been a further 70 reported
-OL,17,Fcases of vomiting and diarrhoea.
+OL,14,Fin the Brixham area. There have been a
+OL,15,Ffurther 70 reported cases of vomiting
+OL,16,Fand diarrhoea.
+OL,18,FThe government says the disease is
+OL,19,Fpredominantly waterborne and
+OL,20,Finfections can be caused by drinking
+OL,21,Fcontaminated water.
 OL,1,W h7}h7}j7}h7}h7}                 G1/6
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -23,19 +27,21 @@ PN,43202
 SC,0002
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F432A1715797962
+OL,0,        ECIMSBWebfax     F432A1715808797
 OL,3,CPeople warned to boil water as disease
 OL,4,Ccases confirmed
-OL,6,FThe government says the disease is
-OL,7,F"predominantly waterborne" and
-OL,8,Finfections can be caused by drinking
-OL,9,Fcontaminated water.
-OL,11,FSouth West Water has found small
-OL,12,Ftraces of cryptosporidium in part of
-OL,13,Fits network. As a result, a boil water
-OL,14,Fnotice has been issued for people
-OL,15,Fliving in the Alston and Hillhead area
-OL,16,Fof Brixton.
+OL,6,FSouth West Water has found small
+OL,7,Ftraces of cryptosporidium in part of
+OL,8,Fits network. As a result, a boil water
+OL,9,Fnotice has been issued for people
+OL,10,Fliving in the Alston and Hillhead area
+OL,11,Fof Brixham.
+OL,13,F'Everyone in our street has someone
+OL,14,Fpoorly in their house'
+OL,16,FPeople living in Higher Brixham told
+OL,17,FITV News they are frustrated after
+OL,18,Fbeing told on Tuesday 14 May that the
+OL,19,Fwater was fine to drink.
 OL,1,W h7}h7}j7}h7}h7}                 G2/6
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -44,22 +50,19 @@ PN,43203
 SC,0003
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F432A1715797962
+OL,0,        ECIMSBWebfax     F432A1715808797
 OL,3,CPeople warned to boil water as disease
 OL,4,Ccases confirmed
-OL,6,FThe firm says the water is safe for
-OL,7,Fwashing and bathing but people should
-OL,8,Fnot drink it, use it to prepare food
-OL,9,For to brush their teeth without
-OL,10,Fboiling it first.
-OL,12,FBoiled water can be stored in a
-OL,13,Fcovered container in the fridge for 24
-OL,14,Fhours. Bottled water stations are also
-OL,15,Fdue to be set up.
-OL,17,FWater warning issued to residents in
-OL,18,FBrixham - what advice is being given?
-OL,20,FWater is safe for washing, bathing and
-OL,21,Fflushing the toilet as normal.
+OL,6,F"I'm disgusted really," one woman
+OL,7,Fsaid. "Everyone in our street has
+OL,8,Fsomeone poorly in their household."
+OL,10,FAdvice to residents
+OL,12,FWater is safe for washing, bathing and
+OL,13,Fflushing the toilet as normal. Boiled
+OL,14,Fwater can be stored in a covered
+OL,15,Fcontainer in the fridge for 24 hours.
+OL,17,FWhat are the symptoms of
+OL,18,Fcryptosporidium infection?
 OL,1,W h7}h7}j7}h7}h7}                 G3/6
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -68,22 +71,20 @@ PN,43204
 SC,0004
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F432A1715797962
+OL,0,        ECIMSBWebfax     F432A1715808797
 OL,3,CPeople warned to boil water as disease
 OL,4,Ccases confirmed
-OL,6,FWhat are the symptoms of
-OL,7,Fcryptosporidium infection?
-OL,9,FCryptosporidium is a parasite found in
-OL,10,Flakes, streams and rivers, untreated
-OL,11,Fdrinking water and sometimes in
-OL,12,Fswimming pools.
-OL,14,FThe main symptoms of cryptosporidium
-OL,15,Finfection are:
-OL,17,FSymptoms may only last a couple of
-OL,18,Fdays but can continue for up to three
-OL,19,For four weeks. It can affect people
-OL,20,Fwith weak immune systems for much
-OL,21,Flonger.
+OL,6,FCryptosporidium is a parasite found in
+OL,7,Flakes, streams and rivers, untreated
+OL,8,Fdrinking water and sometimes in
+OL,9,Fswimming pools. The main symptoms of
+OL,10,Fcryptosporidium infection are:
+OL,12,FSymptoms may only last a couple of
+OL,13,Fdays but can continue for up to three
+OL,14,For four weeks. It can affect people
+OL,15,Fwith weak immune systems for much
+OL,16,Flonger.
+OL,18,FWhat has South West Water said?
 OL,1,W h7}h7}j7}h7}h7}                 G4/6
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -92,7 +93,7 @@ PN,43205
 SC,0005
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F432A1715797962
+OL,0,        ECIMSBWebfax     F432A1715808797
 OL,3,CPeople warned to boil water as disease
 OL,4,Ccases confirmed
 OL,6,FIn a statement, South West Water said:
@@ -117,16 +118,13 @@ PN,43206
 SC,0006
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F432A1715797962
+OL,0,        ECIMSBWebfax     F432A1715808797
 OL,3,CPeople warned to boil water as disease
 OL,4,Ccases confirmed
 OL,6,F"We apologise for the inconvenience
 OL,7,Fcaused and will continue to keep
-OL,8,Fcustomers and businesses updated.
-OL,9,FBottled water stations will be set up
-OL,10,Fin the affected areas as soon as
-OL,11,Fpossible."
-OL,26,@nD@AOUsD@JO]
+OL,8,Fcustomers and businesses updated."
+OL,26,@nD@AOU
 OL,1,W h7}h7}j7}h7}h7}                 G6/6
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
