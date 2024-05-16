@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715848519
+OL,0,        ECIMSBWebfax     F698A1715852132
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715848519
+OL,0,        ECIMSBWebfax     F698A1715852132
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,7 +44,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715848519
+OL,0,        ECIMSBWebfax     F698A1715852132
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -74,7 +74,7 @@ FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715848519
+OL,0,        ECIMSBWebfax     F698A1715852132
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -99,61 +99,57 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715848519
+OL,0,        ECIMSBWebfax     F698A1715852132
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 MAY
-OL,4,G0900FLorraine
-OL,5,     GLorraine Kelly presents a topical
-OL,6,     Gmix of entertainment, discussion
-OL,7,     Gand showbiz glamour as well as
-OL,8,     Gthe latest fashion, food and
-OL,9,     Gcelebrity gossip.
-OL,10,G1000FThis Morning
-OL,11,     GMagazine show with news and
-OL,12,     Gtopical items, celebrity guests,
-OL,13,     Gexpert advice, real-life stories,
-OL,14,     Gcompetitions and a mix of
-OL,15,     Gcookery, health, beauty,
-OL,16,     Glifestyle and more.
-OL,17,G1230FLoose Women
-OL,18,     GKaye Adams, Judi Love, Janet
-OL,19,     GStreet-Porter and Jane Moore take
-OL,20,     Gon the day's biggest talking
-OL,21,     Gpoints with plenty of lunchtime
-OL,22,     Glaughs thrown in along the way.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real-life stories,
+OL,8,     Gcompetitions and a mix of
+OL,9,     Gcookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GKaye Adams, Judi Love, Janet
+OL,13,     GStreet-Porter and Jane Moore take
+OL,14,     Gon the day's biggest talking
+OL,15,     Gpoints with plenty of lunchtime
+OL,16,     Glaughs thrown in along the way.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715848519
+OL,0,        ECIMSBWebfax     F698A1715852132
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 16 MAY
-OL,4,G0910FEverybody Loves Raymond
-OL,5,     GYoung Girl: Robert is dating a 22-
-OL,6,     Gyear-old woman. Debra and Marie
-OL,7,     Gthink he's being foolish, but Ray
-OL,8,     Gand Frank aren't so sure. But is
-OL,9,     Gshe really 22?
-OL,10,G0940FFrasier
-OL,11,     GLegal Tender Love and Care:
-OL,12,     GFrasier begins to date the
-OL,13,     Gattractive attorney who defended
-OL,14,     Ghim against Donny, who was jilted
-OL,15,     Gat the altar by Daphne.
-OL,16,G1010FFrasier
-OL,17,     GThe New Friend: Frasier develops
-OL,18,     Ga friendship with Roz's new
-OL,19,     Gboyfriend, who then cheats them
-OL,20,     Gboth.
+OL,4,G1010FFrasier
+OL,5,     GThe New Friend: Frasier develops
+OL,6,     Ga friendship with Roz's new
+OL,7,     Gboyfriend, who then cheats them
+OL,8,     Gboth.
+OL,9,G1040FFrasier
+OL,10,     GMary Christmas: A scheming
+OL,11,     GFrasier works his way into
+OL,12,     Ghosting the annual televised
+OL,13,     GChristmas parade but is horrified
+OL,14,     Gto learn that his protegee Dr
+OL,15,     GMary is his co-host.
+OL,16,G1110FRamsay's Kitchen Nightmares USA
+OL,17,     GIn New York, Gordon Ramsay visits
+OL,18,     GPJ's Steakhouse, where owners Joe
+OL,19,     Gand Madalyn are in serious debt
+OL,20,     Gand struggling to keep the high-
+OL,21,     Gend restaurant afloat.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,26,@vD@\rrvD@^rr
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1715848519
+OL,0,        ECIMSBWebfax     F698A1715852132
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
