@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716072492
+OL,0,        ECIMSBWebfax     F698A1716076099
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716072492
+OL,0,        ECIMSBWebfax     F698A1716076099
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,33 +44,34 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716072492
+OL,0,        ECIMSBWebfax     F698A1716076099
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 MAY
-OL,4,G2335FThe Women's Football Show
-OL,5,     GHighlights from the final round
-OL,6,     Gof matches in this season's
-OL,7,     GWomen's Super League as
-OL,8,     GManchester City travel to Aston
-OL,9,     GVilla and Chelsea visit
-OL,10,     GManchester United.
-OL,11,G0025FDoctor Who: Unleashed
-OL,12,     GJoin us for an exclusive
-OL,13,     Ginterview with Russell T. Davies
-OL,14,     Gand Steven Moffat on the TARDIS.
-OL,15,G0055FSuperman & Lois: Head On
-OL,16,     GClark and General Lane are both
-OL,17,     Ghaving a hard time giving Lois
-OL,18,     Groom to make decisions.
+OL,4,G0025FDoctor Who: Unleashed
+OL,5,     GJoin us for an exclusive
+OL,6,     Ginterview with Russell T. Davies
+OL,7,     Gand Steven Moffat on the TARDIS.
+OL,8,G0055FSuperman & Lois: Head On
+OL,9,     GClark and General Lane are both
+OL,10,     Ghaving a hard time giving Lois
+OL,11,     Groom to make decisions.
+OL,12,G0135FMindhorn
+OL,13,     GA has-been actor re-enacts his
+OL,14,     Gmost famous role as a TV
+OL,15,     Gdetective for a police sting.
+OL,16,     GContains strong language and
+OL,17,     Gadult humour.
+OL,18,G0300FWeather for the Week Ahead
+OL,19,G0305FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716072492
+OL,0,        ECIMSBWebfax     F698A1716076099
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -94,81 +95,71 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716072492
+OL,0,        ECIMSBWebfax     F698A1716076099
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 MAY
-OL,4,G2300FEnglish Football League Playoff
-OL,5,     FHighlights
-OL,6,     GAction from the 2023-24 League
-OL,7,     GOne playoff final at Wembley
-OL,8,     GStadium as the two teams
-OL,9,     Gcompeting look to secure their
-OL,10,     Gspot in next season's
-OL,11,     GChampionship.
-OL,12,G0000FShop on TV
-OL,13,     GTeleshopping.
-OL,14,G0300FNext Level Chef USA
-OL,15,     GFowl Play: American version of
-OL,16,     Gthe reality television series.
-OL,17,     GThe teams are challenged to
-OL,18,     Gcreate a poultry dish, but one
-OL,19,     Gcontestant is sent home with
-OL,20,     Gtheir dreams up in flames.
+OL,4,G0000FShop on TV
+OL,5,     GTeleshopping.
+OL,6,G0300FNext Level Chef USA
+OL,7,     GFowl Play: American version of
+OL,8,     Gthe reality television series.
+OL,9,     GThe teams are challenged to
+OL,10,     Gcreate a poultry dish, but one
+OL,11,     Gcontestant is sent home with
+OL,12,     Gtheir dreams up in flames.
+OL,13,G0350FUnwind with ITV
+OL,14,     GYour daily escape designed to
+OL,15,     Gcalm the mind and encourage
+OL,16,     Grelaxation and reflection.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716072492
+OL,0,        ECIMSBWebfax     F698A1716076099
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 MAY
-OL,4,G2255FThe Running Man
-OL,5,     GClassic 80s dystopian thriller,
-OL,6,     Gbased on a Stephen King novel.
-OL,7,     GGadget-wielding murderers hunt an
-OL,8,     Ginnocent man on a sick TV show.
-OL,9,     GStrong language/violence.
-OL,10,G0045FRamsay's Kitchen Nightmares USA
-OL,11,     GGordon Ramsay visits bijou New
-OL,12,     GYork diner The Mixing Bowl, which
-OL,13,     Gis haemorrhaging money, thanks to
-OL,14,     Gmanager Mike's out-of-control
-OL,15,     Gmarketing plans.
-OL,16,G0140FThe Simpsons
-OL,17,     GTales from the Public Domain:
-OL,18,     GHomer reads out classic tales
-OL,19,     Gfrom an overdue library book,
-OL,20,     Gwith himself as Odysseus at the
-OL,21,     GBattle of Troy, Lisa as Joan of
-OL,22,     GArc, and Bart as Hamlet.
+OL,4,G0045FRamsay's Kitchen Nightmares USA
+OL,5,     GGordon Ramsay visits bijou New
+OL,6,     GYork diner The Mixing Bowl, which
+OL,7,     Gis haemorrhaging money, thanks to
+OL,8,     Gmanager Mike's out-of-control
+OL,9,     Gmarketing plans.
+OL,10,G0140FThe Simpsons
+OL,11,     GTales from the Public Domain:
+OL,12,     GHomer reads out classic tales
+OL,13,     Gfrom an overdue library book,
+OL,14,     Gwith himself as Odysseus at the
+OL,15,     GBattle of Troy, Lisa as Joan of
+OL,16,     GArc, and Bart as Hamlet.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716072492
+OL,0,        ECIMSBWebfax     F698A1716076099
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 MAY
-OL,4,G2300FBradley Walsh: My Comedy Heroes
-OL,5,     GBradley presents his thoughts and
-OL,6,     Gexperiences on stand-up comedy
-OL,7,     Gand the entertainers that
-OL,8,     Ginfluenced him, from Tommy Cooper
-OL,9,     Gand Bob Monkhouse to Caroline
-OL,10,     GAherne and Lee Mack.
-OL,11,G0030F999: Criminals Caught on Camera
-OL,12,     GJournalist Nick Wallis joins
-OL,13,     Gpolice forces across the country
-OL,14,     Gto reveal how CCTV is helping to
-OL,15,     Gensure convictions against
-OL,16,     Gcriminals.
-OL,17,G0055FEntertainment News on 5
-OL,18,     GA daily round-up of showbiz news
-OL,19,     Gand gossip from around the world,
-OL,20,     Gfocusing on celebrities, movies,
-OL,21,     Gmusic and entertainment.
+OL,4,G0030F999: Criminals Caught on Camera
+OL,5,     GJournalist Nick Wallis joins
+OL,6,     Gpolice forces across the country
+OL,7,     Gto reveal how CCTV is helping to
+OL,8,     Gensure convictions against
+OL,9,     Gcriminals.
+OL,10,G0055FEntertainment News on 5
+OL,11,     GA daily round-up of showbiz news
+OL,12,     Gand gossip from around the world,
+OL,13,     Gfocusing on celebrities, movies,
+OL,14,     Gmusic and entertainment.
+OL,15,G0100FPlayOJO Live Casino Show
+OL,16,     GRed or black? Odds or evens?
+OL,17,     GWhichever way you play, get that
+OL,18,     GOJO feeling with two hours of
+OL,19,     Gexciting live roulette every
+OL,20,     Gsingle night! Take us for a spin
+OL,21,     Gand feel the fun at playojo.com.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
