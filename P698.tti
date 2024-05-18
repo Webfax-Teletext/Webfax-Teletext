@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716007479
+OL,0,        ECIMSBWebfax     F698A1716011094
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716007479
+OL,0,        ECIMSBWebfax     F698A1716011094
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,78 +44,128 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716007479
+OL,0,        ECIMSBWebfax     F698A1716011094
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 17 MAY
-OL,4,G0035FBBC News
+OL,3,CProgramme listings for SAT 18 MAY
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GHost Donal Skehan is joined by
+OL,10,     Gchefs Jack Stein and Sabrina
+OL,11,     GGhayour, and by special guest
+OL,12,     GEddie Izzard. Drinks expert Olly
+OL,13,     GSmith picks the wines to go with
+OL,14,     Gthe studio dishes.
+OL,15,G1130FSimply Nigella
+OL,16,     GNigella Lawson shows how cooking
+OL,17,     Gcan make us feel better and more
+OL,18,     Galive. This episode focuses on
+OL,19,     Gensuring a cosy, comforting vibe,
+OL,20,     Gwith recipes for chai muffins and
+OL,21,     Gfish tacos.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716007479
+OL,0,        ECIMSBWebfax     F698A1716011094
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 17 MAY
-OL,4,G0305FThis is BBC Two
+OL,3,CProgramme listings for SAT 18 MAY
+OL,4,G0635FGrizzy and the Lemmings
+OL,5,     GIn Your Dreams. The Lemmings find
+OL,6,     Ga mask that can control dreams.
+OL,7,G0645FBoy Girl Dog Cat Mouse Cheese
+OL,8,     GProject Gherkin. Mean-spirited
+OL,9,     GGherkin convinces the gang to
+OL,10,     Ghelp him become a nicer version
+OL,11,     Gof himself.
+OL,12,G0655FMonster Loving Maniacs
+OL,13,     GThe Date. Ernest goes on his
+OL,14,     Gfirst date, but Gruselbrook can
+OL,15,     Gbe dangerous at night.
+OL,16,G0705FShaun the Sheep
+OL,17,     GPrize Porker. Shaun suspects foul
+OL,18,     Gplay when Ben wins all the prizes
+OL,19,     Gat the country fair.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716007479
+OL,0,        ECIMSBWebfax     F698A1716011094
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 17 MAY
-OL,4,G0505FKatie Piper's Breakfast Show
-OL,5,     GKatie is joined by singer
-OL,6,     GGabrielle, comedian and author
-OL,7,     GSara Pascoe, nutritionist Rob
-OL,8,     GHobson telling us about ultra-
-OL,9,     Gprocessed food, and mosaic
-OL,10,     Gmasterpiece creator Julie Norburn.
+OL,3,CProgramme listings for SAT 18 MAY
+OL,4,G0630FLove Your Weekend with Alan
+OL,5,     FTitchmarsh
+OL,6,     GAlan hosts a mini-Strictly
+OL,7,     Greunion with actor Les Dennis and
+OL,8,     Gformer tennis pro Annabel Croft
+OL,9,     Gas his guests, and he also learns
+OL,10,     Gabout the sport of scurry driving.
+OL,11,G0825FKatie Piper's Breakfast Show
+OL,12,     GOn the show with Katie this time
+OL,13,     Gare England Lioness legend Jill
+OL,14,     GScott, actor Lucien Laviscount,
+OL,15,     Gentertainment guru Elle Osili-
+OL,16,     GWood and Josh Paterson with a
+OL,17,     Grunning masterclass.
+OL,18,G0925FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716007479
+OL,0,        ECIMSBWebfax     F698A1716011094
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 17 MAY
-OL,4,G0530FBeat the Chef
-OL,5,     GAndi Oliver hosts the culinary
-OL,6,     Gcombat, as skilful amateur cooks
-OL,7,     Gcompete against professional
-OL,8,     Gchefs. Former pilot Chris Topham
-OL,9,     Gtakes on chef Mark Sargeant, but
-OL,10,     Gwho will be top gun?
+OL,3,CProgramme listings for SAT 18 MAY
+OL,4,G0625FCheers
+OL,5,     GFriends, Romans, Accountants:
+OL,6,     GNorm hosts a Roman toga party at
+OL,7,     GCheers, but when his handsome,
+OL,8,     Gwomanising boss takes a shine to
+OL,9,     GDiane, Norm finds his job could
+OL,10,     Gbe in jeopardy.
+OL,11,G0655FThe King of Queens
+OL,12,     GDire Strayts: All is not well
+OL,13,     Gwhen Ray and Debra Barone visit.
+OL,14,     GThe women bond after Doug says
+OL,15,     Gsomething insensitive to Carrie,
+OL,16,     Gand the men try to sneak off to
+OL,17,     Gwatch sport.
+OL,18,G0720FThe King of Queens
+OL,19,     GI, Candy: Doug thinks that a
+OL,20,     Gpretty waitress likes him.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716007479
+OL,0,        ECIMSBWebfax     F698A1716011094
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 17 MAY
-OL,4,G0535FThomas & Friends
-OL,5,     G...Big World! Big Adventures! Fed
-OL,6,     Gup with the other engines pushing
-OL,7,     Ghim around, Philip refuses to
-OL,8,     Ggive way when he and James end up
-OL,9,     Gfacing each other on a one-track
-OL,10,     Gbridge.
-OL,11,G0545FPaw Patrol
-OL,12,     GDaring Danny X is performing a
-OL,13,     Gnew stunt! He is harnessed over a
-OL,14,     Gcanyon eating an Extreme Lunch
-OL,15,     Gwhen the wind blows him upside
-OL,16,     Gdown!
+OL,3,CProgramme listings for SAT 18 MAY
+OL,4,G0630FDora the Explorer
+OL,5,     GDora and Boots continue their
+OL,6,     Gjourney into the Never-to-Be-Seen-
+OL,7,     GAgain Forest to bring back water
+OL,8,     Gfrom Sparkling Lake and save the
+OL,9,     Gmagic in Fairytale Land.
+OL,10,G0650FChip and Potato
+OL,11,     GChip is having her first haircut
+OL,12,     Gat the groomers! She wants to
+OL,13,     Gcopy Spud's new hairstyle but
+OL,14,     Gwhen Gigglish suggests a
+OL,15,     Gdifferent style, Chip is confused
+OL,16,     Gabout which style to copy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
