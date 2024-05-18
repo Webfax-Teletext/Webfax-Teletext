@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716043607
+OL,0,        ECIMSBWebfax     F698A1716047214
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716043607
+OL,0,        ECIMSBWebfax     F698A1716047214
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,37 +44,36 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716043607
+OL,0,        ECIMSBWebfax     F698A1716047214
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 MAY
-OL,4,G1545FThe Bidding Room
-OL,5,     GNigel Havers hosts as dealers bid
-OL,6,     Gto buy items brought in by the
-OL,7,     Gpublic. This time, two perfume
-OL,8,     Gbottles, some classic 1960s
-OL,9,     Gpottery and a unique light
-OL,10,     Gfitting.
-OL,11,G1615FEscape to the Country
-OL,12,     GA couple from Reading in
-OL,13,     GBerkshire want to escape and set
-OL,14,     Gup home in the Welsh Borders,
-OL,15,     Gsomewhere with enough land to
-OL,16,     Gkeep a menagerie of animals.
-OL,17,G1700FGarden Rescue
-OL,18,     GCharlie and Lee are in Liverpool
-OL,19,     Gto design a garden for ski-mad
-OL,20,     Gcouple David and Michelle and
-OL,21,     Gtheir children.
-OL,22,G1745FBBC News
+OL,4,G1615FEscape to the Country
+OL,5,     GA couple from Reading in
+OL,6,     GBerkshire want to escape and set
+OL,7,     Gup home in the Welsh Borders,
+OL,8,     Gsomewhere with enough land to
+OL,9,     Gkeep a menagerie of animals.
+OL,10,G1700FGarden Rescue
+OL,11,     GCharlie and Lee are in Liverpool
+OL,12,     Gto design a garden for ski-mad
+OL,13,     Gcouple David and Michelle and
+OL,14,     Gtheir children.
+OL,15,G1745FBBC News
+OL,16,G1755FRegional News
+OL,17,G1800FWeather
+OL,18,G1805FCelebrity Bridge of Lies
+OL,19,     GWith Chris McCausland, Richie
+OL,20,     GAnderson, Sheree Murphy and
+OL,21,     GScarlette Douglas.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716043607
+OL,0,        ECIMSBWebfax     F698A1716047214
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -99,71 +98,76 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716043607
+OL,0,        ECIMSBWebfax     F698A1716047214
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 MAY
-OL,4,G1330FITV Racing: Live from Newbury
-OL,5,     GEd Chamberlin and Francesca
-OL,6,     GCumani present coverage of racing
-OL,7,     Gfrom Newbury and Newmarket - the
-OL,8,     Gfeature meeting of the day is at
-OL,9,     GNewbury with races including the
-OL,10,     GLondon Gold Cup.
-OL,11,G1600FFor the Love of Dogs with Alison
-OL,12,     FHammond
-OL,13,     GAlison has her work cut out when
-OL,14,     Ga police van arrives with a pack
-OL,15,     Gof dogs found living in terrible
-OL,16,     Gconditions, and she also
-OL,17,     Gvolunteers to house train a
-OL,18,     Gspaniel.
+OL,4,G1630FNinja Warrior UK: Race for Glory
+OL,5,     GIt's the sixth edition of this
+OL,6,     Gseries and the Race for Glory is
+OL,7,     Gon the hunt for more everyday
+OL,8,     Gheroes to take on the challenge
+OL,9,     Gand become Ninja Warrior UK
+OL,10,     Gchampions.
+OL,11,G1730FITV Evening News
+OL,12,G1745FRegional News
+OL,13,G1800FIn For A Penny
+OL,14,     GStephen Mulhern is back, and this
+OL,15,     Gtime he's got the return of Roll
+OL,16,     GIt, everyone's favourite phone
+OL,17,     Ggame Left Hanging, and the risky
+OL,18,     Gguessing game Whatever The
+OL,19,     GWeather.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716043607
+OL,0,        ECIMSBWebfax     F698A1716047214
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 MAY
-OL,4,G1520FFour in a Bed
-OL,5,     GEmma and Emily host the week's
-OL,6,     Gthird visit at The Three Hills in
-OL,7,     GCambridge, where one B&Ber is
-OL,8,     Gdetermined to be the centre of
-OL,9,     Gattention during an afternoon out
-OL,10,     Gpunting.
-OL,11,G1555FFour in a Bed
-OL,12,     GDarren and Jamie aim to lay on a
-OL,13,     Gmagical experience for the B&Bers
-OL,14,     Gin the week's final visit, at
-OL,15,     Gtheir wizard-themed Hotel of
-OL,16,     GWizardry in the mystical,
-OL,17,     Gmysterious land of... Great
-OL,18,     GYarmouth.
+OL,4,G1625FFour in a Bed
+OL,5,     GIt's payment day, and there are
+OL,6,     Ggripes galore as the B&Bers meet
+OL,7,     Gone last time to dissect their
+OL,8,     Gfeedback, find out how much
+OL,9,     Gthey've been paid, and have a
+OL,10,     Ggood old barney. But who's won?
+OL,11,G1655FThe Great Celebrity Bake Off...
+OL,12,     Gfor Stand Up To Cancer: Paddy
+OL,13,     GMcGuinness, Coleen Nolan, Joe
+OL,14,     GThomas and Ellie Taylor make
+OL,15,     GJaffa cakes, tackle a pastry
+OL,16,     GTechnical, and render their
+OL,17,     Ghometowns in biscuit form.
+OL,18,G1800FChannel 4 News
+OL,19,     GChannel 4's flagship news
+OL,20,     Gprogramme. Including the weather.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716043607
+OL,0,        ECIMSBWebfax     F698A1716047214
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 18 MAY
-OL,4,G1500FOur Yorkshire Farm
-OL,5,     GWith the weather heating up, the
-OL,6,     Gfamily's first priority is
-OL,7,     Ggathering all 1,000 sheep and
-OL,8,     Gshearing them of their woolly
-OL,9,     Gwinter coats. But disaster
-OL,10,     Gstrikes for Amanda and Clive.
-OL,11,G1600FOur Yorkshire Farm
-OL,12,     GLate summer means it is hay time
-OL,13,     Gon the farm, but a storm halts
-OL,14,     Gthe harvest. The family are left
-OL,15,     Gin doubt if they will fill their
-OL,16,     Gbarns with the feed they need
-OL,17,     Gover winter.
+OL,4,G1600FOur Yorkshire Farm
+OL,5,     GLate summer means it is hay time
+OL,6,     Gon the farm, but a storm halts
+OL,7,     Gthe harvest. The family are left
+OL,8,     Gin doubt if they will fill their
+OL,9,     Gbarns with the feed they need
+OL,10,     Gover winter.
+OL,11,G1700FOur Yorkshire Farm
+OL,12,     GFollowing the Owen Family: nine
+OL,13,     Gchildren and hundreds of sheep
+OL,14,     Gwithin acres of beautiful
+OL,15,     GYorkshire countryside. University
+OL,16,     Gbeckons for Raven, Clive goes
+OL,17,     Gunder the knife.
+OL,18,G1800F5 News Weekend
+OL,19,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
