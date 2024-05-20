@@ -2,18 +2,19 @@ PN,39601
 SC,0001
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F396A1716164592
+OL,0,        ECIMSBWebfax     F396A1716186262
 OL,3,CYour Granada Weather Forecast
 OL,5,FHere's your latest weather forecast
 OL,6,Ffor NW England and the Isle of Man
 OL,7,Fwith Emma Jesson
-OL,9,FSunday night:
-OL,11,FA sunny and pleasantly warm evening to
-OL,12,Fcome, and then dry overnight with
-OL,13,Fclear skies. A few pockets of mist or
-OL,14,Ffog may form later with some low cloud
-OL,15,Ftoo. Minimum temperature 8 C.
-OL,26,@wD@\OX
+OL,9,FSome low cloud is possible at first,
+OL,10,Fespecially across the Pennines. This
+OL,11,Fgradually lifting and clearing to
+OL,12,Fleave another fine day with lots of
+OL,13,Fstrong sunshine. Feeling warm. Maximum
+OL,14,Ftemperature 22 C.
+OL,16,FOutlook for Tuesday to Thursday:
+OL,26,@vD@POX
 OL,1,W{$~k4{$k4~sjw=                 G1/2
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -22,22 +23,14 @@ PN,39602
 SC,0002
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F396A1716164592
+OL,0,        ECIMSBWebfax     F396A1716186262
 OL,3,CYour Granada Weather Forecast
-OL,5,FSome low cloud is possible at first,
-OL,6,Fespecially across the Pennines. This
-OL,7,Fgradually lifting and clearing to
-OL,8,Fleave another fine day with lots of
-OL,9,Fstrong sunshine. Feeling warm. Maximum
-OL,10,Ftemperature 22 C.
-OL,12,FOutlook for Tuesday to Thursday:
-OL,14,FSomewhat cloudier through this period
-OL,15,Fbut still warm in the sunny spells.
-OL,16,FShowers are likely at times, these
-OL,17,Fheaviest on Tuesday when thunder is
-OL,18,Fpossible. Perhaps staying dry in
-OL,19,Fplaces.
-OL,26,@rD@POX
+OL,5,FSomewhat cloudier through this period
+OL,6,Fbut still warm in the sunny spells.
+OL,7,FShowers are likely at times, these
+OL,8,Fheaviest on Tuesday when thunder is
+OL,9,Fpossible. Perhaps staying dry in
+OL,10,Fplaces.
 OL,1,W{$~k4{$k4~sjw=                 G2/2
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
