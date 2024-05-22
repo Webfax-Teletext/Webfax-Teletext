@@ -1,36 +1,19 @@
-PN,39201
-SC,0001
+PN,39200
+SC,0000
 CT,2,C
-PS,c000
-OL,0,        ECIMSBWebfax     F392A1716398558
+PS,8000
+OL,0,        ECIMSBWebfax     F392A1716402169
 OL,3,CYour Granada Weather Forecast
 OL,5,FHere's your latest weather forecast
 OL,6,Ffor NW England and the Isle of Man
-OL,7,Fwith Emma Jesson
-OL,9,FUnsettled with heavy and persistent
-OL,10,Frain throughout much of the day,
-OL,11,Fleading to possible flooding and
-OL,12,Fdisruption. Turning breezy, especially
-OL,13,Faround the coast. Feeling cooler.
-OL,14,FMaximum temperature 16 deg C (61 deg
-OL,15,FF).
-OL,17,FOutlook for Thursday to Saturday:
-OL,1,W{$~k4{$k4~sjw=                 G1/2
-OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
-OL,23,Tppppppppppppppppppppppppppppppppppppppp
-FL,393,391,8ff,8ff,8ff,8ff
-PN,39202
-SC,0002
-CT,2,C
-PS,c000
-OL,0,        ECIMSBWebfax     F392A1716398558
-OL,3,CYour Granada Weather Forecast
-OL,5,FRemaining changeable over the coming
-OL,6,Fdays with rain gradually breaking up
-OL,7,Fand clearing during Thursday and
-OL,8,FFriday. Becoming dry and bright by
-OL,9,FSaturday. Winds easing.
-OL,1,W{$~k4{$k4~sjw=                 G2/2
+OL,7,Fwith Jo Blythe
+OL,9,FOutlook for Thursday to Saturday:
+OL,11,FRemaining changeable over the coming
+OL,12,Fdays with rain gradually breaking up
+OL,13,Fand clearing during Thursday and
+OL,14,FFriday. Becoming dry and bright by
+OL,15,FSaturday. Winds easing.
+OL,1,W{$~k4{$k4~sjw=
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 FL,393,391,8ff,8ff,8ff,8ff
