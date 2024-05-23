@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716438267
+OL,0,        ECIMSBWebfax     F698A1716441883
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716438267
+OL,0,        ECIMSBWebfax     F698A1716441883
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,89 +44,133 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716438267
+OL,0,        ECIMSBWebfax     F698A1716441883
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 22 MAY
-OL,4,G0150FBBC News
+OL,3,CProgramme listings for THU 23 MAY
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FRip Off Britain
+OL,9,     GPriced off the road: the young
+OL,10,     Gdrivers handed a car insurance
+OL,11,     Gprice hike in the middle of their
+OL,12,     Gpolicy.
+OL,13,G1015FMoment of Proof
+OL,14,     GA jacket recovered from a
+OL,15,     Gsuspect's home has the DNA of two
+OL,16,     Gstabbing victims on it, and a
+OL,17,     Gfingerprint on a getaway car
+OL,18,     Gnumber plate snares an armed
+OL,19,     Grobber.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716438267
+OL,0,        ECIMSBWebfax     F698A1716441883
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 22 MAY
+OL,3,CProgramme listings for THU 23 MAY
 OL,4,G0345FThis is BBC Two
+OL,5,G0645FMoney for Nothing
+OL,6,     GLighting designer Guy needs to
+OL,7,     Gjump through hoops to somehow
+OL,8,     Grepurpose some old croquet sets,
+OL,9,     Gwhile Sarah needs a light touch
+OL,10,     Gwith a delicate glass dome.
+OL,11,G0730FMarcus Wareing Simply Provence
+OL,12,     GWith all the incredible meat,
+OL,13,     Gfish and cheese in Provence, it's
+OL,14,     Geasy to focus on the savoury food
+OL,15,     Gofferings. But Marcus wants to
+OL,16,     Gdiscover what simple sweet treats
+OL,17,     Gare on offer.
+OL,18,G0800FGardeners' World
+OL,19,     GMonty is moving his succulents
+OL,20,     Goutdoors and makes a start on
+OL,21,     Gplanting up his flower beds.
+OL,22,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716438267
+OL,0,        ECIMSBWebfax     F698A1716441883
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 22 MAY
-OL,4,G0415FUnwind with ITV
-OL,5,     GYour daily escape designed to
-OL,6,     Gcalm the mind and encourage
-OL,7,     Grelaxation and reflection.
-OL,8,G0530FFor the Love of Dogs with Alison
-OL,9,     FHammond
-OL,10,     GAlison helps a pug with all sorts
-OL,11,     Gof different ailments, meets a
-OL,12,     GGerman shepherd who is scared of
-OL,13,     Gher own shadow, and helps to
-OL,14,     Gtrain a litter of lurcher pups.
+OL,3,CProgramme listings for THU 23 MAY
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GThe Script's Danny O'Donoghue
+OL,9,     Gjoins Lorraine to reveal how the
+OL,10,     Gband are celebrating the legacy
+OL,11,     Gof their much-loved bandmate Mark
+OL,12,     GSheehan, who died in 2023.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real-life stories,
+OL,17,     Gcompetitions and a mix of
+OL,18,     Gcookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716438267
+OL,0,        ECIMSBWebfax     F698A1716441883
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 22 MAY
-OL,4,G0450FGrand Designs Australia
-OL,5,     GBen and Tania are building a
-OL,6,     Gthree-storey, three-bed house on
-OL,7,     Ga tiny scrap of land in one of
-OL,8,     GNorth Melbourne's grittier spots.
-OL,9,G0550FCountdown
-OL,10,     GColin Murray and Rachel Riley
-OL,11,     Ghost as contestants race against
-OL,12,     Gthe clock to pit their wits
-OL,13,     Gagainst vowels, consonants and
-OL,14,     Gnumbers. Pat Nevin joins Susie
-OL,15,     GDent in Dictionary Corner.
+OL,3,CProgramme listings for THU 23 MAY
+OL,4,G0550FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Pat Nevin joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G0630F3rd Rock from the Sun
+OL,12,     GCitizen Solomon: The flat has
+OL,13,     Gbecome a wreck since Sally moved
+OL,14,     Gout, so Dick, Harry and Tommy
+OL,15,     Ghire Cathy, Mary's cleaner, to
+OL,16,     Gtidy it up. Tommy joins the
+OL,17,     Gschool newspaper.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716438267
+OL,0,        ECIMSBWebfax     F698A1716441883
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for WED 22 MAY
-OL,4,G0500FHouse Doctor
-OL,5,     GHome improvements with Ann
-OL,6,     GMaurice. Ann demonstrates tricks
-OL,7,     Gthat make rooms look larger and
-OL,8,     Goffers tips for improving
-OL,9,     Gkitchens.
-OL,10,G0525FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the world,
-OL,13,     Gfocusing on celebrities, movies,
-OL,14,     Gmusic and entertainment.
-OL,15,G0530FPeppa Pig
-OL,16,     GGeorge is not very good at hide-
-OL,17,     Gand-seek until Daddy Pig helps
-OL,18,     Ghim to find somewhere to hide.
+OL,3,CProgramme listings for THU 23 MAY
+OL,4,G0620FPeppa Pig
+OL,5,     GPotato City: Peppa and her family
+OL,6,     Gvisit a new theme park where
+OL,7,     Gthere is lots of fun to be had
+OL,8,     Gwith vegetables.
+OL,9,G0625FPip and Posy
+OL,10,     GWhen Pip accidentally drops Piggy
+OL,11,     Ghe gives her a sticker as a
+OL,12,     G'plaster'. Posy wants one for
+OL,13,     GFroggy too but keeps giving
+OL,14,     GFroggy pretend injuries to get
+OL,15,     Gmore stickers until Froggy breaks.
+OL,16,G0630FOdo
+OL,17,     GOdo accidentally gets a postcard
+OL,18,     Gwith a picture of a tropical
+OL,19,     Gisland and decides he wants to go
+OL,20,     Gto the south, where it's warm and
+OL,21,     Glovely. He tries posting himself
+OL,22,     Gto 'the south.'
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
