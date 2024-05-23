@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716452710
+OL,0,        ECIMSBWebfax     F698A1716456317
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716452710
+OL,0,        ECIMSBWebfax     F698A1716456317
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,34 +44,37 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716452710
+OL,0,        ECIMSBWebfax     F698A1716456317
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 23 MAY
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0930FRip Off Britain
-OL,9,     GPriced off the road: the young
-OL,10,     Gdrivers handed a car insurance
-OL,11,     Gprice hike in the middle of their
-OL,12,     Gpolicy.
-OL,13,G1015FMoment of Proof
-OL,14,     GA jacket recovered from a
-OL,15,     Gsuspect's home has the DNA of two
-OL,16,     Gstabbing victims on it, and a
-OL,17,     Gfingerprint on a getaway car
-OL,18,     Gnumber plate snares an armed
-OL,19,     Grobber.
+OL,4,G1015FMoment of Proof
+OL,5,     GA jacket recovered from a
+OL,6,     Gsuspect's home has the DNA of two
+OL,7,     Gstabbing victims on it, and a
+OL,8,     Gfingerprint on a getaway car
+OL,9,     Gnumber plate snares an armed
+OL,10,     Grobber.
+OL,11,G1045FDefenders: Busting the Bad Guys
+OL,12,     GShocking river pollution - but is
+OL,13,     GBritain's biggest water company
+OL,14,     Gto blame? The Defenders
+OL,15,     Ginvestigate as thousands of dead
+OL,16,     Gfish are discovered in
+OL,17,     Gcontaminated 'dead rivers'.
+OL,18,G1115FHomes Under the Hammer
+OL,19,     GTerraced houses in Kent and
+OL,20,     GNottingham, and a flat ripe for a
+OL,21,     Gtransformation in Derbyshire, are
+OL,22,     Gall sold under the hammer.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716452710
+OL,0,        ECIMSBWebfax     F698A1716456317
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -100,61 +103,63 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716452710
+OL,0,        ECIMSBWebfax     F698A1716456317
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 23 MAY
-OL,4,G0900FLorraine
-OL,5,     GThe Script's Danny O'Donoghue
-OL,6,     Gjoins Lorraine to reveal how the
-OL,7,     Gband are celebrating the legacy
-OL,8,     Gof their much-loved bandmate Mark
-OL,9,     GSheehan, who died in 2023.
-OL,10,G1000FThis Morning
-OL,11,     GMagazine show with news and
-OL,12,     Gtopical items, celebrity guests,
-OL,13,     Gexpert advice, real-life stories,
-OL,14,     Gcompetitions and a mix of
-OL,15,     Gcookery, health, beauty,
-OL,16,     Glifestyle and more.
-OL,17,G1230FLoose Women
-OL,18,     GHollyoaks actress Kirsty-Leigh
-OL,19,     GPorter bravely opens up about how
-OL,20,     Gher own experience of stillbirth
-OL,21,     Ginformed her latest storyline.
+OL,4,G1000FThis Morning
+OL,5,     GMagazine show with news and
+OL,6,     Gtopical items, celebrity guests,
+OL,7,     Gexpert advice, real-life stories,
+OL,8,     Gcompetitions and a mix of
+OL,9,     Gcookery, health, beauty,
+OL,10,     Glifestyle and more.
+OL,11,G1230FLoose Women
+OL,12,     GHollyoaks actress Kirsty-Leigh
+OL,13,     GPorter bravely opens up about how
+OL,14,     Gher own experience of stillbirth
+OL,15,     Ginformed her latest storyline.
+OL,16,G1330FITV Lunchtime News
+OL,17,     GThe latest headlines from around
+OL,18,     Gthe world at lunchtime with
+OL,19,     Greports and analysis from ITV's
+OL,20,     GCorrespondents, all of which are
+OL,21,     Gfollowed by a national weather
+OL,22,     Gforecast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716452710
+OL,0,        ECIMSBWebfax     F698A1716456317
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 23 MAY
-OL,4,G0910FEverybody Loves Raymond
-OL,5,     GRaybert: Robert meets a beautiful
-OL,6,     Gwoman who is a big fan of Ray's
-OL,7,     Gsports column, but when she
-OL,8,     Gmistakes him for Raymond, Robert
-OL,9,     Gdoesn't set her straight.
-OL,10,G0940FFrasier
-OL,11,     GA Passing Fancy: Frasier tutors
-OL,12,     GLorna's son Kirby in exchange for
-OL,13,     Ga date with Claire, while Roz
-OL,14,     Ggets a day off as a reward for
-OL,15,     Gtaking Kirby to the prom.
-OL,16,G1010FFrasier
-OL,17,     GA Day in May: Frasier comforts a
-OL,18,     Gcrestfallen husband whose house
-OL,19,     Ghas been put up for sale after
-OL,20,     Ghis wife abandoned him, taking
-OL,21,     Gthe children with her.
+OL,4,G1010FFrasier
+OL,5,     GA Day in May: Frasier comforts a
+OL,6,     Gcrestfallen husband whose house
+OL,7,     Ghas been put up for sale after
+OL,8,     Ghis wife abandoned him, taking
+OL,9,     Gthe children with her.
+OL,10,G1040FFrasier
+OL,11,     GCranes Go Caribbean: Frasier is
+OL,12,     Ghorrified when he learns that
+OL,13,     GMartin, Niles and Daphne are
+OL,14,     Ggoing to accompany him on his
+OL,15,     Gtrip to Belize with Claire.
+OL,16,G1110FRamsay's Kitchen Nightmares USA
+OL,17,     GIn the first half of a two-part
+OL,18,     GNightmare, Gordon tries to save
+OL,19,     GThe Burger Kitchen in Los
+OL,20,     GAngeles, which is run by a
+OL,21,     Gdysfunctional family in a state
+OL,22,     Gof constant conflict.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716452710
+OL,0,        ECIMSBWebfax     F698A1716456317
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
