@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716434659
+OL,0,        ECIMSBWebfax     F698A1716438267
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716434659
+OL,0,        ECIMSBWebfax     F698A1716438267
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,19 +44,19 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716434659
+OL,0,        ECIMSBWebfax     F698A1716438267
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 MAY
-OL,4,G0135FBBC News
+OL,4,G0150FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716434659
+OL,0,        ECIMSBWebfax     F698A1716438267
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -68,7 +68,7 @@ FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716434659
+OL,0,        ECIMSBWebfax     F698A1716438267
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -88,55 +88,45 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716434659
+OL,0,        ECIMSBWebfax     F698A1716438267
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 MAY
-OL,4,G0355FOur Welsh Chapel Dream
-OL,5,     GWith planning permission granted,
-OL,6,     GKeith and Marj get to work
-OL,7,     Gremoving the pews, parquet floor
-OL,8,     Gand pulpit in the main hall, and
-OL,9,     Gmake a discovery in the Sunday
-OL,10,     Gschool ceiling vents.
-OL,11,G0450FGrand Designs Australia
-OL,12,     GBen and Tania are building a
-OL,13,     Gthree-storey, three-bed house on
-OL,14,     Ga tiny scrap of land in one of
-OL,15,     GNorth Melbourne's grittier spots.
-OL,16,G0550FCountdown
-OL,17,     GColin Murray and Rachel Riley
-OL,18,     Ghost as contestants race against
-OL,19,     Gthe clock to pit their wits
-OL,20,     Gagainst vowels, consonants and
-OL,21,     Gnumbers. Pat Nevin joins Susie
-OL,22,     GDent in Dictionary Corner.
+OL,4,G0450FGrand Designs Australia
+OL,5,     GBen and Tania are building a
+OL,6,     Gthree-storey, three-bed house on
+OL,7,     Ga tiny scrap of land in one of
+OL,8,     GNorth Melbourne's grittier spots.
+OL,9,G0550FCountdown
+OL,10,     GColin Murray and Rachel Riley
+OL,11,     Ghost as contestants race against
+OL,12,     Gthe clock to pit their wits
+OL,13,     Gagainst vowels, consonants and
+OL,14,     Gnumbers. Pat Nevin joins Susie
+OL,15,     GDent in Dictionary Corner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716434659
+OL,0,        ECIMSBWebfax     F698A1716438267
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 22 MAY
-OL,4,G0410FCats Make You Laugh Out Loud
-OL,5,     GHilarious cat clips featuring
-OL,6,     Gfelines being mischievous,
-OL,7,     Gcausing chaos and being cheeky.
-OL,8,     GCelebrities comment on 'the
-OL,9,     Gaction'!
-OL,10,G0435FHouse Busters
-OL,11,     GJanet Ellis invites three experts
-OL,12,     Gto 'heal' a house that is making
-OL,13,     Gits inhabitants unhappy. Are one
-OL,14,     Gfamily's relationship breakdowns
-OL,15,     Gdue to paranormal forces at work?
-OL,16,G0500FHouse Doctor
-OL,17,     GHome improvements with Ann
-OL,18,     GMaurice. Ann demonstrates tricks
-OL,19,     Gthat make rooms look larger and
-OL,20,     Goffers tips for improving
-OL,21,     Gkitchens.
+OL,4,G0500FHouse Doctor
+OL,5,     GHome improvements with Ann
+OL,6,     GMaurice. Ann demonstrates tricks
+OL,7,     Gthat make rooms look larger and
+OL,8,     Goffers tips for improving
+OL,9,     Gkitchens.
+OL,10,G0525FEntertainment News on 5
+OL,11,     GA daily round-up of showbiz news
+OL,12,     Gand gossip from around the world,
+OL,13,     Gfocusing on celebrities, movies,
+OL,14,     Gmusic and entertainment.
+OL,15,G0530FPeppa Pig
+OL,16,     GGeorge is not very good at hide-
+OL,17,     Gand-seek until Daddy Pig helps
+OL,18,     Ghim to find somewhere to hide.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
