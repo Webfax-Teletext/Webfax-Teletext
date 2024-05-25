@@ -2,24 +2,21 @@ PN,39201
 SC,0001
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F392A1716658526
+OL,0,        ECIMSBWebfax     F392A1716662141
 OL,3,CYour Granada Weather Forecast
 OL,5,FHere's your latest weather forecast
 OL,6,Ffor NW England and the Isle of Man
-OL,7,Fwith Jo Blythe
-OL,9,FTonight:JTurning much drier for all
-OL,10,Finto the evening though still somewhat
-OL,11,Fcloudy, with some clear spells
-OL,12,Fdeveloping overnight. A cooler night
-OL,13,Fon offer than of late. Minimum
-OL,14,Ftemperature 9 C.
-OL,16,FSaturday:JMore sunshine on offer to
-OL,17,Fstart the weekend and feeling warmer
-OL,18,Ftoo. A little hazy at times and the
-OL,19,Fodd shower possible in the afternoon.
-OL,20,FMaximum temperature 17 C.
-OL,26,@vD@OOX|D@XOX
-OL,1,W{$~k4{$k4~sjw=                 G1/2
+OL,7,Fwith Emma Jesson
+OL,9,FMore sunshine on offer to start the
+OL,10,Fweekend and feeling warmer too.
+OL,11,FSunshine turning a little hazy at
+OL,12,Ftimes through the afternoon and with
+OL,13,Fthe odd shower still possible, but
+OL,14,Fstaying dry for most. Maximum
+OL,15,Ftemperature 19 C.
+OL,17,FSaturday night:
+OL,26,@wD@POX
+OL,1,W{$~k4{$k4~sjw=                 G1/3
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 FL,393,391,8ff,8ff,8ff,8ff
@@ -27,15 +24,37 @@ PN,39202
 SC,0002
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F392A1716658526
+OL,0,        ECIMSBWebfax     F392A1716662141
 OL,3,CYour Granada Weather Forecast
-OL,5,FOutlook for Sunday to Tuesday:JThe
-OL,6,Funsettled weather returns for the rest
-OL,7,Fof the bank holiday weekend with sunny
-OL,8,Fspells and showers, then longer spells
-OL,9,Fof rain on Tuesday. Feeling warm,
-OL,10,Fparticularly in any sunshine.
-OL,1,W{$~k4{$k4~sjw=                 G2/2
+OL,5,FTurning cloudier through this evening
+OL,6,Fwith some patchy outbreaks of rain
+OL,7,Farriving from the southeast, becoming
+OL,8,Fheavy at times overnight. Milder.
+OL,9,FMinimum temperature 11 C.
+OL,11,FA cloudy start with patchy outbreaks
+OL,12,Fof rain through the morning. Some
+OL,13,Fbrighter skies developing in the south
+OL,14,Fwith a few heavy showers breaking out
+OL,15,Fby the afternoon. Maximum temperature
+OL,16,F18 C.
+OL,18,FOutlook for Monday to Wednesday:
+OL,26,@qD@XOXxD@DOX
+OL,1,W{$~k4{$k4~sjw=                 G2/3
+OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
+OL,23,Tppppppppppppppppppppppppppppppppppppppp
+FL,393,391,8ff,8ff,8ff,8ff
+PN,39203
+SC,0003
+CT,2,C
+PS,c000
+OL,0,        ECIMSBWebfax     F392A1716662141
+OL,3,CYour Granada Weather Forecast
+OL,5,FSunshine and showers, perhaps merging
+OL,6,Finto longer spells of rain on Monday.
+OL,7,FA strengthening breeze and outbreaks
+OL,8,Fof rain on Tuesday and into Wednesday.
+OL,9,FTemperatures around average.
+OL,1,W{$~k4{$k4~sjw=                 G3/3
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 FL,393,391,8ff,8ff,8ff,8ff
