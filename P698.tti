@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716871618
+OL,0,        ECIMSBWebfax     F698A1716875231
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716871618
+OL,0,        ECIMSBWebfax     F698A1716875231
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,83 +44,130 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716871618
+OL,0,        ECIMSBWebfax     F698A1716875231
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 27 MAY
-OL,4,G0055FBBC News
+OL,3,CProgramme listings for TUE 28 MAY
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FRip Off Britain
+OL,9,     GThe team meets a couple at
+OL,10,     Gloggerheads with a developer
+OL,11,     Gafter finding soaked plaster and
+OL,12,     Ga beetle infestation in their new-
+OL,13,     Gbuild home.
+OL,14,G1015FMoment of Proof
+OL,15,     GA blood-spattered hammer is the
+OL,16,     Gkey to charging the prime suspect
+OL,17,     Gin a murder case, and a drug gang
+OL,18,     Gis brought down when one
+OL,19,     Gdetective focuses on how the
+OL,20,     Gproduct is packaged.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716871618
+OL,0,        ECIMSBWebfax     F698A1716875231
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 27 MAY
-OL,4,G0340FThis is BBC Two
+OL,3,CProgramme listings for TUE 28 MAY
+OL,4,G0630FBargain Hunt
+OL,5,     GA team of teachers hope to go to
+OL,6,     Gthe top of the class as they take
+OL,7,     Gon a team of lecturers at Detling
+OL,8,     Gshowground in Kent.
+OL,9,G0715FMoney for Nothing
+OL,10,     GSeaside stylers Katie and Sophie
+OL,11,     Gtry to overhaul a bookshelf with
+OL,12,     Ga beachy theme they have never
+OL,13,     Gtried before.
+OL,14,G0800FMasterChef
+OL,15,     GIt's finals week as the
+OL,16,     GMasterChef anniversary
+OL,17,     Gcelebrations continue, and two
+OL,18,     Gincredible challenges await our
+OL,19,     Gfinal four.
+OL,20,G0900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716871618
+OL,0,        ECIMSBWebfax     F698A1716875231
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 27 MAY
-OL,4,G0535FGino's Italy: Secrets of the South
-OL,5,     GGino travels through Puglia's
-OL,6,     Gmeat country and takes in the
-OL,7,     Gtown of Cisternino and the Itria
-OL,8,     GValley as he learns how to make
-OL,9,     Gtasty cured meat capocollo and
-OL,10,     Ghas a BBQ.
+OL,3,CProgramme listings for TUE 28 MAY
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a topical
+OL,9,     Gmix of entertainment, discussion
+OL,10,     Gand showbiz glamour as well as
+OL,11,     Gthe latest fashion, food and
+OL,12,     Gcelebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real-life stories,
+OL,17,     Gcompetitions and a mix of
+OL,18,     Gcookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716871618
+OL,0,        ECIMSBWebfax     F698A1716875231
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 27 MAY
-OL,4,G0525FBeat the Chef
-OL,5,     GAndi Oliver hosts, as home cook
-OL,6,     GAbbi Simms takes on chef
-OL,7,     GHrishikesh Desai with her sweet
-OL,8,     Gpotato gnocchi. But can she
-OL,9,     Gmaster chef's posh pie to earn
-OL,10,     Gher crust and scoop the prize?
-OL,11,G0550FCountdown
-OL,12,     GColin Murray and Rachel Riley
-OL,13,     Ghost as contestants race against
-OL,14,     Gthe clock to pit their wits
-OL,15,     Gagainst vowels, consonants and
-OL,16,     Gnumbers. Levi Roots joins Susie
-OL,17,     GDent in Dictionary Corner.
+OL,3,CProgramme listings for TUE 28 MAY
+OL,4,G0630F3rd Rock from the Sun
+OL,5,     GDial M for Dick: Mary invites the
+OL,6,     GSolomons to accompany her on a
+OL,7,     Gmurder mystery weekend at a
+OL,8,     Gmansion, but Dick and his family
+OL,9,     Ghave no idea that the whole
+OL,10,     Gscenario isn't real.
+OL,11,G0655F3rd Rock from the Sun
+OL,12,     GDick and Tuck: Dick considers
+OL,13,     Ghaving plastic surgery when he
+OL,14,     Gsees Mary and Nina admiring
+OL,15,     Ghandsome Hollywood stars in
+OL,16,     Gmagazines. Dick's doctor says
+OL,17,     GHarry is cosmetically perfect.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716871618
+OL,0,        ECIMSBWebfax     F698A1716875231
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 27 MAY
-OL,4,G0530FHouse Doctor
-OL,5,     GAnn Maurice presents more home
-OL,6,     Gimprovements for properties that
-OL,7,     Gare proving difficult to sell. A
-OL,8,     Gbachelor pad in Cheltenham is
-OL,9,     Ggiven a makeover.
-OL,10,G0555FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the world,
-OL,13,     Gfocusing on celebrities, movies,
-OL,14,     Gmusic and entertainment.
+OL,3,CProgramme listings for TUE 28 MAY
+OL,4,G0645FFireman Sam
+OL,5,     GPirates of Pontypandy: While
+OL,6,     Gplaying pirates Norman and James
+OL,7,     Gtake a quick pirate nap in the
+OL,8,     Growing boat, but wake up to find
+OL,9,     Gthat they have drifted far away
+OL,10,     Gfrom the shore!
+OL,11,G0655FThomas & Friends: All Engines Go!
+OL,12,     GPercy has been hiding an oil
+OL,13,     Gleak, afraid of what it means to
+OL,14,     Gget it fixed. When it starts to
+OL,15,     Ginterfere with his deliveries,
+OL,16,     GPercy needs Thomas and his other
+OL,17,     Gfriends to help him.
+OL,18,G0705FPeppa Pig
+OL,19,     GMiss Rabbit shows Peppa's family
+OL,20,     Garound the Botanical Gardens.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
