@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716958309
+OL,0,        ECIMSBWebfax     F698A1716961918
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716958309
+OL,0,        ECIMSBWebfax     F698A1716961918
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,70 +44,133 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716958309
+OL,0,        ECIMSBWebfax     F698A1716961918
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 28 MAY
-OL,4,G0040FBBC News
+OL,3,CProgramme listings for WED 29 MAY
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FRip Off Britain
+OL,9,     GHow one tech giant's phone theft
+OL,10,     Gcover has a killer exclusion.
+OL,11,G1015FMoment of Proof
+OL,12,     GA single piece of paper found on
+OL,13,     Gtop of a hidden fax machine gives
+OL,14,     Gpolice the number of a shipping
+OL,15,     Gcontainer used to smuggle
+OL,16,     Gmillions of pounds' worth of
+OL,17,     Gdrugs from Thailand.
+OL,18,G1045FExpert Witness
+OL,19,     GA soil analyst locates a body,
+OL,20,     Gand a digital image expert proves
+OL,21,     Ga death was no accident.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716958309
+OL,0,        ECIMSBWebfax     F698A1716961918
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 28 MAY
-OL,4,G0305FThis is BBC Two
+OL,3,CProgramme listings for WED 29 MAY
+OL,4,G0630FMoney for Nothing
+OL,5,     GCarwyn thinks a tired table has
+OL,6,     G'electrifying' potential, while
+OL,7,     GSarah sees a profit in a quirky
+OL,8,     Gdining set.
+OL,9,G0715FEscape to the Country
+OL,10,     GA couple are on the hunt for a
+OL,11,     Gnew home with great options for
+OL,12,     Gdog walks and nights out.
+OL,13,G0800FMasterChef
+OL,14,     GMasterChef's 20th series comes to
+OL,15,     Ga nail-biting end, with just one
+OL,16,     Gchallenge standing between the
+OL,17,     Gfinal three and a place in the
+OL,18,     GMasterChef Hall of Fame.
+OL,19,G0900FBBC News
+OL,20,G1215FPolitics Live
+OL,21,     GThe big political issues of the
+OL,22,     Gday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716958309
+OL,0,        ECIMSBWebfax     F698A1716961918
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 28 MAY
-OL,4,G0505FJames Martin's Spanish Adventure
-OL,5,     GMurcia: James shops at the local
-OL,6,     Gmarket in Murcia and eats
-OL,7,     Gexceptional tapas, is shown how
-OL,8,     Gto make caldero, heads to an
-OL,9,     Gapricot farm and introduces us to
-OL,10,     Gpaparajotes.
+OL,3,CProgramme listings for WED 29 MAY
+OL,4,G0600FGood Morning Britain
+OL,5,     GNews, current affairs and lively
+OL,6,     Gdebate.
+OL,7,G0900FLorraine
+OL,8,     GLorraine Kelly presents a topical
+OL,9,     Gmix of entertainment, discussion
+OL,10,     Gand showbiz glamour as well as
+OL,11,     Gthe latest fashion, food and
+OL,12,     Gcelebrity gossip.
+OL,13,G1000FThis Morning
+OL,14,     GMagazine show with news and
+OL,15,     Gtopical items, celebrity guests,
+OL,16,     Gexpert advice, real-life stories,
+OL,17,     Gcompetitions and a mix of
+OL,18,     Gcookery, health, beauty,
+OL,19,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716958309
+OL,0,        ECIMSBWebfax     F698A1716961918
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 28 MAY
-OL,4,G0550FCountdown
-OL,5,     GColin Murray and Rachel Riley
-OL,6,     Ghost as contestants race against
-OL,7,     Gthe clock to pit their wits
-OL,8,     Gagainst vowels, consonants and
-OL,9,     Gnumbers. Levi Roots joins Susie
-OL,10,     GDent in Dictionary Corner.
+OL,3,CProgramme listings for WED 29 MAY
+OL,4,G0630F3rd Rock from the Sun
+OL,5,     GCharitable Dick: When Dick and
+OL,6,     GMary attend a charity auction,
+OL,7,     GDick gets caught up in the
+OL,8,     Gexcitement and enters a bidding
+OL,9,     Gwar with Professor Strudwick.
+OL,10,     GSally's snoring is a problem.
+OL,11,G0655F3rd Rock from the Sun
+OL,12,     GThe Loud Solomon Family: A
+OL,13,     GDickumentary: The Solomons become
+OL,14,     Gthe subject of a documentary
+OL,15,     Gabout the typical American
+OL,16,     Gfamily, but risk revealing their
+OL,17,     Gtrue identities.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1716958309
+OL,0,        ECIMSBWebfax     F698A1716961918
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for TUE 28 MAY
-OL,4,G0545FPaw Patrol
-OL,5,     GIt's Cowboy Day at the Wingnuts
-OL,6,     GDude Ranch. Mayor Goodway tries
-OL,7,     Gto brave the hazards of the ranch
-OL,8,     Gall while sleepwalking!
+OL,3,CProgramme listings for WED 29 MAY
+OL,4,G0645FFireman Sam
+OL,5,     GPontypandy Pioneers: Trevor takes
+OL,6,     Gthe children on a nature walk to
+OL,7,     Gthe Mountain Rescue Centre. A zip
+OL,8,     Gwire has been set up for them and
+OL,9,     Gwhen Trevor goes on it he gets
+OL,10,     Gstuck.
+OL,11,G0655FThomas & Friends: All Engines Go!
+OL,12,     GWhen Thomas's friends notice he's
+OL,13,     Gglum about Percy being away for
+OL,14,     Grepairs, they try to help him by
+OL,15,     Gplaying a game to see who is best
+OL,16,     Gat cheering him up.
+OL,17,G0705FPeppa Pig
+OL,18,     GMr Potato visits the school to
+OL,19,     Gtalk about fruit and vegetables.
+OL,20,     GBut which team will win his quiz?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
