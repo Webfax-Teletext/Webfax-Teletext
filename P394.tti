@@ -1,20 +1,44 @@
-PN,39400
-SC,0000
+PN,39401
+SC,0001
 CT,2,C
-PS,8000
-OL,0,        ECIMSBWebfax     F394A1717005284
+PS,c000
+OL,0,        ECIMSBWebfax     F394A1717008900
 OL,3,CYour Granada Weather Forecast
 OL,5,FHere's your latest weather forecast
 OL,6,Ffor NW England and the Isle of Man
 OL,7,Fwith Jo Blythe
-OL,9,FOutlook for Tuesday to Thursday:
-OL,11,FStaying changeable with periods of
-OL,12,Frain or showers, heavy at times. Some
-OL,13,Fbrighter intervals, especially on
-OL,14,FWednesday and Thursday and feeling
-OL,15,Fwarm in the sunshine. Rather breezy at
-OL,16,Ftimes.
-OL,1,W{$~k4{$k4~sjw=
+OL,9,FTonight:JMainly dry to end the day
+OL,10,Fwith some evening sunshine and just
+OL,11,Fisolated showers. Clear spells
+OL,12,Fovernight with an increasing chance of
+OL,13,Fshowers, these turning locally heavy.
+OL,14,FBecoming windier. Minimum temperature
+OL,15,F9 C.
+OL,26,@wD@COX
+OL,1,W{$~k4{$k4~sjw=                 G1/2
+OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
+OL,23,Tppppppppppppppppppppppppppppppppppppppp
+FL,395,393,8ff,8ff,8ff,8ff
+PN,39402
+SC,0002
+CT,2,C
+PS,c000
+OL,0,        ECIMSBWebfax     F394A1717008900
+OL,3,CYour Granada Weather Forecast
+OL,5,FThursday:JSunny spells and scattered
+OL,6,Fheavy showers on Thursday with a brisk
+OL,7,Fnorthwesterly breeze, strongest on
+OL,8,Fcoasts. Feeling warm in the sunshine
+OL,9,Fbut cool in the wind. Maximum
+OL,10,Ftemperature 19 C.
+OL,12,FOutlook for Friday to Sunday:JA small
+OL,13,Fchance of a light shower on Friday but
+OL,14,Fotherwise high pressure will bring dry
+OL,15,Fand settled weather with periods of
+OL,16,Fwarm sunshine, occasional patchy cloud
+OL,17,Fand light winds.
+OL,26,@rD@POX
+OL,1,W{$~k4{$k4~sjw=                 G2/2
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,,,,,,,,,
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 FL,395,393,8ff,8ff,8ff,8ff
