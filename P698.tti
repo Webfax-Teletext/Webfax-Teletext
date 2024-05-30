@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717088409
+OL,0,        ECIMSBWebfax     F698A1717092022
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717088409
+OL,0,        ECIMSBWebfax     F698A1717092022
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,127 +44,139 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717088409
+OL,0,        ECIMSBWebfax     F698A1717092022
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 30 MAY
-OL,4,G1800FBBC News
-OL,5,G1830FRegional News
-OL,6,G1900FThe One Show
-OL,7,     GAlex Jones and Roman Kemp bring
-OL,8,     Gyou the stories that matter from
-OL,9,     Gacross the country.
-OL,10,G1930FEastEnders
-OL,11,     GRavi has a lot to think about,
-OL,12,     GJunior plays peacemaker, and
-OL,13,     GKathy stands up for her son.
-OL,14,G2000FQuestion Time
-OL,15,     GFiona Bruce presents an hour of
-OL,16,     Gdebate from Epsom in Surrey, with
-OL,17,     GDamian Hinds, Wes Streeting,
-OL,18,     GNigel Farage, Rose Hudson-Wilkin
-OL,19,     Gand Piers Morgan.
+OL,4,G1900FThe One Show
+OL,5,     GAlex Jones and Roman Kemp bring
+OL,6,     Gyou the stories that matter from
+OL,7,     Gacross the country.
+OL,8,G1930FEastEnders
+OL,9,     GRavi has a lot to think about,
+OL,10,     GJunior plays peacemaker, and
+OL,11,     GKathy stands up for her son.
+OL,12,G2000FQuestion Time
+OL,13,     GFiona Bruce presents an hour of
+OL,14,     Gdebate from Epsom in Surrey, with
+OL,15,     GDamian Hinds, Wes Streeting,
+OL,16,     GNigel Farage, Rose Hudson-Wilkin
+OL,17,     Gand Piers Morgan.
+OL,18,G2100FThe Outlaws
+OL,19,     GRani's shocking return throws the
+OL,20,     Goutlaws back into the heart of a
+OL,21,     Gcrime. Contains some strong
+OL,22,     Glanguage and adult humour.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717088409
+OL,0,        ECIMSBWebfax     F698A1717092022
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 30 MAY
-OL,4,G1715FFlog It!
-OL,5,     GFlog It! is in Scotland today at
-OL,6,     GCulzean Castle in Ayrshire.
-OL,7,G1815FCricket: England v Pakistan T20
-OL,8,     GLive uninterrupted coverage of
-OL,9,     Gthe fourth and final T20 match
-OL,10,     Gbetween England and Pakistan from
-OL,11,     Gthe Oval in London.
-OL,12,G2200FLive at the Apollo
-OL,13,     GAngela Barnes hosts, introducing
-OL,14,     Gcomedians Sarah Keyworth and Tim
-OL,15,     GRenkow to the stage. Contains
-OL,16,     Gsome strong language and adult
-OL,17,     Ghumour.
-OL,18,G2230FNewsnight
-OL,19,G2300FWeather
+OL,4,G1815FCricket: England v Pakistan T20
+OL,5,     GLive uninterrupted coverage of
+OL,6,     Gthe fourth and final T20 match
+OL,7,     Gbetween England and Pakistan from
+OL,8,     Gthe Oval in London.
+OL,9,G2200FLive at the Apollo
+OL,10,     GAngela Barnes hosts, introducing
+OL,11,     Gcomedians Sarah Keyworth and Tim
+OL,12,     GRenkow to the stage. Contains
+OL,13,     Gsome strong language and adult
+OL,14,     Ghumour.
+OL,15,G2230FNewsnight
+OL,16,G2300FWeather
+OL,17,G2305FThe Misadventures of Romesh
+OL,18,     FRanganathan
+OL,19,     GRom is taunted by chimps, risks
+OL,20,     Ghis life in rapids and gets drunk
+OL,21,     Gon bananas in Uganda. Contains
+OL,22,     Gsome strong language.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717088409
+OL,0,        ECIMSBWebfax     F698A1717092022
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 30 MAY
-OL,4,G1800FRegional News
-OL,5,G1830FITV Evening News
-OL,6,G1900FEmmerdale
-OL,7,     GManpreet confesses, Liam is
-OL,8,     Gjolted into action, and Ruby
-OL,9,     Gbreaks down.
-OL,10,G1930FCoronation Street
-OL,11,     GSarah regrets her reckless
-OL,12,     Gactions as Nathan is questioned
-OL,13,     Gover Lauren's murder, Joel's
-OL,14,     Gbetrayal angers Dee-Dee, and
-OL,15,     GGriff relies on deadly threats to
-OL,16,     Gforce a confession from Roy.
+OL,4,G1900FEmmerdale
+OL,5,     GManpreet confesses, Liam is
+OL,6,     Gjolted into action, and Ruby
+OL,7,     Gbreaks down.
+OL,8,G1930FCoronation Street
+OL,9,     GSarah regrets her reckless
+OL,10,     Gactions as Nathan is questioned
+OL,11,     Gover Lauren's murder, Joel's
+OL,12,     Gbetrayal angers Dee-Dee, and
+OL,13,     GGriff relies on deadly threats to
+OL,14,     Gforce a confession from Roy.
+OL,15,G2000FBritain's Got Talent
+OL,16,     GThe semi-finals of the 17th
+OL,17,     Gseries are back with acts
+OL,18,     Gcompeting against one another in
+OL,19,     Gthe fourth semi-final to land
+OL,20,     Gthemselves a valuable place in
+OL,21,     Gthe grand final.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717088409
+OL,0,        ECIMSBWebfax     F698A1717092022
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 30 MAY
-OL,4,G1800FFour in a Bed
-OL,5,     GThe new run continues. Karl and
-OL,6,     GRohini host the week's final
-OL,7,     Gvisit at their unusual
-OL,8,     Gaccommodation in Kent, complete
-OL,9,     Gwith an indoor beach. But not
-OL,10,     Geveryone is a fan.
-OL,11,G1830FThe Simpsons
-OL,12,     GEight Misbehavin': Apu and
-OL,13,     GManjula take fertility drugs to
-OL,14,     Gget pregnant and end up with
-OL,15,     Goctuplets. Local companies shower
-OL,16,     Gthem with gifts, until the
-OL,17,     GShelbyville Nine are born.
-OL,18,G1900FChannel 4 News
-OL,19,     GChannel 4's flagship news
-OL,20,     Gprogramme. Including the weather.
+OL,4,G1900FChannel 4 News
+OL,5,     GChannel 4's flagship news
+OL,6,     Gprogramme. Including the weather.
+OL,7,G2000FThe Truth about Temu...
+OL,8,     GDispatches: What's the story
+OL,9,     Gbehind the runaway success of the
+OL,10,     Gaddictive Chinese shopping app?
+OL,11,     GWith half a billion downloads
+OL,12,     Gworldwide, are Temu's rock-bottom
+OL,13,     Gprices too good to be true?
+OL,14,G2030FKirstie and Phil's Love It or
+OL,15,     FList It
+OL,16,     GBrilliant Builds - Kirstie and
+OL,17,     GPhil look back on one of their
+OL,18,     Gmost turbulent builds ever: Amber
+OL,19,     Gand Martin's working from home
+OL,20,     Gtransformation in Waterbeach,
+OL,21,     GCambridgeshire.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717088409
+OL,0,        ECIMSBWebfax     F698A1717092022
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 30 MAY
-OL,4,G1800FAmazing Railway Adventures with
-OL,5,     FNick Knowles
-OL,6,     GTravelling north from Trondheim,
-OL,7,     GNick stays for a night on the
-OL,8,     GRiver Namsen, takes a helicopter
-OL,9,     Gride, meets a reindeer herder and
-OL,10,     Ggoes swimming in near freezing
-OL,11,     Gsea.
-OL,12,G1900FEscape to the Farm with Kate
-OL,13,     FHumble
-OL,14,     GKate embraces treehouse
-OL,15,     Gaccommodation, and arrives with
-OL,16,     Gthree tiny additions to the farm.
-OL,17,     GShe also explores a dark secret
-OL,18,     Gbeneath the surface of the River
-OL,19,     GWye.
+OL,4,G1900FEscape to the Farm with Kate
+OL,5,     FHumble
+OL,6,     GKate embraces treehouse
+OL,7,     Gaccommodation, and arrives with
+OL,8,     Gthree tiny additions to the farm.
+OL,9,     GShe also explores a dark secret
+OL,10,     Gbeneath the surface of the River
+OL,11,     GWye.
+OL,12,G2000FReuben: Life in the Dales
+OL,13,     GIt's winter and there are
+OL,14,     Gproblems aplenty for Reuben and
+OL,15,     Ghis pals - from a plumbing
+OL,16,     Gproject that turns into a
+OL,17,     Gdisaster to Reuben's digger
+OL,18,     Gcracking through tarmac at a
+OL,19,     Grenovation site.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
