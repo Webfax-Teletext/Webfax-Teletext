@@ -1,11 +1,11 @@
 PN,23601
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1717045030
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/8
+OL,0,        ECIMSBWebfax     F236A1717048645
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 MAY
+OL,3,CProgramme listings for FRI 31 MAY
 OL,4,G0600FBreakfast
 OL,5,     GThe latest news, sport, business
 OL,6,     Gand weather from the BBC's
@@ -28,12 +28,12 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23602
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1717045030
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/8
+OL,0,        ECIMSBWebfax     F236A1717048645
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 MAY
-OL,4,G1800FBBC News at Six
+OL,3,CProgramme listings for FRI 31 MAY
+OL,4,G1800FBBC News
 OL,5,     GThe latest national and
 OL,6,     Ginternational news from the BBC.
 OL,7,G1830FSportsday
@@ -43,19 +43,20 @@ OL,10,     Ganalysis and original journalism.
 OL,11,G1900FBBC News
 OL,12,     GThe latest news from the BBC.
 OL,13,G1915FNewscast
-OL,14,     GLighthearted discussion of the
-OL,15,     Gweek's political events.
-OL,16,G1945FBBC News
-OL,17,     GThe latest news from the BBC.
+OL,14,     GThe latest analysis and gossip
+OL,15,     Gfrom the general election
+OL,16,     Gcampaign.
+OL,17,G1945FBBC News
+OL,18,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23603
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1717045030
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/8
+OL,0,        ECIMSBWebfax     F236A1717048645
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 MAY
+OL,3,CProgramme listings for FRI 31 MAY
 OL,4,G2000FThe Context
 OL,5,     GPresented by Christian Fraser. A
 OL,6,     Gregular panel of guests from
@@ -78,11 +79,11 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23604
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1717045030
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/8
+OL,0,        ECIMSBWebfax     F236A1717048645
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 MAY
+OL,3,CProgramme listings for FRI 31 MAY
 OL,4,G2130FThe Context
 OL,5,     GPresented by Christian Fraser. A
 OL,6,     Gregular panel of guests from
@@ -98,100 +99,81 @@ OL,15,     GThe latest news from the BBC.
 OL,16,G2300FBBC News
 OL,17,     GThe latest news from the BBC.
 OL,18,G2330FNewscast
-OL,19,     GLighthearted discussion of the
-OL,20,     Gweek's political events.
+OL,19,     GThe latest analysis and gossip
+OL,20,     Gfrom the general election
+OL,21,     Gcampaign.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23605
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1717045030
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/8
+OL,0,        ECIMSBWebfax     F236A1717048645
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 MAY
-OL,4,G0000FNewsday
-OL,5,     GLive from Singapore, the latest
-OL,6,     Ginternational news from the BBC.
-OL,7,G0030FBusiness Today
-OL,8,     GBringing the latest business news
-OL,9,     Gand up-to-date informed analysis
-OL,10,     Gfrom Singapore and around the
-OL,11,     Gworld.
-OL,12,G0045FSportsday
-OL,13,     GA round-up of the day's sporting
-OL,14,     Gaction, plus talking points,
-OL,15,     Ganalysis and original journalism.
-OL,16,G0100FNewsday
-OL,17,     GLive from Singapore, the latest
-OL,18,     Ginternational news from the BBC.
+OL,3,CProgramme listings for FRI 31 MAY
+OL,4,G0000FBBC News
+OL,5,     GThe latest news from the BBC.
+OL,6,G0030FThe Travel Show
+OL,7,     GFormer Paralympian Steve Brown
+OL,8,     Gvisits Paris ahead of the 2024
+OL,9,     GSummer Olympics and Paralympics,
+OL,10,     Gto find out how the Games are
+OL,11,     Gtransforming this iconic city.
+OL,12,G0100FBBC News
+OL,13,     GThe latest news from the BBC.
+OL,14,G0130FClick
+OL,15,     GClick revisits some of the team's
+OL,16,     Gfavourite stories from the worlds
+OL,17,     Gof art and music.
+OL,18,G0200FBBC News
+OL,19,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23606
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1717045030
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G6/8
+OL,0,        ECIMSBWebfax     F236A1717048645
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G6/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 MAY
-OL,4,G0130FBusiness Today
-OL,5,     GBringing the latest business news
-OL,6,     Gand up-to-date informed analysis
-OL,7,     Gfrom Singapore and around the
-OL,8,     Gworld.
-OL,9,G0145FSportsday
-OL,10,     GA round-up of the day's sporting
-OL,11,     Gaction, plus talking points,
-OL,12,     Ganalysis and original journalism.
-OL,13,G0200FBBC News
-OL,14,     GThe latest news from the BBC.
-OL,15,G0230FBusiness Today
-OL,16,     GBringing the latest business news
-OL,17,     Gand up-to-date informed analysis
-OL,18,     Gfrom Singapore and around the
-OL,19,     Gworld.
+OL,3,CProgramme listings for FRI 31 MAY
+OL,4,G0230FArabian Adventures
+OL,5,     GExplorer and adventurer Alice
+OL,6,     GMorrison travels to Jordan and
+OL,7,     GSaudi Arabia on a quest to reveal
+OL,8,     Gthe secrets of a forgotten
+OL,9,     Gancient empire, that of the
+OL,10,     GNabataeans.
+OL,11,G0300FBBC News
+OL,12,     GThe latest news from the BBC.
+OL,13,G0330FThe Other War
+OL,14,     GA BBC team reveals first-hand the
+OL,15,     Gimpact of an Israeli Military
+OL,16,     Goperation on a Palestinian
+OL,17,     Grefugee camp.
+OL,18,G0400FBBC News
+OL,19,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,23607
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1717045030
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G7/8
+OL,0,        ECIMSBWebfax     F236A1717048645
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G7/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 MAY
-OL,4,G0245FSportsday
-OL,5,     GA round-up of the day's sporting
-OL,6,     Gaction, plus talking points,
-OL,7,     Ganalysis and original journalism.
-OL,8,G0300FBBC News
-OL,9,     GThe latest news from the BBC.
-OL,10,G0330FLiving Between Enemy Lines
-OL,11,     GInside Korea's Demilitarised Zone
-OL,12,     Gsits a tiny village, metres from
-OL,13,     GNorth Korea. The strip of no
-OL,14,     Gman's land separates north and
-OL,15,     Gsouth, and is home to a community
-OL,16,     Gsecured by more than 800 soldiers.
-OL,17,G0400FBBC News
-OL,18,     GThe latest news from the BBC.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,23608
-SC,0008
-PS,c000
-OL,0,        ECIMSBWebfax     F236A1717045030
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G8/8
-OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 30 MAY
-OL,4,G0430FHARDtalk
-OL,5,     GMishal Husain speaks to the
-OL,6,     Gformer prime minister of the
-OL,7,     GPalestinian Authority, Mohammed
-OL,8,     GShtayyeh. How does he see the
-OL,9,     GPalestinian people's future?
-OL,10,G0500FBBC News
-OL,11,     GThe latest news from the BBC.
-OL,12,G0530FBusiness Today
-OL,13,     GBringing the latest business news
-OL,14,     Gand up-to-date informed analysis
-OL,15,     Gfrom London and around the world.
+OL,3,CProgramme listings for FRI 31 MAY
+OL,4,G0430FThe Media Show
+OL,5,     GA global, topical weekly show
+OL,6,     Gthat lifts the hood on the
+OL,7,     Gentertainment and news business.
+OL,8,     GThe Media Show explores the
+OL,9,     Gcompanies and personalities who
+OL,10,     Gcommand our attention.
+OL,11,G0500FBBC News
+OL,12,     GThe latest news from the BBC.
+OL,13,G0530FThe Travel Show
+OL,14,     GFormer Paralympian Steve Brown
+OL,15,     Gvisits Paris ahead of the 2024
+OL,16,     GSummer Olympics and Paralympics,
+OL,17,     Gto find out how the Games are
+OL,18,     Gtransforming this iconic city.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
