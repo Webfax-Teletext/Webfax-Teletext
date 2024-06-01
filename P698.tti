@@ -1,7 +1,7 @@
 PN,69801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717200440
+OL,0,        ECIMSBWebfax     F698A1717204053
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717200440
+OL,0,        ECIMSBWebfax     F698A1717204053
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,42 +44,37 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,69803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717200440
+OL,0,        ECIMSBWebfax     F698A1717204053
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 31 MAY
-OL,4,G0105FWeather for the Week Ahead
-OL,5,G0110FBBC News
+OL,4,G0110FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,69804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717200440
+OL,0,        ECIMSBWebfax     F698A1717204053
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 31 MAY
-OL,4,G0105FAndi Oliver's Fabulous Feasts
-OL,5,     GFormer Mr Gay Wales calls on Andi
-OL,6,     Gto help make Merthyr Tydfil Pride
-OL,7,     Ga roaring success.
-OL,8,G0205FDavid & Jay's Touring Toolshed
-OL,9,     GDavid and Jay are on a mission to
-OL,10,     Ghelp Holly with an ambitious Star
-OL,11,     GWars costume. Later, they go head-
-OL,12,     Gto-head at extreme timber sports
-OL,13,     G- but who will win?
-OL,14,G0235FThis is BBC Two
+OL,4,G0205FDavid & Jay's Touring Toolshed
+OL,5,     GDavid and Jay are on a mission to
+OL,6,     Ghelp Holly with an ambitious Star
+OL,7,     GWars costume. Later, they go head-
+OL,8,     Gto-head at extreme timber sports
+OL,9,     G- but who will win?
+OL,10,G0235FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,69805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717200440
+OL,0,        ECIMSBWebfax     F698A1717204053
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -101,7 +96,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717200440
+OL,0,        ECIMSBWebfax     F698A1717204053
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -124,24 +119,27 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,69807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F698A1717200440
+OL,0,        ECIMSBWebfax     F698A1717204053
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 31 MAY
-OL,4,G2330FBob Monkhouse: Master of Laughter
-OL,5,     GInsightful documentary about Bob
-OL,6,     GMonkhouse, one of Britain's most
-OL,7,     Gsuccessful entertainers, who
-OL,8,     Genjoyed a stellar career that
-OL,9,     Gincluded comedy writing,
-OL,10,     Gappearing in films, and
-OL,11,     Gpresenting on TV.
-OL,12,G0120FPlayOJO Live Casino Show
-OL,13,     GRed or black? Odds or evens?
-OL,14,     GWhichever way you play, get that
-OL,15,     GOJO feeling with two hours of
-OL,16,     Gexciting live roulette every
-OL,17,     Gsingle night! Take us for a spin
-OL,18,     Gand feel the fun at playojo.com.
+OL,4,G0120FPlayOJO Live Casino Show
+OL,5,     GRed or black? Odds or evens?
+OL,6,     GWhichever way you play, get that
+OL,7,     GOJO feeling with two hours of
+OL,8,     Gexciting live roulette every
+OL,9,     Gsingle night! Take us for a spin
+OL,10,     Gand feel the fun at playojo.com.
+OL,11,G0320FBargain-Loving Brits in the Sun
+OL,12,     GOut in the hills away from the
+OL,13,     Gbeach we join Mel, the retired ex-
+OL,14,     Gbanker living a relaxed life in
+OL,15,     GSpain and cousins John and Jamie
+OL,16,     Gmaking the most of a day off.
+OL,17,G0410FDivine Designs
+OL,18,     GPaul Binski looks at the changes
+OL,19,     Gin church art from the crudeness
+OL,20,     Gof the 14th century to the
+OL,21,     Gsophisticated style of the 15th.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
