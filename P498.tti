@@ -1,7 +1,7 @@
 PN,49801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717442298
+OL,0,        ECIMSBWebfax     F498A1717445912
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717442298
+OL,0,        ECIMSBWebfax     F498A1717445912
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,88 +44,93 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717442298
+OL,0,        ECIMSBWebfax     F498A1717445912
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 3 JUN
-OL,4,G2000FThe Missing Cryptoqueen: Dead...
-OL,5,     Gor Alive? - Panorama.
-OL,6,     GInvestigative documentary.
-OL,7,G2030FThe Bidding Room
-OL,8,     GFive top dealers bid against each
-OL,9,     Gother for items brought in by the
-OL,10,     Gpublic.
-OL,11,G2100FLost Boys and Fairies
-OL,12,     GQueer performance artist Gabriel
-OL,13,     Gand his partner Andy long to
-OL,14,     Gadopt a child. Contains some
-OL,15,     Gstrong language, some sexual
-OL,16,     Gcontent and some upsetting sc...
-OL,17,G2200FBBC News and Weather
-OL,18,G2230FRegional News
+OL,4,G2100FLost Boys and Fairies
+OL,5,     GQueer performance artist Gabriel
+OL,6,     Gand his partner Andy long to
+OL,7,     Gadopt a child. Contains some
+OL,8,     Gstrong language, some sexual
+OL,9,     Gcontent and some upsetting sc...
+OL,10,G2200FBBC News and Weather
+OL,11,G2230FRegional News
+OL,12,G2240FHave I Got a Bit More News for You
+OL,13,     GVictoria Coren Mitchell is host,
+OL,14,     Gwith guest panellists Chris
+OL,15,     GMcCausland and Sophy Ridge.
+OL,16,     GContains very strong language.
+OL,17,G2325FI Kissed a Girl
+OL,18,     GThe girls are nearing their Final
+OL,19,     GKiss-Off. Will they commit to a
+OL,20,     Grelationship back home? Or will
+OL,21,     Gthey call time on their summer
+OL,22,     Gromance? Contains strong language.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,49804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717442298
+OL,0,        ECIMSBWebfax     F498A1717445912
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 3 JUN
-OL,4,G2000FSpringwatch
-OL,5,     GChris and Michaela are at RSPB
-OL,6,     GArne with an update on the
-OL,7,     Gweekend's wildlife drama, Iolo is
-OL,8,     Gout and about with orchids and
-OL,9,     Gturtle doves, and Megan is on the
-OL,10,     Gbanks of Loch Lomond.
-OL,11,G2100FD-Day: The Unheard Tapes
-OL,12,     GThe D-Day invasion hangs in the
-OL,13,     Gbalance as soldiers battle on the
-OL,14,     Gbeaches of Normandy. Contains
-OL,15,     Gsome strong language and
-OL,16,     Gupsetting scenes.
-OL,17,G2200FMortimer & Whitehouse: Gone
-OL,18,     FFishing
-OL,19,     GPaul and Bob travel to the serene
-OL,20,     GSurrey Hills to fish for carp and
-OL,21,     Gbarbel.
-OL,22,G2230FNewsnight
+OL,4,G2100FD-Day: The Unheard Tapes
+OL,5,     GThe D-Day invasion hangs in the
+OL,6,     Gbalance as soldiers battle on the
+OL,7,     Gbeaches of Normandy. Contains
+OL,8,     Gsome strong language and
+OL,9,     Gupsetting scenes.
+OL,10,G2200FMortimer & Whitehouse: Gone
+OL,11,     FFishing
+OL,12,     GPaul and Bob travel to the serene
+OL,13,     GSurrey Hills to fish for carp and
+OL,14,     Gbarbel.
+OL,15,G2230FNewsnight
+OL,16,G2300FWeather
+OL,17,G2305FHidden Treasures of the National
+OL,18,     FTrust
+OL,19,     GA showstopping clock needs
+OL,20,     Grestarting, and a 1920s house
+OL,21,     Gfrozen in time is under threat.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,49805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717442298
+OL,0,        ECIMSBWebfax     F498A1717445912
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 3 JUN
-OL,4,G2000FCoronation Street
-OL,5,     GBethany sends Craig on a wild
-OL,6,     Ggoose chase, Adam accuses Bobby
-OL,7,     Gand Carla of putting Daniel in
-OL,8,     Gthe frame for murder, and Leanne
-OL,9,     Garrives home to find Simon about
-OL,10,     Gto leave the country.
-OL,11,G2100FLove Island
-OL,12,     GEveryone's favourite villa is
-OL,13,     Gready and waiting packed with
-OL,14,     Gbrand-new sexy singles and host
-OL,15,     GMaya Jama - with the first
-OL,16,     Gcoupling up on the way, the game
-OL,17,     Gis well and truly on.
-OL,18,G2230FITV News
-OL,19,G2300FRegional News
+OL,4,G2100FLove Island
+OL,5,     GEveryone's favourite villa is
+OL,6,     Gready and waiting packed with
+OL,7,     Gbrand-new sexy singles and host
+OL,8,     GMaya Jama - with the first
+OL,9,     Gcoupling up on the way, the game
+OL,10,     Gis well and truly on.
+OL,11,G2230FITV News
+OL,12,G2300FRegional News
+OL,13,G2315FInstagram's Worst Con Artist
+OL,14,     GThe concluding part of the
+OL,15,     Gdocumentary series. Our
+OL,16,     Gjournalist delves deeper and
+OL,17,     Glearns that Belle has a history
+OL,18,     Gof health lies dating back to her
+OL,19,     Gteenage years.
+OL,20,G0005FShop on TV
+OL,21,     GTeleshopping.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,49806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717442298
+OL,0,        ECIMSBWebfax     F498A1717445912
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -149,24 +154,23 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,49807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717442298
+OL,0,        ECIMSBWebfax     F498A1717445912
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 3 JUN
-OL,4,G2000FMotorway Cops: Catching Britain's
-OL,5,     FSpeeders
-OL,6,     GA Paul Gascoigne lookalike is
-OL,7,     Gpulled over for speeding and
-OL,8,     Gbullying other drivers, and a
-OL,9,     Greckless driver reacts to being
-OL,10,     Gstopped with a foul-mouthed
-OL,11,     Gtirade.
-OL,12,G2100FThe Hospital: Life on the Line
-OL,13,     GDedicated staff at the NHS Golden
-OL,14,     GJubilee Hospital near Glasgow
-OL,15,     Gprovide a lifeline to patients,
-OL,16,     Gincluding a 54-year-old who had a
-OL,17,     Gheart attack and now awaits a
-OL,18,     Gtransplant.
+OL,4,G2100FThe Hospital: Life on the Line
+OL,5,     GDedicated staff at the NHS Golden
+OL,6,     GJubilee Hospital near Glasgow
+OL,7,     Gprovide a lifeline to patients,
+OL,8,     Gincluding a 54-year-old who had a
+OL,9,     Gheart attack and now awaits a
+OL,10,     Gtransplant.
+OL,11,G2200FSerial Killer Wives
+OL,12,     GShocking true crime series
+OL,13,     Gmeeting the partners of sadistic
+OL,14,     Gmurderers. This episode features
+OL,15,     GKathy, who had no idea the man
+OL,16,     Gshe loved would be revealed as a
+OL,17,     Gtriple murderer.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
