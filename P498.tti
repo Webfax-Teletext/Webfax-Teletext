@@ -1,7 +1,7 @@
 PN,49801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717482042
+OL,0,        ECIMSBWebfax     F498A1717485654
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717482042
+OL,0,        ECIMSBWebfax     F498A1717485654
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,7 +44,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717482042
+OL,0,        ECIMSBWebfax     F498A1717485654
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -72,36 +72,37 @@ FL,202,231,200,140,203,100
 PN,49804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717482042
+OL,0,        ECIMSBWebfax     F498A1717485654
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 4 JUN
-OL,4,G0645FGarden Rescue Revisited
-OL,5,     GCharlie goes back to discover
-OL,6,     Gthat a formal garden she designed
-OL,7,     Gand built five years ago has
-OL,8,     Ggrown into something completely
-OL,9,     Gdifferent.
-OL,10,G0730FClive Myrie's Caribbean Adventure
-OL,11,     GClive heads to the busy
-OL,12,     GCoronation Market, nestled in
-OL,13,     GDowntown Kingston. He tries out
-OL,14,     Ghis Jamaican patois, grabs some
-OL,15,     Ggreat street food and he hits the
-OL,16,     Gbest reggae club in town.
-OL,17,G0800FRace Across the World
-OL,18,     GTravellers race across the world
-OL,19,     Gwithout smartphones, internet
-OL,20,     Gaccess or credit cards.
-OL,21,G0900FBBC News
+OL,4,G0800FRace Across the World
+OL,5,     GTravellers race across the world
+OL,6,     Gwithout smartphones, internet
+OL,7,     Gaccess or credit cards.
+OL,8,G0900FBBC News
+OL,9,G1215FPolitics Live
+OL,10,     GThe big political issues of the
+OL,11,     Gday.
+OL,12,G1300FImpossible
+OL,13,     GCan players avoid giving
+OL,14,     GImpossible answers and stay in
+OL,15,     Gthe running for a #10,000 jackpot?
+OL,16,G1345FMastermind
+OL,17,     GClive Myrie hosts the classic
+OL,18,     Gquiz where contenders take the
+OL,19,     Gfamous black chair. Subjects are
+OL,20,     GMadonna, the ER character Doug
+OL,21,     GRoss, the rivers of Yorkshire and
+OL,22,     Gthe NHL.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,49805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717482042
+OL,0,        ECIMSBWebfax     F498A1717485654
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -124,51 +125,56 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,49806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717482042
+OL,0,        ECIMSBWebfax     F498A1717485654
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 4 JUN
-OL,4,G0720F3rd Rock from the Sun
-OL,5,     GThe Big Giant Head Returns Again
-OL,6,     G: Series five finale. Dick
-OL,7,     Gstruggles with the news that the
-OL,8,     GBig Giant Head is his father.
-OL,9,     GVicki pretends to be friendly to
-OL,10,     GJanice.
-OL,11,G0745FEverybody Loves Raymond
-OL,12,     GRobert's Wedding : Robert is
-OL,13,     Gsuspicious of Peter's attempts to
-OL,14,     Gbury the hatchet, prompting him
-OL,15,     Gto ask Ray to watch him.
-OL,16,G0810FEverybody Loves Raymond
-OL,17,     GRobert's Wedding : Robert and Amy
-OL,18,     Gexchange vows in a wedding
-OL,19,     Gceremony that has the Barone
-OL,20,     Gfamily tradition written all over
-OL,21,     Git.
+OL,4,G0810FEverybody Loves Raymond
+OL,5,     GRobert's Wedding : Robert and Amy
+OL,6,     Gexchange vows in a wedding
+OL,7,     Gceremony that has the Barone
+OL,8,     Gfamily tradition written all over
+OL,9,     Git.
+OL,10,G0840FEverybody Loves Raymond
+OL,11,     GFun with Debra: Debra convinces
+OL,12,     GRay that he should allow her to
+OL,13,     Gjoin him on the golf course after
+OL,14,     Gshe realises they don't have fun
+OL,15,     Gtogether any more.
+OL,16,G0910FEverybody Loves Raymond
+OL,17,     GThank You Notes: Marie tries to
+OL,18,     Gget the upper hand in her
+OL,19,     Grelationship with her new
+OL,20,     Gdaughter-in-law when Amy and
+OL,21,     GRobert return from their
+OL,22,     Ghoneymoon.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,49807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717482042
+OL,0,        ECIMSBWebfax     F498A1717485654
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 4 JUN
-OL,4,G0715FPAW Patrol
-OL,5,     GRubble dreams that Apollo the
-OL,6,     GSuper-Pup comes to Adventure Bay
-OL,7,     Gand the pups rescue him from his
-OL,8,     Garch-enemy, the Spider King!
-OL,9,G0730FPip and Posy
-OL,10,     GPip leaves Posy alone to have a
-OL,11,     Gjungle adventure but gets jealous
-OL,12,     Gwhen she invents a new imaginary
-OL,13,     Gjungle buddy, Pop.
-OL,14,G0735FThe Adventures of Paddington
-OL,15,     GThe Browns are off to the beach
-OL,16,     Gfor their holiday and, on
-OL,17,     Garrival, meet Shantee the
-OL,18,     Glighthouse keeper.
+OL,4,G0810FPaw Patrol
+OL,5,     GAnimation. The Mayor's tulips are
+OL,6,     Gat risk. Can the Pups save them?
+OL,7,G0825FMilkshake! Forest School
+OL,8,     GWe join Milkshakers making
+OL,9,     Gsistrums out of tree branches in
+OL,10,     Gtheir forest school, and Olivia
+OL,11,     Gshows us how to make cool sounds
+OL,12,     Gusing some forest finds.
+OL,13,G0835FPeppa Pig
+OL,14,     GPeppa and her family are looking
+OL,15,     Gforward to a trip to the seaside,
+OL,16,     Gbut when they arrive at the beach
+OL,17,     Gthere is too much snow!
+OL,18,G0840FPeppa Pig
+OL,19,     GGrandpa Pig's Computer: Mummy Pig
+OL,20,     Ggives Granny and Grandpa Pig her
+OL,21,     Gold computer to work, and play,
+OL,22,     Gon.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
