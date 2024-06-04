@@ -2,15 +2,15 @@ PN,37301
 SC,0001
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F373A1717514566
+OL,0,        ECIMSBWebfax     F373A1717518175
 OL,3,CYour Pollen forecast for the Midlands
 OL,5,FEast Midlands Pollen Forecast
-OL,7,FPollen levels are high, but will
-OL,8,Freduce to moderate by Tuesday.
-OL,10,FWest Midlands Pollen Forecast
-OL,12,FPollen levels are currently high, but
-OL,13,Fwill reduce to moderate later in the
-OL,14,Fweek.
+OL,7,FPollen levels are moderate for the
+OL,8,Fnext couple of days. High towards the
+OL,9,Fend of the week.
+OL,11,FWest Midlands Pollen Forecast
+OL,13,FPollen levels are moderate for the
+OL,14,Fnext few days.
 OL,16,FLocal Pollen Information for the
 OL,17,FMidlands
 OL,1,W{$~k4{$k4~sjw=                 G1/6
@@ -21,7 +21,7 @@ PN,37302
 SC,0002
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F373A1717514566
+OL,0,        ECIMSBWebfax     F373A1717518175
 OL,3,CYour Pollen forecast for the Midlands
 OL,5,FThe Midlands often experience very
 OL,6,Fsevere grass pollen seasons. The
@@ -43,7 +43,7 @@ PN,37303
 SC,0003
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F373A1717514566
+OL,0,        ECIMSBWebfax     F373A1717518175
 OL,3,CYour Pollen forecast for the Midlands
 OL,5,FPollen is a very fine powder produced
 OL,6,Fby the male parts of trees, flowers,
@@ -63,7 +63,7 @@ PN,37304
 SC,0004
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F373A1717514566
+OL,0,        ECIMSBWebfax     F373A1717518175
 OL,3,CYour Pollen forecast for the Midlands
 OL,5,FSome peoples immune system mistakenly
 OL,6,Fidentify harmless pollen as a threat
@@ -86,7 +86,7 @@ PN,37305
 SC,0005
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F373A1717514566
+OL,0,        ECIMSBWebfax     F373A1717518175
 OL,3,CYour Pollen forecast for the Midlands
 OL,5,FPollen counts tend to be higher in the
 OL,6,Fearly morning and late evening,
@@ -108,7 +108,7 @@ PN,37306
 SC,0006
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F373A1717514566
+OL,0,        ECIMSBWebfax     F373A1717518175
 OL,3,CYour Pollen forecast for the Midlands
 OL,5,FIn rural areas, the evening peak tends
 OL,6,Fto occur between 6pm and 9pm but in
