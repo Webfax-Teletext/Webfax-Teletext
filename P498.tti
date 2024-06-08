@@ -1,7 +1,7 @@
 PN,49801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717820600
+OL,0,        ECIMSBWebfax     F498A1717824212
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717820600
+OL,0,        ECIMSBWebfax     F498A1717824212
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,94 +44,135 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717820600
+OL,0,        ECIMSBWebfax     F498A1717824212
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 7 JUN
-OL,4,G0140FBBC News
+OL,3,CProgramme listings for SAT 8 JUN
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G1000FSaturday Kitchen Live
+OL,9,     GHost Matt Tebutt is joined by
+OL,10,     Gchefs Julie Lin and Tom Kitchen,
+OL,11,     Gand by special guest Paloma
+OL,12,     GFaith. Drinks expert Olly Smith
+OL,13,     Gpicks the wines to go with the
+OL,14,     Gstudio dishes.
+OL,15,G1130FMary Berry - Cook and Share
+OL,16,     GDame Mary Berry goes behind the
+OL,17,     Gscenes at a huge wedding, sharing
+OL,18,     Gmemories of her own special day
+OL,19,     Gand cooking up some delicious
+OL,20,     Gdishes perfect for sharing at
+OL,21,     Gspecial occasions.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,49804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717820600
+OL,0,        ECIMSBWebfax     F498A1717824212
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 7 JUN
+OL,3,CProgramme listings for SAT 8 JUN
 OL,4,G0315FThis is BBC Two
+OL,5,G0630FHey Duggee
+OL,6,     GThe Taste Badge. Duggee is making
+OL,7,     Ga smoothie, and the Squirrels
+OL,8,     Gcan't agree on whether it's yummy
+OL,9,     Gor not.
+OL,10,G0640FGo Jetters
+OL,11,     GThe Northern Lights, Finland.
+OL,12,     GAnimated adventure comedy series.
+OL,13,     GUbercorn is excited to see the
+OL,14,     Gnorthern lights, but Glitch's
+OL,15,     GGrunge-Grimbler covers them with
+OL,16,     Gsmoke.
+OL,17,G0650FGrizzy and the Lemmings
+OL,18,     GJelly Lemmings. The Lemmings
+OL,19,     Ginvent a whole bunch of bouncing
+OL,20,     Ggames with spongy jelly.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,49805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717820600
+OL,0,        ECIMSBWebfax     F498A1717824212
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 7 JUN
-OL,4,G0505FKatie Piper's Breakfast Show
-OL,5,     GKatie welcomes singer and Loose
-OL,6,     GWomen star Brenda Edwards, judge
-OL,7,     Gof The Great British Sewing Bee
-OL,8,     GPatrick Grant, broadcaster Lucy
-OL,9,     GEdwards and cupcake-making expert
-OL,10,     GFarley Berry.
+OL,3,CProgramme listings for SAT 8 JUN
+OL,4,G0600FLove Your Garden
+OL,5,     GGrantham: Alan Titchmarsh visits
+OL,6,     GGrantham to surprise Rob and
+OL,7,     GMargaret Isdale, who are in their
+OL,8,     G70s and have fostered over 150
+OL,9,     Gvulnerable children in the UK
+OL,10,     Gover the last 45 years.
+OL,11,G0630FGoldfinger
+OL,12,     GIconic Bond film starring Sean
+OL,13,     GConnery and Honor Blackman, 1964.
+OL,14,     G007 uncovers a plot to
+OL,15,     Gcontaminate the gold reserve at
+OL,16,     GFort Knox while investigating a
+OL,17,     Gdecadent gold smuggler.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,49806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717820600
+OL,0,        ECIMSBWebfax     F498A1717824212
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 7 JUN
-OL,4,G0500FCome Dine with Me
-OL,5,     GCardiff area. Part-time football
-OL,6,     Greferee Scott plans a menu of
-OL,7,     Gfamily favourites, with cheese in
-OL,8,     Gevery course. But tension is
-OL,9,     Grunning high after last night's
-OL,10,     Gdrama.
-OL,11,G0525FCome Dine with Me
-OL,12,     GCardiff area. Restaurateur
-OL,13,     GGiovanni plans a menu from his
-OL,14,     Gnative Italy. But Charlotte wants
-OL,15,     Grevenge after he criticised her
-OL,16,     Gnight, and the other guests think
-OL,17,     Ghe's trying too hard.
-OL,18,G0550FJamie's Comfort Food
-OL,19,     GJamie Oliver takes the nation's
-OL,20,     Gfavourite dishes to the next
-OL,21,     Glevel. In this episode, he cooks
-OL,22,     Gthe ultimate chicken Kiev.
+OL,3,CProgramme listings for SAT 8 JUN
+OL,4,G0605F3rd Rock from the Sun
+OL,5,     GSee Dick Continue to Run: Dick is
+OL,6,     Gstill trapped in the basement,
+OL,7,     Gwhile his doppelganger Evil Dick
+OL,8,     Gembarks on a plan to impregnate
+OL,9,     Gall the women in Ohio.
+OL,10,G0630F3rd Rock from the Sun
+OL,11,     G36! 24! 36! Dick! : Sally
+OL,12,     Gsuspects something is badly amiss
+OL,13,     Gwhen hordes of beautiful women
+OL,14,     Ginvade the town and start dating
+OL,15,     Gaverage guys like Dick, Harry and
+OL,16,     GTommy.
+OL,17,G0655FEverybody Loves Raymond
+OL,18,     GParty Dress: Ray and Debra
+OL,19,     Gdisagree over whether they should
+OL,20,     Gbuy an expensive dress for Ally
+OL,21,     Gto wear to a friend's formal 13th
+OL,22,     Gbirthday party.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,26,@oD@Wxp
 PN,49807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717820600
+OL,0,        ECIMSBWebfax     F498A1717824212
 OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 7 JUN
-OL,4,G0505FWildlife SOS
-OL,5,     GDocumentary series about the work
-OL,6,     Gof dedicated animal lovers who
-OL,7,     Gsave injured and orphaned wild
-OL,8,     Ganimals brought into their
-OL,9,     Gsanctuary.
-OL,10,G0530FHouse Doctor
-OL,11,     GAnn Maurice provides home
-OL,12,     Gimprovement advice for properties
-OL,13,     Gthat are proving difficult to
-OL,14,     Gsell. Ann visits a cluttered
-OL,15,     Ghouse in Cradley Heath.
-OL,16,G0555FEntertainment News on 5
-OL,17,     GA daily round-up of showbiz news
-OL,18,     Gand gossip from around the world,
-OL,19,     Gfocusing on celebrities, movies,
-OL,20,     Gmusic and entertainment.
+OL,3,CProgramme listings for SAT 8 JUN
+OL,4,G0620FThomas and Friends Special: Start
+OL,5,     FYour Engines
+OL,6,     GAs Sodor's oldest engine, Stephen
+OL,7,     Gworries about being able to keep
+OL,8,     Gpace with the younger engines,
+OL,9,     Gespecially since Gordon must
+OL,10,     Goften slow down for him.
+OL,11,G0630FFireman Sam
+OL,12,     GThe Wrong Smell: Helen and Penny
+OL,13,     Ggo on a mountain hike, but fog
+OL,14,     Grolls in and Penny twists her
+OL,15,     Gankle.
+OL,16,G0640FKangaroo Beach
+OL,17,     GFrizzy and Gemma investigate the
+OL,18,     Gmysterious disappearance of
+OL,19,     Gseveral boats in Kangaroo Beach's
+OL,20,     G"Barramundi Triangle".
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
