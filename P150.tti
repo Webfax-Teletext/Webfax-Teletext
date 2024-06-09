@@ -2,7 +2,7 @@ PN,15001
 SC,0001
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F150A1717956879
+OL,0,        ECIMSBWebfax     F150A1717960518
 OL,3,CJunctions not being broadcast in BBC
 OL,4,COne northern regions
 OL,6,GBBC One viewers in northern England
@@ -22,12 +22,13 @@ OL,22,F BBC One East Yorkshire/Lincolnshire.
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G1/2
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
-FL,151,149,8ff,8ff,8ff,8ff
+OL,24,AThis Day BClean FeedCTV Guide FNat News
+FL,120,140,200,300,000,100
 PN,15002
 SC,0002
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F150A1717956879
+OL,0,        ECIMSBWebfax     F150A1717960518
 OL,3,CJunctions not being broadcast in BBC
 OL,4,COne northern regions
 OL,6,FThis group of BBC One regions normally
@@ -36,4 +37,5 @@ OL,8,Fevening.
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G2/2
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
-FL,151,149,8ff,8ff,8ff,8ff
+OL,24,AThis Day BClean FeedCTV Guide FNat News
+FL,120,140,200,300,000,100
