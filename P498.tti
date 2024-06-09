@@ -1,7 +1,7 @@
 PN,49801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717945970
+OL,0,        ECIMSBWebfax     F498A1717949607
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717945970
+OL,0,        ECIMSBWebfax     F498A1717949607
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,64 +44,59 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717945970
+OL,0,        ECIMSBWebfax     F498A1717949607
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 9 JUN
-OL,4,G1450FA Dog's Journey
-OL,5,     GBailey, an old St Bernard dog, is
-OL,6,     Gapproaching the end of his life,
-OL,7,     Gbut he promises his owner Ethan
-OL,8,     Gthat he will always be there to
-OL,9,     Gprotect Ethan's granddaughter CJ.
-OL,10,G1635FThe Green Planet
-OL,11,     GDesert plants spend decades in
-OL,12,     Gsuspended animation waiting for
-OL,13,     Grain, or they travel to find it.
-OL,14,     GThey survive using weapons,
-OL,15,     Gcamouflage and surprising
-OL,16,     Galliances with animals.
-OL,17,G1735FBBC News
-OL,18,G1750FRegional News
-OL,19,G1755FWeather
+OL,4,G1635FThe Green Planet
+OL,5,     GDesert plants spend decades in
+OL,6,     Gsuspended animation waiting for
+OL,7,     Grain, or they travel to find it.
+OL,8,     GThey survive using weapons,
+OL,9,     Gcamouflage and surprising
+OL,10,     Galliances with animals.
+OL,11,G1735FBBC News
+OL,12,G1750FRegional News
+OL,13,G1755FWeather
+OL,14,G1800FCountryfile
+OL,15,     GCharlotte Smith and Joe Crowley
+OL,16,     Ghead to south west Wales, where
+OL,17,     Gthey help with a kelp harvest at
+OL,18,     GCar-y-Mor, Wales's first
+OL,19,     Gregenerative ocean farm.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
+OL,26,@zD@GspzD@Msw
 PN,49804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717945970
+OL,0,        ECIMSBWebfax     F498A1717949607
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 9 JUN
-OL,4,G1530FGalapagos: Islands of Change
-OL,5,     GWildlife documentary. David
-OL,6,     GAttenborough reveals how the
-OL,7,     Gunique and bizarre wildlife of
-OL,8,     Gthe Galapagos Islands is adapting
-OL,9,     Gto a human revolution.
-OL,10,G1615FPride and Prejudice
-OL,11,     GRomantic drama. Worried about
-OL,12,     Gwhat is to become of her five
-OL,13,     Gunmarried daughters, Mrs Bennet
-OL,14,     Gbelieves she may found an answer
-OL,15,     Gwhen a wealthy bachelor becomes
-OL,16,     Gtheir neighbour.
-OL,17,G1815FFlog It!
-OL,18,     GAntiques series. Paul Martin
-OL,19,     Gpresents from Norwich Cathedral
-OL,20,     Gin Norfolk, once home to
-OL,21,     GBenedictine monks, and he also
-OL,22,     Gvisits the circus.
+OL,4,G1615FPride and Prejudice
+OL,5,     GRomantic drama. Worried about
+OL,6,     Gwhat is to become of her five
+OL,7,     Gunmarried daughters, Mrs Bennet
+OL,8,     Gbelieves she may found an answer
+OL,9,     Gwhen a wealthy bachelor becomes
+OL,10,     Gtheir neighbour.
+OL,11,G1815FFlog It!
+OL,12,     GAntiques series. Paul Martin
+OL,13,     Gpresents from Norwich Cathedral
+OL,14,     Gin Norfolk, once home to
+OL,15,     GBenedictine monks, and he also
+OL,16,     Gvisits the circus.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,49805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717945970
+OL,0,        ECIMSBWebfax     F498A1717949607
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -127,38 +122,48 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,49806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717945970
-OL,1,W~s1ox4~+$                         G6/7
-OL,2,W,.! *%+.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,CProgramme listings NOT AVAILABLE
-OL,4,C
-OL,11,GWe're sorry that we can't yet provide
-OL,12,Gschedules for this channel.
-OL,22,B
+OL,0,        ECIMSBWebfax     F498A1717949607
+OL,1,W~+$z5~{4~k4~k4~sj5  ox4          G6/7
+OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,3,CProgramme listings for SUN 9 JUN
+OL,4,G1635FThe Day the Earth Stood Still
+OL,5,     GRemake of the sci-fi classic with
+OL,6,     GKeanu Reeves. An alien visits
+OL,7,     GEarth to tell humankind to stop
+OL,8,     Gdestroying the planet. But when
+OL,9,     Ghe's attacked, he decides to
+OL,10,     Geradicate us instead...
+OL,11,G1830FChannel 4 News
+OL,12,     GChannel 4's flagship news
+OL,13,     Gprogramme. Including the weather.
+OL,14,G1855FParty Election Broadcast
+OL,15,     GA party election broadcast by the
+OL,16,     GLiberal Democrats.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,49807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717945970
-OL,1,Wos!~{4~+$k7j5~k4~k4               G7/7
-OL,2,W,.!/*%+.!*%*%+.!/*%V,,,,,,,,,,,,,,,,,,,
+OL,0,        ECIMSBWebfax     F498A1717949607
+OL,1,W~+$z5~{4~k4~k4~sj5  os!          G7/7
+OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 9 JUN
-OL,4,G1605FTo Hell and Back
-OL,5,     GWorld War II drama starring Audie
-OL,6,     GMurphy and Marshall Thompson.
-OL,7,     GStory of a young man's life, from
-OL,8,     Gbeing a farmer's son to becoming
-OL,9,     Gan army lieutenant.
-OL,10,G1705FEntertainment News on 5
-OL,11,     GA daily round-up of showbiz news
-OL,12,     Gand gossip from around the world,
-OL,13,     Gfocusing on celebrities, movies,
-OL,14,     Gmusic and entertainment.
-OL,15,G1710FTo Hell and Back
-OL,16,     GWorld War II drama starring Audie
-OL,17,     GMurphy and Marshall Thompson.
-OL,18,     GStory of a young man's life, from
-OL,19,     Gbeing a farmer's son to becoming
-OL,20,     Gan army lieutenant.
+OL,4,G1700FSome Mothers Do 'Ave 'Em:..
+OL,5,     G...50 Years of Laughs.
+OL,6,     GCelebration of the beloved 70s
+OL,7,     Gsitcom that brought us Michael
+OL,8,     GCrawford's accident-prone Frank
+OL,9,     GSpencer. With the funniest clips,
+OL,10,     Gand insight from the writers and
+OL,11,     Gcrew.
+OL,12,G1825F5 News Weekend
+OL,13,     GNational and international news.
+OL,14,G1830FMichael Crawford: Mr Entertainment
+OL,15,     GExamining the phenomenal career
+OL,16,     Gspanning six decades of one of
+OL,17,     Gour greatest entertainers:
+OL,18,     GMichael Crawford, from Some
+OL,19,     GMothers Do 'Ave 'Em to The
+OL,20,     GPhantom of the Opera and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
