@@ -1,7 +1,7 @@
 PN,49801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717907314
+OL,0,        ECIMSBWebfax     F498A1717910922
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717907314
+OL,0,        ECIMSBWebfax     F498A1717910922
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,47 +44,88 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717907314
+OL,0,        ECIMSBWebfax     F498A1717910922
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 8 JUN
-OL,4,G0110FBBC News
+OL,3,CProgramme listings for SUN 9 JUN
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0900FSunday with Laura Kuenssberg
+OL,9,     GLaura Kuenssberg's guests are
+OL,10,     GWork and Pensions secretary Mel
+OL,11,     GStride, leader of Reform UK Nigel
+OL,12,     GFarage and SNP Westminster leader
+OL,13,     GStephen Flynn.
+OL,14,G1000FRegional Political Programmes
+OL,15,G1030FSunday Morning Live
+OL,16,     GSean Fletcher and Holly Hamilton
+OL,17,     Gask if the rich have a moral duty
+OL,18,     Gto help fix the climate crisis.
+OL,19,     GPlus, is it time to get tough on
+OL,20,     Gjunk food?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,49804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717907314
+OL,0,        ECIMSBWebfax     F498A1717910922
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 8 JUN
-OL,4,G0305FThis is BBC Two
+OL,3,CProgramme listings for SUN 9 JUN
+OL,4,G0615FGlorious Gardens from Above
+OL,5,     GHorticulturist Christine Walkden
+OL,6,     Gexplores gardens and countryside
+OL,7,     Gfrom a hot air balloon. Christine
+OL,8,     Gtakes to the skies above Sussex
+OL,9,     Gand drops in at West Dean Garden.
+OL,10,G0700FCountryfile
+OL,11,     GAnita Rani and Charlotte Smith
+OL,12,     Gtravel to Dorset, where 80 years
+OL,13,     Gago, tens of thousands of troops
+OL,14,     Gamassed as the Allies' combined
+OL,15,     Gforces prepared for D-Day.
+OL,16,G0800FOur Coast
+OL,17,     GMehreen takes to the skies with a
+OL,18,     Gformer RAF fighter pilot who is
+OL,19,     Gnow using his flying skills to
+OL,20,     Gdocument the large-scale
+OL,21,     Gpollution that is hidden along
+OL,22,     Gthe coastline.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC3 Tdy BBBC2 TmwC  TV Guide FNat News
 FL,203,232,200,300,204,100
 PN,49805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717907314
+OL,0,        ECIMSBWebfax     F498A1717910922
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 8 JUN
-OL,4,G0505FDeal or No Deal
-OL,5,     GStephen Mulhern hosts another
-OL,6,     Gexciting edition of the gameshow
-OL,7,     Gas one of his brave contestants
-OL,8,     Gtakes on the infamous Banker and
-OL,9,     Gcould be in with a chance of a
-OL,10,     Glife-changing prize.
+OL,3,CProgramme listings for SUN 9 JUN
+OL,4,G0600FJames Martin's Great British
+OL,5,     FAdventure
+OL,6,     GCornwall: James concludes his
+OL,7,     GBritish adventure by travelling
+OL,8,     Gto Cornwall, where his travelling
+OL,9,     Gcompanion is local hero and
+OL,10,     GPadstow-based chef Paul Ainsworth.
+OL,11,G0630FJames Martin's Spanish Adventure
+OL,12,     GCosta Blanca: James visits a
+OL,13,     Gcherry orchard in the Costa
+OL,14,     GBlanca, meets a fisherman selling
+OL,15,     GDenia shrimp, enjoys a denton
+OL,16,     Gfish dish in a port restaurant
+OL,17,     Gand sees how turron is made.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,49806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717907314
+OL,0,        ECIMSBWebfax     F498A1717910922
 OL,1,W~s1ox4~+$                         G6/7
 OL,2,W,.! *%+.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings NOT AVAILABLE
@@ -96,11 +137,24 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,49807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717907314
+OL,0,        ECIMSBWebfax     F498A1717910922
 OL,1,Wos!~{4~+$k7j5~k4~k4               G7/7
 OL,2,W,.!/*%+.!*%*%+.!/*%V,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 8 JUN
-OL,4,G0400FTeleshopping
-OL,5,     GTeleshopping.
+OL,3,CProgramme listings for SUN 9 JUN
+OL,4,G0600FTeleshopping
+OL,5,     GShop by phone from the comfort of
+OL,6,     Gyour home.
+OL,7,G0800FCruise TV with LoveitBookit
+OL,8,     GYour one-stop-shop for all things
+OL,9,     Gcruise; bringing you the hottest
+OL,10,     Gdestinations, ground-breaking
+OL,11,     Gships and the latest deals to
+OL,12,     Gensure your next cruise holiday
+OL,13,     Gis your greatest one!
+OL,14,G0900FEntertainment News on 5
+OL,15,     GA daily round-up of showbiz news
+OL,16,     Gand gossip from around the world,
+OL,17,     Gfocusing on celebrities, movies,
+OL,18,     Gmusic and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
