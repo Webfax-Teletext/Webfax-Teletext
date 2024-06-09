@@ -1,7 +1,7 @@
 PN,49801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717935099
+OL,0,        ECIMSBWebfax     F498A1717938712
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -21,7 +21,7 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717935099
+OL,0,        ECIMSBWebfax     F498A1717938712
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/7
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -44,33 +44,37 @@ OL,24,AAbout WebfaxBNat NewsCNat SportFWeather
 PN,49803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717935099
+OL,0,        ECIMSBWebfax     F498A1717938712
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 9 JUN
-OL,4,G1310FWeather for the Week Ahead
-OL,5,G1315FSongs of Praise: Christian Carers
-OL,6,     GAhead of Carers Week, the Rev
-OL,7,     GKate Bottley is in Norfolk,
-OL,8,     Gfinding out about the importance
-OL,9,     Gof faith for some of those caring
-OL,10,     Gfor their loved ones.
-OL,11,G1350FPoints of View
-OL,12,     GViewers have their say on the
-OL,13,     GBBC's television shows. Email
-OL,14,     Gyour thoughts to pov@bbc.co.uk.
-OL,15,G1405FMoney for Nothing
-OL,16,     GSarah Moore's team upcycle a
-OL,17,     Gleather recliner, formica table
-OL,18,     Gand a pile of blankets.
+OL,4,G1405FMoney for Nothing
+OL,5,     GSarah Moore's team upcycle a
+OL,6,     Gleather recliner, formica table
+OL,7,     Gand a pile of blankets.
+OL,8,G1450FA Dog's Journey
+OL,9,     GBailey, an old St Bernard dog, is
+OL,10,     Gapproaching the end of his life,
+OL,11,     Gbut he promises his owner Ethan
+OL,12,     Gthat he will always be there to
+OL,13,     Gprotect Ethan's granddaughter CJ.
+OL,14,G1635FThe Green Planet
+OL,15,     GDesert plants spend decades in
+OL,16,     Gsuspended animation waiting for
+OL,17,     Grain, or they travel to find it.
+OL,18,     GThey survive using weapons,
+OL,19,     Gcamouflage and surprising
+OL,20,     Galliances with animals.
+OL,21,G1735FBBC News
+OL,22,G1750FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ABBC2 TdyBBBC1 TmwC TV GuideF Clean Feed
 FL,202,231,200,140,203,100
 PN,49804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717935099
+OL,0,        ECIMSBWebfax     F498A1717938712
 OL,1,W{${$~+$ k7j5j5~k4              G4/7
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -96,7 +100,7 @@ FL,203,232,200,300,204,100
 PN,49805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717935099
+OL,0,        ECIMSBWebfax     F498A1717938712
 OL,1,W"!j5 n5                        G5/7
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -122,7 +126,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,49806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717935099
+OL,0,        ECIMSBWebfax     F498A1717938712
 OL,1,W~s1ox4~+$                         G6/7
 OL,2,W,.! *%+.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings NOT AVAILABLE
@@ -134,26 +138,23 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,49807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1717935099
+OL,0,        ECIMSBWebfax     F498A1717938712
 OL,1,Wos!~{4~+$k7j5~k4~k4               G7/7
 OL,2,W,.!/*%+.!*%*%+.!/*%V,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 9 JUN
-OL,4,G1215FTrucking Heavy
-OL,5,     GA 50-ton excavator needs
-OL,6,     Gcollecting from a farm in north
-OL,7,     GWales, but road closures hinder
-OL,8,     Gplans. And Nick and Oscar must
-OL,9,     Gmove a life-size metal
-OL,10,     Gstegosaurus 25 miles to RHS
-OL,11,     GGarden Wisley.
-OL,12,G1315FTrucking Hell
-OL,13,     GOn a highly trafficked
-OL,14,     Groundabout, a trailer tips over.
-OL,15,G1420FWhen the Daltons Rode
-OL,16,     GWestern starring Randolph Scott
-OL,17,     Gand Kay Francis, with factual and
-OL,18,     Glegendary episodes in the life of
-OL,19,     Gthe Dalton gang as they fought
-OL,20,     Gtheir way through four states.
+OL,4,G1315FTrucking Hell
+OL,5,     GOn a highly trafficked
+OL,6,     Groundabout, a trailer tips over.
+OL,7,G1420FWhen the Daltons Rode
+OL,8,     GWestern starring Randolph Scott
+OL,9,     Gand Kay Francis, with factual and
+OL,10,     Glegendary episodes in the life of
+OL,11,     Gthe Dalton gang as they fought
+OL,12,     Gtheir way through four states.
+OL,13,G1520FEntertainment News on 5
+OL,14,     GA daily round-up of showbiz news
+OL,15,     Gand gossip from around the world,
+OL,16,     Gfocusing on celebrities, movies,
+OL,17,     Gmusic and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
