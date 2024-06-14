@@ -1,7 +1,7 @@
 PN,49801
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -22,7 +22,7 @@ FL,499,300,200,120,0,100
 PN,49802
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -47,7 +47,7 @@ FL,499,300,200,120,0,100
 PN,49803
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CAt home/abroad            Vh!k~=0` i
@@ -62,16 +62,15 @@ OL,13,Frecall amid UK E.coli outbreak
 OL,15,G304FPrincess of Wales issues health
 OL,16,Fupdate ahead of first public
 OL,17,Fappearance in 2024
-OL,19,G305FExcitement builds ahead of
-OL,20,FScotland's Euro 2024 opener against
-OL,21,FGermany
+OL,19,G305FSuspicious accounts being used to
+OL,20,Fpush pro-Reform UK content on TikTok
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst NewsBReg NewsCTV GuideFClean Feed
 FL,302,301,200,140,000,100
 PN,49804
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -96,7 +95,7 @@ FL,499,301,140,120,000,100
 PN,49805
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -120,7 +119,7 @@ FL,499,301,140,120,000,100
 PN,49806
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -146,7 +145,7 @@ FL,499,301,140,200,000,100
 PN,49807
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -170,7 +169,7 @@ FL,499,301,140,120,000,100
 PN,49808
 SC,0008
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -178,22 +177,24 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FPensioner arrested as huge drugs
-OL,9,Flab discovered
-OL,11,G392F'It's Taylor time': Jurgen Klopp
-OL,12,Freturns to Anfield for US pop star
-OL,14,G393FNo flying? No probs! The brother
-OL,15,Fof England's Adam Wharton takes Euros
-OL,16,Froad trip
-OL,18,G394FPolice officer labelled 'disgrace'
-OL,19,Ffor having sex with woman on duty
+OL,8,G391F'Neighbour from hell' dressed as
+OL,9,FSpider-man to terrorise the elderly
+OL,11,G392FPensioner arrested as huge drugs
+OL,12,Flab discovered
+OL,14,G393F'It's Taylor time': Jurgen Klopp
+OL,15,Freturns to Anfield for US pop star
+OL,17,G394FNo flying? No probs! The brother
+OL,18,Fof England's Adam Wharton takes Euros
+OL,19,Froad trip
+OL,21,G395FPolice officer labelled 'disgrace'
+OL,22,Ffor having sex with woman on duty
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFTV Guide
 FL,499,301,140,2000,000,100
 PN,49809
 SC,0009
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -217,7 +218,7 @@ FL,499,301,140,200,000,100
 PN,49810
 SC,0010
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -241,7 +242,7 @@ FL,499,301,140,120,000,100
 PN,49811
 SC,0011
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -265,7 +266,7 @@ FL,499,301,140,120,000,100
 PN,49812
 SC,0012
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -273,24 +274,23 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FExtra support for victims of
-OL,9,Fdomestic abuse during Euros
-OL,11,G432FWoman fears terminally ill mum
-OL,12,Fcould become 'first fatality' of water
-OL,13,Fcrisis
-OL,15,G433FAirport security rules explained
-OL,16,Fas plans to scrap 100ml liquid rule
-OL,17,Freversed
-OL,19,G434FFive tower blocks to be
-OL,20,Frefurbished in 'overdue' council
-OL,21,Fhousing upgrade
+OL,8,G431FDriver jailed for killing female
+OL,9,Fcyclist while inhaling laughing gas
+OL,11,G432FExtra support for victims of
+OL,12,Fdomestic abuse during Euros
+OL,14,G433FWoman fears terminally ill mum
+OL,15,Fcould become 'first fatality' of water
+OL,16,Fcrisis
+OL,18,G434FAirport security rules explained
+OL,19,Fas plans to scrap 100ml liquid rule
+OL,20,Freversed
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFTV Guide
 FL,499,301,140,200,000,100
 PN,49813
 SC,0013
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -314,7 +314,7 @@ FL,499,301,200,120,000,100
 PN,49814
 SC,0014
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -338,7 +338,7 @@ FL,499,301,200,120,000,100
 PN,49815
 SC,0015
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C     Teletext on
 OL,3,W5j57qjk47!jk5~7}C    the internet
@@ -362,66 +362,66 @@ FL,499,300,200,120,0,100
 PN,49816
 SC,0016
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 14 JUN
-OL,4,G2030FOutnumbered
-OL,5,     GSitcom following the hectic lives
-OL,6,     Gof the Brockman family. The
-OL,7,     Garrival of Dad's god-daughter
-OL,8,     Gfrom Australia has an unfortunate
-OL,9,     Geffect on the Brockman household.
-OL,10,G2100FDeath in Paradise
-OL,11,     GNew Year's Eve celebrations are
-OL,12,     Gcut short when a masked man stabs
-OL,13,     Ga woman in her own home.
-OL,14,G2200FBBC News and Weather
-OL,15,G2230FRegional News
-OL,16,G2240FMOTD: Euro 2024 Highlights
-OL,17,     GAlex Scott presents the best of
-OL,18,     Gthe action from the opening game
-OL,19,     Gat this summer's European
-OL,20,     GChampionship, with hosts Germany
-OL,21,     Gtaking on Scotland in Munich.
+OL,4,G2100FDeath in Paradise
+OL,5,     GNew Year's Eve celebrations are
+OL,6,     Gcut short when a masked man stabs
+OL,7,     Ga woman in her own home.
+OL,8,G2200FBBC News and Weather
+OL,9,G2230FRegional News
+OL,10,G2240FMOTD: Euro 2024 Highlights
+OL,11,     GAlex Scott presents the best of
+OL,12,     Gthe action from the opening game
+OL,13,     Gat this summer's European
+OL,14,     GChampionship, with hosts Germany
+OL,15,     Gtaking on Scotland in Munich.
+OL,16,G2325FTinker Tailor Soldier Spy
+OL,17,     GCold War thriller about a retired
+OL,18,     GMI6 agent who must track down a
+OL,19,     GSoviet mole. Contains some strong
+OL,20,     Glanguage, some sexual content and
+OL,21,     Gsome violence.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BTV Guide CClean Feed FReg TV
 FL,499,200,140,260,000,100
 PN,49817
 SC,0017
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 14 JUN
-OL,4,G2000FGardeners' World
-OL,5,     GThe team are Birmingham-bound for
-OL,6,     Gone of the highlights of the
-OL,7,     Ghorticultural year, the annual
-OL,8,     GGardeners' World Live event.
-OL,9,G2100FHidden Treasures of the National
-OL,10,     FTrust
-OL,11,     GA mysterious portrait of a
-OL,12,     Gservant reveals its secrets, and
-OL,13,     Gtwo rare hidden treasures are
-OL,14,     Gbrought back into the light.
-OL,15,G2200FQI
-OL,16,     GSandi takes a look at tubes and
-OL,17,     Gtubas in a totally tubular show
-OL,18,     Gwith Bridget Christie, Sara
-OL,19,     GPascoe, Deborah Frances White and
-OL,20,     GAlan Davies.
-OL,21,G2230FNewsnight
-OL,22,G2300FWeather
+OL,4,G2100FHidden Treasures of the National
+OL,5,     FTrust
+OL,6,     GA mysterious portrait of a
+OL,7,     Gservant reveals its secrets, and
+OL,8,     Gtwo rare hidden treasures are
+OL,9,     Gbrought back into the light.
+OL,10,G2200FQI
+OL,11,     GSandi takes a look at tubes and
+OL,12,     Gtubas in a totally tubular show
+OL,13,     Gwith Bridget Christie, Sara
+OL,14,     GPascoe, Deborah Frances White and
+OL,15,     GAlan Davies.
+OL,16,G2230FNewsnight
+OL,17,G2300FWeather
+OL,18,G2305FDear Evan Hansen
+OL,19,     GHigh school misfit Evan lies to
+OL,20,     Gcomfort a grieving mother - but
+OL,21,     Gwill the truth come out? Contains
+OL,22,     Gsome strong language.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BTV Guide CClean Feed FReg TV
 FL,499,200,140,260,000,100
 PN,49818
 SC,0018
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -450,32 +450,32 @@ FL,499,200,140,260,000,100
 PN,49819
 SC,0019
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 14 JUN
-OL,4,G2000FThe Dog House
-OL,5,     GHarry needs a new friend to play
-OL,6,     Gfetch; is Ollie the spaniel the
-OL,7,     Gideal match? Sassy fluffball
-OL,8,     GBallo causes a stir. And can
-OL,9,     Gblind cockapoo Marnie take
-OL,10,     Gguidance from Bella the stray?
-OL,11,G2100FCelebrity Gogglebox
-OL,12,     GThis time the celebs have been
-OL,13,     Gwatching The Piano, Bridgerton,
-OL,14,     GCelebrity Bridge of Lies, UK's
-OL,15,     GStrongest Man 2024, The World's
-OL,16,     GMost Luxurious Retirement Homes
-OL,17,     Gand Scam Interceptors.
+OL,4,G2100FCelebrity Gogglebox
+OL,5,     GThis time the celebs have been
+OL,6,     Gwatching The Piano, Bridgerton,
+OL,7,     GCelebrity Bridge of Lies, UK's
+OL,8,     GStrongest Man 2024, The World's
+OL,9,     GMost Luxurious Retirement Homes
+OL,10,     Gand Scam Interceptors.
+OL,11,G2200FThe Nevermets
+OL,12,     GLeah prepares to meet her
+OL,13,     GAmerican lover Chad after two
+OL,14,     Gmonths of talking online. Jay and
+OL,15,     GVeena and Jgoy and Sarah await
+OL,16,     Gvisa decisions. Mazi finally
+OL,17,     Gshows up for Dumebi.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BTV Guide CClean Feed FReg TV
 FL,499,200,140,260,000,100
 PN,49820
 SC,0020
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -503,27 +503,24 @@ FL,499,200,140,260,000,100
 PN,49821
 SC,0021
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1718393780
+OL,0,        ECIMSBWebfax     F498A1718397394
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 14 JUN
-OL,4,G1905FMillions Like Us
-OL,5,     G1943. War Drama. Directed by
-OL,6,     GSidney Gilliat & Frank Launder.
-OL,7,     GStars Patricia Roc, Gordon
-OL,8,     GJackson, Basil Radford & Eric
-OL,9,     GPortman. Celia marries a gunner
-OL,10,     Gbefore he is deployed into
-OL,11,     Gwartime battle.
-OL,12,G2100FCellar Club with Caroline Munro
-OL,13,     GTonight, Caroline Munro is joined
-OL,14,     Gby demonic forces and the
-OL,15,     Gextraterrestrial down in The
-OL,16,     GCellar Club. First, is the 1980
-OL,17,     Gsci-fi horror Without Warning
-OL,18,     Gstarring Jack Palance and Martin
-OL,19,     GLandau.
+OL,4,G2105FWithout Warning
+OL,5,     G1980. Horror. Directed by Greydon
+OL,6,     GClark. Stars Jack Palance, Martin
+OL,7,     GLandau & Tarah Nutter. When a
+OL,8,     Ggroup of teenagers go on a
+OL,9,     Gcamping trip, they find much more
+OL,10,     Gthan just the great outdoors.
+OL,11,G2255FCellar Club with Caroline Munro
+OL,12,     GEvil forces are at work and ready
+OL,13,     Gto destroy lives in Caroline
+OL,14,     GMunro's next chilling film of the
+OL,15,     Gevening, the 1995 horror
+OL,16,     GSerpent's Lair.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BTV Guide CClean Feed FReg TV
 FL,499,200,140,260,000,100
