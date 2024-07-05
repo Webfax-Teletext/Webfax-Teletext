@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,24 +50,22 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FExit Poll: Labour predicted to win
-OL,9,Fa landslide victory
+OL,8,G302FITV News forecasts even greater
+OL,9,Fmajority for Labour
 OL,11,G303FNigel Farage poised for Commons as
 OL,12,FReform UK predicted to secure 13 MPs
-OL,14,G304FWorst-ever result expected for
-OL,15,FTories after exit poll
-OL,17,G305FRishi Sunak hands peerages to
-OL,18,FTheresa May, Sir Graham Brady and
-OL,19,FOliver Dowden
-OL,21,G306FUK chooses 'brighter future' as
-OL,22,Fexit poll suggests landslide for Labour
+OL,14,G304FLiberal Democrats on course to win
+OL,15,Ffive times as many seats as 2019
+OL,17,G305F'Not a good night for SNP', says
+OL,18,FSturgeon as exit poll suggests seat
+OL,19,Fcollapse
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -111,13 +109,15 @@ OL,6,BITV News Calendar          R#!
 OL,7,                             R"#!
 OL,8,G361FSix constituencies to look out for
 OL,9,Fin the Calendar region
-OL,11,G362FDrunk driver bites police officer
-OL,12,Fafter teens try to stop her
-OL,14,G363FRising star boxer helped by ex-
-OL,15,FPremier League footballer to overcome
-OL,16,Fbullies
-OL,18,G364FHouse fire started by 'dogs
-OL,19,Fswitching cooker on'
+OL,11,G362FReform predicted to win both
+OL,12,FBarnsley seats from Labour
+OL,14,G363FDrunk driver bites police officer
+OL,15,Fafter teens try to stop her
+OL,17,G364FRising star boxer helped by ex-
+OL,18,FPremier League footballer to overcome
+OL,19,Fbullies
+OL,21,G365FHouse fire started by 'dogs
+OL,22,Fswitching cooker on'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -203,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -211,11 +211,11 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FGeneral Election 2024: ITV News
-OL,9,FLondon live results hub
-OL,11,G402FLib Dems appear on course to do
-OL,12,Fdemolition job on the Conservative
-OL,13,F'blue wall'
+OL,8,G401FLib Dems appear on course to do
+OL,9,Fdemolition job on the Conservative
+OL,10,F'blue wall'
+OL,12,G402FGeneral Election 2024: ITV News
+OL,13,FLondon live results hub
 OL,15,G403FWill the Conservatives be left
 OL,16,Fwith just two MPs in London?
 OL,18,G404FTheresa May, Harriet Harman and
@@ -228,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -238,15 +238,14 @@ OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
 OL,8,G411FGeneral Election 2024: Results in
 OL,9,Fthe South, South East and Thames Valley
-OL,11,G412FITV News Meridian's political
-OL,12,Fcorrespondent reacts to exit poll
-OL,13,Fresults
-OL,15,G413F'Just two hours a week' - MND
-OL,16,Forganisation calls for more volunteers
-OL,18,G414FDave the dog rescued by
-OL,19,Ffirefighters after getting head stuck
-OL,21,G415FDrivers warned about fake QR code
-OL,22,Fscam on parking meters
+OL,11,G412FEx-Tory minister condemns 'ill
+OL,12,Fdiscipline' and warns against lurch
+OL,13,Frightwards
+OL,15,G413FITV News Meridian's political
+OL,16,Fcorrespondent reacts to exit poll
+OL,17,Fresults
+OL,19,G414F'Just two hours a week' - MND
+OL,20,Forganisation calls for more volunteers
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -254,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -280,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -305,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -331,7 +330,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -339,17 +338,16 @@ OL,4,                      R G    R z4
 OL,5,BThe latest updates fromG  R`|u
 OL,6,BITV News Wales         G  R +';o/
 OL,7,                        G      R"#
-OL,8,G461FKey General Election seats to
-OL,9,Fwatch in Wales as battlegrounds set to
-OL,10,Fchange
-OL,12,G462FInside Port Talbot's steelworks as
-OL,13,Fblast furnace era draws to a close
-OL,15,G463FFamily pay tribute to 'special
-OL,16,Fdaughter and sister', 22, found dead
-OL,17,Fat home
-OL,19,G464FPeople asked to avoid Welsh river
-OL,20,Fover of 'crayfish plague' harmless to
-OL,21,Fhumans
+OL,8,G461FGeneral Election results from
+OL,9,Facross Wales as key battlegrounds turn
+OL,10,Fred
+OL,12,G462FLabour gain Vale of Glamorgan from
+OL,13,FConservatives as Alun Cairns ousted
+OL,15,G463FGeneral Election overnight results
+OL,16,Fand analysis from Wales
+OL,18,G464FKey General Election seats to
+OL,19,Fwatch in Wales as battlegrounds set to
+OL,20,Fchange
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -357,7 +355,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -382,7 +380,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -398,19 +396,12 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 4 JUL
-OL,4,G0225FAndy Murray: Will to Win
-OL,5,     GUsing fascinating archive from
-OL,6,     GAndy Murray's life and career,
-OL,7,     Gthis programme is an in-depth
-OL,8,     Gexploration of his incredible
-OL,9,     Gjourney from Dunblane to becoming
-OL,10,     Ga sporting legend.
-OL,11,G0325FThis is BBC Two
+OL,4,G0325FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -418,7 +409,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -433,7 +424,7 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -459,25 +450,24 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 4 JUL
-OL,4,G0135FPlayOJO Live Casino Show
-OL,5,G0335FYorkshire Tea vs PG Tips:..
-OL,6,     G...Battle of the Brews. We
-OL,7,     Gfeature two of Britain's leading
-OL,8,     Gproducers of tea: the traditional
-OL,9,     Gfavourite against the new
-OL,10,     Ginterloper.
-OL,11,G0420FInside The Balmoral Hotel
-OL,12,     GThe Balmoral rises across the
-OL,13,     GEdinburgh skyline. Discover why
-OL,14,     GJ.K Rowling felt the hotel was
-OL,15,     Gjust the ticket she needed to
-OL,16,     Gfinish the final of the Harry
-OL,17,     GPotter series.
+OL,4,G0335FYorkshire Tea vs PG Tips:..
+OL,5,     G...Battle of the Brews. We
+OL,6,     Gfeature two of Britain's leading
+OL,7,     Gproducers of tea: the traditional
+OL,8,     Gfavourite against the new
+OL,9,     Ginterloper.
+OL,10,G0420FInside The Balmoral Hotel
+OL,11,     GThe Balmoral rises across the
+OL,12,     GEdinburgh skyline. Discover why
+OL,13,     GJ.K Rowling felt the hotel was
+OL,14,     Gjust the ticket she needed to
+OL,15,     Gfinish the final of the Harry
+OL,16,     GPotter series.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -485,7 +475,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720143661
+OL,0,        ECIMSBWebfax     F498A1720147274
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
