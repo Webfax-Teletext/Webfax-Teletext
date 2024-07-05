@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,22 +50,24 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FITV News forecasts even greater
-OL,9,Fmajority for Labour
-OL,11,G303FNigel Farage poised for Commons as
-OL,12,FReform UK predicted to secure 13 MPs
-OL,14,G304FLiberal Democrats on course to win
-OL,15,Ffive times as many seats as 2019
-OL,17,G305F'Not a good night for SNP', says
-OL,18,FSturgeon as exit poll suggests seat
-OL,19,Fcollapse
+OL,8,G302F'Change begins now': Labour wins
+OL,9,FGeneral Election with landslide victory
+OL,11,G303FHow Keir Starmer turned the Labour
+OL,12,Fparty into a winning force
+OL,14,G304FTrident letters and house move:
+OL,15,FWhat awaits Starmer after his election
+OL,16,Fwin?
+OL,18,G305FITV News forecasts even greater
+OL,19,Fmajority for Labour
+OL,21,G306FLiberal Democrats on course to win
+OL,22,Ffive times as many seats as 2019
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -73,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -81,17 +83,17 @@ OL,4,                      R    Rpz?o=
 OL,5,BThe latest updates from   Ra+$"`w
 OL,6,BITV News Border        G G    R*?5
 OL,7,                         G      R!"#!
-OL,8,G351FFamily pay tribute to man who died
-OL,9,Fin crash on A595
-OL,11,G352FScottish Borders tartan created to
-OL,12,Fmark impact of Covid pandemic
-OL,14,G353FMND clinical trials receive
-OL,15,F#500,000 boost on Doddie Weir's
-OL,16,Fbirthday
-OL,18,G354FFormer Carlisle United owner
-OL,19,FAndrew Jenkins dies
-OL,21,G355FHomelessness charity launches
-OL,22,Fcoffee to support its hostel
+OL,8,G351FGeneral Election 2024: Labour win
+OL,9,Fthree seats in Cumbria
+OL,11,G352FFamily pay tribute to man who died
+OL,12,Fin crash on A595
+OL,14,G353FScottish Borders tartan created to
+OL,15,Fmark impact of Covid pandemic
+OL,17,G354FMND clinical trials receive
+OL,18,F#500,000 boost on Doddie Weir's
+OL,19,Fbirthday
+OL,21,G355FFormer Carlisle United owner
+OL,22,FAndrew Jenkins dies
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -99,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -132,17 +134,16 @@ OL,4,                      R~3!
 OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
-OL,8,G371FHednesford deaths: Police confirm
-OL,9,Fwoman, 22, was murdered
-OL,11,G372FCritically endangered tiger cub
-OL,12,Fcelebrates first birthday at safari
-OL,13,Fpark
-OL,15,G373FMan arrested after police dog dies
-OL,16,Ffollowing search of water at country
-OL,17,Fpark
-OL,19,G374F'My Son's A Queer' actor and
-OL,20,FTikToker Rob Madge on redefining the
-OL,21,Fword 'queer'
+OL,8,G371FMidlands elects first Green MP
+OL,10,G372FMP Michael Fabricant loses
+OL,11,FLichfield seat he has held since 1992
+OL,13,G373FLabour's Jonathan Ashworth loses
+OL,14,FLeicester South seat
+OL,16,G374FHednesford deaths: Police confirm
+OL,17,Fwoman, 22, was murdered
+OL,19,G375FCritically endangered tiger cub
+OL,20,Fcelebrates first birthday at safari
+OL,21,Fpark
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -150,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -186,15 +187,15 @@ OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
 OL,8,G391FNorth West General Election 2024
 OL,9,Flive results
-OL,11,G392FTeen killed in school coach crash
-OL,12,F'one of few' wearing a seatbelt
-OL,14,G393FFamily tribute to man murdered at
-OL,15,Fflat in Manchester
-OL,17,G394FCheshire man jailed after conning
-OL,18,Fblind piano tuner out thousands of
-OL,19,Fpounds
-OL,21,G395FFuture Wimbledon star, 9, beats 57
-OL,22,Fyear old opponent
+OL,11,G392FGeorge Galloway fails to show up
+OL,12,Fas loses seat
+OL,14,G393FTeen killed in school coach crash
+OL,15,F'one of few' wearing a seatbelt
+OL,17,G394FFamily tribute to man murdered at
+OL,18,Fflat in Manchester
+OL,20,G395FCheshire man jailed after conning
+OL,21,Fblind piano tuner out thousands of
+OL,22,Fpounds
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -202,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -227,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -237,14 +238,14 @@ OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
 OL,8,G411FGeneral Election 2024: Results in
 OL,9,Fthe South, South East and Thames Valley
-OL,11,G412FEx-Tory minister condemns 'ill
-OL,12,Fdiscipline' and warns against lurch
-OL,13,Frightwards
-OL,15,G413FITV News Meridian's political
-OL,16,Fcorrespondent reacts to exit poll
-OL,17,Fresults
-OL,19,G414F'Just two hours a week' - MND
-OL,20,Forganisation calls for more volunteers
+OL,11,G412FEducation Secretary Gillian Keegan
+OL,12,Floses seat to Liberal Democrats
+OL,14,G413FEx-Tory minister condemns 'ill
+OL,15,Fdiscipline' and warns against lurch
+OL,16,Frightwards
+OL,18,G414FITV News Meridian's political
+OL,19,Fcorrespondent reacts to exit poll
+OL,20,Fresults
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -252,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -277,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -303,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -313,15 +314,14 @@ OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
 OL,8,G441FCounting for NI's Westminster
 OL,9,Fseats underway
-OL,11,G442FThe shocks and surprises to look
-OL,12,Fout for in NI election count
-OL,14,G443FAssaults on Translink almost hit
-OL,15,F400
-OL,17,G444FXL bully laws to change in
-OL,18,FNorthern Ireland from Friday
-OL,20,G445FDisabled boys family told threat
-OL,21,Flifted over moving into new Antrim
-OL,22,Fproperty
+OL,11,G442FNorthern Ireland General Election
+OL,12,F2024 results centre
+OL,14,G443FThe shocks and surprises to look
+OL,15,Fout for in NI election count
+OL,17,G444FAssaults on Translink almost hit
+OL,18,F400
+OL,20,G445FXL bully laws to change in
+OL,21,FNorthern Ireland from Friday
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -329,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -340,13 +340,13 @@ OL,7,                        G      R"#
 OL,8,G461FGeneral Election results from
 OL,9,Facross Wales as key battlegrounds turn
 OL,10,Fred
-OL,12,G462FLabour gain Vale of Glamorgan from
-OL,13,FConservatives as Alun Cairns ousted
-OL,15,G463FGeneral Election overnight results
-OL,16,Fand analysis from Wales
-OL,18,G464FKey General Election seats to
-OL,19,Fwatch in Wales as battlegrounds set to
-OL,20,Fchange
+OL,12,G462FCraig Williams loses
+OL,13,FMontgomeryshire & Glyndwr seat after
+OL,14,Fbetting scandal
+OL,16,G463FGeneral Election overnight results
+OL,17,Fand analysis from Wales
+OL,19,G464FLabour gain Vale of Glamorgan from
+OL,20,FConservatives as Alun Cairns ousted
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -354,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,7 +379,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -396,7 +396,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -408,7 +408,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -426,7 +426,7 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -445,26 +445,22 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 4 JUL
-OL,4,G0420FInside The Balmoral Hotel
-OL,5,     GThe Balmoral rises across the
-OL,6,     GEdinburgh skyline. Discover why
-OL,7,     GJ.K Rowling felt the hotel was
-OL,8,     Gjust the ticket she needed to
-OL,9,     Gfinish the final of the Harry
-OL,10,     GPotter series.
-OL,11,G0510FHouse Doctor
-OL,12,     GHome improvement series.
-OL,13,     GCalifornian interior designer Ann
-OL,14,     GMaurice tries to help a couple
-OL,15,     Gwho cannot sell their home
-OL,16,     Gdespite a property market boom in
-OL,17,     Gfashionable Hammersmith.
-OL,18,G0535FEntertainment News on 5
+OL,4,G0540FMilkshake Monkey's Amazing
+OL,5,     FAdventures
+OL,6,     GIntrigued by the sound of a
+OL,7,     Gthunder storm, Milkshake! Monkey
+OL,8,     Gheads off to the Met Office to
+OL,9,     Gfind out where thunder and
+OL,10,     Glightning comes from.
+OL,11,G0545FPAW Patrol
+OL,12,     GWhile on safari with Carlos and
+OL,13,     GTracker, Mayor Humdinger steals a
+OL,14,     Gmagic mask.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -472,27 +468,19 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720150886
+OL,0,        ECIMSBWebfax     F498A1720154499
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 4 JUL
-OL,4,G0345FBeat Girl
-OL,5,     G1960. Drama. Directed by Edmond
-OL,6,     GT. Greville and starring Noelle
-OL,7,     GAdam, Christopher Lee and Oliver
-OL,8,     GReed. Paul, a divorcee, marries a
-OL,9,     GFrench lady but his daughter is
-OL,10,     Gdetermined to spoil the
-OL,11,     Grelationship.
-OL,12,G0530FNight Prowl
-OL,13,     G1958. Dennis O'Keefe stars in
-OL,14,     Gthis 'lost' TV Sitcom pilot with
-OL,15,     Gguest stars Dennis Day, Bethel
-OL,16,     GLeslie & Ray Anthony. O'Keefe
-OL,17,     Gplays the editor of music
-OL,18,     Gmagazine 'Take 5' whilst also
-OL,19,     Gsolving crime.
+OL,4,G0530FNight Prowl
+OL,5,     G1958. Dennis O'Keefe stars in
+OL,6,     Gthis 'lost' TV Sitcom pilot with
+OL,7,     Gguest stars Dennis Day, Bethel
+OL,8,     GLeslie & Ray Anthony. O'Keefe
+OL,9,     Gplays the editor of music
+OL,10,     Gmagazine 'Take 5' whilst also
+OL,11,     Gsolving crime.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
