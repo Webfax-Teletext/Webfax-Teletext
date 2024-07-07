@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,22 +50,23 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FLewis Hamilton makes F1 history
-OL,9,Fwith ninth British Grand Prix win
-OL,11,G303FPM wanting to 'immediately reset'
-OL,12,Frelationship with devolved governments
-OL,14,G304FSaka smiles as Southgate eyes
-OL,15,Funlikely Euros final
-OL,17,G305F'Better deal available' for Port
-OL,18,FTalbot steel jobs, says Business
-OL,19,FSecretary
+OL,8,G302FPM wanting to 'immediately reset'
+OL,9,Frelationship with devolved governments
+OL,11,G303FFrance voting in key election that
+OL,12,Fcould see far-right win or hung
+OL,13,Fparliament
+OL,15,G304FHome secretary launches border
+OL,16,Fsecurity command to tackle small boats
+OL,17,Fgangs
+OL,19,G305FRwanda scheme 'dead and buried,'
+OL,20,FPM says as last migrants bailed
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -73,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -149,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -200,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -208,15 +209,17 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FTwo arrested after cyclist dies in
-OL,9,Feast London collision
-OL,11,G402FGeneral Election 2024: ITV News
-OL,12,FLondon results hub
-OL,14,G403FGrant Shapps: Ex-defence secretary
-OL,15,Fwith rock star relative loses seat
-OL,17,G404FHunt hangs on to Surrey seat - but
-OL,18,Fsays 'crushing' election was 'bitter
-OL,19,Fpill'
+OL,8,G401FMurder investigation launched
+OL,9,Fafter man stabbed in east London
+OL,11,G402FTwo arrested after cyclist dies in
+OL,12,Feast London collision
+OL,14,G403FGeneral Election 2024: ITV News
+OL,15,FLondon results hub
+OL,17,G404FGrant Shapps: Ex-defence secretary
+OL,18,Fwith rock star relative loses seat
+OL,20,G405FHunt hangs on to Surrey seat - but
+OL,21,Fsays 'crushing' election was 'bitter
+OL,22,Fpill'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -224,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -250,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -275,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -300,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -326,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -351,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -376,30 +379,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 7 JUL
-OL,4,G1830FWimbledon
-OL,5,     GFurther live coverage from the
-OL,6,     GAll England Club, where the
-OL,7,     Gfourth round of the men's and
-OL,8,     Gwomen's singles is in full swing.
-OL,9,G2000FCountryfile
-OL,10,     GMatt Baker and Margherita Taylor
-OL,11,     Gvisits Montacute in Somerset,
-OL,12,     Ghome to an impressive 400-year-
-OL,13,     Gold Elizabethan mansion and some
-OL,14,     Gof the rarest wildlife in the UK.
-OL,15,G2100FAntiques Roadshow
-OL,16,     GAntiques Roadshow is at Forty
-OL,17,     GHall in Enfield, north London,
-OL,18,     Gwhere treasures include an
-OL,19,     Goriginal Punch and Judy set and
-OL,20,     Gan intriguing necklace linked to
-OL,21,     Ga secret society.
-OL,22,G2200FBBC News and Weather
+OL,4,G2000FCountryfile
+OL,5,     GMatt Baker and Margherita Taylor
+OL,6,     Gvisits Montacute in Somerset,
+OL,7,     Ghome to an impressive 400-year-
+OL,8,     Gold Elizabethan mansion and some
+OL,9,     Gof the rarest wildlife in the UK.
+OL,10,G2100FAntiques Roadshow
+OL,11,     GAntiques Roadshow is at Forty
+OL,12,     GHall in Enfield, north London,
+OL,13,     Gwhere treasures include an
+OL,14,     Goriginal Punch and Judy set and
+OL,15,     Gan intriguing necklace linked to
+OL,16,     Ga secret society.
+OL,17,G2200FBBC News and Weather
+OL,18,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -407,7 +406,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -433,28 +432,26 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 7 JUL
-OL,4,G1855FITV Evening News
-OL,5,G1915FRegional News
-OL,6,G1925FWonder Woman 1984
-OL,7,     GAction-adventure fantasy film
-OL,8,     Gsequel starring Gal Gadot, 2020.
-OL,9,     GDiana Prince does battle with a
-OL,10,     Gbusinessman whose desire for
-OL,11,     Gextreme wealth is putting the
-OL,12,     Gworld in grave danger.
-OL,13,G2225FITV News
-OL,14,G2240FHarry's Heroes: Euro Having a...
-OL,15,     GLaugh Again! Harry Redknapp and
-OL,16,     Ghis Liverpool legend assistant
-OL,17,     Gmanager John Barnes take their
-OL,18,     Gteam of England legends across
-OL,19,     GEurope to tackle Germany on their
-OL,20,     Ghome soil.
+OL,4,G1925FWonder Woman 1984
+OL,5,     GAction-adventure fantasy film
+OL,6,     Gsequel starring Gal Gadot, 2020.
+OL,7,     GDiana Prince does battle with a
+OL,8,     Gbusinessman whose desire for
+OL,9,     Gextreme wealth is putting the
+OL,10,     Gworld in grave danger.
+OL,11,G2225FITV News
+OL,12,G2240FHarry's Heroes: Euro Having a...
+OL,13,     GLaugh Again! Harry Redknapp and
+OL,14,     Ghis Liverpool legend assistant
+OL,15,     Gmanager John Barnes take their
+OL,16,     Gteam of England legends across
+OL,17,     GEurope to tackle Germany on their
+OL,18,     Ghome soil.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -462,25 +459,26 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 7 JUL
-OL,4,G1900FInside McVitie's at Christmas
-OL,5,     GWe lift the lid on McVitie's as
-OL,6,     Gthey take on the competitive
-OL,7,     GChristmas biscuit market. And
-OL,8,     Git's crunch time for the new
-OL,9,     Gwhite chocolate digestive. Will
-OL,10,     Git be a hit?
-OL,11,G2000FBake Off: The Professionals
-OL,12,     GIt's the semi-final and the teams
-OL,13,     Gmake peach Melbas and edible
-OL,14,     Gfairy-tale scenes with hidden
-OL,15,     Gdesserts. Who'll be feeling
-OL,16,     Gpeachy, and whose magical journey
-OL,17,     Gwill come to an end?
+OL,4,G2000FBake Off: The Professionals
+OL,5,     GIt's the semi-final and the teams
+OL,6,     Gmake peach Melbas and edible
+OL,7,     Gfairy-tale scenes with hidden
+OL,8,     Gdesserts. Who'll be feeling
+OL,9,     Gpeachy, and whose magical journey
+OL,10,     Gwill come to an end?
+OL,11,G2100FGuy Martin's Lost WW2 Bomber
+OL,12,     GEighty years after an RAF
+OL,13,     GLancaster bomber crashed deep
+OL,14,     Ginto a Dutch lake during Word War
+OL,15,     GII, Guy joins an ambitious
+OL,16,     Gengineering project to recover it
+OL,17,     Gand the remains of its missing
+OL,18,     Gcrew.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -488,7 +486,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -514,7 +512,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720375648
+OL,0,        ECIMSBWebfax     F498A1720379255
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
