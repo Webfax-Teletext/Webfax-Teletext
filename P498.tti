@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -62,11 +62,12 @@ OL,9,FWashington ahead of crucial NATO summit
 OL,11,G303FStarmer's defence spending pledge
 OL,12,F'cast-iron' but PM won't commit to
 OL,13,Ftimeline
-OL,15,G304FBuckingham Palace open doors to
-OL,16,Fpublic for guided tours
-OL,18,G305FTaylor Swift and Elon Musk among
-OL,19,Fthe celebrity profiles being misused
-OL,20,Fin scams
+OL,15,G304FRooms behind Buckingham Palace
+OL,16,Ffamous balcony open to public for
+OL,17,Ffirst time
+OL,19,G305FTaylor Swift and Elon Musk among
+OL,20,Fthe celebrity profiles being misused
+OL,21,Fin scams
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -175,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -211,9 +212,9 @@ OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
 OL,8,G401FMan arrested after baby found dead
 OL,9,Fin central London
-OL,11,G402FTriple murder suspect may have
-OL,12,Fcrossbow police say, as manhunt
-OL,13,Flaunched
+OL,11,G402FMan wanted after Hertfordshire
+OL,12,Ftriple murder 'may have crossbow'
+OL,13,Fpolice say
 OL,15,G403FSearch launched for 'specialist
 OL,16,Fand worthy' design team for Grenfell
 OL,17,Fmemorial
@@ -227,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -253,7 +254,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -261,17 +262,18 @@ OL,4,                             R"{4
 OL,5,BThe latest updates from      R?}
 OL,6,BITV News Tyne Tees            Rt
 OL,7,                               R*'#/'#
-OL,8,G421F'I can't find my baby' - Mum
-OL,9,Frelives horror of crash that killed
-OL,10,Fson and sister
-OL,12,G422FBen Houchen hails 'really
-OL,13,Fpositive' private meeting with Prime
-OL,14,FMinister
-OL,16,G423FDrink driver jailed for 17 years
-OL,17,Ffor causing crash that killed baby and
-OL,18,Faunt
-OL,20,G424FMother admits manslaughter of baby
-OL,21,Fboy who drowned in bath
+OL,8,G421FLabour government 'urgently
+OL,9,Fexploring options' to save Hitachi
+OL,10,Ffactory
+OL,12,G422F'I can't find my baby' - Mum
+OL,13,Frelives horror of crash that killed
+OL,14,Fson and sister
+OL,16,G423FBen Houchen hails 'really
+OL,17,Fpositive' private meeting with Prime
+OL,18,FMinister
+OL,20,G424FDrink driver jailed for 17 years
+OL,21,Ffor causing crash that killed baby and
+OL,22,Faunt
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -279,7 +281,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -304,7 +306,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -329,7 +331,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -355,7 +357,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -380,28 +382,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 10 JUL
-OL,4,G1045FHomes Under the Hammer
-OL,5,     GDion, Martel and Jacqui follow
-OL,6,     Gprogress on the redevelopment of
-OL,7,     Gproperties in Stoke-on-Trent,
-OL,8,     GBattersea and Merseyside.
-OL,9,G1145FBargain Hunt
-OL,10,     GDanny Sebastian gets green-
-OL,11,     Gfingered as he learns about a 200-
-OL,12,     Gyear-old herbarium, while experts
-OL,13,     GStephanie Connell and John
-OL,14,     GCameron shop with two teams of
-OL,15,     Gfamilies.
-OL,16,G1230FWimbledon
-OL,17,     GClare Balding presents live
-OL,18,     Gaction from Wimbledon, where the
-OL,19,     Gsemi-final line-ups will be
-OL,20,     Gdecided.
+OL,4,G1145FBargain Hunt
+OL,5,     GDanny Sebastian gets green-
+OL,6,     Gfingered as he learns about a 200-
+OL,7,     Gyear-old herbarium, while experts
+OL,8,     GStephanie Connell and John
+OL,9,     GCameron shop with two teams of
+OL,10,     Gfamilies.
+OL,11,G1230FWimbledon
+OL,12,     GClare Balding presents live
+OL,13,     Gaction from Wimbledon, where the
+OL,14,     Gsemi-final line-ups will be
+OL,15,     Gdecided.
+OL,16,G1300FBBC News at One including Look...
+OL,17,     GNorth . The latest national and
+OL,18,     Ginternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -409,27 +409,26 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 10 JUL
-OL,4,G0900FBBC News
-OL,5,G1215FPolitics Live
-OL,6,     GThe big political issues of the
-OL,7,     Gday.
-OL,8,G1300FWimbledon
-OL,9,     GLive coverage as the third Grand
-OL,10,     GSlam of the season continues,
-OL,11,     Gwith singles, doubles and the
-OL,12,     Gwheelchair competitions all in
-OL,13,     Gfull flow.
-OL,14,G1500FWimbledon
-OL,15,     GLive coverage as the third Grand
-OL,16,     GSlam of the season continues,
-OL,17,     Gwith singles, doubles and the
-OL,18,     Gwheelchair competitions all in
-OL,19,     Gfull flow.
+OL,4,G1215FPolitics Live
+OL,5,     GThe big political issues of the
+OL,6,     Gday.
+OL,7,G1300FWimbledon
+OL,8,     GLive coverage as the third Grand
+OL,9,     GSlam of the season continues,
+OL,10,     Gwith singles, doubles and the
+OL,11,     Gwheelchair competitions all in
+OL,12,     Gfull flow.
+OL,13,G1500FWimbledon
+OL,14,     GLive coverage as the third Grand
+OL,15,     GSlam of the season continues,
+OL,16,     Gwith singles, doubles and the
+OL,17,     Gwheelchair competitions all in
+OL,18,     Gfull flow.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -437,7 +436,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -464,27 +463,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 10 JUL
-OL,4,G1110FUndercover Boss USA
-OL,5,     GGreg Scott, the CEO of clothing
-OL,6,     Gretailer New York & Company, goes
-OL,7,     Gundercover among his own
-OL,8,     Gemployees, seeking ways to keep
-OL,9,     Gthe business in vogue and
-OL,10,     Gincrease profitability.
-OL,11,G1205FChannel 4 News Summary
-OL,12,     GChannel 4's midday news summary.
-OL,13,G1210FHelp! We Bought a Village
-OL,14,     GThe owners of a holiday village
-OL,15,     Gadvertise for volunteers to
-OL,16,     Gcomplete their renovations. At an
-OL,17,     GItalian borgo, the owners race to
-OL,18,     Gsave the ancient features from
-OL,19,     Gtheir old houses.
+OL,4,G1210FHelp! We Bought a Village
+OL,5,     GThe owners of a holiday village
+OL,6,     Gadvertise for volunteers to
+OL,7,     Gcomplete their renovations. At an
+OL,8,     GItalian borgo, the owners race to
+OL,9,     Gsave the ancient features from
+OL,10,     Gtheir old houses.
+OL,11,G1310FCar S.O.S
+OL,12,     GToyota FJ40 Land Cruiser: Tim
+OL,13,     GShaw and Fuzz Townshend visit
+OL,14,     Gsouth Wales to restore Adam's
+OL,15,     G1984 Toyota FJ40 Land Cruiser, a
+OL,16,     Gfour-by-four that went off road
+OL,17,     Gfor the wrong reasons.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -492,7 +489,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -522,7 +519,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1720606703
+OL,0,        ECIMSBWebfax     F498A1720610315
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
