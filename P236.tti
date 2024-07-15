@@ -1,11 +1,11 @@
 PN,23601
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1720935291
+OL,0,        ECIMSBWebfax     F236A1721021969
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 15 JUL
+OL,3,CProgramme listings for TUE 16 JUL
 OL,4,G0600FBreakfast
 OL,5,     GThe latest news, sport, business
 OL,6,     Gand weather from the BBC's
@@ -30,11 +30,11 @@ FL,237,200,140,260,000,100
 PN,23602
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1720935291
+OL,0,        ECIMSBWebfax     F236A1721021969
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 15 JUL
+OL,3,CProgramme listings for TUE 16 JUL
 OL,4,G1900FBBC News
 OL,5,     GThe latest news from the BBC.
 OL,6,G1930FNewscast
@@ -58,11 +58,11 @@ FL,237,200,140,260,000,100
 PN,23603
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1720935291
+OL,0,        ECIMSBWebfax     F236A1721021969
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 15 JUL
+OL,3,CProgramme listings for TUE 16 JUL
 OL,4,G2100FThe Context
 OL,5,     GPresented by Christian Fraser. A
 OL,6,     Gregular panel of guests from
@@ -79,22 +79,24 @@ OL,16,G2200FBBC News at Ten
 OL,17,     GThe latest national and
 OL,18,     Ginternational news, with reports
 OL,19,     Gfrom BBC correspondents worldwide.
+OL,20,G2230FBBC News
+OL,21,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
 PN,23604
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1720935291
+OL,0,        ECIMSBWebfax     F236A1721021969
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 15 JUL
-OL,4,G2230FNewsnight
+OL,3,CProgramme listings for TUE 16 JUL
+OL,4,G2245FNewsnight
 OL,5,     GThe day's important national and
 OL,6,     Ginternational news stories. With
-OL,7,     GVictoria Derbyshire.
-OL,8,G2300FBBC News
+OL,7,     GKatie Razzall.
+OL,8,G2315FBBC News
 OL,9,     GThe latest news from the BBC.
 OL,10,G2330FNewscast
 OL,11,     GLighthearted discussion of the
@@ -113,11 +115,11 @@ FL,237,200,140,260,000,100
 PN,23605
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1720935291
+OL,0,        ECIMSBWebfax     F236A1721021969
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 15 JUL
+OL,3,CProgramme listings for TUE 16 JUL
 OL,4,G0045FSportsday
 OL,5,     GA round-up of the day's sporting
 OL,6,     Gaction, plus talking points,
@@ -142,11 +144,11 @@ FL,237,200,140,260,000,100
 PN,23606
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1720935291
+OL,0,        ECIMSBWebfax     F236A1721021969
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G6/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 15 JUL
+OL,3,CProgramme listings for TUE 16 JUL
 OL,4,G0230FBusiness Today
 OL,5,     GBringing the latest business news
 OL,6,     Gand up-to-date informed analysis
@@ -158,40 +160,33 @@ OL,11,     Gaction, plus talking points,
 OL,12,     Ganalysis and original journalism.
 OL,13,G0300FBBC News
 OL,14,     GThe latest news from the BBC.
-OL,15,G0330FThe Media Show
-OL,16,     GWhy Oz Katerji made the decision
-OL,17,     Gto temporarily stop reporting and
-OL,18,     Ghelp injured Ukrainians. Also on
-OL,19,     Gthe show, what challenges do
-OL,20,     Gjournalists face when reporting
-OL,21,     Gon populist movements?
+OL,15,G0330FInfluential with Katty Kay
+OL,16,     GKatty Kay sits down with two-time
+OL,17,     GOlympic gymnast Aly Raisman.
+OL,18,G0400FBBC News
+OL,19,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
 PN,23607
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1720935291
+OL,0,        ECIMSBWebfax     F236A1721021969
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G7/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for MON 15 JUL
-OL,4,G0400FBBC News
-OL,5,     GThe latest news from the BBC.
-OL,6,G0430FHARDtalk
-OL,7,     GStephen Sackur speaks to Russian
-OL,8,     GMP Maria Butina from President
-OL,9,     GPutin's United Russia party. The
-OL,10,     Gwar in Ukraine now hinges on
-OL,11,     Gstrength of will and staying
-OL,12,     Gpower. Is time really on Russia's
-OL,13,     Gside?
-OL,14,G0500FBBC News
-OL,15,     GThe latest news from the BBC.
-OL,16,G0530FBusiness Today
-OL,17,     GBringing the latest business news
-OL,18,     Gand up-to-date informed analysis
-OL,19,     Gfrom London and around the world.
+OL,3,CProgramme listings for TUE 16 JUL
+OL,4,G0430FHARDtalk
+OL,5,     GIn-depth interviews with the
+OL,6,     Gworld's leading politicians,
+OL,7,     Gopinion-formers and key figures
+OL,8,     Gfrom culture, business and sport.
+OL,9,G0500FBBC News
+OL,10,     GThe latest news from the BBC.
+OL,11,G0530FBusiness Today
+OL,12,     GBringing the latest business news
+OL,13,     Gand up-to-date informed analysis
+OL,14,     Gfrom London and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
