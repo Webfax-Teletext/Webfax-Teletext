@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -123,7 +123,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -149,7 +149,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +174,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -200,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -208,17 +208,16 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FMet Police recruitment drive after
-OL,9,F'struggle' with number of applicants
-OL,11,G402F'No chequebook yet' for Sadiq Khan
-OL,12,Fas mayor seeks long term transport
-OL,13,Ffunding
-OL,15,G403F'Spreadsheet issue' saw 6,500
-OL,16,Fvotes 'go missing' in Putney election
-OL,17,Fcount
-OL,19,G404FMother spared jail after
-OL,20,Faccidentally killing girl next door
-OL,21,Fwith poisonous gas
+OL,8,G401FTemperatures to drop after hottest
+OL,9,Fday of the year
+OL,11,G402FMet Police recruitment drive after
+OL,12,F'struggle' with number of applicants
+OL,14,G403F'No chequebook yet' for Sadiq Khan
+OL,15,Fas mayor seeks long term transport
+OL,16,Ffunding
+OL,18,G404F'Spreadsheet issue' saw 6,500
+OL,19,Fvotes 'go missing' in Putney election
+OL,20,Fcount
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -226,7 +225,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -250,7 +249,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -275,7 +274,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -283,16 +282,15 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FMum's bid to find missing son who
-OL,9,Fvanished on Italian island
-OL,11,G432FBristol Airport, NHS and more hit
-OL,12,Fby IT outage - the picture in the
-OL,13,FSouth West
-OL,15,G433FWoman, 80, left with 'nowhere to
-OL,16,Fgo' as MoD evict her from home
-OL,18,G434FDawn of new era for Plymouth
-OL,19,FArgyle Women with home matches at Home
-OL,20,FPark
+OL,8,G431FInside the #4.5 million mansion up
+OL,9,Ffor grabs for #10
+OL,11,G432FMum's bid to find missing son who
+OL,12,Fvanished on Italian island
+OL,14,G433FBristol Airport, NHS and more hit
+OL,15,Fby IT outage - the picture in the
+OL,16,FSouth West
+OL,18,G434FWoman, 80, left with 'nowhere to
+OL,19,Fgo' as MoD evict her from home
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -300,7 +298,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -325,7 +323,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -351,7 +349,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -376,30 +374,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 20 JUL
-OL,4,G1200FHomes Under the Hammer
-OL,5,     GFeaturing properties in
-OL,6,     GBirmingham, Sutton-in Ashfield
-OL,7,     Gand the Norfolk village of Hilgay.
-OL,8,G1300FBBC News
-OL,9,G1310FWeather
-OL,10,G1315FAthletics: Diamond League London
-OL,11,     GJoin Gabby Logan for an
-OL,12,     Gunmissable afternoon of athletics
-OL,13,     Gfeaturing many of the world's
-OL,14,     Gleading track and field stars in
-OL,15,     Gthe last major competition before
-OL,16,     Gthe 2024 Paris Olympics.
-OL,17,G1615FOlympics: Paris 2024: Preview
-OL,18,     GA preview of Paris 2024.
-OL,19,G1700FThe Bidding Room
-OL,20,     GDealers bid to buy miniature
-OL,21,     GFerraris, two Indian carved
-OL,22,     Gmirrors and a grocer's sign.
+OL,4,G1300FBBC News
+OL,5,G1310FWeather
+OL,6,G1315FAthletics: Diamond League London
+OL,7,     GJoin Gabby Logan for an
+OL,8,     Gunmissable afternoon of athletics
+OL,9,     Gfeaturing many of the world's
+OL,10,     Gleading track and field stars in
+OL,11,     Gthe last major competition before
+OL,12,     Gthe 2024 Paris Olympics.
+OL,13,G1615FOlympics: Paris 2024: Preview
+OL,14,     GA preview of Paris 2024.
+OL,15,G1700FThe Bidding Room
+OL,16,     GDealers bid to buy miniature
+OL,17,     GFerraris, two Indian carved
+OL,18,     Gmirrors and a grocer's sign.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -407,29 +401,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 20 JUL
-OL,4,G1200FHairy Bikers - Chicken & Egg
-OL,5,     GThe Hairy Bikers are on a mission
-OL,6,     Gto find the world's most
-OL,7,     Gdelicious chicken and egg
-OL,8,     Grecipes. They start their search
-OL,9,     Gon home turf with the perfect
-OL,10,     Groast chicken.
-OL,11,G1300FGardeners' World
-OL,12,     GThe team are in Cheshire, at the
-OL,13,     Gbiggest horticultural event in
-OL,14,     Gthe north, the RHS Flower Show
-OL,15,     GTatton Park.
-OL,16,G1400FThe Great British Sewing Bee
-OL,17,     GIt's the semi-final, and in the
-OL,18,     Gway of a place in the final stand
-OL,19,     Ga set of challenges inspired by
-OL,20,     Gthree icons: Balenciaga, Gaultier
-OL,21,     Gand Chanel.
+OL,4,G1300FGardeners' World
+OL,5,     GThe team are in Cheshire, at the
+OL,6,     Gbiggest horticultural event in
+OL,7,     Gthe north, the RHS Flower Show
+OL,8,     GTatton Park.
+OL,9,G1400FThe Great British Sewing Bee
+OL,10,     GIt's the semi-final, and in the
+OL,11,     Gway of a place in the final stand
+OL,12,     Ga set of challenges inspired by
+OL,13,     Gthree icons: Balenciaga, Gaultier
+OL,14,     Gand Chanel.
+OL,15,G1500FDebbie Reynolds: Talking Pictures
+OL,16,     GA look back at the life of
+OL,17,     Gactress Debbie Reynolds. In a
+OL,18,     Gselection of rare interviews,
+OL,19,     GDebbie discusses her favourite
+OL,20,     Gfilm roles and her relationship
+OL,21,     Gwith daughter Carrie Fisher.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -437,25 +431,26 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 20 JUL
-OL,4,G1140FAinsley's National Trust Cook Off
-OL,5,     GBen Ebbrell and Cyrus Todiwala
-OL,6,     Gjoin Ainsley in the kitchen
-OL,7,     Ggarden of Blickling Hall in
-OL,8,     GNorfolk for a light-hearted
-OL,9,     Gcooking contest.
-OL,10,G1240FJames Martin's French Adventure
-OL,11,     GCharente: James's travels around
-OL,12,     GFrance take him to picturesque
-OL,13,     GCharente, where he starts in the
-OL,14,     Gheart of the Cognac region and
-OL,15,     Gvisits the home of the De La
-OL,16,     GRochefoucauld family.
-OL,17,G1310FITV Lunchtime News
+OL,4,G1240FJames Martin's French Adventure
+OL,5,     GCharente: James's travels around
+OL,6,     GFrance take him to picturesque
+OL,7,     GCharente, where he starts in the
+OL,8,     Gheart of the Cognac region and
+OL,9,     Gvisits the home of the De La
+OL,10,     GRochefoucauld family.
+OL,11,G1310FITV Lunchtime News
+OL,12,G1330FITV Racing: Live from Newbury
+OL,13,     GEd Chamberlin presents coverage
+OL,14,     Gof racing from Newbury and Market
+OL,15,     GRasen - the Super Sprint is the
+OL,16,     Gfeature of the day at Newbury
+OL,17,     Gwhile summer jumping headlines at
+OL,18,     GMarket Rasen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -463,30 +458,24 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 20 JUL
-OL,4,G1145FThe Simpsons
-OL,5,     GHomer the Smithers: Worried that
-OL,6,     GMr Burns may replace him
-OL,7,     Gpermanently when he takes a well-
-OL,8,     Gearned break, Smithers chooses
-OL,9,     Gthe plant's worst employee to
-OL,10,     Gfill in for him: Homer.
-OL,11,G1215FThe Simpsons
-OL,12,     GThe Day the Violence Died: Bart
-OL,13,     Gand Lisa help a homeless man ,
-OL,14,     Gwho claims that he invented Itchy
-OL,15,     G& Scratchy, to sue the programme
-OL,16,     Gmakers.
-OL,17,G1250FThe Simpsons
-OL,18,     GA Fish Called Selma: Actor Troy
-OL,19,     GMcClure desperately needs some
-OL,20,     Ggood publicity, after being
-OL,21,     Gimplicated in a sordid sea-life
-OL,22,     Gscandal. So he marries Selma.
+OL,4,G1250FThe Simpsons
+OL,5,     GA Fish Called Selma: Actor Troy
+OL,6,     GMcClure desperately needs some
+OL,7,     Ggood publicity, after being
+OL,8,     Gimplicated in a sordid sea-life
+OL,9,     Gscandal. So he marries Selma.
+OL,10,G1320FCouples Come Dine with Me
+OL,11,     GIn Northampton, there's a Tex-Mex
+OL,12,     Gmenu, posh pub grub and a side
+OL,13,     Gorder of revenge. And one couple
+OL,14,     Gare convinced that no one can
+OL,15,     Gbeat their holiday park setting
+OL,16,     Gand flavoursome food.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -494,26 +483,25 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 20 JUL
-OL,4,G1110FBargain Loving Brits in the Sun
-OL,5,     GA couple uses the land around
-OL,6,     Gtheir house to build a horse
-OL,7,     Grescue centre that can
-OL,8,     Gaccommodate nine horses at a
-OL,9,     Gtime. We visit a retired
-OL,10,     GYorkshire couple who bough a
-OL,11,     Gcaravan.
-OL,12,G1210FDogs Behaving (Very) Badly
-OL,13,     GKevin's Collie disrupts work
-OL,14,     Gcalls with his barking, musician
-OL,15,     GBecki can't practice with her
-OL,16,     GWhippet joining in, and an
-OL,17,     Goveractive Frenchie cross is a
-OL,18,     Gnightmare for some new parents.
+OL,4,G1210FDogs Behaving (Very) Badly
+OL,5,     GKevin's Collie disrupts work
+OL,6,     Gcalls with his barking, musician
+OL,7,     GBecki can't practice with her
+OL,8,     GWhippet joining in, and an
+OL,9,     Goveractive Frenchie cross is a
+OL,10,     Gnightmare for some new parents.
+OL,11,G1305FDogs Behaving (Very) Badly
+OL,12,     GIn a puppy special, Graeme
+OL,13,     Gadvises owners of new puppies and
+OL,14,     Gcatches up with people he has
+OL,15,     Ghelped - because when it comes to
+OL,16,     Gteaching puppies to behave,
+OL,17,     Gthings don't always go to plan.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -521,24 +509,30 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1721473345
+OL,0,        ECIMSBWebfax     F498A1721476956
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 20 JUL
-OL,4,G1200FHawkeye & the Last of the Mohicans
-OL,5,     GThe Reckoning. 1957. Directed by
-OL,6,     GSam Newfield. Stars John Hart,
-OL,7,     GLon Chaney Jr & Chris Wiggins.
-OL,8,     GMore unrest brews among the
-OL,9,     GOttawas.
-OL,10,G1235FFrozen North
-OL,11,     G1922. Comedy Short. Directed by
-OL,12,     GEdward F. Cline & Buster Keaton.
-OL,13,     GBuster Keaton stars as a clumsy
-OL,14,     Gvillain in this parody of early
-OL,15,     GWestern films. Also featuring Joe
-OL,16,     GRoberts & Sybil Seely.
+OL,4,G1255FWomen of the Prehistoric Planet
+OL,5,     G1966. Sci-fi. Directed by Arthur
+OL,6,     GC. Pierce. Stars Wendell Corey,
+OL,7,     GJohn Agar & Keith Larson. When a
+OL,8,     Gstarship becomes stranded on an
+OL,9,     Gunexplored planet, a mission is
+OL,10,     Glaunched to save the survivors.
+OL,11,G1440FLook At Life Trouble Shooters
+OL,12,     G1964. Filmed in Sarawak, we take
+OL,13,     Ga look at Britain's trouble
+OL,14,     Gshooters - the Royal Marines.
+OL,15,G1500FCaptain Scarlet and the Mysterons
+OL,16,     GOperation Time. 1967. Stars
+OL,17,     GJeremy Wilkin, Francis Matthews &
+OL,18,     GCy Grant. Captain Magenta
+OL,19,     Grealises that the Mysterons'
+OL,20,     Gnewest target is General Tiempo,
+OL,21,     Gthe Commander of Western Region
+OL,22,     GWorld Defence.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
