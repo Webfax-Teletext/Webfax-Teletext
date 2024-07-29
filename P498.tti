@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -85,14 +85,14 @@ OL,7,                         G      R!"#!
 OL,8,G351F97-year-old Lake District cinema
 OL,9,Ffaces closure after leaseholder ends
 OL,10,Ftenancy
-OL,12,G352FThree dead after two motorbikes
-OL,13,Fcrash in the Scottish Borders
-OL,15,G353FMotorbike passenger dies in two-
-OL,16,Fvehicle collision at M6 junction
-OL,18,G354FOverturned lorry closes part of
-OL,19,FA701 road
-OL,21,G355FRNLI highlight water safety
-OL,22,Fmessage at Whitehaven event
+OL,12,G352FMan sentenced for possession of
+OL,13,Fstun gun disguised as knuckle duster
+OL,15,G353FThree dead after two motorbikes
+OL,16,Fcrash in the Scottish Borders
+OL,18,G354FMotorbike passenger dies in two-
+OL,19,Fvehicle collision at M6 junction
+OL,21,G355FOverturned lorry closes part of
+OL,22,FA701 road
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -149,7 +149,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +174,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -184,13 +184,15 @@ OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
 OL,8,G391F'At least eight people' injured in
 OL,9,FSouthport stabbing
-OL,11,G392FManchester United could use a
-OL,12,Fpotential new stadium to regenerate
-OL,13,Flocal area
-OL,15,G393FMan charged with attempted murder
-OL,16,Fafter transgender teen stabbed
-OL,18,G394FMan, 23, arrested after teenage
-OL,19,Fgirl raped in woodland in Irlam
+OL,11,G392FPolice 'shocked' by scene of
+OL,12,F'devastating' Southport stabbing
+OL,14,G393FManchester United could use a
+OL,15,Fpotential new stadium to regenerate
+OL,16,Flocal area
+OL,18,G394FMan charged with attempted murder
+OL,19,Fafter transgender teen stabbed
+OL,21,G395FMan, 23, arrested after teenage
+OL,22,Fgirl raped in woodland in Irlam
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -198,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -223,7 +225,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -231,16 +233,17 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FHow anglers are saving the River
-OL,9,FMedway from the effects of harmful
-OL,10,Fpollution
-OL,12,G412FRetail workers urged to report
-OL,13,Fsmaller crimes as PCC sets out new
-OL,14,Fplans
-OL,16,G413FBody of diver recovered off the
-OL,17,Fcoast of Hastings
-OL,19,G414FRowers working with university
-OL,20,Fscientists finish 2,000 mile challenge
+OL,8,G411FKent's former bionic MP Craig
+OL,9,FMackinlay calls for better NHS
+OL,10,Fprosthetics
+OL,12,G412FHow anglers are saving the River
+OL,13,FMedway from the effects of harmful
+OL,14,Fpollution
+OL,16,G413FRetail workers urged to report
+OL,17,Fsmaller crimes as PCC sets out new
+OL,18,Fplans
+OL,20,G414FBody of diver recovered off the
+OL,21,Fcoast of Hastings
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -248,7 +251,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -273,7 +276,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -283,13 +286,14 @@ OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
 OL,8,G431FPolice don hazmat suits at Bath
 OL,9,Fcordon as shoppers 'fall ill'
-OL,11,G432FWarning to 'keep away' as large
-OL,12,Ffire breaks out at industrial site
-OL,14,G433F'This is all him' - equestrian
-OL,15,Fpraises horse for gold and bronze
-OL,16,FOlympic success
-OL,18,G434FPeople warned to 'stay away' after
-OL,19,Fcliff fall on popular Cornish beach
+OL,11,G432FFamily's fear for autistic son as
+OL,12,Fcarers' fund cut from #20 an hour to
+OL,13,F#12.45
+OL,15,G433FWarning to 'keep away' as large
+OL,16,Ffire breaks out at industrial site
+OL,18,G434F'This is all him' - equestrian
+OL,19,Fpraises horse for gold and bronze
+OL,20,FOlympic success
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -297,7 +301,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -323,7 +327,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -331,15 +335,16 @@ OL,4,                      R G    R z4
 OL,5,BThe latest updates fromG  R`|u
 OL,6,BITV News Wales         G  R +';o/
 OL,7,                        G      R"#
-OL,8,G461FWarning issued after kitchen
-OL,9,Fdestroyed in tumble dryer fire
-OL,11,G462FMan, 21, dies on holiday in Spain
-OL,13,G463FHouse prices in Wales rise for
-OL,14,Ffirst time in over a year
-OL,16,G464FWhen you can catch all the Welsh
-OL,17,Fathletes at the Paris Olympics 2024
-OL,19,G465FTwo teenagers arrested over
-OL,20,Fsuspected stabbing
+OL,8,G461FCaller told 999 operator he'd
+OL,9,Fmurder her amid rise in abuse for
+OL,10,Femergency staff
+OL,12,G462FWarning issued after kitchen
+OL,13,Fdestroyed in tumble dryer fire
+OL,15,G463FMan, 21, dies on holiday in Spain
+OL,17,G464FHouse prices in Wales rise for
+OL,18,Ffirst time in over a year
+OL,20,G465FWhen you can catch all the Welsh
+OL,21,Fathletes at the Paris Olympics 2024
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -347,7 +352,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -372,7 +377,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -398,27 +403,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 29 JUL
-OL,4,G2000FSaving Lives at Sea
-OL,5,     GThe volunteers of the RNLI race
-OL,6,     Gto save a stricken fishing boat
-OL,7,     Gin a force-eight gale, a yacht
-OL,8,     Gtrapped on a weir in Loch Ness
-OL,9,     Gand a puppy that has swallowed a
-OL,10,     Gfishing hook.
-OL,11,G2100FThe Turkish Detective
-OL,12,     GThe team are finally close to
-OL,13,     GKayra Khan. Contains some violent
-OL,14,     Gscenes.
-OL,15,G2150FLive at the Apollo Bites
-OL,16,     GThis episode of Apollo Bites
-OL,17,     Gfeatures Rosie Jones, Paul
-OL,18,     GMcCaffrey and Sindhu Vee.
-OL,19,     GContains some strong language.
+OL,4,G2150FLive at the Apollo Bites
+OL,5,     GThis episode of Apollo Bites
+OL,6,     Gfeatures Rosie Jones, Paul
+OL,7,     GMcCaffrey and Sindhu Vee.
+OL,8,     GContains some strong language.
+OL,9,G2200FSpent
+OL,10,     GIn 2014 a visit from Jo to Mia's
+OL,11,     Ghigh life reveals that their
+OL,12,     Gfriendship is complicated.
+OL,13,     GContains strong language.
+OL,14,G2230FNewsnight
+OL,15,G2300FWeather
+OL,16,G2305FToday at the Test: England v West
+OL,17,     FIndies
+OL,18,     GDay four highlights from the
+OL,19,     Gthird Test between England and
+OL,20,     Gthe West Indies at Edgbaston.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -426,26 +432,28 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 29 JUL
-OL,4,G2000FCoronation Street
-OL,5,     GStefan calls on Jack while Kevin
-OL,6,     Gis out of the house, Joel is
-OL,7,     Gforced to allow his two worlds to
-OL,8,     Gcoincide, and Beth asks Craig to
-OL,9,     Ghide some cash.
-OL,10,G2100FVera
-OL,11,     GVital Signs: Crime drama. Vera is
-OL,12,     Gcalled out to the scene of a body
-OL,13,     Gfound in the back of a burned-out
-OL,14,     Gcar - when it's identified as a
-OL,15,     Gpopular local GP, a world of
-OL,16,     Gintrigue opens up.
-OL,17,G2250FITV News
-OL,18,G2335FRegional News
+OL,4,G2100FVera
+OL,5,     GVital Signs: Crime drama. Vera is
+OL,6,     Gcalled out to the scene of a body
+OL,7,     Gfound in the back of a burned-out
+OL,8,     Gcar - when it's identified as a
+OL,9,     Gpopular local GP, a world of
+OL,10,     Gintrigue opens up.
+OL,11,G2250FITV News
+OL,12,G2335FRegional News
+OL,13,G2340FLove and Death
+OL,14,     GEncounters: Crime drama series
+OL,15,     Gabout two church-going couples in
+OL,16,     GTexas. As their affair continues,
+OL,17,     GCandy fears that she and Allan
+OL,18,     Gare at risk of breaking their
+OL,19,     Gfirst rule about it.
+OL,20,G0035FShop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -453,25 +461,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 29 JUL
-OL,4,G2000FJamie: What to Eat This Week
-OL,5,     GJamie Oliver rounds up his
-OL,6,     Gglorious summer offerings with
-OL,7,     Ghome-harvested honey and home-
-OL,8,     Ggrown courgettes, and puts the
-OL,9,     Gcherry on the summer cake with a
-OL,10,     Gfabulously epic frangipane.
-OL,11,G2100F24 Hours in A&E
-OL,12,     GThis episode meets people who've
-OL,13,     Gtaken big risks and explores how
-OL,14,     Git's affected their lives.
-OL,15,     GMotorbikers James and Peter are
-OL,16,     Gboth rushed in. Ex-miner Alfred
-OL,17,     Ghas severe chest pain.
+OL,4,G2100F24 Hours in A&E
+OL,5,     GThis episode meets people who've
+OL,6,     Gtaken big risks and explores how
+OL,7,     Git's affected their lives.
+OL,8,     GMotorbikers James and Peter are
+OL,9,     Gboth rushed in. Ex-miner Alfred
+OL,10,     Ghas severe chest pain.
+OL,11,G2200FTo Catch a Copper
+OL,12,     GWho polices the police? In Avon
+OL,13,     Gand Somerset several officers are
+OL,14,     Gaccused of mistreating or
+OL,15,     Gsexually exploiting members of
+OL,16,     Gthe public. But can coppers
+OL,17,     Greally investigate their own?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -479,25 +487,25 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 29 JUL
-OL,4,G2000FMotorway Cops: Catching Britain's
-OL,5,     FSpeeders
-OL,6,     GA worse-for-wear driver in North
-OL,7,     GTyneside has no plans to come
-OL,8,     Gquietly when pursued by the cops,
-OL,9,     Gand a police chopper helps track
-OL,10,     Gdown a driver on the run.
-OL,11,G2100FPolice: Suspect No 1
-OL,12,     GTwo men are left with serious
-OL,13,     Gfacial injuries after being
-OL,14,     Gassaulted in a Grimsby pub.
-OL,15,     GPolice arrive to make an arrest,
-OL,16,     Gbut a large crowd of bystanders
-OL,17,     Gviolently intervene...
+OL,4,G2100FPolice: Suspect No 1
+OL,5,     GTwo men are left with serious
+OL,6,     Gfacial injuries after being
+OL,7,     Gassaulted in a Grimsby pub.
+OL,8,     GPolice arrive to make an arrest,
+OL,9,     Gbut a large crowd of bystanders
+OL,10,     Gviolently intervene...
+OL,11,G2200F999: Police Hour of Duty
+OL,12,     GIt's 9pm and officers are alerted
+OL,13,     Gto a major incident at a local
+OL,14,     Ghospital. A man has assaulted
+OL,15,     Gthree emergency workers and
+OL,16,     Gappears to be under the influence
+OL,17,     Gof hardcore drugs.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -505,25 +513,25 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722282609
+OL,0,        ECIMSBWebfax     F498A1722286221
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 29 JUL
-OL,4,G2000FEnemy At The Door
-OL,5,     GThe Judgement of Solomon. 1978.
-OL,6,     GStars: Alfred Burke, Bernard
-OL,7,     GHorsfall & Emily Richard. Richter
-OL,8,     Ggives Dr. Martel permission to
-OL,9,     Gtravel to France to get much
-OL,10,     Gneeded medicines for the
-OL,11,     Gislanders.
-OL,12,G2105FNight of the Demon
-OL,13,     G1957. Horror. Director: Jacques
-OL,14,     GTourneur. Stars Dana Andrews,
-OL,15,     GPeggy Cummins & Niall MacGinnis.
-OL,16,     GA professor arrives in London and
-OL,17,     Ginvestigates a devil worshipper.
+OL,4,G2105FNight of the Demon
+OL,5,     G1957. Horror. Director: Jacques
+OL,6,     GTourneur. Stars Dana Andrews,
+OL,7,     GPeggy Cummins & Niall MacGinnis.
+OL,8,     GA professor arrives in London and
+OL,9,     Ginvestigates a devil worshipper.
+OL,10,G2305FThe Pianist
+OL,11,     G2002. Drama. Director: Roman
+OL,12,     GPolanski. Stars Adrien Brody,
+OL,13,     GThomas Kretschmann & Frank
+OL,14,     GFinlay. True-life story of the
+OL,15,     Gbrilliant musician Wladyslaw
+OL,16,     GSzpilman and his journey of
+OL,17,     Gsurvival during WWII.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
