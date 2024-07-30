@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -114,9 +114,11 @@ OL,11,G362FDriver caught by police trimming
 OL,12,Fbeard on motorway
 OL,14,G363FRobber who kept watch during
 OL,15,F'shameful' attack on elderly man jailed
-OL,17,G364FMan who fled to Bulgaria convicted
-OL,18,Fof 'vile' sexual assault of teenage
-OL,19,Fgirl
+OL,17,G364FMan dies two days after fight in
+OL,18,Fmarket town
+OL,20,G365FMan who fled to Bulgaria convicted
+OL,21,Fof 'vile' sexual assault of teenage
+OL,22,Fgirl
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -124,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +152,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -161,13 +163,12 @@ OL,7,
 OL,8,G381FBaggage screening system back in
 OL,9,Faction at Guernsey Airport after power
 OL,10,Fcut
-OL,12,G382FJersey and Guernsey bask in the
-OL,13,Fsun on hottest day of the year
-OL,15,G383FLynx the Guernsey Police dog to
-OL,16,Fretire after five years
-OL,18,G384FSark's Carl Hester 'confident'
-OL,19,Fahead of seventh Olympic campaign in
-OL,20,FParis
+OL,12,G382FNew Alderney ferry to run Guernsey-
+OL,13,FCherbourg route all year round
+OL,15,G383FJersey and Guernsey bask in the
+OL,16,Fsun on hottest day of the year
+OL,18,G384FLynx the Guernsey Police dog to
+OL,19,Fretire after five years
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -175,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -183,17 +184,16 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FSouthport: Six children remain in
-OL,9,Fcritical condition as police question
-OL,10,Fteen
-OL,12,G392FEverything we know about the mass
-OL,13,Fstabbing in Southport
-OL,15,G393FKing leads tributes after 'truly
-OL,16,Fappalling' Southport knife attack
-OL,18,G394FHeroic yoga teacher tried to save
-OL,19,Fchildren during Southport knife attack
-OL,21,G395FEight police officers suspended
-OL,22,Fover racism accusation
+OL,8,G391FGirls killed in Southport knife
+OL,9,Fattack named by police
+OL,11,G392FEverything we know about the mass
+OL,12,Fstabbing in Southport
+OL,14,G393FKing leads tributes after 'truly
+OL,15,Fappalling' Southport knife attack
+OL,17,G394FHeroic yoga teacher tried to save
+OL,18,Fchildren during Southport knife attack
+OL,20,G395FEight police officers suspended
+OL,21,Fover racism accusation
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -201,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -227,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -253,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -303,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -336,17 +336,17 @@ OL,4,                      R G    R z4
 OL,5,BThe latest updates fromG  R`|u
 OL,6,BITV News Wales         G  R +';o/
 OL,7,                        G      R"#
-OL,8,G461FPair banned from driving after
-OL,9,Finjuring taxi driver in illegal high
-OL,10,Fspeed race
-OL,12,G462FBusiness pleas visitors to stop
-OL,13,Feating strawberries before paying for
-OL,14,Fthem
-OL,16,G463FLast working windmill in Wales
-OL,17,Fturning again
-OL,19,G464FPeople urged to report any anti-
-OL,20,Fsocial behaviour so police can
-OL,21,Fpinpoint problem
+OL,8,G461FBride-to-be to take bus to own
+OL,9,Fwedding due to lack of accessible
+OL,10,Ftransport
+OL,12,G462FPair banned from driving after
+OL,13,Finjuring taxi driver in illegal high
+OL,14,Fspeed race
+OL,16,G463FBusiness pleas visitors to stop
+OL,17,Feating strawberries before paying for
+OL,18,Fthem
+OL,20,G464FLast working windmill in Wales
+OL,21,Fturning again
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -354,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,7 +379,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -406,28 +406,26 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 30 JUL
-OL,4,G2230FNewsnight
-OL,5,G2300FWeather
-OL,6,G2305FOn Chesil Beach
-OL,7,     GGraduates from different social
-OL,8,     Gclasses get married, but the
-OL,9,     Ghoneymoon proves a challenge.
-OL,10,     GContains some scenes of a sexual
-OL,11,     Gnature.
-OL,12,G0045FThe Turkish Detective
-OL,13,     GIn a poverty-stricken
-OL,14,     Gneighbourhood of Istanbul, a
-OL,15,     Gserial killer appears to be
-OL,16,     Gtargeting rubbish collectors.
-OL,17,G0140FThe Turkish Detective
-OL,18,     GWith his family still growing,
-OL,19,     GIkmen decides it's time to grow
-OL,20,     Gup a bit and seek promotion.
+OL,4,G2305FOn Chesil Beach
+OL,5,     GGraduates from different social
+OL,6,     Gclasses get married, but the
+OL,7,     Ghoneymoon proves a challenge.
+OL,8,     GContains some scenes of a sexual
+OL,9,     Gnature.
+OL,10,G0045FThe Turkish Detective
+OL,11,     GIn a poverty-stricken
+OL,12,     Gneighbourhood of Istanbul, a
+OL,13,     Gserial killer appears to be
+OL,14,     Gtargeting rubbish collectors.
+OL,15,G0140FThe Turkish Detective
+OL,16,     GWith his family still growing,
+OL,17,     GIkmen decides it's time to grow
+OL,18,     Gup a bit and seek promotion.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -435,28 +433,26 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 30 JUL
-OL,4,G2245FITV News
-OL,5,G2320FRegional News
-OL,6,G2335FOn Assignment
-OL,7,     GJames Mates learns of an identity
-OL,8,     Gcrisis in Santorini, Barnaby
-OL,9,     GPapadopulos follows a hunt for
-OL,10,     Gmissing persons in Cyprus, and
-OL,11,     GFaye Barker sees why an old
-OL,12,     GSpanish harvest is at risk.
-OL,13,G0005FTurbulence: How Safe Is...
-OL,14,     GYour Flight? Buckle up for a
-OL,15,     Ggripping journey as this
-OL,16,     Gdocumentary examines the science
-OL,17,     Gof turbulence while also
-OL,18,     Gexploring its causes, effects and
-OL,19,     Gimplications for the future.
-OL,20,G0100FShop on TV
+OL,4,G2335FOn Assignment
+OL,5,     GJames Mates learns of an identity
+OL,6,     Gcrisis in Santorini, Barnaby
+OL,7,     GPapadopulos follows a hunt for
+OL,8,     Gmissing persons in Cyprus, and
+OL,9,     GFaye Barker sees why an old
+OL,10,     GSpanish harvest is at risk.
+OL,11,G0005FTurbulence: How Safe Is...
+OL,12,     GYour Flight? Buckle up for a
+OL,13,     Ggripping journey as this
+OL,14,     Gdocumentary examines the science
+OL,15,     Gof turbulence while also
+OL,16,     Gexploring its causes, effects and
+OL,17,     Gimplications for the future.
+OL,18,G0100FShop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -464,24 +460,26 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 30 JUL
-OL,4,G2200FGogglebox
-OL,5,     GThe Goggleboxers have been
-OL,6,     Gwatching The Crown, Survivor,
-OL,7,     G007: Road to a Million, The Good
-OL,8,     GShip Murder, Shoplifters: Caught
-OL,9,     GRed Handed, and ITV News .
-OL,10,G2305FWomen on Death Row
-OL,11,     GSandi Nieves: Documentary series
-OL,12,     Gabout women on death row in the
-OL,13,     GUS. In 1998 a suspicious fire in
-OL,14,     GSandi Nieves' home led to her
-OL,15,     Gconviction for her daughters'
-OL,16,     Gmurders.
+OL,4,G2305FWomen on Death Row
+OL,5,     GSandi Nieves: Documentary series
+OL,6,     Gabout women on death row in the
+OL,7,     GUS. In 1998 a suspicious fire in
+OL,8,     GSandi Nieves' home led to her
+OL,9,     Gconviction for her daughters'
+OL,10,     Gmurders.
+OL,11,G0005FParis 2024 Paralympics - Meet the
+OL,12,     FAthletes
+OL,13,     GWith the Paralympics fast
+OL,14,     Gapproaching, taekwondo talent
+OL,15,     GBeth Munro gives us an intimate
+OL,16,     Ginsight into her life, her
+OL,17,     Gsupport for younger athletes and
+OL,18,     Gher love for her sport.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -489,7 +487,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -516,26 +514,28 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722376536
+OL,0,        ECIMSBWebfax     F498A1722380147
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 30 JUL
-OL,4,G2110FGoldeneye
-OL,5,     G1989. Biography. Director: Don
-OL,6,     GBoyd. Stars Charles Dance,
-OL,7,     GPhyllis Logan & Patrick Ryecart.
-OL,8,     GThe story of Ian Fleming and how
-OL,9,     Ghis work in the intelligence
-OL,10,     Gservices inspired him to create
-OL,11,     GJames Bond.
-OL,12,G2315FCellar Club with Caroline Munro
-OL,13,     GJoin Caroline Munro for an
-OL,14,     Gevening of dark tales from the
-OL,15,     G70s. First up, we become trapped
-OL,16,     Gin the 1973 British anthology
-OL,17,     Gfilm The Vault of Horror directed
-OL,18,     Gby Roy Ward Baker.
+OL,4,G2320FThe Vault of Horror
+OL,5,     G1973. Horror. Directed by Roy
+OL,6,     GWard Baker. Stars Curd Jurgens,
+OL,7,     GTerry-Thomas & Tom Baker. Five
+OL,8,     Gmen trapped in the basement vault
+OL,9,     Gof an office building share
+OL,10,     Gvisions with each other of their
+OL,11,     Gdemise.
+OL,12,G0105FCellar Club with Caroline Munro
+OL,13,     GDon't go walking the streets
+OL,14,     Galone at night! Caroline Munro
+OL,15,     Gfollows up with the 1979 sci-fi
+OL,16,     Ghorror The Dark, starring William
+OL,17,     GDevane and Cathy Lee Crosby who
+OL,18,     Gteam up to hunt down a savage
+OL,19,     Gkiller.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
+OL,26,@nD@^xz
