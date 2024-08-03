@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -59,11 +59,11 @@ OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
 OL,8,G302FDispersal orders in several cities
 OL,9,Fas planned protests begin
-OL,11,G303FUS defense secretary abruptly
-OL,12,Frevokes plea deal with accused 9/11
-OL,13,Fplotters
-OL,15,G304FParis 2024 day eight: First
-OL,16,FAthletics medals are up for grabs
+OL,11,G303FParis 2024 day eight: First
+OL,12,FAthletics medals are up for grabs
+OL,14,G304FUS defense secretary abruptly
+OL,15,Frevokes plea deal with accused 9/11
+OL,16,Fplotters
 OL,18,G305FThree police officers injured and
 OL,19,F10 arrests following Sunderland
 OL,20,Fdisorder
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +152,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -178,7 +178,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -203,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -230,7 +230,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -238,17 +238,17 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FThief jailed for targeting elderly
-OL,9,Fpeople in distraction burglaries
-OL,11,G412FNearly 100 migrants suing
-OL,12,FGovernment over 'ill-treatment' at
-OL,13,Fprocessing centre
-OL,15,G413FStaff and members 'devastated'
-OL,16,Fafter immediate closure of sports
-OL,17,Fcentre
-OL,19,G414FClean-up begins after South of
-OL,20,FEngland hit by flash flooding after
-OL,21,Fdownpours
+OL,8,G411FThousands watch Brighton Pride
+OL,9,Fparade as a weekend of celebration
+OL,10,Fbegins
+OL,12,G412FThief jailed for targeting elderly
+OL,13,Fpeople in distraction burglaries
+OL,15,G413FNearly 100 migrants suing
+OL,16,FGovernment over 'ill-treatment' at
+OL,17,Fprocessing centre
+OL,19,G414FStaff and members 'devastated'
+OL,20,Fafter immediate closure of sports
+OL,21,Fcentre
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -256,7 +256,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -281,7 +281,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -307,7 +307,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -333,7 +333,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -341,16 +341,16 @@ OL,4,                      R G    R z4
 OL,5,BThe latest updates fromG  R`|u
 OL,6,BITV News Wales         G  R +';o/
 OL,7,                        G      R"#
-OL,8,G461FPolice renew appeal to find man
-OL,9,Fmissing for over 11 years
-OL,11,G462FJeremiah Azu disqualified from
-OL,12,F100m sprint heats
-OL,14,G463FGold and Bronze for Welsh athletes
-OL,15,Fin rowing
-OL,17,G464F'It's 13 years and we still can't
-OL,18,Fsee the finishing line'
-OL,20,G465FCouple retire from running village
-OL,21,FPost Office after more than 40 years
+OL,8,G461FPeaceful protests held following
+OL,9,FSouthport deaths
+OL,11,G462FPolice renew appeal to find man
+OL,12,Fmissing for over 11 years
+OL,14,G463FJeremiah Azu disqualified from
+OL,15,F100m sprint heats
+OL,17,G464FGold and Bronze for Welsh athletes
+OL,18,Fin rowing
+OL,20,G465F'It's 13 years and we still can't
+OL,21,Fsee the finishing line'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -358,7 +358,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -383,29 +383,27 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 3 AUG
-OL,4,G1315FOlympics: Paris 2024
-OL,5,     GArtistic gymnastics are in the
-OL,6,     Gspotlight this afternoon, with
-OL,7,     GBritish legend Max Whitlock vying
-OL,8,     Gto secure a record third pommel
-OL,9,     Ghorse gold at his fourth Olympics.
-OL,10,G1800FBBC News
-OL,11,G1810FRegional News
-OL,12,G1815FWeather
-OL,13,G1820FOlympics: Paris 2024
-OL,14,     GSome of the world's biggest names
-OL,15,     Gin swimming and athletics battle
-OL,16,     Gfor the podium on a remarkable
-OL,17,     Gnight of Olympic sport as Britain
-OL,18,     Ggo for gold in the pool and on
-OL,19,     Gthe track.
-OL,20,G2200FBBC News
-OL,21,G2215FWeather
+OL,4,G1810FRegional News
+OL,5,G1815FWeather
+OL,6,G1820FOlympics: Paris 2024
+OL,7,     GSome of the world's biggest names
+OL,8,     Gin swimming and athletics battle
+OL,9,     Gfor the podium on a remarkable
+OL,10,     Gnight of Olympic sport as Britain
+OL,11,     Ggo for gold in the pool and on
+OL,12,     Gthe track.
+OL,13,G2200FBBC News
+OL,14,G2215FWeather
+OL,15,G2220FOlympics: Paris 2024: Tonight at
+OL,16,     Fthe Games
+OL,17,     GAll the highlights from day eight
+OL,18,     Gof the Paris Olympics, when 27
+OL,19,     Ggold medals were decided.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -413,30 +411,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 3 AUG
-OL,4,G1415FThe Hundred: Birmingham Phoenix v
-OL,5,     FSouthern Brave
-OL,6,     GLive coverage from Edgbaston,
-OL,7,     Gwhere Birmingham Phoenix host
-OL,8,     GSouthern Brave as the explosive,
-OL,9,     Gbig-hitting action continues in
-OL,10,     Gthis season's Hundred.
-OL,11,G1730FFlog It!
-OL,12,     GPaul Martin opens the gates at
-OL,13,     GLondon Zoo to the lucky locals
-OL,14,     Gladen with antiques. The animals
-OL,15,     Ghave front row seats as Will Axon
-OL,16,     Gand Thomas Plant do their
-OL,17,     Gvaluations.
-OL,18,G1800FOlympics: Paris 2024
-OL,19,     GContinued coverage from day eight
-OL,20,     Gof the Olympic Games, which is
-OL,21,     Gbeing held in Paris for a third
-OL,22,     Gtime.
+OL,4,G1800FOlympics: Paris 2024
+OL,5,     GContinued coverage from day eight
+OL,6,     Gof the Olympic Games, which is
+OL,7,     Gbeing held in Paris for a third
+OL,8,     Gtime.
+OL,9,G1820FCelebrity Antiques Road Trip
+OL,10,     GConsumer journalists Nikki Fox
+OL,11,     Gand Matt Allwright investigate
+OL,12,     Gprofit-making antiques in Kent
+OL,13,     Galongside expert guides Natasha
+OL,14,     GRaskin Sharp and David Harper.
+OL,15,G1920FPointless Celebrities
+OL,16,     GA celebrity special edition
+OL,17,     Gfeaturing David Seaman MBE,
+OL,18,     GFrankie Seaman, Dr Alex George,
+OL,19,     GDr Sara Kayat, Eddie Kadi, Slim,
+OL,20,     GChemmy Alcott and Sarah Lindsay.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -444,7 +440,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -473,29 +469,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 3 AUG
-OL,4,G1620FA Place in the Sun
-OL,5,     GFrances dreams of buying a
-OL,6,     Gholiday home that she can enjoy
-OL,7,     Gwith her friends and family in
-OL,8,     GSpain's beautiful coastal town of
-OL,9,     GNerja. Can Danni Menzies find the
-OL,10,     Gperfect place for #200k?
-OL,11,G1725FChannel 4 News
-OL,12,     GChannel 4's flagship news
-OL,13,     Gprogramme. Including the weather.
-OL,14,G1755FParis 2024 Paralympics - Meet the
-OL,15,     FAthletes
-OL,16,     GWith the Paralympics fast
-OL,17,     Gapproaching, badminton player
-OL,18,     GRachel Choong gives us an insight
-OL,19,     Ginto her life, her love for her
-OL,20,     Gsport, and what competing in
-OL,21,     GParis means to her.
+OL,4,G1800FNew Zealand by Train
+OL,5,     GOn New Zealand's North Island,
+OL,6,     Gfrom Auckland to Wellington, the
+OL,7,     GNorthern Explorer scenic railway
+OL,8,     Gtraverses amazing Middle Earth
+OL,9,     Glandscapes, past active volcanoes
+OL,10,     Gand hot springs.
+OL,11,G1900FWW2: Women on the Frontline
+OL,12,     GThe remarkable stories of the
+OL,13,     Gdaring women who fought the Nazi
+OL,14,     Ginvaders in occupied Europe,
+OL,15,     Gincluding the Austrian Jewish spy
+OL,16,     Gwho seduced men into giving away
+OL,17,     Gtheir secrets.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -503,7 +495,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -533,24 +525,25 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722701653
+OL,0,        ECIMSBWebfax     F498A1722705260
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 3 AUG
-OL,4,G1550FNotorious (1946)
-OL,5,     G1946. Drama. Directed by Alfred
-OL,6,     GHitchcock. Stars Cary Grant,
-OL,7,     GIngrid Bergman & Claude Rains. A
-OL,8,     Gwoman is asked to spy on a group
-OL,9,     Gof Nazi friends in South America,
-OL,10,     Gbut how far will she have to go?
-OL,11,G1745FLook At Life...
-OL,12,     GThe City's Built for Shooting.
-OL,13,     G1960. A look at the cities that
-OL,14,     Gare constructed for the world of
-OL,15,     Gcinema, featuring trips to
-OL,16,     GPinewood and Shepperton.
+OL,4,G1800FIn Suspicious Circumstances
+OL,5,     GThe Monster of Reading - The
+OL,6,     GLetter Killeth. 1996. Stars Ann
+OL,7,     GBell & Clifford Rose. An American
+OL,8,     Gactor finds himself in a
+OL,9,     GCoroner's court and a murder in
+OL,10,     GKent leads to a vicious campaign
+OL,11,     Gof terror.
+OL,12,G1900FDixon of Dock Green
+OL,13,     GAlice. 1976. Stars Jack Warner,
+OL,14,     GAngela Pleasence & Harry Landis.
+OL,15,     GAlice is determined to be the
+OL,16,     Gbest violinist in the world - but
+OL,17,     Gwhat price is she prepared to pay?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
