@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,22 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FCobra meeting planned after thugs
-OL,9,Ftarget hotels housing asylum seekers
-OL,11,G303FMiddlesbrough hit by 'staggering'
-OL,12,Fviolence on Sunday, police say, as 35
-OL,13,Farrested
-OL,15,G304FMinister makes emotional
-OL,16,Fpilgrimage to Japan to honour POW
-OL,17,Ffather
-OL,19,G305FPharmacy leaders issue warning
-OL,20,Fover fake weight-loss jabs
+OL,8,G302FPharmacy leaders issue warning
+OL,9,Fover fake weight-loss jabs
+OL,11,G303FSecond hotel targeted by rioters
+OL,12,Fas PM condemns 'far-right thuggery'
+OL,14,G304F'It could happen to anyone': Harry
+OL,15,Fand Meghan discuss dangers of online
+OL,16,Fharm
+OL,18,G305FBBC begins deleting Huw Edwards
+OL,19,Ffrom archive after guilty plea
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +98,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -123,7 +122,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -148,7 +147,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +173,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -182,15 +181,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FFour charged after violent
-OL,9,Fdisorder against police in Liverpool
-OL,11,G392FSouthport killings being used to
-OL,12,Fcreate division and hate, faith
-OL,13,Fleaders say
-OL,15,G393FShops looted, library torched and
-OL,16,Fdad's fears for children during riots
-OL,18,G394FTrouble spreads to Bolton as
-OL,19,Fpolice try to keep rival groups apart
+OL,8,G391FMan arrested after years on run
+OL,9,Ffaces more abuse charges
+OL,11,G392FFour charged after violent
+OL,12,Fdisorder against police in Liverpool
+OL,14,G393FSouthport killings being used to
+OL,15,Fcreate division and hate, faith
+OL,16,Fleaders say
+OL,18,G394FShops looted, library torched and
+OL,19,Fdad's fears for children during riots
+OL,21,G395FTrouble spreads to Bolton as
+OL,22,Fpolice try to keep rival groups apart
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -198,7 +199,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -223,7 +224,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -248,7 +249,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -274,7 +275,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -282,16 +283,16 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FPolice arrest 16 people and
-OL,9,Fcondemn 'thuggery' that sparked scenes
-OL,10,Fof violence
-OL,12,G432FCornish rock pool looking
-OL,13,Fspectacular as major revamp almost
-OL,14,Fcomplete
-OL,16,G433FMen's Shed tackling loneliness and
-OL,17,Fisolation saved from closure
-OL,19,G434FMuseum volunteers 'protest for
-OL,20,Fjustice' after shock suspension
+OL,8,G431F'Stay at home': Council leader's
+OL,9,Fwarning ahead of planned protests
+OL,11,G432FPolice arrest 16 people and
+OL,12,Fcondemn 'thuggery' that sparked scenes
+OL,13,Fof violence
+OL,15,G433FCornish rock pool looking
+OL,16,Fspectacular as major revamp almost
+OL,17,Fcomplete
+OL,19,G434FMen's Shed tackling loneliness and
+OL,20,Fisolation saved from closure
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -299,7 +300,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -324,7 +325,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -349,7 +350,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -374,7 +375,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -402,27 +403,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 5 AUG
-OL,4,G0645FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0900FDom Does America
-OL,9,     GDom fulfils his boyhood dream of
-OL,10,     Gworking as a firefighter,
-OL,11,     Gspending a day with the Wichita
-OL,12,     GFalls Fire Department in Texas.
-OL,13,G0930FWanted Down Under Revisited
-OL,14,     GStef Barker was convinced that
-OL,15,     GNew Zealand was the best place
-OL,16,     Gfor her family, but did she
-OL,17,     Gmanage to persuade reluctant
-OL,18,     Ghusband Alan round to her point
-OL,19,     Gof view and make the move?
+OL,4,G0900FDom Does America
+OL,5,     GDom fulfils his boyhood dream of
+OL,6,     Gworking as a firefighter,
+OL,7,     Gspending a day with the Wichita
+OL,8,     GFalls Fire Department in Texas.
+OL,9,G0930FWanted Down Under Revisited
+OL,10,     GStef Barker was convinced that
+OL,11,     GNew Zealand was the best place
+OL,12,     Gfor her family, but did she
+OL,13,     Gmanage to persuade reluctant
+OL,14,     Ghusband Alan round to her point
+OL,15,     Gof view and make the move?
+OL,16,G1015FA Countryside Summer
+OL,17,     GChris Packham and Megan McCubbin
+OL,18,     Gvisit the stunning Walney Island
+OL,19,     Goff the west coast of England,
+OL,20,     Gand Mary Berry shows us how to
+OL,21,     Gcook a perfect summer pudding.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -430,27 +433,24 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 5 AUG
-OL,4,G0600FGood Morning Britain
-OL,5,     GNews, current affairs and lively
-OL,6,     Gdebate.
-OL,7,G0900FLorraine
-OL,8,     GLorraine Kelly presents a topical
-OL,9,     Gmix of entertainment, discussion
-OL,10,     Gand showbiz glamour as well as
-OL,11,     Gthe latest fashion, food and
-OL,12,     Gcelebrity gossip.
-OL,13,G1000FThis Morning
-OL,14,     GMagazine show with news and
-OL,15,     Gtopical items, celebrity guests,
-OL,16,     Gexpert advice, real-life stories,
-OL,17,     Gcompetitions and a mix of
-OL,18,     Gcookery, health, beauty,
-OL,19,     Glifestyle and more.
+OL,4,G0900FLorraine
+OL,5,     GLorraine Kelly presents a topical
+OL,6,     Gmix of entertainment, discussion
+OL,7,     Gand showbiz glamour as well as
+OL,8,     Gthe latest fashion, food and
+OL,9,     Gcelebrity gossip.
+OL,10,G1000FThis Morning
+OL,11,     GMagazine show with news and
+OL,12,     Gtopical items, celebrity guests,
+OL,13,     Gexpert advice, real-life stories,
+OL,14,     Gcompetitions and a mix of
+OL,15,     Gcookery, health, beauty,
+OL,16,     Glifestyle and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -458,30 +458,30 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 5 AUG
-OL,4,G0800FEverybody Loves Raymond
-OL,5,     GThe Ingrate: Debra is hurt when
-OL,6,     GRay receives an honorary
-OL,7,     Gdoctorate and thanks everyone
-OL,8,     Gexcept her in his acceptance
-OL,9,     Gspeech.
-OL,10,G0830FEverybody Loves Raymond
-OL,11,     GCrazy Chin: Amy's parents put
-OL,12,     GRobert on the defensive when they
-OL,13,     Gpoint out his strange habit of
-OL,14,     Gtouching food to his chin before
-OL,15,     Ghe eats it.
-OL,16,G0900FFrasier
-OL,17,     GThe Great Crane Robbery:
-OL,18,     GFrasier's bootlicking routine
-OL,19,     Gbackfires when he invites his new
-OL,20,     Gboss, a nouveau-riche dot-com
-OL,21,     Gmillionaire, to his tastefully
-OL,22,     Gdecorated home.
+OL,4,G0900FFrasier
+OL,5,     GThe Great Crane Robbery:
+OL,6,     GFrasier's bootlicking routine
+OL,7,     Gbackfires when he invites his new
+OL,8,     Gboss, a nouveau-riche dot-com
+OL,9,     Gmillionaire, to his tastefully
+OL,10,     Gdecorated home.
+OL,11,G0930FFrasier
+OL,12,     GTaking Liberties: Frasier hires a
+OL,13,     Gbutler, who spoils everyone in
+OL,14,     Gthe household and offers Frasier
+OL,15,     Gsage advice in his bid to join
+OL,16,     Gthe snobbish opera board.
+OL,17,G1000FFrasier
+OL,18,     GLegal Tender Love and Care:
+OL,19,     GFrasier begins to date the
+OL,20,     Gattractive attorney who defended
+OL,21,     Ghim against Donny, who was jilted
+OL,22,     Gat the altar by Daphne.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -489,28 +489,30 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 5 AUG
-OL,4,G0810FRubble & Crew
-OL,5,     GWith their splash park plans in
-OL,6,     Gtroubled waters, the pups have to
-OL,7,     Gget creative to cool down the
-OL,8,     Gtown for the summer.
-OL,9,G0830FPeppa Pig
-OL,10,     GPeppa and her family are on
-OL,11,     Gholiday in Australia, visiting
-OL,12,     Gthe Kangaroo family. On their
-OL,13,     Gfirst day, they explore the
-OL,14,     GOutback.
-OL,15,G0835FPeppa Pig
-OL,16,     GThe Kangaroos take Peppa and her
-OL,17,     Gfamily to the beach on their
-OL,18,     Gsecond day in Australia, where
-OL,19,     Gthey try surfing for the first
-OL,20,     Gtime.
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and Storm discuss the
+OL,6,     Glatest news and get your views
+OL,7,     Gand opinions of the day.
+OL,8,G1130FStorm Huntley
+OL,9,     GStorm Huntley carries on the
+OL,10,     Gdiscussion and takes your calls
+OL,11,     Gto discuss the biggest stories of
+OL,12,     Gthe day.
+OL,13,G1245FFriends
+OL,14,     GOn Valentine's Day, Ross meets
+OL,15,     Ghis ex-wife while on his first
+OL,16,     Gdate in nine years. Monica and
+OL,17,     GRachel rebel by burning mementos
+OL,18,     Gof past relationships.
+OL,19,G1310FFriends
+OL,20,     GMonica applies for the chef's
+OL,21,     Gposition at a smart restaurant
+OL,22,     Gand cooks the manager a feast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -518,7 +520,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1722842522
+OL,0,        ECIMSBWebfax     F498A1722846135
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
