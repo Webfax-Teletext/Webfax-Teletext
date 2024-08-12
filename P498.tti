@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,24 +50,23 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FMonday set to be hottest day of
-OL,9,Fthe year with temperatures predicted
-OL,10,Fto hit 35C
-OL,12,G303FTop City bosses paid a record
-OL,13,F#4.19m on average last year
-OL,15,G304FGovernment to double compensation
-OL,16,Ffor poor customer service from water
-OL,17,Fcompanies
-OL,19,G305FDigital replicas of real world
-OL,20,Fcould help decarbonise transport,
-OL,21,Fscientists say
+OL,8,G302FGovernment to double compensation
+OL,9,Ffor poor customer service from water
+OL,10,Fcompanies
+OL,12,G303FMonday set to be hottest day of
+OL,13,Fthe year with temperatures predicted
+OL,14,Fto hit 35C
+OL,16,G304FTop City bosses paid a record
+OL,17,F#4.19m on average last year
+OL,19,G305FParis 2024 Olympics comes to an
+OL,20,Fend with star-studded closing ceremony
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -189,11 +188,13 @@ OL,8,G391FJay Slater: Hundreds attend
 OL,9,Ffuneral of Lancashire teenager
 OL,11,G392FSouthport attack: Victim's sister
 OL,12,Fwitnessed stabbing
-OL,14,G393FHundreds gather in Southport to
-OL,15,Fpay respects at funeral of Alice da
-OL,16,FSilva Aguiar
-OL,18,G394FTwo people injured in double
-OL,19,Fshooting in Moss Side
+OL,14,G393FHundreds gather in Southport for
+OL,15,Ffuneral of Alice da Silva Aguiar
+OL,17,G394FTwo people injured in double
+OL,18,Fshooting in Moss Side
+OL,20,G395FNorth West pioneers national
+OL,21,Frollout of life-saving lung health
+OL,22,Fchecks
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -201,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -227,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -253,7 +254,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -278,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -303,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -352,7 +353,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -377,7 +378,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -407,25 +408,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 12 AUG
-OL,4,G0645FSaturday Kitchen: Matt's Dream
-OL,5,     FDishes
-OL,6,     GIn this special episode, Matt
-OL,7,     GTebbutt serves some of his
-OL,8,     Gfavourite recipes from years gone
-OL,9,     Gby, with an array of top culinary
-OL,10,     Gtalent on the menu.
-OL,11,G0815FBridge of Lies
-OL,12,     GFour friends, Jacqui, Nigel, Phil
-OL,13,     Gand Jane, take on the Bridge of
-OL,14,     GLies. One by one, they must cross
-OL,15,     Gthe Bridge, stepping on the
-OL,16,     Gtruths and avoiding the lies.
-OL,17,G0900FBBC News
+OL,4,G0815FBridge of Lies
+OL,5,     GFour friends, Jacqui, Nigel, Phil
+OL,6,     Gand Jane, take on the Bridge of
+OL,7,     GLies. One by one, they must cross
+OL,8,     Gthe Bridge, stepping on the
+OL,9,     Gtruths and avoiding the lies.
+OL,10,G0900FBBC News
+OL,11,G1300FHead Hunters
+OL,12,     GRob Beckett hosts the quiz show
+OL,13,     Gwhere contestants must decide
+OL,14,     Gwhether they can win the jackpot
+OL,15,     Galone or need to headhunt other
+OL,16,     Gplayers to supplement their
+OL,17,     Gknowledge.
+OL,18,G1345FCelebrity Catchpoint
+OL,19,     GTia Kofi and The Vivienne from Ru
+OL,20,     GPaul's Drag Race UK take on Radio
+OL,21,     G1 DJs Scott Mills and Chris Stark.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -433,7 +438,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -461,25 +466,27 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 12 AUG
-OL,4,G0735FEverybody Loves Raymond
-OL,5,     GI Wish I Were Gus: Ray is chosen
-OL,6,     Gto give the eulogy at his great
-OL,7,     Guncle's funeral, but he gets more
-OL,8,     Gthan he bargained for when his
-OL,9,     Gaunt turns up to rekindle a
-OL,10,     Gfamily feud.
-OL,11,G0800FEverybody Loves Raymond
-OL,12,     GStandard Deviation: Robert asks
-OL,13,     GRay and Debra to complete IQ
-OL,14,     Gtests as part of his criminal
-OL,15,     Gpsychology class, but then tells
-OL,16,     Geach of them that they scored the
-OL,17,     Ghighest mark.
+OL,4,G0830FEverybody Loves Raymond
+OL,5,     GLook, Don't Touch: Debra is
+OL,6,     Gsuspicious when Angelina, a
+OL,7,     Gwaitress at Nemo's, calls Ray at
+OL,8,     Ghome. Although it's all perfectly
+OL,9,     Ginnocent, Ray feels guilty.
+OL,10,G0900FFrasier
+OL,11,     GLove Stinks: Frasier hosts a
+OL,12,     Gparty for the staff at the radio
+OL,13,     Gstation, in order to improve his
+OL,14,     Gimage. Roz dates a binman.
+OL,15,G0930FFrasier
+OL,16,     GRoom Full of Heroes: Frasier's
+OL,17,     GHalloween party takes an
+OL,18,     Gunpleasant turn when Niles drinks
+OL,19,     Ga few too many beers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -487,29 +494,30 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 12 AUG
-OL,4,G0755FMilo
-OL,5,     GChef Pierre's tales inspire Milo,
-OL,6,     GLofty and Lark to want to work in
-OL,7,     Ghis world-famous restaurant.
-OL,8,     GAfter serving some culinary
-OL,9,     Gdisasters, can they prepare a
-OL,10,     Gdish fit for a queen?
-OL,11,G0810FRubble & Crew
-OL,12,     GThe pups jump into action to
-OL,13,     Gbuild an observatory to help
-OL,14,     Gtheir friend River get a cool
-OL,15,     Gpicture of a shooting star!
-OL,16,G0830FMilkshake! Music Explorers
-OL,17,     GJoin Kemi and some mini
-OL,18,     Gmilkshakers in the Milkshake!
-OL,19,     Gstudio, as they learn about the
-OL,20,     GCajon, an instrument that comes
-OL,21,     Gfrom Angola and Peru.
+OL,4,G0855FGo Green With The Grimwades
+OL,5,     GToday the Grimwade family decide
+OL,6,     Gto reduce their food miles and
+OL,7,     Gset themselves a challenge to
+OL,8,     Gsource the rest of their food for
+OL,9,     Gtonight's dinner locally.
+OL,10,G0905FMilkshake! Monkey Top Nanas Rhymes
+OL,11,     GJoin Milkshake! to singalong to a
+OL,12,     Gtop nana's rhyme Happy and You
+OL,13,     GKnow It.
+OL,14,G0915FJeremy Vine
+OL,15,     GJeremy Vine and Storm discuss the
+OL,16,     Glatest news and get your views
+OL,17,     Gand opinions of the day.
+OL,18,G1130FStorm Huntley
+OL,19,     GStorm Huntley carries on the
+OL,20,     Gdiscussion and takes your calls
+OL,21,     Gto discuss the biggest stories of
+OL,22,     Gthe day.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -517,24 +525,24 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723445837
+OL,0,        ECIMSBWebfax     F498A1723449454
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 12 AUG
-OL,4,G0700FDown Among The Z Men
-OL,5,     G1952. Comedy directed by Maclean
-OL,6,     GRogers and starring Michael
-OL,7,     GBentine, Harry Secombe, Spike
-OL,8,     GMilligan and Peter Sellers. Prof.
-OL,9,     GPureheart loses a secret formula
-OL,10,     Gin the grocery shop.
-OL,11,G0820FThe Night We Dropped a Clanger
-OL,12,     G1959. A Wing Commander is on a
-OL,13,     Gmission to find out about the
-OL,14,     Gflying bomb. Stars William
-OL,15,     GHartnell, Leslie Phillips, Leo
-OL,16,     GFranklyn & Liz Fraser.
+OL,4,G0820FThe Night We Dropped a Clanger
+OL,5,     G1959. A Wing Commander is on a
+OL,6,     Gmission to find out about the
+OL,7,     Gflying bomb. Stars William
+OL,8,     GHartnell, Leslie Phillips, Leo
+OL,9,     GFranklyn & Liz Fraser.
+OL,10,G1005FBlind Spot
+OL,11,     G1958. Crime Drama directed by
+OL,12,     GPeter Maxwell. Starring Robert
+OL,13,     GMackenzie, Michael Caine and
+OL,14,     GDelphi Lawrence. US Officer
+OL,15,     GAdams, blinded during the war, is
+OL,16,     Gframed on a diamond-smuggling rap.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
