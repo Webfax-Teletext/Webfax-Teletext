@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -60,12 +60,14 @@ OL,6,BITV News                   V +o,!
 OL,8,G302FNottingham killings 'wholly
 OL,9,Favoidable', say victims' families
 OL,10,Fafter review
-OL,12,G303FUkraine's surprise incursion in
-OL,13,FRussia: How will it affect the war?
-OL,15,G304FSummer exam results: When are they
-OL,16,Fand what can you expect?
-OL,18,G305FThousands of residents evacuated
-OL,19,Fas wildfires reach outskirts of Athens
+OL,12,G303FThousands of residents evacuated
+OL,13,Fas wildfires reach outskirts of Athens
+OL,15,G304FMan charged with attempted murder
+OL,16,Fafter girl, 11, stabbed in London
+OL,18,G305FUkraine's surprise incursion in
+OL,19,FRussia: How will it affect the war?
+OL,21,G306FSummer exam results: When are they
+OL,22,Fand what can you expect?
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -73,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -84,14 +86,14 @@ OL,7,                         G      R!"#!
 OL,8,G351FRed-faced letter day as printing
 OL,9,Fblunder spotted on banners across
 OL,10,FCarlisle
-OL,12,G352FTrial dates set in cases of men
-OL,13,Ffacing racially aggravated civil
-OL,14,Funrest charges
-OL,16,G353FInquest opened into death of
-OL,17,Fschool pupil in Windermere
-OL,19,G354FWest Cumbrian man jailed for
-OL,20,Fsharing racially aggravated social
-OL,21,Fmedia posts
+OL,12,G352FTransfer Round-up: Border sides
+OL,13,Fmake signings as season kicks off
+OL,15,G353FTrial dates set in cases of men
+OL,16,Ffacing racially aggravated civil
+OL,17,Funrest charges
+OL,19,G354FDrugs worth more than half a
+OL,20,Fmillion pounds found at property in
+OL,21,FDumfries
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -99,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -107,17 +109,17 @@ OL,4,                          R//0
 OL,5,BThe latest updates from   R*///4
 OL,6,BITV News Calendar          R#!
 OL,7,                             R"#!
-OL,8,G361FWho has been jailed so far over
-OL,9,Frioting and disorder in Yorkshire?
-OL,11,G362FParty poppers and cheers as
-OL,12,FOlympic champion arrives at Leeds
-OL,13,Fstation
-OL,15,G363FTrio who dragged stabbed teen's
-OL,16,Fbody into street jailed
-OL,18,G364FFamily's plea after bullied teen
-OL,19,Ffound dead at home
-OL,21,G365FMan pictured confronting riot
-OL,22,Fpolice outside asylum hotel jailed
+OL,8,G361FWoman and five-year-old boy hit by
+OL,9,Foff-road biker on mobile phone
+OL,11,G362FWho has been jailed so far over
+OL,12,Frioting and disorder in Yorkshire?
+OL,14,G363FParty poppers and cheers as
+OL,15,FOlympic champion arrives at Leeds
+OL,16,Fstation
+OL,18,G364FTrio who dragged stabbed teen's
+OL,19,Fbody into street jailed
+OL,21,G365FFamily's plea after bullied teen
+OL,22,Ffound dead at home
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -125,7 +127,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -133,18 +135,17 @@ OL,4,                      R~3!
 OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
-OL,8,G371FReview of Nottingham killer's care
-OL,9,Ffinds risk details 'minimised or
-OL,10,Fomitted'
-OL,12,G372FNottingham attacks: Families get
-OL,13,F'confirmation public inquiry will take
-OL,14,Fplace'
-OL,16,G373FWarning to people and pets after
-OL,17,F'toxic chemical spill' along stretch
-OL,18,Fof canal
-OL,20,G374FFootage shows men armed with axes
-OL,21,Fattacking Yardley shop owner for his
-OL,22,Fwatch
+OL,8,G371FTributes for boy, 2, who died
+OL,9,Fafter being pulled from canal
+OL,11,G372FReview of Nottingham killer's care
+OL,12,Ffinds risk details 'minimised or
+OL,13,Fomitted'
+OL,15,G373F'Beautiful' Roman mosaic with
+OL,16,Fdolphins and fish uncovered in
+OL,17,Farcheological dig
+OL,19,G374FNottingham attacks: Families get
+OL,20,F'confirmation public inquiry will take
+OL,21,Fplace'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -152,7 +153,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +178,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -185,17 +186,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FYoung muslims 'scared' to walk the
-OL,9,Fstreets after riots
-OL,11,G392FMan jailed after throwing items at
-OL,12,Fpolice in Southport 'will miss child's
-OL,13,Fbirth'
-OL,15,G393FPop legends The Jacksons 'can't
-OL,16,Fwait' to headline Liverpool
-OL,18,G394FTeenage murderer not seen as a
-OL,19,F'serious risk'
-OL,21,G395FAqua natal classes for elephants
-OL,22,Fdue to give birth
+OL,8,G391FBoys aged just 12 become youngest
+OL,9,Fconvicted for riots
+OL,11,G392FYoung muslims 'scared' to walk the
+OL,12,Fstreets after riots
+OL,14,G393FMan jailed after throwing items at
+OL,15,Fpolice in Southport 'will miss child's
+OL,16,Fbirth'
+OL,18,G394FPop legends The Jacksons 'can't
+OL,19,Fwait' to headline Liverpool
+OL,21,G395FTeenage murderer not seen as a
+OL,22,F'serious risk'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -203,7 +204,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -211,17 +212,17 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FLower Thames Crossing: Could
-OL,9,Fprivate investment safeguard the #9bn
-OL,10,Fproject
-OL,12,G402FBanksy's rhino artwork defaced by
-OL,13,Fman in balaclava hours after being
-OL,14,Funveiled
-OL,16,G403FMan pleads guilty after racially
-OL,17,Fabusing and spitting at bus driver
-OL,19,G404FRace Across The World winner takes
-OL,20,Fon role delivering football kit to
-OL,21,Fchildren
+OL,8,G401FLeicester Square victim, 11,
+OL,9,F'stabbed eight times and placed in
+OL,10,Fheadlock'
+OL,12,G402FLower Thames Crossing: Could
+OL,13,Fprivate investment safeguard the #9bn
+OL,14,Fproject
+OL,16,G403FBanksy's rhino artwork defaced by
+OL,17,Fman in balaclava hours after being
+OL,18,Funveiled
+OL,20,G404FMan pleads guilty after racially
+OL,21,Fabusing and spitting at bus driver
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -229,7 +230,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -254,7 +255,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -262,16 +263,15 @@ OL,4,                             R"{4
 OL,5,BThe latest updates from      R?}
 OL,6,BITV News Tyne Tees            Rt
 OL,7,                               R*'#/'#
-OL,8,G421FNewcastle footfall down by roughly
-OL,9,Ffifth due to fears of riots
-OL,11,G422FNurse who donated organ and
-OL,12,Ftransplant patient both win gold at
-OL,13,FEuropean games
-OL,15,G423FMan threw vacuum cleaner and told
-OL,16,Fpolice 'I hope your children get raped'
-OL,18,G424FTeen who threw rocks at police and
-OL,19,Fshouted 'I'm a child' during arrest
-OL,20,Flocked up
+OL,8,G421FDrivers face parking clampdown
+OL,9,Faround Newcastle Airport
+OL,11,G422FNewcastle footfall down by roughly
+OL,12,Ffifth due to fears of riots
+OL,14,G423FNurse who donated organ and
+OL,15,Ftransplant patient both win gold at
+OL,16,FEuropean games
+OL,18,G424FMan threw vacuum cleaner and told
+OL,19,Fpolice 'I hope your children get raped'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -279,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -305,7 +305,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -331,7 +331,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -343,13 +343,12 @@ OL,8,G461FHow a Welsh police dog and
 OL,9,Fofficers helped at Paris Olympics
 OL,11,G462FSt David's Hall could remain shut
 OL,12,Fa year longer than expected
-OL,14,G463FThe cancer side effects many men
-OL,15,Fare too embarrassed to talk about
-OL,17,G464F'I spent 18 days on life support
-OL,18,Fand had 3 surgeries after giving birth'
-OL,20,G465FPair jailed for 'brutal and
-OL,21,Fsenseless' murder of 'much-loved'
-OL,22,Fgrandfather
+OL,14,G463FRural Welsh homes to receive
+OL,15,Fbroadband boost for the first time
+OL,17,G464FThe cancer side effects many men
+OL,18,Fare too embarrassed to talk about
+OL,20,G465F'I spent 18 days on life support
+OL,21,Fand had 3 surgeries after giving birth'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -357,7 +356,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -382,27 +381,30 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 13 AUG
-OL,4,G1500FEscape to the Country
-OL,5,     GJules Hudson goes house hunting
-OL,6,     Gwith a couple who have dreams of
-OL,7,     Gescaping to Devon.
-OL,8,G1545FThe Repair Shop
-OL,9,     GJay Blades and the team restore a
-OL,10,     Gsmall broken statue, a clock all
-OL,11,     Gthe way from Trinidad and a
-OL,12,     Gglamorous painting that has seen
-OL,13,     Gbetter days.
-OL,14,G1630FThe Finish Line
-OL,15,     GRoman Kemp hosts this quiz show
-OL,16,     Gwith sidekick Sarah Greene. The
-OL,17,     Gcontestants race on moving
-OL,18,     Gpodiums across the studio floor
-OL,19,     Gto try to win #5,000.
+OL,4,G1545FThe Repair Shop
+OL,5,     GJay Blades and the team restore a
+OL,6,     Gsmall broken statue, a clock all
+OL,7,     Gthe way from Trinidad and a
+OL,8,     Gglamorous painting that has seen
+OL,9,     Gbetter days.
+OL,10,G1630FThe Finish Line
+OL,11,     GRoman Kemp hosts this quiz show
+OL,12,     Gwith sidekick Sarah Greene. The
+OL,13,     Gcontestants race on moving
+OL,14,     Gpodiums across the studio floor
+OL,15,     Gto try to win #5,000.
+OL,16,G1715FPointless
+OL,17,     GThe quiz returns for another
+OL,18,     Gseries in which contestants try
+OL,19,     Gto score as few points as
+OL,20,     Gpossible by coming up with the
+OL,21,     Ganswers no-one else could think
+OL,22,     Gof.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -410,7 +412,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -438,30 +440,30 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 13 AUG
-OL,4,G1500FTenable
-OL,5,     GA team from the Harlow Amateur
-OL,6,     GTheatre Society answer Top 10
-OL,7,     Glist questions in the hope of
-OL,8,     Gwalking away with a huge cash
-OL,9,     Gprize in the quiz show hosted by
-OL,10,     GWarwick Davis.
-OL,11,G1600FTipping Point
-OL,12,     GBen Shephard hosts the quiz show
-OL,13,     Gin which three players take on an
-OL,14,     Gextraordinary machine in the hope
-OL,15,     Gof winning a cash jackpot.
-OL,16,G1700FThe Chase
-OL,17,     GBradley Walsh guides four people
-OL,18,     Gwho have never met before -
-OL,19,     GRobbie from Glasgow, Jasper from
-OL,20,     GNorwich, Caroline from Chichester
-OL,21,     Gand Jen from Manchester - as they
-OL,22,     Gtake on a Chaser.
+OL,4,G1600FTipping Point
+OL,5,     GBen Shephard hosts the quiz show
+OL,6,     Gin which three players take on an
+OL,7,     Gextraordinary machine in the hope
+OL,8,     Gof winning a cash jackpot.
+OL,9,G1700FThe Chase
+OL,10,     GBradley Walsh guides four people
+OL,11,     Gwho have never met before -
+OL,12,     GRobbie from Glasgow, Jasper from
+OL,13,     GNorwich, Caroline from Chichester
+OL,14,     Gand Jen from Manchester - as they
+OL,15,     Gtake on a Chaser.
+OL,16,G1800FRegional News
+OL,17,G1830FITV Evening News
+OL,18,G1930FEmmerdale
+OL,19,     GMandy is excited about her hen
+OL,20,     Gparty while Bear is rattled by
+OL,21,     Gher betrayal, and Nicola and
+OL,22,     GJimmy are devastated.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -469,25 +471,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 13 AUG
-OL,4,G1500FA Place in the Sun
-OL,5,     GPaul and Nicola have finally
-OL,6,     Gdecided to buy a holiday home in
-OL,7,     Gthe seaside town of Puerto del
-OL,8,     GCarmen on Lanzarote. Ben Hillman
-OL,9,     Ghas five excellent options for
-OL,10,     Gtheir budget of #180,000.
-OL,11,G1600FThe Great House Giveaway
-OL,12,     GAaron and Stuart have got all the
-OL,13,     Gskills they need between them to
-OL,14,     Gmake their Somerset renovation a
-OL,15,     Gbig success. But as emotions run
-OL,16,     Ghigh, can they pull off the
-OL,17,     Gambitious build?
+OL,4,G1600FThe Great House Giveaway
+OL,5,     GAaron and Stuart have got all the
+OL,6,     Gskills they need between them to
+OL,7,     Gmake their Somerset renovation a
+OL,8,     Gbig success. But as emotions run
+OL,9,     Ghigh, can they pull off the
+OL,10,     Gambitious build?
+OL,11,G1700FA New Life in the Sun: Where Are
+OL,12,     FThey Now?
+OL,13,     GThe new series continues. Will
+OL,14,     GRob and Steve's new events pay
+OL,15,     Goff at their French vineyard?
+OL,16,     GPlus: a shock departure at Gary
+OL,17,     Gand Lynne's padel tennis club.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -495,29 +497,29 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 13 AUG
-OL,4,G1415FThe Baby Swindler
-OL,5,     GPregnant and newly single, Julia
-OL,6,     Gfaces a looming catastrophe when
-OL,7,     Gshe loses her job. Then she
-OL,8,     Gdiscovers there's a lucrative
-OL,9,     Gmarket for positive pregnancy
-OL,10,     Gtests...
-OL,11,G1600FThe Cruise: Fun-Loving Brits at
-OL,12,     FSea
-OL,13,     GThe travellers visit the Greek
-OL,14,     Gisland of Santorini, where they
-OL,15,     Gexperience the black sands of
-OL,16,     GPerissa beach, a calamari lunch,
-OL,17,     GProfitis Ilias Mountain, and a
-OL,18,     Gsalsa lesson.
-OL,19,G1700F5 News at 5
-OL,20,     GJoin Dan Walker and the team for
-OL,21,     Gthe news that matters to you.
+OL,4,G1600FThe Cruise: Fun-Loving Brits at
+OL,5,     FSea
+OL,6,     GThe travellers visit the Greek
+OL,7,     Gisland of Santorini, where they
+OL,8,     Gexperience the black sands of
+OL,9,     GPerissa beach, a calamari lunch,
+OL,10,     GProfitis Ilias Mountain, and a
+OL,11,     Gsalsa lesson.
+OL,12,G1700F5 News at 5
+OL,13,     GJoin Dan Walker and the team for
+OL,14,     Gthe news that matters to you.
+OL,15,G1800FWorld's Most Scenic Railway
+OL,16,     FJourneys
+OL,17,     GOur Scottish rail journey starts
+OL,18,     Gin Kyle of Lochalsh, a tiny
+OL,19,     Gfishing village on the far west
+OL,20,     Gcoast and takes us east across
+OL,21,     Gthe breathtaking Highlands.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -525,26 +527,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723557846
+OL,0,        ECIMSBWebfax     F498A1723561461
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 13 AUG
-OL,4,G1415FRuth Ellis and the Mystery Lover
-OL,5,     G1977. Captivating documentary
-OL,6,     Gabout Ruth Ellis, the last woman
-OL,7,     Gto be hanged in Britain.
-OL,8,     GFeaturing the only interview with
-OL,9,     GDesmond Cussen, who reflects on
-OL,10,     Ghis life with Ruth, and her death.
-OL,11,G1550FPlease Sir!
-OL,12,     G1971. Comedy. Directed by Mark
-OL,13,     GStuart. Stars John Alderton,
-OL,14,     GDeryck Guyler, & Joan Sanderson.
-OL,15,     GFilm version of the TV sitcom.
-OL,16,     GTeacher Bernard Hedges takes his
-OL,17,     GFenn Street class to a holiday
-OL,18,     Gcamp.
+OL,4,G1550FPlease Sir!
+OL,5,     G1971. Comedy. Directed by Mark
+OL,6,     GStuart. Stars John Alderton,
+OL,7,     GDeryck Guyler, & Joan Sanderson.
+OL,8,     GFilm version of the TV sitcom.
+OL,9,     GTeacher Bernard Hedges takes his
+OL,10,     GFenn Street class to a holiday
+OL,11,     Gcamp.
+OL,12,G1755FThe Beverly Hillbillies
+OL,13,     GJed Becomes a Banker. 1963. Stars
+OL,14,     GBuddy Ebsen, Charles Lane &
+OL,15,     GLester Matthews. Jed is hired as
+OL,16,     Ga bank vice president in order
+OL,17,     Gfor him to participate in an
+OL,18,     Ginterbank skeet shoot competition.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
