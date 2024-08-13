@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,22 +50,23 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FBen Stokes sidelined for rest of
-OL,9,Fsummer with hamstring injury
-OL,11,G303FWhat happened to the Palestinian
-OL,12,Fbabies evacuated from Al-Shifa
-OL,13,Fhospital?
-OL,15,G304FMan charged with attempted murder
-OL,16,Fafter girl, 11, stabbed in London
-OL,18,G305FGreece wildfires: One dead and
-OL,19,Fthousands evacuated as threat continues
+OL,8,G302FGreece wildfires: One dead and
+OL,9,Fthousands evacuated as threat continues
+OL,11,G303FBen Stokes sidelined for rest of
+OL,12,Fsummer with hamstring injury
+OL,14,G304FWhat happened to the Palestinian
+OL,15,Fbabies evacuated from Al-Shifa
+OL,16,Fhospital?
+OL,18,G305FMan in court charged with
+OL,19,Fattempted murder after girl, 11,
+OL,20,Fstabbed in London
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -73,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -98,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -123,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -136,11 +137,10 @@ OL,9,F'toxic chemical spill' along stretch
 OL,10,Fof canal
 OL,12,G372FWhy did the mental health care for
 OL,13,Fkiller Valdo Calocane go so wrong?
-OL,15,G373FTributes for boy, 2, who died
-OL,16,Fafter being pulled from canal
-OL,18,G374FReview of Nottingham killer's care
-OL,19,Ffinds risk details 'minimised or
-OL,20,Fomitted'
+OL,15,G373FDIY e-bike with battery taped to
+OL,16,Fframe seized by police
+OL,18,G374FTributes for boy, 2, who died
+OL,19,Fafter being pulled from canal
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -148,7 +148,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -162,10 +162,10 @@ OL,11,G382FWoman, 84, 'terrified' as tax
 OL,12,Foffice sends her #1,600 bill
 OL,14,G383FFind out how 'talking signs' are
 OL,15,Fkeeping an island language alive
-OL,17,G384FSophie, Duchess of Edinburgh's
-OL,18,Fvisit to Guernsey in pictures
-OL,20,G385FMeet the Jersey teenage sailor on
-OL,21,FTeam GB's talent programme
+OL,17,G384FSenior parish official resigns
+OL,18,Fafter failing to submit accounts
+OL,20,G385FSophie, Duchess of Edinburgh's
+OL,21,Fvisit to Guernsey in pictures
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -173,7 +173,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -198,7 +198,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -224,7 +224,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -250,7 +250,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -276,7 +276,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -287,15 +287,15 @@ OL,7,                        R#%
 OL,8,G431FMan who waved prosthetic leg at
 OL,9,Fprotestors among four jailed after
 OL,10,FPlymouth riot
-OL,12,G432F'Dead birds everywhere' - dozens
-OL,13,Fof animals killed in 'slingshot
-OL,14,Fattacks'
-OL,16,G433FInvestigation launched into
-OL,17,FBoardmasters after people hurt in
-OL,18,Fcrowd surge
-OL,20,G434FStunning display as Northern
-OL,21,FLights and meteor shower light up UK
-OL,22,Fskies
+OL,12,G432F'Site safety' worker 'avoided
+OL,13,Fbeing hit by train by two seconds' in
+OL,14,Fnear miss
+OL,16,G433F'Dead birds everywhere' - dozens
+OL,17,Fof animals killed in 'slingshot
+OL,18,Fattacks'
+OL,20,G434FInvestigation launched into
+OL,21,FBoardmasters after people hurt in
+OL,22,Fcrowd surge
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -303,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -311,17 +311,17 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FSecond man arrested over attack on
-OL,9,Fmosque
+OL,8,G441FDaniel Wiffen 'ready to party'
+OL,9,Fafter Olympic homecoming
 OL,11,G442FArlene Arkinson's family vow to
 OL,12,Fnever give up on school girl murder
 OL,13,Finquiry
-OL,15,G443FOlympic success 'stuff of dreams'
-OL,16,Fas Team Ireland returns home
-OL,18,G444F20 dogs a week being surrendered
-OL,19,Fto dog rehoming centre
-OL,21,G445FDissidents blamed for Derry
-OL,22,Fdisorder
+OL,15,G443FSecond man arrested over attack on
+OL,16,Fmosque
+OL,18,G444FOlympic success 'stuff of dreams'
+OL,19,Fas Team Ireland returns home
+OL,21,G445F20 dogs a week being surrendered
+OL,22,Fto dog rehoming centre
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -329,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,27 +379,25 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 13 AUG
-OL,4,G2200FBBC News and Weather
-OL,5,G2230FRegional News
-OL,6,G2240FPretty Little Liars: Summer School
-OL,7,     GThe girls are facing a fate worse
-OL,8,     Gthan death, summer school.
-OL,9,     GContains some strong language,
-OL,10,     Gsome violence and disturbing
-OL,11,     Gscenes.
-OL,12,G2330FPretty Little Liars: Summer School
-OL,13,     GHeeding Dr Sullivan's advice, the
-OL,14,     GPLLs make the most of their
-OL,15,     Gsummers. Contains strong
-OL,16,     Glanguage, prolonged violence and
-OL,17,     Gdisturbing scenes.
-OL,18,G0020FWeather for the Week Ahead
-OL,19,G0025FBBC News
+OL,4,G2240FPretty Little Liars: Summer School
+OL,5,     GThe girls are facing a fate worse
+OL,6,     Gthan death, summer school.
+OL,7,     GContains some strong language,
+OL,8,     Gsome violence and disturbing
+OL,9,     Gscenes.
+OL,10,G2330FPretty Little Liars: Summer School
+OL,11,     GHeeding Dr Sullivan's advice, the
+OL,12,     GPLLs make the most of their
+OL,13,     Gsummers. Contains strong
+OL,14,     Glanguage, prolonged violence and
+OL,15,     Gdisturbing scenes.
+OL,16,G0020FWeather for the Week Ahead
+OL,17,G0025FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -407,29 +405,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 13 AUG
-OL,4,G2200FThe Mighty Boosh
-OL,5,     GSurreal sitcom. The boys go
-OL,6,     Gslowly insane while marooned on a
-OL,7,     Gdesert island and fight over the
-OL,8,     Gfriendship of Milky Joe, who
-OL,9,     Gdoesn't say much.
-OL,10,G2230FNewsnight
-OL,11,G2300FWeather
-OL,12,G2305FThe Keeper
-OL,13,     GAt the end of WWII, Bert
-OL,14,     GTrautmann stays in the UK for
-OL,15,     Glove and a football career.
-OL,16,     GContains strong language and some
-OL,17,     Gupsetting scenes.
-OL,18,G0055FThe Travelling Auctioneers
-OL,19,     GA farmer's socks are made for
-OL,20,     Gauction, and wartime riches are
-OL,21,     Gunearthed in a barn.
+OL,4,G2305FThe Keeper
+OL,5,     GAt the end of WWII, Bert
+OL,6,     GTrautmann stays in the UK for
+OL,7,     Glove and a football career.
+OL,8,     GContains strong language and some
+OL,9,     Gupsetting scenes.
+OL,10,G0055FThe Travelling Auctioneers
+OL,11,     GA farmer's socks are made for
+OL,12,     Gauction, and wartime riches are
+OL,13,     Gunearthed in a barn.
+OL,14,G0140FBridge of Lies
+OL,15,     GA family team of four, Suraj,
+OL,16,     GNisha, Tina and Rob, take on the
+OL,17,     GBridge of Lies. One by one, they
+OL,18,     Gmust cross the Bridge, stepping
+OL,19,     Gon the truths and avoiding the
+OL,20,     Glies.
+OL,21,G0225FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -437,28 +435,29 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 13 AUG
-OL,4,G2100FVera
-OL,5,     GThe Escape Turn: Crime drama
-OL,6,     Gseries. Vera investigates when a
-OL,7,     Gwealthy betting shop magnate is
-OL,8,     Gshot and killed in front of his
-OL,9,     Gwife and daughter during a
-OL,10,     Gterrifying home invasion.
-OL,11,G2250FITV News
-OL,12,G2320FRegional News
-OL,13,G2335FChampions: Full Gallop
-OL,14,     GThe Master vs The Apprentice:
-OL,15,     GDocumentary series. Paul Nicholls
-OL,16,     Gand former assistant Dan Skelton
-OL,17,     Ggo head-to-head at the Cheltenham
-OL,18,     GFestival in a battle to be Jump
-OL,19,     GTrainers' champion.
-OL,20,G0025FShop on TV
+OL,4,G2250FITV News
+OL,5,G2320FRegional News
+OL,6,G2335FChampions: Full Gallop
+OL,7,     GThe Master vs The Apprentice:
+OL,8,     GDocumentary series. Paul Nicholls
+OL,9,     Gand former assistant Dan Skelton
+OL,10,     Ggo head-to-head at the Cheltenham
+OL,11,     GFestival in a battle to be Jump
+OL,12,     GTrainers' champion.
+OL,13,G0025FShop on TV
+OL,14,G0300FMel Giedroyc and Martin Clunes...
+OL,15,     GExplore Britain by the Book. Mel
+OL,16,     GGiedroyc and Martin Clunes visit
+OL,17,     Gsome of the country's most
+OL,18,     Gbeautiful landmarks in the county
+OL,19,     Gof Dorset and meet a rich variety
+OL,20,     Gof people.
+OL,21,G0350FUnwind with ITV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -466,29 +465,23 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 13 AUG
-OL,4,G2200FDefiance: Fighting the Far Right
-OL,5,     GDocumentary series. It's 1979. A
-OL,6,     GNational Front rally in Southall
-OL,7,     Gturns violent. Questions about
-OL,8,     Gpolice brutality arise when anti-
-OL,9,     Gracist teacher Blair Peach dies.
-OL,10,G2305FUNTOLD: The Rise and Rise of
-OL,11,     FTaylor Swift
-OL,12,     GAccording to Forbes, Taylor Swift
-OL,13,     Gis now a billionaire. How has her
-OL,14,     Gincredibly loyal fanbase helped
-OL,15,     Gcarry her to the top?
-OL,16,G2340FGogglebox
-OL,17,     GBritain's sharpest armchair
-OL,18,     Gcritics watch The Masked Dancer,
-OL,19,     GMarried at First Sight UK,
-OL,20,     GNadiya's Everyday Baking, Bad
-OL,21,     GSisters and This Is MY House.
+OL,4,G2305FUNTOLD: The Rise and Rise of
+OL,5,     FTaylor Swift
+OL,6,     GAccording to Forbes, Taylor Swift
+OL,7,     Gis now a billionaire. How has her
+OL,8,     Gincredibly loyal fanbase helped
+OL,9,     Gcarry her to the top?
+OL,10,G2340FGogglebox
+OL,11,     GBritain's sharpest armchair
+OL,12,     Gcritics watch The Masked Dancer,
+OL,13,     GMarried at First Sight UK,
+OL,14,     GNadiya's Everyday Baking, Bad
+OL,15,     GSisters and This Is MY House.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -496,26 +489,27 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 13 AUG
-OL,4,G2200FA Killer Makes a Call
-OL,5,     GHoliday-maker Mark Terry calls
-OL,6,     Gthe police after his friend Gary
-OL,7,     GPocock is found dead on the
-OL,8,     Gbeach, hideously beaten and
-OL,9,     Gunidentifiable except for a
-OL,10,     Gdistinctive dragon ring he always
-OL,11,     Gwore.
-OL,12,G2305FKiller at the Crime Scene
-OL,13,     GBeginning with a body found in a
-OL,14,     Gditch in 2013, a serial killer
-OL,15,     Ginvestigation takes on a new
-OL,16,     Gdimension of importance after two
-OL,17,     Gmore attempted murders are
-OL,18,     Greported.
+OL,4,G2305FKiller at the Crime Scene
+OL,5,     GBeginning with a body found in a
+OL,6,     Gditch in 2013, a serial killer
+OL,7,     Ginvestigation takes on a new
+OL,8,     Gdimension of importance after two
+OL,9,     Gmore attempted murders are
+OL,10,     Greported.
+OL,11,G0005FMotorway Cops: Catching Britain's
+OL,12,     FSpeeders
+OL,13,     GThe driver of a possible cloned
+OL,14,     Gcar refuses to come quietly, a
+OL,15,     Gwoman is suspected of drug
+OL,16,     Gdriving, and a drink driver is
+OL,17,     Gremarkably jolly about getting
+OL,18,     Gcaught.
+OL,19,G0100FPlayOJO Live Casino Show
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -523,7 +517,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723583137
+OL,0,        ECIMSBWebfax     F498A1723586751
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
