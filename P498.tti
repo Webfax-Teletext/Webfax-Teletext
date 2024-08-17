@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -73,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -97,7 +97,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -122,7 +122,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -148,7 +148,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +174,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -199,7 +199,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -209,13 +209,15 @@ OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
 OL,8,G401FSomerset House: 125 firefighters
 OL,9,Fbattling flames at London landmark
-OL,11,G402FMan shot by police in Surrey
-OL,12,Fvillage after weapon report dies in
-OL,13,Fhospital
-OL,15,G403FLondon mayor Sadiq Khan to close
-OL,16,FULEZ scrappage scheme in three weeks
-OL,18,G404FMetropolitan Police 'failing in
-OL,19,Falmost all areas of work', says report
+OL,11,G402FMan found dead in Tower Hamlets
+OL,12,Fpark named by police as Alan Semadeni
+OL,14,G403FMan shot by police in Surrey
+OL,15,Fvillage after weapon report dies in
+OL,16,Fhospital
+OL,18,G404FLondon mayor Sadiq Khan to close
+OL,19,FULEZ scrappage scheme in three weeks
+OL,21,G405FMetropolitan Police 'failing in
+OL,22,Falmost all areas of work', says report
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -223,7 +225,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -249,7 +251,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -273,7 +275,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -298,7 +300,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -323,7 +325,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -347,7 +349,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -372,28 +374,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 17 AUG
-OL,4,G2200FBBC News
-OL,5,G2215FWeather
-OL,6,G2220FMatch of the Day
-OL,7,     GGary Lineker introduces
-OL,8,     Ghighlights from the opening seven
-OL,9,     Ggames of the new Premier League
-OL,10,     Gseason, including Liverpool's
-OL,11,     Gtrip to Suffolk to face newly
-OL,12,     Gpromoted Ipswich.
-OL,13,G2345FHounded
-OL,14,     GA rural burglary backfires when
-OL,15,     Gthe victims turn on the thieves -
-OL,16,     Gfor their entertainment! Contains
-OL,17,     Gvery strong language, some
-OL,18,     Gviolence and upsetting scenes.
-OL,19,G0115FWeather for the Week Ahead
-OL,20,G0120FBBC News
+OL,4,G2220FMatch of the Day
+OL,5,     GGary Lineker introduces
+OL,6,     Ghighlights from the opening seven
+OL,7,     Ggames of the new Premier League
+OL,8,     Gseason, including Liverpool's
+OL,9,     Gtrip to Suffolk to face newly
+OL,10,     Gpromoted Ipswich.
+OL,11,G2345FHounded
+OL,12,     GA rural burglary backfires when
+OL,13,     Gthe victims turn on the thieves -
+OL,14,     Gfor their entertainment! Contains
+OL,15,     Gvery strong language, some
+OL,16,     Gviolence and upsetting scenes.
+OL,17,G0115FWeather for the Week Ahead
+OL,18,G0120FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -401,30 +401,26 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 17 AUG
-OL,4,G2110FGirls Aloud at the BBC
-OL,5,     GA selection of Girls Aloud's
-OL,6,     Ggreatest musical moments on the
-OL,7,     GBBC.
-OL,8,G2210FGirls Aloud: Tangled Up - Live
-OL,9,     Ffrom the O2
-OL,10,     GGirls Aloud in concert at the O2
-OL,11,     Gin 2008.
-OL,12,G2340FAll Saints at Radio 2 Live in
-OL,13,     FHyde Park 2018
-OL,14,     GFrom Never Ever to Pure Shores,
-OL,15,     Gthe 90s hitmakers are back and
-OL,16,     Gbigger than ever.
-OL,17,G0010FTOTP2: Girl Groups
-OL,18,     GCelebrating a gaggle of girls in
-OL,19,     Gperformance at the BBC, from the
-OL,20,     GSpice Girls to The Supremes,
-OL,21,     GLabelle to TLC, and The Pointer
-OL,22,     GSisters to B*Witched.
+OL,4,G2210FGirls Aloud: Tangled Up - Live
+OL,5,     Ffrom the O2
+OL,6,     GGirls Aloud in concert at the O2
+OL,7,     Gin 2008.
+OL,8,G2340FAll Saints at Radio 2 Live in
+OL,9,     FHyde Park 2018
+OL,10,     GFrom Never Ever to Pure Shores,
+OL,11,     Gthe 90s hitmakers are back and
+OL,12,     Gbigger than ever.
+OL,13,G0010FTOTP2: Girl Groups
+OL,14,     GCelebrating a gaggle of girls in
+OL,15,     Gperformance at the BBC, from the
+OL,16,     GSpice Girls to The Supremes,
+OL,17,     GLabelle to TLC, and The Pointer
+OL,18,     GSisters to B*Witched.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -432,27 +428,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 17 AUG
-OL,4,G2200FLove and Death
-OL,5,     GThe Arrest: Crime drama series.
-OL,6,     GCandy retains Don Crowder as her
-OL,7,     Gattorney, Allan admits his affair
-OL,8,     Gto Betty's relatives, and Pat
-OL,9,     Gbecomes frustrated over being
-OL,10,     Gkept in the dark.
-OL,11,G2300FITV News
-OL,12,G2320FEnglish Football League Highlights
-OL,13,     GAction from across the Football
-OL,14,     GLeague including West Bromwich
-OL,15,     GAlbion v Leeds United, Sheffield
-OL,16,     GUnited v Queens Park Rangers, and
-OL,17,     GSwansea v Preston North End in
-OL,18,     Gthe Championship.
-OL,19,G0040FShop on TV
+OL,4,G2300FITV News
+OL,5,G2320FEnglish Football League Highlights
+OL,6,     GAction from across the Football
+OL,7,     GLeague including West Bromwich
+OL,8,     GAlbion v Leeds United, Sheffield
+OL,9,     GUnited v Queens Park Rangers, and
+OL,10,     GSwansea v Preston North End in
+OL,11,     Gthe Championship.
+OL,12,G0040FShop on TV
+OL,13,G0300FFamily Fortunes
+OL,14,     GGino D'Acampo hosts the game show
+OL,15,     Gas the Mahadeo family of Surrey
+OL,16,     Ggo up against the Garvey family
+OL,17,     Gof Oldham for a chance to win a
+OL,18,     G30,000-pound jackpot prize.
+OL,19,G0350FUnwind with ITV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -460,25 +456,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 17 AUG
-OL,4,G2100FHonest Thief
-OL,5,     GAction thriller starring Liam
-OL,6,     GNeeson as a notorious bank
-OL,7,     Grobber. He wants to give it all
-OL,8,     Gup for love but is cheated by
-OL,9,     Gcorrupt FBI agents. Can he clear
-OL,10,     Ghis name and get the girl?
-OL,11,G2300FJack Ryan: Shadow Recruit
-OL,12,     GThriller starring Chris Pine,
-OL,13,     GKeira Knightley, Kevin Costner
-OL,14,     Gand Kenneth Branagh. The storied
-OL,15,     GCIA agent is sent on a dangerous
-OL,16,     Gmission to Moscow to investigate
-OL,17,     Ga Russian tycoon.
+OL,4,G2300FJack Ryan: Shadow Recruit
+OL,5,     GThriller starring Chris Pine,
+OL,6,     GKeira Knightley, Kevin Costner
+OL,7,     Gand Kenneth Branagh. The storied
+OL,8,     GCIA agent is sent on a dangerous
+OL,9,     Gmission to Moscow to investigate
+OL,10,     Ga Russian tycoon.
+OL,11,G0100FRamsay's Hotel Hell
+OL,12,     GGordon visits the struggling
+OL,13,     GMonticello Hotel in Longview in
+OL,14,     GWashington. Can he keep the doors
+OL,15,     Gto this 90-year-old establishment
+OL,16,     Gopen and save 50 staff jobs - or
+OL,17,     Gis it too late?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -486,26 +482,26 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 17 AUG
-OL,4,G2100FMeghan & Harry: The Rise & Fall -
-OL,5,     FPart 1
-OL,6,     GIt's one of the most
-OL,7,     Gcontroversial celebrity
-OL,8,     Grelationships in history,
-OL,9,     Gchanging the face of the royal
-OL,10,     Gfamily forever. But where did it
-OL,11,     Gall go wrong?
-OL,12,G2230FWhen TV Guests Go Horribly Wrong
-OL,13,     GSome of TV's most memorable
-OL,14,     Gguests - for all the wrong
-OL,15,     Greasons - with less-than-perfect
-OL,16,     Gmoments from the likes of Piers
-OL,17,     GMorgan, Stormzy, Dame Shirley
-OL,18,     GBassey, Bez and Kathy Burke.
+OL,4,G2230FWhen TV Guests Go Horribly Wrong
+OL,5,     GSome of TV's most memorable
+OL,6,     Gguests - for all the wrong
+OL,7,     Greasons - with less-than-perfect
+OL,8,     Gmoments from the likes of Piers
+OL,9,     GMorgan, Stormzy, Dame Shirley
+OL,10,     GBassey, Bez and Kathy Burke.
+OL,11,G0030FThe World's Most Luxurious Cruise
+OL,12,     GThe Seven Seas Splendor sails
+OL,13,     Garound the Canary Islands while
+OL,14,     Gcelebrating the company's 30th
+OL,15,     Ganniversary. Social Hostess
+OL,16,     GAnnabel puts on a glitzy black
+OL,17,     Gand gold themed party.
+OL,18,G0120FPlayOJO Live Casino Show
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -513,7 +509,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1723928717
+OL,0,        ECIMSBWebfax     F498A1723932322
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
