@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,25 +50,24 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FBorder Security Command 'gearing
-OL,9,Fup' as small boat Channel crossings
-OL,10,Ftop 19,000
+OL,8,G302FCan Harris' campaign become a
+OL,9,Fmovement? The Obamas are trying to
+OL,10,Fmake it happen
 OL,12,G303FJust Eat ad featuring McDonald's
 OL,13,Fburgers banned over targeting of under-
 OL,14,F16s
-OL,16,G304FOne in four fear having to turn
-OL,17,Foff heating and hot water this winter
-OL,18,F` survey
-OL,20,G305F1.6 million children living with
-OL,21,Fadults experiencing 'problem gambling'
-OL,22,F` report
+OL,16,G304F1.6 million children living with
+OL,17,Fadults experiencing 'problem gambling'
+OL,18,F` report
+OL,20,G305FFirms advertising jobs paying
+OL,21,Fbelow minimum wage, TUC claims
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -76,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -127,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -153,7 +152,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -161,24 +160,26 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381F#128 million French ferry terminal
-OL,9,Fupgrade to start in 2025
-OL,11,G382FCondor Ferries could fold if it
-OL,12,Ffails in Channel Islands' tender bid
-OL,14,G383FMan, 45, jailed for choking woman
-OL,15,Funtil she nearly passed out
-OL,17,G384FSmall boy hospitalised after being
-OL,18,Fbitten by 'large brown dog'
-OL,20,G385FPlans for 32 new homes refused
-OL,21,Fover 'woefully inadequate' parking
+OL,8,G381FPlans to convert former Jersey
+OL,9,Fbeach cafe into holiday accommodation
+OL,10,Fsubmitted
+OL,12,G382FGuernsey official heavily
+OL,13,Fcriticises Aurigny's summer service
+OL,15,G383FFlight diverted to UK after trying
+OL,16,Fto land 90 seconds late in Guernsey
+OL,18,G384F#128 million French ferry terminal
+OL,19,Fupgrade to start in 2025
+OL,21,G385FCondor Ferries could fold if it
+OL,22,Ffails in Channel Islands' tender bid
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
+OL,26,@qD@Jrr
 PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -203,7 +204,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -228,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -254,7 +255,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -278,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -303,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -329,7 +330,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -353,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -378,7 +379,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -408,30 +409,30 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 21 AUG
-OL,4,G0315FThis is BBC Two
-OL,5,G0630FAnimal Park
-OL,6,     GKeepers attempt to establish a
-OL,7,     Gnew vital bloodline with the
-OL,8,     Gendangered koalas, but as they
-OL,9,     Gmix the animals for the first
-OL,10,     Gtime, how will they react?
-OL,11,G0715FAntiques Road Trip
-OL,12,     GGlass lover Mark Hill and silver
-OL,13,     Gspecialist Margie Cooper go head-
-OL,14,     Gto-head in a 1980 MGB Roadster,
-OL,15,     Gsearching for antiques along the
-OL,16,     GYorkshire coast, from Bridlington
-OL,17,     Gto Pickering.
-OL,18,G0800FDom Does America
-OL,19,     GDom fulfils his boyhood dream of
-OL,20,     Gworking as a firefighter,
-OL,21,     Gspending a day with the Wichita
-OL,22,     GFalls Fire Department in Texas.
+OL,4,G0715FAntiques Road Trip
+OL,5,     GGlass lover Mark Hill and silver
+OL,6,     Gspecialist Margie Cooper go head-
+OL,7,     Gto-head in a 1980 MGB Roadster,
+OL,8,     Gsearching for antiques along the
+OL,9,     GYorkshire coast, from Bridlington
+OL,10,     Gto Pickering.
+OL,11,G0800FDom Does America
+OL,12,     GDom fulfils his boyhood dream of
+OL,13,     Gworking as a firefighter,
+OL,14,     Gspending a day with the Wichita
+OL,15,     GFalls Fire Department in Texas.
+OL,16,G0830FBig Little Crimes
+OL,17,     GA 999 call about an intruder puts
+OL,18,     Gpolice on the trail of a violent
+OL,19,     Gattacker. And a traffic stop in
+OL,20,     GRomania helps detectives solve a
+OL,21,     Gburglary crime wave much closer
+OL,22,     Gto home.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -439,7 +440,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -467,25 +468,29 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 21 AUG
-OL,4,G0620FCheers
-OL,5,     GHome Is the Sailor: Sam returns
-OL,6,     Gwhen his round-the-world trip is
-OL,7,     Gcut short by his boat sinking. He
-OL,8,     Gtries to get his old job back but
-OL,9,     Gis hampered by the bar's new
-OL,10,     Gmanagement.
-OL,11,G0645FCheers
-OL,12,     G'I' on Sports: Sam is asked to
-OL,13,     Gfill in for a TV sports reporter
-OL,14,     Gfor a week, and persuades Rebecca
-OL,15,     Gto give him time off from the
-OL,16,     Gbar, but broadcasting isn't as
-OL,17,     Geasy as it looks.
+OL,4,G0710FEverybody Loves Raymond
+OL,5,     GCruising with Marie: Frank gets
+OL,6,     Ginjured before going on a
+OL,7,     GCaribbean cruise with Marie, so
+OL,8,     GRay stands in for him, sharing a
+OL,9,     Gtiny cabin with her and getting
+OL,10,     Gmistaken for her lover.
+OL,11,G0735FEverybody Loves Raymond
+OL,12,     GRay Home Alone: When Debra takes
+OL,13,     Gthe kids to visit her parents,
+OL,14,     GRay spends time at home on his
+OL,15,     Gown. But try as he might, he just
+OL,16,     Gcan't sleep...
+OL,17,G0800FEverybody Loves Raymond
+OL,18,     GBig Shots: Ray tries to get to
+OL,19,     Gthe front of the queue to meet
+OL,20,     Gthe New York Mets' 1969 'miracle'
+OL,21,     Gteam at the Baseball Hall of Fame.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -493,27 +498,29 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 21 AUG
-OL,4,G0620FPeppa Pig
-OL,5,     GPeppa and George visit Granny and
-OL,6,     GGrandpa Pig. Grandpa is building
-OL,7,     Ga special hiding hut to watch
-OL,8,     Gbirds in.
-OL,9,G0625FPip and Posy
-OL,10,     GPosy realises that Pip is afraid
-OL,11,     Gof the dark during a sleepover at
-OL,12,     Ghis house, and the nightlight is
-OL,13,     Gbroken.
-OL,14,G0630FOdo
-OL,15,     GThe chickens argue over who came
-OL,16,     Gup with a joke, each telling
-OL,17,     Gtheir own version of how the joke
-OL,18,     Gwas born. Odo has to uncover the
-OL,19,     Gtruth.
+OL,4,G0715FPAW Patrol
+OL,5,     GDaring Danny X is performing a
+OL,6,     Gnew stunt! He is harnessed over a
+OL,7,     Gcanyon eating an Extreme Lunch
+OL,8,     Gwhen the wind blows him upside
+OL,9,     Gdown!
+OL,10,G0730FPip and Posy
+OL,11,     GWhen Posy shows Pip her tune on
+OL,12,     Gthe ukulele, he has a go and
+OL,13,     Gfinds it easy, even adding some
+OL,14,     Gnotes. Posy is jealous, but Pip
+OL,15,     Gexplains it's all because of her
+OL,16,     Gexcellent teaching.
+OL,17,G0735FThe Adventures of Paddington
+OL,18,     GPaddington, Simi, and Jonathan
+OL,19,     Gare on a dinosaur hunt on the
+OL,20,     Gisland in the park, but dinosaurs
+OL,21,     Gdon't exist anymore... do they?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -521,26 +528,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724217727
+OL,0,        ECIMSBWebfax     F498A1724221333
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 21 AUG
-OL,4,G0600FBurke's Law
-OL,5,     GWho Killed Super Sleuth? 1964.
-OL,6,     GStars Gene Barry, Gary Conway &
-OL,7,     GRegis Toomey. Four world renowned
-OL,8,     Gcops and a US private eye become
-OL,9,     Gsuspect in another sleuth's
-OL,10,     Gmurder.
-OL,11,G0700FMurder in Eden
-OL,12,     G1961. Thriller. Director: Max
-OL,13,     GVarnel. Stars: Ray McAnally,
-OL,14,     GCatherine Feller, Yvonne
-OL,15,     GBuckingham. After discovering a
-OL,16,     Gfamous painting is a forgery, a
-OL,17,     Gnoted art critic is killed by
-OL,18,     Gdriver.
+OL,4,G0700FMurder in Eden
+OL,5,     G1961. Thriller. Director: Max
+OL,6,     GVarnel. Stars: Ray McAnally,
+OL,7,     GCatherine Feller, Yvonne
+OL,8,     GBuckingham. After discovering a
+OL,9,     Gfamous painting is a forgery, a
+OL,10,     Gnoted art critic is killed by
+OL,11,     Gdriver.
+OL,12,G0820FRace For The Yankee Zephyr
+OL,13,     G1981. Action. Director: David
+OL,14,     GHemmings. Stars Ken Wahl, Lesley
+OL,15,     GAnn Warren & Donald Pleasence.
+OL,16,     GLocal hunters compete with a gang
+OL,17,     Gof mercenaries to find a missing
+OL,18,     Gplane with a cargo of $50 million.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
