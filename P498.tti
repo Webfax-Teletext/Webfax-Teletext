@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,24 +50,23 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FPresenter Jermaine Jenas sacked by
-OL,9,FBBC after complaints about his conduct
+OL,8,G302FJermaine Jenas says there are 'two
+OL,9,Fsides to every story' after BBC sacking
 OL,11,G303FBloomer family pay tribute to
 OL,12,F'incredible' parents after Sicily
 OL,13,Fyacht tragedy
 OL,15,G304FGCSE results day: Pupils receiving
 OL,16,Fhighest grades falls compared with 2023
-OL,18,G305FMedicines regulator to approve
-OL,19,FAlzheimer's drug shown to slow disease
-OL,21,G306F'It's a miracle': Woman reunited
-OL,22,Fwith missing cat after 11 years
+OL,18,G305FHealth spending watchdog rules
+OL,19,FAlzheimer's drug should not be rolled
+OL,20,Fout
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -185,16 +184,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FCharity sees demand for school
-OL,9,Funiforms soar
-OL,11,G392FGang jailed for smuggling two
-OL,12,Fmigrants in tiny car boot
-OL,14,G393FMan sectioned after triple
-OL,15,Fstabbing which left woman dead
-OL,17,G394FHow a cancer diagnosis led Jay to
-OL,18,Fcreate Shanika Sunrise
-OL,20,G395F15-year-old boy charged with
-OL,21,Fattempted murder over park stabbing
+OL,8,G391FEscaped prisoner planned to blow
+OL,9,Fup HSBC bank after watching Netflix
+OL,10,Fdocumentary
+OL,12,G392FCharity sees demand for school
+OL,13,Funiforms soar
+OL,15,G393FGang jailed for smuggling two
+OL,16,Fmigrants in tiny car boot
+OL,18,G394FMan sectioned after triple
+OL,19,Fstabbing which left woman dead
+OL,21,G395FHow a cancer diagnosis led Jay to
+OL,22,Fcreate Shanika Sunrise
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -202,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -228,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -252,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -304,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,26 +379,30 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 22 AUG
-OL,4,G2100FWho Do You Think You Are?
-OL,5,     GPaddy McGuinness uncovers his
-OL,6,     Ggrandfather's vital work in World
-OL,7,     GWar II, how his other grandfather
-OL,8,     Gwas involved in the Boer War and
-OL,9,     Gthe family's journey from Ireland
-OL,10,     Gto Bolton.
-OL,11,G2200FBBC News and Weather
-OL,12,G2230FRegional News
-OL,13,G2240FKidnapped: The Chloe Ayling Story
-OL,14,     GAs Chloe prepares for her
-OL,15,     Grelease, she questions whether
-OL,16,     Gher ordeal is really over.
-OL,17,     GContains some strong language and
-OL,18,     Gsome upsetting scenes.
+OL,4,G2200FBBC News and Weather
+OL,5,G2230FRegional News
+OL,6,G2240FKidnapped: The Chloe Ayling Story
+OL,7,     GAs Chloe prepares for her
+OL,8,     Grelease, she questions whether
+OL,9,     Gher ordeal is really over.
+OL,10,     GContains some strong language and
+OL,11,     Gsome upsetting scenes.
+OL,12,G2310FKidnapped: The Chloe Ayling Story
+OL,13,     GStuck in Milan, Chloe is forced
+OL,14,     Gto face her fears and learn the
+OL,15,     Gtruth about her kidnap. Contains
+OL,16,     Gsome scenes which some viewers
+OL,17,     Gmay find upsetting.
+OL,18,G2340FFreddie Flintoff's Field of
+OL,19,     FDreams on Tour
+OL,20,     GFreddie Flintoff's unlikely
+OL,21,     Gcricket team struggle to embrace
+OL,22,     GIndia's culture.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -406,29 +410,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 22 AUG
-OL,4,G2100FInterview with the Vampire
-OL,5,     GClaudia takes centre stage and
-OL,6,     Gfinds a friend, while Daniel's
-OL,7,     Gprobing in the present brings
-OL,8,     Gpast puzzles to light. Contains
-OL,9,     Gstrong language.
-OL,10,G2150FLive at the Apollo Bites
-OL,11,     GFeaturing Kiri Pritchard-McLean,
-OL,12,     GStephen Bailey and Desiree Burch.
-OL,13,     GContains some strong language and
-OL,14,     Gadult humour.
-OL,15,G2200FDetectorists
-OL,16,     GAfter a chance encounter, Lance
-OL,17,     Gand Andy journey towards the
-OL,18,     Gdiscovery of a lifetime. Contains
-OL,19,     Gsome strong language.
-OL,20,G2230FNewsnight
-OL,21,G2300FWeather
+OL,4,G2200FDetectorists
+OL,5,     GAfter a chance encounter, Lance
+OL,6,     Gand Andy journey towards the
+OL,7,     Gdiscovery of a lifetime. Contains
+OL,8,     Gsome strong language.
+OL,9,G2230FNewsnight
+OL,10,G2300FWeather
+OL,11,G2305FGolf: Women's Open Highlights
+OL,12,     GThe best of the action from the
+OL,13,     Gopening day at St Andrews, with
+OL,14,     Gthe iconic Old Course staging
+OL,15,     Gthis championship for just the
+OL,16,     Gthird time.
+OL,17,G0005FToday at the Test: England v Sri
+OL,18,     FLanka
+OL,19,     GDay two highlights from the first
+OL,20,     GTest between England and Sri
+OL,21,     GLanka.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -436,28 +440,29 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 22 AUG
-OL,4,G2100FIrvine Welsh's Crime
-OL,5,     GThrilling drama series. Lennox
-OL,6,     Gmakes a shocking discovery that
-OL,7,     Gturns the case on its head, but
-OL,8,     Gall is not as it seems and he is
-OL,9,     Gsoon forced to decide about where
-OL,10,     Ghis future lies.
-OL,11,G2200FITV News at Ten
-OL,12,G2230FRegional News
-OL,13,G2245FNever Say Never Again
-OL,14,     GAction film starring Sean Connery
-OL,15,     Gand Kim Basinger, 1983. James
-OL,16,     GBond is summoned when the
-OL,17,     Gvillainous SPECTRE organisation
-OL,18,     Gsteals two nuclear bombs and
-OL,19,     Gthreatens to detonate them.
-OL,20,G0105FShop on TV
+OL,4,G2200FITV News at Ten
+OL,5,G2230FRegional News
+OL,6,G2245FNever Say Never Again
+OL,7,     GAction film starring Sean Connery
+OL,8,     Gand Kim Basinger, 1983. James
+OL,9,     GBond is summoned when the
+OL,10,     Gvillainous SPECTRE organisation
+OL,11,     Gsteals two nuclear bombs and
+OL,12,     Gthreatens to detonate them.
+OL,13,G0105FShop on TV
+OL,14,G0300FThe Other Mrs Jordan
+OL,15,     GThe Tip of the Messed Up Iceberg:
+OL,16,     GDocumentary series. Mary unmasks
+OL,17,     Gthe full horror of Jordan's
+OL,18,     Gdeception and uncovers a
+OL,19,     Gdisturbing pattern and multiple
+OL,20,     Gvictims across the globe.
+OL,21,G0350FUnwind with ITV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -465,25 +470,24 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 22 AUG
-OL,4,G2100FMerseyside Detectives: The...
-OL,5,     GMurders of Ashley and Olivia: A
-OL,6,     Gconnection linking the four
-OL,7,     Gsuspects in Ashley Dale's death
-OL,8,     Gis revealed. Olivia's case goes
-OL,9,     Gto trial. Will the suspect turn
-OL,10,     Gup for sentencing?
-OL,11,G2200FRamsay's Kitchen Nightmares USA
-OL,12,     GDa Mimmo: Gordon tries to
-OL,13,     Gtransform New Jersey Italian
-OL,14,     Grestaurant Da Mimmo, run by a
-OL,15,     Gmother and her three sons - two
-OL,16,     Gof whom see the business as a
-OL,17,     Gfailure...
+OL,4,G2200FRamsay's Kitchen Nightmares USA
+OL,5,     GDa Mimmo: Gordon tries to
+OL,6,     Gtransform New Jersey Italian
+OL,7,     Grestaurant Da Mimmo, run by a
+OL,8,     Gmother and her three sons - two
+OL,9,     Gof whom see the business as a
+OL,10,     Gfailure...
+OL,11,G2255F8 Out of 10 Cats Does Countdown
+OL,12,     GJimmy Carr hosts as Richard
+OL,13,     GAyoade and Kemah Bob take on
+OL,14,     GJonathan Ross and Maisie Adam.
+OL,15,     GWith Sarah Keyworth, Susie Dent
+OL,16,     Gand Dr Anne-Marie Imafidon.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -491,7 +495,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -517,26 +521,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1724358356
+OL,0,        ECIMSBWebfax     F498A1724361963
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 22 AUG
-OL,4,G2105FVan der Valk
-OL,5,     GThe Professor. Stars Barry
-OL,6,     GFoster, Joanna Dunham & Nigel
-OL,7,     GStock. Van der Valk investigates
-OL,8,     Gthe murder of a married
-OL,9,     Guniversity Professor who used a
-OL,10,     Gduel identity.
-OL,11,G2210FWhat A Crazy World
-OL,12,     G1963. Musical. Directed by
-OL,13,     GMichael Carreras. Stars Joe
-OL,14,     GBrown, Susan Maughan, Harry H
-OL,15,     GCorbett and Marty Wilde. An East
-OL,16,     GEnd lad, Alf Hitchens, dreams of
-OL,17,     Ghitting the big time in the music
-OL,18,     Gbusiness.
+OL,4,G2210FWhat A Crazy World
+OL,5,     G1963. Musical. Directed by
+OL,6,     GMichael Carreras. Stars Joe
+OL,7,     GBrown, Susan Maughan, Harry H
+OL,8,     GCorbett and Marty Wilde. An East
+OL,9,     GEnd lad, Alf Hitchens, dreams of
+OL,10,     Ghitting the big time in the music
+OL,11,     Gbusiness.
+OL,12,G2355FThey Came to a City
+OL,13,     G1944. Fantasy. Directed by Basil
+OL,14,     GDearden. Stars John Clements,
+OL,15,     GGoogie Withers & Raymond Huntley.
+OL,16,     GNine people from different walks
+OL,17,     Gof life find themselves
+OL,18,     Gtransported to a mysterious city.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
