@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -60,13 +60,12 @@ OL,6,BITV News                   V +o,!
 OL,8,G302FParis 2024 Paralympics day two:
 OL,9,FGreat Britain picks up sweep of gold
 OL,10,Fmedals
-OL,12,G303F'We're not afraid': Gaza boy tells
-OL,13,Fof miracle survival after losing leg
-OL,14,Fin blast
-OL,16,G304FThe scientists on global warming's
-OL,17,Ffront line in the Arctic circle
-OL,19,G305FGovernment aims to end badger
-OL,20,Fculling within five years
+OL,12,G303FThe scientists on global warming's
+OL,13,Ffront line in the Arctic circle
+OL,15,G304FGovernment won't impose four-day
+OL,16,Fworking week on employers
+OL,18,G305FGovernment aims to end badger
+OL,19,Fculling within five years
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -111,13 +110,13 @@ OL,7,                             R"#!
 OL,8,G361FCCTV captures thieves breaking
 OL,9,Finto home leaving couple 'afraid and
 OL,10,Fvulnerable'
-OL,12,G362FFormer prime minister to talk
-OL,13,Fabout 'abuse of power' in politics at
-OL,14,Ffestival
-OL,16,G363FGrandson's final plea to solve
-OL,17,F1967 murder mystery
-OL,19,G364FMan arrested after A1(M) crash
-OL,20,Fleaves three seriously injured
+OL,12,G362FDoncaster man who threatened to
+OL,13,F'slit throat' of MP is jailed
+OL,15,G363FFormer prime minister to talk
+OL,16,Fabout 'abuse of power' in politics at
+OL,17,Ffestival
+OL,19,G364FGrandson's final plea to solve
+OL,20,F1967 murder mystery
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -125,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +149,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -158,23 +157,24 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381FMan Utd Women's new captain: 'It's
-OL,9,Fkind of crazy it's happened so soon'
-OL,11,G382FGarage owner taken to A&E after
-OL,12,Fsuspected electric van battery fire
-OL,14,G383FJersey Ambulance Service donates
-OL,15,Ffrontline vehicle to war-torn Ukraine
-OL,17,G384FReport reveals Jersey's General
-OL,18,FHospital could be 'an exemplar
-OL,19,Fhospital'
+OL,8,G381FCafe which employs people with
+OL,9,Flearning disabilities to shut over
+OL,10,Fcosts
+OL,12,G382FMan Utd Women's new captain: 'It's
+OL,13,Fkind of crazy it's happened so soon'
+OL,15,G383FGarage owner taken to A&E after
+OL,16,Fsuspected electric van battery fire
+OL,18,G384FMeet the men driving an ambulance
+OL,19,F1,700 miles to help Ukraine
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
+OL,26,@pD@Hrr
 PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -182,16 +182,16 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FJurgen Klopp supports Rachel
-OL,9,FChoong in Para Badminton opening match
-OL,11,G392FMore than a third of teachers
-OL,12,Fbring in food for hungry pupils
-OL,14,G393FOasis release Definitely Maybe
-OL,15,F30th anniversary edition
-OL,17,G394FCat reunited with owners almost a
-OL,18,Fdecade after going missing
-OL,20,G395FAll Oasis pre-sale ticket codes
-OL,21,Fallocated, band say
+OL,8,G391FPart of motorway to remain closed
+OL,9,Ffor 'considerable amount of time'
+OL,11,G392FJurgen Klopp supports Rachel
+OL,12,FChoong in Para Badminton opening match
+OL,14,G393FMore than a third of teachers
+OL,15,Fbring in food for hungry pupils
+OL,17,G394FOasis release Definitely Maybe
+OL,18,F30th anniversary edition
+OL,20,G395FCat reunited with owners almost a
+OL,21,Fdecade after going missing
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -199,7 +199,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -225,7 +225,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -251,7 +251,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -261,15 +261,15 @@ OL,6,BITV News Tyne Tees            Rt
 OL,7,                               R*'#/'#
 OL,8,G421FFundraiser completes 800 mile 20-
 OL,9,Fstadium run for suicide awareness
-OL,11,G422FXL bully owner jailed for two
-OL,12,Fyears over attack
-OL,14,G423FTory leadership campaign video
-OL,15,Fshot at Newcastle stadium 'not
-OL,16,Fapproved' by club
-OL,18,G424FMan found guilty of murder at Tyne
-OL,19,FTunnel trading estate
-OL,21,G425FMan given three-year banning order
-OL,22,Fafter reported assault at Euro 2024
+OL,11,G422FNewcastle man handed suspended
+OL,12,Fsentence over offensive tweets
+OL,14,G423FXL bully owner jailed for two
+OL,15,Fyears over attack
+OL,17,G424FTory leadership campaign video
+OL,18,Fshot at Newcastle stadium 'not
+OL,19,Fapproved' by club
+OL,21,G425FMan found guilty of murder at Tyne
+OL,22,FTunnel trading estate
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -277,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -303,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,27 +379,28 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 30 AUG
-OL,4,G1900FThe One Show
-OL,5,     GAlex Scott and Roman Kemp bring
-OL,6,     Gyou the stories that matter from
-OL,7,     Gacross the country.
-OL,8,G1930FThe Seal Whisperer
-OL,9,     GNorthumberland GP Ben Burville
-OL,10,     Ghas struck up a unique
-OL,11,     Grelationship with the Farne
-OL,12,     GIslands grey seals. He takes us
-OL,13,     Gunder the waves to share the
-OL,14,     Gsecrets of these beautiful
-OL,15,     Gcreatures.
-OL,16,G2000FDavid & Jay's Touring Toolshed
-OL,17,     GDavid and Jay meet a vehicle
-OL,18,     Genthusiast in need of help and
-OL,19,     Gtry neon sign making.
+OL,4,G2000FDavid & Jay's Touring Toolshed
+OL,5,     GDavid and Jay meet a vehicle
+OL,6,     Genthusiast in need of help and
+OL,7,     Gtry neon sign making.
+OL,8,G2030FWould I Lie to You?
+OL,9,     GCraig Charles, Amy Gledhill,
+OL,10,     GShazia Mirza and Jeremy Vine join
+OL,11,     Ghost Rob Brydon and team captains
+OL,12,     GLee Mack and David Mitchell to
+OL,13,     Gsort out the fact from the
+OL,14,     Gfiction.
+OL,15,G2100FCelebrity MasterChef
+OL,16,     GIt's the end of heat three, which
+OL,17,     Gcan only mean one thing - time
+OL,18,     Gfor another stress-inducing
+OL,19,     Gquarter-final, featuring the
+OL,20,     Gweek's three best celebrity cooks.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -407,26 +408,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 30 AUG
-OL,4,G1900FToday at the Test: England v Sri
-OL,5,     FLanka
-OL,6,     GDay two highlights from the
-OL,7,     Gsecond Test between England and
-OL,8,     GSri Lanka.
-OL,9,G2000FAthletics: Diamond League Rome
-OL,10,     GThe Stadio Olimpico is the
-OL,11,     Gsetting for the Italian leg of
-OL,12,     Gthe 2024 Diamond League as some
-OL,13,     Gof the world's top athletes take
-OL,14,     Gcentre stage in Rome.
-OL,15,G2100FGardeners' World
-OL,16,     GMonty continues his preparations
-OL,17,     Gfor next year by getting some
-OL,18,     Gdaffodils in the ground.
+OL,4,G2000FAthletics: Diamond League Rome
+OL,5,     GThe Stadio Olimpico is the
+OL,6,     Gsetting for the Italian leg of
+OL,7,     Gthe 2024 Diamond League as some
+OL,8,     Gof the world's top athletes take
+OL,9,     Gcentre stage in Rome.
+OL,10,G2100FGardeners' World
+OL,11,     GMonty continues his preparations
+OL,12,     Gfor next year by getting some
+OL,13,     Gdaffodils in the ground.
+OL,14,G2200FThe Office
+OL,15,     GIt's staff training day. However,
+OL,16,     GBrent soon starts to undermine
+OL,17,     Gthe management consultant. It's
+OL,18,     Gall too much for Tim, who
+OL,19,     Gresigns. Contains adult humour.
+OL,20,G2230FNewsnight
+OL,21,G2300FWeather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -434,30 +438,25 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 30 AUG
-OL,4,G1830FITV Evening News
-OL,5,G1930FEmmerdale
-OL,6,     GJai is unsettled to see that
-OL,7,     GArthur means business, Vanessa
-OL,8,     Gquestions Tracy's feelings over
-OL,9,     GNate, and Charity is concerned.
-OL,10,G2000FCoronation Street
-OL,11,     GLisa's boss delivers an update on
-OL,12,     Gthe case against Joel, Betsy
-OL,13,     Gplants a stolen purse on Mason,
-OL,14,     GCraig quizzes Sid about Beth, and
-OL,15,     GRowan instructs Leanne to
-OL,16,     Gconvince Amy to back off.
-OL,17,G2100FBeat The Chasers
-OL,18,     GBradley Walsh hosts as
-OL,19,     Gcontestants face all six Chasers
-OL,20,     Gfor the first time. Can anyone
-OL,21,     Gbeat the Chasers?
-OL,22,G2200FITV News at Ten
+OL,4,G2000FCoronation Street
+OL,5,     GLisa's boss delivers an update on
+OL,6,     Gthe case against Joel, Betsy
+OL,7,     Gplants a stolen purse on Mason,
+OL,8,     GCraig quizzes Sid about Beth, and
+OL,9,     GRowan instructs Leanne to
+OL,10,     Gconvince Amy to back off.
+OL,11,G2100FBeat The Chasers
+OL,12,     GBradley Walsh hosts as
+OL,13,     Gcontestants face all six Chasers
+OL,14,     Gfor the first time. Can anyone
+OL,15,     Gbeat the Chasers?
+OL,16,G2200FITV News at Ten
+OL,17,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -465,7 +464,7 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -491,25 +490,26 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 30 AUG
-OL,4,G1900FMotorway Cops: Catching Britain's
-OL,5,     FSpeeders
-OL,6,     GPCs Ian Cosgrove and Rich
-OL,7,     GWoodward attend the scene of a
-OL,8,     Gshocking multi-vehicle crash on
-OL,9,     Gthe M56 that's left a woman
-OL,10,     Gtrapped in a car.
-OL,11,G2000FRescue 999: Seconds to Save a Life
-OL,12,     G...Save a Life. Up close with a
-OL,13,     Glifeboat crew attempting a rescue
-OL,14,     Gin rough seas, plus an air
-OL,15,     Gambulance team are called to a
-OL,16,     Gtraffic accident, and hikers are
-OL,17,     Gmissing up Ben Klibreck.
+OL,4,G2000FRescue 999: Seconds to Save a Life
+OL,5,     G...Save a Life. Up close with a
+OL,6,     Glifeboat crew attempting a rescue
+OL,7,     Gin rough seas, plus an air
+OL,8,     Gambulance team are called to a
+OL,9,     Gtraffic accident, and hikers are
+OL,10,     Gmissing up Ben Klibreck.
+OL,11,G2100FTerror at 30,000 Feet
+OL,12,     GDisaster strikes a flight to
+OL,13,     GMalaga when a front windscreen
+OL,14,     Gblows out, sending a freezing
+OL,15,     Gwind tearing through the
+OL,16,     Gpassenger cabin and sucking the
+OL,17,     Gpilot's head and body out of the
+OL,18,     Gplane...
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -517,7 +517,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725042356
+OL,0,        ECIMSBWebfax     F498A1725045962
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
