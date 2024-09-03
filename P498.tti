@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -203,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -230,7 +230,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -238,17 +238,16 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FHeadteacher welcomes Ofsted
-OL,9,Fscrapping one-word grade as it's 'very
-OL,10,Fstressful'
-OL,12,G412FFalklands veteran hand-cycles 321
-OL,13,Fmiles in five days for charity
-OL,15,G413F17-year-old charged with murder
-OL,16,Fafter death of 20-year-old man
-OL,18,G414FCCTV appeal after trail of Shaun
-OL,19,Fthe Sheep charity sculptures vandalised
-OL,21,G415FPrimary school forced to 're-write
-OL,22,Fcurriculum' after arson attack
+OL,8,G411FOfsted's first response to
+OL,9,Fheadteacher's death looked 'defensive
+OL,10,Fand complacent'
+OL,12,G412FHeadteacher welcomes Ofsted
+OL,13,Fscrapping one-word grade as it's 'very
+OL,14,Fstressful'
+OL,16,G413FFalklands veteran hand-cycles 321
+OL,17,Fmiles in five days for charity
+OL,19,G414F17-year-old charged with murder
+OL,20,Fafter death of 20-year-old man
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -256,7 +255,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -281,7 +280,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -307,7 +306,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -333,7 +332,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -358,7 +357,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -383,7 +382,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -396,7 +395,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -409,19 +408,18 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 2 SEP
-OL,4,G0350FUnwind with ITV
-OL,5,G0505FLingo
-OL,6,     GThis edition's teams are London
-OL,7,     Gpals Saffron and Marcel and two
-OL,8,     Gmother-daughter pairs - Beth and
-OL,9,     GMargaret from Aberfeldy and
-OL,10,     GLiverpool, and Stephanie and
-OL,11,     GCatherine from Northwich.
+OL,4,G0505FLingo
+OL,5,     GThis edition's teams are London
+OL,6,     Gpals Saffron and Marcel and two
+OL,7,     Gmother-daughter pairs - Beth and
+OL,8,     GMargaret from Aberfeldy and
+OL,9,     GLiverpool, and Stephanie and
+OL,10,     GCatherine from Northwich.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -429,30 +427,16 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 2 SEP
-OL,4,G0430FFood Unwrapped
-OL,5,     GThe team investigate how instant
-OL,6,     Gcappuccino gets its froth. Why do
-OL,7,     Gmost tinned tomatoes come from
-OL,8,     GItaly? And an odyssey across
-OL,9,     GEurope reveals how fluffy
-OL,10,     Gpanettone lasts so long.
-OL,11,G0455FFrasier
-OL,12,     GThe Club: Sibling rivalry is
-OL,13,     Grampant in the Crane household as
-OL,14,     GFrasier and Niles compete for
-OL,15,     Gelection into a prestigious
-OL,16,     Ggentlemen's club.
-OL,17,G0520FFrasier
-OL,18,     GSomeone to Watch Over Me: Frasier
-OL,19,     Gis nominated for a broadcasting
-OL,20,     Gaward but has to call in a
-OL,21,     Gbodyguard when he is pestered by
-OL,22,     Gan unlikely stalker.
+OL,4,G0545FEverybody Loves Raymond
+OL,5,     GThe Sneeze: Much to Debra's
+OL,6,     Gannoyance, Marie mollycoddles Ray
+OL,7,     Gwhen he thinks he's coming down
+OL,8,     Gwith something.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -460,29 +444,17 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 2 SEP
-OL,4,G0450FWildlife SOS
-OL,5,     GDocumentary series about the work
-OL,6,     Gof dedicated animal lovers who
-OL,7,     Gsave injured and orphaned wild
-OL,8,     Ganimals brought into their
-OL,9,     Gsanctuary.
-OL,10,G0515FDivine Designs
-OL,11,     GIn his series on religious art
-OL,12,     Gand artefacts, Paul Binski looks
-OL,13,     Gat the two great rival cathedrals
-OL,14,     Gof England - York and Canterbury.
-OL,15,G0540FEntertainment News on 5
-OL,16,G0545FThomas & Friends
-OL,17,     G...Big World! Big Adventures!
-OL,18,     GHong-Mei tells Thomas that the
-OL,19,     Gwater wheel he is carrying is
-OL,20,     Gmade from bamboo and is very
-OL,21,     Gimportant.
+OL,4,G0545FThomas & Friends
+OL,5,     G...Big World! Big Adventures!
+OL,6,     GHong-Mei tells Thomas that the
+OL,7,     Gwater wheel he is carrying is
+OL,8,     Gmade from bamboo and is very
+OL,9,     Gimportant.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -490,25 +462,18 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725335570
+OL,0,        ECIMSBWebfax     F498A1725339176
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 2 SEP
-OL,4,G0350FA Gunman Has Escaped
-OL,5,     G1948. Drama. Stars John Harvey,
-OL,6,     GJohn Fitzgerald, Robert Cartland.
-OL,7,     GWritten by John Gilling. Three
-OL,8,     Garmed robbers kill a passer-by in
-OL,9,     Ga robbery and flee the city.
-OL,10,G0500FThe Lloyd Bridges Show
-OL,11,     GTo Walk with the Stars. 1962.
-OL,12,     GLloyd Bridges introduces a news
-OL,13,     Gevent, either current or the
-OL,14,     Gpast, discussing its relevance.
-OL,15,     GStars Jeff Bridges & Dolores
-OL,16,     GMichaels. Created by: Aaron
-OL,17,     GSpelling.
+OL,4,G0530FDangerous Assignment
+OL,5,     GThe Key Story. 1951. Stars Brian
+OL,6,     GDonlevy, Stanley Waxman & Suzanne
+OL,7,     GDalbert. Steve is sent to the
+OL,8,     GSwiss Alps to recover a document
+OL,9,     Gthat proves the death of a
+OL,10,     Gforeign leader was no accident.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
