@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,24 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FTory MPs prepare for first ballot
-OL,9,Fin contest to succeed Rishi Sunak as
-OL,10,Fleader
-OL,12,G303FSeven people killed in overnight
-OL,13,Fstrike on Lviv in western Ukraine
-OL,15,G304FGrenfell Inquiry: What to expect
-OL,16,Ffrom the final report into the disaster
-OL,18,G305FMajority of pensioners below
-OL,19,Fpoverty line 'could lose winter fuel
-OL,20,Fpayments'
+OL,8,G302F'Justice has not been delivered':
+OL,9,FGrenfell United's statement in full
+OL,11,G303FFamilies react to final Grenfell
+OL,12,FTower report published seven years
+OL,13,Fafter fire
+OL,15,G304F'Decades of failure': Key findings
+OL,16,Ffrom the Grenfell Inquiry's final
+OL,17,Freport
+OL,19,G305FTory MPs prepare for first ballot
+OL,20,Fin contest to succeed Rishi Sunak as
+OL,21,Fleader
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -134,7 +135,7 @@ OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
 OL,8,G371FDog walker, 80, named by police as
-OL,9,Fteen questioned held in murder probe
+OL,9,Fteen questioned in murder probe
 OL,11,G372FDog walker, 80, named locally as
 OL,12,Ffive children held in murder probe
 OL,14,G373FFive children arrested after dog
@@ -150,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -175,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -183,16 +184,15 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391F'I'm on top of the world': Dame
-OL,9,FSarah Storey wins 18th Paralympic gold
+OL,8,G391FDame Sarah Storey criticises
+OL,9,F'appalling' short women's time trial
 OL,11,G392FTerminally ill woman touches down
 OL,12,Fin Peru to fulfil final wish
-OL,14,G393FBlackpool appoint former
-OL,15,FManchester United defender Steve Bruce
-OL,16,Fas head coach
-OL,18,G394FStockport County players and staff
-OL,19,Fgive 3,500 PE kits to local school
-OL,20,Fchildren
+OL,14,G393F'I'm on top of the world': Dame
+OL,15,FSarah Storey wins 18th Paralympic gold
+OL,17,G394FBlackpool appoint former
+OL,18,FManchester United defender Steve Bruce
+OL,19,Fas head coach
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -200,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -252,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -260,15 +260,17 @@ OL,4,                             R"{4
 OL,5,BThe latest updates from      R?}
 OL,6,BITV News Tyne Tees            Rt
 OL,7,                               R*'#/'#
-OL,8,G421FReopening of Grade II listed
-OL,9,Flighthouse delayed until next month
-OL,11,G422FMan, 53, admits murder after
-OL,12,Fserious assault at property
-OL,14,G423FWomen in the North have shorter
-OL,15,Flives and work longer for less pay,
-OL,16,Fstudy finds
-OL,18,G424FWoman who drank 'five pints'
-OL,19,Fbefore killing cyclist has been jailed
+OL,8,G421FFaye Rogers celebrates Paralympics
+OL,9,Fgold in 'lifesaving' para-swimming
+OL,11,G422FReopening of Grade II listed
+OL,12,Flighthouse delayed until next month
+OL,14,G423FMan, 53, admits murder after
+OL,15,Fserious assault at property
+OL,17,G424FWomen in the North have shorter
+OL,18,Flives and work longer for less pay,
+OL,19,Fstudy finds
+OL,21,G425FWoman who drank 'five pints'
+OL,22,Fbefore killing cyclist has been jailed
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -276,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -301,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -327,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -353,7 +355,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -378,30 +380,27 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 4 SEP
-OL,4,G1045FMaximum Security
-OL,5,     GDom Littlewood looks at the
-OL,6,     Gsecurity world. Today, he's in
-OL,7,     GDover to see how Border Force
-OL,8,     Gseparate the potential smugglers
-OL,9,     Gfrom the tourists.
-OL,10,G1115FHomes Under the Hammer
-OL,11,     GHouses in Stoke, Chestfield in
-OL,12,     GKent and West Drayton are bought
-OL,13,     Gat online auctions by developers
-OL,14,     Gwho hope to make money on their
-OL,15,     Ginvestments.
-OL,16,G1215FBargain Hunt
-OL,17,     GRoo Irvine steps aboard the
-OL,18,     G'little sister' of the Titanic,
-OL,19,     Gwhile two teams hunt for antiques
-OL,20,     Gin County Antrim with experts
-OL,21,     GCaroline Hawley and Thomas
-OL,22,     GForrester.
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GHouses in Stoke, Chestfield in
+OL,6,     GKent and West Drayton are bought
+OL,7,     Gat online auctions by developers
+OL,8,     Gwho hope to make money on their
+OL,9,     Ginvestments.
+OL,10,G1215FBargain Hunt
+OL,11,     GRoo Irvine steps aboard the
+OL,12,     G'little sister' of the Titanic,
+OL,13,     Gwhile two teams hunt for antiques
+OL,14,     Gin County Antrim with experts
+OL,15,     GCaroline Hawley and Thomas
+OL,16,     GForrester.
+OL,17,G1300FBBC News at One including Look...
+OL,18,     GNorth . The latest national and
+OL,19,     Ginternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -409,29 +408,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 4 SEP
-OL,4,G0900FBBC News
-OL,5,G1115FPolitics Live
-OL,6,     GThe big political issues of the
-OL,7,     Gday.
-OL,8,G1300FHead Hunters
-OL,9,     GRob Beckett hosts the quiz show
-OL,10,     Gwhere contestants must decide
-OL,11,     Gwhether they can win the jackpot
-OL,12,     Galone or need to headhunt other
-OL,13,     Gplayers to supplement their
-OL,14,     Gknowledge.
-OL,15,G1345FBridge of Lies
-OL,16,     GRoss Kemp presents the quiz show
-OL,17,     Gwhere a team of four take on the
-OL,18,     GBridge of Lies. One by one they
-OL,19,     Gmust cross the Bridge, stepping
-OL,20,     Gon the truths and avoiding the
-OL,21,     Glies.
+OL,4,G1115FPolitics Live
+OL,5,     GThe big political issues of the
+OL,6,     Gday.
+OL,7,G1300FHead Hunters
+OL,8,     GRob Beckett hosts the quiz show
+OL,9,     Gwhere contestants must decide
+OL,10,     Gwhether they can win the jackpot
+OL,11,     Galone or need to headhunt other
+OL,12,     Gplayers to supplement their
+OL,13,     Gknowledge.
+OL,14,G1345FBridge of Lies
+OL,15,     GRoss Kemp presents the quiz show
+OL,16,     Gwhere a team of four take on the
+OL,17,     GBridge of Lies. One by one they
+OL,18,     Gmust cross the Bridge, stepping
+OL,19,     Gon the truths and avoiding the
+OL,20,     Glies.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -439,7 +437,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -467,27 +465,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 4 SEP
-OL,4,G1055FChannel 4 News Summary
-OL,5,     GChannel 4's midday news summary.
-OL,6,G1100FLive: Paralympics Paris 2024
-OL,7,     GMore ParalympicsGB cyclists pedal
-OL,8,     Gfor medals in various road time
-OL,9,     Gtrial events, including Tokyo
-OL,10,     Gmedallists Jaco van Gass, Fin
-OL,11,     GGraham, Ben Watson, Sophie Unwin
-OL,12,     Gand Lora Fachie.
-OL,13,G1300FLive: Paralympics Paris 2024
-OL,14,     GJJ Chalmers is in the presenting
-OL,15,     Gsaddle as Day 7 in Paris spins
-OL,16,     Gon. Great Britain have at least
-OL,17,     Gsix medal hopes across numerous
-OL,18,     Groad cycling time trial events
-OL,19,     Gthroughout this afternoon.
+OL,4,G1100FLive: Paralympics Paris 2024
+OL,5,     GMore ParalympicsGB cyclists pedal
+OL,6,     Gfor medals in various road time
+OL,7,     Gtrial events, including Tokyo
+OL,8,     Gmedallists Jaco van Gass, Fin
+OL,9,     GGraham, Ben Watson, Sophie Unwin
+OL,10,     Gand Lora Fachie.
+OL,11,G1300FLive: Paralympics Paris 2024
+OL,12,     GJJ Chalmers is in the presenting
+OL,13,     Gsaddle as Day 7 in Paris spins
+OL,14,     Gon. Great Britain have at least
+OL,15,     Gsix medal hopes across numerous
+OL,16,     Groad cycling time trial events
+OL,17,     Gthroughout this afternoon.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -495,26 +491,30 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 4 SEP
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss the
-OL,6,     Glatest news and get your views
-OL,7,     Gand opinions of the day.
-OL,8,G1130FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories of
-OL,12,     Gthe day.
-OL,13,G1245FFriends
-OL,14,     GRachel wonders whether she will
-OL,15,     Gever get another job. Joey's job
-OL,16,     Gselling Christmas trees upsets
-OL,17,     GPhoebe. Ross accidentally breaks
-OL,18,     Ga little girl's leg.
+OL,4,G1130FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories of
+OL,8,     Gthe day.
+OL,9,G1245FFriends
+OL,10,     GRachel wonders whether she will
+OL,11,     Gever get another job. Joey's job
+OL,12,     Gselling Christmas trees upsets
+OL,13,     GPhoebe. Ross accidentally breaks
+OL,14,     Ga little girl's leg.
+OL,15,G1310FFriends
+OL,16,     G...Remember Which Sister.
+OL,17,     GChandler cannot remember which of
+OL,18,     GJoey's seven sisters he fooled
+OL,19,     Garound with. Rachel meets a man
+OL,20,     Gwho offers to help her career.
+OL,21,G1340F5 News at Lunchtime
+OL,22,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -522,26 +522,24 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725443743
+OL,0,        ECIMSBWebfax     F498A1725447349
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 4 SEP
-OL,4,G1030FThe Buccaneers
-OL,5,     GMistress Higgins' Treasure. 1957.
-OL,6,     GStars Robert Shaw, Adrienne Corri
-OL,7,     G& Edwin Richfield. Whilst
-OL,8,     Gsmuggling tools to desperate
-OL,9,     Gfarmers, Dan meets a mysterious
-OL,10,     Gwoman at sea who has a tale to
-OL,11,     Gtell.
-OL,12,G1105FA Lifetime Ago with The Baim
-OL,13,     FCollection
-OL,14,     GReserved for Animals. 1974. A
-OL,15,     Gdelightful trip to Woburn Safari
-OL,16,     GPark, with a look at Woburn Abbey
-OL,17,     Gand the lush grounds, which are
-OL,18,     Ghome to a variety of animals.
+OL,4,G1140FThe Affairs of a Rogue
+OL,5,     G1949. Romance. Directed by
+OL,6,     GAlberto Cavalcanti. Stars Jean-
+OL,7,     GPierre Aumont & Joan Hopkins. As
+OL,8,     Gthe Prince Regent tries to marry
+OL,9,     Goff his unruly daughter, she
+OL,10,     Gfalls in love with an
+OL,11,     Gimpoverished prince.
+OL,12,G1330FSam's Song
+OL,13,     G1979. A fantastic short film
+OL,14,     Gfeaturing a story with Dame
+OL,15,     GMaureen Lipman and a host of
+OL,16,     Gother British stars.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
