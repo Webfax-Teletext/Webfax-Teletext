@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -132,13 +132,13 @@ OL,4,                      R~3!
 OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
-OL,8,G371FWoman and two dogs found dead
-OL,9,Ffollowing fatal house fire
-OL,11,G372FFire crews tackle large blaze in
-OL,12,Fderelict building in Kidderminster
-OL,14,G373FStratford Road reopened after bust
-OL,15,Fwater pipe caused huge flood in
-OL,16,FSparkhill
+OL,8,G371FStratford Road reopened after bust
+OL,9,Fwater pipe caused huge flood in
+OL,10,FSparkhill
+OL,12,G372FWoman and two dogs found dead
+OL,13,Ffollowing fatal house fire
+OL,15,G373FFire crews tackle large blaze in
+OL,16,Fderelict building in Kidderminster
 OL,18,G374FMan charged with murder following
 OL,19,Ffatal house fire in Wolverhampton
 OL,21,G375FIllegal puppy seller from Rugeley
@@ -150,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -175,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -183,17 +183,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FDad finishes seven marathons in
-OL,9,Fseven days for sight-saving research
-OL,11,G392FDad critically injured in house
-OL,12,Fexplosion dies
-OL,14,G393FMurder investigation after woman
-OL,15,Ffound with multiple injuries
-OL,17,G394FPlea to re-open murder case
-OL,18,Fagainst husband after judge ruled he
-OL,19,Fkilled wife
-OL,21,G395FParalympic swimmer's former coach
-OL,22,F'not surprised' at third gold
+OL,8,G391FSchoolboy dies after getting into
+OL,9,Fdifficulty in water
+OL,11,G392FDad finishes seven marathons in
+OL,12,Fseven days for sight-saving research
+OL,14,G393FDad critically injured in house
+OL,15,Fexplosion dies
+OL,17,G394FMurder investigation after woman
+OL,18,Ffound with multiple injuries
+OL,20,G395FPlea to re-open murder case
+OL,21,Fagainst husband after judge ruled he
+OL,22,Fkilled wife
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -201,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -227,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -235,17 +235,16 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FGirl, 16, becomes one of youngest
-OL,9,Fto swim Channel
-OL,11,G412FTributes to bassist Herbie Flowers
-OL,12,Fwho played with Bowie, Bolan and
-OL,13,FMcCartney
-OL,15,G413FLandslip house up for auction with
-OL,16,Fguide price of #0
-OL,18,G414F'Fido at the Lido' - Doggies
-OL,19,Fpaddle for animal charity
-OL,21,G415FWoman's death on country lane 'no
-OL,22,Flonger suspicious'
+OL,8,G411FCorner to Corner: Fundraisers from
+OL,9,Fthe South take on epic triathlon
+OL,10,Fchallenge.
+OL,12,G412FGirl, 16, becomes one of youngest
+OL,13,Fto swim Channel
+OL,15,G413FTributes to bassist Herbie Flowers
+OL,16,Fwho played with Bowie, Bolan and
+OL,17,FMcCartney
+OL,19,G414FLandslip house up for auction with
+OL,20,Fguide price of #0
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -253,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -278,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -304,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -312,16 +311,16 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FNorthern Ireland and Liverpool
-OL,9,Ffootball star backs road safety
-OL,10,Fcampaign
-OL,12,G442FSuspected firearms found in a
-OL,13,Friver in Co Armagh
-OL,15,G443FMan hospitalised with facial
-OL,16,Finjuries and suspected broken leg
-OL,17,Fafter assault
-OL,19,G444FWoman dies in two-vehicle crash in
-OL,20,FCo Donegal
+OL,8,G441FAlliance Party deputy leader
+OL,9,FStephen Farry announces resignation
+OL,11,G442FNorthern Ireland and Liverpool
+OL,12,Ffootball star backs road safety
+OL,13,Fcampaign
+OL,15,G443FSuspected firearms found in a
+OL,16,Friver in Co Armagh
+OL,18,G444FMan hospitalised with facial
+OL,19,Finjuries and suspected broken leg
+OL,20,Fafter assault
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -329,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -339,15 +338,13 @@ OL,6,BITV News Wales         G  R +';o/
 OL,7,                        G      R"#
 OL,8,G461FTen-year-old crowned best in the
 OL,9,FUK at farming awards
-OL,11,G462FFare dodgers face more fines on
-OL,12,FTransport for Wales trains
-OL,14,G463FWelsh athletes bring home 16
-OL,15,Fmedals at Paris Paralympics
-OL,17,G464FFormer Wales first minister
-OL,18,FVaughan Gething will stand down at
-OL,19,Fnext election
-OL,21,G465FCould lessons from the Netherlands
-OL,22,Fhelp save nature in Wales?
+OL,11,G462FOlder people urged to apply for
+OL,12,Fpension credit as Winter Fuel
+OL,13,FAllowance cut
+OL,15,G463FFare dodgers face more fines on
+OL,16,FTransport for Wales trains
+OL,18,G464FWelsh athletes bring home 16
+OL,19,Fmedals at Paris Paralympics
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -355,7 +352,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -380,28 +377,24 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 8 SEP
-OL,4,G1610FThe Addams Family 2
-OL,5,     GAs the Addams embark on a trip
-OL,6,     Garound America, Wednesday is
-OL,7,     Ghaunted by feelings of doubt.
-OL,8,G1735FWild Isles
-OL,9,     GDavid Attenborough follows our
-OL,10,     Gwoodlands throughout the year,
-OL,11,     Gshowcasing their astonishing
-OL,12,     Gvariety and unearthing incredible
-OL,13,     Gstories hidden amongst the trees.
-OL,14,G1835FBBC News
-OL,15,G1850FRegional News
-OL,16,G1855FWeather
-OL,17,G1900FCountryfile
-OL,18,     GSean Fletcher and Anita Rani
-OL,19,     Gexplore the rugged hills and
-OL,20,     Gvalleys of west Exmoor.
+OL,4,G1735FWild Isles
+OL,5,     GDavid Attenborough follows our
+OL,6,     Gwoodlands throughout the year,
+OL,7,     Gshowcasing their astonishing
+OL,8,     Gvariety and unearthing incredible
+OL,9,     Gstories hidden amongst the trees.
+OL,10,G1835FBBC News
+OL,11,G1850FRegional News
+OL,12,G1855FWeather
+OL,13,G1900FCountryfile
+OL,14,     GSean Fletcher and Anita Rani
+OL,15,     Gexplore the rugged hills and
+OL,16,     Gvalleys of west Exmoor.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -409,26 +402,25 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 8 SEP
-OL,4,G1700FCelebrity Race Across the World
-OL,5,     GThe teams reach the halfway mark,
-OL,6,     Gand after 16 days traversing the
-OL,7,     Glength of Brazil, it's time to
-OL,8,     Gcross the border and enter the
-OL,9,     Gheart of South America and three
-OL,10,     Gnew countries.
-OL,11,G1800FGreat North Run Highlights
-OL,12,     GHighlights from the 2024 Great
-OL,13,     GNorth Run.
-OL,14,G1900FToday at the Test: England v Sri
-OL,15,     FLanka
-OL,16,     GDay three highlights from the
-OL,17,     Gthird and final Test between
-OL,18,     GEngland and Sri Lanka.
+OL,4,G1800FGreat North Run Highlights
+OL,5,     GHighlights from the 2024 Great
+OL,6,     GNorth Run.
+OL,7,G1900FToday at the Test: England v Sri
+OL,8,     FLanka
+OL,9,     GDay three highlights from the
+OL,10,     Gthird and final Test between
+OL,11,     GEngland and Sri Lanka.
+OL,12,G2000FBig Cats 24/7
+OL,13,     GA fight with intruders leaves the
+OL,14,     Glion pride males injured and the
+OL,15,     Gmothers with cubs vulnerable to
+OL,16,     Gattack. Xudum the female leopard
+OL,17,     Gtakes risks to find a mate.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -436,7 +428,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -464,29 +456,30 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 8 SEP
-OL,4,G1700FKirstie and Phil's Love It or
-OL,5,     FList It
-OL,6,     GBrilliant Builds: It's all about
-OL,7,     Gsnug spaces and layout switches,
-OL,8,     Gas Kirstie and Phil look back at
-OL,9,     Gtwo couples who were at odds over
-OL,10,     Gredundant rooms and lousy layouts.
-OL,11,G1800FChannel 4 News
-OL,12,     GChannel 4's flagship news
-OL,13,     Gprogramme. Including the weather.
-OL,14,G1830FLive: Paralympics Closing Ceremony
-OL,15,     GClare Balding presents live as we
-OL,16,     Gbid adieu to the 17th
-OL,17,     GParalympics. There'll be
-OL,18,     Glaughter, tears and plenty of
-OL,19,     Gheroic tales in the studio, as
-OL,20,     Gthe world's Paralympians
-OL,21,     Gpromenade the stadium.
+OL,4,G1800FChannel 4 News
+OL,5,     GChannel 4's flagship news
+OL,6,     Gprogramme. Including the weather.
+OL,7,G1830FLive: Paralympics Closing Ceremony
+OL,8,     GClare Balding presents live as we
+OL,9,     Gbid adieu to the 17th
+OL,10,     GParalympics. There'll be
+OL,11,     Glaughter, tears and plenty of
+OL,12,     Gheroic tales in the studio, as
+OL,13,     Gthe world's Paralympians
+OL,14,     Gpromenade the stadium.
+OL,15,G2030FLive: Paralympics Closing Ceremony
+OL,16,     GClare Balding presents live as we
+OL,17,     Gbid adieu to the 17th
+OL,18,     GParalympics. There'll be
+OL,19,     Glaughter, tears and plenty of
+OL,20,     Gheroic tales in the studio, as
+OL,21,     Gthe world's Paralympians
+OL,22,     Gpromenade the stadium.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -494,7 +487,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -523,27 +516,27 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725811503
+OL,0,        ECIMSBWebfax     F498A1725815109
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 8 SEP
-OL,4,G1700FThe Footage Detectives
-OL,5,     GWe have a fascinating reel of an
-OL,6,     Genchanting songbird, then it's
-OL,7,     Gall about mushrooms in the 70s!
-OL,8,     GWe have a brilliant reel about
-OL,9,     Gthe start of automation in the
-OL,10,     G50s and do you remember Willie
-OL,11,     GWilko?
-OL,12,G1800FAlma Cogan Live in 1959
-OL,13,     G1959. A spectacular musical
-OL,14,     Gvariety show hosted by the
-OL,15,     Gbrilliant Alma Cogan, who
-OL,16,     Gpresents a number of talented
-OL,17,     Gstars including Cliff Richard and
-OL,18,     Gthe Shadows, Billy Baxter and
-OL,19,     GWilbur Evans.
+OL,4,G1800FAlma Cogan Live in 1959
+OL,5,     G1959. A spectacular musical
+OL,6,     Gvariety show hosted by the
+OL,7,     Gbrilliant Alma Cogan, who
+OL,8,     Gpresents a number of talented
+OL,9,     Gstars including Cliff Richard and
+OL,10,     Gthe Shadows, Billy Baxter and
+OL,11,     GWilbur Evans.
+OL,12,G1900FYou Were Never Lovelier
+OL,13,     G1942. Musical. Directed by
+OL,14,     GWilliam A. Seiter. Stars Fred
+OL,15,     GAstaire, Rita Hayworth & Adolphe
+OL,16,     GMenjou. A down-on-his-luck dancer
+OL,17,     Gromances an elegant woman against
+OL,18,     Gthe wishes of her suspicious
+OL,19,     Gfather.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
