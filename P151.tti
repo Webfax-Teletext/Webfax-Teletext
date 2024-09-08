@@ -2,20 +2,23 @@ PN,15101
 SC,0001
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F151A1725238228
-OL,3,CCybersecurity software bug affects
-OL,4,Cbroadcasters
-OL,6,GSky News, Sky Sports and CBBC were
-OL,7,Gamong the TV channels impacted by a
-OL,8,Gbug in a new release of software
-OL,9,Grolled out globally by cybersecurity
-OL,10,Gcompany CrowdStrike.
-OL,12,FProblems were apparent on Sky News
-OL,13,Fshortly before 6am, when an apology
-OL,14,Fgraphic appeared. A short time later,
-OL,15,Fthe channel switched to a back-up
-OL,16,Fschedule of pre-recorded programming.
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G1/5
+OL,0,        ECIMSBWebfax     F151A1725818713
+OL,3,CFault takes lunchtime BBC Weather off
+OL,4,Cthe air
+OL,6,GA technical issue caused BBC One's
+OL,7,Glunchtime Weather for the Week Ahead
+OL,8,Gto be abandoned.
+OL,10,FProblems were apparent from the start
+OL,11,Fof the broadcast, with vision/audio
+OL,12,Fdropping out.
+OL,14,FThings settled for about a minute or
+OL,15,Fso before the glitching returned.
+OL,17,FSeconds later, BBC One Presentation
+OL,18,Fintervened, putting up a breakdown
+OL,19,Fslide. The announcer apologised and
+OL,20,Fpointed viewers to the BBC website,
+OL,21,Ffor a full weather update.
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G1/3
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,23,UpppppppppppppppppGsource: thetvroom.com
 OL,24,ANext Page BClean Feed CNat TV FNat News
@@ -24,23 +27,19 @@ PN,15102
 SC,0002
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F151A1725238228
-OL,3,CCybersecurity software bug affects
-OL,4,Cbroadcasters
-OL,6,FLive output resumed at 8.49am. But the
-OL,7,Fchannel had to make do with no
-OL,8,Fautocue, graphics or packages for a
-OL,9,Fnumber of hours, with presenters Anna
-OL,10,FJones and Gareth Barlow reading off
-OL,11,Fpaper scripts.
-OL,13,FNormal service was more or less
-OL,14,Fresumed shortly after lunchtime.
-OL,16,FSky Sports News displayed an apology
-OL,17,Fgraphic for some time in the morning,
-OL,18,Fbefore simulcasting Sky Sports Golf.
-OL,19,FNormal service was gradually restored
-OL,20,Fduring the afternoon.
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G2/5
+OL,0,        ECIMSBWebfax     F151A1725818713
+OL,3,CFault takes lunchtime BBC Weather off
+OL,4,Cthe air
+OL,6,FBBC One Wales took the network
+OL,7,Fbreakdown sequence before running the
+OL,8,Fnext junction normally.
+OL,10,FBBC One Northern Ireland broadcast the
+OL,11,Finitial seconds of the network
+OL,12,Fbreakdown before cutting back to the
+OL,13,Fweather programme ` which continued to
+OL,14,Fexperience intermittent glitching,
+OL,15,Fthough less serious than before.
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G2/3
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,23,UpppppppppppppppppGsource: thetvroom.com
 OL,24,ANext Page BClean Feed CNat TV FNat News
@@ -49,66 +48,25 @@ PN,15103
 SC,0003
 CT,2,C
 PS,c000
-OL,0,        ECIMSBWebfax     F151A1725238228
-OL,3,CCybersecurity software bug affects
-OL,4,Cbroadcasters
-OL,6,FCBBC's schedule fell off air at
-OL,7,F7.55am, after a live edition of
-OL,8,FNewsround. It's understood that
-OL,9,Fexiting the live event caused the
-OL,10,Fplayout system to crash.
-OL,12,FBBC One, BBC Two and CBeebies playout
-OL,13,Fwould've been similarly affected.
-OL,15,FHowever, CBeebies had no live events
-OL,16,Fin its schedule. BBC Two didn't have
-OL,17,Fto exit a live event until lunchtime.
-OL,18,FA fix was implemented prior to that.
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G3/5
-OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
-OL,23,UpppppppppppppppppGsource: thetvroom.com
-OL,24,ANext Page BClean Feed CNat TV FNat News
-FL,152,140,200,300,000,100
-PN,15104
-SC,0004
-CT,2,C
-PS,c000
-OL,0,        ECIMSBWebfax     F151A1725238228
-OL,3,CCybersecurity software bug affects
-OL,4,Cbroadcasters
-OL,6,FBBC One was due to exit a live event
-OL,7,F(Morning Live) at 10.45am. Rather than
-OL,8,Fbeing put to air by BBC One playout,
-OL,9,FMorning Live was initially passed
-OL,10,Fthrough the BBC Breakfast gallery.
-OL,12,FAs we understand it, a fix was applied
-OL,13,Fto BBC One playout just prior to
-OL,14,F10.45am, and the channel's planned
-OL,15,Fschedule was played out normally.
-OL,17,FCrowdStrike CEO George Kurtz said:
-OL,18,F"CrowdStrike is actively working with
-OL,19,Fcustomers impacted by a defect found
-OL,20,Fin a single content update for Windows
-OL,21,Fhosts. Mac and Linux hosts are not
-OL,22,Fimpacted.
-OL,26,@zD@AOU
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G4/5
-OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
-OL,23,UpppppppppppppppppGsource: thetvroom.com
-OL,24,ANext Page BClean Feed CNat TV FNat News
-FL,152,140,200,300,000,100
-PN,15105
-SC,0005
-CT,2,C
-PS,c000
-OL,0,        ECIMSBWebfax     F151A1725238228
-OL,3,CCybersecurity software bug affects
-OL,4,Cbroadcasters
-OL,6,F"This is not a security incident or
-OL,7,Fcyberattack. The issue has been
-OL,8,Fidentified, isolated and a fix has
-OL,9,Fbeen deployed."
-OL,26,@nD@AOUqD@OO]
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G5/5
+OL,0,        ECIMSBWebfax     F151A1725818713
+OL,3,CFault takes lunchtime BBC Weather off
+OL,4,Cthe air
+OL,6,FThe bulletin was cut off seconds
+OL,7,Fbefore it was due to end. And after a
+OL,8,Ffew seconds of the clean feed filler
+OL,9,Fanimation, BBC One Northern Ireland
+OL,10,Fmoved on to the next junction, with an
+OL,11,Fapology from the announcer over the
+OL,12,Fident into Songs of Praise.
+OL,14,FBBC One Scotland invoked its own
+OL,15,Fbreakdown procedure, with a locally
+OL,16,Fgenerated breakdown slide and verbal
+OL,17,Fapology, before moving on to the next
+OL,18,Fjunction. During the ident link into
+OL,19,FSongs of Praise, the announcer
+OL,20,Fapologised for the issues with the
+OL,21,Fweather
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G3/3
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,23,UpppppppppppppppppGsource: thetvroom.com
 OL,24,ANext Page BClean Feed CNat TV FNat News
