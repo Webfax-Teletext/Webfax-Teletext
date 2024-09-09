@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -227,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -235,15 +235,16 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FRyanair boss calls for air traffic
-OL,9,Fcontrol CEO to go following disruption
-OL,11,G412FAir Ambulance launches 'biggest
-OL,12,Fever' appeal as it plots move to new HQ
-OL,14,G413FCorner to Corner: Fundraisers from
-OL,15,Fthe South take on epic triathlon
-OL,16,Fchallenge.
-OL,18,G414FGirl, 16, becomes one of youngest
-OL,19,Fto swim Channel
+OL,8,G411FPoliceman to cycle 1,300 miles to
+OL,9,FUkraine raising money for displaced
+OL,10,FUkrainians
+OL,12,G412FRyanair boss calls for air traffic
+OL,13,Fcontrol CEO to go following disruption
+OL,15,G413FAir Ambulance launches 'biggest
+OL,16,Fever' appeal as it plots move to new HQ
+OL,18,G414FCorner to Corner: Fundraisers from
+OL,19,Fthe South take on epic triathlon
+OL,20,Fchallenge.
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -251,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -275,7 +276,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -301,7 +302,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -309,17 +310,16 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FTroubles investigation body
-OL,9,Freceives 85 enquiries
-OL,11,G442FDraft programme for government to
-OL,12,Fbe unveiled
-OL,14,G443FAlliance Party deputy leader
-OL,15,FStephen Farry announces resignation
-OL,17,G444FNorthern Ireland and Liverpool
-OL,18,Ffootball star backs road safety
-OL,19,Fcampaign
-OL,21,G445FSuspected firearms found in a
-OL,22,Friver in Co Armagh
+OL,8,G441FArrest after police officer
+OL,9,Fknocked off bicycle
+OL,11,G442FBoys aged 10 and 11 to appear in
+OL,12,Fcourt over church arson
+OL,14,G443FTroubles investigation body
+OL,15,Freceives 85 enquiries
+OL,17,G444FDraft programme for government to
+OL,18,Fbe unveiled
+OL,20,G445FAlliance Party deputy leader
+OL,21,FStephen Farry announces resignation
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -327,7 +327,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,28 +379,30 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 SEP
-OL,4,G1045FSAS: Catching the Criminals
-OL,5,     GWhat does it take to bring an
-OL,6,     Gorganised crime gang to justice?
-OL,7,     GEx-SAS leader Billy Billingham
-OL,8,     Gjoins Greater Manchester Police
-OL,9,     Gto take down a suspected drug
-OL,10,     Gkingpin.
-OL,11,G1115FHomes Under the Hammer
-OL,12,     GFeaturing properties in
-OL,13,     GBroadstairs, London and Wigan.
-OL,14,G1215FBargain Hunt
-OL,15,     GStudents take on lecturers at an
-OL,16,     Gantiques fair in Wetherby, with
-OL,17,     Gexperts Philip Serrell and
-OL,18,     GJonathan Pratt. Meanwhile,
-OL,19,     GCaroline shows fair-goers a
-OL,20,     Ghorsehair-stuffed mystery item.
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GFeaturing properties in
+OL,6,     GBroadstairs, London and Wigan.
+OL,7,G1215FBargain Hunt
+OL,8,     GStudents take on lecturers at an
+OL,9,     Gantiques fair in Wetherby, with
+OL,10,     Gexperts Philip Serrell and
+OL,11,     GJonathan Pratt. Meanwhile,
+OL,12,     GCaroline shows fair-goers a
+OL,13,     Ghorsehair-stuffed mystery item.
+OL,14,G1300FBBC News at One including Look...
+OL,15,     GNorth . The latest national and
+OL,16,     Ginternational news from the BBC.
+OL,17,G1400FDoctors
+OL,18,     GGraham's day doesn't go like
+OL,19,     Gclockwork, while Rob is frantic
+OL,20,     Gwhen Jamal runs away at the
+OL,21,     Ghospital. Luca tries to help when
+OL,22,     Ga patient fakes their identity.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -408,7 +410,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -438,7 +440,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -466,28 +468,27 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 SEP
-OL,4,G1105FCome Dine with Me: The
-OL,5,     FProfessionals
-OL,6,     GRestaurants go head-to-head to
-OL,7,     Gwin #1000. In Yorkshire,
-OL,8,     Gpurveyors of posh nosh The Barn
-OL,9,     Gtake on Disco Kitchen's eclectic
-OL,10,     Gmenu and Scandi-inspired
-OL,11,     Grestaurant Fint.
-OL,12,G1205FChannel 4 News Summary
-OL,13,     GChannel 4's midday news summary.
-OL,14,G1210FNarrow Escapes
-OL,15,     GSeries that meets people who call
-OL,16,     Gour canal network home. Paul and
-OL,17,     GChris take their floating
-OL,18,     Gpizzeria through the Peaks, while
-OL,19,     Gsolo boater Emma embarks on an
-OL,20,     Gepic adventure.
+OL,4,G1205FChannel 4 News Summary
+OL,5,     GChannel 4's midday news summary.
+OL,6,G1210FNarrow Escapes
+OL,7,     GSeries that meets people who call
+OL,8,     Gour canal network home. Paul and
+OL,9,     GChris take their floating
+OL,10,     Gpizzeria through the Peaks, while
+OL,11,     Gsolo boater Emma embarks on an
+OL,12,     Gepic adventure.
+OL,13,G1310FFind It, Fix It, Flog It
+OL,14,     GSimon O'Brien and Henry Cole
+OL,15,     Gvisit Witney in Oxfordshire,
+OL,16,     Gwhere Henry discovers a tractor
+OL,17,     Gthat hasn't run for years - but
+OL,18,     Git's no problem for restorer
+OL,19,     GAlan, the mechanical medic.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -495,29 +496,27 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 SEP
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss the
-OL,6,     Glatest news and get your views
-OL,7,     Gand opinions of the day.
-OL,8,G1130FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories of
-OL,12,     Gthe day.
-OL,13,G1245FFriends
-OL,14,     GAfter Ross wakes up to find Chloe
-OL,15,     Gin bed with him, Rachel arrives
-OL,16,     Gto tell him how much she loves
-OL,17,     Ghim.
-OL,18,G1310FFriends
-OL,19,     GRoss and Rachel avoid each other,
-OL,20,     Gforcing their friends to choose
-OL,21,     Gbetween them.
+OL,4,G1130FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories of
+OL,8,     Gthe day.
+OL,9,G1245FFriends
+OL,10,     GAfter Ross wakes up to find Chloe
+OL,11,     Gin bed with him, Rachel arrives
+OL,12,     Gto tell him how much she loves
+OL,13,     Ghim.
+OL,14,G1310FFriends
+OL,15,     GRoss and Rachel avoid each other,
+OL,16,     Gforcing their friends to choose
+OL,17,     Gbetween them.
+OL,18,G1340F5 News at Lunchtime
+OL,19,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -525,27 +524,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1725876397
+OL,0,        ECIMSBWebfax     F498A1725880004
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 SEP
-OL,4,G0945FMy Man Godfrey
-OL,5,     G1936. Drama. Directed by Gregory
-OL,6,     GLa Cava. Stars William Powell,
-OL,7,     GCarol Lombard & Alice Brady. An
-OL,8,     Geccentric socialite hires a
-OL,9,     Gdrifter as a family butler, but
-OL,10,     Gthere's more to him than meets
-OL,11,     Gthe eye.
-OL,12,G1135FThe Outer Limits
-OL,13,     GDemon With A Glass Hand. 1964.
-OL,14,     GStars Robert Culp, Arlene Martel
-OL,15,     G& Abraham Sofaer. Pursued by
-OL,16,     Galiens, a man from the future
-OL,17,     Gescapes back in time, with the
-OL,18,     Gfate of humankind lying in his
-OL,19,     Gglass hand.
+OL,4,G1135FThe Outer Limits
+OL,5,     GDemon With A Glass Hand. 1964.
+OL,6,     GStars Robert Culp, Arlene Martel
+OL,7,     G& Abraham Sofaer. Pursued by
+OL,8,     Galiens, a man from the future
+OL,9,     Gescapes back in time, with the
+OL,10,     Gfate of humankind lying in his
+OL,11,     Gglass hand.
+OL,12,G1240FLook At Life A Load of Pheasants
+OL,13,     G1969. A look at intercontinental
+OL,14,     Gdeliveries by lorries that travel
+OL,15,     Gthrough Britain's ferry ports and
+OL,16,     Gthe problems faced, with a focus
+OL,17,     Gon the journey of a lorry driver
+OL,18,     Gdelivering pheasants abroad.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
