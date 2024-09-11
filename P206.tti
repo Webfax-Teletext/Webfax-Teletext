@@ -1,54 +1,42 @@
 PN,20601
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F206A1726010611
+OL,0,        ECIMSBWebfax     F206A1726014216
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/2
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 10 SEP
-OL,4,G0000FNewsday
-OL,5,     GLive from Singapore, the latest
-OL,6,     Ginternational news from the BBC.
-OL,7,G0030FBusiness Today
-OL,8,     GBringing the latest business news
-OL,9,     Gand up-to-date informed analysis
-OL,10,     Gfrom Singapore and around the
-OL,11,     Gworld.
-OL,12,G0045FSportsday
-OL,13,     GA round-up of the day's sporting
-OL,14,     Gaction, plus talking points,
-OL,15,     Ganalysis and original journalism.
-OL,16,G0100FUS Presidential Debate: Build-up
-OL,17,     GThe latest news from the BBC with
-OL,18,     Gbuild-up to the ABC News
-OL,19,     GPresidential Debate simulcast.
+OL,4,G0100FUS Presidential Debate: Build-up
+OL,5,     GThe latest news from the BBC with
+OL,6,     Gbuild-up to the ABC News
+OL,7,     GPresidential Debate simulcast.
+OL,8,G0200FABC News Presidential Debate
+OL,9,     FSimulcast
+OL,10,     GPresidential debate between
+OL,11,     Gcandidates Kamala Harris and
+OL,12,     GDonald Trump in Philadelphia,
+OL,13,     GPennsylvania.
+OL,14,G0330FUS Presidential Debate: Analysis
+OL,15,     GThe latest news from the BBC with
+OL,16,     Ganalysis of the ABC News
+OL,17,     GPresidential Debate simulcast.
+OL,18,G0500FBBC News
+OL,19,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,000,100
 PN,20602
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F206A1726010611
+OL,0,        ECIMSBWebfax     F206A1726014216
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/2
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 10 SEP
-OL,4,G0200FABC News Presidential Debate
-OL,5,     FSimulcast
-OL,6,     GPresidential debate between
-OL,7,     Gcandidates Kamala Harris and
-OL,8,     GDonald Trump in Philadelphia,
-OL,9,     GPennsylvania.
-OL,10,G0330FUS Presidential Debate: Analysis
-OL,11,     GThe latest news from the BBC with
-OL,12,     Ganalysis of the ABC News
-OL,13,     GPresidential Debate simulcast.
-OL,14,G0500FBBC News
-OL,15,     GThe latest news from the BBC.
-OL,16,G0530FBusiness Today
-OL,17,     GBringing the latest business news
-OL,18,     Gand up-to-date informed analysis
-OL,19,     Gfrom London and around the world.
+OL,4,G0530FBusiness Today
+OL,5,     GBringing the latest business news
+OL,6,     Gand up-to-date informed analysis
+OL,7,     Gfrom London and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,000,100
