@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -73,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -132,15 +132,17 @@ OL,4,                      R~3!
 OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
-OL,8,G371F'Burn until your skin is no more':
-OL,9,FMan who threatened MP Jess Phillips
-OL,10,Fjailed
-OL,12,G372FCritical incident declared at
-OL,13,FNottingham hospitals after IT failure
-OL,15,G373FThree arrested after fight at
-OL,16,Funder-10s football match
-OL,18,G374FMan appears in court charged with
-OL,19,Fmurder after fatal house fire
+OL,8,G371FNo money for pencils and glue
+OL,9,Fsticks- school finance manager steals
+OL,10,F#70k
+OL,12,G372FPensioners in Staffordshire angry
+OL,13,Fwith changes to the winter fuel
+OL,14,Fallowance
+OL,16,G373F'Burn until your skin is no more':
+OL,17,FMan who threatened MP Jess Phillips
+OL,18,Fjailed
+OL,20,G374FCritical incident declared at
+OL,21,FNottingham hospitals after IT failure
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -148,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -156,17 +158,16 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381FThink tank calls for homes to be
-OL,9,Fbuilt for UK 'tax migrants'
-OL,11,G382FGuernsey politician 'cannot' rule
-OL,12,Fout fare rises as new bus operator
-OL,13,Fannounced
-OL,15,G383FHow to watch training sessions of
-OL,16,Frugby world champions South Africa
-OL,18,G384FMan, 61, avoids jail after guilty
-OL,19,Fplea for ten assaults of woman
-OL,21,G385FExtreme weather shuts Jersey
-OL,22,Fsupermarket and sees college flooded
+OL,8,G381FJersey's Health Minister
+OL,9,F'cautiously optimistic' about new
+OL,10,Fhospital plans
+OL,12,G382FThink tank calls for homes to be
+OL,13,Fbuilt for UK 'tax migrants'
+OL,15,G383FGuernsey politician 'cannot' rule
+OL,16,Fout fare rises as new bus operator
+OL,17,Fannounced
+OL,19,G384FHow to watch training sessions of
+OL,20,Frugby world champions South Africa
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -174,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -199,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -225,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -233,16 +234,16 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FPlea for public to help control
-OL,9,FAsian hornets after record sightings
-OL,11,G412FDeath of soldier found in river
-OL,12,Fwas an accident, inquest rules
-OL,14,G413FCoroner says The Jeremy Kyle Show
-OL,15,Fnot to blame for Steve Dymond death
-OL,17,G414FMum just wanted to save her kids
-OL,18,Fas car ploughs into house as they slept
-OL,20,G415FSeverely autistic 4-year-old left
-OL,21,Fwithout suitable school place
+OL,8,G411FLou-Lou the horse 'had a mare'
+OL,9,Fafter getting stuck in river bed
+OL,11,G412FRebuild begins after gas explosion
+OL,12,Fdestroyed four homes
+OL,14,G413FStatins 'increase quality of life'
+OL,15,Ffor over-70s, new study finds
+OL,17,G414FPlea for public to help control
+OL,18,FAsian hornets after record sightings
+OL,20,G415FDeath of soldier found in river
+OL,21,Fwas an accident, inquest rules
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -250,7 +251,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -258,17 +259,17 @@ OL,4,                             R"{4
 OL,5,BThe latest updates from      R?}
 OL,6,BITV News Tyne Tees            Rt
 OL,7,                               R*'#/'#
-OL,8,G421FMan arrested in connection with
-OL,9,Ftwo reported rapes in alleyway
-OL,11,G422FHow Capability Brown's roots
-OL,12,Fshaped landscapes across England
-OL,14,G423FZoo 'hits different' as Gen Z-
-OL,15,Fslang video is viewed millions of times
-OL,17,G424FSelf-confessed rapist who stabbed
-OL,18,Fwoman 60 times cleared for release
-OL,19,Ffrom prison
-OL,21,G425FGreat North Run organisers 'deeply
-OL,22,Fsaddened' after 29-year-old man's death
+OL,8,G421FTwo women sexually assaulted in
+OL,9,FStockton
+OL,11,G422FMan arrested in connection with
+OL,12,Ftwo reported rapes in alleyway
+OL,14,G423FHow Capability Brown's roots
+OL,15,Fshaped landscapes across England
+OL,17,G424FZoo 'hits different' as Gen Z-
+OL,18,Fslang video is viewed millions of times
+OL,20,G425FSelf-confessed rapist who stabbed
+OL,21,Fwoman 60 times cleared for release
+OL,22,Ffrom prison
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -276,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -303,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -327,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -335,16 +336,16 @@ OL,4,                      R G    R z4
 OL,5,BThe latest updates fromG  R`|u
 OL,6,BITV News Wales         G  R +';o/
 OL,7,                        G      R"#
-OL,8,G461F'My gorgeous boy with his shining
-OL,9,Fblue eyes was gone': A mum's personal
-OL,10,Fmission
-OL,12,G462F'You can't get people like Welsh
-OL,13,Fpeople': Lady Leshurr on performing in
-OL,14,FWales
-OL,16,G463FTeachers and NHS staff to receive
-OL,17,Fpay rise, First Minister announces
-OL,19,G464F31 charged after large scale riots
-OL,20,Fin Ely
+OL,8,G461FGovernment set to announce details
+OL,9,Fof package to help Tata Steel plant
+OL,11,G462FNew First Minister rumoured to
+OL,12,Fannounce Welsh Government cabinet
+OL,14,G463F'My gorgeous boy with his shining
+OL,15,Fblue eyes was gone': A mum's personal
+OL,16,Fmission
+OL,18,G464F'You can't get people like Welsh
+OL,19,Fpeople': Lady Leshurr on performing in
+OL,20,FWales
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -352,7 +353,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -377,7 +378,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -404,30 +405,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 11 SEP
-OL,4,G0715FAntiques Road Trip
-OL,5,     GIt's the second leg of a very
-OL,6,     Gfriendly road trip with Ishy Khan
-OL,7,     Gand Irita Marriott, now heading
-OL,8,     Gto the Kent coastline in their
-OL,9,     Gsporty 1971 Sunbeam Rapier.
-OL,10,G0800FBig Little Crimes
-OL,11,     GA seemingly accidental house fire
-OL,12,     Gleads detectives to snare a
-OL,13,     Gkiller. And a van pulled over for
-OL,14,     Ghaving a cracked windscreen turns
-OL,15,     Gout to contain a massive cannabis
-OL,16,     Gstash.
-OL,17,G0830FOur Lives
-OL,18,     GTwo friends take on a journey to
-OL,19,     GScotland's remotest pub,
-OL,20,     Ginterwoven with stories from some
-OL,21,     Gof the residents of the magical
-OL,22,     GKnoydart peninsula.
+OL,4,G0800FBig Little Crimes
+OL,5,     GA seemingly accidental house fire
+OL,6,     Gleads detectives to snare a
+OL,7,     Gkiller. And a van pulled over for
+OL,8,     Ghaving a cracked windscreen turns
+OL,9,     Gout to contain a massive cannabis
+OL,10,     Gstash.
+OL,11,G0830FOur Lives
+OL,12,     GTwo friends take on a journey to
+OL,13,     GScotland's remotest pub,
+OL,14,     Ginterwoven with stories from some
+OL,15,     Gof the residents of the magical
+OL,16,     GKnoydart peninsula.
+OL,17,G0900FBBC News
+OL,18,G1115FPolitics Live
+OL,19,     GThe big political issues of the
+OL,20,     Gday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -435,7 +434,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -460,29 +459,30 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 11 SEP
-OL,4,G0720FEverybody Loves Raymond
-OL,5,     GThe Kicker: While enjoying a
-OL,6,     Gcollege football game, Frank
-OL,7,     Gcatches a ball from a record-
-OL,8,     Gsetting field goal. But when he
-OL,9,     Grefuses to give it back, he
-OL,10,     Gbecomes a wanted man.
-OL,11,G0745FEverybody Loves Raymond
-OL,12,     GSeason's Greetings: Marie is
-OL,13,     Gjealous when she receives a
-OL,14,     Gletter from a relative saying how
-OL,15,     Gwonderful her life is.
-OL,16,G0810FEverybody Loves Raymond
-OL,17,     GTissues: When Debra grudgingly
-OL,18,     Gagrees to let Ray be more
-OL,19,     Ginvolved in the daily decision-
-OL,20,     Gmaking, he starts shopping for
-OL,21,     Gthings that he wants.
+OL,4,G0810FEverybody Loves Raymond
+OL,5,     GTissues: When Debra grudgingly
+OL,6,     Gagrees to let Ray be more
+OL,7,     Ginvolved in the daily decision-
+OL,8,     Gmaking, he starts shopping for
+OL,9,     Gthings that he wants.
+OL,10,G0835FEverybody Loves Raymond
+OL,11,     GSnow Day: Stuck at Frank and
+OL,12,     GMarie's during a snowstorm,
+OL,13,     GDebra, Ray and Amy find
+OL,14,     Gthemselves having a great time -
+OL,15,     Guntil Debra makes a nasty comment
+OL,16,     Gtowards Frank.
+OL,17,G0905FFrasier
+OL,18,     GTravels with Martin: Frasier,
+OL,19,     GNiles, Martin and Daphne go on an
+OL,20,     Goutrageous road trip, which
+OL,21,     Galmost leads to disaster for
+OL,22,     GDaphne.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -490,25 +490,28 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 11 SEP
-OL,4,G0715FPAW Patrol
-OL,5,     GA bumpy road causes Mr Porter's
-OL,6,     Gfamous fizzy pickle jars to pop!
-OL,7,G0730FPip and Posy
-OL,8,     GPip and Posy make Zac a mermaid's
-OL,9,     Gtail made out of sand, adding
-OL,10,     Gpebble and leaf decorations. When
-OL,11,     GPosy's leaves go missing, she
-OL,12,     Gaccuses Pip of taking them.
-OL,13,G0735FThe Adventures of Paddington
-OL,14,     GPaddington and the Browns rescue
-OL,15,     GPufflings who instead of taking
-OL,16,     Gtheir first flight, get lost
-OL,17,     Garound the campsite.
+OL,4,G0810FPaw Patrol
+OL,5,     GEverybody loves Helga Humdinger's
+OL,6,     GHummy Gummy treats, causing Mayor
+OL,7,     GHumdinger to get jealous and
+OL,8,     Gsteal them all.
+OL,9,G0825FPeppa Pig
+OL,10,     GPeppa and George dance to jukebox
+OL,11,     Gmusic.
+OL,12,G0830FPeppa Pig
+OL,13,     GMadame Gazelle tells the children
+OL,14,     Gall about wind power. Then Mr
+OL,15,     GBull makes have a lovely cup of
+OL,16,     Gtea made from wind power!
+OL,17,G0840FPeppa Pig
+OL,18,     GOn her birthday, Mandy visits a
+OL,19,     Gcheese theme park with Peppa and
+OL,20,     Gher friends.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -516,7 +519,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726035846
+OL,0,        ECIMSBWebfax     F498A1726039453
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
