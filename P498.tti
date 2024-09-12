@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,24 +50,24 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302F'It looks like a perfect world':
-OL,9,FWorld's first private spacewalk
-OL,10,Fcompleted
+OL,8,G302FGovernment promises to deliver
+OL,9,Fredress to subpostmasters amid
+OL,10,Fcriticism
 OL,12,G303FWho is Jared Isaacman? The tech
 OL,13,Fbillionaire behind the historic
 OL,14,Fspacewalk
-OL,16,G304FNHS in 'critical condition' major
-OL,17,Freport warns as Starmer promises reform
-OL,19,G305FFamily of NI mum who died of
-OL,20,Fcancer after 'misread' test join calls
-OL,21,Ffor inquiry
+OL,16,G304F'It looks like a perfect world':
+OL,17,FWorld's first private spacewalk
+OL,18,Fcompleted
+OL,20,G305FNHS in 'critical condition' major
+OL,21,Freport warns as Starmer promises reform
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -85,8 +85,8 @@ OL,6,BITV News Border        G G    R*?5
 OL,7,                         G      R!"#!
 OL,8,G351FCarlisle United agree deal for new
 OL,9,Ftraining facility
-OL,11,G352FA75 closed in both directions
-OL,12,Ffollowing lorry crash near Eastriggs
+OL,11,G352FA75 reopened following lorry crash
+OL,12,Fnear Eastriggs
 OL,14,G353FMulti-million pound indoor tennis
 OL,15,Ffacility set to be built in Dumfries
 OL,17,G354F17-year-old airlifted to hospital
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -127,7 +127,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -135,15 +135,17 @@ OL,4,                      R~3!
 OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
-OL,8,G371F'Justice for Maddy': Footballer
-OL,9,Ffamily's 'despair' on answers over her
-OL,10,Fdeath
-OL,12,G372FTrams to Goose Fair Festival under
-OL,13,Fthreat under union's planned strikes
-OL,15,G373FPolicing Minister's handbag stolen
-OL,16,Fat senior police officers' conference
-OL,18,G374FJLR worker who killed boy, 12, in
-OL,19,Fhit-and-run changes plea to guilty
+OL,8,G371FJLR worker who killed boy, 12, in
+OL,9,Fhit-and-run changes plea to guilty
+OL,11,G372F'Justice for Maddy': Footballer
+OL,12,Ffamily's 'despair' on answers over her
+OL,13,Fdeath
+OL,15,G373FPrince William congratulates new
+OL,16,Fofficers at RAF Cranfield
+OL,18,G374FTrams to Goose Fair Festival under
+OL,19,Fthreat under union's planned strikes
+OL,21,G375FPolicing Minister's handbag stolen
+OL,22,Fat senior police officers' conference
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -151,7 +153,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +179,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -203,7 +205,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -229,7 +231,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -254,7 +256,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -280,7 +282,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -306,7 +308,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -332,7 +334,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -359,7 +361,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -384,25 +386,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 12 SEP
-OL,4,G2100FWho Do You Think You Are?
-OL,5,     GJessica Ennis-Hill discovers the
-OL,6,     Gtruth behind a family mystery and
-OL,7,     Gfinds out about her Jamaican four-
-OL,8,     Gtime great-grandfather's journey
-OL,9,     Gfrom enslavement to land
-OL,10,     Gownership.
-OL,11,G2200FBBC News and Weather
-OL,12,G2230FRegional News
-OL,13,G2240FHell Jumper: Love Under Fire
-OL,14,     GCourage, love and loss among
-OL,15,     Gyoung people saving lives in
-OL,16,     GUkraine's most dangerous towns.
-OL,17,     GContains strong language.
+OL,4,G2230FRegional News
+OL,5,G2240FHell Jumper: Love Under Fire
+OL,6,     GCourage, love and loss among
+OL,7,     Gyoung people saving lives in
+OL,8,     GUkraine's most dangerous towns.
+OL,9,     GContains strong language.
+OL,10,G0010FIn My Own Words: Alison Lapper
+OL,11,     GAlison Lapper - an artist, a muse
+OL,12,     Gand a mother - explores her life
+OL,13,     Gthrough art and archive in this
+OL,14,     Gvisually rich and emotionally
+OL,15,     Gintimate documentary. Deals with
+OL,16,     Gadult themes.
+OL,17,G0055FWeather for the Week Ahead
+OL,18,G0100FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -410,28 +413,27 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 12 SEP
-OL,4,G2100FInside the Factory
-OL,5,     GGregg Wallace visits two
-OL,6,     Gfactories in Italy and Wales to
-OL,7,     Glearn how denim cloth is made and
-OL,8,     Gthen transformed into one of the
-OL,9,     Gworld's most popular items of
-OL,10,     Gclothing - jeans.
-OL,11,G2200FCouples Therapy
-OL,12,     GAryn doesn't understand why Josh
-OL,13,     Gisn't excited about her new job.
-OL,14,     GContains some strong language.
-OL,15,G2230FNewsnight
-OL,16,G2300FWeather
-OL,17,G2305FBelle
-OL,18,     GFilm drama, set in late 1700s
-OL,19,     GLondon, inspired by the true
-OL,20,     Gstory of Dido Elizabeth Belle.
+OL,4,G2230FNewsnight
+OL,5,G2300FWeather
+OL,6,G2305FBelle
+OL,7,     GFilm drama, set in late 1700s
+OL,8,     GLondon, inspired by the true
+OL,9,     Gstory of Dido Elizabeth Belle.
+OL,10,G0045FCelebrity MasterChef
+OL,11,     GHeat four reaches its climax,
+OL,12,     Gwith the very last quarter-final,
+OL,13,     Gfeaturing the week's three best
+OL,14,     Gcelebrity cooks.
+OL,15,G0115FSaving Lives in Cardiff
+OL,16,     GTwo surgeons team up to rebuild a
+OL,17,     G19-year-old's face after removing
+OL,18,     Ga tumour. Contains graphic
+OL,19,     Gmedical scenes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -439,26 +441,25 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 12 SEP
-OL,4,G2100FUnbelievable Moments: Caught On
-OL,5,     FCamera
-OL,6,     GDocumentary series. A kayaker
-OL,7,     Ggets trapped behind a waterfall
-OL,8,     Gin Mexico, and world champion
-OL,9,     Gcyclist Gee Atherton recalls a
-OL,10,     Gfall from a mountain in Wales.
-OL,11,G2200FITV News at Ten
-OL,12,G2230FRegional News
-OL,13,G2245FMr Bates vs The Post Office
-OL,14,     GThe Impact. Former subpostmasters
-OL,15,     Gportrayed in the drama Mr Bates
-OL,16,     Gvs The Post Office describe its
-OL,17,     Gimpact while others tell their
-OL,18,     Gstories for the first time.
+OL,4,G2230FRegional News
+OL,5,G2245FMr Bates vs The Post Office
+OL,6,     GThe Impact. Former subpostmasters
+OL,7,     Gportrayed in the drama Mr Bates
+OL,8,     Gvs The Post Office describe its
+OL,9,     Gimpact while others tell their
+OL,10,     Gstories for the first time.
+OL,11,G2340FOlivia Attwood's Bad Boyfriends
+OL,12,     GReality series. A tattoo Sam gets
+OL,13,     Gfor Jordi backfires, the couples
+OL,14,     Ggo on romantic dates to see how
+OL,15,     Gfar they've come, and Ruben and
+OL,16,     GLiily are at breaking point.
+OL,17,G0030FShop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -466,52 +467,53 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 12 SEP
-OL,4,G2100FTaskmaster
-OL,5,     GAndy Zaltzman, Babatunde Aleshe,
-OL,6,     GEmma Sidi, Jack Dee and Rosie
-OL,7,     GJones search for a seal, hurl
-OL,8,     Gyoga balls in a theme park and
-OL,9,     Gforce-feed Little Alex Horne a
-OL,10,     Gbowlful of bubblegum.
-OL,11,G2200FRamsay's Kitchen...
-OL,12,     GNightmares USA - Juicy Box:
-OL,13,     GGordon helps a Haitian juice bar
-OL,14,     Gin Brooklyn. Jacques opened the
-OL,15,     GJuicy Box to give healthier
-OL,16,     Goptions to the neighbourhood but
-OL,17,     Git's fallen into chaos.
+OL,4,G2200FRamsay's Kitchen...
+OL,5,     GNightmares USA - Juicy Box:
+OL,6,     GGordon helps a Haitian juice bar
+OL,7,     Gin Brooklyn. Jacques opened the
+OL,8,     GJuicy Box to give healthier
+OL,9,     Goptions to the neighbourhood but
+OL,10,     Git's fallen into chaos.
+OL,11,G2300FGogglebox
+OL,12,     GOn the box this time: Love Is
+OL,13,     GBlind, Starstruck, Cheaters,
+OL,14,     GCelebrity Help! My House Is
+OL,15,     GHaunted, Bradley & Barney Walsh:
+OL,16,     GBreaking Dad, and Teen First
+OL,17,     GDates.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
-OL,26,@mD@XrpmD@ZrzmD@]rrmD@arrmD@drr
 PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 12 SEP
-OL,4,G2100FThe Teacher
-OL,5,     GConclusion of the powerful drama
-OL,6,     Gstarring Kara Tointon and Will
-OL,7,     GMellor. A sudden realisation
-OL,8,     Gleads Dani to a momentous
-OL,9,     Gconfrontation and the revelation
-OL,10,     Gof hard truths.
-OL,11,G2200FCasualty 24/7: Every Second Counts
-OL,12,     GIt's another busy day for the
-OL,13,     Gcasualty team with patient
-OL,14,     Gnumbers unusually high. Sister
-OL,15,     GRachel is running the shift, and
-OL,16,     Gshe's under pressure with a
-OL,17,     Gshortage of cubicles.
+OL,4,G2200FCasualty 24/7: Every Second Counts
+OL,5,     GIt's another busy day for the
+OL,6,     Gcasualty team with patient
+OL,7,     Gnumbers unusually high. Sister
+OL,8,     GRachel is running the shift, and
+OL,9,     Gshe's under pressure with a
+OL,10,     Gshortage of cubicles.
+OL,11,G2305FMTV Video Music Awards
+OL,12,     GMegan Thee Stallion hosts the
+OL,13,     GVMAs from UBS Arena, New York
+OL,14,     Gwith performances from artists
+OL,15,     Gincluding Katy Perry, Benson
+OL,16,     GBoone, GloRilla, Lenny Kravitz,
+OL,17,     GRauw Alejandro and Sabrina
+OL,18,     GCarpenter.
+OL,19,G0100FPlayOJO Live Casino Show
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -519,30 +521,25 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1726173592
+OL,0,        ECIMSBWebfax     F498A1726177197
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 12 SEP
-OL,4,G2105FVan der Valk
-OL,5,     GDiane. Stars Barry Foster, Joanna
-OL,6,     GDunham & Nigel Stock. When a
-OL,7,     Gwoman tries to bury her past, it
-OL,8,     Govertakes her in Amsterdam.
-OL,9,G2210FShe Played with Fire
-OL,10,     G1958. Drama. Directed by Sidney
-OL,11,     GGilliat. Stars Jack Hawkins, Ian
-OL,12,     GHunter, Arlene Dahl & Dennis
-OL,13,     GPrice. An investigator finds
-OL,14,     Ghimself involved in blackmail and
-OL,15,     Gmurder after running into his ex.
-OL,16,G0005FTimeslip
-OL,17,     G1955. Crime. Directed by Ken
-OL,18,     GHughes. Stars Gene Nelson, Faith
-OL,19,     GDomergue & Joseph Tomelty. A body
-OL,20,     Gis recovered from the Thames and
-OL,21,     Greporter, Delaney, identifies the
-OL,22,     Gman as being a nuclear physicist.
+OL,4,G2210FShe Played with Fire
+OL,5,     G1958. Drama. Directed by Sidney
+OL,6,     GGilliat. Stars Jack Hawkins, Ian
+OL,7,     GHunter, Arlene Dahl & Dennis
+OL,8,     GPrice. An investigator finds
+OL,9,     Ghimself involved in blackmail and
+OL,10,     Gmurder after running into his ex.
+OL,11,G0005FTimeslip
+OL,12,     G1955. Crime. Directed by Ken
+OL,13,     GHughes. Stars Gene Nelson, Faith
+OL,14,     GDomergue & Joseph Tomelty. A body
+OL,15,     Gis recovered from the Thames and
+OL,16,     Greporter, Delaney, identifies the
+OL,17,     Gman as being a nuclear physicist.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
