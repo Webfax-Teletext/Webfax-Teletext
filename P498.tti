@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,23 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302F'Get out of the way' Netanyahu
-OL,9,Fwarns Lebanon as 350 killed in Israeli
-OL,10,Fstrikes
-OL,12,G303FReeves pledges to 'tear down'
-OL,13,Fbarrier to investment
-OL,15,G304FWhy was a round-the-world cruise
-OL,16,Fship stuck in Belfast for three months?
-OL,18,G305FFlash flooding warning as month's
-OL,19,Fworth of rain could fall on parts of
-OL,20,FBritain
+OL,8,G302FFlash flooding warning as month's
+OL,9,Fworth of rain could fall on parts of
+OL,10,FBritain
+OL,12,G303F'Get out of the way' Netanyahu
+OL,13,Fwarns Lebanon as 350 killed in Israeli
+OL,14,Fstrikes
+OL,16,G304FReeves pledges to 'tear down'
+OL,17,Fbarrier to investment
+OL,19,G305FWhy was a round-the-world cruise
+OL,20,Fship stuck in Belfast for three months?
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -158,17 +158,16 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381FGuernsey footballer Maya Le
-OL,9,FTissier captains Manchester United for
-OL,10,Ffirst time
-OL,12,G382FNew blood test helps reduce carbon
-OL,13,F'hoofprint' of 'gassy' cow herds
-OL,15,G383FCouple raise #83,000 travelling to
-OL,16,Fevery RNLI station in a Porsche
-OL,18,G384FFinal swim of Jersey Swimming
-OL,19,FClub's open water festival
-OL,21,G385FJersey's first tattoo convention
-OL,22,Fin full swing
+OL,8,G381FMaya Le Tissier captains first
+OL,9,FManchester United match
+OL,11,G382FNew blood test helps reduce carbon
+OL,12,F'hoofprint' of 'gassy' cow herds
+OL,14,G383FCouple raise #83,000 travelling to
+OL,15,Fevery RNLI station in a Porsche
+OL,17,G384FFinal swim of Jersey Swimming
+OL,18,FClub's open water festival
+OL,20,G385FJersey's first tattoo convention
+OL,21,Fin full swing
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -176,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -202,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -213,14 +212,14 @@ OL,7,                         G    R# "
 OL,8,G401FPride of Britain London winner: A
 OL,9,Ffather's promise to honour his son's
 OL,10,Flegacy
-OL,12,G402FTeenage boy stabbed to death in
-OL,13,FWoolwich
-OL,15,G403FTfL's income from fining drivers
-OL,16,Fon major roads jumps 57% in five years
-OL,18,G404FRowers take part in annual Great
-OL,19,FRiver Race along the Thames
-OL,21,G405FLondon university beats Oxbridge
-OL,22,Ffor top spot
+OL,12,G402FSinkhole at AFC Wimbledon destroys
+OL,13,Fpitch after 'extensive' flooding
+OL,15,G403FTeenage boy stabbed to death in
+OL,16,FWoolwich
+OL,18,G404FTfL's income from fining drivers
+OL,19,Fon major roads jumps 57% in five years
+OL,21,G405FRowers take part in annual Great
+OL,22,FRiver Race along the Thames
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -228,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -253,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -278,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -302,7 +301,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +327,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -353,7 +352,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -378,30 +377,30 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 SEP
-OL,4,G2100FNightsleeper
-OL,5,     GWith the entire network now out
-OL,6,     Gof control, Abby starts to doubt
-OL,7,     Geveryone around her too. Contains
-OL,8,     Gsome strong language.
-OL,9,G2200FBBC News and Weather
-OL,10,G2230FRegional News
-OL,11,G2240FIn My Own Words: Jackie Kay
-OL,12,     GOne of Britian's most loved
-OL,13,     Gpoets, Jackie Kay, on how her
-OL,14,     Gpowerful work draws from her
-OL,15,     Glife's journey, considering race,
-OL,16,     Ggender and identity with
-OL,17,     Gtenderness and humour.
-OL,18,G2325FHave I Got News for You
-OL,19,     GSteph McGovern is host, with
-OL,20,     Gpanellists Carol Vorderman and
-OL,21,     Gcomedian Nabil Abdulrashid.
-OL,22,     GContains some strong language.
+OL,4,G2240FIn My Own Words: Jackie Kay
+OL,5,     GOne of Britian's most loved
+OL,6,     Gpoets, Jackie Kay, on how her
+OL,7,     Gpowerful work draws from her
+OL,8,     Glife's journey, considering race,
+OL,9,     Ggender and identity with
+OL,10,     Gtenderness and humour.
+OL,11,G2325FHave I Got News for You
+OL,12,     GSteph McGovern is host, with
+OL,13,     Gpanellists Carol Vorderman and
+OL,14,     Gcomedian Nabil Abdulrashid.
+OL,15,     GContains some strong language.
+OL,16,G2355FThe Repair Shop
+OL,17,     GA farming family's butter churn
+OL,18,     Gand a fire-damaged teddy bear are
+OL,19,     Ggiven new life, and a guitar amp
+OL,20,     Gat the centre of Derry's punk
+OL,21,     Gscene in the 1970s is ready to
+OL,22,     Groar again.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -409,30 +408,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 SEP
-OL,4,G2100FMozart: Rise of a Genius
-OL,5,     GMozart leaves small town life
-OL,6,     Gbehind and becomes the toast of
-OL,7,     GVienna. Contains some strong
-OL,8,     Glanguage.
-OL,9,G2200FWe Might Regret This
-OL,10,     GIt's the anniversary of Sam's
-OL,11,     Gdeath, and Freya wants to help
-OL,12,     GAbe with the annual party.
-OL,13,     GContains strong language and
-OL,14,     Gadult humour.
-OL,15,G2225FLaugh Lessons
-OL,16,     GEhiz, one of the UK's biggest
-OL,17,     Gsocial media stars, breaks down
-OL,18,     Ghis own experiences of toxic
-OL,19,     Gmasculinity in this sick grime
-OL,20,     Gtrack.
-OL,21,G2230FNewsnight
-OL,22,G2300FWeather
+OL,4,G2230FNewsnight
+OL,5,G2300FWeather
+OL,6,G2305FThe Zelensky Story
+OL,7,     GThe Zelenskys reveal the
+OL,8,     Gtransformative impact of the
+OL,9,     GRussian invasion on their lives.
+OL,10,     GContains scenes which some
+OL,11,     Gviewers may find upsetting.
+OL,12,G0005FCountryfile
+OL,13,     GCharlotte and Matt visit
+OL,14,     GSalisbury Plain.
+OL,15,G0100FCelebrity MasterChef
+OL,16,     GIt's Finals Week and five
+OL,17,     Gcelebrities are within touching
+OL,18,     Gdistance of the trophy. But to
+OL,19,     Gmake it to the top, they will
+OL,20,     Gneed determination, bravery and
+OL,21,     Goutstanding cookery.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -440,27 +438,26 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 SEP
-OL,4,G2100FMy Mum, Your Dad
-OL,5,     GRelationship show. One couple
-OL,6,     Ggets closer as another hits a
-OL,7,     Gbump in the road, a seaside date
-OL,8,     Gfeatures some intervention from
-OL,9,     Gthe kids, and a game of truths
-OL,10,     Gunites the parents.
-OL,11,G2200FITV News at Ten
-OL,12,G2230FRegional News
-OL,13,G2245FPassword
-OL,14,     GStephen Mangan hosts the word-
-OL,15,     Gbased gameshow as team captains
-OL,16,     GDaisy May Cooper and Alan Carr
-OL,17,     Gplay the lively guessing game
-OL,18,     Gwith contestants Jonathan and
-OL,19,     GHelen to win 10,000 pounds.
+OL,4,G2245FPassword
+OL,5,     GStephen Mangan hosts the word-
+OL,6,     Gbased gameshow as team captains
+OL,7,     GDaisy May Cooper and Alan Carr
+OL,8,     Gplay the lively guessing game
+OL,9,     Gwith contestants Jonathan and
+OL,10,     GHelen to win 10,000 pounds.
+OL,11,G2325FMy Mum, Your Dad
+OL,12,     GRelationship show. One couple
+OL,13,     Ggets closer as another hits a
+OL,14,     Gbump in the road, a seaside date
+OL,15,     Gfeatures some intervention from
+OL,16,     Gthe kids, and a game of truths
+OL,17,     Gunites the parents.
+OL,18,G0015FShop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -468,25 +465,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 SEP
-OL,4,G2100FCelebrity SAS: Who Dares Wins
-OL,5,     GThe celebs tackle terrifying
-OL,6,     Gfeats to test their discipline,
-OL,7,     Gincluding a forward abseil down a
-OL,8,     G300-foot working dam and an
-OL,9,     Galarming backwards dive in the
-OL,10,     Gdark.
-OL,11,G2200FGogglebox
-OL,12,     GThis time, the Goggleboxers
-OL,13,     Gwatched: Celebrity Race Across
-OL,14,     Gthe World; Nightsleeper; Married
-OL,15,     Gat First Sight UK; Selling
-OL,16,     GSunset; Nadiya's Cook Once, Eat
-OL,17,     GTwice and Haunted Hospitals.
+OL,4,G2200FGogglebox
+OL,5,     GThis time, the Goggleboxers
+OL,6,     Gwatched: Celebrity Race Across
+OL,7,     Gthe World; Nightsleeper; Married
+OL,8,     Gat First Sight UK; Selling
+OL,9,     GSunset; Nadiya's Cook Once, Eat
+OL,10,     GTwice and Haunted Hospitals.
+OL,11,G2305FFirst Dates
+OL,12,     GJo hasn't been chatted up in
+OL,13,     Gyears and seeks someone 'feral,
+OL,14,     Gbut not too feral'. Jewellery
+OL,15,     Gdesigner Marina is looking for a
+OL,16,     GChristian who believes in no sex
+OL,17,     Gbefore marriage.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -494,25 +491,30 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 SEP
-OL,4,G2100FThe Wives
-OL,5,     GMystery drama with Jo Joyner,
-OL,6,     GAngela Griffin and Tamzin
-OL,7,     GOuthwaite. CCTV gives an
-OL,8,     Gexplosive revelation about
-OL,9,     GAnnabelle's disappearance. Could
-OL,10,     GTom - or all the brothers - be
-OL,11,     Ginvolved?
-OL,12,G2200FThe Lie: Who Killed Rachel
-OL,13,     FO'Reilly?
-OL,14,     GThe story of how Rachel's mother
-OL,15,     Gfound her daughter's body shortly
-OL,16,     Gafter she failed to pick up her
-OL,17,     Gson from creche.
+OL,4,G2200FThe Lie: Who Killed Rachel
+OL,5,     FO'Reilly?
+OL,6,     GThe story of how Rachel's mother
+OL,7,     Gfound her daughter's body shortly
+OL,8,     Gafter she failed to pick up her
+OL,9,     Gson from creche.
+OL,10,G2355FMotorway Cops: Catching Britain's
+OL,11,     FSpeeders
+OL,12,     GNorthumbria Police deal with an
+OL,13,     Gangry van driver who has no MOT.
+OL,14,     GAnd a PC faces a suspected drug
+OL,15,     Gdriver whose vocal boyfriend
+OL,16,     Gwon't come quietly.
+OL,17,G0055FEntertainment News on 5
+OL,18,G0100FLive NFL: Monday Night Football
+OL,19,     GLive coverage of Washington
+OL,20,     GCommanders vs Cincinnati Bengals
+OL,21,     Gat Paycor Stadium, Ohio.
+OL,22,G0430FEntertainment News on 5
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -520,7 +522,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727125004
+OL,0,        ECIMSBWebfax     F498A1727128608
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
