@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -148,7 +148,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -158,14 +158,14 @@ OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
 OL,8,G381FJersey citizen stays in Lebanon
 OL,9,Fdespite warning to leave
-OL,11,G382FCost of explosion investigation
-OL,12,Fexceeds #11 million
-OL,14,G383FOccupation history brings comedian
-OL,15,FAl Murray to Guernsey
-OL,17,G384FChair of Reform Youth heckles
-OL,18,FStarmer over Gaza
-OL,20,G385FChildren's autism diagnoses in
-OL,21,FJersey rise year-on-year since 2020
+OL,11,G382FYouth speeding on the rise in
+OL,12,FJersey
+OL,14,G383FSafeguarding and costs concerns
+OL,15,Ffor next year's Island Games
+OL,17,G384FCost of explosion investigation
+OL,18,Fexceeds #11 million
+OL,20,G385FOccupation history brings comedian
+OL,21,FAl Murray to Guernsey
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -173,7 +173,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -198,7 +198,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -206,16 +206,15 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FMet officers to face misconduct
-OL,9,Fhearing over Sarah Everard case files
-OL,11,G402FConvicted killer admits murdering
-OL,12,Fand dismembering Sarah Mayhew
-OL,14,G403FMan charged with murder following
-OL,15,Ffatal stabbing of teenage boy in
-OL,16,FWoolwich
-OL,18,G404FZara Aleena's murderer refuses to
-OL,19,Fattend court over 'inappropriate
-OL,20,Frelationship'
+OL,8,G401FMother of Daejaun Campbell pays
+OL,9,Ftribute to her 'deeply loved' son
+OL,11,G402FMet officers to face misconduct
+OL,12,Fhearing over Sarah Everard case files
+OL,14,G403FConvicted killer admits murdering
+OL,15,Fand dismembering Sarah Mayhew
+OL,17,G404FMan charged with murder following
+OL,18,Ffatal stabbing of teenage boy in
+OL,19,FWoolwich
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -223,7 +222,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -249,7 +248,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -275,7 +274,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -283,16 +282,16 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FFuture of M5's Willow Man in doubt
-OL,9,Fas re-build cost could hit #1M
-OL,11,G432FTributes paid to mother-of-five
-OL,12,Fwho died after suspected liquid BBL
-OL,14,G433FKiller who fled to France after
-OL,15,Ffatal one punch attack jailed
-OL,17,G434FTrumpeter delights tourists by
-OL,18,Fplaying on top of Portuguese volcano
-OL,20,G435FBody found in search for missing
-OL,21,Fman after four charged with murder
+OL,8,G431FDoctor 'disappointed and upset' by
+OL,9,Funcertainty over new hospital
+OL,11,G432FFuture of M5's Willow Man in doubt
+OL,12,Fas re-build cost could hit #1M
+OL,14,G433FTributes paid to mother-of-five
+OL,15,Fwho died after suspected liquid BBL
+OL,17,G434FKiller who fled to France after
+OL,18,Ffatal one punch attack jailed
+OL,20,G435FTrumpeter delights tourists by
+OL,21,Fplaying on top of Portuguese volcano
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -300,7 +299,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -308,14 +307,14 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441F'Bowls saved my life' says Irish
-OL,9,Fpara bowler once housebound for three
-OL,10,Fdecades
-OL,12,G442FSchool pupils press minister for
-OL,13,FA5 upgrade to start
-OL,15,G443FFormer Taoiseach says united
-OL,16,FIreland should be more than an
-OL,17,F'aspiration'
+OL,8,G441FFormer Taoiseach says united
+OL,9,FIreland should be more than an
+OL,10,F'aspiration'
+OL,12,G442F'Bowls saved my life' says Irish
+OL,13,Fpara bowler once housebound for three
+OL,14,Fdecades
+OL,16,G443FSchool pupils press minister for
+OL,17,FA5 upgrade to start
 OL,19,G444FPrincipal gives evidence at trial
 OL,20,Fof school's welfare officer
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -325,7 +324,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -350,7 +349,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -375,29 +374,27 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 26 SEP
-OL,4,G2200FBBC News and Weather
-OL,5,G2230FRegional News
-OL,6,G2240FQuestion Time
-OL,7,     GWith Nick Thomas-Symonds, Nadhim
-OL,8,     GZahawi, Carla Denyer and Zia
-OL,9,     GYusuf.
-OL,10,G2340FNewscast
-OL,11,     GLighthearted discussion of the
-OL,12,     Gweek's political events.
-OL,13,G0010FIn My Own Words: Jackie Kay
-OL,14,     GOne of Britian's most loved
-OL,15,     Gpoets, Jackie Kay, on how her
-OL,16,     Gpowerful work draws from her
-OL,17,     Glife's journey, considering race,
-OL,18,     Ggender and identity with
-OL,19,     Gtenderness and humour.
-OL,20,G0055FWeather for the Week Ahead
-OL,21,G0100FBBC News
+OL,4,G2240FQuestion Time
+OL,5,     GWith Nick Thomas-Symonds, Nadhim
+OL,6,     GZahawi, Carla Denyer and Zia
+OL,7,     GYusuf.
+OL,8,G2340FNewscast
+OL,9,     GLighthearted discussion of the
+OL,10,     Gweek's political events.
+OL,11,G0010FIn My Own Words: Jackie Kay
+OL,12,     GOne of Britian's most loved
+OL,13,     Gpoets, Jackie Kay, on how her
+OL,14,     Gpowerful work draws from her
+OL,15,     Glife's journey, considering race,
+OL,16,     Ggender and identity with
+OL,17,     Gtenderness and humour.
+OL,18,G0055FWeather for the Week Ahead
+OL,19,G0100FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -405,29 +402,27 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 26 SEP
-OL,4,G2100FSurviving October 7th: We Will
-OL,5,     FDance Again
-OL,6,     GA glimpse into the assault on
-OL,7,     Gpartygoers at the Nova Music
-OL,8,     GFestival in Israel in 2023.
-OL,9,     GContains some strong language,
-OL,10,     Ggraphic violence and disturbing
-OL,11,     Gscenes.
-OL,12,G2230FNewsnight
-OL,13,G2300FWeather
-OL,14,G2305FCouples Therapy
-OL,15,     GCasimar is frustrated by Alexes's
-OL,16,     Glack of progress. Contains strong
-OL,17,     Glanguage.
-OL,18,G2330FCouples Therapy
-OL,19,     GWhen Alexes began pulling away,
-OL,20,     GCasimar turned to infidelity.
-OL,21,     GContains some strong language.
+OL,4,G2300FWeather
+OL,5,G2305FCouples Therapy
+OL,6,     GCasimar is frustrated by Alexes's
+OL,7,     Glack of progress. Contains strong
+OL,8,     Glanguage.
+OL,9,G2330FCouples Therapy
+OL,10,     GWhen Alexes began pulling away,
+OL,11,     GCasimar turned to infidelity.
+OL,12,     GContains some strong language.
+OL,13,G0000FCelebrity MasterChef
+OL,14,     GThis is it - the Celebrity
+OL,15,     GMasterChef 2024 final. After six
+OL,16,     Gweeks of tough competition, there
+OL,17,     Gare just three determined
+OL,18,     Gcelebrities in with a shot at
+OL,19,     Gtaking the title.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -435,29 +430,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 26 SEP
-OL,4,G2200FITV News at Ten
-OL,5,G2230FRegional News
-OL,6,G2245FGoldenEye
-OL,7,     GBond film starring Pierce Brosnan
-OL,8,     Gand Sean Bean, 1995. 007 battles
-OL,9,     Gagainst a vengeful former MI6
-OL,10,     Gagent while searching for a
-OL,11,     Gdevice that could send the world
-OL,12,     Gback to the Stone Age.
-OL,13,G0050FShop on TV
-OL,14,G0300FMy Mum, Your Dad
-OL,15,     GRelationship show. The parents
-OL,16,     Ghear how far they've come through
-OL,17,     Gtheir children's eyes in an
-OL,18,     Gemotional final workshop, and
-OL,19,     GDavina enters the Retreat to
-OL,20,     Gcheck in on proceedings.
-OL,21,G0350FUnwind with ITV
+OL,4,G2245FGoldenEye
+OL,5,     GBond film starring Pierce Brosnan
+OL,6,     Gand Sean Bean, 1995. 007 battles
+OL,7,     Gagainst a vengeful former MI6
+OL,8,     Gagent while searching for a
+OL,9,     Gdevice that could send the world
+OL,10,     Gback to the Stone Age.
+OL,11,G0050FShop on TV
+OL,12,G0300FMy Mum, Your Dad
+OL,13,     GRelationship show. The parents
+OL,14,     Ghear how far they've come through
+OL,15,     Gtheir children's eyes in an
+OL,16,     Gemotional final workshop, and
+OL,17,     GDavina enters the Retreat to
+OL,18,     Gcheck in on proceedings.
+OL,19,G0350FUnwind with ITV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -465,25 +458,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 26 SEP
-OL,4,G2200FRamsay's Kitchen...
-OL,5,     GNightmares USA - El Cantito:
-OL,6,     GGordon helps a Puerto Rican
-OL,7,     Grestaurant in New York which
-OL,8,     Gstruggled when Covid hit.
-OL,9,     GAppliances break, there are staff
-OL,10,     Gproblems... Can Gordon save it?
-OL,11,G2300FGogglebox
-OL,12,     GOn the box this time, The Late
-OL,13,     GLate Show with James Corden,
-OL,14,     GMarried at First Sight Australia,
-OL,15,     GDrawers Off, Your Honor, Million
-OL,16,     GPound Pawn, Pooch Perfect, and
-OL,17,     GStand Up & Deliver.
+OL,4,G2300FGogglebox
+OL,5,     GOn the box this time, The Late
+OL,6,     GLate Show with James Corden,
+OL,7,     GMarried at First Sight Australia,
+OL,8,     GDrawers Off, Your Honor, Million
+OL,9,     GPound Pawn, Pooch Perfect, and
+OL,10,     GStand Up & Deliver.
+OL,11,G0000FCelebrity SAS: Who Dares Wins
+OL,12,     GFifteen celebrities are about to
+OL,13,     Gbe pushed to the limit in the
+OL,14,     Gspectacular but unforgiving
+OL,15,     Glandscape of New Zealand's South
+OL,16,     GIsland, starting with an intense
+OL,17,     Grescue mission.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -491,7 +484,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -518,7 +511,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727384630
+OL,0,        ECIMSBWebfax     F498A1727388235
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
