@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,24 +50,24 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FRescue missions underway as
-OL,9,FHurricane Helene continues to batter
-OL,10,Fparts of US
-OL,12,G303FUK repeats call for ceasefire
-OL,13,Fafter Israeli air strike kills
-OL,14,FHezbollah leader
-OL,16,G304FWho was Hezbollah leader Hassan
-OL,17,FNasrallah?
-OL,19,G305F'Israeli strikes killed five
-OL,20,Fmembers of my family', says mother
-OL,21,Freturning to UK
+OL,8,G302FUK repeats call for ceasefire
+OL,9,Fafter Israeli air strike kills
+OL,10,FHezbollah leader
+OL,12,G303FThe White House backs Nasrallah's
+OL,13,Fassassination - but faces major new
+OL,14,Fquestions
+OL,16,G304FRescue missions underway as
+OL,17,FHurricane Helene continues to batter
+OL,18,Fparts of US
+OL,20,G305FWho was Hezbollah leader Hassan
+OL,21,FNasrallah?
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -83,16 +83,15 @@ OL,4,                      R    Rpz?o=
 OL,5,BThe latest updates from   Ra+$"`w
 OL,6,BITV News Border        G G    R*?5
 OL,7,                         G      R!"#!
-OL,8,G351FBorders MSP becomes deputy leader
-OL,9,Fof Scottish Conservatives
-OL,11,G352FDisruption on the M6 following
-OL,12,Fcrash
-OL,14,G353FCoal Authority rejects Cumbria
-OL,15,Fdevelopment's request for mining
-OL,16,Flicences
-OL,18,G354FPart of major road linking
-OL,19,FScotland and England to be closed for
-OL,20,Fseven nights
+OL,8,G351FLifeboat relay begins in Silloth
+OL,9,Fto celebrate 200 years of the RNLI
+OL,11,G352FBorders MSP becomes deputy leader
+OL,12,Fof Scottish Conservatives
+OL,14,G353FDisruption on the M6 following
+OL,15,Fcrash
+OL,17,G354FCoal Authority rejects Cumbria
+OL,18,Fdevelopment's request for mining
+OL,19,Flicences
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -100,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -108,16 +107,17 @@ OL,4,                          R//0
 OL,5,BThe latest updates from   R*///4
 OL,6,BITV News Calendar          R#!
 OL,7,                             R"#!
-OL,8,G361FFly infestation closes primary
-OL,9,Fschool
-OL,11,G362FYears of accounting blunders leave
-OL,12,Fpolice force with #65m blackhole
-OL,14,G363FCalls for action after stalking
-OL,15,Fsuper-complaint
-OL,17,G364FCouncil chief 'proud' of empty
-OL,18,F#50m music venue
-OL,20,G365FPartner of mum killed in fire
-OL,21,Ffaces trial on strangulation charge
+OL,8,G361FTribute to 'kindest, most caring'
+OL,9,Ffamily man killed in motorcycle
+OL,10,Faccident
+OL,12,G362FFly infestation closes primary
+OL,13,Fschool
+OL,15,G363FYears of accounting blunders leave
+OL,16,Fpolice force with #65m blackhole
+OL,18,G364FCalls for action after stalking
+OL,19,Fsuper-complaint
+OL,21,G365FCouncil chief 'proud' of empty
+OL,22,F#50m music venue
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +174,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -200,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -243,8 +243,8 @@ OL,15,G413FBosses of car crime empire brought
 OL,16,Fdown and sent to prison
 OL,18,G414FBomb disposal team explode WW1
 OL,19,Fshell in Banbury
-OL,21,G415FRail services cancelled after
-OL,22,Ftrain hits car
+OL,21,G415FRail services resume after train
+OL,22,Fhits car
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -252,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -278,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -302,7 +302,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,30 +379,25 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 SEP
-OL,4,G2230FMatch of the Day
-OL,5,     GGary Lineker introduces
-OL,6,     Ghighlights of the day's seven
-OL,7,     GPremier League games, including
-OL,8,     Gthe match between Newcastle
-OL,9,     GUnited and reigning champions
-OL,10,     GManchester City.
-OL,11,G2355FTom Brady: Man in the Arena
-OL,12,     GTom Brady balances the demands of
-OL,13,     Gleading the 'Patriots 2.0' team
-OL,14,     Gto another Super Bowl with the
-OL,15,     Gresponsibilities of being a
-OL,16,     Ghusband and father. Contains some
-OL,17,     Gstrong language.
-OL,18,G0050FTom Brady: Man in the Arena
-OL,19,     GTom Brady and Vince Wilfork look
-OL,20,     Gto reclaim the Lombardi Trophy,
-OL,21,     Ghaving failed to win a Super Bowl
-OL,22,     Gfor ten years.
+OL,4,G2355FTom Brady: Man in the Arena
+OL,5,     GTom Brady balances the demands of
+OL,6,     Gleading the 'Patriots 2.0' team
+OL,7,     Gto another Super Bowl with the
+OL,8,     Gresponsibilities of being a
+OL,9,     Ghusband and father. Contains some
+OL,10,     Gstrong language.
+OL,11,G0050FTom Brady: Man in the Arena
+OL,12,     GTom Brady and Vince Wilfork look
+OL,13,     Gto reclaim the Lombardi Trophy,
+OL,14,     Ghaving failed to win a Super Bowl
+OL,15,     Gfor ten years.
+OL,16,G0140FWeather for the Week Ahead
+OL,17,G0145FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -410,30 +405,24 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 SEP
-OL,4,G2240FThe Battle for Black Music: Paid
+OL,4,G2340FThe Battle for Black Music: Paid
 OL,5,     Fin Full
-OL,6,     GHow black artists fought back by
-OL,7,     Gcreating their own record labels
-OL,8,     G- with mixed success. Contains
-OL,9,     Gsome strong language.
-OL,10,G2340FThe Battle for Black Music: Paid
-OL,11,     Fin Full
-OL,12,     GHow the digital revolution gave
-OL,13,     Gnew opportunities for black
-OL,14,     Gartists to shape their future.
-OL,15,     GContains very strong language.
-OL,16,G0040FSounding Out: The Drifters
-OL,17,     GFirst transmitted in 1972, Bill
-OL,18,     GFredericks and Johnny Moore from
-OL,19,     GThe Drifters talk about the group
-OL,20,     Gand the songs they still perform,
-OL,21,     Gsuch as Under the Broadwalk and
-OL,22,     GOn Broadway.
+OL,6,     GHow the digital revolution gave
+OL,7,     Gnew opportunities for black
+OL,8,     Gartists to shape their future.
+OL,9,     GContains very strong language.
+OL,10,G0040FSounding Out: The Drifters
+OL,11,     GFirst transmitted in 1972, Bill
+OL,12,     GFredericks and Johnny Moore from
+OL,13,     GThe Drifters talk about the group
+OL,14,     Gand the songs they still perform,
+OL,15,     Gsuch as Under the Broadwalk and
+OL,16,     GOn Broadway.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -441,27 +430,28 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 SEP
-OL,4,G2300FThe Killing Kind
-OL,5,     GThrilling mystery drama. Ingrid
-OL,6,     Gis holed up in a secluded house
-OL,7,     Gand determined to work out what
-OL,8,     Gis happening when the unexpected
-OL,9,     Garrival of her ex-fiance's sows
-OL,10,     Gdoubts.
-OL,11,G0000FEnglish Football League Highlights
-OL,12,     GAction from across the Football
-OL,13,     GLeague including Watford v
-OL,14,     GSunderland, Leeds United v
-OL,15,     GCoventry City, Oxford United v
-OL,16,     GBurnley and Portsmouth v
-OL,17,     GSheffield United in the
-OL,18,     GChampionship.
-OL,19,G0120FShop on TV
+OL,4,G0000FEnglish Football League Highlights
+OL,5,     GAction from across the Football
+OL,6,     GLeague including Watford v
+OL,7,     GSunderland, Leeds United v
+OL,8,     GCoventry City, Oxford United v
+OL,9,     GBurnley and Portsmouth v
+OL,10,     GSheffield United in the
+OL,11,     GChampionship.
+OL,12,G0120FShop on TV
+OL,13,G0300FCode Blue: One Punch Killers
+OL,14,     GA documentary looking at three
+OL,15,     Gcases of one-punch attacks that
+OL,16,     Gexplores their possible causes
+OL,17,     Gand speaks to family members and
+OL,18,     Gfriends of victims who were left
+OL,19,     Gdevastated by them.
+OL,20,G0350FUnwind with ITV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -469,7 +459,7 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -495,7 +485,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -523,7 +513,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727561340
+OL,0,        ECIMSBWebfax     F498A1727564947
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
