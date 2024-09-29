@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -109,11 +109,11 @@ OL,4,                          R//0
 OL,5,BThe latest updates from   R*///4
 OL,6,BITV News Calendar          R#!
 OL,7,                             R"#!
-OL,8,G361FPolice issue 'urgent appeal' for
-OL,9,Fmissing April, 13, from Kirkbymoorside
-OL,11,G362FFarmers told it's 'not a weakness
-OL,12,Fto talk' at event to promote mental
-OL,13,Fhealth
+OL,8,G361FFarmers told it's 'not a weakness
+OL,9,Fto talk' at event to promote mental
+OL,10,Fhealth
+OL,12,G362FPolice issue 'urgent appeal' for
+OL,13,Fmissing April, 13, from Kirkbymoorside
 OL,15,G363FTribute to 'kindest, most caring'
 OL,16,Ffamily man killed in motorcycle
 OL,17,Faccident
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -202,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -210,17 +210,15 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FPolice dogs should be phased out,
-OL,9,FPeta tells Met commissioner
-OL,11,G402FThree charged with criminal damage
-OL,12,Fafter soup thrown at Van Gogh paintings
-OL,14,G403FAppeal to find man who absconded
-OL,15,Ffrom secure mental health facility
-OL,17,G404FJust Stop Oil campaigners
-OL,18,Fsentenced for throwing soup on van
-OL,19,FGogh painting
-OL,21,G405FHomeowner frustrated as bus driver
-OL,22,Ftoilet placed outside home
+OL,8,G401FHollywood's Damian Lewis drives
+OL,9,Fsheep over the Thames in 'eccentric'
+OL,10,Ftradition
+OL,12,G402FPolice dogs should be phased out,
+OL,13,FPeta tells Met commissioner
+OL,15,G403FThree charged with criminal damage
+OL,16,Fafter soup thrown at Van Gogh paintings
+OL,18,G404FAppeal to find man who absconded
+OL,19,Ffrom secure mental health facility
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -228,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -252,7 +250,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -278,7 +276,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -286,17 +284,16 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FMulti-million pound M&S store
-OL,9,Fplanned for seafront town
-OL,11,G432FMeet the quirky singer serenading
-OL,12,Fshoppers from her piano bike
-OL,14,G433FAthlete takes windsurfing to new
-OL,15,Fheights jumping off cruise ship
-OL,17,G434F'The jewel in the crown': #4.5
-OL,18,Fmillion lido transformation set to
-OL,19,Fbegin
-OL,21,G435FRapist who abused five children
-OL,22,Fjailed for 25 years
+OL,8,G431FStudent cycles length of Norway
+OL,9,Fduring charity ride in memory of friend
+OL,11,G432FPolice officer who failed to
+OL,12,Finvestigate assaults sacked
+OL,14,G433FMulti-million pound M&S store
+OL,15,Fplanned for seafront town
+OL,17,G434FMeet the quirky singer serenading
+OL,18,Fshoppers from her piano bike
+OL,20,G435FAthlete takes windsurfing to new
+OL,21,Fheights jumping off cruise ship
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -304,7 +301,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -329,7 +326,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +351,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,29 +376,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 29 SEP
-OL,4,G1715FCountryfile
-OL,5,     GCharlotte Smith visits the Kelso
-OL,6,     GRam Sales on the Scottish
-OL,7,     GBorders, one of the largest and
-OL,8,     Goldest ram sales in Europe, with
-OL,9,     Gmore than 3,500 sheep expected to
-OL,10,     Gbe sold on the day.
-OL,11,G1815FAntiques Roadshow
-OL,12,     GThe roadshow is at Clissold Park
-OL,13,     Gin Stoke Newington, London, where
-OL,14,     Gtreasures include Lewis
-OL,15,     GHamilton's race helmet,
-OL,16,     GScandinavian jewellery and props
-OL,17,     Gfrom the film, Blade Runner.
-OL,18,G1915FStrictly Come Dancing: The Results
-OL,19,     GIt's the first results show of
-OL,20,     Gthe series, plus music from Ezra
-OL,21,     GCollective ft Yazmin Lacey.
+OL,4,G1815FAntiques Roadshow
+OL,5,     GThe roadshow is at Clissold Park
+OL,6,     Gin Stoke Newington, London, where
+OL,7,     Gtreasures include Lewis
+OL,8,     GHamilton's race helmet,
+OL,9,     GScandinavian jewellery and props
+OL,10,     Gfrom the film, Blade Runner.
+OL,11,G1915FStrictly Come Dancing: The Results
+OL,12,     GIt's the first results show of
+OL,13,     Gthe series, plus music from Ezra
+OL,14,     GCollective ft Yazmin Lacey.
+OL,15,G2000FPaddy and Chris: Road Tripping
+OL,16,     GPaddy and Chris head to Sweden to
+OL,17,     Gget back to nature and embody
+OL,18,     G'friluftsliv'.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -409,25 +403,27 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 29 SEP
-OL,4,G1800FIncredible Journeys with Simon
-OL,5,     FReeve
-OL,6,     GSimon focuses on some of the
-OL,7,     Gincredible wildlife stories he's
-OL,8,     Gencountered.
-OL,9,G1900FCricket: England v Australia ODI
-OL,10,     FHighlights
-OL,11,     GHighlights from the fifth ODI
-OL,12,     Gbetween England and Australia of
-OL,13,     G2024.
-OL,14,G2000FBig Cats 24/7
-OL,15,     GWith the lion pride now the
-OL,16,     Gbiggest in Africa, competition
-OL,17,     Gfor food is fierce.
+OL,4,G1900FCricket: England v Australia ODI
+OL,5,     FHighlights
+OL,6,     GHighlights from the fifth ODI
+OL,7,     Gbetween England and Australia of
+OL,8,     G2024.
+OL,9,G2000FBig Cats 24/7
+OL,10,     GWith the lion pride now the
+OL,11,     Gbiggest in Africa, competition
+OL,12,     Gfor food is fierce.
+OL,13,G2100FMortimer & Whitehouse: Gone
+OL,14,     FFishing
+OL,15,     GBob and Paul travel overseas for
+OL,16,     Gan all-out Irish fishing trip -
+OL,17,     Git's their first time fishing the
+OL,18,     Grivers of both the Republic of
+OL,19,     GIreland and Northern Ireland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -435,27 +431,25 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 29 SEP
-OL,4,G1630FMidsomer Murders
-OL,5,     GHarvest of Souls: When the owner
-OL,6,     Gof an equestrian centre is
-OL,7,     Gtrampled by his horse, Barnaby
-OL,8,     Gand Nelson have to unravel a
-OL,9,     Gcomplex feud from the past where
-OL,10,     Gnothing is what it seems.
-OL,11,G1830FITV Evening News
-OL,12,G1845FRegional News
-OL,13,G1900FTipping Point: Lucky Stars
-OL,14,     GBen Shephard hosts as TV
-OL,15,     Gpersonality Ollie Locke, actress
-OL,16,     Gand singer Denise Van Outen, and
-OL,17,     Gcomedian Axel Blake put their
-OL,18,     Gwits to the test to try to win
-OL,19,     G20,000 pounds for charity.
+OL,4,G1900FTipping Point: Lucky Stars
+OL,5,     GBen Shephard hosts as TV
+OL,6,     Gpersonality Ollie Locke, actress
+OL,7,     Gand singer Denise Van Outen, and
+OL,8,     Gcomedian Axel Blake put their
+OL,9,     Gwits to the test to try to win
+OL,10,     G20,000 pounds for charity.
+OL,11,G2000FWho Wants To Be A...
+OL,12,     GMillionaire? Tense game show
+OL,13,     Gwhere contestants compete for a
+OL,14,     Gtop prize of one million pounds -
+OL,15,     Gthey must answer 15 questions
+OL,16,     Gcorrectly and have just four
+OL,17,     Glifelines to help them.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -463,7 +457,7 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -488,29 +482,26 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 29 SEP
-OL,4,G1705FNoel Edmonds: The Rise & Fall of
-OL,5,     Fa TV Legend
-OL,6,     GNoel was the undisputed king of
-OL,7,     GSaturday night television. A few
-OL,8,     Gyears later, he was off the air
-OL,9,     Gand bankrupt, before launching
-OL,10,     Gthe most successful TV comeback
-OL,11,     Gever.
-OL,12,G1830F5 News Weekend
-OL,13,     GNational and international news.
-OL,14,G1835FInside Cadbury: The Real
-OL,15,     FChocolate Factory
-OL,16,     GFor almost 200 years, Cadbury has
-OL,17,     Gbeen the home of chocolate,
-OL,18,     Gmaking a staggering 350 tonnes of
-OL,19,     Gmilk chocolate a day. However,
-OL,20,     Git's not always been a sweet
-OL,21,     Gstory.
+OL,4,G1835FInside Cadbury: The Real
+OL,5,     FChocolate Factory
+OL,6,     GFor almost 200 years, Cadbury has
+OL,7,     Gbeen the home of chocolate,
+OL,8,     Gmaking a staggering 350 tonnes of
+OL,9,     Gmilk chocolate a day. However,
+OL,10,     Git's not always been a sweet
+OL,11,     Gstory.
+OL,12,G2000FRich Holiday, Poor Holiday
+OL,13,     GMum Izzy and her son ditch their
+OL,14,     Gbargain breaks for a taste of the
+OL,15,     Ghigh-life in Nashville, while a
+OL,16,     Gtrio of semi-retired friends slum
+OL,17,     Git on a package holiday in
+OL,18,     GTenerife.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -518,24 +509,27 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727629864
+OL,0,        ECIMSBWebfax     F498A1727633471
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 29 SEP
-OL,4,G1800FLook At Life Snow Business
-OL,5,     G1961. A look at the flourishing
-OL,6,     Gwinter sports business within
-OL,7,     GScotland and how they are
-OL,8,     Gcontinuing to succeed and grow.
-OL,9,G1820FThe More the Merrier
-OL,10,     G1943. Romantic Comedy. Directed
-OL,11,     Gby George Stevens. Stars Jean
-OL,12,     GArthur, Joel McCrea & Charles
-OL,13,     GCoburn. During the wartime
-OL,14,     Ghousing shortage, a woman sublets
-OL,15,     Ghalf her apartment to two
-OL,16,     Gbachelors.
+OL,4,G1820FThe More the Merrier
+OL,5,     G1943. Romantic Comedy. Directed
+OL,6,     Gby George Stevens. Stars Jean
+OL,7,     GArthur, Joel McCrea & Charles
+OL,8,     GCoburn. During the wartime
+OL,9,     Ghousing shortage, a woman sublets
+OL,10,     Ghalf her apartment to two
+OL,11,     Gbachelors.
+OL,12,G2025FA Lifetime Ago with The Baim
+OL,13,     FCollection
+OL,14,     GDelta 8-3. 1960. A look at
+OL,15,     GBritain's Vulcan delta wing
+OL,16,     Gbomber, including the training of
+OL,17,     Ga new crew and unique footage of
+OL,18,     Gthree of the early Vulcan bombers
+OL,19,     Gflying in formation.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
