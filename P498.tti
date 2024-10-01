@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -59,15 +59,14 @@ OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
 OL,8,G302FOctober is Black History Month,
 OL,9,Fbut is it time schools taught it all
-OL,10,Fyear?
-OL,12,G303FIsrael launches 'targeted ground
-OL,13,Foperation' in southern Lebanon
-OL,15,G304FMajority of school staff have seen
-OL,16,Fpupils arriving in dirty uniforms `
-OL,17,Fpoll
-OL,19,G305FHow Israel's offensive into
-OL,20,FLebanon has ripped up the old
-OL,21,Fdiplomatic playbook
+OL,10,Fyear round?
+OL,12,G303FWhere will your tip go? New law
+OL,13,Fstops businesses pocketing staff tips
+OL,15,G304FIsrael launches 'targeted ground
+OL,16,Foperation' in southern Lebanon
+OL,18,G305FMajority of school staff have seen
+OL,19,Fpupils arriving in dirty uniforms `
+OL,20,Fpoll
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +149,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -209,16 +208,17 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FJust Stop Oil activists deny
-OL,9,F'revenge' soup attack on Van Gogh
-OL,10,Fpaintings
-OL,12,G402FTown gridlocked for months as
-OL,13,Fsinkhole leaves businesses in fear of
-OL,14,Fgoing bust
-OL,16,G403FBanksy's bullet-proof Union flag
-OL,17,Fvest on sale for #300,0000
-OL,19,G404FMan dies and others injured after
-OL,20,Ftriple stabbing in south London
+OL,8,G401FGirl, 14, seriously hurt in
+OL,9,Fsuspected acid attack outside school
+OL,10,Fin Paddington
+OL,12,G402FJust Stop Oil activists deny
+OL,13,F'revenge' soup attack on Van Gogh
+OL,14,Fpaintings
+OL,16,G403FTown gridlocked for months as
+OL,17,Fsinkhole leaves businesses in fear of
+OL,18,Fgoing bust
+OL,20,G404FBanksy's bullet-proof Union flag
+OL,21,Fvest on sale for #300,0000
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -226,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -250,7 +250,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -276,7 +276,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -302,7 +302,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,30 +379,30 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 1 OCT
-OL,4,G1045FCrimewatch Live
-OL,5,     GThe National Crime Agency take
-OL,6,     Gdown a high-end money launderer
-OL,7,     Gwho used gold and art to clean
-OL,8,     Gdrug dealers' cash.
-OL,9,G1130FHomes Under the Hammer
-OL,10,     GIt's a first for Tommy who spots
-OL,11,     Ghis first sparkly staircase in a
-OL,12,     Gsemi in Maidstone. He also
-OL,13,     Gfollows the development of a two-
-OL,14,     Gbedroom forever home bungalow in
-OL,15,     GBrightlingsea.
-OL,16,G1215FBargain Hunt
-OL,17,     GCaroline Hawley presents from
-OL,18,     GHemswell in Lincolnshire, with
-OL,19,     GIzzie Balmer and Mark Stacey.
-OL,20,G1300FBBC News at One including Look...
-OL,21,     GNorth . The latest national and
-OL,22,     Ginternational news from the BBC.
+OL,4,G1215FBargain Hunt
+OL,5,     GCaroline Hawley presents from
+OL,6,     GHemswell in Lincolnshire, with
+OL,7,     GIzzie Balmer and Mark Stacey.
+OL,8,G1300FBBC News at One including Look...
+OL,9,     GNorth . The latest national and
+OL,10,     Ginternational news from the BBC.
+OL,11,G1400FDoctors
+OL,12,     GGraham begins to assert a little
+OL,13,     Gmore authority around The Mill,
+OL,14,     Gwhile Rob and Ruhma share a
+OL,15,     Gsurprising fishing trip. Al tries
+OL,16,     Gto treat two tripping sisters.
+OL,17,G1430FRobson Green's Weekend Escapes
+OL,18,     GRobson invites Olly Smith for an
+OL,19,     Gopen-air adventure in the
+OL,20,     GScottish Borders. They sample
+OL,21,     Galpaca walking and sound bathing,
+OL,22,     Gand enjoy lunch on a paddle board.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -410,27 +410,26 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 1 OCT
-OL,4,G0900FBBC News
-OL,5,G1215FPolitics Live
-OL,6,     GThe big political issues of the
-OL,7,     Gday.
-OL,8,G1300FImpossible
-OL,9,     GThe quiz show where players must
-OL,10,     Gavoid Impossible answers to stay
-OL,11,     Gin the competition. How many of
-OL,12,     Gtoday's players will survive to
-OL,13,     Gface the #10,000 question?
-OL,14,G1345FUnbeatable
-OL,15,     GJason Manford hosts the quiz show
-OL,16,     Gwhere players face a question and
-OL,17,     Gpick from a board of six rankable
-OL,18,     Ganswers. Some answers are good,
-OL,19,     Gbut only one is unbeatable.
+OL,4,G1215FPolitics Live
+OL,5,     GThe big political issues of the
+OL,6,     Gday.
+OL,7,G1300FImpossible
+OL,8,     GThe quiz show where players must
+OL,9,     Gavoid Impossible answers to stay
+OL,10,     Gin the competition. How many of
+OL,11,     Gtoday's players will survive to
+OL,12,     Gface the #10,000 question?
+OL,13,G1345FUnbeatable
+OL,14,     GJason Manford hosts the quiz show
+OL,15,     Gwhere players face a question and
+OL,16,     Gpick from a board of six rankable
+OL,17,     Ganswers. Some answers are good,
+OL,18,     Gbut only one is unbeatable.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -438,7 +437,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -466,27 +465,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 1 OCT
-OL,4,G1105FCome Dine with Me: The
-OL,5,     FProfessionals
-OL,6,     GIn Nottingham, The Plough set
-OL,7,     Gthings off to a cracking start,
-OL,8,     Gbefore restaurant Paris showcase
-OL,9,     Gtheir French posh nosh, and Gemma
-OL,10,     Gfrom The Red Lion sheds a tear.
-OL,11,G1205FChannel 4 News Summary
-OL,12,     GChannel 4's midday news summary.
-OL,13,G1210FNarrow Escapes
-OL,14,     GOn the River Lea, florist Roka
-OL,15,     Gtakes her home-grown tulips to
-OL,16,     Gmarket. Tracey and Tim head
-OL,17,     Gtowards Little Venice in London
-OL,18,     Gto launch their Accessible
-OL,19,     GWaterways badge scheme.
+OL,4,G1210FNarrow Escapes
+OL,5,     GOn the River Lea, florist Roka
+OL,6,     Gtakes her home-grown tulips to
+OL,7,     Gmarket. Tracey and Tim head
+OL,8,     Gtowards Little Venice in London
+OL,9,     Gto launch their Accessible
+OL,10,     GWaterways badge scheme.
+OL,11,G1310FFind It, Fix It, Flog It
+OL,12,     GIn Southport, Henry Cole finds
+OL,13,     Gsome ammunition crates that he
+OL,14,     Gwants to turn into furniture,
+OL,15,     Gwhile Simon O'Brien discovers a
+OL,16,     Glight from Southport Pier to
+OL,17,     Gupcycle into a table.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -494,30 +491,28 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 1 OCT
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss the
-OL,6,     Glatest news and get your views
-OL,7,     Gand opinions of the day.
-OL,8,G1130FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories of
-OL,12,     Gthe day.
-OL,13,G1245FFriends
-OL,14,     GRachel frantically tries to get
-OL,15,     Gto London before Ross marries
-OL,16,     GEmily. Ross's parents clash with
-OL,17,     GEmily's.
-OL,18,G1310FFriends
-OL,19,     GWill Emily forgive Ross before
-OL,20,     Gtheir honeymoon? Monica and
-OL,21,     GChandler agree to end their new
-OL,22,     Grelationship.
+OL,4,G1130FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories of
+OL,8,     Gthe day.
+OL,9,G1245FFriends
+OL,10,     GRachel frantically tries to get
+OL,11,     Gto London before Ross marries
+OL,12,     GEmily. Ross's parents clash with
+OL,13,     GEmily's.
+OL,14,G1310FFriends
+OL,15,     GWill Emily forgive Ross before
+OL,16,     Gtheir honeymoon? Monica and
+OL,17,     GChandler agree to end their new
+OL,18,     Grelationship.
+OL,19,G1340F5 News at Lunchtime
+OL,20,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -525,27 +520,27 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1727777711
+OL,0,        ECIMSBWebfax     F498A1727781318
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 1 OCT
-OL,4,G1020FSend For Paul Temple
-OL,5,     G1946. Crime Drama. Directed by
-OL,6,     GJohn Argyle. Starring Anthony
-OL,7,     GHulme and Joy Shelton. Scotland
-OL,8,     GYard calls in novelist and
-OL,9,     Gamateur detective Paul Temple to
-OL,10,     Ghelp track down a gang of diamond
-OL,11,     Grobbers.
-OL,12,G1200FWorzel Gummidge
-OL,13,     GCaptain Worzel. 1980. Stars Jon
-OL,14,     GPertwee, Michael Ripper & Barbara
-OL,15,     GWindsor. Mr. Shepherd goes on a
-OL,16,     Gbarge holiday and takes Aunt
-OL,17,     GSally with him to sell her,
-OL,18,     Gleading Worzel to go on a rescue
-OL,19,     Gmission.
+OL,4,G1200FWorzel Gummidge
+OL,5,     GCaptain Worzel. 1980. Stars Jon
+OL,6,     GPertwee, Michael Ripper & Barbara
+OL,7,     GWindsor. Mr. Shepherd goes on a
+OL,8,     Gbarge holiday and takes Aunt
+OL,9,     GSally with him to sell her,
+OL,10,     Gleading Worzel to go on a rescue
+OL,11,     Gmission.
+OL,12,G1235FConfessions of Boston Blackie
+OL,13,     G1942. Mystery. Director: Edward
+OL,14,     GDmytryk. Stars Chester Morris,
+OL,15,     GHarriet Hilliard & Richard Lane.
+OL,16,     GA reformed thief becomes involved
+OL,17,     Gin a case to find a woman's
+OL,18,     Gmissing sculpture of Augustus
+OL,19,     GCaesar.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
