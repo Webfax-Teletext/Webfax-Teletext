@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -63,11 +63,10 @@ OL,10,FIslands
 OL,12,G303FAnother flight from Lebanon lands
 OL,13,Fin UK amid spiralling Middle East
 OL,14,Fconflict
-OL,16,G304FScrap bedroom tax at October
-OL,17,FBudget, SNP urges Chancellor
-OL,19,G305FBudget tax and welfare changes
-OL,20,Fwill lead to 'small income gains' `
-OL,21,Fthink tank
+OL,16,G304FWorld's first vaccine for ovarian
+OL,17,Fcancer 'could wipe out the disease'
+OL,19,G305FScrap bedroom tax at October
+OL,20,FBudget, SNP urges Chancellor
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -184,15 +183,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FTeen waiting to go to college
-OL,9,Fbecause of paperwork delay
-OL,11,G392FSinger Pixie Lott performs for pop
-OL,12,Fstars of the future at LIPA
-OL,14,G393FGeorge Harrison guitar bought for
-OL,15,F#58 may fetch #750,000 at auction in
-OL,16,FUSA
-OL,18,G394FSon's trainers left 'pattern' on
-OL,19,Fmum's face as he stamped on her head
+OL,8,G391FFamily's tribute to 'beautiful
+OL,9,Fangel' killed in crash
+OL,11,G392FTeen waiting to go to college
+OL,12,Fbecause of paperwork delay
+OL,14,G393FSinger Pixie Lott performs for pop
+OL,15,Fstars of the future at LIPA
+OL,17,G394FGeorge Harrison guitar bought for
+OL,18,F#58 may fetch #750,000 at auction in
+OL,19,FUSA
+OL,21,G395FSon's trainers left 'pattern' on
+OL,22,Fmum's face as he stamped on her head
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -200,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -251,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -276,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -301,7 +302,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -326,7 +327,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -352,7 +353,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -377,12 +378,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 3 OCT
-OL,4,G0100FBBC News
+OL,3,CProgramme listings for FRI 4 OCT
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0930FMorning Live
+OL,9,     GJoin Gethin Jones, Helen Skelton,
+OL,10,     GMichelle Ackerley and the team
+OL,11,     Gfor conversation, advice and tips
+OL,12,     Gto make your day that little bit
+OL,13,     Geasier.
+OL,14,G1045FCrimewatch Live
+OL,15,     GPolice investigate a dealer who
+OL,16,     Goperates on the dark web. Plus an
+OL,17,     Gappeal from a woman whose mum
+OL,18,     Gdisappeared over 50 years ago.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -390,12 +405,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 3 OCT
+OL,3,CProgramme listings for FRI 4 OCT
 OL,4,G0300FThis is BBC Two
+OL,5,G0630FBargain Hunt
+OL,6,     GEric Knowles and the teams are
+OL,7,     Gshopping in Detling, Kent, with
+OL,8,     Gexperts Catherine Southon and
+OL,9,     GMark Stacey.
+OL,10,G0715FGarden Rescue
+OL,11,     GChris and Lee take on the
+OL,12,     Gchallenge of a bizarrely shaped
+OL,13,     Gplot to create a family garden
+OL,14,     Ginspired by holidays in Greece.
+OL,15,G0800FDr Xand's Con or Cure
+OL,16,     GDo collagen supplements work, and
+OL,17,     Gwhat are the dangers of buying
+OL,18,     Gprescription medication online?
+OL,19,     GAlso, is there a cure for
+OL,20,     Ghiccups, and can a red onion
+OL,21,     Gdrink cure the cold?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -403,17 +435,24 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 3 OCT
-OL,4,G0505FFamily Fortunes
-OL,5,     GJoin Gino D'Acampo as the Dayalan
-OL,6,     Gfamily from Oxfordshire go up
-OL,7,     Gagainst the Bibby family from St
-OL,8,     GHelens for a chance to win a
-OL,9,     G30,000-pound jackpot prize.
+OL,3,CProgramme listings for FRI 4 OCT
+OL,4,G0600FGood Morning Britain
+OL,5,     GWe report from the Big Brother
+OL,6,     Ghouse as Richard Arnold gets an
+OL,7,     Gexclusive look inside the brand-
+OL,8,     Gnew pad ahead of the upcoming
+OL,9,     Glaunch. What will the contestants
+OL,10,     Gget up to?
+OL,11,G0900FLorraine
+OL,12,     GLorraine Kelly presents a topical
+OL,13,     Gmix of entertainment, discussion
+OL,14,     Gand showbiz glamour as well as
+OL,15,     Gthe latest fashion, food and
+OL,16,     Gcelebrity gossip.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -421,23 +460,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 3 OCT
-OL,4,G0520FFrasier
-OL,5,     GSomething Borrowed, Someone Blue
-OL,6,     G: Will Daphne admit her affection
-OL,7,     Gfor Niles before she marries
-OL,8,     GDonny?
-OL,9,G0545FCountdown
-OL,10,     GColin Murray and Rachel Riley
-OL,11,     Ghost as contestants race against
-OL,12,     Gthe clock to pit their wits
-OL,13,     Gagainst vowels, consonants and
-OL,14,     Gnumbers. Debbie McGee joins Susie
-OL,15,     GDent in Dictionary Corner.
+OL,3,CProgramme listings for FRI 4 OCT
+OL,4,G0545FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Debbie McGee joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G0625FCheers
+OL,12,     GVeggie-Boyd: Woody gets a part in
+OL,13,     Ga TV advert for a healthy
+OL,14,     Gvegetable drink but is upset to
+OL,15,     Gdiscover that he doesn't like the
+OL,16,     Gproduct. Sam introduces trivia
+OL,17,     Gnapkins at the bar.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -445,24 +486,24 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 3 OCT
-OL,4,G0520FEntertainment News on 5
-OL,5,G0530FMilkshake Monkey's Amazing
-OL,6,     FAdventures
-OL,7,     GMilkshake! Monkey meets Richard
-OL,8,     Gto find out how a canal lock help
-OL,9,     Gboats travel up and down hill.
-OL,10,G0535FPAW Patrol
-OL,11,     GEnvious Mayor Humdinger tries to
-OL,12,     Gdraw the Adventure Bay Monster
-OL,13,     GMovie production to Foggy Bottom
-OL,14,     Gby using the mechanical movie
-OL,15,     Gmonster. But he can't control the
-OL,16,     Gfire-breathing robot!
+OL,3,CProgramme listings for FRI 4 OCT
+OL,4,G0620FPeppa Pig
+OL,5,     GGrandpa Pig's Boat: Granny and
+OL,6,     GGrandpa Pig have a beautiful
+OL,7,     Glittle boat and Peppa and George
+OL,8,     Gare spending the day on the river
+OL,9,     Gwith them.
+OL,10,G0625FDaisy & Ollie
+OL,11,     GDaisy and Ollie play at being
+OL,12,     Gdetectives to see if they can
+OL,13,     Gsolve the various 'mysteries'
+OL,14,     Garound the house and garden.
+OL,15,     GTogether find all the evidence
+OL,16,     Gthey need to solve the case!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -470,26 +511,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728015727
+OL,0,        ECIMSBWebfax     F498A1728019333
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 3 OCT
-OL,4,G0320FI Remember Mama
-OL,5,     G1948. Drama. Starring Irene
-OL,6,     GDunne, Barbara Bel Geddes and
-OL,7,     GOskar Homolka. A Norwegian
-OL,8,     Gimmigrant family in 1910, San
-OL,9,     GFrancisco... Mamma runs the
-OL,10,     GPennywise household. 5 Oscar
-OL,11,     GNominations.
-OL,12,G0550FWhat's On TPTV With Noel
-OL,13,     GFounder of Talking Pictures TV
-OL,14,     Gand one half of the Footage
-OL,15,     GDetectives, Noel Cronin, shares
-OL,16,     Gshows and films not to be missed
-OL,17,     Gthroughout the beginning of
-OL,18,     GOctober.
+OL,3,CProgramme listings for FRI 4 OCT
+OL,4,G0600FThe Mill on the Floss
+OL,5,     G1936. Drama. Stars Geraldine
+OL,6,     GFitzgerald, James Mason & Felix
+OL,7,     GAylmer. A feud breaks out between
+OL,8,     Gtwo families over the rights to
+OL,9,     Gthe water from the River Floss
+OL,10,     Gwhich powers the mill.
+OL,11,G0730FScarlet Street
+OL,12,     G1945. Drama. Director: Fritz
+OL,13,     GLang. Stars Edward G. Robinson,
+OL,14,     GJoan Bennett & Dan Duryea. A
+OL,15,     Gbanker in a dying marriage falls
+OL,16,     Gfor a thug's girlfriend. They
+OL,17,     Gfind a way to cash in on his
+OL,18,     Ginfatuation.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
