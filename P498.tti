@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -149,7 +149,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -173,7 +173,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -199,7 +199,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -224,7 +224,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -232,16 +232,15 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FBournemouth drownings: Coroner
-OL,9,Frules deaths of two young people were
-OL,10,Faccidental
-OL,12,G412FPortsmouth Naval Memorial
-OL,13,Frededicated to war heroes 100 years on
-OL,15,G413FEx-Police Federation head
-OL,16,Fcommitted gross misconduct with sexual
-OL,17,Fcomment
-OL,19,G414FDriver who died in motorway crash
-OL,20,Fnamed as hospital doctor
+OL,8,G411FWoman seriously injured in
+OL,9,Fsuspected hit and run
+OL,11,G412FDriver who died in motorway crash
+OL,12,Fnamed as hospital doctor
+OL,14,G413FBournemouth drownings: Coroner
+OL,15,Frules deaths of two young people were
+OL,16,Faccidental
+OL,18,G414FPortsmouth Naval Memorial
+OL,19,Frededicated to war heroes 100 years on
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -249,7 +248,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -275,7 +274,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133180
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -300,7 +299,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133181
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -324,7 +323,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133181
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -349,7 +348,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133181
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -374,26 +373,25 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133181
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 5 OCT
-OL,4,G1200FFootball Focus
-OL,5,     GWe hear from Southampton
-OL,6,     Ggoalkeeper Aaron Ramsdale ahead
-OL,7,     Gof his return to Arsenal.
-OL,8,G1300FBBC News
-OL,9,G1310FWeather
-OL,10,G1315FBargain Hunt
-OL,11,     GCharlie Ross heads to
-OL,12,     GNottinghamshire with experts
-OL,13,     GSteph Connell and Mark Stacey.
-OL,14,G1400FMoney for Nothing
-OL,15,     GA cast iron machine stumps
-OL,16,     Gblacksmith Kev Paxton, and Sarah
-OL,17,     GMoore racks her brains to turn a
-OL,18,     Gbox of fabric into a heap of cash.
+OL,4,G1315FBargain Hunt
+OL,5,     GCharlie Ross heads to
+OL,6,     GNottinghamshire with experts
+OL,7,     GSteph Connell and Mark Stacey.
+OL,8,G1400FMoney for Nothing
+OL,9,     GA cast iron machine stumps
+OL,10,     Gblacksmith Kev Paxton, and Sarah
+OL,11,     GMoore racks her brains to turn a
+OL,12,     Gbox of fabric into a heap of cash.
+OL,13,G1500FEscape to the Country
+OL,14,     GSonali Shah helps a couple
+OL,15,     Greturning to the UK from the USA
+OL,16,     Gwith their two young children
+OL,17,     Gfind a new countryside home.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -401,28 +399,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133181
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 5 OCT
-OL,4,G1200FRick Stein's Food Stories
-OL,5,     GRick meets a foraging chef in the
-OL,6,     GLake District and tours the UK's
-OL,7,     Gbiggest tofu factory.
-OL,8,G1300FThe A to Z of TV Cooking
-OL,9,     GJohn Torode sifts through the
-OL,10,     Garchives for some dishes from
-OL,11,     Gsome of the nation's favourite
-OL,12,     Gtelevision chefs. Featuring
-OL,13,     Grecipes and ingredients linked by
-OL,14,     Gthe letter B.
-OL,15,G1320FCleopatra
-OL,16,     GHistorical epic about the life
-OL,17,     Gand times of the legendary Queen
-OL,18,     Gof the Nile, filmed as a dazzling
-OL,19,     Gspectacle starring Elizabeth
-OL,20,     GTaylor and Richard Burton.
+OL,4,G1320FCleopatra
+OL,5,     GHistorical epic about the life
+OL,6,     Gand times of the legendary Queen
+OL,7,     Gof the Nile, filmed as a dazzling
+OL,8,     Gspectacle starring Elizabeth
+OL,9,     GTaylor and Richard Burton.
+OL,10,G1715FSuper League Eliminator Live:...
+OL,11,     GWigan Warriors v Leigh Leopards.
+OL,12,     GWigan Warriors and Leigh Leopards
+OL,13,     Gbattle for a spot in the final at
+OL,14,     GOld Trafford in the second semi-
+OL,15,     Gfinal.
+OL,16,G1940FCelebrity Antiques Road Trip
+OL,17,     GAntiquers Catherine Southon and
+OL,18,     GOchuko Ojiri are joined by Loose
+OL,19,     GWomen's Kelle Bryan and Charlene
+OL,20,     GWhite on a hunt for money-making
+OL,21,     Gcollectibles around Essex.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -430,26 +429,25 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133181
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 5 OCT
-OL,4,G1245FITV Lunchtime News
-OL,5,G1300FITV Racing: Live from Ascot
-OL,6,     GEd Chamberlin presents racing
-OL,7,     Gfrom Ascot, Newmarket and Redcar
-OL,8,     Gincluding four competitive races
-OL,9,     Gfrom Ascot and Group One action
-OL,10,     Gfor fillies in the Sun Chariot
-OL,11,     GStakes at Newmarket.
-OL,12,G1600FThe World Is Not Enough
-OL,13,     GBond film starring Pierce Brosnan
-OL,14,     Gand Denise Richards, 1999. 007
-OL,15,     Ggoes head-to-head with a
-OL,16,     Gnotorious terrorist who cannot
-OL,17,     Gfeel any pain and is planning a
-OL,18,     Gnuclear disaster.
+OL,4,G1300FITV Racing: Live from Ascot
+OL,5,     GEd Chamberlin presents racing
+OL,6,     Gfrom Ascot, Newmarket and Redcar
+OL,7,     Gincluding four competitive races
+OL,8,     Gfrom Ascot and Group One action
+OL,9,     Gfor fillies in the Sun Chariot
+OL,10,     GStakes at Newmarket.
+OL,11,G1600FThe World Is Not Enough
+OL,12,     GBond film starring Pierce Brosnan
+OL,13,     Gand Denise Richards, 1999. 007
+OL,14,     Ggoes head-to-head with a
+OL,15,     Gnotorious terrorist who cannot
+OL,16,     Gfeel any pain and is planning a
+OL,17,     Gnuclear disaster.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -457,25 +455,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133181
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 5 OCT
-OL,4,G1225FCouples Come Dine with Me
-OL,5,     GIn South Yorkshire, it's the war
-OL,6,     Gof the cheesecakes as Kealey and
-OL,7,     GNathan dish up the same dessert
-OL,8,     Gas Sarah and Graham. And
-OL,9,     Gyoungsters Alex and Emily offer a
-OL,10,     Gculinary tour of Europe.
-OL,11,G1325FFour in a Bed
-OL,12,     GHusbands Roy and Brian kick off
-OL,13,     Gthe week at The Plough Inn in
-OL,14,     GKent. They're hoping a breakfast
-OL,15,     Gthat's 'somewhere between Little
-OL,16,     GChef and The Ritz' will be a
-OL,17,     Gwinner.
+OL,4,G1355FFour in a Bed
+OL,5,     GBest friends Simone and Anke host
+OL,6,     Gat their coaching inn in
+OL,7,     GOxfordshire, where the
+OL,8,     Gfurnishings are fit for a king.
+OL,9,     GAlas, the cleanliness standards
+OL,10,     Gare less sparkling.
+OL,11,G1425FFour in a Bed
+OL,12,     GRichard and Colleen host the
+OL,13,     Gweek's third visit in Essex.
+OL,14,     GAfter tensions are released
+OL,15,     Gduring a visit to a rage room,
+OL,16,     GRichard gets teary during
+OL,17,     Gfeedback.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -483,25 +481,25 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133181
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 5 OCT
-OL,4,G1240FInside the Tower of London
-OL,5,     GThe Tower is bringing out the big
-OL,6,     Gguns to celebrate the anniversary
-OL,7,     Gof the Queen's coronation in
-OL,8,     G1953. Two new baby ravens, Edgar
-OL,9,     Gand Branwen, join the Tower's
-OL,10,     Gresident colony.
-OL,11,G1335FInside the Tower of London
-OL,12,     GThe Tower of London is kept
-OL,13,     Gpristinely clean, but it as Chief
-OL,14,     GCurator Tracy Borman discovers,
-OL,15,     Gyesterday's trash is today's
-OL,16,     Gtreasure as she joins a team of
-OL,17,     Garchaeologists.
+OL,4,G1335FInside the Tower of London
+OL,5,     GThe Tower of London is kept
+OL,6,     Gpristinely clean, but it as Chief
+OL,7,     GCurator Tracy Borman discovers,
+OL,8,     Gyesterday's trash is today's
+OL,9,     Gtreasure as she joins a team of
+OL,10,     Garchaeologists.
+OL,11,G1435FThe Great Fire of London
+OL,12,     GDan Jones, Suzannah Lipscomb and
+OL,13,     GRob Bell take a look at the Great
+OL,14,     GFire of London by walking the
+OL,15,     Groute the fire took across London
+OL,16,     Gto uncover what really happened
+OL,17,     Gduring this inferno.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -509,7 +507,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728129576
+OL,0,        ECIMSBWebfax     F498A1728133181
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
