@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -60,14 +60,15 @@ OL,6,BITV News                   V +o,!
 OL,8,G302FAirstrike on Gaza mosque kills 19
 OL,9,Fas Israel intensifies bombardment of
 OL,10,FLebanon
-OL,12,G303FTrump gives speech in Pennsylvania
-OL,13,Ftown where gunman tried to assassinate
-OL,14,Fhim
-OL,16,G304FMinsters announce cancer research
-OL,17,Finvestments
-OL,19,G305FKeir Starmer says sparks from
-OL,20,FMiddle East conflict 'light
-OL,21,Ftouchpapers' at home
+OL,12,G303F'Everything changed': Nova
+OL,13,Ffestival survivors struggle with
+OL,14,Ftrauma one year on
+OL,16,G304FKeir Starmer says sparks from
+OL,17,FMiddle East conflict 'light
+OL,18,Ftouchpapers' at home
+OL,20,G305FTrump gives speech in Pennsylvania
+OL,21,Ftown where gunman tried to assassinate
+OL,22,Fhim
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +76,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -175,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -183,18 +184,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FInvestigation launched after man
-OL,9,Fwithout a ticket gets on plane at
-OL,10,FManchester
-OL,12,G392FPolice force apologises after
-OL,13,Fputting down family's pet XL bully by
-OL,14,Fmistake
-OL,16,G393FPolice officers under gross
-OL,17,Fmisconduct investigation in wrongful
-OL,18,Fconviction case
-OL,20,G394FGrieving mother campaigns for
-OL,21,Fvaccine programme after losing son to
-OL,22,Fmeningitis
+OL,8,G391FNHS makes plea for 130 'life-
+OL,9,Fsaving' donors in Greater Manchester
+OL,11,G392FInvestigation launched after man
+OL,12,Fwithout a ticket gets on plane at
+OL,13,FManchester
+OL,15,G393FPolice force apologises after
+OL,16,Fputting down family's pet XL bully by
+OL,17,Fmistake
+OL,19,G394FPolice officers under gross
+OL,20,Fmisconduct investigation in wrongful
+OL,21,Fconviction case
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -202,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -227,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -235,17 +235,16 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FThousands of pets attend pawsome
-OL,9,F'Dogtember' swim event in Sussex
-OL,11,G412FWoman seriously injured in
-OL,12,Fsuspected hit and run
-OL,14,G413FDriver who died in motorway crash
-OL,15,Fnamed as hospital doctor
-OL,17,G414FBournemouth drownings: Coroner
-OL,18,Frules deaths of two young people were
-OL,19,Faccidental
-OL,21,G415FPortsmouth Naval Memorial
-OL,22,Frededicated to war heroes 100 years on
+OL,8,G411FWoman arrested after six-year-old
+OL,9,Fgirl bitten by Akita dog
+OL,11,G412FFatal house fire 'suspicious' say
+OL,12,Fpolice
+OL,14,G413FThousands of pets attend pawsome
+OL,15,F'Dogtember' swim event in Sussex
+OL,17,G414FWoman seriously injured in
+OL,18,Fsuspected hit and run
+OL,20,G415FDriver who died in motorway crash
+OL,21,Fnamed as hospital doctor
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -253,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -289,15 +288,14 @@ OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
 OL,8,G431FWarnings issued for Gloucester and
 OL,9,FCheltenham A&E departments
-OL,11,G432F'Suspicious' house fire leaves one
-OL,12,Fman dead
-OL,14,G433FNew cancer centre will make 'big
-OL,15,Fdifference', patients say
-OL,17,G434FFormer Gloucester Toys R Us
-OL,18,Ftransformed into new padel centre
-OL,20,G435FBreeders who kept puppies in
-OL,21,F'overcrowded' outbuildings ordered to
-OL,22,Fpay #14,000
+OL,11,G432FSchoolbooks from the 1960s
+OL,12,Fsalvaged from a skip
+OL,14,G433F'Suspicious' house fire leaves one
+OL,15,Fman dead
+OL,17,G434FNew cancer centre will make 'big
+OL,18,Fdifference', patients say
+OL,20,G435FFormer Gloucester Toys R Us
+OL,21,Ftransformed into new padel centre
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -305,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -332,7 +330,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -357,7 +355,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -382,29 +380,25 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 6 OCT
-OL,4,G1030FSunday Morning Live
-OL,5,     GShould assisted dying be
-OL,6,     Glegalised? Plus, Is it right to
-OL,7,     Gpay women for egg donation?
-OL,8,G1130FScotland's Sacred Islands with
-OL,9,     FBen Fogle
-OL,10,     GBen Fogle discovers spiritual
-OL,11,     Gpower and faith on the stunning
-OL,12,     GIsle of Skye.
-OL,13,G1230FBargain Hunt
-OL,14,     GToday, the show is in ship shape
-OL,15,     Gand comes to you from Topsham in
-OL,16,     GDevon. Natasha Raskin Sharp is in
-OL,17,     Gcharge, with experts Danny
-OL,18,     GSebastian and Gary Pe helping the
-OL,19,     Gteams.
-OL,20,G1300FBBC News
-OL,21,G1310FWeather for the Week Ahead
+OL,4,G1130FScotland's Sacred Islands with
+OL,5,     FBen Fogle
+OL,6,     GBen Fogle discovers spiritual
+OL,7,     Gpower and faith on the stunning
+OL,8,     GIsle of Skye.
+OL,9,G1230FBargain Hunt
+OL,10,     GToday, the show is in ship shape
+OL,11,     Gand comes to you from Topsham in
+OL,12,     GDevon. Natasha Raskin Sharp is in
+OL,13,     Gcharge, with experts Danny
+OL,14,     GSebastian and Gary Pe helping the
+OL,15,     Gteams.
+OL,16,G1300FBBC News
+OL,17,G1310FWeather for the Week Ahead
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -412,28 +406,27 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 6 OCT
-OL,4,G1000FSaturday Kitchen Best Bites
-OL,5,     GMore delicious foodie treats from
-OL,6,     GGeorgina Hayden, Sarit and
-OL,7,     GItamar, Mandy Yin and Imad
-OL,8,     GAlarnab. Also, Rick Stein, Dame
-OL,9,     GMary Berry and Clive Myrie head
-OL,10,     Gout across the UK and abroad.
-OL,11,G1130FReady Steady Cook
-OL,12,     GRylan Clark-Neal hosts as chefs
-OL,13,     GAnna Haugh and Romy Gill cook up
-OL,14,     Gsome cheap, healthy dishes with
-OL,15,     GIndian and Nigerian influences.
-OL,16,G1215FNigel Slater's Simple Suppers
-OL,17,     GNigel Slater creates simple but
-OL,18,     Gdelicious meals from ingredients
-OL,19,     Gthat are often overlooked,
-OL,20,     Gincluding a lentil and chard stew.
+OL,4,G1130FReady Steady Cook
+OL,5,     GRylan Clark-Neal hosts as chefs
+OL,6,     GAnna Haugh and Romy Gill cook up
+OL,7,     Gsome cheap, healthy dishes with
+OL,8,     GIndian and Nigerian influences.
+OL,9,G1215FNigel Slater's Simple Suppers
+OL,10,     GNigel Slater creates simple but
+OL,11,     Gdelicious meals from ingredients
+OL,12,     Gthat are often overlooked,
+OL,13,     Gincluding a lentil and chard stew.
+OL,14,G1225FMy Darling Clementine
+OL,15,     GMarshal Wyatt Earp tries to clean
+OL,16,     Gup the lawless town of Tombstone,
+OL,17,     Gbut trouble with the Clanton Gang
+OL,18,     Gleads to the legendary 'gunfight
+OL,19,     Gat the OK Corral'.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -441,26 +434,26 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 6 OCT
-OL,4,G0930FLove Your Weekend with Alan
-OL,5,     FTitchmarsh
-OL,6,     GJoining Alan at Manor Farm this
-OL,7,     Gtime are Dame Penelope Keith,
-OL,8,     GRobert Lindsay, Marisha Wallace,
-OL,9,     Gten-week-old guide dog Titch and
-OL,10,     Ga new greenhouse for the show.
-OL,11,G1125FJason Atherton's Dubai Dishes
-OL,12,     GAl Quoz: Jason goes artsy in Al
-OL,13,     GQuoz cooking up incredible dishes
-OL,14,     Gincluding his take on tarte
-OL,15,     Gtatin, and Ranvir Singh explores
-OL,16,     Gthe funky Alserkal Avenue and
-OL,17,     Gmeets chef Keren Ye.
-OL,18,G1225FITV Lunchtime News
+OL,4,G1125FJason Atherton's Dubai Dishes
+OL,5,     GAl Quoz: Jason goes artsy in Al
+OL,6,     GQuoz cooking up incredible dishes
+OL,7,     Gincluding his take on tarte
+OL,8,     Gtatin, and Ranvir Singh explores
+OL,9,     Gthe funky Alserkal Avenue and
+OL,10,     Gmeets chef Keren Ye.
+OL,11,G1225FITV Lunchtime News
+OL,12,G1235FLove Your Garden
+OL,13,     GGrantham: Alan Titchmarsh visits
+OL,14,     GGrantham to surprise Rob and
+OL,15,     GMargaret Isdale, who are in their
+OL,16,     G70s and have fostered over 150
+OL,17,     Gvulnerable children in the UK
+OL,18,     Gover the last 45 years.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -468,7 +461,7 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -497,25 +490,24 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 6 OCT
-OL,4,G1005FSusan Calman's Grand Day Out
-OL,5,     GSusan is in Kent, known as 'The
-OL,6,     GGarden of England'. The county's
-OL,7,     Grolling countryside is filled
-OL,8,     Gwith orchards, vineyards and
-OL,9,     Gcharming villages, with an
-OL,10,     Gincredible coastline to match.
-OL,11,G1105FSusan Calman's Grand Day Out
-OL,12,     GReturning to the riviera, the sea
-OL,13,     Gis beckoning - and Susan joins a
-OL,14,     Gscallop diving expedition. Here,
-OL,15,     Gshe gets closer than she's ever
-OL,16,     Gbeen to some other riviera
-OL,17,     Gvisitors - dolphins.
+OL,4,G1105FSusan Calman's Grand Day Out
+OL,5,     GReturning to the riviera, the sea
+OL,6,     Gis beckoning - and Susan joins a
+OL,7,     Gscallop diving expedition. Here,
+OL,8,     Gshe gets closer than she's ever
+OL,9,     Gbeen to some other riviera
+OL,10,     Gvisitors - dolphins.
+OL,11,G1205FSusan Calman's Grand Day Out
+OL,12,     GSusan visits the Peak District,
+OL,13,     Gfamed for its striking landscapes
+OL,14,     Gand rolling hills, where she
+OL,15,     Gnegotiates Segway tracks then
+OL,16,     Grides a tram and a cable car.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -523,7 +515,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1728208891
+OL,0,        ECIMSBWebfax     F498A1728212495
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
