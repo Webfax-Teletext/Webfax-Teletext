@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -61,13 +61,11 @@ OL,8,G302FMore parents eligible for
 OL,9,Fcertificate recognising pregnancy loss
 OL,11,G303FPost Office Inquiry: Outgoing CEO
 OL,12,FNick Read to give evidence
-OL,14,G304FBiden and Netanyahu to speak as
-OL,15,FIsrael plans response to Iranian attack
-OL,17,G305F'Stay and you're gonna die':
-OL,18,FFlorida braces for 'catastrophic'
-OL,19,FHurricane Milton
-OL,21,G306FBMA backs family suing regulator
-OL,22,Fover role of NHS physician associates
+OL,14,G304FThe aftermath of October 7: The
+OL,15,Fimpact on British Jews and rise in
+OL,16,Fanti-Semitism
+OL,18,G305FBiden and Netanyahu to speak as
+OL,19,FIsrael plans response to Iranian attack
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -85,13 +83,15 @@ OL,6,BITV News Border        G G    R*?5
 OL,7,                         G      R!"#!
 OL,8,G351FReport highlights record number of
 OL,9,FScots facing hunger and hardship
-OL,11,G352FUnited Utilities water bills could
-OL,12,Frise by #33 million next year
-OL,14,G353FAlmost 100 mile detour as major
-OL,15,Froadworks start on the A75 tonight
-OL,17,G354FParents of boy, 8, who died after
-OL,18,Fgunshot incident at Cumbria farm
-OL,19,F'heartbroken'
+OL,11,G352FDumfries and Galloway population
+OL,12,Ffalls as Scotland's grows
+OL,14,G353FUnited Utilities water bills could
+OL,15,Frise by #33 million next year
+OL,17,G354FAlmost 100 mile detour as major
+OL,18,Froadworks start on the A75 tonight
+OL,20,G355FParents of boy, 8, who died after
+OL,21,Fgunshot incident at Cumbria farm
+OL,22,F'heartbroken'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -132,15 +132,17 @@ OL,4,                      R~3!
 OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
-OL,8,G371FMadeleine McCann investigation
-OL,9,Fcontinues as suspect cleared of sexual
-OL,10,Foffences
-OL,12,G372FThe end of brewing in
-OL,13,FWolverhampton as Carlsberg brewery set
-OL,14,Fto close
-OL,16,G373FDay centres recommended for
-OL,17,Fclosure despite strong opposition
-OL,19,G374FWest Midlands fire boss suspended
+OL,8,G371FDedicated mental wellbeing space
+OL,9,Foffered to pupils at a school in Derby
+OL,11,G372FMadeleine McCann investigation
+OL,12,Fcontinues as suspect cleared of sexual
+OL,13,Foffences
+OL,15,G373FThe end of brewing in
+OL,16,FWolverhampton as Carlsberg brewery set
+OL,17,Fto close
+OL,19,G374FDay centres recommended for
+OL,20,Fclosure despite strong opposition
+OL,22,G375FWest Midlands fire boss suspended
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -148,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -182,17 +184,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FDuchess of York joins Corrie star
-OL,9,Fon visit to cancer centre
-OL,11,G392FMother convinced vaping killed her
-OL,12,Fteenage daughter
-OL,14,G393FEx-Liverpool boss Jurgen Klopp
-OL,15,Ftakes up new job
-OL,17,G394FThe school using sensors and metal
-OL,18,Fdetectors to protect their pupils from
-OL,19,Fvapes
-OL,21,G395FSearch to find well-known retired
-OL,22,Fpostman enters second week
+OL,8,G391FThe former scaffolding site worker
+OL,9,Fwith a shot at a world boxing title
+OL,11,G392FDuchess of York joins Corrie star
+OL,12,Fon visit to cancer centre
+OL,14,G393FMother convinced vaping killed her
+OL,15,Fteenage daughter
+OL,17,G394FEx-Liverpool boss Jurgen Klopp
+OL,18,Ftakes up new job
+OL,20,G395FThe school using sensors and metal
+OL,21,Fdetectors to protect their pupils from
+OL,22,Fvapes
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -200,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -211,13 +213,14 @@ OL,7,                         G    R# "
 OL,8,G401FNo 'undue influence' from
 OL,9,Fministers or mayor over Taylor Swift
 OL,10,Fprotection
-OL,12,G402FNew statue of 'Get Out' actor
-OL,13,FDaniel Kaluuya unveiled in Leicester
-OL,14,FSquare
-OL,16,G403FTeenager hospitalised after Sloane
-OL,17,FSquare stabbing
-OL,19,G404FLondoners win Women of the Year
-OL,20,FAward for work on black maternal health
+OL,12,G402FChild held 'dangerously close' to
+OL,13,Fstag during rutting season in Richmond
+OL,14,FPark
+OL,16,G403FNew statue of 'Get Out' actor
+OL,17,FDaniel Kaluuya unveiled in Leicester
+OL,18,FSquare
+OL,20,G404FTeenager hospitalised after Sloane
+OL,21,FSquare stabbing
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -225,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -233,15 +236,15 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FCello of renowned composer
-OL,9,Fmurdered by Nazis reunited with
-OL,10,Fdaughter
-OL,12,G412FOxford retains place at top of
-OL,13,Fglobal university rankings for ninth
-OL,14,Fyear in row
-OL,16,G413FFirst ever UK brain surgery on
-OL,17,Fbear to be carried out at Kent
-OL,18,FWildlife Park
+OL,8,G411FFirst ever UK brain surgery on
+OL,9,Fbear to be carried out at Kent
+OL,10,FWildlife Park
+OL,12,G412FCello of renowned composer
+OL,13,Fmurdered by Nazis reunited with
+OL,14,Fdaughter
+OL,16,G413FOxford retains place at top of
+OL,17,Fglobal university rankings for ninth
+OL,18,Fyear in row
 OL,20,G414FFamily of missing Katrice Lee
 OL,21,Freturn to Germany to mark her 45th
 OL,22,Fbirthday
@@ -252,7 +255,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -276,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -302,7 +305,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -326,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -351,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -376,25 +379,28 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 9 OCT
-OL,4,G1300FBBC News at One including Look...
-OL,5,     GNorth . The latest national and
-OL,6,     Ginternational news from the BBC.
-OL,7,G1400FDoctors
-OL,8,     GGraham has a surprising lunch
-OL,9,     Gwith his family, while Emma and
-OL,10,     GScarlett have an outing together.
-OL,11,G1430FMoney for Nothing
-OL,12,     GSarah Moore and her team tackle
-OL,13,     Gsome retro kitchen cupboards,
-OL,14,     Gsome old garden gates and a
-OL,15,     Gsideboard with matching chairs.
-OL,16,     GWill any of the items sell for a
-OL,17,     Gprofit?
+OL,4,G1400FDoctors
+OL,5,     GGraham has a surprising lunch
+OL,6,     Gwith his family, while Emma and
+OL,7,     GScarlett have an outing together.
+OL,8,G1430FMoney for Nothing
+OL,9,     GSarah Moore and her team tackle
+OL,10,     Gsome retro kitchen cupboards,
+OL,11,     Gsome old garden gates and a
+OL,12,     Gsideboard with matching chairs.
+OL,13,     GWill any of the items sell for a
+OL,14,     Gprofit?
+OL,15,G1500FEscape to the Country
+OL,16,     GA young couple from London have
+OL,17,     G#325,000 to spend on a new rural
+OL,18,     Ghome, and it's Sonali Shah who is
+OL,19,     Gleading the search in the
+OL,20,     GMonmouthshire countryside.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -402,30 +408,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 9 OCT
-OL,4,G1300FImpossible
-OL,5,     GGame show presented by Rick
-OL,6,     GEdwards in which players score
-OL,7,     Gpoints by answering questions
-OL,8,     Gcorrectly while avoiding the
-OL,9,     Gimpossible answers.
-OL,10,G1345FUnbeatable
-OL,11,     GJason Manford hosts the quiz show
-OL,12,     Gwhere players face a question and
-OL,13,     Gpick from a board of six rankable
-OL,14,     Ganswers. Some answers are good,
-OL,15,     Gbut only one is unbeatable.
-OL,16,G1430FWild About Your Garden
-OL,17,     GNick Knowles attempts to give
-OL,18,     Gurban spaces a reverse makeover.
-OL,19,     GThe team faces their toughest
-OL,20,     Gchallenge yet: to attract the
-OL,21,     Grare red squirrel to a barren
-OL,22,     Ggarden in Dundee.
+OL,4,G1345FUnbeatable
+OL,5,     GJason Manford hosts the quiz show
+OL,6,     Gwhere players face a question and
+OL,7,     Gpick from a board of six rankable
+OL,8,     Ganswers. Some answers are good,
+OL,9,     Gbut only one is unbeatable.
+OL,10,G1430FWild About Your Garden
+OL,11,     GNick Knowles attempts to give
+OL,12,     Gurban spaces a reverse makeover.
+OL,13,     GThe team faces their toughest
+OL,14,     Gchallenge yet: to attract the
+OL,15,     Grare red squirrel to a barren
+OL,16,     Ggarden in Dundee.
+OL,17,G1515FBack in Time for the Corner Shop
+OL,18,     GIn the 80s and 90s, the Arderns
+OL,19,     Gsell everything from Ice Magic to
+OL,20,     Glottery tickets.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -433,26 +437,29 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 9 OCT
-OL,4,G1230FLoose Women
-OL,5,     GJoin the Loose Women panellists
-OL,6,     Gas they interview celebrity
-OL,7,     Gguests and discuss the day's most
-OL,8,     Gtopical issues, from current
-OL,9,     Gaffairs to celebrity gossip and
-OL,10,     Gthe latest showbiz news.
-OL,11,G1330FITV Lunchtime News
-OL,12,G1355FRegional News
-OL,13,G1400FFamily Fortunes
-OL,14,     GGino D'Acampo hosts the game show
-OL,15,     Gas the Michael family of London
-OL,16,     Ggo up against the McIntosh family
-OL,17,     Gof Bristol for a chance to win a
-OL,18,     G30,000-pound jackpot prize.
+OL,4,G1400FFamily Fortunes
+OL,5,     GGino D'Acampo hosts the game show
+OL,6,     Gas the Michael family of London
+OL,7,     Ggo up against the McIntosh family
+OL,8,     Gof Bristol for a chance to win a
+OL,9,     G30,000-pound jackpot prize.
+OL,10,G1500FLingo
+OL,11,     GBattling it out this time are
+OL,12,     GRose and her mum Johanna from
+OL,13,     GWrexham, sisters Jade and Jo-Anne
+OL,14,     Gfrom Derby and Nottingham, and
+OL,15,     Gcouple Chris and Myra from the
+OL,16,     GIsle of Man.
+OL,17,G1600FTipping Point
+OL,18,     GBen Shephard hosts the quiz show
+OL,19,     Gin which three players take on an
+OL,20,     Gextraordinary machine in the hope
+OL,21,     Gof winning a cash jackpot.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -460,80 +467,82 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 9 OCT
-OL,4,G1310FFind It, Fix It, Flog It
-OL,5,     GHenry Cole and Simon O'Brien head
-OL,6,     Gto Staffordshire to meet
-OL,7,     Gpetrolhead Martin, who's also the
-OL,8,     Gorganiser of a local music
-OL,9,     Gfestival.
-OL,10,G1410FCountdown
-OL,11,     GColin Murray and Rachel Riley
-OL,12,     Ghost as contestants race against
-OL,13,     Gthe clock to pit their wits
-OL,14,     Gagainst vowels, consonants and
-OL,15,     Gnumbers. Pam Ayres joins Susie
-OL,16,     GDent in Dictionary Corner.
+OL,4,G1410FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Pam Ayres joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G1500FA Place in the Sun
+OL,12,     GFirefighter Andy and water
+OL,13,     Gindustry worker Elina dream of
+OL,14,     Gowning a place on Spain's Costa
+OL,15,     GAlmeria. Will any of Jean
+OL,16,     GJohansson's properties turn on
+OL,17,     Gtheir waterworks?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
+OL,26,@wD@Krt
 PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 9 OCT
-OL,4,G1310FFriends
-OL,5,     GPhoebe meets another long-lost
-OL,6,     Grelative. Joey takes to wearing a
-OL,7,     Gshoulder bag.
-OL,8,G1340F5 News at Lunchtime
-OL,9,     GNational and international news.
-OL,10,G1345FHome and Away
-OL,11,     GIs Levi only making things worse?
-OL,12,     GMali gets a different
-OL,13,     Gperspective. Abigail needs her
-OL,14,     Gbig brother.
-OL,15,G1415FDevious Deeds
-OL,16,     GAn au pair from Venezuela takes a
-OL,17,     Gnannying job with what seems like
-OL,18,     Gthe perfect American family, but
-OL,19,     Gcomes to realise that they have
-OL,20,     Gulterior motives for hiring her.
+OL,4,G1415FDevious Deeds
+OL,5,     GAn au pair from Venezuela takes a
+OL,6,     Gnannying job with what seems like
+OL,7,     Gthe perfect American family, but
+OL,8,     Gcomes to realise that they have
+OL,9,     Gulterior motives for hiring her.
+OL,10,G1600FBargain-Loving Brits in the Sun
+OL,11,     GEllie and Jim take a well-earned
+OL,12,     Gday off from running their cafe
+OL,13,     Gto enjoy their second wedding
+OL,14,     Ganniversary. Jim hopes to relive
+OL,15,     Gtheir wedding day with a romantic
+OL,16,     Ggesture.
+OL,17,G1700F5 News at 5
+OL,18,     GJoin Dan Walker and the team for
+OL,19,     Gthe news that matters to you.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
+OL,26,@tD@drr
 PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728476287
+OL,0,        ECIMSBWebfax     F498A1728479894
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 9 OCT
-OL,4,G1200FTight Spot
-OL,5,     G1955. Drama. Director: Phil
-OL,6,     GKarlson. Stars Ginger Rogers,
-OL,7,     GEdward G. Robinson & Brian Keith.
-OL,8,     GA female convict is offered a
-OL,9,     Gchance to get out of prison, but
-OL,10,     Gshe must testify against a cruel
-OL,11,     Gmobster.
-OL,12,G1355FThe Brothers
-OL,13,     GLabour Pains. 1973. Stars Jean
-OL,14,     GAnderson, Robin Chadwick & Anna
-OL,15,     GFox. An uncomfortable evening is
-OL,16,     Gin store for Mary and Jennifer at
-OL,17,     Ga party and trouble brews between
-OL,18,     Gthe Carter and Hammond drivers.
+OL,4,G1355FThe Brothers
+OL,5,     GLabour Pains. 1973. Stars Jean
+OL,6,     GAnderson, Robin Chadwick & Anna
+OL,7,     GFox. An uncomfortable evening is
+OL,8,     Gin store for Mary and Jennifer at
+OL,9,     Ga party and trouble brews between
+OL,10,     Gthe Carter and Hammond drivers.
+OL,11,G1500FSaddle Up!
+OL,12,     GGet ready for an afternoon of
+OL,13,     Grebels and outlaws in our Western
+OL,14,     Gadventures this afternoon. James
+OL,15,     GStephens presents our first
+OL,16,     Goffering Way of a Gaucho,
+OL,17,     Gstarring Rory Calhoun and Gene
+OL,18,     GTierney.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
