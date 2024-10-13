@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,15 +50,15 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FFormer First Minister of Scotland
-OL,9,FAlex Salmond dies, aged 69
+OL,8,G302FTributes paid to former First
+OL,9,FMinister of Scotland Alex Salmond
 OL,11,G303FUK among countries 'strongly'
 OL,12,Fcondemning attacks on UN peacekeepers
 OL,13,Fin Lebanon
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -227,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -235,18 +235,17 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FMemorial football match held by
-OL,9,Fbereaved dads in Kent for their
-OL,10,F'angels'
-OL,12,G412FEx-British athlete Robbie
-OL,13,FFitzgibbon dies aged 28 - Brighton
-OL,14,Fclub pays tribute
-OL,16,G413FPolice release update following
-OL,17,Ffatal stabbing of 23-year old man on
-OL,18,Fhigh street
-OL,20,G414FPerson up for 'idiot award' after
-OL,21,Fdriver has lucky Halloween pumpkin
-OL,22,Fescape
+OL,8,G411F'Chopstick Sally' allows
+OL,9,Fhousebound author to feel more
+OL,10,Fincluded in society
+OL,12,G412FChildren, 5 and 7, 'heroes' after
+OL,13,Fcalling 999 for collapsed mum
+OL,15,G413FMemorial football match held by
+OL,16,Fbereaved dads in Kent for their
+OL,17,F'angels'
+OL,19,G414FEx-British athlete Robbie
+OL,20,FFitzgibbon dies aged 28 - Brighton
+OL,21,Fclub pays tribute
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -254,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -304,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -329,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +353,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,29 +378,27 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 13 OCT
-OL,4,G1030FSunday Morning Live
-OL,5,     GDo we expect too much of the rich?
-OL,6,G1130FScotland's Sacred Islands with
-OL,7,     FBen Fogle
-OL,8,     GBen Fogle explores the ancient
-OL,9,     Gsea roads of the Inner Hebrides.
-OL,10,     GHe visits Iona, the cradle of
-OL,11,     GChristianity, and learns how
-OL,12,     GColumba's legacy inspires people
-OL,13,     Gtoday.
-OL,14,G1230FBargain Hunt
-OL,15,     GAnita Manning oversees today's
-OL,16,     Gshow as experts Catherine Southon
-OL,17,     Gand Danny Sebastian lead the
-OL,18,     Gteams on a bargain hunt around
-OL,19,     GKingston-upon-Thames.
-OL,20,G1300FBBC News
-OL,21,G1310FWeather for the Week Ahead
+OL,4,G1130FScotland's Sacred Islands with
+OL,5,     FBen Fogle
+OL,6,     GBen Fogle explores the ancient
+OL,7,     Gsea roads of the Inner Hebrides.
+OL,8,     GHe visits Iona, the cradle of
+OL,9,     GChristianity, and learns how
+OL,10,     GColumba's legacy inspires people
+OL,11,     Gtoday.
+OL,12,G1230FBargain Hunt
+OL,13,     GAnita Manning oversees today's
+OL,14,     Gshow as experts Catherine Southon
+OL,15,     Gand Danny Sebastian lead the
+OL,16,     Gteams on a bargain hunt around
+OL,17,     GKingston-upon-Thames.
+OL,18,G1300FBBC News
+OL,19,G1310FWeather for the Week Ahead
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -409,24 +406,24 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 13 OCT
-OL,4,G1000FSaturday Kitchen Best Bites
-OL,5,     GMouthwatering dishes from Richard
-OL,6,     GBainbridge, Adam Byatt, Julie Lin
-OL,7,     Gand Jeremy Lee. Meanwhile, Rick
-OL,8,     GStein, Dame Mary Berry and Clive
-OL,9,     GMyrie head out across the UK and
-OL,10,     Gabroad!
-OL,11,G1130FReady Steady Cook
-OL,12,     GRylan Clark-Neal hosts as chefs
-OL,13,     GEllis Barrie and Mike Reid team
-OL,14,     Gup with a mother and daughter to
-OL,15,     Gtake on some random ingredients
-OL,16,     Gin the ten-minute challenge.
+OL,4,G1130FReady Steady Cook
+OL,5,     GRylan Clark-Neal hosts as chefs
+OL,6,     GEllis Barrie and Mike Reid team
+OL,7,     Gup with a mother and daughter to
+OL,8,     Gtake on some random ingredients
+OL,9,     Gin the ten-minute challenge.
+OL,10,G1215FRichard III
+OL,11,     GHaving helped his brother King
+OL,12,     GEdward IV take the throne of
+OL,13,     GEngland, the jealous Richard,
+OL,14,     GDuke of Gloucester, conspires to
+OL,15,     Gseize power. Laurence Olivier's
+OL,16,     Gclassic film.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -434,27 +431,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 13 OCT
-OL,4,G0930FLove Your Weekend with Alan
-OL,5,     FTitchmarsh
-OL,6,     GJoining Alan to provide the chat
-OL,7,     Gthis time are Selina Scott, Pixie
-OL,8,     GLott and Tom Parker-Bowles, and
-OL,9,     Gwe also meet some rare-breed
-OL,10,     GGuernsey goats with a royal title.
-OL,11,G1130FThe Royal Beat
-OL,12,     GThe Royal Beat: Kate Thornton
-OL,13,     Ghosts the topical talk show that
-OL,14,     Gfeatures various royal expert
-OL,15,     Gguests discussing all of the
-OL,16,     Grecent news surrounding the royal
-OL,17,     Gfamily together with detailed
-OL,18,     Ginsights.
-OL,19,G1230FITV Lunchtime News
+OL,4,G1130FThe Royal Beat
+OL,5,     GThe Royal Beat: Kate Thornton
+OL,6,     Ghosts the topical talk show that
+OL,7,     Gfeatures various royal expert
+OL,8,     Gguests discussing all of the
+OL,9,     Grecent news surrounding the royal
+OL,10,     Gfamily together with detailed
+OL,11,     Ginsights.
+OL,12,G1230FITV Lunchtime News
+OL,13,G1245FM&S: Dress the Nation
+OL,14,     GHosts Vernon Kay and AJ Odudu are
+OL,15,     Gjoined by guest judge Alex Scott
+OL,16,     Gas the designers compete to win a
+OL,17,     Gdream job at high street giant
+OL,18,     GMarks and Spencer in Sportswear
+OL,19,     GWeek.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -462,7 +459,7 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -493,27 +490,29 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 13 OCT
-OL,4,G1015FSusan Calman's Grand Day Out
-OL,5,     GSusan heads to the New Forest,
-OL,6,     Gexploring beautiful scenery,
-OL,7,     Gincluding ancient woodland and
-OL,8,     Gunspoiled coastline.
-OL,9,G1115FSusan Calman's Grand Day Out
-OL,10,     GSusan starts her adventure in
-OL,11,     Gstyle, heading to the very edge
-OL,12,     Gof England and the especially
-OL,13,     Gbeautiful south Cornish Coast.
-OL,14,G1215FSusan Calman's Grand Day Out
-OL,15,     GSusan steers her campervan
-OL,16,     Gthrough the beautiful Wye Valley.
-OL,17,     GRunning across three counties, it
-OL,18,     Gis one of the UK's areas of
-OL,19,     Goutstanding natural beauty.
+OL,4,G1115FSusan Calman's Grand Day Out
+OL,5,     GSusan starts her adventure in
+OL,6,     Gstyle, heading to the very edge
+OL,7,     Gof England and the especially
+OL,8,     Gbeautiful south Cornish Coast.
+OL,9,G1215FSusan Calman's Grand Day Out
+OL,10,     GSusan steers her campervan
+OL,11,     Gthrough the beautiful Wye Valley.
+OL,12,     GRunning across three counties, it
+OL,13,     Gis one of the UK's areas of
+OL,14,     Goutstanding natural beauty.
+OL,15,G1315FKent: The Garden of England
+OL,16,     GIn the final edition, we visit
+OL,17,     Gthe kitchens of the Guru Nanak
+OL,18,     GGurdwara, travel by paddle
+OL,19,     Gsteamer Waverley along the Kent
+OL,20,     Gcoast to London's Tower Pier and
+OL,21,     Ggo to the Lost Village of Dode.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -521,7 +520,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1728812514
+OL,0,        ECIMSBWebfax     F498A1728816122
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
