@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165422
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -83,11 +83,11 @@ OL,4,                      R    Rpz?o=
 OL,5,BThe latest updates from   Ra+$"`w
 OL,6,BITV News Border        G G    R*?5
 OL,7,                         G      R!"#!
-OL,8,G351FBoy died from suspected shotgun
-OL,9,Fwounds while rabbit hunting, inquest
-OL,10,Fhears
-OL,12,G352FFarm built by Robert Burns given
-OL,13,Flifeline
+OL,8,G351FFarm built by Robert Burns given
+OL,9,Flifeline
+OL,11,G352FBoy died from suspected shotgun
+OL,12,Fwounds while rabbit hunting, inquest
+OL,13,Fhears
 OL,15,G353FAnglers say salmon farming plans
 OL,16,Fcould 'devastate' wild fish
 OL,18,G354F'I couldn't believe my eyes' -
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +152,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -202,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -210,14 +210,14 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401F'My mum overdosed in 'excruciating
-OL,9,Fpain' - she should have died
-OL,10,Fpeacefully'
-OL,12,G402F'Bleed on the brain, bruising and
-OL,13,Fburns': Sara Sharif had 71 recent
-OL,14,Finjuries
-OL,16,G403FLondon war photographer Paul Lowe
-OL,17,F'killed by teen son' on LA hiking trail
+OL,8,G401FLondon war photographer Paul Lowe
+OL,9,F'killed by teen son' on LA hiking trail
+OL,11,G402F'My mum overdosed in 'excruciating
+OL,12,Fpain' - she should have died
+OL,13,Fpeacefully'
+OL,15,G403F'Bleed on the brain, bruising and
+OL,16,Fburns': Sara Sharif had 71 recent
+OL,17,Finjuries
 OL,19,G404FFamily forced to urinate in
 OL,20,Fbottles as council house does not have
 OL,21,Fenough water
@@ -228,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -254,7 +254,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -305,7 +305,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -313,16 +313,15 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FMurder investigation launched
-OL,9,Fafter death of toddler in Co Tyrone
-OL,11,G442FMum fears daughter's murder trial
-OL,12,Fwill be 'bogged down in constant delay'
-OL,14,G443FMan suffers 'serious and
-OL,15,Fpotentially life-changing injuries'
-OL,16,Fafter being shot
-OL,18,G444FNo questions around Mary Lou
-OL,19,FMcDonald's Sinn Fein leadership -
-OL,20,FMichelle O'Neill
+OL,8,G441FThree charged over Dungannon
+OL,9,Ftoddler death
+OL,11,G442FMurder investigation launched
+OL,12,Fafter death of toddler in Co Tyrone
+OL,14,G443FMum fears daughter's murder trial
+OL,15,Fwill be 'bogged down in constant delay'
+OL,17,G444FMan suffers 'serious and
+OL,18,Fpotentially life-changing injuries'
+OL,19,Fafter being shot
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -330,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -355,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -380,29 +379,28 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G1200FBargain Hunt
-OL,5,     GChristina Trevanion presents
-OL,6,     Gtoday's show from Newark in
-OL,7,     GNottinghamshire, with Thomas
-OL,8,     GForrester and Ochuko Ojiri.
-OL,9,     GChristina visits a library with
-OL,10,     Gmore than books on its shelves.
-OL,11,G1300FBBC News at One including Look...
-OL,12,     GNorth . The latest national and
-OL,13,     Ginternational news from the BBC.
-OL,14,G1400FDoctors
-OL,15,     GAl races against the clock. Emma
-OL,16,     Gis concerned about Rick.
-OL,17,G1430FMoney for Nothing
-OL,18,     GSarah Moore and Leigh-Anne
-OL,19,     GTreadwell give two wingback
-OL,20,     Garmchairs and an extendable
-OL,21,     Gdining table a makeover.
+OL,4,G1300FBBC News at One including Look...
+OL,5,     GNorth . The latest national and
+OL,6,     Ginternational news from the BBC.
+OL,7,G1400FDoctors
+OL,8,     GAl races against the clock. Emma
+OL,9,     Gis concerned about Rick.
+OL,10,G1430FMoney for Nothing
+OL,11,     GSarah Moore and Leigh-Anne
+OL,12,     GTreadwell give two wingback
+OL,13,     Garmchairs and an extendable
+OL,14,     Gdining table a makeover.
+OL,15,G1500FEscape to the Country
+OL,16,     GReturning home after eight years
+OL,17,     Gof living and working in Abu
+OL,18,     GDhabi, two teachers want to swap
+OL,19,     Gdesert sand for the beaches of
+OL,20,     GEast Sussex.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -410,26 +408,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G1215FPolitics Live
-OL,5,     GThe big political issues of the
-OL,6,     Gday.
-OL,7,G1300FImpossible
-OL,8,     GGame show presented by Rick
-OL,9,     GEdwards in which players score
-OL,10,     Gpoints by answering questions
-OL,11,     Gcorrectly while avoiding the
-OL,12,     Gimpossible answers.
-OL,13,G1345FUnbeatable
-OL,14,     GJason Manford hosts the quiz show
-OL,15,     Gwhere players face a question and
-OL,16,     Gpick from a board of six rankable
-OL,17,     Ganswers. Some answers are good,
-OL,18,     Gbut only one is Unbeatable.
+OL,4,G1300FImpossible
+OL,5,     GGame show presented by Rick
+OL,6,     GEdwards in which players score
+OL,7,     Gpoints by answering questions
+OL,8,     Gcorrectly while avoiding the
+OL,9,     Gimpossible answers.
+OL,10,G1345FUnbeatable
+OL,11,     GJason Manford hosts the quiz show
+OL,12,     Gwhere players face a question and
+OL,13,     Gpick from a board of six rankable
+OL,14,     Ganswers. Some answers are good,
+OL,15,     Gbut only one is Unbeatable.
+OL,16,G1430FThe Boss
+OL,17,     GSusan Calman hosts the quiz show
+OL,18,     Gwhere contestants compete for
+OL,19,     Gthousands of pounds. Who will
+OL,20,     Grise to the top and see off their
+OL,21,     Gchallengers?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -437,27 +438,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G1230FLoose Women
-OL,5,     GJoin the Loose Women panellists
-OL,6,     Gas they interview celebrity
-OL,7,     Gguests and discuss the day's most
-OL,8,     Gtopical issues, from current
-OL,9,     Gaffairs to celebrity gossip and
-OL,10,     Gthe latest showbiz news.
-OL,11,G1330FITV Lunchtime News
-OL,12,G1355FRegional News
-OL,13,G1400FFamily Fortunes
-OL,14,     GGino D'Acampo hosts the game show
-OL,15,     Gas the Gill family of Bingley go
-OL,16,     Gup against the Havelin family of
-OL,17,     GNorthern Ireland to bag
-OL,18,     Gthemselves a 30,000-pound jackpot
-OL,19,     Gprize.
+OL,4,G1330FITV Lunchtime News
+OL,5,G1355FRegional News
+OL,6,G1400FFamily Fortunes
+OL,7,     GGino D'Acampo hosts the game show
+OL,8,     Gas the Gill family of Bingley go
+OL,9,     Gup against the Havelin family of
+OL,10,     GNorthern Ireland to bag
+OL,11,     Gthemselves a 30,000-pound jackpot
+OL,12,     Gprize.
+OL,13,G1500FLingo
+OL,14,     GPlaying against each other in
+OL,15,     Gthis episode are husband and wife
+OL,16,     GSteve and Beth, mother and
+OL,17,     Gdaughter Paula and Rusian, and
+OL,18,     Gbook-worm Liam and his partner
+OL,19,     GBeth.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -465,25 +466,26 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G1210FRenovation Nation
-OL,5,     GIn Yorkshire, Byron attempts a
-OL,6,     Gsash window restoration, while
-OL,7,     GNaomi is determined their
-OL,8,     Ghoneymoon suite will be fit for
-OL,9,     Groyalty. Have Faye and David
-OL,10,     Greached the end of the road?
-OL,11,G1310FFind It, Fix It, Flog It
-OL,12,     GSimon O'Brien and Henry Cole meet
-OL,13,     GGaby, whose garden is strewn with
-OL,14,     Ginteresting items. Henry finds a
-OL,15,     Gvintage sack barrow while Simon
-OL,16,     Gunearths a shepherd's stove in
-OL,17,     Gthe undergrowth.
+OL,4,G1310FFind It, Fix It, Flog It
+OL,5,     GSimon O'Brien and Henry Cole meet
+OL,6,     GGaby, whose garden is strewn with
+OL,7,     Ginteresting items. Henry finds a
+OL,8,     Gvintage sack barrow while Simon
+OL,9,     Gunearths a shepherd's stove in
+OL,10,     Gthe undergrowth.
+OL,11,G1410FCountdown
+OL,12,     GColin Murray and Rachel Riley
+OL,13,     Ghost. Contestants race against
+OL,14,     Gthe clock to pit their wits
+OL,15,     Gagainst vowels, consonants and
+OL,16,     Gnumbers. Maggie Aderin-Pocock
+OL,17,     Gjoins Susie Dent in Dictionary
+OL,18,     GCorner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -491,28 +493,24 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G1130FStorm Huntley
-OL,5,     GStorm Huntley carries on the
-OL,6,     Gdiscussion and takes your calls
-OL,7,     Gto discuss the biggest stories of
-OL,8,     Gthe day.
-OL,9,G1245FFriends
-OL,10,     GMonica and Chandler get lucky in
-OL,11,     Gthe casino. And Rachel makes Ross
-OL,12,     Gregret playing a prank on her.
-OL,13,G1310FFriends
-OL,14,     GIs it wedding bells or a weekend
-OL,15,     Gto forget for Ross and Rachel?
-OL,16,     GMeanwhile, Monica and Chandler
-OL,17,     Gsearch for signs that they are
-OL,18,     Galtar-bound.
-OL,19,G1340F5 News at Lunchtime
-OL,20,     GNational and international news.
+OL,4,G1340F5 News at Lunchtime
+OL,5,     GNational and international news.
+OL,6,G1345FHome and Away
+OL,7,     GMackenzie calls out Levi. Mali
+OL,8,     Ggets some good news. Justin's
+OL,9,     Gfears come true.
+OL,10,G1415FMaid to Kill
+OL,11,     GThriller. When a maid discovers
+OL,12,     Gher client's dead body in the
+OL,13,     Gpool, her eight-year-old son's
+OL,14,     Glife is put in jeopardy and the
+OL,15,     Grace is on to uncover the truth
+OL,16,     Gof what happened.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -520,27 +518,27 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1729165423
+OL,0,        ECIMSBWebfax     F498A1729169036
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G1045FThe Strange Woman
-OL,5,     G1946. Drama. Directed by Edgar G.
-OL,6,     GUlmer. Stars Hedy Lamarr, George
-OL,7,     GSanders & Louis Hayward. A
-OL,8,     Gbeautiful, yet heartless woman,
-OL,9,     Gmarries a rich man but also
-OL,10,     Gseduces his son and company
-OL,11,     Gforeman.
-OL,12,G1245FThe Trouble with Angels
-OL,13,     G1966. Comedy. Directed by Ida
-OL,14,     GLupino. Stars Rosalind Russell,
-OL,15,     GHayley Mills & Binnie Barnes. A
-OL,16,     Gpair of young troublemakers are
-OL,17,     Gassigned to a convent school and
-OL,18,     Gkeep the Reverend Mother on her
-OL,19,     Gtoes.
+OL,4,G1245FThe Trouble with Angels
+OL,5,     G1966. Comedy. Directed by Ida
+OL,6,     GLupino. Stars Rosalind Russell,
+OL,7,     GHayley Mills & Binnie Barnes. A
+OL,8,     Gpair of young troublemakers are
+OL,9,     Gassigned to a convent school and
+OL,10,     Gkeep the Reverend Mother on her
+OL,11,     Gtoes.
+OL,12,G1500FCrown Court
+OL,13,     GPatch's Patch - Part 1. 1973.
+OL,14,     GStars Norman Rossington, John
+OL,15,     GWhite & Angela Crow. Benjamin
+OL,16,     GPatch is charged with fraud after
+OL,17,     Ghis housing scheme collapsed and
+OL,18,     Ghundreds of couples lost their
+OL,19,     Gsavings.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
