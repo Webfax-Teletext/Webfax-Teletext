@@ -2,7 +2,7 @@ PN,39101
 SC,0001
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F391A1729430164
+OL,0,        ECIMSBWebfax     F391A1729437376
 OL,3,C'Stay off the promenade': Warns RNLI
 OL,4,Cas Storm Ashley hits region
 OL,6,FA yellow weather warning for strong
@@ -25,7 +25,7 @@ PN,39102
 SC,0002
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F391A1729430164
+OL,0,        ECIMSBWebfax     F391A1729437376
 OL,3,C'Stay off the promenade': Warns RNLI
 OL,4,Cas Storm Ashley hits region
 OL,6,FA warning for wind came into place for
@@ -49,7 +49,7 @@ PN,39103
 SC,0003
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F391A1729430164
+OL,0,        ECIMSBWebfax     F391A1729437376
 OL,3,C'Stay off the promenade': Warns RNLI
 OL,4,Cas Storm Ashley hits region
 OL,6,FThere are flood warnings and alerts
@@ -70,7 +70,7 @@ PN,39104
 SC,0004
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F391A1729430164
+OL,0,        ECIMSBWebfax     F391A1729437376
 OL,3,C'Stay off the promenade': Warns RNLI
 OL,4,Cas Storm Ashley hits region
 OL,6,FThe train operator has issued a "do
@@ -92,7 +92,7 @@ PN,39105
 SC,0005
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F391A1729430164
+OL,0,        ECIMSBWebfax     F391A1729437376
 OL,3,C'Stay off the promenade': Warns RNLI
 OL,4,Cas Storm Ashley hits region
 OL,6,FRNLI Blackpool issued their own
@@ -111,7 +111,7 @@ PN,39106
 SC,0006
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F391A1729430164
+OL,0,        ECIMSBWebfax     F391A1729437376
 OL,3,C'Stay off the promenade': Warns RNLI
 OL,4,Cas Storm Ashley hits region
 OL,6,FThey wrote: "Blackpool RNLI is making
@@ -122,12 +122,11 @@ OL,10,Feveryone to stay off the Promenade
 OL,11,Faround these tide times, especially
 OL,12,Fthe sea wall areas for your own
 OL,13,Fsafety."
-OL,15,FThe Isle of Man Steampacket Company
-OL,16,Fthere are gale warnings in place all
-OL,17,Fthrough the weekend for marine
-OL,18,Ftraffic, which has forced most
-OL,19,Fscheduled ferries to and from the
-OL,20,Fisland to be cancelled.
+OL,15,FElectricity North West said it would
+OL,16,F"monitor the network and ensure
+OL,17,Fsupplies and teams are available to
+OL,18,Frespond if the storm causes damage to
+OL,19,Foverhead lines".
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}      G6/8
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'T(,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -137,21 +136,22 @@ PN,39107
 SC,0007
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F391A1729430164
+OL,0,        ECIMSBWebfax     F391A1729437376
 OL,3,C'Stay off the promenade': Warns RNLI
 OL,4,Cas Storm Ashley hits region
-OL,6,FThey say services to Liverpool are
-OL,7,Fcurrently expected to be less impacted
-OL,8,Fby the weather, although the 15:00
-OL,9,Fsailing on Sunday, and its return, are
-OL,10,Fsubject to a weather warning due to
-OL,11,Fthe high winds and anticipated sea
-OL,12,Fstate.
-OL,14,FWinds are expected to ease on Monday
-OL,15,Fwith rain moving into the South East,
-OL,16,Fthe Met Office says, with the North
-OL,17,Fexpected to remaining blustery for
-OL,18,Fmuch of the week.
+OL,6,FThe Isle of Man Steampacket Company
+OL,7,Fthere are gale warnings in place all
+OL,8,Fthrough the weekend for marine
+OL,9,Ftraffic, which has forced most
+OL,10,Fscheduled ferries to and from the
+OL,11,Fisland to be cancelled.
+OL,13,FThey say services to Liverpool are
+OL,14,Fcurrently expected to be less impacted
+OL,15,Fby the weather, although the 15:00
+OL,16,Fsailing on Sunday, and its return, are
+OL,17,Fsubject to a weather warning due to
+OL,18,Fthe high winds and anticipated sea
+OL,19,Fstate.
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}      G7/8
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'T(,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -161,14 +161,19 @@ PN,39108
 SC,0008
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F391A1729430164
+OL,0,        ECIMSBWebfax     F391A1729437376
 OL,3,C'Stay off the promenade': Warns RNLI
 OL,4,Cas Storm Ashley hits region
-OL,6,FKeep up to date with the full weather
-OL,7,Fforecast for the North West and Isle
-OL,8,Fof Man:
-OL,10,FThe latest information on flooding in
-OL,11,Fthe region from the Environment Agency:
+OL,6,FWinds are expected to ease on Monday
+OL,7,Fwith rain moving into the South East,
+OL,8,Fthe Met Office says, with the North
+OL,9,Fexpected to remaining blustery for
+OL,10,Fmuch of the week.
+OL,12,FKeep up to date with the full weather
+OL,13,Fforecast for the North West and Isle
+OL,14,Fof Man:
+OL,16,FThe latest information on flooding in
+OL,17,Fthe region from the Environment Agency:
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}      G8/8
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'T(,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
