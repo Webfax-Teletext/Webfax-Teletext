@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -62,11 +62,10 @@ OL,9,Fpeople in northern Gaza, officials say
 OL,11,G303FLondon Eye to take rare backwards
 OL,12,Fspin to mark the end of British Summer
 OL,13,FTime
-OL,15,G304FReal Madrid investigating alleged
-OL,16,Fracist abuse towards Lamine Yamal
-OL,18,G305FWilliam recalls first visit to
-OL,19,Fhomelessness charity with his mother
-OL,20,F30 years ago
+OL,15,G304FMan dies after small boat deflates
+OL,16,Fin English Channel
+OL,18,G305FReal Madrid investigating alleged
+OL,19,Fracist abuse towards Lamine Yamal
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -179,7 +178,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -187,14 +186,14 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FPumpkin farm loses 99 per cent of
-OL,9,Fcrop to bad weather
-OL,11,G392FPolice 'threw six points' not
-OL,12,Fconfetti at speeding 'wedding day'
-OL,13,Fdriver
-OL,15,G393FLabour MP to 'cooperate with
-OL,16,Fpolice' after video shows him
-OL,17,F'berating man'
+OL,8,G391FLabour MP to 'cooperate with
+OL,9,Fpolice' after video shows him
+OL,10,F'berating man'
+OL,12,G392FPumpkin farm loses 99 per cent of
+OL,13,Fcrop to bad weather
+OL,15,G393FPolice 'threw six points' not
+OL,16,Fconfetti at speeding 'wedding day'
+OL,17,Fdriver
 OL,19,G394FFundraiser for paddle boarder
 OL,20,Fkilled in reservoir tragedy raises
 OL,21,Fthousands
@@ -205,7 +204,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -230,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -254,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -287,16 +286,16 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FThousands enjoy seaside food
-OL,9,Ffestival in autumn sunshine
-OL,11,G432FThe photographer who captured
-OL,12,Fopening Premiership game on a roll of
-OL,13,Fexpired film
-OL,15,G433FPolice are now answering more than
-OL,16,F92 per cent of 999 calls within ten
-OL,17,Fseconds
-OL,19,G434FTenants of city's oldest allotment
-OL,20,Fordered off plots
+OL,8,G431FThe photographer who captured
+OL,9,Fopening Premiership game on a roll of
+OL,10,Fexpired film
+OL,12,G432FThousands enjoy seaside food
+OL,13,Ffestival in autumn sunshine
+OL,15,G433FClifftop coastal path collapses
+OL,16,Finto sea
+OL,18,G434FPolice are now answering more than
+OL,19,F92 per cent of 999 calls within ten
+OL,20,Fseconds
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -304,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -330,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -356,7 +355,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -381,30 +380,28 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 27 OCT
-OL,4,G1615FGhostbusters II
-OL,5,     GThe Ghostbusters reunite to
-OL,6,     Gtangle with the malevolent spirit
-OL,7,     Gof a 16th-century tyrant who
-OL,8,     Gplans to use an infant as his
-OL,9,     Gconduit to the modern world.
-OL,10,G1755FBBC News
-OL,11,G1810FRegional News
-OL,12,G1815FWeather
-OL,13,G1820FCountryfile
-OL,14,     GIt's harvest time, but not as we
-OL,15,     Gknow it. Charlotte Smith meets
-OL,16,     Gpioneering farmer David Mwanaka,
-OL,17,     Gwho grows crops from his native
-OL,18,     GZimbabwe.
-OL,19,G1920FStrictly Come Dancing: The Results
-OL,20,     GHalloween weekend continues with
-OL,21,     Ga Beetlejuice-inspired routine
-OL,22,     Gfrom the professionals.
+OL,4,G1820FCountryfile
+OL,5,     GIt's harvest time, but not as we
+OL,6,     Gknow it. Charlotte Smith meets
+OL,7,     Gpioneering farmer David Mwanaka,
+OL,8,     Gwho grows crops from his native
+OL,9,     GZimbabwe.
+OL,10,G1920FStrictly Come Dancing: The Results
+OL,11,     GHalloween weekend continues with
+OL,12,     Ga Beetlejuice-inspired routine
+OL,13,     Gfrom the professionals.
+OL,14,G2000FAntiques Roadshow
+OL,15,     GThe roadshow is at Pitzhanger
+OL,16,     GManor in London, where finds
+OL,17,     Ginclude a quirky 18th-century
+OL,18,     Gchildren's book, a collection of
+OL,19,     Gvintage trainers and a Battle of
+OL,20,     GBritain flying helmet.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -412,30 +409,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 27 OCT
-OL,4,G1710FAmazing Hotels: Life Beyond the
-OL,5,     FLobby
-OL,6,     GRob and Monica go to work at a
-OL,7,     G400-year-old, family-owned hotel
-OL,8,     Gin the Austrian Alps.
-OL,9,G1810FEden: Untamed Planet
-OL,10,     GA look at Borneo - the richest
-OL,11,     Grainforest island of all, home to
-OL,12,     G60,000 species of plants and
-OL,13,     Ganimals. 6,000 of them are
-OL,14,     Gunique, and more are discovered
-OL,15,     Galmost daily.
-OL,16,G1900FThe Coffee Trail with Simon Reeve
-OL,17,     GSimon Reeve heads to Vietnam to
-OL,18,     Guncover the stories behind the
-OL,19,     Gmorning pick-me-up. He travels to
-OL,20,     Gthe central highlands, where he
-OL,21,     Gmeets the people who grow, pick
-OL,22,     Gand pack coffee.
+OL,4,G1810FEden: Untamed Planet
+OL,5,     GA look at Borneo - the richest
+OL,6,     Grainforest island of all, home to
+OL,7,     G60,000 species of plants and
+OL,8,     Ganimals. 6,000 of them are
+OL,9,     Gunique, and more are discovered
+OL,10,     Galmost daily.
+OL,11,G1900FThe Coffee Trail with Simon Reeve
+OL,12,     GSimon Reeve heads to Vietnam to
+OL,13,     Guncover the stories behind the
+OL,14,     Gmorning pick-me-up. He travels to
+OL,15,     Gthe central highlands, where he
+OL,16,     Gmeets the people who grow, pick
+OL,17,     Gand pack coffee.
+OL,18,G2000FScotland: The New Wild
+OL,19,     GPeregrine falcons, foxes and
+OL,20,     Gbeavers find places to thrive in
+OL,21,     GScotland's Lowlands.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -443,7 +439,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -471,26 +467,26 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 27 OCT
-OL,4,G1720FDevon and Cornwall
-OL,5,     GAn ambitious project to build the
-OL,6,     Gworld's largest labyrinth made
-OL,7,     Gfrom iconic Cornish hedges gets
-OL,8,     Gunderway, and Ghost Fishing UK
-OL,9,     Gdivers help to de-litter the
-OL,10,     Gseabed near Mylor.
-OL,11,G1820FIndependence Day
-OL,12,     GBlockbusting landmark sci-fi
-OL,13,     Gaction-thriller starring Will
-OL,14,     GSmith and Jeff Goldblum. A US Air
-OL,15,     GForce pilot and a scientist
-OL,16,     Gbattle aliens who are
-OL,17,     Gspectacularly destroying our
-OL,18,     Gplanet.
+OL,4,G1820FIndependence Day
+OL,5,     GBlockbusting landmark sci-fi
+OL,6,     Gaction-thriller starring Will
+OL,7,     GSmith and Jeff Goldblum. A US Air
+OL,8,     GForce pilot and a scientist
+OL,9,     Gbattle aliens who are
+OL,10,     Gspectacularly destroying our
+OL,11,     Gplanet.
+OL,12,G2100FGeneration Z
+OL,13,     GOutlandishly gory zombie satire
+OL,14,     Gwith a killer cast including Sue
+OL,15,     GJohnston and Lewis Gribben. An
+OL,16,     Garmy truck crashes outside a care
+OL,17,     Ghome and turns the residents into
+OL,18,     Gsomething nasty.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -498,7 +494,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -524,26 +520,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730049741
+OL,0,        ECIMSBWebfax     F498A1730053352
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 27 OCT
-OL,4,G1700FThe Footage Detectives
-OL,5,     GWe have 'music unlimited' with a
-OL,6,     Gvery rare reel with some
-OL,7,     Gsurprising guests, we've found a
-OL,8,     Glost 'Tod Slaughter' film,
-OL,9,     Gfootage of directing traffic in
-OL,10,     G1959 and who remembers the Harold
-OL,11,     GHare Comic?
-OL,12,G1800FMiranda
-OL,13,     G1948. Comedy. Director: Ken
-OL,14,     GAnnakin. Stars: Glynis Johns,
-OL,15,     GGoogie Withers, Margaret
-OL,16,     GRutherford. A light comedy about
-OL,17,     Ga beautiful and playful mermaid
-OL,18,     Gand her effect on Dr. Paul Martin.
+OL,4,G1800FMiranda
+OL,5,     G1948. Comedy. Director: Ken
+OL,6,     GAnnakin. Stars: Glynis Johns,
+OL,7,     GGoogie Withers, Margaret
+OL,8,     GRutherford. A light comedy about
+OL,9,     Ga beautiful and playful mermaid
+OL,10,     Gand her effect on Dr. Paul Martin.
+OL,11,G1940FFinal Appointment
+OL,12,     G1954. Crime. Director Terence
+OL,13,     GFisher and starring John Bentley.
+OL,14,     GReporters investigate threats
+OL,15,     Gagainst a retired army officer
+OL,16,     Gand discover links to a series of
+OL,17,     Gmurders that occurred during the
+OL,18,     Gwar.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
