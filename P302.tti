@@ -2,7 +2,7 @@ PN,30201
 SC,0001
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FThe Budget will embrace the "harsh
@@ -26,7 +26,7 @@ PN,30202
 SC,0002
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FHe is expected to promise the Budget
@@ -54,7 +54,7 @@ PN,30203
 SC,0003
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,F"And it's not 2010, where public
@@ -78,7 +78,7 @@ PN,30204
 SC,0004
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FThe Prime Minister is expected to say
@@ -106,7 +106,7 @@ PN,30205
 SC,0005
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FThe party had promised in its
@@ -118,7 +118,8 @@ OL,12,FBut ministers have since come under
 OL,13,Fpressure to spell out who falls within
 OL,14,Fthis term after Sir Keir suggested
 OL,15,Fthose who make money from assets such
-OL,16,Fas property would meet the definition.
+OL,16,Fas property would not meet the
+OL,17,Fdefinition.
 OL,1,W~k4~sj5j5~s1G                    G5/17
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -128,7 +129,7 @@ PN,30206
 SC,0006
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FEducation Secretary Bridget Phillipson
@@ -153,7 +154,7 @@ PN,30207
 SC,0007
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FMs Phillipson acknowledged
@@ -165,8 +166,7 @@ OL,11,Fon Wednesday.
 OL,13,FOther measures expected in the
 OL,14,Fstatement include a cut to the
 OL,15,Fearnings threshold at which employers
-OL,16,Fpay their national insurance
-OL,17,Fcontributions.
+OL,16,Fpay national insurance.
 OL,26,@rD@AOUrD@KO]
 OL,1,W~k4~sj5j5~s1G                    G7/17
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -177,7 +177,7 @@ PN,30208
 SC,0008
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FCombined with a hike in the rate of
@@ -202,7 +202,7 @@ PN,30209
 SC,0009
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FMinisters have vowed there will be no
@@ -228,7 +228,7 @@ PN,30210
 SC,0010
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FShe is expected to target public
@@ -252,13 +252,13 @@ PN,30211
 SC,0011
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FSources have said the Chancellor is
-OL,7,Fseeking to find #40 billion in tax
-OL,8,Fhikes and spending cuts in order to
-OL,9,Favoid a return to austerity in next
+OL,7,Fseeking to find up to #40 billion in
+OL,8,Ftax hikes and spending cuts in order
+OL,9,Fto avoid a return to austerity in next
 OL,10,FWednesday's fiscal statement.
 OL,12,FMs Reeves has admitted she will raise
 OL,13,Fsome taxes, pointing to a #22 billion
@@ -278,23 +278,21 @@ PN,30212
 SC,0012
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FThe Prime Minister will say the Budget
 OL,7,Fwill be underpinned by a commitment to
-OL,8,F"honest, responsible, long-term
-OL,9,Fdecisions in the interests of working
-OL,10,Fpeople" when he speaks on Monday.
-OL,12,F"It's stability that means we can
-OL,13,Finvest, and reform that will maximise
-OL,14,Fthat investment," Sir Keir is expected
-OL,15,Fto say.
-OL,17,F"Stability, investment, reform. That's
-OL,18,Fhow we fix the NHS, rebuild Britain
-OL,19,Fand protect working people's payslips.
-OL,20,FDelivering on the mandate of change."
-OL,26,@pD@AOUrD@GO]tD@AOUvD@QO]yD@AOU|D@eO]
+OL,8,Fstability when he speaks on Monday.
+OL,10,F"It's stability that means we can
+OL,11,Finvest, and reform that will maximise
+OL,12,Fthat investment," Sir Keir is expected
+OL,13,Fto say.
+OL,15,F"Stability, investment, reform. That's
+OL,16,Fhow we fix the NHS, rebuild Britain
+OL,17,Fand protect working people's payslips.
+OL,18,FDelivering on the mandate of change."
+OL,26,@rD@AOUtD@QO]wD@AOUzD@eO]
 OL,1,W~k4~sj5j5~s1G                   G12/17
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -304,7 +302,7 @@ PN,30213
 SC,0013
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FHe will challenge critics to offer an
@@ -329,24 +327,25 @@ PN,30214
 SC,0014
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
-OL,6,F"This is an economic plan that will
-OL,7,Fchange the long-term trajectory on
-OL,8,FBritish growth for the better.
-OL,10,F"This is what fixing the foundations
-OL,11,Fand delivering change means. Everyone
-OL,12,Fin this country will benefit from
-OL,13,Fthis. Everyone can wake up on Thursday
-OL,14,Fand understand that a new future is
-OL,15,Fbeing built, a better future."
-OL,17,FThe Tories described Sir Keir's words
-OL,18,Fas "hollow" and accused the Government
-OL,19,Fof "broken promises" over expected tax
-OL,20,Frises.
-OL,26,@nD@AOUrD@AOUwD@^O]zD@DOUzD@KO]{D@DOU{D@
-OL,26,ATO]
+OL,6,F"This is what fixing the foundations
+OL,7,Fand delivering change means. Everyone
+OL,8,Fin this country will benefit from
+OL,9,Fthis. Everyone can wake up on Thursday
+OL,10,Fand understand that a new future is
+OL,11,Fbeing built, a better future."
+OL,13,FWriting in the Mirror, he asked the
+OL,14,Fpublic to "judge us by whether, in
+OL,15,Ffive years' time, you have more money
+OL,16,Fin your pocket."
+OL,18,FThe Tories described Sir Keir's words
+OL,19,Fas "hollow" and accused the Government
+OL,20,Fof "broken promises" over expected tax
+OL,21,Frises.
+OL,26,@nD@AOUsD@^O]vD@KOUxD@PO]{D@DOU{D@KO]|D@
+OL,26,ADOU|D@TO]
 OL,1,W~k4~sj5j5~s1G                   G14/17
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -356,7 +355,7 @@ PN,30215
 SC,0015
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,F"The Prime Minister has some gall if
@@ -380,24 +379,25 @@ PN,30216
 SC,0016
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FMs Reeves' opposite number had
 OL,7,Fcomplained about a report by the
-OL,8,FOffice for Budget Responsibility
-OL,9,Fexpected to address the transparency
-OL,10,Fof the last administration's spending
-OL,11,Fplans.
-OL,13,F"I do not believe publishing a review
-OL,14,Fwith criticisms of the main opposition
-OL,15,Fparty on the day of a budget is
-OL,16,Fconsistent with political
-OL,17,Fimpartiality," he said, adding that
-OL,18,Fdoing so without "asking for the
-OL,19,Fviews" of former Tory ministers would
-OL,20,Famount to a "political intervention."
-OL,26,@uD@AOUyD@NO]zD@ROU{D@FO]|D@MOU|D@eO]
+OL,8,FOffice for Budget Responsibility, to
+OL,9,Fbe released alongside the Budget,
+OL,10,Fwhich is expected to assess the
+OL,11,Ftransparency of the last
+OL,12,Fadministration's spending plans.
+OL,14,F"I do not believe publishing a review
+OL,15,Fwith criticisms of the main opposition
+OL,16,Fparty on the day of a budget is
+OL,17,Fconsistent with political
+OL,18,Fimpartiality," he said, adding that
+OL,19,Fdoing so without "asking for the
+OL,20,Fviews" of former Tory ministers would
+OL,21,Famount to a "political intervention."
+OL,26,@vD@AOUzD@NO]{D@ROU|D@FO]}D@MOU}D@eO]
 OL,1,W~k4~sj5j5~s1G                   G16/17
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -407,7 +407,7 @@ PN,30217
 SC,0017
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1730078595
+OL,0,        ECIMSBWebfax     F302A1730085807
 OL,3,CStarmer: Budget will 'embrace harsh
 OL,4,Clight of fiscal reality'
 OL,6,FOBR chairman Richard Hughes said the
