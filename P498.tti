@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,23 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FNHS, schools, and biggest tax
-OL,9,Frises since 1993: The key Budget
-OL,10,Ftakeaways
-OL,12,G303FUS election: Trump and Harris'
-OL,13,Fteams react to Biden's blunder
-OL,15,G304FThe Budget: What does it mean for
-OL,16,Fthe NHS and our healthcare?
-OL,18,G305FSeveral bodies found after flash
-OL,19,Fflooding sweeps southern and eastern
-OL,20,FSpain
+OL,8,G302FBritish man among at least 90
+OL,9,Fpeople killed by flash floods in Spain
+OL,11,G303FNHS, schools, and biggest tax
+OL,12,Frises since 1993: The key Budget
+OL,13,Ftakeaways
+OL,15,G304FReeves' enormous budget should
+OL,16,Fperhaps have been bigger still
+OL,18,G305FReeves promises more than #13bn
+OL,19,Ffor infected blood and Horizon scandal
+OL,20,Fvictims
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -98,7 +98,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -109,12 +109,13 @@ OL,7,                             R"#!
 OL,8,G361FChancellor Rachel Reeves promises
 OL,9,Fto deliver Transpennine upgrade on
 OL,10,Ftrains
-OL,12,G362FShop worker stabbed trying to stop
-OL,13,Fthief stealing charity box
-OL,15,G363FThe Princess Royal presents King's
-OL,16,Faward to Yorkshire business
-OL,18,G364FMan who strangled woman to death
-OL,19,Fwith tv wire jailed
+OL,12,G362FMixed reaction from businesses and
+OL,13,Fpeople in port town after Chancellor's
+OL,14,Fbudget
+OL,16,G363FShop worker stabbed trying to stop
+OL,17,Fthief stealing charity box
+OL,19,G364FThe Princess Royal presents King's
+OL,20,Faward to Yorkshire business
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -122,7 +123,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -147,7 +148,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -155,17 +156,16 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381F19 amendments proposed to
-OL,9,FGuernsey's 2025 budget
-OL,11,G382FIslanders encouraged to submit
-OL,12,Fpoems for Guernsey's 80th Liberation
-OL,13,FDay
-OL,15,G383F'Unacceptable delay' to ferry
-OL,16,Ftender process damaging tourist
-OL,17,Findustry
-OL,19,G384FSeal rescued in Jersey becomes the
-OL,20,Ffirst to arrive in the UK by private
-OL,21,Fplane
+OL,8,G381FMum and Daughter highlight
+OL,9,Fimportance of genetic testing in
+OL,10,Fdiagnosing cancer
+OL,12,G382FThe club helping women in their
+OL,13,Ftwenties find friends after uni
+OL,15,G383F19 amendments proposed to
+OL,16,FGuernsey's 2025 budget
+OL,18,G384FIslanders encouraged to submit
+OL,19,Fpoems for Guernsey's 80th Liberation
+OL,20,FDay
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -173,7 +173,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -181,16 +181,15 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391F'You shouldn't cripple us':
-OL,9,FBusinesses react to Labour budget
-OL,11,G392FTwo people in hospital after fire
-OL,12,Fbreaks out at nuclear submarine yard
-OL,14,G393FWarnings given about public
-OL,15,Fcommentary that could prejudice
-OL,16,FSouthport trial
-OL,18,G394F'I couldn't be happier': The
-OL,19,FLathums on their new album, UK tour,
-OL,20,Fand hometown
+OL,8,G391FSouthport suspect stays silent in
+OL,9,Fcourt while facing terror charge
+OL,11,G392F'You shouldn't cripple us':
+OL,12,FBusinesses react to Labour budget
+OL,14,G393FTwo people in hospital after fire
+OL,15,Fbreaks out at nuclear submarine yard
+OL,17,G394F'I couldn't be happier': The
+OL,18,FLathums on their new album, UK tour,
+OL,19,Fand hometown
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -198,7 +197,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -223,7 +222,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -247,7 +246,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -257,13 +256,14 @@ OL,6,BITV News Tyne Tees            Rt
 OL,7,                               R*'#/'#
 OL,8,G421FBen Stokes' house 'burgled by
 OL,9,Fmasked gang while family were inside'
-OL,11,G422FBudget 2024: A1 dualling scrapped,
-OL,12,Ffunding for Sunderland film studios
-OL,13,Fand more
-OL,15,G423FMiddlesbrough FC ditch red kits to
-OL,16,Fhighlight knife crime on Teesside
-OL,18,G424FMP who voted to cut winter fuel
-OL,19,Fpayments quits Age UK charity role
+OL,11,G422FBudget 2024: "Hell of a hit" for
+OL,12,Fsmall businesses and A1 decision
+OL,13,Funsurprising
+OL,15,G423FBudget 2024: A1 dualling scrapped,
+OL,16,Ffunding for Sunderland film studios
+OL,17,Fand more
+OL,19,G424FMiddlesbrough FC ditch red kits to
+OL,20,Fhighlight knife crime on Teesside
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -271,7 +271,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -296,7 +296,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -304,16 +304,15 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FChancellor reinstates NI City Deals
-OL,10,G442FSecond arrest made in connection
-OL,11,Fwith Derry sexual assault
-OL,13,G443FMan arrested on suspicion of
-OL,14,Fsexual assault on woman in her late
-OL,15,Fteens in Derry
-OL,17,G444FParents' shock after newborn baby
-OL,18,Fsuffered stroke
-OL,20,G445FSome homeowners may face higher
-OL,21,Frates bills under new proposals
+OL,8,G441FFoster carer in her 80s urges
+OL,9,Fothers to open their homes to children
+OL,10,Fin need
+OL,12,G442FFormer Tesco worker settles claims
+OL,13,Fover handling of sexual harassment for
+OL,14,F#45k
+OL,16,G443FChancellor reinstates NI City Deals
+OL,18,G444FSecond arrest made in connection
+OL,19,Fwith Derry sexual assault
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -321,7 +320,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -347,7 +346,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -372,29 +371,24 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 30 OCT
-OL,4,G1930FEastEnders
-OL,5,     GSuki prepares for the worst, Kojo
-OL,6,     Ghelps a friend in need, and Kat
-OL,7,     Gstruggles in the wake of recent
-OL,8,     Gevents.
-OL,9,G2000FThe Repair Shop: Favourite Fixes
-OL,10,     GNarrator Bill Paterson steps into
-OL,11,     Gthe barn to reminisce on
-OL,12,     Gfavourite fixes from childhood.
-OL,13,G2100FLudwig
-OL,14,     GA cryptic late night call from
-OL,15,     GHolly sees Lucy lured into
-OL,16,     Gdanger. Back at the station, all
-OL,17,     Geyes are on John as the pressure
-OL,18,     Gramps up. Will his cover finally
-OL,19,     Gbe blown?
-OL,20,G2200FBBC News and Weather
-OL,21,G2230FRegional News
+OL,4,G2000FThe Repair Shop: Favourite Fixes
+OL,5,     GNarrator Bill Paterson steps into
+OL,6,     Gthe barn to reminisce on
+OL,7,     Gfavourite fixes from childhood.
+OL,8,G2100FLudwig
+OL,9,     GA cryptic late night call from
+OL,10,     GHolly sees Lucy lured into
+OL,11,     Gdanger. Back at the station, all
+OL,12,     Geyes are on John as the pressure
+OL,13,     Gramps up. Will his cover finally
+OL,14,     Gbe blown?
+OL,15,G2200FBBC News and Weather
+OL,16,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -402,27 +396,30 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 30 OCT
-OL,4,G1900FLift: The Secret Genius of Modern
-OL,5,     FLife
-OL,6,     GHannah examines the lift,
-OL,7,     Gentering a 246m high lift shaft
-OL,8,     Gto test her fear of heights.
-OL,9,G2000FDigging for Britain
-OL,10,     GAlice Roberts celebrates the
-OL,11,     Gbiggest and best archaeological
-OL,12,     Gdiscoveries of 2018 from the
-OL,13,     Gnorth of the UK.
-OL,14,G2100FHelmand: Tour of Duty
-OL,15,     GThe stories of ten soldiers from
-OL,16,     Gthe Welsh Guards on the front
-OL,17,     Gline of the Afghan war. Contains
-OL,18,     Gvery strong language and
-OL,19,     Gupsetting scenes.
+OL,4,G2000FDigging for Britain
+OL,5,     GAlice Roberts celebrates the
+OL,6,     Gbiggest and best archaeological
+OL,7,     Gdiscoveries of 2018 from the
+OL,8,     Gnorth of the UK.
+OL,9,G2100FHelmand: Tour of Duty
+OL,10,     GThe stories of ten soldiers from
+OL,11,     Gthe Welsh Guards on the front
+OL,12,     Gline of the Afghan war. Contains
+OL,13,     Gvery strong language and
+OL,14,     Gupsetting scenes.
+OL,15,G2220FSaving Lives at Sea
+OL,16,     GThe volunteers of the RNLI race
+OL,17,     Gto save a family trapped in their
+OL,18,     Gcar, slowly being engulfed by the
+OL,19,     Gsea, two kayakers close to
+OL,20,     Gdrowning, and a fossil hunter cut
+OL,21,     Goff by the tide.
+OL,22,G2230FNewsnight
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -430,23 +427,28 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 30 OCT
-OL,4,G1930FEmmerdale
-OL,5,     GA face from Charity's past
-OL,6,     Greturns, Nicola takes action, and
-OL,7,     GCain is struggling with Moira's
-OL,8,     Gplan.
-OL,9,G2000FCoronation Street
-OL,10,     GBetsy jumps to conclusions about
-OL,11,     GLisa's bruises, Aadi recommends a
-OL,12,     Gromantic gesture to Dev, Adam
-OL,13,     Gvoices concern about Ken's
-OL,14,     Gspending, and Kit uses insider
-OL,15,     Ginfo to impress Daisy.
+OL,4,G2000FCoronation Street
+OL,5,     GBetsy jumps to conclusions about
+OL,6,     GLisa's bruises, Aadi recommends a
+OL,7,     Gromantic gesture to Dev, Adam
+OL,8,     Gvoices concern about Ken's
+OL,9,     Gspending, and Kit uses insider
+OL,10,     Ginfo to impress Daisy.
+OL,11,G2100FPrince William: We Can End
+OL,12,     FHomelessness
+OL,13,     GFollow the launch of Homewards,
+OL,14,     GPrince William's five-year
+OL,15,     Gprogramme that aims to show it is
+OL,16,     Gpossible to end homelessness by
+OL,17,     Gworking with locations across the
+OL,18,     GUK.
+OL,19,G2200FITV News at Ten
+OL,20,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -454,28 +456,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 30 OCT
-OL,4,G1900FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G2000FLocation, Location, Location
-OL,8,     GIn Cambridgeshire, Kirstie helps
-OL,9,     GAli and Nick sniff out their
-OL,10,     Gfirst home together in Stilton.
-OL,11,     GAnd Phil hopes to get Hannah and
-OL,12,     GHugo over the threshold of their
-OL,13,     Gfirst marital home.
-OL,14,G2100FGrand Designs
-OL,15,     GOn a nostalgic revisit to the
-OL,16,     Gfirst ever Grand Design, from
-OL,17,     Gback in 1999, Kevin finds out if
-OL,18,     GTim and Jules are still flying
-OL,19,     Ghigh in their timber-framed home
-OL,20,     Gon the cliffs above Newhaven.
+OL,4,G2000FLocation, Location, Location
+OL,5,     GIn Cambridgeshire, Kirstie helps
+OL,6,     GAli and Nick sniff out their
+OL,7,     Gfirst home together in Stilton.
+OL,8,     GAnd Phil hopes to get Hannah and
+OL,9,     GHugo over the threshold of their
+OL,10,     Gfirst marital home.
+OL,11,G2100FGrand Designs
+OL,12,     GOn a nostalgic revisit to the
+OL,13,     Gfirst ever Grand Design, from
+OL,14,     Gback in 1999, Kevin finds out if
+OL,15,     GTim and Jules are still flying
+OL,16,     Ghigh in their timber-framed home
+OL,17,     Gon the cliffs above Newhaven.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -483,52 +482,52 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 30 OCT
-OL,4,G1900FShop Smart, Save Money
-OL,5,     GGaby Roslin and Ortis Deley
-OL,6,     Greveal some of the best money-
-OL,7,     Gsaving deals of the week, and put
-OL,8,     Gthree exercise bikes through
-OL,9,     Gtheir paces. Jon Bentley puts
-OL,10,     Gtoasters to the test at a cafe.
-OL,11,G2000FTraffic Cops
-OL,12,     GA look at how the UK's 11,000
-OL,13,     GAutomatic Number Plate
-OL,14,     GRecognition cameras assist in
-OL,15,     Gidentifying offenders, including
-OL,16,     Gpolice units chasing a suspected
-OL,17,     Gdisqualified driver.
+OL,4,G2000FTraffic Cops
+OL,5,     GA look at how the UK's 11,000
+OL,6,     GAutomatic Number Plate
+OL,7,     GRecognition cameras assist in
+OL,8,     Gidentifying offenders, including
+OL,9,     Gpolice units chasing a suspected
+OL,10,     Gdisqualified driver.
+OL,11,G2100FPolice: Night Shift 999
+OL,12,     GOfficers respond to an incident
+OL,13,     Gwhere a person has been assaulted
+OL,14,     Gafter asking a man to stop
+OL,15,     Gvandalising a park. PCs Durrant
+OL,16,     Gand Bower stop a female driver
+OL,17,     Gwho is driving erratically.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
-OL,26,@rD@crr
 PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730316715
+OL,0,        ECIMSBWebfax     F498A1730320324
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 30 OCT
-OL,4,G1900FZ-Cars
-OL,5,     GIn Police Hands. 1974. Stars
-OL,6,     GBrigid Erin Bates, John Oxley &
-OL,7,     GDouglas Fielding. Julie and Dave
-OL,8,     Gare happy, then they're in the
-OL,9,     Gnick. It seems that simply being
-OL,10,     Gin love these days is a crime.
-OL,11,G2005FThe Human Jungle
-OL,12,     GEnemy Outside. 1965. Stars
-OL,13,     GHerbert Lom. Two men in the same
-OL,14,     Ghospital ward give Drs Corder and
-OL,15,     GDavis a problem that trembles on
-OL,16,     Gthe brink of catastrophe. Guest
-OL,17,     Gstars Tony Tanner.
+OL,4,G2005FThe Human Jungle
+OL,5,     GEnemy Outside. 1965. Stars
+OL,6,     GHerbert Lom. Two men in the same
+OL,7,     Ghospital ward give Drs Corder and
+OL,8,     GDavis a problem that trembles on
+OL,9,     Gthe brink of catastrophe. Guest
+OL,10,     Gstars Tony Tanner.
+OL,11,G2105FMaigret
+OL,12,     GMaigret at the Majestic. 1993.
+OL,13,     GStars Bruno Cremer, Jerome
+OL,14,     GDeschamps & Marilu Marini. After
+OL,15,     Ga guest at the Hotel Majestic is
+OL,16,     Gstrangled, Maigret takes on the
+OL,17,     Gdifficulties of the complex case.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
+OL,26,@uD@[rruD@]sw
