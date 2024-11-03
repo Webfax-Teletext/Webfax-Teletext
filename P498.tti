@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -149,7 +149,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -175,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -200,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -234,16 +234,15 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FRaccoons escape from Isle of Wight
-OL,9,Fzoo
-OL,11,G412FCyber attack crashes city council
-OL,12,Fwebsite with other UK authorities
-OL,13,Ftargeted
-OL,15,G413FOvercrowding concerns at Bonfire
-OL,16,FNight event after 200 injuries in five
-OL,17,Fyears
-OL,19,G414FThousands march through London to
-OL,20,Fdemand cleaner water
+OL,8,G411FThousands march through London to
+OL,9,Fdemand cleaner water
+OL,11,G412FRaccoons escape from Isle of Wight
+OL,12,Fzoo
+OL,14,G413FMan arrested following discovery
+OL,15,Fof cannabis factory in Basingstoke
+OL,17,G414FCyber attack crashes city council
+OL,18,Fwebsite with other UK authorities
+OL,19,Ftargeted
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -251,7 +250,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -276,7 +275,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -286,14 +285,13 @@ OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
 OL,8,G431FTeenager, 19, dies and six others
 OL,9,Finjured in car crash
-OL,11,G432FAward-nominated PC barred for
-OL,12,Fsexual misconduct
-OL,14,G433FLesser horseshoe bats now living
-OL,15,Fnear key road - with brown long-eared
-OL,16,Fvisitors
-OL,18,G434F'Machine guy' who supplied drug
-OL,19,Fdealers with industrial pill pressers
-OL,20,Fjailed
+OL,11,G432FNew bishop enthroned in cathedral
+OL,12,Fceremony
+OL,14,G433FAward-nominated PC barred for
+OL,15,Fsexual misconduct
+OL,17,G434FLesser horseshoe bats now living
+OL,18,Fnear key road - with brown long-eared
+OL,19,Fvisitors
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -301,7 +299,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -327,7 +325,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -353,7 +351,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -378,58 +376,59 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 NOV
-OL,4,G1505FPaddington 2
-OL,5,     GPaddington finds himself the
-OL,6,     Gprime suspect when Aunt Lucy's
-OL,7,     Gbirthday present is stolen.
-OL,8,G1640FBBC News
-OL,9,G1655FRegional News
-OL,10,G1700FWeather
-OL,11,G1705FCountryfile Rambles for BBC...
-OL,12,     GChildren in Need 2024. A
-OL,13,     Gcelebration on the tenth
-OL,14,     Ganniversary of Countryfile
-OL,15,     GRambles for BBC Children in Need.
-OL,16,G1820FAsia
-OL,17,     GA look at the richest seas on
-OL,18,     Gearth, with epic spectacles and
-OL,19,     Gstartling animal behaviour.
+OL,4,G1705FCountryfile Rambles for BBC...
+OL,5,     GChildren in Need 2024. A
+OL,6,     Gcelebration on the tenth
+OL,7,     Ganniversary of Countryfile
+OL,8,     GRambles for BBC Children in Need.
+OL,9,G1820FAsia
+OL,10,     GA look at the richest seas on
+OL,11,     Gearth, with epic spectacles and
+OL,12,     Gstartling animal behaviour.
+OL,13,G1920FStrictly Come Dancing: The Results
+OL,14,     GIn honour of Icons Week, our
+OL,15,     Gprofessionals celebrate Beyonce
+OL,16,     Gwith a very special routine, and
+OL,17,     Gthere is music from pop group
+OL,18,     GDear Alice, all ahead of the
+OL,19,     Gdance-off.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
+OL,26,@wD@drr
 PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 NOV
-OL,4,G1440FDunkirk (1958)
-OL,5,     GA dramatic reconstruction of the
-OL,6,     GWorld War II defeat at Dunkirk,
-OL,7,     Gtold through the experiences of
-OL,8,     Gthree characters.
-OL,9,G1650FFlog It!
-OL,10,     GThe team are at Gloucester
-OL,11,     GCathedral, where presenter Paul
-OL,12,     GMartin and experts Phillip
-OL,13,     GSerrell and Michael Baggott
-OL,14,     Gexamine the antiques and
-OL,15,     Gcollectibles brought in by the
-OL,16,     Gpublic.
-OL,17,G1725FEden: Untamed Planet
-OL,18,     GThe Namib Desert is one of the
-OL,19,     Goldest deserts in the world,
-OL,20,     Gflourishing with life where none
-OL,21,     Gseems possible. This programme
-OL,22,     Greveals its hidden water sources.
+OL,4,G1725FEden: Untamed Planet
+OL,5,     GThe Namib Desert is one of the
+OL,6,     Goldest deserts in the world,
+OL,7,     Gflourishing with life where none
+OL,8,     Gseems possible. This programme
+OL,9,     Greveals its hidden water sources.
+OL,10,G1815FMOTD: FA Cup Highlights
+OL,11,     GAll the goals and talking points
+OL,12,     Gfrom a bumper weekend of FA Cup
+OL,13,     Gaction as EFL sides from League
+OL,14,     GOne and Two enter the competition
+OL,15,     Gat the first-round stage.
+OL,16,G2000FScotland: The New Wild
+OL,17,     GExploring the Highlands, home to
+OL,18,     Gsome of Scotland's rarest and
+OL,19,     Gmost iconic animals. Much has
+OL,20,     Gbeen lost, but signs of recovery
+OL,21,     Gare beginning to emerge in these
+OL,22,     Gancient lands.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -437,7 +436,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -465,30 +464,29 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 NOV
-OL,4,G1620FKirstie and Phil's Love It or
-OL,5,     FList It
-OL,6,     GTim, Sonia and daughter Ella are
-OL,7,     Gliving in Tim's childhood home in
-OL,8,     GChippenham. Tim and Ella crave a
-OL,9,     Gfresh start in a new place, but
-OL,10,     GSonia's settled. Will they move
-OL,11,     Gon?
-OL,12,G1725FChannel 4 News
-OL,13,     GChannel 4's flagship news
-OL,14,     Gprogramme. Including the weather.
-OL,15,G1755FDevon and Cornwall: Traditional
-OL,16,     FLives
-OL,17,     GThis special programme celebrates
-OL,18,     Gthe counties' heritage and strong
-OL,19,     Gtraditions, from repairing a
-OL,20,     Gvelocipede and an ancient church
-OL,21,     Gtower, to restoring a Cornish
-OL,22,     Ghedge.
+OL,4,G1725FChannel 4 News
+OL,5,     GChannel 4's flagship news
+OL,6,     Gprogramme. Including the weather.
+OL,7,G1755FDevon and Cornwall: Traditional
+OL,8,     FLives
+OL,9,     GThis special programme celebrates
+OL,10,     Gthe counties' heritage and strong
+OL,11,     Gtraditions, from repairing a
+OL,12,     Gvelocipede and an ancient church
+OL,13,     Gtower, to restoring a Cornish
+OL,14,     Ghedge.
+OL,15,G1850FIndependence Day: Resurgence
+OL,16,     GSci-fi blockbuster sequel
+OL,17,     Gstarring Jeff Goldblum. Twenty
+OL,18,     Gyears after Earth repelled a
+OL,19,     Gdevastating alien invasion, the
+OL,20,     Gextraterrestrials return to
+OL,21,     Gfinish the job.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -496,28 +494,27 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 NOV
-OL,4,G1625F5 News Update
-OL,5,     GNational and international news.
-OL,6,G1630FChristmas in Notting Hill
-OL,7,     GRomance. When a football star,
-OL,8,     Gwho is always too busy for love,
-OL,9,     Gcomes home to Notting Hill for
-OL,10,     GChristmas, he changes his ways
-OL,11,     Gafter meeting the one person who
-OL,12,     Ghas no idea who he is.
-OL,13,G1715FChristmas in Angel Falls
-OL,14,     GFestive romance. Guardian angel
-OL,15,     GGabby unexpectedly falls in love
-OL,16,     Gwhen she comes down to Angel
-OL,17,     GFalls in order to restore the
-OL,18,     Gtown's forgotten Christmas spirit.
-OL,19,G1855F5 News Weekend
-OL,20,     GNational and international news.
+OL,4,G1715FChristmas in Angel Falls
+OL,5,     GFestive romance. Guardian angel
+OL,6,     GGabby unexpectedly falls in love
+OL,7,     Gwhen she comes down to Angel
+OL,8,     GFalls in order to restore the
+OL,9,     Gtown's forgotten Christmas spirit.
+OL,10,G1855F5 News Weekend
+OL,11,     GNational and international news.
+OL,12,G1900FChristmas in the Cotswolds
+OL,13,     GIn this special festive programme
+OL,14,     Gwe head to the Cotswolds, one of
+OL,15,     Gthe UK's most visited
+OL,16,     Gdestinations, for a magical
+OL,17,     GChristmas as we follow farmers
+OL,18,     Gand artisans, chefs and stately
+OL,19,     Ghome curators.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -525,26 +522,23 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730651251
+OL,0,        ECIMSBWebfax     F498A1730654861
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 3 NOV
-OL,4,G1600FTell Me Another
-OL,5,     GHow They Started in Showbusiness.
-OL,6,     G1976. Personal anecdotes as told
-OL,7,     Gto Dick Hills. This episode stars
-OL,8,     GYootha Joyce, Bernard Manning,
-OL,9,     GAlfred Marks, Leslie Phillips,
-OL,10,     GTerry Scott & Max Wall.
-OL,11,G1630FOut of Town
-OL,12,     GCattle Dogs/Clocks. 1981. Dog
-OL,13,     Gtrainers John and Mary show Jack
-OL,14,     Gsome working cattle dogs. He then
-OL,15,     Gvisits an exhibition at the
-OL,16,     GDorchester County Museum where he
-OL,17,     Gis surprised to find his own
-OL,18,     Gclock.
+OL,4,G1700FThe Footage Detectives
+OL,5,     GWe remember the great Kenneth
+OL,6,     GCope with a reel of him and
+OL,7,     GMillicent Martin from the 60s! We
+OL,8,     Ggo off to see the toys of
+OL,9,     Gyesteryear and go behind the
+OL,10,     Gscenes of the making of an Aston
+OL,11,     GMartin!
+OL,12,G1800FCinebox Memories
+OL,13,     GTake a step back in time and
+OL,14,     Genjoy the hit 60s tune Runaround
+OL,15,     GSue by Dion.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
