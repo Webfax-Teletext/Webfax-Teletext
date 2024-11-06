@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,15 +50,15 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FLive: World awaits result of US
-OL,9,Felection
+OL,8,G302FWhat can we expect from a Donald
+OL,9,FTrump presidency?
 OL,11,G303FTrump edges ahead of Harris in
 OL,12,Fpresidential race with key state wins
 OL,14,G304F'You messed with the wrong
@@ -73,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -175,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -234,16 +234,17 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FDog owner's pet dies after being
-OL,9,Fspooked by fireworks
-OL,11,G412FGuy Fawkes' iron lantern from
-OL,12,F'Gunpowder Plot' on display at museum
-OL,14,G413FBoy in critical condition after
-OL,15,Fsuspected hit and run during rush-hour
-OL,17,G414FSecret factory codes discovered in
-OL,18,Fremains of a World War 2 missile
-OL,20,G415FVodafone and Three #15bn merger
-OL,21,Fcould get green light, UK watchdog says
+OL,8,G411FVitamin D supplements in pregnancy
+OL,9,Fshown to improve bone density in
+OL,10,Fchildhood
+OL,12,G412FThousands take to streets for
+OL,13,Fannual Lewes bonfire parade
+OL,15,G413FDog owner's pet dies after being
+OL,16,Fspooked by fireworks
+OL,18,G414FGuy Fawkes' iron lantern from
+OL,19,F'Gunpowder Plot' on display at museum
+OL,21,G415FBoy in critical condition after
+OL,22,Fsuspected hit and run during rush-hour
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -251,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -277,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -285,18 +286,16 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FMan dead and murder probe launched
-OL,9,Fafter reported stabbing near primary
-OL,10,Fschool
-OL,12,G432FPrisoner's brother warns
-OL,13,F'torturous' IPP sentences will cause
-OL,14,Fdeaths in custody
-OL,16,G433FResidents say 'lives with be put
-OL,17,Fin danger' by controversial new
-OL,18,Ftraffic scheme
-OL,20,G434FChanges to Glastonbury Festival
-OL,21,Fticket sale as 'virtual queue'
-OL,22,Fconfirmed
+OL,8,G431FWOMAD festival won't go ahead in
+OL,9,F2025
+OL,11,G432FTributes to 'kind, caring and fun'
+OL,12,Fteenager killed in crash
+OL,14,G433FMan dead and murder probe launched
+OL,15,Fafter reported stabbing near primary
+OL,16,Fschool
+OL,18,G434FPrisoner's brother warns
+OL,19,F'torturous' IPP sentences will cause
+OL,20,Fdeaths in custody
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -304,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -329,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -355,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -380,7 +379,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -407,28 +406,25 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 NOV
-OL,4,G0630FEscape to the Country
-OL,5,     GReturning to the UK after 22
-OL,6,     Gyears in eastern Australia,
-OL,7,     Gtoday's couple have decided they
-OL,8,     Gnow want to call the glorious
-OL,9,     GGloucestershire countryside home.
-OL,10,G0715FAntiques Road Trip
-OL,11,     GIt's the second leg with Margie
-OL,12,     GCooper and Tim Medhurst. In
-OL,13,     GLiverpool, they scour the shops
-OL,14,     Gfor secrets and find time for
-OL,15,     Gsome moving meditation in the
-OL,16,     Gcity's Chinatown.
-OL,17,G0800FScotland - The New Wild
-OL,18,     GOn the edge of the wild Atlantic,
-OL,19,     GScotland's islands host dramatic
-OL,20,     Gwildlife spectacles.
+OL,4,G0800FScotland - The New Wild
+OL,5,     GOn the edge of the wild Atlantic,
+OL,6,     GScotland's islands host dramatic
+OL,7,     Gwildlife spectacles.
+OL,8,G0900FThe Wonder of Animals
+OL,9,     GChris Packham explores what makes
+OL,10,     Ganimal groups successful: How are
+OL,11,     Gbears able to survive in
+OL,12,     Gpractically every habitat on
+OL,13,     Gearth, from jungles to the Arctic?
+OL,14,G0930FBBC News
+OL,15,G1115FPolitics Live
+OL,16,     GThe big political issues of the
+OL,17,     Gday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -436,7 +432,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -462,25 +458,27 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 NOV
-OL,4,G0705FCheers
-OL,5,     GNo Help Wanted: Norm has been out
-OL,6,     Gof work for a year and gets a job
-OL,7,     Gwashing dishes - until Diane
-OL,8,     Gencourages Sam to hire him as his
-OL,9,     Gaccountant to get his tax return
-OL,10,     Gcompleted.
-OL,11,G0730FCheers
-OL,12,     GAnd Coachie Makes Three: Coach
-OL,13,     Gkeeps hanging around with Sam and
-OL,14,     GDiane, but they get tired of him
-OL,15,     Gplaying gooseberry and decide to
-OL,16,     Gset him up on a date with a
-OL,17,     Gsuitable woman.
+OL,4,G0755FThe King of Queens
+OL,5,     GBlack List: Doug tries to find
+OL,6,     Ghis 'roots' when Deacon snubs him
+OL,7,     Gfor a new Black friend. And
+OL,8,     GCarrie's manicurist refuses to
+OL,9,     Gsee her.
+OL,10,G0825FThe King of Queens
+OL,11,     GWish Boned: Doug agrees to take
+OL,12,     GArthur on a trip to St Louis, on
+OL,13,     Gthe condition that he never has
+OL,14,     Gto see his naked back again. But
+OL,15,     Gall does not go to plan.
+OL,16,G0850FThe King of Queens
+OL,17,     GVan, Go: Doug upsets a waitress
+OL,18,     Gso much that she demands to fight
+OL,19,     Ghim once he's finished his meal.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -488,24 +486,30 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 6 NOV
-OL,4,G0705FPeppa Pig
-OL,5,     GMadame Gazelle brings lots of
-OL,6,     Gmusical instruments into
-OL,7,     Gplaygroup for the children.
-OL,8,G0710FPeppa Pig
-OL,9,     GPeppa receives an invite to Candy
-OL,10,     GCat's birthday party - on a
-OL,11,     Gdouble decker bus!
-OL,12,G0715FPAW Patrol
-OL,13,     GWhile Ryder is away to fix Robo-
-OL,14,     GDog's tail, Mayor Humdinger
-OL,15,     Gdisrupts Adventure Bay with his
-OL,16,     Gbarking kitties.
+OL,4,G0755FMilo
+OL,5,     GMilo, Lofty and Lark offer to
+OL,6,     Gwrite Commander Cottontail's
+OL,7,     Gbiography, following him through
+OL,8,     Gthe jungle on an exciting
+OL,9,     Gexpedition. But then they lose
+OL,10,     Ghim...
+OL,11,G0810FPAW Patrol
+OL,12,     GMarshall wins a new collar which
+OL,13,     Ghe thinks is lucky, so takes more
+OL,14,     Grisks than necessary when the
+OL,15,     Gpups are called to rescue a young
+OL,16,     Gowl.
+OL,17,G0825FReu & Harper's Wonder World
+OL,18,     GReika and Taiga invite Reu and
+OL,19,     GHarper to join them for a
+OL,20,     Gplaydate to learn all about
+OL,21,     GJapan, where their mummy is from
+OL,22,     Gand where they all used to live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -513,7 +517,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730876949
+OL,0,        ECIMSBWebfax     F498A1730880561
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
