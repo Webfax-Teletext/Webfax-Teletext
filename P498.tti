@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -65,8 +65,9 @@ OL,13,Fyear
 OL,15,G304FStarmer to sign deal with Balkan
 OL,16,Fnations to tackle migrant smuggling
 OL,17,Fgangs
-OL,19,G305F'Never give up': Harris makes
-OL,20,Ffirst speech after conceding to Trump
+OL,19,G305F'We must accept the result':
+OL,20,FHarris vows peaceful transition of
+OL,21,Fpower to Trump
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -184,17 +185,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FChris Thomas sacked from Manx
-OL,9,Fhealth department after two and a half
-OL,10,Fweeks
-OL,12,G392FPolice pelted with fireworks by
-OL,13,Fhuge group of youths on bonfire night
-OL,15,G393FSon uncovers his father's wartime
-OL,16,Fjourney in WW1
-OL,18,G394FLucy Letby offered to give 'tips'
-OL,19,Fon how to get away with murder
-OL,21,G395FFamilies affected by birth defect
-OL,22,Fdrug 'totally ignored' by government
+OL,8,G391FOlympic gymnast Max Whitlock
+OL,9,Faiming to get children more active
+OL,11,G392FChris Thomas sacked from Manx
+OL,12,Fhealth department after two and a half
+OL,13,Fweeks
+OL,15,G393FPolice pelted with fireworks by
+OL,16,Fhuge group of youths on bonfire night
+OL,18,G394FSon uncovers his father's wartime
+OL,19,Fjourney in WW1
+OL,21,G395FLucy Letby offered to give 'tips'
+OL,22,Fon how to get away with murder
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -202,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -228,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -253,7 +254,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +280,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -289,13 +290,15 @@ OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
 OL,8,G431FForce refers itself to police
 OL,9,Fwatchdog over serious overnight crash
-OL,11,G432FForcing care sector to 'scale
-OL,12,Fback' will put pressure on NHS, says
-OL,13,Fprovider
-OL,15,G433FResidents trapped in year-long
-OL,16,Fcladding crisis awaiting safety repairs
-OL,18,G434FThree staff members at care home
-OL,19,Farrested after allegations of violence
+OL,11,G432FMan, 36, who died in stabbing near
+OL,12,Fprimary school named
+OL,14,G433FForcing care sector to 'scale
+OL,15,Fback' will put pressure on NHS, says
+OL,16,Fprovider
+OL,18,G434FResidents trapped in year-long
+OL,19,Fcladding crisis awaiting safety repairs
+OL,21,G435FThree staff members at care home
+OL,22,Farrested after allegations of violence
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -303,7 +306,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -327,7 +330,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -352,7 +355,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -377,7 +380,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -406,25 +409,27 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 7 NOV
-OL,4,G0800FScotland - The New Wild
-OL,5,     GPeregrine falcons, foxes and
-OL,6,     Gbeavers find places to thrive in
-OL,7,     GScotland's Lowlands.
-OL,8,G0900FBBC News
-OL,9,G1215FPolitics Live
-OL,10,     GThe big political issues of the
-OL,11,     Gday.
-OL,12,G1300FImpossible
-OL,13,     GGame show presented by Rick
-OL,14,     GEdwards in which players score
-OL,15,     Gpoints by answering questions
-OL,16,     Gcorrectly while avoiding the
-OL,17,     GImpossible answers.
+OL,4,G0900FBBC News
+OL,5,G1215FPolitics Live
+OL,6,     GThe big political issues of the
+OL,7,     Gday.
+OL,8,G1300FImpossible
+OL,9,     GGame show presented by Rick
+OL,10,     GEdwards in which players score
+OL,11,     Gpoints by answering questions
+OL,12,     Gcorrectly while avoiding the
+OL,13,     GImpossible answers.
+OL,14,G1345FThe Tournament
+OL,15,     GIn the ultimate knockout quiz,
+OL,16,     Geight players do battle on the
+OL,17,     GTournament Run in a series of
+OL,18,     Gexciting tug-of-war quiz matches.
+OL,19,     GHosted by Alex Scott.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -432,25 +437,30 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 7 NOV
-OL,4,G0600FGood Morning Britain
-OL,5,     GNews, current affairs and lively
-OL,6,     Gdebate.
-OL,7,G0900FLorraine
-OL,8,     GIn her first TV interview since
-OL,9,     Gleaving Strictly, Amy Dowden
-OL,10,     Gjoins Lorraine.
-OL,11,G1000FThis Morning
-OL,12,     GMagazine show with news and
-OL,13,     Gtopical items, celebrity guests,
-OL,14,     Gexpert advice, real-life stories,
-OL,15,     Gcompetitions and a mix of
-OL,16,     Gcookery, health, beauty,
-OL,17,     Glifestyle and more.
+OL,4,G0900FLorraine
+OL,5,     GIn her first TV interview since
+OL,6,     Gleaving Strictly, Amy Dowden
+OL,7,     Gjoins Lorraine.
+OL,8,G1000FThis Morning
+OL,9,     GMagazine show with news and
+OL,10,     Gtopical items, celebrity guests,
+OL,11,     Gexpert advice, real-life stories,
+OL,12,     Gcompetitions and a mix of
+OL,13,     Gcookery, health, beauty,
+OL,14,     Glifestyle and more.
+OL,15,G1230FLoose Women
+OL,16,     GJoin the Loose Women panellists
+OL,17,     Gas they interview celebrity
+OL,18,     Gguests and discuss the day's most
+OL,19,     Gtopical issues, from current
+OL,20,     Gaffairs to celebrity gossip and
+OL,21,     Gthe latest showbiz news.
+OL,22,G1330FITV Lunchtime News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -458,27 +468,29 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 7 NOV
-OL,4,G0810FThe King of Queens
-OL,5,     GCatching Hell: Spence has to
-OL,6,     Gpretend to be Doug at a work
-OL,7,     Gevent at the baseball. Guest
-OL,8,     Gstarring Lou Ferrigno .
-OL,9,G0840FThe King of Queens
-OL,10,     GSlippery Slope: Doug takes Carrie
-OL,11,     Gaway for a skiing weekend... a
-OL,12,     Gtimeshare sales skiing weekend.
-OL,13,     GThey're joined on the trip by
-OL,14,     Ganother couple: Spence and Danny.
-OL,15,G0910FFrasier
-OL,16,     GMaris Returns : Niles's ex-wife
-OL,17,     GMaris needs his help. Can he keep
-OL,18,     Gher return secret from a pregnant
-OL,19,     Gand emotional Daphne?
+OL,4,G0910FFrasier
+OL,5,     GMaris Returns : Niles's ex-wife
+OL,6,     GMaris needs his help. Can he keep
+OL,7,     Gher return secret from a pregnant
+OL,8,     Gand emotional Daphne?
+OL,9,G0940FFrasier
+OL,10,     GMurder Most Maris : Niles is
+OL,11,     Gsuspected as an accomplice to
+OL,12,     Gmurder, and Frasier accidentally
+OL,13,     Grecommends that his brother
+OL,14,     Gshould be executed...
+OL,15,G1010FFrasier
+OL,16,     GGuns 'N' Neuroses: Lilith and
+OL,17,     GFrasier are both set up on blind
+OL,18,     Gdates... on the same day... by a
+OL,19,     Gmutual friend. Niles and Daphne
+OL,20,     Gare upset when Martin's gun
+OL,21,     Gaccidentally goes off.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -486,27 +498,28 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 7 NOV
-OL,4,G0810FPAW Patrol
-OL,5,     GA train arrives, bearing a trio
-OL,6,     Gof stowaway penguins who have
-OL,7,     Geaten all Jack and Mr Porter's
-OL,8,     Gfish and scarpered.
-OL,9,G0825FReu & Harper's Wonder World
-OL,10,     GReu and Harper go on a playdate
-OL,11,     Gwith Martina to learn about
-OL,12,     GItaly, a country where her
-OL,13,     Gparents used to live.
-OL,14,G0840FMilkshake! Music Explorers
-OL,15,     GJoin Kemi and some mini
-OL,16,     GMilkshakers in the Milkshake!
-OL,17,     Gstudio as they learn about the
-OL,18,     GKora, an instrument that comes
-OL,19,     Gfrom West Africa.
+OL,4,G0905FMilkshake! Bopping About
+OL,5,     GLive action series featuring
+OL,6,     Gmusic and dance. Derek and Jen
+OL,7,     Gpractice their rock star poses as
+OL,8,     Gthey scream and shout and bang
+OL,9,     Gpots and pans.
+OL,10,G0915FJeremy Vine
+OL,11,     GJeremy Vine and Storm discuss the
+OL,12,     Glatest news and get your views
+OL,13,     Gand opinions of the day.
+OL,14,G1130FStorm Huntley
+OL,15,     GStorm Huntley carries on the
+OL,16,     Gdiscussion and takes your calls
+OL,17,     Gto discuss the biggest stories of
+OL,18,     Gthe day.
+OL,19,G1255F5 News at Lunchtime
+OL,20,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -514,7 +527,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1730967176
+OL,0,        ECIMSBWebfax     F498A1730970782
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
