@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,23 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FStarmer says MPs should 'make
-OL,9,Ftheir own mind up' on assisted dying
-OL,10,Fbill
-OL,12,G303FAssisted dying would need approval
-OL,13,Ffrom two doctors and a judge
-OL,15,G304F'Unlikely' that NHS will meet 18-
-OL,16,Fweek waiting time target, say trust
-OL,17,Fleaders
-OL,19,G305FGary Lineker steps down from BBC
-OL,20,Fand Match Of The Day after 25 years
+OL,8,G302FGary Lineker steps down from BBC
+OL,9,Fand Match Of The Day after 25 years
+OL,11,G303FUnemployment rate increases as
+OL,12,Fwage growth slows again, new figures
+OL,13,Fshow
+OL,15,G304FStarmer says MPs should 'make
+OL,16,Ftheir own mind up' on assisted dying
+OL,17,Fbill
+OL,19,G305FAssisted dying: What is in the new
+OL,20,Fbill and who qualifies?
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -149,7 +149,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +174,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -185,12 +185,14 @@ OL,7,                              R"+'
 OL,8,G391FReferee suspended after video
 OL,9,Femerges of him appearing to insult
 OL,10,FJurgen Klopp
-OL,12,G392FHospital managers 'disbelieving'
-OL,13,Fof doctors' concerns over Letby
-OL,15,G393FMPs call for more Goverment
-OL,16,Ffunding for hospices
-OL,18,G394FRuud Van Nistelrooy leaves
-OL,19,FManchester United
+OL,12,G392FMurder investigation after man,
+OL,13,F59, found dead in house
+OL,15,G393FHospital managers 'disbelieving'
+OL,16,Fof doctors' concerns over Letby
+OL,18,G394FMPs call for more Goverment
+OL,19,Ffunding for hospices
+OL,21,G395FRuud Van Nistelrooy leaves
+OL,22,FManchester United
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -198,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -223,7 +225,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -248,7 +250,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -275,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -283,17 +285,17 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431F'I felt like I was the only one' -
-OL,9,FPolice chief opens up about domestic
-OL,10,Fabuse
-OL,12,G432FParents of 'lovely' man killed in
-OL,13,FUkraine remember him on Armistice Day
-OL,15,G433FFirefighter honoured with
-OL,16,FElizabeth Emblem 28 years after her
-OL,17,Fdeath
-OL,19,G434FDecision to search Skripals' home
-OL,20,F'still haunts me', detective tells
-OL,21,Finquiry
+OL,8,G431FStreet shut after fire rips
+OL,9,Fthrough homes and takeaway
+OL,11,G432FThree people arrested on suspicion
+OL,12,Fof murder after man found dead
+OL,14,G433FM5 motorway to remain closed 'for
+OL,15,Fsome time' after teen's death
+OL,17,G434F'I felt like I was the only one' -
+OL,18,FPolice chief opens up about domestic
+OL,19,Fabuse
+OL,21,G435FParents of 'lovely' man killed in
+OL,22,FUkraine remember him on Armistice Day
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -301,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -327,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -352,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -377,30 +379,29 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 NOV
-OL,4,G0930FMorning Live
-OL,5,     GJoin Gethin Jones, Helen Skelton,
-OL,6,     GMichelle Ackerley and the team
-OL,7,     Gfor conversation, advice and tips
-OL,8,     Gto make your day that little bit
-OL,9,     Geasier.
-OL,10,G1045FRip Off Britain
-OL,11,     GGloria Hunniford learns how the
-OL,12,     G1990s fashion for bamboo in our
-OL,13,     Ggardens is causing expensive
-OL,14,     Gproblems for some homeowners 25
-OL,15,     Gyears later.
-OL,16,G1130FHomes Under the Hammer
-OL,17,     GA Victorian terrace in
-OL,18,     GBuckinghamshire gets the wow
-OL,19,     Gfactor with a stunning makeover
-OL,20,     Ginside and out, while Jacqui
-OL,21,     Gchecks out ambitious renovations
-OL,22,     Gin Suffolk and Norfolk.
+OL,4,G1045FRip Off Britain
+OL,5,     GGloria Hunniford learns how the
+OL,6,     G1990s fashion for bamboo in our
+OL,7,     Ggardens is causing expensive
+OL,8,     Gproblems for some homeowners 25
+OL,9,     Gyears later.
+OL,10,G1130FHomes Under the Hammer
+OL,11,     GA Victorian terrace in
+OL,12,     GBuckinghamshire gets the wow
+OL,13,     Gfactor with a stunning makeover
+OL,14,     Ginside and out, while Jacqui
+OL,15,     Gchecks out ambitious renovations
+OL,16,     Gin Suffolk and Norfolk.
+OL,17,G1215FBargain Hunt
+OL,18,     GCaroline learns about 16th-
+OL,19,     Gcentury cheeses and tastes a
+OL,20,     Gtraditional Yorkshire dish, dock
+OL,21,     Gpudding.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -408,7 +409,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -439,7 +440,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -467,30 +468,27 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 NOV
-OL,4,G1010FFrasier
-OL,5,     GCall Me Irresponsible: Frasier
-OL,6,     Gstarts dating Catherine, the
-OL,7,     Gjilted girlfriend of one of his
-OL,8,     Gcallers, and advises the poor guy
-OL,9,     Gthat he shouldn't try too hard to
-OL,10,     Gwin her back.
-OL,11,G1040FFrasier
-OL,12,     GBeloved Infidel: Frasier and
-OL,13,     GMartin finally discover something
-OL,14,     Gthey have in common: they were
-OL,15,     Gboth cheated on by their wives.
-OL,16,G1110FRamsay's Kitchen Nightmares USA
-OL,17,     GZayna Flaming Grill Part 1:
-OL,18,     GGordon makes the first of two
-OL,19,     Gvisits to Zayna Flaming Grill, a
-OL,20,     GMediterranean restaurant in
-OL,21,     GRedondo Beach owned by Faye and
-OL,22,     Gher niece Brenda.
+OL,4,G1110FRamsay's Kitchen Nightmares USA
+OL,5,     GZayna Flaming Grill Part 1:
+OL,6,     GGordon makes the first of two
+OL,7,     Gvisits to Zayna Flaming Grill, a
+OL,8,     GMediterranean restaurant in
+OL,9,     GRedondo Beach owned by Faye and
+OL,10,     Gher niece Brenda.
+OL,11,G1205FChannel 4 News Summary
+OL,12,     GChannel 4's midday news summary.
+OL,13,G1210FUndercover Boss USA
+OL,14,     GWarren Boone, the chief people
+OL,15,     Gofficer of restaurant chain
+OL,16,     GCoco's Bakery, steps off the
+OL,17,     Gcorporate ladder to get a taste
+OL,18,     Gof life on the company's front
+OL,19,     Gline as he goes undercover.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -498,7 +496,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -525,26 +523,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731406371
+OL,0,        ECIMSBWebfax     F498A1731409984
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 12 NOV
-OL,4,G0855FWhat a Whopper
-OL,5,     G1960. Comedy. What a Whopper is a
-OL,6,     Gcomedy from former documentarist
-OL,7,     GGilbert Gunn. Adam Faith stars in
-OL,8,     Gthis tale about a struggling
-OL,9,     Gwriter who fakes photographs of
-OL,10,     Gthe Loch Ness monster.
-OL,11,G1040FMeet Simon Cherry
-OL,12,     G1949. Mystery. Directed by
-OL,13,     GGodfrey Grayson. Stars Hugh Moxey
-OL,14,     G& Jeannette Tregarthen. A
-OL,15,     Greverend takes refuge at a manor
-OL,16,     Ghouse after getting lost and
-OL,17,     Gunexpectedly becomes involved in
-OL,18,     Ga murder case.
+OL,4,G1040FMeet Simon Cherry
+OL,5,     G1949. Mystery. Directed by
+OL,6,     GGodfrey Grayson. Stars Hugh Moxey
+OL,7,     G& Jeannette Tregarthen. A
+OL,8,     Greverend takes refuge at a manor
+OL,9,     Ghouse after getting lost and
+OL,10,     Gunexpectedly becomes involved in
+OL,11,     Ga murder case.
+OL,12,G1200FWorzel Gummidge
+OL,13,     GThe Return of Dolly Clothes-Peg.
+OL,14,     G1981. Stars Jon Pertwee, Lorraine
+OL,15,     GChase & Una Stubbs. Dolly Clothes-
+OL,16,     GPeg comes to town to pay Worzel a
+OL,17,     Gvisit but is intercepted by a
+OL,18,     Gjealous Aunt Sally.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
