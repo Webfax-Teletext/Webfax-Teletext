@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -61,13 +61,12 @@ OL,8,G302FStarmer wants world leaders to
 OL,9,F'double down' on support for Ukraine
 OL,11,G303FStarmer wants "pragmatic"
 OL,12,Frelationship with China
-OL,14,G304FUK braces for 'disruptive snow',
-OL,15,Fice and cold temperatures
-OL,17,G305FJoe Biden authorises Ukraine to
-OL,18,Fuse US-supplied long-range missiles in
-OL,19,FRussia
-OL,21,G306FIsraeli strike on central Beirut
-OL,22,Fkills Hezbollah's chief spokesperson
+OL,14,G304FWhy are farmers planning to
+OL,15,Fprotest and strike?
+OL,17,G305FUK braces for 'disruptive snow',
+OL,18,Fice and cold temperatures
+OL,20,G306FBiden authorises Ukraine to use
+OL,21,Flong-range missiles in Russia
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -76,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -185,15 +184,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FMurder investigation launched
-OL,9,Fafter two people stabbed
-OL,11,G392FBoy, 11, dies in hospital days
-OL,12,Fafter being hit by car outside
-OL,13,FCheshire school
-OL,15,G393FRuben Amorim promises to 'bring an
-OL,16,Fidentity' back to Manchester United
-OL,18,G394FNoel Gallagher's 'best guitar in
-OL,19,Fthe world' sells for more than #200,000
+OL,8,G391FPeter Kay adds more tour dates in
+OL,9,Fsurprise TV advert
+OL,11,G392FMurder investigation launched
+OL,12,Fafter two people stabbed
+OL,14,G393FBoy, 11, dies in hospital days
+OL,15,Fafter being hit by car outside
+OL,16,FCheshire school
+OL,18,G394FRuben Amorim promises to 'bring an
+OL,19,Fidentity' back to Manchester United
+OL,21,G395FNoel Gallagher's 'best guitar in
+OL,22,Fthe world' sells for more than #200,000
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -201,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -227,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -238,13 +239,12 @@ OL,7,                           R! "
 OL,8,G411FYoung Ukrainian refugees
 OL,9,F'thriving' and fluent in English after
 OL,10,Fjoining Scouts
-OL,12,G412FDriver killed after leaving
-OL,13,Fvehicle following crash
-OL,15,G413FWhy Lucy can't say her own name -
-OL,16,FHow aphasia frustrates and isolates
-OL,18,G414F'Men in wigs and brown make-up
-OL,19,Ftaking stunt jobs from black women' `
-OL,20,Fstudy
+OL,12,G412FMasked burglars 'steal farm
+OL,13,Fvehicles from Windsor Castle estate'
+OL,15,G413FDriver killed after leaving
+OL,16,Fvehicle following crash
+OL,18,G414FWhy Lucy can't say her own name -
+OL,19,FHow aphasia frustrates and isolates
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -252,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -277,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -287,15 +287,14 @@ OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
 OL,8,G431FGlastonbury tickets sell out in
 OL,9,Fless than 40 minutes
-OL,11,G432FHopes for a bright future for
-OL,12,FSomerset's spectacular carnivals
-OL,14,G433FChild has life-threatening
-OL,15,Finjuries after being hit by a car
-OL,17,G434FAlternative Oyster Festival a
-OL,18,Fsuccess say organisers
-OL,20,G435FCharity which helps people in
-OL,21,Fcrisis is to close at the end of the
-OL,22,Fyear
+OL,11,G432FBird flu outbreak confirmed at
+OL,12,Fcommercial poultry farm
+OL,14,G433FHopes for a bright future for
+OL,15,FSomerset's spectacular carnivals
+OL,17,G434FChild has life-threatening
+OL,18,Finjuries after being hit by a car
+OL,20,G435FAlternative Oyster Festival a
+OL,21,Fsuccess say organisers
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -303,7 +302,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +327,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +353,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,29 +378,29 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 18 NOV
-OL,4,G1130FHomes Under the Hammer
-OL,5,     GA silver-themed house in
-OL,6,     GSheffield is not a shining
-OL,7,     Gexample for Dion.
-OL,8,G1215FBargain Hunt
-OL,9,     GThe reds and blues shop for
-OL,10,     Gbargains in Oswestry, and Roo
-OL,11,     Glearns about the history of the
-OL,12,     GLlangollen International Musical
-OL,13,     GEisteddfod.
-OL,14,G1300FBBC News at One including Look...
-OL,15,     GNorth . The latest national and
-OL,16,     Ginternational news from the BBC.
-OL,17,G1400FScam Interceptors
-OL,18,     GThe team tap into a scam call
-OL,19,     Gcentre in Jalandhar, north west
-OL,20,     GIndia, that is trying to steal
-OL,21,     Gthousands from a woman in the UK.
+OL,4,G1215FBargain Hunt
+OL,5,     GThe reds and blues shop for
+OL,6,     Gbargains in Oswestry, and Roo
+OL,7,     Glearns about the history of the
+OL,8,     GLlangollen International Musical
+OL,9,     GEisteddfod.
+OL,10,G1300FBBC News at One including Look...
+OL,11,     GNorth . The latest national and
+OL,12,     Ginternational news from the BBC.
+OL,13,G1400FScam Interceptors
+OL,14,     GThe team tap into a scam call
+OL,15,     Gcentre in Jalandhar, north west
+OL,16,     GIndia, that is trying to steal
+OL,17,     Gthousands from a woman in the UK.
+OL,18,G1430FExpert Witness
+OL,19,     GRachel Nickell's murder was
+OL,20,     Gunsolved until DNA technology
+OL,21,     Gfinally identified her killer.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -409,30 +408,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 18 NOV
-OL,4,G0900FBBC News
-OL,5,G1215FPolitics Live
-OL,6,     GThe big political issues of the
-OL,7,     Gday.
-OL,8,G1300FImpossible
-OL,9,     GCan players avoid giving
-OL,10,     GImpossible answers and stay in
-OL,11,     Gthe running for a #10,000 jackpot?
-OL,12,G1345FThe Tournament
-OL,13,     GEight players do battle in the
-OL,14,     Gultimate knockout quiz. Hosted by
-OL,15,     GAlex Scott.
-OL,16,G1430FBeat the Pack
-OL,17,     GJake Humphrey hosts the general
-OL,18,     Gknowledge quiz where contestants
-OL,19,     Gcan win money if they can give a
-OL,20,     Gcorrect answer to a question
-OL,21,     Gbefore all their opponents in the
-OL,22,     GPack do.
+OL,4,G1215FPolitics Live
+OL,5,     GThe big political issues of the
+OL,6,     Gday.
+OL,7,G1300FImpossible
+OL,8,     GCan players avoid giving
+OL,9,     GImpossible answers and stay in
+OL,10,     Gthe running for a #10,000 jackpot?
+OL,11,G1345FThe Tournament
+OL,12,     GEight players do battle in the
+OL,13,     Gultimate knockout quiz. Hosted by
+OL,14,     GAlex Scott.
+OL,15,G1430FBeat the Pack
+OL,16,     GJake Humphrey hosts the general
+OL,17,     Gknowledge quiz where contestants
+OL,18,     Gcan win money if they can give a
+OL,19,     Gcorrect answer to a question
+OL,20,     Gbefore all their opponents in the
+OL,21,     GPack do.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -440,27 +438,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 18 NOV
-OL,4,G1000FThis Morning
-OL,5,     GEmily In Paris star Lily Collins
-OL,6,     Gjoins Cat and Dermot in the
-OL,7,     Gstudio. Plus, Ben catches up with
-OL,8,     GJason Donovan and Sian's got the
-OL,9,     Glatest from the I'm A Celebrity
-OL,10,     Gjungle.
-OL,11,G1230FLoose Women
-OL,12,     GJoin the Loose Women panellists
-OL,13,     Gas they interview celebrity
-OL,14,     Gguests and discuss the day's most
-OL,15,     Gtopical issues, from current
-OL,16,     Gaffairs to celebrity gossip and
-OL,17,     Gthe latest showbiz news.
-OL,18,G1330FITV Lunchtime News
-OL,19,G1355FRegional News
+OL,4,G1230FLoose Women
+OL,5,     GJoin the Loose Women panellists
+OL,6,     Gas they interview celebrity
+OL,7,     Gguests and discuss the day's most
+OL,8,     Gtopical issues, from current
+OL,9,     Gaffairs to celebrity gossip and
+OL,10,     Gthe latest showbiz news.
+OL,11,G1330FITV Lunchtime News
+OL,12,G1355FRegional News
+OL,13,G1400FI'm a Celebrity... Unpacked
+OL,14,     GJoel Dommett, radio DJ Kemi
+OL,15,     GRogers, and reigning King of the
+OL,16,     GJungle Sam Thompson dissect and
+OL,17,     Gdiscuss everything happening in
+OL,18,     Gthe I'm A Celebrity... Get Me Out
+OL,19,     GOf Here! camp.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -468,27 +466,24 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 18 NOV
-OL,4,G1110FRamsay's Kitchen Nightmares USA
-OL,5,     GIn New Jersey, Gordon Ramsay
-OL,6,     Gvisits Spanish Pavillion, a
-OL,7,     Gfamily-run restaurant whose
-OL,8,     Gowners, brothers Michael and
-OL,9,     GJerry, spend more time struggling
-OL,10,     Gfor power than working.
-OL,11,G1205FChannel 4 News Summary
-OL,12,     GChannel 4's midday news summary.
-OL,13,G1210FUndercover Boss USA
-OL,14,     GNader Masadeh, the president and
-OL,15,     GCEO of Buffalo Wings & Rings,
-OL,16,     Ggoes undercover in his own
-OL,17,     Gcompany to ensure that his
-OL,18,     Gstandards are being kept across
-OL,19,     Gthe brand.
+OL,4,G1210FUndercover Boss USA
+OL,5,     GNader Masadeh, the president and
+OL,6,     GCEO of Buffalo Wings & Rings,
+OL,7,     Ggoes undercover in his own
+OL,8,     Gcompany to ensure that his
+OL,9,     Gstandards are being kept across
+OL,10,     Gthe brand.
+OL,11,G1310FFind It, Fix It, Flog It
+OL,12,     GIn Crewe, Simon O'Brien and Max
+OL,13,     GMcMurdo meet rock 'n' roller
+OL,14,     GBilly, who lives in a house
+OL,15,     Gthat's frozen in time in the
+OL,16,     G1950s.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -496,7 +491,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -527,25 +522,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1731929661
+OL,0,        ECIMSBWebfax     F498A1731933271
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 18 NOV
-OL,4,G1030FIn Suspicious Circumstances
-OL,5,     GAn Evil Business - Dearest Pet.
-OL,6,     G1996. Stars Helen Baxendale & Jo
-OL,7,     GCameron Brown. A suspicious death
-OL,8,     Gcomes between Queen Elizabeth I
-OL,9,     Gand a courtier, and the lover of
-OL,10,     Gan heiress is found dead.
-OL,11,G1135FThe Outer Limits
-OL,12,     GThe Brain of Colonel Barham.
-OL,13,     G1965. Stars Grant Williams,
-OL,14,     GElizabeth Perry & Anthony Eisley.
-OL,15,     GA dying astronaut volunteers his
-OL,16,     Gbrain to be used in a robot probe
-OL,17,     Gbeing prepared to explore Mars.
+OL,4,G1135FThe Outer Limits
+OL,5,     GThe Brain of Colonel Barham.
+OL,6,     G1965. Stars Grant Williams,
+OL,7,     GElizabeth Perry & Anthony Eisley.
+OL,8,     GA dying astronaut volunteers his
+OL,9,     Gbrain to be used in a robot probe
+OL,10,     Gbeing prepared to explore Mars.
+OL,11,G1240FBelle of the Yukon
+OL,12,     G1944. Musical. Directed by
+OL,13,     GWilliam A. Seiter. Stars Randolph
+OL,14,     GScott, Gypsy Rose Lee & Dinah
+OL,15,     GShore. An ex-con man attempting
+OL,16,     Gto make a clean break runs into
+OL,17,     Gtrouble when a former flame
+OL,18,     Gappears.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
