@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -59,13 +59,13 @@ OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
 OL,8,G302FSouth Korean president declares
 OL,9,Femergency martial law
-OL,11,G303FUK buys more then 5m doses of bird
-OL,12,Fflu vaccine in case of any possible
-OL,13,Fpandemic
-OL,15,G304FBBC axes MasterChef Christmas
-OL,16,Fspecials over Gregg Wallace scandal
-OL,18,G305FStalking victims to be given more
-OL,19,Fprotection under new measures
+OL,11,G303FStalking victims to be given more
+OL,12,Fprotection under new measures
+OL,14,G304FUK buys more then 5m doses of bird
+OL,15,Fflu vaccine in case of any possible
+OL,16,Fpandemic
+OL,18,G305FBBC axes MasterChef Christmas
+OL,19,Fspecials over Gregg Wallace scandal
 OL,21,G306FWill Musk be allowed to donate
 OL,22,F#100 million to Farage's Reform UK?
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -114,10 +114,12 @@ OL,9,Fill in Hull due to suspected bad batch
 OL,10,Fof drugs
 OL,12,G362FSinfield sends surprise message to
 OL,13,Ffan whose wife died from MND
-OL,15,G363F'Easily led' father who threw
-OL,16,Frocks and bin at riot police jailed
-OL,18,G364FStolen van filled with #25,000 of
-OL,19,Fpies found abandoned
+OL,15,G363FMurder arrest after mum knocked
+OL,16,Foff e-bike in 'hit-and-run'
+OL,18,G364F'Easily led' father who threw
+OL,19,Frocks and bin at riot police jailed
+OL,21,G365FStolen van filled with #25,000 of
+OL,22,Fpies found abandoned
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -125,7 +127,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +153,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -159,16 +161,17 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381FJersey residents lose around #4.4
-OL,9,Fmillion this year to scammers
-OL,11,G382FA 'Churchillian' masterpiece:
-OL,12,Fpolitician immortalised in paper mache
-OL,14,G383FCalls to revisit assisted dying
-OL,15,Fdebate in Guernsey
-OL,17,G384F'It's not a death sentence': More
-OL,18,Feducation is needed on HIV and AIDS
-OL,20,G385FPrivate prescriptions issue could
-OL,21,Fhave cost Jersey taxpayers millions
+OL,8,G381FDFDS Seaways awarded Jersey-only
+OL,9,Fferry contract
+OL,11,G382FRemembering the 327 Guernseymen
+OL,12,Fwho lost their lives in the Battle of
+OL,13,FCambrai
+OL,15,G383FJersey residents lose around #4.4
+OL,16,Fmillion this year to scammers
+OL,18,G384FA 'Churchillian' masterpiece:
+OL,19,Fpolitician immortalised in paper mache
+OL,21,G385FCalls to revisit assisted dying
+OL,22,Fdebate in Guernsey
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -176,7 +179,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +204,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -234,15 +237,16 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FGroup who smuggled cocaine worth
-OL,9,F#200 million in banana boxes to be
-OL,10,Fsentenced
-OL,12,G412FFirst sighting of great silver
-OL,13,Fwater beetle in Dorset for 200 years
-OL,15,G413FKings of Leon confirmed as
-OL,16,Fheadliners for Victorious Festival
-OL,18,G414FSeafront common cordoned off after
-OL,19,Fexplosive ordnance discovered
+OL,8,G411FSeafront common cordoned off after
+OL,9,Fexplosive ordnance discovered
+OL,11,G412FInquest into the deaths of mother
+OL,12,Fand son from Berkshire concludes
+OL,14,G413FGang who smuggled cocaine worth
+OL,15,F#200 million in banana boxes jailed
+OL,17,G414FFirst sighting of great silver
+OL,18,Fwater beetle in Dorset for 200 years
+OL,20,G415FKings of Leon confirmed as
+OL,21,Fheadliners for Victorious Festival
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -250,7 +254,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -258,13 +262,13 @@ OL,4,                             R"{4
 OL,5,BThe latest updates from      R?}
 OL,6,BITV News Tyne Tees            Rt
 OL,7,                               R*'#/'#
-OL,8,G421FMan smuggled 29,000 skull-shaped
-OL,9,Fecstasy tablets in Snapchat deal
-OL,11,G422FFour men jailed for "industrial"
-OL,12,Fscale drugs operation
-OL,14,G423FMother admits neglect following
-OL,15,Falleged shaking death of toddler
-OL,16,FCharlie Roberts
+OL,8,G421FMother admits neglect following
+OL,9,Falleged shaking death of toddler
+OL,10,FCharlie Roberts
+OL,12,G422FMan smuggled 29,000 skull-shaped
+OL,13,Fecstasy tablets in Snapchat deal
+OL,15,G423FFour men jailed for "industrial"
+OL,16,Fscale drugs operation
 OL,18,G424FGirl struck by paraglider walks
 OL,19,Foff plane as she returns home from
 OL,20,F'nightmare'
@@ -275,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -289,10 +293,10 @@ OL,10,Fclosures
 OL,12,G432FSecond World War veteran who
 OL,13,Ffought in Burma surprised for 100th
 OL,14,Fbirthday
-OL,16,G433FDozens of Santas abseil down
-OL,17,FCheddar Gorge in special charity event
-OL,19,G434FTiny lizard skeleton found in
-OL,20,Fquarry is oldest on record
+OL,16,G433FPerson suffers 'serious injuries'
+OL,17,Fafter car crashes into historic bridge
+OL,19,G434FDozens of Santas abseil down
+OL,20,FCheddar Gorge in special charity event
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -300,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -308,16 +312,16 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FLegacy body makes first arrest
-OL,9,Fover 1990s murder
-OL,11,G442FTwo men arrested as part of probe
-OL,12,Finto death of woman at nightclub in
-OL,13,FBelfast
-OL,15,G443FMan arrested on suspicion of
-OL,16,Fmurder by police investigating death
-OL,17,Fof girl, 8
-OL,19,G444FThree children escape injury after
-OL,20,Farson attack at Belfast home
+OL,8,G441FThree children escape injury after
+OL,9,Farson attack at Belfast home
+OL,11,G442FFamilies relieved adult day
+OL,12,Fservices rescued after receiving
+OL,13,F"email of doom"
+OL,15,G443FLegacy body makes first arrest
+OL,16,Fover 1990s murder
+OL,18,G444FTwo men arrested as part of probe
+OL,19,Finto death of woman at nightclub in
+OL,20,FBelfast
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -325,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -338,11 +342,11 @@ OL,9,FWelsh Conservatives leader
 OL,11,G462FDog walker's wife may have heard
 OL,12,Fhim calling to her before dying in
 OL,13,FStorm Bert
-OL,15,G463FWithybush Hospital placed under
-OL,16,Femergency lockdown
-OL,18,G464FWoman appears in court charged
-OL,19,Fwith manslaughter of four
-OL,20,Fpaddleboarders
+OL,15,G463FAndrew RT Davies' exit signals
+OL,16,Fstart of ideological battle for Welsh
+OL,17,FTories
+OL,19,G464FWithybush Hospital placed under
+OL,20,Femergency lockdown
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -350,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -375,30 +379,30 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 DEC
-OL,4,G1900FThe One Show
-OL,5,     GAlex Jones and Lauren Laverne
-OL,6,     Gbring you the stories that matter
-OL,7,     Gfrom across the country.
-OL,8,G1930FEastEnders
-OL,9,     GCindy's lies begin to unravel. Mo
-OL,10,     Gtakes inspiration for her latest
-OL,11,     Gmoney-making scheme.
-OL,12,G2000FMasterChef: The Professionals
-OL,13,     GThe semi-finals are under way,
-OL,14,     Gand the chefs battle for a place
-OL,15,     Gin the final five.
-OL,16,G2100FThe Listeners
-OL,17,     GUnable to experience the hum the
-OL,18,     Gway the others can, and
-OL,19,     Gincreasingly guilty about her
-OL,20,     Grelationship with Kyle, Claire
-OL,21,     Ghas a crisis. Contains very
-OL,22,     Gstrong language.
+OL,4,G2000FMasterChef: The Professionals
+OL,5,     GThe semi-finals are under way,
+OL,6,     Gand the chefs battle for a place
+OL,7,     Gin the final five.
+OL,8,G2100FThe Listeners
+OL,9,     GUnable to experience the hum the
+OL,10,     Gway the others can, and
+OL,11,     Gincreasingly guilty about her
+OL,12,     Grelationship with Kyle, Claire
+OL,13,     Ghas a crisis. Contains very
+OL,14,     Gstrong language.
+OL,15,G2145FCheaters
+OL,16,     GFola has a surprise in store for
+OL,17,     GJosh. Zack's date with Claire
+OL,18,     Gtakes an unusual turn. Contains
+OL,19,     Gsome strong language and some
+OL,20,     Gscenes of a sexual nature.
+OL,21,G2200FBBC News and Weather
+OL,22,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -406,25 +410,30 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 DEC
-OL,4,G1900FBetween the Covers
-OL,5,     GRichard Osman, Ranvir Singh, Ben
-OL,6,     GMiller and Alex Jones join Sara
-OL,7,     GCox to review the book club pick,
-OL,8,     GThe Kellerby Code by Jonny Sweet,
-OL,9,     Gand talk about their favourite
-OL,10,     Gbooks.
-OL,11,G1930FMary's Foolproof Dinners
-OL,12,     GMary teaches The Repair Shop's
-OL,13,     GWill Kirk some delicious alfresco
-OL,14,     Grecipes, perfect for his new
-OL,15,     Gbarbecue, and in return, he
-OL,16,     Gteaches her the art of wood
-OL,17,     Gwhittling.
+OL,4,G2000FHighland Cops
+OL,5,     GTorrential rain hits the
+OL,6,     GHighlands, flooding roads and
+OL,7,     Gfields. As conditions worsen, a
+OL,8,     Gmissing person search becomes a
+OL,9,     Gdesperate manhunt.
+OL,10,G2100FQI XL
+OL,11,     GSandi Toksvig takes a QI look at
+OL,12,     Gsome visionaries with Cally
+OL,13,     GBeaton, Nish Kumar, Laura Smyth
+OL,14,     Gand Alan Davies. Contains some
+OL,15,     Gstrong language.
+OL,16,G2145FMel Giedroyc: Unforgivable
+OL,17,     GMel Giedroyc and Lou Sanders are
+OL,18,     Gjoined by Jo Brand, Chris Kamara
+OL,19,     Gand Sara Pascoe. Contains some
+OL,20,     Gstrong language and adult humour.
+OL,21,G2230FNewsnight
+OL,22,G2300FWeather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -432,24 +441,26 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 DEC
-OL,4,G1830FITV Evening News
-OL,5,G1930FEmmerdale
-OL,6,     GPollard faces Brenda's angry
-OL,7,     Gwrath, Mack enjoys lording his
-OL,8,     Gcloseness with Moses over Ross,
-OL,9,     Gand Jade paints a grim picture of
-OL,10,     Gthe trouble Ross will face.
-OL,11,G2000FThe Martin Lewis Money Show Live
-OL,12,     GWith the countdown to Christmas
-OL,13,     Gwell and truly under way, Martin
-OL,14,     Gis back with a jam-packed show
-OL,15,     Gthat includes his informative Big
-OL,16,     GBriefing and his News You Can Use.
+OL,4,G2000FThe Martin Lewis Money Show Live
+OL,5,     GWith the countdown to Christmas
+OL,6,     Gwell and truly under way, Martin
+OL,7,     Gis back with a jam-packed show
+OL,8,     Gthat includes his informative Big
+OL,9,     GBriefing and his News You Can Use.
+OL,10,G2100FI'm a Celebrity... Get Me...
+OL,11,     GOut of Here! As the celebrities'
+OL,12,     Gtime in the camp comes to a
+OL,13,     Gclose, it's getting tougher by
+OL,14,     Gthe day as the pressure to be
+OL,15,     Gcrowned as King or Queen of the
+OL,16,     GJungle builds.
+OL,17,G2235FITV News
+OL,18,G2305FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -457,27 +468,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 DEC
-OL,4,G1900FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G1955FThe Political Slot
-OL,8,     GThe Liberal Democrats: Anna
-OL,9,     GSabine, MP for Frome and East
-OL,10,     GSomerset, sets out the Liberal
-OL,11,     GDemocrats' vision to safeguard
-OL,12,     Grural bus services.
-OL,13,G2000FThe Great Celebrity Bake Off...
-OL,14,     Gfor Stand Up To Cancer: AJ Odudu,
-OL,15,     GGemma Collins, Jessica Hynes and
-OL,16,     GTim Key make sandwich cakes and a
-OL,17,     Gclassic tart, and relive their
-OL,18,     Gearliest childhood memories in
-OL,19,     Gchoux.
+OL,4,G2000FThe Great Celebrity Bake Off...
+OL,5,     Gfor Stand Up To Cancer: AJ Odudu,
+OL,6,     GGemma Collins, Jessica Hynes and
+OL,7,     GTim Key make sandwich cakes and a
+OL,8,     Gclassic tart, and relive their
+OL,9,     Gearliest childhood memories in
+OL,10,     Gchoux.
+OL,11,G2100FSue Perkins' Big Adventure Paris
+OL,12,     Fto Istanbul
+OL,13,     GIn Romania, Sue gets spooked at
+OL,14,     GCastle Dracula; meets some bears
+OL,15,     Gup close and personal; learns all
+OL,16,     Gabout earthquake dogs; and makes
+OL,17,     Gsome Romani jewellery.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -485,25 +494,26 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 DEC
-OL,4,G1900FAll Creatures Great & Small...
-OL,5,     GMeets The Yorkshire Vet. With
-OL,6,     Gexclusive behind the scenes
-OL,7,     Gaccess to the film set and
-OL,8,     Gstudios, Yorkshire Vets Peter
-OL,9,     GWright and Shona Searson visit
-OL,10,     Gthe hit drama.
-OL,11,G2000FWinter on the Farm
-OL,12,     GHelen Skelton and Jules Hudson
-OL,13,     Gare back at Cannon Hall Farm in
-OL,14,     GSouth Yorkshire for a new series
-OL,15,     Gof the show, capturing the beauty
-OL,16,     Gand challenges of farming through
-OL,17,     Gthe winter months.
+OL,4,G2000FWinter on the Farm
+OL,5,     GHelen Skelton and Jules Hudson
+OL,6,     Gare back at Cannon Hall Farm in
+OL,7,     GSouth Yorkshire for a new series
+OL,8,     Gof the show, capturing the beauty
+OL,9,     Gand challenges of farming through
+OL,10,     Gthe winter months.
+OL,11,G2100FThe Princes in the Tower:..
+OL,12,     G...A Damning Discovery. Actor
+OL,13,     GJason Watkins and historian Tracy
+OL,14,     GBorman reveal a new discovery
+OL,15,     Gthat changes everything we
+OL,16,     Gthought we knew about the fate of
+OL,17,     Gthe Princes who vanished from the
+OL,18,     GTower
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -511,26 +521,25 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733252996
+OL,0,        ECIMSBWebfax     F498A1733256602
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 DEC
-OL,4,G1905FBatman
-OL,5,     GThe Purr-Fect Crime. 1966. Stars
-OL,6,     GAdam West & Julie Newmar.
-OL,7,     GCatwoman breaks into a museum to
-OL,8,     Gsteal a golden cat statuette.
-OL,9,     GBatman and Robin follow her back
-OL,10,     Gto her hideout, with deadly
-OL,11,     Gconsequences.
-OL,12,G1935FDangerous Assignment
-OL,13,     GThe Havana Microfilm Story. 1952.
-OL,14,     GStars Brian Donlevy, Jeanne Tatum
-OL,15,     G& Howard Joslin. Steve navigates
-OL,16,     Gthe dangerous back alleys of
-OL,17,     GHavana in search of a spy in
-OL,18,     Gpossession of stolen documents.
+OL,4,G2005FRumpole of the Bailey
+OL,5,     GRumpole and the Official Secret.
+OL,6,     GStars: Leo McKern, Marion Mathie,
+OL,7,     GPeter Blythe. Rumpole defends an
+OL,8,     Geccentric spinster accused of
+OL,9,     Gbeing a government whistleblower.
+OL,10,G2110FWho is Killing the Great Chefs of
+OL,11,     FEurope? 1978
+OL,12,     GComedy. Directed by Ted Kotcheff.
+OL,13,     GStars George Segal, Jacqueline
+OL,14,     GBisset & Robert Morley. Mystery
+OL,15,     Gabounds when one by one, the
+OL,16,     Ggreatest chefs in Europe are
+OL,17,     Gbeing killed.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
