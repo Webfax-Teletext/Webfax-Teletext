@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,24 +50,24 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FSouth Korea president survives
-OL,9,Fimpeachment after martial law
-OL,10,Fcontroversy
-OL,12,G303FThousands without power and trains
-OL,13,Fcancelled as Storm Darragh hits UK
-OL,15,G304FPrince William to meet Trump at
-OL,16,Freopening of Notre-Dame cathedral
-OL,18,G305FEnd of an Era: Most memorable
-OL,19,Fmoments from Taylor Swift's global tour
-OL,21,G306FQueen's son says Camilla has been
-OL,22,Fthrough 'hell of a two years'
+OL,8,G302FSyria rebels encircle Damascus in
+OL,9,Fmajor threat to Assad regime
+OL,11,G303FStorm Darragh: Where and when will
+OL,12,Fit hit this weekend?
+OL,14,G304FThousands without power and trains
+OL,15,Fcancelled as Storm Darragh hits UK
+OL,17,G305FSouth Korea president survives
+OL,18,Fimpeachment after martial law
+OL,19,Fcontroversy
+OL,21,G306FPrince William to meet Trump at
+OL,22,Freopening of Notre-Dame cathedral
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -149,7 +149,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -175,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -183,16 +183,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FMerseyside derby postponed as
-OL,9,FStorm Darragh hits Liverpool
-OL,11,G392FKevin Sinfield on track to pass
-OL,12,Ffundraising target after 'tough day'
-OL,14,G393FDrone seized during HMS Prince of
-OL,15,FWales warship's visit to Liverpool
-OL,17,G394F'Absolute gutted': Dame Sarah
-OL,18,Fquits Dancing On Ice after ankle injury
-OL,20,G395FMan jailed after ramming police
-OL,21,Fofficer with van
+OL,8,G391FKevin Sinfield smashes fundraising
+OL,9,Ftarget as he ends latest challenge for
+OL,10,FMND
+OL,12,G392FMerseyside derby postponed as
+OL,13,FStorm Darragh hits Liverpool
+OL,15,G393FKevin Sinfield on track to pass
+OL,16,Ffundraising target after 'tough day'
+OL,18,G394FDrone seized during HMS Prince of
+OL,19,FWales warship's visit to Liverpool
+OL,21,G395F'Absolute gutted': Dame Sarah
+OL,22,Fquits Dancing On Ice after ankle injury
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -200,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -224,7 +225,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -235,13 +236,14 @@ OL,7,                           R! "
 OL,8,G411FTravel disrupted and Christmas
 OL,9,Fevents cancelled as Storm Darragh
 OL,10,Fbatters the UK
-OL,12,G412FAlternative healer jailed for 10
-OL,13,Fyears over woman's death at slapping
-OL,14,Fworkshop
-OL,16,G413FDrunk HGV driver arrested after
-OL,17,Fhitting ambulance
-OL,19,G414FToy car bursts into flames killing
-OL,20,Fcats and destroying home
+OL,12,G412FDrone reveals fire destruction of
+OL,13,Fformer Debenhams as police make new
+OL,14,Farrest
+OL,16,G413FAlternative healer jailed for 10
+OL,17,Fyears over woman's death at slapping
+OL,18,Fworkshop
+OL,20,G414FDrunk HGV driver arrested after
+OL,21,Fhitting ambulance
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -249,7 +251,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -275,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -300,7 +302,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -327,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -352,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -377,25 +379,27 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 7 DEC
-OL,4,G1600FGarden Rescue
-OL,5,     GIn Rugby, Arit and Charlie create
-OL,6,     Ga fun garden for Esme, Richard
-OL,7,     Gand their seven pets.
-OL,8,G1630FFinal Score
-OL,9,     GJason Mohammad presents the fast-
-OL,10,     Gpaced show which keeps you across
-OL,11,     Gthe latest scores and developing
-OL,12,     Gstories in the Premier League,
-OL,13,     GFootball League and Scottish
-OL,14,     GPremiership.
-OL,15,G1725FBBC News
-OL,16,G1735FRegional News
-OL,17,G1740FWeather
+OL,4,G1630FFinal Score
+OL,5,     GJason Mohammad presents the fast-
+OL,6,     Gpaced show which keeps you across
+OL,7,     Gthe latest scores and developing
+OL,8,     Gstories in the Premier League,
+OL,9,     GFootball League and Scottish
+OL,10,     GPremiership.
+OL,11,G1725FBBC News
+OL,12,G1735FRegional News
+OL,13,G1740FWeather
+OL,14,G1745FThe Hit List Strictly Special
+OL,15,     GStrictly participants and
+OL,16,     Gprofessionals Jamie Laing, Ugo
+OL,17,     GMonye, AJ Odudu, Kai Widdrington,
+OL,18,     GSara Davis and Amy Dowden attempt
+OL,19,     Gto win #10,000 for charity.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -403,7 +407,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -434,27 +438,25 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 7 DEC
-OL,4,G1400FA View to a Kill
-OL,5,     GBond film starring Roger Moore
-OL,6,     Gand Christopher Walken, 1985. 007
-OL,7,     Gdoes battle with a industrialist
-OL,8,     Gwho plans to destroy Silicon
-OL,9,     GValley and corner the world's
-OL,10,     Gmicrochip market.
-OL,11,G1640FITV Evening News
-OL,12,G1700FRegional News
-OL,13,G1710FTipping Point: Lucky Stars
-OL,14,     FChristmas Special
-OL,15,     GBen Shephard is joined by
-OL,16,     GStrictly judge Anton Du Beke, TV
-OL,17,     Gfavourite Scarlett Moffatt, and
-OL,18,     Greality star-turned-TV host Bobby
-OL,19,     GNorris for a festive special.
+OL,4,G1710FTipping Point: Lucky Stars
+OL,5,     FChristmas Special
+OL,6,     GBen Shephard is joined by
+OL,7,     GStrictly judge Anton Du Beke, TV
+OL,8,     Gfavourite Scarlett Moffatt, and
+OL,9,     Greality star-turned-TV host Bobby
+OL,10,     GNorris for a festive special.
+OL,11,G1810FThe Chase Celebrity Special
+OL,12,     GBradley Walsh hosts as Tim Vine,
+OL,13,     GAlice Beer, Ken Bruce and Sonny
+OL,14,     GJay hope to win thousands of
+OL,15,     Gpounds for charity as they take
+OL,16,     Gon one of the country's finest
+OL,17,     Gquiz brains.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -462,28 +464,28 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 7 DEC
-OL,4,G1610FChristmas Secrets of...
-OL,5,     GSupermarket Own-Brands: Denise
-OL,6,     GVan Outen unwraps the secrets of
-OL,7,     Gsupermarkets' own-label festive
-OL,8,     Gfood, fizz and gifts. Are they
-OL,9,     Gspecial enough for Christmas? And
-OL,10,     Gwhich brands make them?
-OL,11,G1715FChannel 4 News
-OL,12,     GChannel 4's flagship news
-OL,13,     Gprogramme. Including the weather.
-OL,14,G1745FF1 Abu Dhabi GP Qualifying
-OL,15,     FHighlights
-OL,16,     GIt's the final Qualifying session
-OL,17,     Gof 2024. Who'll cap the season
-OL,18,     Goff nicely with pole position at
-OL,19,     Gthe Yas Marina Circuit? Steve
-OL,20,     GJones presents.
+OL,4,G1715FChannel 4 News
+OL,5,     GChannel 4's flagship news
+OL,6,     Gprogramme. Including the weather.
+OL,7,G1745FF1 Abu Dhabi GP Qualifying
+OL,8,     FHighlights
+OL,9,     GIt's the final Qualifying session
+OL,10,     Gof 2024. Who'll cap the season
+OL,11,     Goff nicely with pole position at
+OL,12,     Gthe Yas Marina Circuit? Steve
+OL,13,     GJones presents.
+OL,14,G1915FChristmas at Chatsworth House
+OL,15,     GA joyful look at how the team at
+OL,16,     GChatsworth House bring together
+OL,17,     Gthe best installations of
+OL,18,     GChristmases past and battle
+OL,19,     Gagainst the odds to create an
+OL,20,     Genchanting Christmas.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -491,7 +493,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -519,24 +521,25 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733588517
+OL,0,        ECIMSBWebfax     F498A1733592128
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 7 DEC
-OL,4,G1535FThe Paper Gallows
-OL,5,     G1950. Thriller. Directed by John
-OL,6,     GGuillermin. Stars John Bentley,
-OL,7,     GDermot Walsh & Rona Anderson. A
-OL,8,     Gcrime novelist, jealous over his
-OL,9,     Gsecretary's affection for his
-OL,10,     Gbrother, decides to murder her.
-OL,11,G1655FDoublecross
-OL,12,     G1955. Drama. Director Anthony
-OL,13,     GSquire. Stars Donald Houston, Fay
-OL,14,     GCompton, William Hartnell. A
-OL,15,     GCornish poacher clashes with
-OL,16,     Gdangerous international spies.
+OL,4,G1655FDoublecross
+OL,5,     G1955. Drama. Director Anthony
+OL,6,     GSquire. Stars Donald Houston, Fay
+OL,7,     GCompton, William Hartnell. A
+OL,8,     GCornish poacher clashes with
+OL,9,     Gdangerous international spies.
+OL,10,G1825FBeau Geste
+OL,11,     GEpisode Three. 1982. Stars
+OL,12,     GBenedict Taylor, Anthony Calf &
+OL,13,     GStefan Gryff. To protect Michael,
+OL,14,     GDigby leaves, taking the blame in
+OL,15,     Ga note left for John. John also
+OL,16,     Gquietly leaves to go and join
+OL,17,     Gthem.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
