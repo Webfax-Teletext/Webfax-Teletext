@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,18 +50,18 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FThousands without power and trains
-OL,9,Fcancelled as Storm Darragh hits UK
-OL,11,G303FPrince William to join Trump in
-OL,12,Fattending reopening of Notre-Dame
-OL,13,Fcathedral
+OL,8,G302FPrince William to join Trump in
+OL,9,Fattending reopening of Notre-Dame
+OL,10,Fcathedral
+OL,12,G303FThousands without power and trains
+OL,13,Fcancelled as Storm Darragh hits UK
 OL,15,G304FQueen's son says Camilla has been
 OL,16,Fthrough 'hell of a two years'
 OL,18,G305FStorm Darragh: Millions sent
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -234,16 +234,17 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411F'Time is of the essence' - Police
-OL,9,Frelease new CCTV of man sought over
-OL,10,Frape
-OL,12,G412FAlternative healer jailed for 10
-OL,13,Fyears over woman's death at slapping
-OL,14,Fworkshop
-OL,16,G413FDrunk HGV driver arrested after
-OL,17,Fhitting ambulance
-OL,19,G414FToy car bursts into flames killing
-OL,20,Fcats and destroying home
+OL,8,G411FTravel disrupted and Christmas
+OL,9,Fevents cancelled as Storm Darragh
+OL,10,Fbatters the UK
+OL,12,G412F'Time is of the essence' - Police
+OL,13,Frelease new CCTV of man sought over
+OL,14,Frape
+OL,16,G413FAlternative healer jailed for 10
+OL,17,Fyears over woman's death at slapping
+OL,18,Fworkshop
+OL,20,G414FDrunk HGV driver arrested after
+OL,21,Fhitting ambulance
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -251,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -275,7 +276,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -283,16 +284,16 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FThe latest Storm Darragh news for
-OL,9,Fthe South West
-OL,11,G432F'Batman' drink driver who fled
-OL,12,Fscene after crash given ban
-OL,14,G433FStorm Darragh red weather warning
-OL,15,Fsees events cancelled and attractions
-OL,16,Fclosed
-OL,18,G434FFamilies of Nottingham attack
-OL,19,Fvictims welcome decision to review
-OL,20,Fhomicide law
+OL,8,G431FThe fight to stop homes being
+OL,9,Fbuilt on old athletics track in south
+OL,10,FBristol
+OL,12,G432FThe latest Storm Darragh news for
+OL,13,Fthe South West
+OL,15,G433F'Batman' drink driver who fled
+OL,16,Fscene after crash given ban
+OL,18,G434FStorm Darragh red weather warning
+OL,19,Fsees events cancelled and attractions
+OL,20,Fclosed
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -300,7 +301,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -327,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -353,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -378,30 +379,27 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 7 DEC
-OL,4,G1000FSaturday Kitchen Live:...
-OL,5,     GCountdown to Christmas. Matt
-OL,6,     GTebbutt is joined by Tony Singh,
-OL,7,     GJack Croft, Will Murray and
-OL,8,     GGiovanna Fletcher.
-OL,9,G1130FMary's Foolproof Dinners
-OL,10,     GMary teaches The Repair Shop's
-OL,11,     GWill Kirk some delicious alfresco
-OL,12,     Grecipes, perfect for his new
-OL,13,     Gbarbecue, and in return, he
-OL,14,     Gteaches her the art of wood
-OL,15,     Gwhittling.
-OL,16,G1200FFootball Focus
-OL,17,     GWe discuss the latest headlines
-OL,18,     Gfrom the world of football and
-OL,19,     Glook ahead to a mouthwatering
-OL,20,     Gweekend of action, featuring the
-OL,21,     Gfinal Merseyside derby in the
-OL,22,     Gleague at Goodison Park.
+OL,4,G1200FFootball Focus
+OL,5,     GWe discuss the latest headlines
+OL,6,     Gfrom the world of football and
+OL,7,     Glook ahead to a mouthwatering
+OL,8,     Gweekend of action, featuring the
+OL,9,     Gfinal Merseyside derby in the
+OL,10,     Gleague at Goodison Park.
+OL,11,G1300FBBC News
+OL,12,G1310FWeather
+OL,13,G1315FBargain Hunt
+OL,14,     GCharlie Ross heads to Wrexham
+OL,15,     Gwith experts Stephanie Connell
+OL,16,     Gand Thomas Forrester. Charlie
+OL,17,     Ggoes to Wrexham's museum to find
+OL,18,     Gout what part football has played
+OL,19,     Gin the town's history.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -409,24 +407,25 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 7 DEC
-OL,4,G1000FThe Preacher's Wife
-OL,5,     GThe good-natured Reverend Henry
-OL,6,     GBiggs finds that his marriage to
-OL,7,     Gchoir mistress Julia is flagging
-OL,8,     Gdue to his constant absence
-OL,9,     Gcaring for the deprived.
-OL,10,G1200FLorraine Pascale: How to Be a
-OL,11,     FBetter Cook
-OL,12,     GLorraine Pascale shows how to
-OL,13,     Gcreate meals for friends and
-OL,14,     Gfamily. Lorraine teaches Neil how
-OL,15,     Gto create asparagus and cream
-OL,16,     Gcheese puff pastry tarts.
+OL,4,G1200FLorraine Pascale: How to Be a
+OL,5,     FBetter Cook
+OL,6,     GLorraine Pascale shows how to
+OL,7,     Gcreate meals for friends and
+OL,8,     Gfamily. Lorraine teaches Neil how
+OL,9,     Gto create asparagus and cream
+OL,10,     Gcheese puff pastry tarts.
+OL,11,G1230FBest Christmas Bakes Ever
+OL,12,     GJane Asher brings together two of
+OL,13,     Gthe nation's favourite things:
+OL,14,     Gbaking and Christmas. This feast
+OL,15,     Gof festive bakes should inspire
+OL,16,     Geveryone to get creative this
+OL,17,     GChristmas.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -434,26 +433,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 7 DEC
-OL,4,G0930FJames Martin's Saturday...
-OL,5,     GMorning at Christmas. James
-OL,6,     Gserves up festive recipes for
-OL,7,     GLoose Women star Charlene White
-OL,8,     Gand enjoys dishes from chefs
-OL,9,     GChantelle Nicholson, Lenny Carr-
-OL,10,     GRoberts, and Stephen Terry.
-OL,11,G1150FITV Lunchtime News
-OL,12,G1200FThe Addams Family (1991)
-OL,13,     GSpooky fantasy comedy film
-OL,14,     Gstarring Anjelica Huston and Raul
-OL,15,     GJulia, 1991. An evil doctor
-OL,16,     Glearns about an eccentric
-OL,17,     Gfamily's lost relative and hires
-OL,18,     Gan imposter to swindle them.
+OL,4,G1200FThe Addams Family (1991)
+OL,5,     GSpooky fantasy comedy film
+OL,6,     Gstarring Anjelica Huston and Raul
+OL,7,     GJulia, 1991. An evil doctor
+OL,8,     Glearns about an eccentric
+OL,9,     Gfamily's lost relative and hires
+OL,10,     Gan imposter to swindle them.
+OL,11,G1400FA View to a Kill
+OL,12,     GBond film starring Roger Moore
+OL,13,     Gand Christopher Walken, 1985. 007
+OL,14,     Gdoes battle with a industrialist
+OL,15,     Gwho plans to destroy Silicon
+OL,16,     GValley and corner the world's
+OL,17,     Gmicrochip market.
+OL,18,G1640FITV Evening News
+OL,19,G1700FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -461,26 +461,27 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 7 DEC
-OL,4,G1020FJunior Taskmaster
-OL,5,     GIt's the final heat and Mike
-OL,6,     GWozniak's on the receiving end of
-OL,7,     Gboth agonising eye contact and
-OL,8,     Gimpressively inventive insults.
-OL,9,     GWhich of our nifty five will sail
-OL,10,     Ginto the semi-finals?
-OL,11,G1125FHelp! We Bought a Hotel
-OL,12,     GThe new series concludes. In
-OL,13,     GWales, there's a fire in an old
-OL,14,     Gcountry-house-turned-hotel. In
-OL,15,     GSpain, a dad and daughter
-OL,16,     Gbreathing new life into a
-OL,17,     Gdilapidated hotel make great
-OL,18,     Gstrides.
+OL,4,G1125FHelp! We Bought a Hotel
+OL,5,     GThe new series concludes. In
+OL,6,     GWales, there's a fire in an old
+OL,7,     Gcountry-house-turned-hotel. In
+OL,8,     GSpain, a dad and daughter
+OL,9,     Gbreathing new life into a
+OL,10,     Gdilapidated hotel make great
+OL,11,     Gstrides.
+OL,12,G1225FFour in a Bed
+OL,13,     GJenny and Johnny welcome their
+OL,14,     Grivals to BnB at 43 in Richmond,
+OL,15,     GNorth Yorkshire. But there's a
+OL,16,     Gmark on Kelly and Serena's
+OL,17,     Gtoilet. At dinner, Debra and
+OL,18,     GJamie reveal their regal
+OL,19,     Gconnections.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -488,25 +489,24 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 7 DEC
-OL,4,G1025F22 Kids & Counting
-OL,5,     GNoel and Sue mark 30 happy years
-OL,6,     Gof marriage with a road trip
-OL,7,     Gvisiting the church they got
-OL,8,     Gmarried in and the site of their
-OL,9,     Gfirst business, which nearly
-OL,10,     Gended their marriage!
-OL,11,G1125FThe Christmas House
+OL,4,G1125FThe Christmas House
+OL,5,     GA TV star's parents ask him to
+OL,6,     Gbring back a revered family
+OL,7,     Gtradition, so he decides to
+OL,8,     Grevisit the family magic of
+OL,9,     GChristmases past.
+OL,10,G1225FEntertainment News on 5
+OL,11,G1230FThe Christmas House
 OL,12,     GA TV star's parents ask him to
 OL,13,     Gbring back a revered family
 OL,14,     Gtradition, so he decides to
 OL,15,     Grevisit the family magic of
 OL,16,     GChristmases past.
-OL,17,G1225FEntertainment News on 5
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -514,26 +514,28 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1733570470
+OL,0,        ECIMSBWebfax     F498A1733574079
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 7 DEC
-OL,4,G1110FThe Adventures of Robin Hood
-OL,5,     GThe Fire. 1958. Stars Richard
-OL,6,     GGreene, Neil Hallett & Victor
-OL,7,     GWoolf. The Sheriff's plan to
-OL,8,     Gsmoke Little John and Derwent out
-OL,9,     Gof a cave goes terribly wrong
-OL,10,     Gwhen the fire grows out of
-OL,11,     Gcontrol.
-OL,12,G1140FUndersea Kingdom
-OL,13,     GThe Undersea City. 1936. Stars
-OL,14,     GRay Corrigan, Monte Blue &
-OL,15,     GWilliam Farnum. Crash and his
-OL,16,     Gfriends are captured by the
-OL,17,     Gdespicable Unga Khan, who plans
-OL,18,     Gto take control of Norton's mind.
+OL,4,G1200FOne Step Beyond
+OL,5,     GForests of the Night. 1960. Stars
+OL,6,     GAlfred Ryder, Mark Roberts &
+OL,7,     GDouglas Dick. Three friends on a
+OL,8,     Ghunting trip stumble upon a
+OL,9,     Gmysterious Chinese game that
+OL,10,     Gpromises to make a man what he is
+OL,11,     Gnot.
+OL,12,G1235FVoyage to the Planet of
+OL,13,     FPrehistoric Women
+OL,14,     G968. Sci-fi. Directed by Peter
+OL,15,     GBogdanovich. Stars Mamie Van
+OL,16,     GDoren & Mary Marr. When a group
+OL,17,     Gof astronaut's land on Venus,
+OL,18,     Gthey are surprised to find
+OL,19,     Gdangerous creatures and beautiful
+OL,20,     Gwomen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
