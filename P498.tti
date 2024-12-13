@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -66,8 +66,6 @@ OL,15,Ftries to flee police in Massachusetts
 OL,17,G305FFrancois Bayrou named new French
 OL,18,Fprime minister, replacing ousted
 OL,19,FMichel Barnier
-OL,21,G306FCan Syrians find hope after the
-OL,22,Fhorrors of the Assad regime?
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -86,13 +84,13 @@ OL,7,                         G      R!"#!
 OL,8,G351F600 patients given hospital
 OL,9,Fequipment to be treated in their own
 OL,10,Fhomes
-OL,12,G352FCouncillors call on Scottish
-OL,13,FGovernment to hold National park
-OL,14,Freferendum
-OL,16,G353FBodies of a man and woman
-OL,17,Fdiscovered
-OL,19,G354FPolice urge parents not to buy
-OL,20,Ftheir children e-scooters for Christmas
+OL,12,G352FMaternity services to be
+OL,13,Freinstated at Cumbrian Hospital
+OL,15,G353FCouncillors call on Scottish
+OL,16,FGovernment to hold National park
+OL,17,Freferendum
+OL,19,G354FBodies of a man and woman
+OL,20,Fdiscovered
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -100,7 +98,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -178,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -188,13 +186,14 @@ OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
 OL,8,G391FThe dad who travelled 6,000 miles
 OL,9,Fin search of a life-saving donor
-OL,11,G392FMan set up fake Amazon returns
-OL,12,Fcompany to import #140 million of
-OL,13,Fcocaine
-OL,15,G393FDo not drive alert issued for
-OL,16,F'busiest weekend of the year'
-OL,18,G394FLetby not referred to regulator by
-OL,19,Fbosses over 'lack of evidence'
+OL,11,G392FFormer soldier killed in Ukraine
+OL,12,Fby 'comrade' in 'cowardice and
+OL,13,Fdishonour'
+OL,15,G393FMan set up fake Amazon returns
+OL,16,Fcompany to import #140 million of
+OL,17,Fcocaine
+OL,19,G394FDo not drive alert issued for
+OL,20,F'busiest weekend of the year'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -202,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -227,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -238,13 +237,13 @@ OL,7,                           R! "
 OL,8,G411FWoman injured in beach attack said
 OL,9,Ffriend Amie Gray 'saved her life',
 OL,10,Fcourt told
-OL,12,G412FMan involved in knifepoint
-OL,13,Frobberies with machete found hiding
-OL,14,Funder bed
-OL,16,G413FProtection demanded for 'toilet
-OL,17,Fbowl' harbour water in Christchurch
-OL,19,G414FFirefighters work through the
-OL,20,Fnight to tackle blaze at farm
+OL,12,G412FA&E winter waits prompt call to
+OL,13,Fuse faster urgent treatment centres
+OL,15,G413FMan involved in knifepoint
+OL,16,Frobberies with machete found hiding
+OL,17,Funder bed
+OL,19,G414FProtection demanded for 'toilet
+OL,20,Fbowl' harbour water in Christchurch
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -252,7 +251,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -277,7 +276,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -301,7 +300,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -327,7 +326,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -352,7 +351,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -377,28 +376,28 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 13 DEC
-OL,4,G1630FAntiques Road Trip
-OL,5,     GCatherine and David are steaming
-OL,6,     Gto auction to end their south
-OL,7,     Gcoast jamboree, with an antique
-OL,8,     Geel spear and a fetish doll. But
-OL,9,     Gwill Catherine ever get out of
-OL,10,     Gsecond gear?
-OL,11,G1715FPointless
-OL,12,     GContestants score points by
-OL,13,     Gcoming up with the answers no-one
-OL,14,     Gelse could think of.
-OL,15,G1800FBBC News
-OL,16,G1830FRegional News
-OL,17,G1900FThe One Show
-OL,18,     GAlex Jones and Roman Kemp bring
-OL,19,     Gyou the stories that matter from
-OL,20,     Gacross the country.
+OL,4,G1715FPointless
+OL,5,     GContestants score points by
+OL,6,     Gcoming up with the answers no-one
+OL,7,     Gelse could think of.
+OL,8,G1800FBBC News
+OL,9,G1830FRegional News
+OL,10,G1900FThe One Show
+OL,11,     GAlex Jones and Roman Kemp bring
+OL,12,     Gyou the stories that matter from
+OL,13,     Gacross the country.
+OL,14,G1930FWould I Lie to You? At Christmas
+OL,15,     F2023
+OL,16,     GRob Brydon hosts a festive
+OL,17,     Gedition of the award-winning
+OL,18,     Gcomedy panel show, with Lee Mack
+OL,19,     Gand David Mitchell returning as
+OL,20,     Gthe lightning-quick team captains.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -406,24 +405,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 13 DEC
-OL,4,G1615FThe Polar Bear Family and Me
-OL,5,     GWildlife cameraman Gordon
-OL,6,     GBuchanan follows a wild polar
-OL,7,     Gbear family over three seasons.
-OL,8,     GGordon and the team return to
-OL,9,     GSvalbard in mid-June on the trail
-OL,10,     Gof Lyra and her cubs.
-OL,11,G1715FFlog It!
-OL,12,     GAntiques series. Paul Martin
-OL,13,     Gpresents from Chiddingstone
-OL,14,     GCastle in Kent and visits Anne
-OL,15,     GBoleyn's family home, Hever
-OL,16,     GCastle.
+OL,4,G1715FFlog It!
+OL,5,     GAntiques series. Paul Martin
+OL,6,     Gpresents from Chiddingstone
+OL,7,     GCastle in Kent and visits Anne
+OL,8,     GBoleyn's family home, Hever
+OL,9,     GCastle.
+OL,10,G1800FRichard Osman's Festive House of
+OL,11,     FGames
+OL,12,     GClare Balding, Ivo Graham, Ugo
+OL,13,     GMonye and Su Pollard test their
+OL,14,     Ggeneral knowledge skills for a
+OL,15,     Gspecial festive show in Richard
+OL,16,     GOsman's House of Games.
+OL,17,G1830FStrictly - It Takes Two
+OL,18,     GJanette Manrara and Fleur East
+OL,19,     Gpresent a one hour special ahead
+OL,20,     Gof the grand final.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -431,28 +434,24 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 13 DEC
-OL,4,G1600FDeal or No Deal
-OL,5,     GBrian: Join Stephen Mulhern as
-OL,6,     Git's legendary Brian's turn to
-OL,7,     Gtake on the Banker.
-OL,8,G1700FThe Chase
-OL,9,     GAll that stands between Maeve
-OL,10,     Gfrom Colchester, Mahesh from
-OL,11,     GBirmingham, Alec from Suffolk,
-OL,12,     GClaire from North Lanarkshire and
-OL,13,     Gthousands of pounds is one of the
-OL,14,     GChasers.
-OL,15,G1800FRegional News
-OL,16,G1830FITV Evening News
-OL,17,G1930FEmmerdale
-OL,18,     GSteph tries to bring the family
-OL,19,     Gtogether, Will is riddled with
-OL,20,     Gguilt, and will Tom's plan work?
+OL,4,G1700FThe Chase
+OL,5,     GAll that stands between Maeve
+OL,6,     Gfrom Colchester, Mahesh from
+OL,7,     GBirmingham, Alec from Suffolk,
+OL,8,     GClaire from North Lanarkshire and
+OL,9,     Gthousands of pounds is one of the
+OL,10,     GChasers.
+OL,11,G1800FRegional News
+OL,12,G1830FITV Evening News
+OL,13,G1930FEmmerdale
+OL,14,     GSteph tries to bring the family
+OL,15,     Gtogether, Will is riddled with
+OL,16,     Gguilt, and will Tom's plan work?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -460,56 +459,54 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 13 DEC
-OL,4,G1600FChateau DIY at Christmas
-OL,5,     GChris and Jolyon finish their
-OL,6,     Ghallway. Donna and Paul hold a
-OL,7,     Gget-together in their chateau's
-OL,8,     Gcaves. Belinda and Lee spread
-OL,9,     Gholiday cheer with an amazing
-OL,10,     Gdinner and chestnut hunt.
-OL,11,G1700FFour in a Bed
-OL,12,     GThe new run continues. It's been
-OL,13,     Ga topsy-turvy week with some
-OL,14,     GB&Bers delighted with their
-OL,15,     Gscores - and others not so much.
-OL,16,     GAfter a little bit of a praise
-OL,17,     Gand a lot of moaning, who'll win?
+OL,4,G1730FKirstie's Handmade Christmas
+OL,5,     GThe new series concludes. Kirstie
+OL,6,     Gwelcomes back the winning quartet
+OL,7,     Gas they compete to create a
+OL,8,     Gshowstopping festive table. Whose
+OL,9,     Gdivine display will 'sleigh'
+OL,10,     GChristmas day?
+OL,11,G1830FThe Simpsons
+OL,12,     GThe Wife Aquatic: The family
+OL,13,     Gvisit Barnacle Bay, where Marge
+OL,14,     Ggrew up, but discover that it's
+OL,15,     Gbecome run-down. Can Homer help
+OL,16,     Gto clean up the town?
+OL,17,G1900FChannel 4 News
+OL,18,     GChannel 4's flagship news
+OL,19,     Gprogramme. Including the weather.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
-OL,26,@oD@^sp
 PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 13 DEC
-OL,4,G1515FChristmas on Repeat
-OL,5,     GAn advertising executive gets
-OL,6,     Gmore than she bargained for when
-OL,7,     GSanta grants her wish to make
-OL,8,     Gthings right at Christmas when
-OL,9,     Gshe realises she's been missing
-OL,10,     Gprecious time with her family.
-OL,11,G1700F5 News at 5
-OL,12,     GJoin Dan Walker and the team for
-OL,13,     Gthe news that matters to you.
-OL,14,G1800FThe Yorkshire Vet: 12 Days of
-OL,15,     FChristmas
-OL,16,     GSpecial episode of the
-OL,17,     Gdocumentary series about a
-OL,18,     Gcountry veterinary practise. A
-OL,19,     Gselection box of animal
-OL,20,     Gencounters counts down to the big
-OL,21,     Gday.
+OL,4,G1700F5 News at 5
+OL,5,     GJoin Dan Walker and the team for
+OL,6,     Gthe news that matters to you.
+OL,7,G1800FThe Yorkshire Vet: 12 Days of
+OL,8,     FChristmas
+OL,9,     GSpecial episode of the
+OL,10,     Gdocumentary series about a
+OL,11,     Gcountry veterinary practise. A
+OL,12,     Gselection box of animal
+OL,13,     Gencounters counts down to the big
+OL,14,     Gday.
+OL,15,G1900FInside Greggs at Christmas
+OL,16,     GBehind the scenes of the popular
+OL,17,     GBritish high street bakery chain
+OL,18,     Gduring the festive period.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -517,7 +514,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734108264
+OL,0,        ECIMSBWebfax     F498A1734111874
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
