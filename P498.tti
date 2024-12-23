@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,23 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FMorrisons cuts prices after glitch
-OL,9,Fleaves Christmas shop costing '#50
-OL,10,Fmore'
-OL,12,G303FMild temperatures over festive
-OL,13,Fperiod quash dreams of a white
-OL,14,FChristmas
-OL,16,G304FUK economy failed to grow in third
-OL,17,Fquarter, figures show
-OL,19,G305FKing's Christmas message to
-OL,20,Freflect on his and Kate's cancer
+OL,8,G302FKing's Christmas message to
+OL,9,Freflect on his and Kate's cancer
+OL,11,G303FJapanese car giants Honda and
+OL,12,FNissan confirm plans to merge
+OL,14,G304FLuigi Mangione pleads not guilty
+OL,15,Fto the murder of UnitedHealthcare CEO
+OL,17,G305FUK economy failed to grow in third
+OL,18,Fquarter, figures show
+OL,20,G306FWoman dies after being set on fire
+OL,21,Fon subway in New York
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -200,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -208,17 +208,15 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FLondon will be 2025 capital of
-OL,9,Fwomen's sport, says mayor Sadiq Khan
-OL,11,G402FMan charged with murder after
-OL,12,Fwoman stabbed to death in Carshalton
-OL,14,G403FFamily's joy as boy, 4, finishes
-OL,15,Fcancer treatment in time for Christmas
-OL,17,G404FMurder investigation launched
-OL,18,Fafter woman stabbed to death in
-OL,19,FCarshalton
-OL,21,G405FChristmas getaway: Londoners
-OL,22,Fwarned of festive travel disruption
+OL,8,G401FEllie Goulding 'in awe' of
+OL,9,FCrisis's work as she helps with
+OL,10,FChristmas services
+OL,12,G402FLondon will be 2025 capital of
+OL,13,Fwomen's sport, says mayor Sadiq Khan
+OL,15,G403FMan charged with murder after
+OL,16,Fwoman stabbed to death in Carshalton
+OL,18,G404FFamily's joy as boy, 4, finishes
+OL,19,Fcancer treatment in time for Christmas
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -226,7 +224,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -234,17 +232,17 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FMore than 1000 homes without water
-OL,9,Fin Rochester due to burst water main
-OL,11,G412FVolunteer scientists uncover
-OL,12,F'fascinating' species including
-OL,13,F'invasive' oysters
-OL,15,G413FBoy, 15, hit by car dies two days
-OL,16,Flater in hospital
-OL,18,G414FChristmas Day bus boost: 100,000
-OL,19,Fpassengers expected
-OL,21,G415FWoman, 69, suspected of murder
-OL,22,Freleased on bail
+OL,8,G411FScientists develop 'self-healing'
+OL,9,Fplastics to help reduce plastic waste
+OL,11,G412FMore than 1000 homes without water
+OL,12,Fin Rochester due to burst water main
+OL,14,G413FVolunteer scientists uncover
+OL,15,F'fascinating' species including
+OL,16,F'invasive' oysters
+OL,18,G414FBoy, 15, hit by car dies two days
+OL,19,Flater in hospital
+OL,21,G415FChristmas Day bus boost: 100,000
+OL,22,Fpassengers expected
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -252,7 +250,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -289,15 +287,15 @@ OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
 OL,8,G431FTen-year-old writes to EDF asking
 OL,9,Fthem to not take family farm land
-OL,11,G432FPerranporth man recalls being
-OL,12,Fswept up by the Boxing Day tsunami 20
-OL,13,Fyears ago
-OL,15,G433FBarn owl tangled in a kite line in
-OL,16,FBristol 'very lucky' to be saved
-OL,18,G434FThousands sign petition calling
-OL,19,Ffor action at road fatality hotspot
-OL,21,G435FCouple who left scalded dog to
-OL,22,Fsuffer banned from keeping animals
+OL,11,G432FWarning after batteries cause
+OL,12,Flarge bin lorry fire in Dorset
+OL,14,G433FPerranporth man recalls being
+OL,15,Fswept up by the Boxing Day tsunami 20
+OL,16,Fyears ago
+OL,18,G434FBarn owl tangled in a kite line in
+OL,19,FBristol 'very lucky' to be saved
+OL,21,G435FThousands sign petition calling
+OL,22,Ffor action at road fatality hotspot
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -305,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -330,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -355,7 +353,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -380,25 +378,25 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 DEC
-OL,4,G2200FBBC News and Weather
-OL,5,G2230FRegional News
-OL,6,G2240FNot Going Out Christmas Special
-OL,7,     GLee makes a big effort to create
-OL,8,     Gthe perfect Christmas for his
-OL,9,     Gfamily by inviting a lonely, old
-OL,10,     Gpensioner into their home for
-OL,11,     Gdinner. Contains adult humour.
-OL,12,G2320FWham!: Last Christmas Unwrapped
-OL,13,     GThis Christmas special tells the
-OL,14,     Gstory of how George Michael and
-OL,15,     GAndrew Ridgeley's Wham! turned
-OL,16,     Gone song into a cultural
-OL,17,     Gphenomenon.
+OL,4,G2320FWham!: Last Christmas Unwrapped
+OL,5,     GThis Christmas special tells the
+OL,6,     Gstory of how George Michael and
+OL,7,     GAndrew Ridgeley's Wham! turned
+OL,8,     Gone song into a cultural
+OL,9,     Gphenomenon.
+OL,10,G0020FLost at Christmas
+OL,11,     GTwo strangers become stranded in
+OL,12,     Gthe Scottish Highlands and decide
+OL,13,     Gto team up in order to get home
+OL,14,     Gfor Christmas. Contains language
+OL,15,     Gwhich some may find offensive.
+OL,16,G0200FWeather for the Week Ahead
+OL,17,G0205FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -406,29 +404,30 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 DEC
-OL,4,G2220FDetectorists
-OL,5,     GAfter a chance encounter, Lance
-OL,6,     Gand Andy journey towards the
-OL,7,     Gdiscovery of a lifetime. Contains
-OL,8,     Gsome strong language.
-OL,9,G2250FDetectorists: Christmas Special
-OL,10,     F2015
-OL,11,     GLance hasn't found anything in
-OL,12,     Gages. Russell thinks he knows why
-OL,13,     G- the Curse of the Gold. Contains
-OL,14,     Gsome strong language.
-OL,15,G2320FThe Haunting
-OL,16,     GInfamous in the annals of the
-OL,17,     Ghaunted, Hill House has attracted
-OL,18,     Ga group of four investigators,
-OL,19,     Gwho spend the night to uncover
-OL,20,     Gthe terrifying truth. Contains
-OL,21,     Ghorror.
+OL,4,G2320FThe Haunting
+OL,5,     GInfamous in the annals of the
+OL,6,     Ghaunted, Hill House has attracted
+OL,7,     Ga group of four investigators,
+OL,8,     Gwho spend the night to uncover
+OL,9,     Gthe terrifying truth. Contains
+OL,10,     Ghorror.
+OL,11,G0110FCountryfile
+OL,12,     GSammi Kinghorn and Matt Baker
+OL,13,     Gexplore the Peak District, the
+OL,14,     Gfirst national park created by
+OL,15,     Gthe transformative National Parks
+OL,16,     Gand Access to the Countryside Act
+OL,17,     Gof 1949.
+OL,18,G0205FAmazing Hotels: Life Beyond the
+OL,19,     FLobby
+OL,20,     GRob and Monica travel to Lapland
+OL,21,     Gto work in freezing temperatures
+OL,22,     Gat a Sami-owned hotel.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -436,28 +435,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 DEC
-OL,4,G2210FRegional News
-OL,5,G2225FThe Equalizer
-OL,6,     GAction crime thriller film
-OL,7,     Gstarring Denzel Washington and
-OL,8,     GChloe Grace Moretz, 2014. A man
-OL,9,     Gwith a mysterious past comes out
-OL,10,     Gof his self-imposed retirement to
-OL,11,     Ghelp a young girl.
-OL,12,G0040FShop on TV
-OL,13,G0300FYou Bet!
-OL,14,     GHolly Willoughby and Stephen
-OL,15,     GMulhern host as ordinary people
-OL,16,     Gtake on extraordinary challenges
-OL,17,     G- placing their bets this time
-OL,18,     Gare Olly Murs, Mary Earps, Judi
-OL,19,     GLove and Rob Beckett.
-OL,20,G0400FUnwind with ITV
+OL,4,G2225FThe Equalizer
+OL,5,     GAction crime thriller film
+OL,6,     Gstarring Denzel Washington and
+OL,7,     GChloe Grace Moretz, 2014. A man
+OL,8,     Gwith a mysterious past comes out
+OL,9,     Gof his self-imposed retirement to
+OL,10,     Ghelp a young girl.
+OL,11,G0040FShop on TV
+OL,12,G0300FYou Bet!
+OL,13,     GHolly Willoughby and Stephen
+OL,14,     GMulhern host as ordinary people
+OL,15,     Gtake on extraordinary challenges
+OL,16,     G- placing their bets this time
+OL,17,     Gare Olly Murs, Mary Earps, Judi
+OL,18,     GLove and Rob Beckett.
+OL,19,G0400FUnwind with ITV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -465,7 +463,7 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -491,7 +489,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -518,26 +516,25 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1734992692
+OL,0,        ECIMSBWebfax     F498A1734996302
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 DEC
-OL,4,G2105FHot Money
-OL,5,     G2001. Crime Drama. Directed by
-OL,6,     GTerry Winsor. Stars Caroline
-OL,7,     GQuentin, Melanie Hill & Georgia
-OL,8,     GMackenzie. Three women plot to
-OL,9,     Gsteal thousands of pounds from
-OL,10,     Gthe Bank of England's
-OL,11,     Gincinerators.
-OL,12,G2310FThe Weak and the Wicked
-OL,13,     G1954. Drama. Directed by J. Lee
-OL,14,     GThompson. Stars Glynis Johns,
-OL,15,     GDiana Dors & John Gregson. A
-OL,16,     Gpowerful drama about the lives of
-OL,17,     Gseveral inmates within a women's
-OL,18,     Gprison.
+OL,4,G2310FThe Weak and the Wicked
+OL,5,     G1954. Drama. Directed by J. Lee
+OL,6,     GThompson. Stars Glynis Johns,
+OL,7,     GDiana Dors & John Gregson. A
+OL,8,     Gpowerful drama about the lives of
+OL,9,     Gseveral inmates within a women's
+OL,10,     Gprison.
+OL,11,G0055FGloria
+OL,12,     G1980. Crime Drama. Director: John
+OL,13,     GCassavetes. Stars Gena Rowlands,
+OL,14,     GBuck Henry & Julie Carmen. A
+OL,15,     Gyoung boy and his tough neighbour
+OL,16,     GGloria must run for their lives
+OL,17,     Gafter the mob murders his family.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
