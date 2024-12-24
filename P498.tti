@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -127,7 +127,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -153,7 +153,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -163,14 +163,14 @@ OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
 OL,8,G381FBrittany Ferries take Jersey
 OL,9,FMinister to court
-OL,11,G382FDFDS Seaways release provisional
-OL,12,F2025 timetable for Jersey
-OL,14,G383FMore than #21,000 bill for Jersey
-OL,15,Fgovernment awards ceremony
-OL,17,G384FJersey Airport announce
-OL,18,Fredevelopment plans
-OL,20,G385FPassengers warned of potential
-OL,21,Fflight disruptions following high winds
+OL,11,G382FJersey cancer survivor prepares
+OL,12,FChristmas hampers for young patients
+OL,14,G383FDFDS Seaways release provisional
+OL,15,F2025 timetable for Jersey
+OL,17,G384FMore than #21,000 bill for Jersey
+OL,18,Fgovernment awards ceremony
+OL,20,G385FJersey Airport announce
+OL,21,Fredevelopment plans
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -178,7 +178,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -186,15 +186,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FMax George says pacemaker has been
-OL,9,Ffitted and is 'best Christmas present
-OL,10,Fever'
-OL,12,G392FCause of death of baby found in
-OL,13,Fpark remains unknown
-OL,15,G393FWoman dies after police called to
-OL,16,Fincident on M6 motorway
-OL,18,G394FPolice in Liverpool seeking man
-OL,19,Fafter serious assault outside pub
+OL,8,G391FTeenager charged after 'amazing'
+OL,9,Fmum dies following collision
+OL,11,G392FMax George says pacemaker has been
+OL,12,Ffitted and is 'best Christmas present
+OL,13,Fever'
+OL,15,G393FCause of death of baby found in
+OL,16,Fpark remains unknown
+OL,18,G394FWoman dies after police called to
+OL,19,Fincident on M6 motorway
+OL,21,G395FPolice in Liverpool seeking man
+OL,22,Fafter serious assault outside pub
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -202,7 +204,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -234,17 +236,17 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FScientists develop 'self-healing'
-OL,9,Fplastics to help reduce plastic waste
-OL,11,G412FMore than 1000 homes without water
-OL,12,Fin Rochester due to burst water main
-OL,14,G413FVolunteer scientists uncover
-OL,15,F'fascinating' species including
-OL,16,F'invasive' oysters
-OL,18,G414FBoy, 15, hit by car dies two days
-OL,19,Flater in hospital
-OL,21,G415FChristmas Day bus boost: 100,000
-OL,22,Fpassengers expected
+OL,8,G411FKent artist 'Mr Doodle' creates
+OL,9,F203 metre mural in one day
+OL,11,G412FScientists develop 'self-healing'
+OL,12,Fplastics to help reduce plastic waste
+OL,14,G413FMore than 1000 homes without water
+OL,15,Fin Rochester due to burst water main
+OL,17,G414FVolunteer scientists uncover
+OL,18,F'fascinating' species including
+OL,19,F'invasive' oysters
+OL,21,G415FBoy, 15, hit by car dies two days
+OL,22,Flater in hospital
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -252,7 +254,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +281,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -305,7 +307,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -329,7 +331,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +356,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,19 +381,12 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 DEC
-OL,4,G0020FLost at Christmas
-OL,5,     GTwo strangers become stranded in
-OL,6,     Gthe Scottish Highlands and decide
-OL,7,     Gto team up in order to get home
-OL,8,     Gfor Christmas. Contains language
-OL,9,     Gwhich some may find offensive.
-OL,10,G0200FWeather for the Week Ahead
-OL,11,G0205FBBC News
+OL,4,G0205FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -399,30 +394,24 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 DEC
-OL,4,G0110FCountryfile
-OL,5,     GSammi Kinghorn and Matt Baker
-OL,6,     Gexplore the Peak District, the
-OL,7,     Gfirst national park created by
-OL,8,     Gthe transformative National Parks
-OL,9,     Gand Access to the Countryside Act
-OL,10,     Gof 1949.
-OL,11,G0205FAmazing Hotels: Life Beyond the
-OL,12,     FLobby
-OL,13,     GRob and Monica travel to Lapland
-OL,14,     Gto work in freezing temperatures
-OL,15,     Gat a Sami-owned hotel.
-OL,16,G0305FRenaissance: The Blood and the
-OL,17,     FBeauty
-OL,18,     GMichelangelo's rivalry with
-OL,19,     GRaphael reaches new heights in
-OL,20,     GRome, while a violent religious
-OL,21,     Gschism engulfs Europe and makes
-OL,22,     Gthe artist question everything.
+OL,4,G0205FAmazing Hotels: Life Beyond the
+OL,5,     FLobby
+OL,6,     GRob and Monica travel to Lapland
+OL,7,     Gto work in freezing temperatures
+OL,8,     Gat a Sami-owned hotel.
+OL,9,G0305FRenaissance: The Blood and the
+OL,10,     FBeauty
+OL,11,     GMichelangelo's rivalry with
+OL,12,     GRaphael reaches new heights in
+OL,13,     GRome, while a violent religious
+OL,14,     Gschism engulfs Europe and makes
+OL,15,     Gthe artist question everything.
+OL,16,G0405FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -430,7 +419,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -457,33 +446,34 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 23 DEC
-OL,4,G2335FClear and Present Danger
-OL,5,     GThriller with Harrison Ford. Can
-OL,6,     GCIA agent Jack Ryan rescue US
-OL,7,     Gtroops abandoned in Colombia,
-OL,8,     Gwith only a renegade agent to
-OL,9,     Ghelp? Wouldn't bet against him.
-OL,10,     GWith Willem Dafoe.
-OL,11,G0205FTravel Man: 96 Hours in Rio
-OL,12,     GIn this festive special, Joe
-OL,13,     GLycett and Stephen Mangan romp
-OL,14,     Garound Rio de Janeiro as they
-OL,15,     Gtake to the skies, try out their
-OL,16,     Gsamba skills and learn to cook a
-OL,17,     GChristmas dinner Brazilian-style.
+OL,4,G0205FTravel Man: 96 Hours in Rio
+OL,5,     GIn this festive special, Joe
+OL,6,     GLycett and Stephen Mangan romp
+OL,7,     Garound Rio de Janeiro as they
+OL,8,     Gtake to the skies, try out their
+OL,9,     Gsamba skills and learn to cook a
+OL,10,     GChristmas dinner Brazilian-style.
+OL,11,G0255FFrasier
+OL,12,     GMary Christmas: A scheming
+OL,13,     GFrasier works his way into
+OL,14,     Ghosting the annual televised
+OL,15,     GChristmas parade but is horrified
+OL,16,     Gto learn that his protegee Dr
+OL,17,     GMary is his co-host.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
+OL,26,@xD@\rrxD@^rr
 PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -508,7 +498,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735003521
+OL,0,        ECIMSBWebfax     F498A1735007130
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
