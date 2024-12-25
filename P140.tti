@@ -1,7 +1,7 @@
 PN,14001
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax     F140A1735097375
+OL,0,        ECIMSBWebfax     F140A1735100984
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
@@ -23,7 +23,7 @@ OL,22,                                   G1/4
 PN,14002
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax     F140A1735097375
+OL,0,        ECIMSBWebfax     F140A1735100984
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
@@ -46,7 +46,7 @@ OL,22,                                   G2/4
 PN,14003
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax     F140A1735097375
+OL,0,        ECIMSBWebfax     F140A1735100984
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
@@ -58,9 +58,9 @@ OL,10,Ftime"
 OL,12,G152GOPINIONFRecent scheduling of local
 OL,13,Fprogramming on ITV 1
 OL,15,G153GNEWSFChanges announced for BBC News
-OL,17,G154GOPINIONFITV London split lives on
-OL,19,G155GOPINIONFNews of ITV's regional
-OL,20,Fprogramme obligations and identities
+OL,17,G154GBLOOPERSFBBC One playout error
+OL,18,Fdisrupts BBC News at One
+OL,20,G155GOPINIONFITV London split lives on
 OL,23,E]GTV Guide ---------------------- 200
 OL,24,ANext Page  BNat TV CThis Day  FNat News
 FL,141,200,120,300,000,100
@@ -69,19 +69,19 @@ OL,22,                                   G3/4
 PN,14004
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax     F140A1735097375
+OL,0,        ECIMSBWebfax     F140A1735100984
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}  S      G
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,CINDEX for TV presentation news/opinion
-OL,5,G156GBLOOPERSFBBC News guest appears on
-OL,6,Fair in error as she prepares for
-OL,7,Finterview
-OL,9,G157GBLOOPERSFRehearsal broadcast in
-OL,10,Ferror on BBC News channel
-OL,12,G158GOPINIONFGood Morning Britain drops
-OL,13,Fregional news bulletin
-OL,15,G159GOPINIONFITV's disproportionate
-OL,16,FScottish Borders commitments
+OL,5,G156GOPINIONFNews of ITV's regional
+OL,6,Fprogramme obligations and identities
+OL,8,G157GBLOOPERSFBBC News guest appears on
+OL,9,Fair in error as she prepares for
+OL,10,Finterview
+OL,12,G158GBLOOPERSFRehearsal broadcast in
+OL,13,Ferror on BBC News channel
+OL,15,G159GOPINIONFGood Morning Britain drops
+OL,16,Fregional news bulletin
 OL,23,E]GTV Guide ---------------------- 200
 OL,24,ANext Page  BNat TV CThis Day  FNat News
 FL,141,200,120,300,000,100
