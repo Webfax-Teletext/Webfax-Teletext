@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,23 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FFlight delays continue as heavy
-OL,9,Ffog forecast to linger into weekend
-OL,11,G303FIsrael arrests head of one of
-OL,12,Ffinal functioning Gaza hospitals,
-OL,13,Fofficials say
-OL,15,G304FTwo women killed in Bletchley
-OL,16,Fapartment named as man charged with
-OL,17,Ftheir murders
-OL,19,G305FFarage warns Badenoch will face
-OL,20,F'action' over Reform numbers row
+OL,8,G302FFarage warns Badenoch will face
+OL,9,F'action' over Reform numbers row
+OL,11,G303FFlight delays continue as heavy
+OL,12,Ffog forecast to linger into weekend
+OL,14,G304FIsrael arrests head of one of
+OL,15,Ffinal functioning Gaza hospitals,
+OL,16,Fofficials say
+OL,18,G305FTwo women killed in Bletchley
+OL,19,Fapartment named as man charged with
+OL,20,Ftheir murders
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -159,16 +159,17 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381FFog continues to cause flight
-OL,9,Fdisruptions for the Channel Islands
-OL,11,G382FBrittany Ferries to take Jersey
-OL,12,FMinister to court
-OL,14,G383FIn Pictures: The Channel Islands'
-OL,15,FChristmas creatures and festive pets
-OL,17,G384FChannel Island air passengers
-OL,18,Fwarned of fog and mist
-OL,20,G385FChef delivers free Christmas
-OL,21,Fdinners to more than 100 islanders
+OL,8,G381FTravellers across the Channel
+OL,9,FIslands facing flight delays due to
+OL,10,Ffog in UK
+OL,12,G382FFog continues to cause flight
+OL,13,Fdisruptions for the Channel Islands
+OL,15,G383FBrittany Ferries to take Jersey
+OL,16,FMinister to court
+OL,18,G384FIn Pictures: The Channel Islands'
+OL,19,FChristmas creatures and festive pets
+OL,21,G385FChannel Island air passengers
+OL,22,Fwarned of fog and mist
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -176,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -253,7 +254,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -278,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -304,7 +305,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -330,7 +331,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -355,7 +356,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -380,24 +381,25 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 DEC
-OL,4,G1805FShrek 2
-OL,5,     GAnimated sequel following the
-OL,6,     Ggrumpy ogre and his bride as they
-OL,7,     Ghead off to meet her parents. The
-OL,8,     Goccasion is marred by the wicked
-OL,9,     GFairy Godmother.
-OL,10,G1930FThe Weakest Link: Party Special
-OL,11,     GScarlett Moffatt, Richie
-OL,12,     GAnderson, Christine McGuinness,
-OL,13,     GLouisa Lytton, David Potts,
-OL,14,     GBabatunde Aleshe, Seann Walsh and
-OL,15,     GJanette Manrara compete to be the
-OL,16,     Gstrongest link.
+OL,4,G1930FThe Weakest Link: Party Special
+OL,5,     GScarlett Moffatt, Richie
+OL,6,     GAnderson, Christine McGuinness,
+OL,7,     GLouisa Lytton, David Potts,
+OL,8,     GBabatunde Aleshe, Seann Walsh and
+OL,9,     GJanette Manrara compete to be the
+OL,10,     Gstrongest link.
+OL,11,G2015FMichael McIntyre's The Wheel
+OL,12,     GSarah Millican, Lawrence Chaney,
+OL,13,     GEllie Simmonds, David Baddiel,
+OL,14,     GMistaJam, Vanessa Feltz and
+OL,15,     GDarren Harriott try to help three
+OL,16,     Gcontestants win life-changing
+OL,17,     Gcash.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -405,29 +407,30 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 DEC
-OL,4,G1800FLives Well Lived
-OL,5,     GKirsty Wark looks back at the
-OL,6,     Gextraordinary lives of some of
-OL,7,     Gthe legendary actors, celebrated
-OL,8,     Gbroadcasters, literary giants and
-OL,9,     Gsporting greats who died in 2024.
-OL,10,G1900FMaggie Smith at the BBC
-OL,11,     GCelia Imrie narrates a
-OL,12,     Gcelebration of the life, work and
-OL,13,     GTV appearances made over the
-OL,14,     Gyears by one of Britain's
-OL,15,     Ggreatest and best-loved acting
-OL,16,     Gicons, Dame Maggie Smith.
-OL,17,G2000FDad's Army: The Deadly Attachment
-OL,18,     GClassic wartime sitcom. Captain
-OL,19,     GMainwaring and his platoon are
-OL,20,     Ginstructed to guard a captive U-
-OL,21,     Gboat crew. Are they up to the job?
+OL,4,G1900FMaggie Smith at the BBC
+OL,5,     GCelia Imrie narrates a
+OL,6,     Gcelebration of the life, work and
+OL,7,     GTV appearances made over the
+OL,8,     Gyears by one of Britain's
+OL,9,     Ggreatest and best-loved acting
+OL,10,     Gicons, Dame Maggie Smith.
+OL,11,G2000FDad's Army: The Deadly Attachment
+OL,12,     GClassic wartime sitcom. Captain
+OL,13,     GMainwaring and his platoon are
+OL,14,     Ginstructed to guard a captive U-
+OL,15,     Gboat crew. Are they up to the job?
+OL,16,G2030F60 Songs: BBC Two at 60
+OL,17,     GA celebration of some of the
+OL,18,     Gbiggest names in music, offering
+OL,19,     Gan epic compilation of 60 songs
+OL,20,     Gperformed over the past 60 years
+OL,21,     Gto celebrate BBC Two's diamond
+OL,22,     Ganniversary.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -435,24 +438,26 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 DEC
-OL,4,G1800FDeal or No Deal: Celebrity Special
-OL,5,     GStephen Mulhern hosts as Olympic
-OL,6,     Gheptathlete Katarina Johnson-
-OL,7,     GThompson takes on the Banker and
-OL,8,     Gtries to be the first celebrity
-OL,9,     Gplayer to bag the jackpot.
-OL,10,G1900FWheel of Fortune Christmas Special
-OL,11,     GGraham Norton invites acting
-OL,12,     Groyalty Richard E Grant, Gavin
-OL,13,     Gand Stacey actress Joanna Page,
-OL,14,     Gand TV and radio presenter Tyler
-OL,15,     GWest to spin the Wheel in aid of
-OL,16,     Gcharity.
+OL,4,G1900FWheel of Fortune Christmas Special
+OL,5,     GGraham Norton invites acting
+OL,6,     Groyalty Richard E Grant, Gavin
+OL,7,     Gand Stacey actress Joanna Page,
+OL,8,     Gand TV and radio presenter Tyler
+OL,9,     GWest to spin the Wheel in aid of
+OL,10,     Gcharity.
+OL,11,G2000FSpectre
+OL,12,     GBond film starring Daniel Craig
+OL,13,     Gand Christoph Waltz, 2015. 007
+OL,14,     Greceives a cryptic message that
+OL,15,     Gsets him on the trail of a
+OL,16,     Gclandestine criminal organisation
+OL,17,     Gcalled SPECTRE.
+OL,18,G2245FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -460,24 +465,30 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 DEC
-OL,4,G1800FPopMaster TV: Festive DJ Special
-OL,5,     GKen Bruce hosts a festive edition
-OL,6,     Gof the legendary quiz, with Bob
-OL,7,     GHarris, Katie Thistleton, OJ
-OL,8,     GBorg, Jenny Powell and Rickie
-OL,9,     GHaywood-Williams. Who'll hit the
-OL,10,     GChristmas top spot?
-OL,11,G1900FCast Away
-OL,12,     GSurvival drama starring Tom Hanks
-OL,13,     Gas a modern-day Robinson Crusoe
-OL,14,     Gwho must overcome his obsession
-OL,15,     Gwith time when he's marooned on a
-OL,16,     Gdesert island after a plane crash.
+OL,4,G1900FCast Away
+OL,5,     GSurvival drama starring Tom Hanks
+OL,6,     Gas a modern-day Robinson Crusoe
+OL,7,     Gwho must overcome his obsession
+OL,8,     Gwith time when he's marooned on a
+OL,9,     Gdesert island after a plane crash.
+OL,10,G2145FThe Godfather
+OL,11,     GA Mafia don's son struggles to
+OL,12,     Gbecome a legitimate businessman
+OL,13,     Gin Francis Ford Coppola's classic
+OL,14,     Gcrime drama. Starring Al Pacino,
+OL,15,     GMarlon Brando, James Caan and
+OL,16,     GRobert Duvall.
+OL,17,G0110FNaked Gun 2 1/2: The Smell of Fear
+OL,18,     GComedy. Fearless - and clueless -
+OL,19,     Gcop Lt Frank Drebin returns to
+OL,20,     Gthwart an evil eco-terrorist.
+OL,21,     GWith Priscilla Presley and George
+OL,22,     GKennedy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -485,27 +496,25 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 DEC
-OL,4,G1750FKinky Boots
-OL,5,     GBritish comedy drama. A drag
-OL,6,     Gqueen comes to the rescue of a
-OL,7,     Gman who, after inheriting his
-OL,8,     Gfather's shoe factory, needs to
-OL,9,     Gdiversify his product if he wants
-OL,10,     Gto keep the business afloat.
-OL,11,G1855F5 News Update
-OL,12,     GNational and international news.
-OL,13,G1900FWorld's Strongest Man 2024
-OL,14,     GAction from Myrtle Beach
-OL,15,     Gcontinues as four more supersized
-OL,16,     GStrongmen look to force their way
-OL,17,     Gto The Grand Final. Reigning
-OL,18,     GWorld's Strongest Man Mitchell
-OL,19,     GHooper begins his title defence.
+OL,4,G1900FWorld's Strongest Man 2024
+OL,5,     GAction from Myrtle Beach
+OL,6,     Gcontinues as four more supersized
+OL,7,     GStrongmen look to force their way
+OL,8,     Gto The Grand Final. Reigning
+OL,9,     GWorld's Strongest Man Mitchell
+OL,10,     GHooper begins his title defence.
+OL,11,G2000FMonsters of the Deep:..
+OL,12,     G...20,000 Leagues Under the Sea.
+OL,13,     GExploring the undersea world of
+OL,14,     Gkillers like the Anglerfish,
+OL,15,     GDunkleosteus and Stoplight Loose-
+OL,16,     GJaw, with insights from the likes
+OL,17,     Gof Steve Backshall.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -513,26 +522,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1735411042
+OL,0,        ECIMSBWebfax     F498A1735414649
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 DEC
-OL,4,G1825FBeau Geste
-OL,5,     GEpisode Six. 1982. Stars John
-OL,6,     GForgeham & Benedict Taylor. The
-OL,7,     Gcolumn marches across country to
-OL,8,     GFort Zinderneuf. Lejeune's harsh
-OL,9,     Gtreatment, and promotion of
-OL,10,     GBoldini, causes increasing
-OL,11,     Gresentment.
-OL,12,G1900FZ-Cars
-OL,13,     GHouse to House. 1974. Stars Ian
-OL,14,     GCullen & Darlene Johnson. A full
-OL,15,     Gscale house to house enquiry
-OL,16,     Gfails to produce a witness; until
-OL,17,     Ga night prowler and two criminals
-OL,18,     Glay their own freedom on the line.
+OL,4,G1900FZ-Cars
+OL,5,     GHouse to House. 1974. Stars Ian
+OL,6,     GCullen & Darlene Johnson. A full
+OL,7,     Gscale house to house enquiry
+OL,8,     Gfails to produce a witness; until
+OL,9,     Ga night prowler and two criminals
+OL,10,     Glay their own freedom on the line.
+OL,11,G2000FTravelling Man
+OL,12,     GSudden Death. 1984. Stars Leigh
+OL,13,     GLawson, Colin Jeavons, Tony
+OL,14,     GDoyle. Lomax returns to London
+OL,15,     Gfor his mother's funeral.
+OL,16,     GAfterwards, he targets Pember - a
+OL,17,     Gman who might be able to help
+OL,18,     Gclear his name.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
