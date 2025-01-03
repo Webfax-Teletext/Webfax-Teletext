@@ -2,7 +2,7 @@ PN,30401
 SC,0001
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
@@ -27,7 +27,7 @@ PN,30402
 SC,0002
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
@@ -52,7 +52,7 @@ PN,30403
 SC,0003
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
@@ -76,7 +76,7 @@ PN,30404
 SC,0004
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
@@ -97,7 +97,7 @@ PN,30405
 SC,0005
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
@@ -120,7 +120,7 @@ PN,30406
 SC,0006
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
@@ -128,12 +128,13 @@ OL,7,FSome 20-30cm could fall over high
 OL,8,Fground in Wales, and potentially 30-40
 OL,9,Fcm over parts of the Pennines, which
 OL,10,Fcould bring power cuts.
-OL,12,FWill anywhere avoid the snow?
-OL,14,FParts of England's coastline are not
-OL,15,Fcovered by the weekend's weather
-OL,16,Fwarnings for snow and ice, including
-OL,17,FCornwall, Exeter, Portsmouth and
-OL,18,FBrighton.
+OL,12,FWhich areas will be the coldest over
+OL,13,Fthe weekend?
+OL,15,FThe lowest temperatures are expected
+OL,16,Fin rural Scotland, where temperatures
+OL,17,Fcould plummet to as low as -10C on
+OL,18,FFriday evening.
+OL,20,FWill anywhere avoid the snow?
 OL,1,W~k4~sj5j5~s1G                    G6/14
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -143,18 +144,20 @@ PN,30407
 SC,0007
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
-OL,7,FCoastal areas across Norfolk and
-OL,8,FSuffolk are also not affected, as well
-OL,9,Fas coastal parts of the Humber,
-OL,10,FNewcastle and Northumberland.
-OL,12,FHow will it affect travel?
-OL,14,FThe Met Office has warned people to be
-OL,15,Fprepared and aware when travelling,
-OL,16,Fwith longer journey times likely.
+OL,7,FParts of England's coastline are not
+OL,8,Fcovered by the weekend's weather
+OL,9,Fwarnings for snow and ice, including
+OL,10,FCornwall, Exeter, Portsmouth and
+OL,11,FBrighton.
+OL,13,FCoastal areas across Norfolk and
+OL,14,FSuffolk are also not affected, as well
+OL,15,Fas coastal parts of the Humber,
+OL,16,FNewcastle and Northumberland.
+OL,18,FHow will it affect travel?
 OL,1,W~k4~sj5j5~s1G                    G7/14
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -164,20 +167,22 @@ PN,30408
 SC,0008
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
-OL,7,FRailways are likely to experience
-OL,8,Fdelays or cancellations, with National
-OL,9,FRail confirming that various routes
-OL,10,Facross England, Scotland and Wales are
-OL,11,Fimpacted.
-OL,13,FSubscribe free to our weekly
-OL,14,Fnewsletter for exclusive and original
-OL,15,Fcoverage from ITV News. Direct to your
-OL,16,Finbox every Friday morning.
-OL,18,FWhy is there a UKHSA health warning?
+OL,7,FThe Met Office has warned people to be
+OL,8,Fprepared and aware when travelling,
+OL,9,Fwith longer journey times likely.
+OL,11,FRailways are likely to experience
+OL,12,Fdelays or cancellations, with National
+OL,13,FRail confirming that various routes
+OL,14,Facross England, Scotland and Wales are
+OL,15,Fimpacted.
+OL,17,FSubscribe free to our weekly
+OL,18,Fnewsletter for exclusive and original
+OL,19,Fcoverage from ITV News. Direct to your
+OL,20,Finbox every Friday morning.
 OL,1,W~k4~sj5j5~s1G                    G8/14
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -187,19 +192,20 @@ PN,30409
 SC,0009
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
-OL,7,FThe UK Health Security Agency (UKHSA)
-OL,8,Fhas issued an amber cold weather alert
-OL,9,Ffrom 12pm on Thursday until January 8.
-OL,11,FUKHSA's weather alert system provides
-OL,12,Fan early warning to the health and
-OL,13,Fsocial care sector and government
-OL,14,Fdepartments in circumstances where
-OL,15,Ftemperatures are likely to impact the
-OL,16,Fpopulation's health.
+OL,7,FWhy is there a UKHSA health warning?
+OL,9,FThe UK Health Security Agency (UKHSA)
+OL,10,Fhas issued an amber cold weather alert
+OL,11,Ffrom 12pm on Thursday until January 8.
+OL,13,FUKHSA's weather alert system provides
+OL,14,Fan early warning to the health and
+OL,15,Fsocial care sector and government
+OL,16,Fdepartments in circumstances where
+OL,17,Ftemperatures are likely to impact the
+OL,18,Fpopulation's health.
 OL,1,W~k4~sj5j5~s1G                    G9/14
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -209,7 +215,7 @@ PN,30410
 SC,0010
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
@@ -232,7 +238,7 @@ PN,30411
 SC,0011
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
@@ -257,7 +263,7 @@ PN,30412
 SC,0012
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
@@ -280,7 +286,7 @@ PN,30413
 SC,0013
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
@@ -306,7 +312,7 @@ PN,30414
 SC,0014
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F304A1735905220
+OL,0,        ECIMSBWebfax     F304A1735916048
 OL,3,CBritain set for snow as Met Office
 OL,4,Cgives amber warnings - but where will
 OL,5,Cit hit?
