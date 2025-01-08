@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -59,15 +59,15 @@ OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
 OL,8,G302FWildfires rip through Los Angeles
 OL,9,Fas 30,000 people forced to evacuate
-OL,11,G303FSAS had 'golden pass to get away
-OL,12,Fwith murder' in Afghanistan, inquiry
-OL,13,Ftold
-OL,15,G304FWhat are the new travel
-OL,16,Frequirements needed to vist the UK?
-OL,18,G305FHMPV: What is the virus and should
-OL,19,Fwe be worried in the UK?
-OL,21,G306FWhy the time you drink your coffee
-OL,22,Fmay affect your health
+OL,11,G303FFull list of NHS hospitals
+OL,12,Fdeclaring a critical incident
+OL,14,G304FWhat are the new travel
+OL,15,Frequirements needed to visit the UK?
+OL,17,G305FSAS had 'golden pass to get away
+OL,18,Fwith murder' in Afghanistan, inquiry
+OL,19,Ftold
+OL,21,G306FHMPV: What is the virus and should
+OL,22,Fwe be worried in the UK?
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -108,15 +108,17 @@ OL,4,                          R//0
 OL,5,BThe latest updates from   R*///4
 OL,6,BITV News Calendar          R#!
 OL,7,                             R"#!
-OL,8,G361FGirl fitted with mechanical heart
-OL,9,Fcould face two-year organ wait
-OL,11,G362FMan charged over crash which
-OL,12,Fkilled woman and critically injured
-OL,13,Ftoddler
-OL,15,G363FFlood warnings remain in place
-OL,16,Facross Lincolnshire
-OL,18,G364FMan found dead in floodwater
-OL,19,Fidentified after appeal
+OL,8,G361FPolice use nasal spray to save
+OL,9,Fcollapsed woman's life
+OL,11,G362FGirl fitted with mechanical heart
+OL,12,Fcould face two-year organ wait
+OL,14,G363FMan charged over crash which
+OL,15,Fkilled woman and critically injured
+OL,16,Ftoddler
+OL,18,G364FFlood warnings remain in place
+OL,19,Facross Lincolnshire
+OL,21,G365FMan found dead in floodwater
+OL,22,Fidentified after appeal
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -124,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -132,17 +134,18 @@ OL,4,                      R~3!
 OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
-OL,8,G371FPeople urged to close windows as
-OL,9,Fcrews tackle large scrap metal fire
-OL,11,G372FCritical incident declared at
-OL,12,FUniversity Hospitals Birmingham NHS
-OL,13,FTrust
-OL,15,G373F'It's a nightmare': Man's home
-OL,16,Fflooded again just days after moving
-OL,17,Fback in
-OL,19,G374FSevere flood warning downgraded
-OL,20,Ffor River Soar but properties still
-OL,21,F'at risk'
+OL,8,G371F'Large scrap metal fire'
+OL,9,Fextinguished after crews work through
+OL,10,Fthe night
+OL,12,G372FCritical incident declared at
+OL,13,FUniversity Hospitals Birmingham NHS
+OL,14,FTrust
+OL,16,G373F'It's a nightmare': Man's home
+OL,17,Fflooded again just days after moving
+OL,18,Fback in
+OL,20,G374FSevere flood warning downgraded
+OL,21,Ffor River Soar but properties still
+OL,22,F'at risk'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -150,7 +153,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -190,8 +193,8 @@ OL,13,Fteenager after extradition to UK
 OL,15,G393FFace masks reintroduced in some
 OL,16,Fhospitals as staff battle influx of
 OL,17,Fflu patients
-OL,19,G394FMore protection for blind people
-OL,20,Ffrom police impersonators
+OL,19,G394FNoel Gallagher joins supergroup
+OL,20,Fled by son of Ringo Starr
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -199,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -225,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -250,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -275,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -283,16 +286,17 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FNatural outdoor heated swimming
-OL,9,Fpools planned for land donated by
-OL,10,Ffarmer
-OL,12,G432FMotorcyclist who died in crash was
-OL,13,Fa 'devoted husband and father'
-OL,15,G433FHospital declares 'critical
-OL,16,Fincident' as hundreds seek emergency
-OL,17,Fcare
-OL,19,G434FOverdue book returned to library
-OL,20,F31 years late
+OL,8,G431FUrgent appeal for blood donors as
+OL,9,Fstocks fall over Christmas
+OL,11,G432FHospital asks visitors to wear
+OL,12,Fface masks as flu cases rise
+OL,14,G433FCalls for South West Water CEO to
+OL,15,Fresign over 'Christmas sewage dumping'
+OL,17,G434FNatural outdoor heated swimming
+OL,18,Fpools planned for land donated by
+OL,19,Ffarmer
+OL,21,G435FMotorcyclist who died in crash was
+OL,22,Fa 'devoted husband and father'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -300,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -326,7 +330,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -351,7 +355,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -376,27 +380,28 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 JAN
-OL,4,G1300FBBC News at One including Look...
-OL,5,     GNorth . The latest national and
-OL,6,     Ginternational news from the BBC.
-OL,7,G1400FLost and Found in the Lakes
-OL,8,     GOur expert team dive for
-OL,9,     Ggraduation pictures and hunt for
-OL,10,     Gthe owner of a pair of rings.
-OL,11,G1430FAnimal Park
-OL,12,     GMegan ferrets around in the
-OL,13,     Gwoods, attempting to encourage
-OL,14,     Gthe return of a native species.
-OL,15,G1500FI Escaped to the Country
-OL,16,     GNicki Chapman and Ginny Buckley
-OL,17,     Greconnect with couples who fled
-OL,18,     Gthe capital to seek peaceful
-OL,19,     Gidylls in the English countryside.
+OL,4,G1400FLost and Found in the Lakes
+OL,5,     GOur expert team dive for
+OL,6,     Ggraduation pictures and hunt for
+OL,7,     Gthe owner of a pair of rings.
+OL,8,G1430FAnimal Park
+OL,9,     GMegan ferrets around in the
+OL,10,     Gwoods, attempting to encourage
+OL,11,     Gthe return of a native species.
+OL,12,G1500FI Escaped to the Country
+OL,13,     GNicki Chapman and Ginny Buckley
+OL,14,     Greconnect with couples who fled
+OL,15,     Gthe capital to seek peaceful
+OL,16,     Gidylls in the English countryside.
+OL,17,G1545FThe Bidding Room
+OL,18,     GNigel is feeling a little
+OL,19,     G'horse', but which dealers will
+OL,20,     Gbuy today's items?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -404,29 +409,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 JAN
-OL,4,G1300FImpossible
-OL,5,     GThe quiz show where players must
-OL,6,     Gavoid Impossible answers to stay
-OL,7,     Gin the competition. 21 people
-OL,8,     Gstart today's show but how many
-OL,9,     Gof them will survive to face the
-OL,10,     G#10,000 question?
-OL,11,G1345FThe Edge
-OL,12,     GQuiz show hosted by Mark Benton.
-OL,13,     GContestants must answer questions
-OL,14,     Gcorrectly to get the chance to
-OL,15,     Gbowl for cash prizes.
-OL,16,G1430FThe Boss
-OL,17,     GSusan Calman hosts the quiz show
-OL,18,     Gwhere being in control is
-OL,19,     Geverything. Who will emerge as
-OL,20,     Gthe boss and walk away with the
-OL,21,     Gcash?
+OL,4,G1345FThe Edge
+OL,5,     GQuiz show hosted by Mark Benton.
+OL,6,     GContestants must answer questions
+OL,7,     Gcorrectly to get the chance to
+OL,8,     Gbowl for cash prizes.
+OL,9,G1430FThe Boss
+OL,10,     GSusan Calman hosts the quiz show
+OL,11,     Gwhere being in control is
+OL,12,     Geverything. Who will emerge as
+OL,13,     Gthe boss and walk away with the
+OL,14,     Gcash?
+OL,15,G1515FThe Great British Year
+OL,16,     GDocumentary series showing
+OL,17,     GBritain's changing look over the
+OL,18,     Gcourse of a year. Whilst the
+OL,19,     Ghuman population of Britain kicks
+OL,20,     Gback, summer is boom time for the
+OL,21,     Ganimals.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -434,24 +439,29 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 JAN
-OL,4,G1230FLoose Women
-OL,5,     GJoin the Loose Women panellists
-OL,6,     Gas they interview celebrity
-OL,7,     Gguests and discuss the day's most
-OL,8,     Gtopical issues, from current
-OL,9,     Gaffairs to celebrity gossip and
-OL,10,     Gthe latest showbiz news.
-OL,11,G1330FITV Lunchtime News
-OL,12,G1355FRegional News
-OL,13,G1400FTipping Point: Best Ever Finals
-OL,14,     GTwo more classic Tipping Point
-OL,15,     Gend games that are full of drama
-OL,16,     Gand jeopardy.
+OL,4,G1400FTipping Point: Best Ever Finals
+OL,5,     GTwo more classic Tipping Point
+OL,6,     Gend games that are full of drama
+OL,7,     Gand jeopardy.
+OL,8,G1430FPictionary
+OL,9,     GMel Giedroyc hosts the game show
+OL,10,     Gwhere teams compete to guess
+OL,11,     Gwords or phrases represented by
+OL,12,     Gdrawings - the teams this time
+OL,13,     Gare joined by Jeff Brazier and
+OL,14,     GScarlett Moffatt.
+OL,15,G1500FLingo
+OL,16,     GA fast-paced game of words hosted
+OL,17,     Gby Adil Ray - trying to Lingo all
+OL,18,     Gthe way alongside the reigning
+OL,19,     GLingo champions are housemates
+OL,20,     GJoe and Markyeta and best friends
+OL,21,     GTahnee and Chay.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -459,25 +469,26 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 JAN
-OL,4,G1310FFour in a Bed
-OL,5,     GJames hosts the week's final
-OL,6,     Gvisit at Ivy House in St Austell.
-OL,7,     GHis guests marvel at the
-OL,8,     Gdelightful views, but the lack of
-OL,9,     Ga lock and a substandard sausage
-OL,10,     Gput James under scrutiny.
-OL,11,G1340FFour in a Bed
-OL,12,     GThe B&Bers meet on payment day to
-OL,13,     Gsettle some scores. Sleep
-OL,14,     Gtroubles and breakfast bugbears
-OL,15,     Gare on the agenda, before the
-OL,16,     Gpayments are revealed and the
-OL,17,     Gwinner is announced.
+OL,4,G1410FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Sarah-Jane Crawford
+OL,10,     Gjoins Susie Dent in Dictionary
+OL,11,     GCorner.
+OL,12,G1500FA Place in the Sun
+OL,13,     GLeah Charles-King helps Sarah and
+OL,14,     GAndy find the perfect place for
+OL,15,     Gtheir whole family, including
+OL,16,     Gtheir beloved dog, Ruby, on
+OL,17,     GSpain's southern Costa Blanca,
+OL,18,     Gfor their budget of #160k.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -485,24 +496,24 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 JAN
-OL,4,G1310FFriends
-OL,5,     G...Monica's Wedding: Part 2. Ross
-OL,6,     Gand Phoebe find Chandler at his
-OL,7,     Goffice and take him home, only
-OL,8,     Gfor him to disappear again when
-OL,9,     Ghe discovers Monica's secret.
-OL,10,G1340F5 News at Lunchtime
-OL,11,     GNational and international news.
-OL,12,G1345FHome and Away
-OL,13,     GBree spirals out of control.
-OL,14,     GJustin and Leah's marriage hits
-OL,15,     Gstalemate. Cash gives a grief-
-OL,16,     Gfilled farewell to Michelle.
+OL,4,G1345FHome and Away
+OL,5,     GBree spirals out of control.
+OL,6,     GJustin and Leah's marriage hits
+OL,7,     Gstalemate. Cash gives a grief-
+OL,8,     Gfilled farewell to Michelle.
+OL,9,G1415FCaught in the Act: A Teagarden
+OL,10,     FTeagarden Mystery
+OL,11,     GAurora and her friends visit a
+OL,12,     Gresort for a true crime
+OL,13,     Gconvention where a fellow actor
+OL,14,     Ggets killed. Mystery starring
+OL,15,     GCandace Cameron Bure and Niall
+OL,16,     GMatter.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -510,27 +521,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1736341890
+OL,0,        ECIMSBWebfax     F498A1736345500
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 8 JAN
-OL,4,G1155FShepherd On The Rock
-OL,5,     G1993. Drama. Directed by Bob
-OL,6,     GKeen. Starring Bernard Hill, John
-OL,7,     GBowles and Betsy Brantley. A
-OL,8,     Gsheep farmer and his family fight
-OL,9,     Gfor their land against the
-OL,10,     Gpersistent efforts of a land
-OL,11,     Gdeveloper.
-OL,12,G1355FThe Brothers
-OL,13,     GHijack. 1974. Stars Jonathan
-OL,14,     GNewth, Patrick O'Connell & Derek
-OL,15,     GBenfield. Ted and Bill travel to
-OL,16,     Gthe continent for their first
-OL,17,     Gtranscontinental shipment,
-OL,18,     Gunaware that they are being
-OL,19,     Gfollowed.
+OL,4,G1355FThe Brothers
+OL,5,     GHijack. 1974. Stars Jonathan
+OL,6,     GNewth, Patrick O'Connell & Derek
+OL,7,     GBenfield. Ted and Bill travel to
+OL,8,     Gthe continent for their first
+OL,9,     Gtranscontinental shipment,
+OL,10,     Gunaware that they are being
+OL,11,     Gfollowed.
+OL,12,G1500FYuma
+OL,13,     G1971. Western. Directed by Ted
+OL,14,     GPost. Stars Clint Walker, Kathryn
+OL,15,     GHays & Edgar Buchanan. Tough U.S.
+OL,16,     Gmarshal Dave Harmon is sent out
+OL,17,     Gto Yuma, Arizona to clean up the
+OL,18,     Glawless western town.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
