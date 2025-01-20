@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -66,6 +66,7 @@ OL,15,G304FPrince Harry's very personal fight
 OL,16,Fagainst Rupert Murdoch's tabloids
 OL,18,G305FDonald Trump set to be sworn in as
 OL,19,F47th President of United States
+OL,21,G306FWhat is an executive order?
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -73,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -98,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -123,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -148,7 +149,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -182,16 +183,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FMan 'fighting for his life' and
-OL,9,Fwoman injured after car crashes into
-OL,10,Fwall
-OL,12,G392FTeenager accused of Southport
-OL,13,Fknife attack to go on trial
-OL,15,G393FDenis Law was 'cornerstone' of
-OL,16,FManchester United success
-OL,18,G394FThe Musical Box in Tuebook is the
-OL,19,Foldest surviving record shop in the
-OL,20,Fcountry
+OL,8,G391FReform UK call on Home Secretary
+OL,9,Fto make statement on Rudakubana's
+OL,10,Fterror links
+OL,12,G392FRingo Starr's son Zak Starkey: I
+OL,13,Ffelt carried by the music playing
+OL,14,FBeatles venue
+OL,16,G393FMan 'fighting for his life' and
+OL,17,Fwoman injured after car crashes into
+OL,18,Fwall
+OL,20,G394FTeenager accused of Southport
+OL,21,Fknife attack to go on trial
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -199,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -207,16 +209,16 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401F#20,000 reward offered to identify
-OL,9,Fparents of newborn found abandoned
-OL,11,G402FRenee Slegers appointed as
-OL,12,Fpermanent Arsenal boss
-OL,14,G403FMan arrested in Surrey after woman
-OL,15,Fdies and two-year-old girl seriously
-OL,16,Finjured
-OL,18,G404FSadiq Khan under investigation by
-OL,19,FCity Hall watchdog over Taylor Swift
-OL,20,Ftickets
+OL,8,G401FMurder investigation launched into
+OL,9,Fa woman found battered to death in
+OL,10,FWoolwich
+OL,12,G402F#20,000 reward offered to identify
+OL,13,Fparents of newborn found abandoned
+OL,15,G403FRenee Slegers appointed as
+OL,16,Fpermanent Arsenal boss
+OL,18,G404FMan arrested in Surrey after woman
+OL,19,Fdies and two-year-old girl seriously
+OL,20,Finjured
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -224,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -249,7 +251,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -274,7 +276,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -300,7 +302,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -326,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -334,15 +336,17 @@ OL,4,                      R G    R z4
 OL,5,BThe latest updates fromG  R`|u
 OL,6,BITV News Wales         G  R +';o/
 OL,7,                        G      R"#
-OL,8,G461FConwy water disruption: 90%
-OL,9,Frestored while some face fourth day
-OL,10,Fwithout supply
-OL,12,G462FCardiff beat Swansea in biggest
-OL,13,Fsouth Wales derby win for 60 years
-OL,15,G463FThousands could be without water
-OL,16,Fafter water main repaired
-OL,18,G464FServices resume at Holyhead Port
-OL,19,Fafter storm damage
+OL,8,G461FWater supplies 'restored' after
+OL,9,FConwy burst pipe incident
+OL,11,G462FConwy water disruption: 90%
+OL,12,Frestored while some face fourth day
+OL,13,Fwithout supply
+OL,15,G463FCardiff beat Swansea in biggest
+OL,16,Fsouth Wales derby win for 60 years
+OL,18,G464FThousands could be without water
+OL,19,Fafter water main repaired
+OL,21,G465FServices resume at Holyhead Port
+OL,22,Fafter storm damage
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -350,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -375,7 +379,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -406,7 +410,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -432,28 +436,30 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 JAN
-OL,4,G1500FDeal or No Deal
-OL,5,     GSami: Join Stephen Mulhern for
-OL,6,     Gthe game show with only one
-OL,7,     Gquestion as Sami sees if he can
-OL,8,     Gbeat the Banker.
-OL,9,G1600FPresident Trump: The Inauguration
-OL,10,     GTom Bradby presents an ITV News
-OL,11,     Gspecial from Washington, D.C. as
-OL,12,     GDonald Trump becomes President of
-OL,13,     Gthe United States.
-OL,14,G1800FRegional News
-OL,15,G1830FITV Evening News
-OL,16,G1930FEmmerdale
-OL,17,     GA bloody human tooth glistens on
-OL,18,     Gthe floor, Laurel and Nicola deal
-OL,19,     Gwith a situation, and Kim has got
-OL,20,     Gan interesting proposal for Dawn.
+OL,4,G1600FPresident Trump: The Inauguration
+OL,5,     GTom Bradby presents an ITV News
+OL,6,     Gspecial from Washington, D.C. as
+OL,7,     GDonald Trump becomes President of
+OL,8,     Gthe United States.
+OL,9,G1800FRegional News
+OL,10,G1830FITV Evening News
+OL,11,G1930FEmmerdale
+OL,12,     GA bloody human tooth glistens on
+OL,13,     Gthe floor, Laurel and Nicola deal
+OL,14,     Gwith a situation, and Kim has got
+OL,15,     Gan interesting proposal for Dawn.
+OL,16,G2000FCoronation Street
+OL,17,     GLauren faces a fresh accusation
+OL,18,     Gin court, Leanne compensates Amy,
+OL,19,     GDaniel demands a DNA test,
+OL,20,     GBethany accepts a job in London,
+OL,21,     Gand Toyah is stunned by Abi's
+OL,22,     Gvitriol.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -461,55 +467,56 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 JAN
-OL,4,G1500FA Place in the Sun
-OL,5,     GBrothers Mark and Simon have sold
-OL,6,     Gup in the UK and are living in a
-OL,7,     Gcaravan in Spain while they look
-OL,8,     Gfor their dream home. Craig Rowe
-OL,9,     Gshows them what their #200k can
-OL,10,     Gbuy in Almeria.
-OL,11,G1600FA New Life in the Sun
-OL,12,     GThe new series continues. Jen and
-OL,13,     GNick set up a horse charity,
-OL,14,     GBrian and Paula give French life
-OL,15,     Ga second shot, and coffee bar
-OL,16,     Gowner James brings his business
-OL,17,     Gidea to Spain.
+OL,4,G1600FA New Life in the Sun
+OL,5,     GThe new series continues. Jen and
+OL,6,     GNick set up a horse charity,
+OL,7,     GBrian and Paula give French life
+OL,8,     Ga second shot, and coffee bar
+OL,9,     Gowner James brings his business
+OL,10,     Gidea to Spain.
+OL,11,G1700FJunior Bake Off
+OL,12,     GThe new series continues. It's
+OL,13,     GFinals Week and the best bakers
+OL,14,     Gfrom both heats take on plant-
+OL,15,     Gbased pies and edible terrariums
+OL,16,     Gdepicting the world 100 years in
+OL,17,     Gthe future.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
-OL,26,@rD@Rrt
 PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 JAN
-OL,4,G1415FPicture Perfect Mysteries: Dead
-OL,5,     FOver Diamonds
-OL,6,     GProfessional wedding photographer
-OL,7,     GAllie Adams and Detective Sam's
-OL,8,     Ginvestigation into a priceless
-OL,9,     Gstolen necklace leads to danger
-OL,10,     Gand an unexpected death.
-OL,11,G1600FCash in the Attic
-OL,12,     GJules Hudson hosts the show that
-OL,13,     Ghelps people find the hidden
-OL,14,     Gtreasure in their home to sell at
-OL,15,     Gauction and make a dream come
-OL,16,     Gtrue.
-OL,17,G1630FTrump Takes Power Live:..
-OL,18,     G...5 News Special. Join Dan
-OL,19,     GWalker and the team for the news
-OL,20,     Gthat matters to you.
+OL,4,G1630FTrump Takes Power Live:..
+OL,5,     G...5 News Special. Join Dan
+OL,6,     GWalker and the team for the news
+OL,7,     Gthat matters to you.
+OL,8,G1800FWinter Road Rescue
+OL,9,     GDocumentary series following the
+OL,10,     Gcrews who keep Britain moving
+OL,11,     Gwhen a big freeze strikes.
+OL,12,G1825FWinter Road Rescue
+OL,13,     GDocumentary series following the
+OL,14,     Gcrews who keep Britain moving
+OL,15,     Gwhen a big freeze strikes.
+OL,16,G1900FPolice Interceptors
+OL,17,     GThe best of the action from
+OL,18,     Gpolice forces in some of the UK's
+OL,19,     Ghighest crime areas, showcasing
+OL,20,     Gbravery of police officers on the
+OL,21,     Gfront line, featuring high speed
+OL,22,     Gpursuits and firearms jobs.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -517,25 +524,23 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1737388246
+OL,0,        ECIMSBWebfax     F498A1737391856
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 20 JAN
-OL,4,G1500FThe Saint
-OL,5,     GThe Old Treasure Story. 1965.
-OL,6,     GStars Roger Moore, Jack Hedley &
-OL,7,     GErica Rogers. Simon joins three
-OL,8,     Gmen who seek treasure located on
-OL,9,     Ga divided map, unaware of the
-OL,10,     Gdeadly rivalry between them.
-OL,11,G1605FA Good Read with Mike Read
-OL,12,     GThe Ides of March - Part 1. Mike
-OL,13,     GRead reads classic Raffles
-OL,14,     Gstories from The Amateur
-OL,15,     GCracksman by E.W. Hornung and
-OL,16,     Gbegins with the exciting tale The
-OL,17,     GIdes of March.
+OL,4,G1640FScotland Yard
+OL,5,     G1957. Bullet from the Past.
+OL,6,     GDirector: Kenneth Hume. Stars
+OL,7,     GBallard Berkeley, Robert Sansom
+OL,8,     Gand Philippa Hyatt. An inspector
+OL,9,     Ginvestigates the shooting of a
+OL,10,     Gman connected to an old cold case.
+OL,11,G1715FLook At Life Inside Jobs
+OL,12,     G1964. A visit to the prisons of
+OL,13,     GBritain to see the different
+OL,14,     Gtypes of work done by the
+OL,15,     Gprisoners.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
