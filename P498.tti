@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,31 +50,33 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FStorm Eowyn: A record breaking
-OL,9,Fstorm
-OL,11,G303FRwandan-backed rebel group claims
-OL,12,Fto have taken major city in Congo
-OL,14,G304FHolocaust survivors visit
-OL,15,FAuschwitz for 80th anniversary of
-OL,16,Fliberation
-OL,18,G305FOver 200 UK firms now have a four-
-OL,19,Fday workweek with full pay
+OL,8,G302FPrincess Kate to join William and
+OL,9,Fattend Holocaust Memorial Day in London
+OL,11,G303FHolocaust survivors visit
+OL,12,FAuschwitz for 80th anniversary of
+OL,13,Fliberation
+OL,15,G304FStorm Eowyn: A record breaking
+OL,16,Fstorm
+OL,18,G305FOne week on from retaking power,
+OL,19,FTrump has set out as he means to go on
+OL,21,G306FRwandan-backed rebel group claims
+OL,22,Fto have taken major city in Congo
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
-OL,26,@pD@Krb
+OL,26,@wD@Krb
 PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -102,7 +104,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -127,7 +129,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -135,17 +137,16 @@ OL,4,                      R~3!
 OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
-OL,8,G371FWarning to avoid sick birds after
-OL,9,Fperson contracts bird flu on farm
-OL,11,G372F14-year-old boy charged with
-OL,12,Fmurder of Leo Ross appears in court
-OL,14,G373FCovid-19 vaccine fraudster avoids
-OL,15,Fjail for making more than 1,000 fake
-OL,16,Frecords
-OL,18,G374FChurch vigils held for boy, 12,
-OL,19,Fstabbed in Birmingham
-OL,21,G375FMan charged after triple stabbing
-OL,22,Fat Wetherspoons pub
+OL,8,G371FMan receiving 'trauma care' in
+OL,9,Fhospital after being attacked by two
+OL,10,Fdogs
+OL,12,G372FWarning to avoid sick birds after
+OL,13,Fperson contracts bird flu on farm
+OL,15,G373F14-year-old boy charged with
+OL,16,Fmurder of Leo Ross appears in court
+OL,18,G374FCovid-19 vaccine fraudster avoids
+OL,19,Fjail for making more than 1,000 fake
+OL,20,Frecords
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -153,7 +154,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -178,7 +179,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -186,26 +187,26 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FWallace and Gromit villain becomes
-OL,9,Ftattoo parlour hit
-OL,11,G392FStorm Eowyn causes 1900-era
-OL,12,Fbuilding to collapse
-OL,14,G393FMan and woman to appear in court
-OL,15,Fcharged with murder of baby boy
-OL,17,G394FSir Lindsay Hoyle swaps House of
-OL,18,FCommons for Emmerdale Bistro
-OL,20,G395FMan arrested on suspicion of
-OL,21,Fattempted murder after police officer
-OL,22,Fhit by car
+OL,8,G391FGovernment engaging with Southport
+OL,9,Ffamilies ahead of Prevent review
+OL,11,G392FDrag Race stars and celebrities
+OL,12,Famong mourners at The Vivienne's
+OL,13,Ffuneral
+OL,15,G393FWallace and Gromit villain becomes
+OL,16,Ftattoo parlour hit
+OL,18,G394FStorm Eowyn causes 1900-era
+OL,19,Fbuilding to collapse
+OL,21,G395FMan and woman to appear in court
+OL,22,Fcharged with murder of baby boy
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
-OL,26,@sD@Krb
+OL,26,@zD@Krb
 PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -230,7 +231,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -256,7 +257,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -281,7 +282,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -295,10 +296,11 @@ OL,10,Fattack'
 OL,12,G432FMajor incident declared as
 OL,13,Fresidents rescued from homes due to
 OL,14,Fflooding
-OL,16,G433FFundraiser launched to help family
-OL,17,Fof lecturer who 'was loved by everyone'
-OL,19,G434FVillage cut off as fallen tree
-OL,20,Fblocks only road in and out
+OL,16,G433F'Very frightening': Rising
+OL,17,Ffloodwater sees people rescued on
+OL,18,Fboats at night
+OL,20,G434FFundraiser launched to help family
+OL,21,Fof lecturer who 'was loved by everyone'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -306,7 +308,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -315,24 +317,25 @@ OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
 OL,8,G441FAround 60,000 in NI without power
-OL,9,Fafter Storm Eowyn devastation
-OL,11,G442F75,000 remain without power in
-OL,12,FNorthern Ireland after Storm Eowyn
-OL,14,G443FLines of tractors take to the
-OL,15,Froads in inheritance tax change protest
-OL,17,G444FTwo police officers injured after
-OL,18,Fcar rammed
-OL,20,G445FThousands remain without power in
-OL,21,FNorthern Ireland following Storm Eowyn
+OL,9,Fas ministers call for Storm Eowyn
+OL,10,Fcompensation
+OL,12,G442F75,000 remain without power in
+OL,13,FNorthern Ireland after Storm Eowyn
+OL,15,G443FLines of tractors take to the
+OL,16,Froads in inheritance tax change protest
+OL,18,G444FTwo police officers injured after
+OL,19,Fcar rammed
+OL,21,G445FThousands remain without power in
+OL,22,FNorthern Ireland following Storm Eowyn
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
-OL,26,@qD@MrbtD@^rb}D@brb
+OL,26,@qD@]rbuD@^rb~D@brb
 PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -357,7 +360,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -382,26 +385,27 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 JAN
-OL,4,G1715FPointless
-OL,5,     GWill the muppets and wombles see
-OL,6,     Gcontestants clearing up in
-OL,7,     Gtoday's show?
-OL,8,G1800FBBC News
-OL,9,G1830FRegional News
-OL,10,G1900FHolocaust Memorial Day 2025
-OL,11,     GA unique commemoration to mark
-OL,12,     GHolocaust Memorial Day, hosted by
-OL,13,     GReeta Chakrabarti.
-OL,14,G2000FEastEnders
-OL,15,     GMartin is unimpressed by a loved
-OL,16,     Gone, the Walford gossips have
-OL,17,     Gtheir say on recent events, and
-OL,18,     GBilly makes a costly mistake.
+OL,4,G1830FRegional News
+OL,5,G1900FHolocaust Memorial Day 2025
+OL,6,     GA unique commemoration to mark
+OL,7,     GHolocaust Memorial Day, hosted by
+OL,8,     GReeta Chakrabarti.
+OL,9,G2000FEastEnders
+OL,10,     GMartin is unimpressed by a loved
+OL,11,     Gone, the Walford gossips have
+OL,12,     Gtheir say on recent events, and
+OL,13,     GBilly makes a costly mistake.
+OL,14,G2030FWynne & Joanna: All at Sea
+OL,15,     GOld friends Wynne Evans and
+OL,16,     GJoanna Page set sail to explore
+OL,17,     Gthe coast of south Wales. Their
+OL,18,     Gfirst journey's not all plain
+OL,19,     Gsailing to Barry Island.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -409,25 +413,24 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 JAN
-OL,4,G1715FFlog It!
-OL,5,     GChristina Trevanion and Raj
-OL,6,     GBisram are on hand to find a
-OL,7,     Gselection of objects to take to
-OL,8,     Gauction. Christina values a pair
-OL,9,     Gof Wedgwood plates, while a gold
-OL,10,     Gguinea impresses Raj.
-OL,11,G1800FRichard Osman's House of Games
-OL,12,     GFormer players Fern Britton, JB
-OL,13,     GGill, John Kearns and Sally
-OL,14,     GLindsay test their general
-OL,15,     Gknowledge skills on Richard
-OL,16,     GOsman's House of Games:
-OL,17,     GRedemption Week.
+OL,4,G1830FAlison Hammond's Florida Unpacked
+OL,5,     GAlison and Aidan roll into
+OL,6,     Gadventure camper van-style,
+OL,7,     Gexploring Florida's Silver
+OL,8,     GSprings, kayaking across crystal
+OL,9,     Gwaters and going backstage at a
+OL,10,     Gretro drive-in.
+OL,11,G1900FGrand Tours of Scotland's Rivers
+OL,12,     GPaul explores the River Annan in
+OL,13,     GDumfries and Galloway, following
+OL,14,     Git from where it rises above the
+OL,15,     GDevil's Beef Tub all the way to
+OL,16,     Gthe Solway Firth.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -435,24 +438,30 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 JAN
-OL,4,G1700FThe Chase
-OL,5,     GBradley Walsh asks the questions
-OL,6,     Gas Rich from Peterborough, Clare
-OL,7,     Gfrom York, Paddy from Manchester
-OL,8,     Gand Alys from the Vale of
-OL,9,     GGlamorgan join forces in the hope
-OL,10,     Gof beating a Chaser.
-OL,11,G1800FRegional News
-OL,12,G1830FITV Evening News
-OL,13,G1930FEmmerdale
-OL,14,     GAmy makes a big decision, Bob
-OL,15,     Gopens up to Manpreet, and Aaron
-OL,16,     Ghas a dangerous plan.
+OL,4,G1830FITV Evening News
+OL,5,G1930FEmmerdale
+OL,6,     GAmy makes a big decision, Bob
+OL,7,     Gopens up to Manpreet, and Aaron
+OL,8,     Ghas a dangerous plan.
+OL,9,G2000FCoronation Street
+OL,10,     GDavid panics when Shona goes
+OL,11,     Gmissing, Leanne begins
+OL,12,     Ghumiliating community service,
+OL,13,     GTracy confronts Cassie with
+OL,14,     Gevidence of her stealing, and the
+OL,15,     Gpolice come calling for Chesney.
+OL,16,G2100FOut There
+OL,17,     GThrilling drama series set in a
+OL,18,     Grural community. When the police
+OL,19,     Graid the nail bar having learnt
+OL,20,     Gthat Kenny has gone missing,
+OL,21,     Gdealer Khalad has no choice but
+OL,22,     Gto inform Turuk.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -460,28 +469,28 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 JAN
-OL,4,G1730FCome Dine with Me
-OL,5,     GA new run of knives, forks and
-OL,6,     Gpopping corks as we celebrate 20
-OL,7,     Gyears of dinner party debauchery!
-OL,8,     GIn Cambridge, 'Queen of
-OL,9,     GEtiquette' Rebecca goes all-out
-OL,10,     Gto impress with fancy fare.
-OL,11,G1800FA Place in the Sun
-OL,12,     GThe new run continues. Anne-Marie
-OL,13,     Gand Adrian consider Los
-OL,14,     GCristianos in southern Tenerife
-OL,15,     Gtheir second home... so why not
-OL,16,     Gbuy one there? Can Jean Johansson
-OL,17,     Gfind the perfect place for #160k?
-OL,18,G1900FChannel 4 News
-OL,19,     GChannel 4's flagship news
-OL,20,     Gprogramme. Including the weather.
+OL,4,G1800FA Place in the Sun
+OL,5,     GThe new run continues. Anne-Marie
+OL,6,     Gand Adrian consider Los
+OL,7,     GCristianos in southern Tenerife
+OL,8,     Gtheir second home... so why not
+OL,9,     Gbuy one there? Can Jean Johansson
+OL,10,     Gfind the perfect place for #160k?
+OL,11,G1900FChannel 4 News
+OL,12,     GChannel 4's flagship news
+OL,13,     Gprogramme. Including the weather.
+OL,14,G2000FJamie's #1 Wonders & Money-Saving
+OL,15,     FMeals
+OL,16,     GJamie Oliver makes soup using
+OL,17,     Gdiscounted veg on the turn, an
+OL,18,     Geasy cheesy soda bread, a money-
+OL,19,     Gsaving DIY takeaway chicken
+OL,20,     Gburger and old-school iced buns.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -489,28 +498,25 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 JAN
-OL,4,G1700F5 News at 5
-OL,5,     GJoin Dan Walker and the team for
-OL,6,     Gthe news that matters to you.
-OL,7,G1800FOur Great Yorkshire Life
-OL,8,     GWe meet the Jenkinson family who
-OL,9,     Ghave fished the waters off the
-OL,10,     GWhitby coast for generations.
-OL,11,     GWill Jenkinson braves the North
-OL,12,     GSea to eke out a living fishing
-OL,13,     Gfor crab and lobster.
-OL,14,G1900FPolice Interceptors
-OL,15,     GFollowing the work of cops when
-OL,16,     Gyoung adults and teens go off the
-OL,17,     Grails. In Darlington, police look
-OL,18,     Gout for a car that's been stolen
-OL,19,     Gby a young man from his
-OL,20,     Ggrandmother.
+OL,4,G1800FOur Great Yorkshire Life
+OL,5,     GWe meet the Jenkinson family who
+OL,6,     Ghave fished the waters off the
+OL,7,     GWhitby coast for generations.
+OL,8,     GWill Jenkinson braves the North
+OL,9,     GSea to eke out a living fishing
+OL,10,     Gfor crab and lobster.
+OL,11,G1900FPolice Interceptors
+OL,12,     GFollowing the work of cops when
+OL,13,     Gyoung adults and teens go off the
+OL,14,     Grails. In Darlington, police look
+OL,15,     Gout for a car that's been stolen
+OL,16,     Gby a young man from his
+OL,17,     Ggrandmother.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -518,26 +524,25 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738000231
+OL,0,        ECIMSBWebfax     F498A1738003837
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 27 JAN
-OL,4,G1730FDixon of Dock Green
-OL,5,     GJig-Saw. 1971. Stars Jack Warner,
-OL,6,     GVictor Maddern & Charles Houston.
-OL,7,     GFoul play is suspected when a
-OL,8,     Gwoman disappears but there are
-OL,9,     Godd links between Dock Green
-OL,10,     GGasworks and other unsolved
-OL,11,     Gcrimes.
-OL,12,G1830FOut of Town
-OL,13,     GCod Fishing/Centenarian Angler.
-OL,14,     G1986. Jack Hargreaves looks back
-OL,15,     Gat a sea fishing trip for
-OL,16,     Gcodling, before accompanying a
-OL,17,     Gman on his one hundredth birthday
-OL,18,     Gto catch a brown trout.
+OL,4,G1830FOut of Town
+OL,5,     GCod Fishing/Centenarian Angler.
+OL,6,     G1986. Jack Hargreaves looks back
+OL,7,     Gat a sea fishing trip for
+OL,8,     Gcodling, before accompanying a
+OL,9,     Gman on his one hundredth birthday
+OL,10,     Gto catch a brown trout.
+OL,11,G1900FThe Footage Detectives
+OL,12,     GIt's a new year and we have a new
+OL,13,     Glook! We go on a 60s flight
+OL,14,     Gacross Europe, go cycling in the
+OL,15,     G40s, but when and where? We've
+OL,16,     Ghad a lost reel of Harry Tate's
+OL,17,     Gsent in and who had a 'sunny Jim'?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
