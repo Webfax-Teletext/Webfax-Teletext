@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,22 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FWashington DC plane crash: Black
-OL,9,Fboxes found as investigation continues
-OL,11,G303F'Our hearts are shattered': Trump
-OL,12,Fsays no survivors in Washington DC air
-OL,13,Fcrash
-OL,15,G304F'Hope of a cure': New sickle cell
-OL,16,Ftreatment approved for use on NHS
-OL,18,G305FAfghanistan's exiled female
-OL,19,Fcricketers find a way back to the
-OL,20,Finternational game
+OL,8,G302FBody found in Aberdeen river where
+OL,9,Fmissing sisters were last seen
+OL,11,G303F'Hope of a cure': New sickle cell
+OL,12,Ftreatment approved for use on NHS
+OL,14,G304FWashington DC plane crash: Black
+OL,15,Fboxes found as investigation continues
+OL,17,G305F'Our hearts are shattered': Trump
+OL,18,Fsays no survivors in Washington DC air
+OL,19,Fcrash
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -134,15 +133,17 @@ OL,4,                      R~3!
 OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
-OL,8,G371FCeltic and Villa fans arrested for
-OL,9,Fviolent disorder and assaults
-OL,11,G372FSpecialist officers search
-OL,12,FNottingham property over 1994 taxi
-OL,13,Fdriver murder
-OL,15,G373FOver #385 million funding
-OL,16,Fsettlement agreed for West Midlands
-OL,18,G374FBin workers attacked with weapons
-OL,19,Fin road rage ambush
+OL,8,G371FWoman denies murdering father-of-
+OL,9,Fsix on Christmas Day
+OL,11,G372FCeltic and Villa fans arrested for
+OL,12,Fviolent disorder and assaults
+OL,14,G373FSpecialist officers search
+OL,15,FNottingham property over 1994 taxi
+OL,16,Fdriver murder
+OL,18,G374FOver #385 million funding
+OL,19,Fsettlement agreed for West Midlands
+OL,21,G375FBin workers attacked with weapons
+OL,22,Fin road rage ambush
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -150,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -175,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -183,17 +184,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FInvestigation underway after man
-OL,9,Ffound dead in caravan
-OL,11,G392FBishop of Liverpool steps down
-OL,12,Famid sexual assault allegations
-OL,14,G393FFootball fan banned for
-OL,15,F'horrendous' racism towards Blackburn
-OL,16,Fstar
-OL,18,G394FScouts 'still don't accept
-OL,19,Ffailings' after teenager's death
-OL,21,G395FStrictly shimmying with Shirley at
-OL,22,FLiverpool dance centre!
+OL,8,G391FGang stole #100,000 in
+OL,9,Fcryptocurrency from 'vulnerable' man
+OL,11,G392FInvestigation underway after man
+OL,12,Ffound dead in caravan
+OL,14,G393FBishop of Liverpool steps down
+OL,15,Famid sexual assault allegations
+OL,17,G394FFootball fan banned for
+OL,18,F'horrendous' racism towards Blackburn
+OL,19,Fstar
+OL,21,G395FScouts 'still don't accept
+OL,22,Ffailings' after teenager's death
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -201,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -252,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -277,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -301,7 +302,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -327,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -353,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -378,29 +379,29 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 31 JAN
-OL,4,G1045FDefenders UK
-OL,5,     GOur defenders uncover a shocking
-OL,6,     Gcase of modern slavery, with
-OL,7,     Gscores of young men and women
-OL,8,     Gbeing forced into unpaid labour.
-OL,9,G1115FHomes Under the Hammer
-OL,10,     GMartin Roberts and Martel Maxwell
-OL,11,     Gmeet developers who work
-OL,12,     Galongside partners or friends.
-OL,13,G1215FBargain Hunt
-OL,14,     GFairgoers in West Sussex try to
-OL,15,     Gunravel the real story behind an
-OL,16,     Gunusual item, while two teams of
-OL,17,     Gfamilies dash around the stalls
-OL,18,     Gat Ardingly antiques fair.
-OL,19,G1300FBBC News at One including Look...
-OL,20,     GNorth . The latest national and
-OL,21,     Ginternational news from the BBC.
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GMartin Roberts and Martel Maxwell
+OL,6,     Gmeet developers who work
+OL,7,     Galongside partners or friends.
+OL,8,G1215FBargain Hunt
+OL,9,     GFairgoers in West Sussex try to
+OL,10,     Gunravel the real story behind an
+OL,11,     Gunusual item, while two teams of
+OL,12,     Gfamilies dash around the stalls
+OL,13,     Gat Ardingly antiques fair.
+OL,14,G1300FBBC News at One including Look...
+OL,15,     GNorth . The latest national and
+OL,16,     Ginternational news from the BBC.
+OL,17,G1400FFather Brown
+OL,18,     GFather Brown investigates when
+OL,19,     Gmurder threatens to derail the
+OL,20,     Glive broadcast of agricultural
+OL,21,     Gradio drama, The Muckles.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -408,7 +409,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -439,7 +440,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -467,27 +468,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 31 JAN
-OL,4,G1040FRamsay's Kitchen Nightmares USA
-OL,5,     GPJ's Steakhouse: In New York,
-OL,6,     GGordon Ramsay visits PJ's
-OL,7,     GSteakhouse, where owners Joe and
-OL,8,     GMadalyn are in serious debt and
-OL,9,     Gstruggling to keep the high-end
-OL,10,     Grestaurant afloat.
-OL,11,G1135FChannel 4 News Summary
-OL,12,     GChannel 4's midday news summary.
-OL,13,G1140FFour in a Bed
-OL,14,     GThe competition kicks off at the
-OL,15,     GStar & Garter in Linlithgow, West
-OL,16,     GLothian, with host Denise and her
-OL,17,     Gdaughter Carina. But cleanliness
-OL,18,     Gand connectivity concern the
-OL,19,     Gguests at feedback time.
+OL,4,G1140FFour in a Bed
+OL,5,     GThe competition kicks off at the
+OL,6,     GStar & Garter in Linlithgow, West
+OL,7,     GLothian, with host Denise and her
+OL,8,     Gdaughter Carina. But cleanliness
+OL,9,     Gand connectivity concern the
+OL,10,     Gguests at feedback time.
+OL,11,G1210FFour in a Bed
+OL,12,     GShona and John Mitchell host at
+OL,13,     GLarch Green Lodges in Langbank.
+OL,14,     GTheir guests are delighted by the
+OL,15,     Gsweeping views, but their hosting
+OL,16,     Gis blemished by a breakfast black
+OL,17,     Gpudding blunder.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -495,26 +494,30 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 31 JAN
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss the
-OL,6,     Glatest news and get your views
-OL,7,     Gand opinions of the day.
-OL,8,G1130FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories of
-OL,12,     Gthe day.
-OL,13,G1245FFriends
-OL,14,     GRachel and Phoebe go on a night
-OL,15,     Gout together. After Rachel gives
-OL,16,     Ga guy her number, she worries
-OL,17,     Gthat he'll call when Ross is at
-OL,18,     Gthe apartment.
+OL,4,G1130FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories of
+OL,8,     Gthe day.
+OL,9,G1245FFriends
+OL,10,     GRachel and Phoebe go on a night
+OL,11,     Gout together. After Rachel gives
+OL,12,     Ga guy her number, she worries
+OL,13,     Gthat he'll call when Ross is at
+OL,14,     Gthe apartment.
+OL,15,G1310FFriends
+OL,16,     GChandler has to remain in Tulsa
+OL,17,     Gdue to a deadline at work, but
+OL,18,     GMonica suspects the worst when
+OL,19,     Gshe discovers who will be with
+OL,20,     Ghim.
+OL,21,G1340F5 News at Lunchtime
+OL,22,     GNational and international news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -522,7 +525,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1738321513
+OL,0,        ECIMSBWebfax     F498A1738325125
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
