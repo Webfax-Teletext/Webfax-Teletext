@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,20 +50,20 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FFormer Hollyoaks star grieving
-OL,9,Fafter death of mother and her husband
-OL,10,Fin France
-OL,12,G303FHamas release three hostages in
-OL,13,Fexchange for Palestinian prisoners
-OL,15,G304FJudge blocks Trump's order to put
-OL,16,Fthousands of USAID workers on leave
+OL,8,G302FHamas release three hostages in
+OL,9,Fexchange for Palestinian prisoners
+OL,11,G303FJudge blocks Trump's order to put
+OL,12,Fthousands of USAID workers on leave
+OL,14,G304FFormer Hollyoaks star grieving
+OL,15,Fafter death of mother and her husband
+OL,16,Fin France
 OL,18,G305FAt least 10 dead after plane
 OL,19,Fcrashed onto ice in Alaska
 OL,21,G306FPresident Zelenskyy tells ITV News
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -153,7 +153,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -180,7 +180,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -188,16 +188,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FMan arrested after 'breaking into
-OL,9,Fa McDonald's and making himself burger'
-OL,11,G392FHuge emergency response as major
-OL,12,Ffire breaks out on building site
-OL,14,G393F'Erratic' and 'aggressive driver'
-OL,15,Fjailed after mum-of-four dies
-OL,17,G394FFunding boost for domestic abuse
-OL,18,Fcharity facing closure
-OL,20,G395FMajor train line reopens after
-OL,21,Foverturned car cleared from tracks
+OL,8,G391F'Something awful has happened':
+OL,9,FSouthport families recall moment of
+OL,10,Fhorror
+OL,12,G392FMan arrested after 'breaking into
+OL,13,Fa McDonald's and making himself burger'
+OL,15,G393FHuge emergency response as major
+OL,16,Ffire breaks out on building site
+OL,18,G394F'Erratic' and 'aggressive driver'
+OL,19,Fjailed after mum-of-four dies
+OL,21,G395FFunding boost for domestic abuse
+OL,22,Fcharity facing closure
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -205,7 +206,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -230,7 +231,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -255,7 +256,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +280,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -289,14 +290,13 @@ OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
 OL,8,G431FTributes paid to Ellis Joseph who
 OL,9,Fhas died aged 27
-OL,11,G432FOasis leisure centre will take 18
-OL,12,Fmonths to refurbish once planning is
-OL,13,Fapproved
-OL,15,G433FDog found in Somerset eight years
-OL,16,Fafter being stolen from Norfolk garden
-OL,18,G434FBar manager 'gobsmacked' after
-OL,19,Fwinning 'Saltburn-style' house worth
-OL,20,Fmillions
+OL,11,G432FHarry Potter first edition found
+OL,12,Fin rubbish sells for #18,000
+OL,14,G433FOasis leisure centre will take 18
+OL,15,Fmonths to refurbish once planning is
+OL,16,Fapproved
+OL,18,G434FDog found in Somerset eight years
+OL,19,Fafter being stolen from Norfolk garden
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -304,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -329,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,7 +379,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -405,28 +405,23 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 8 FEB
-OL,4,G1805FThe Balkans: Europe's Forgotten
-OL,5,     FFrontier
-OL,6,     GThe BBC's Europe editor, Katya
-OL,7,     GAdler, travels to Croatia, Bosnia
-OL,8,     Gand Albania.
-OL,9,G1910FLiz Bonnin's Wild Caribbean
-OL,10,     GLiz joins residents of Mayreau in
-OL,11,     Grepairing their vibrant coral,
-OL,12,     Ghelps protect the tiny Union
-OL,13,     GIsland gecko, and relives one of
-OL,14,     Gher most magnificent wildlife
-OL,15,     Gencounters.
-OL,16,G2010FHeartbreakers at the BBC: Volume 3
-OL,17,     GSome of music's biggest stars
-OL,18,     Gpour their hearts out in this
-OL,19,     Gselection of classic performances
-OL,20,     Gfrom the BBC's archives.
+OL,4,G1910FLiz Bonnin's Wild Caribbean
+OL,5,     GLiz joins residents of Mayreau in
+OL,6,     Grepairing their vibrant coral,
+OL,7,     Ghelps protect the tiny Union
+OL,8,     GIsland gecko, and relives one of
+OL,9,     Gher most magnificent wildlife
+OL,10,     Gencounters.
+OL,11,G2010FHeartbreakers at the BBC: Volume 3
+OL,12,     GSome of music's biggest stars
+OL,13,     Gpour their hearts out in this
+OL,14,     Gselection of classic performances
+OL,15,     Gfrom the BBC's archives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -434,25 +429,25 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 8 FEB
-OL,4,G1615FSix Nations: England v France
-OL,5,     GMark Pougatch is joined by Jonny
-OL,6,     GWilkinson, Eddie Jones, and Brian
-OL,7,     GO'Driscoll for coverage from the
-OL,8,     GAllianz Stadium, Twickenham as
-OL,9,     GSteve Borthwick's England take on
-OL,10,     GFrance.
-OL,11,G1900FThe Masked Singer
-OL,12,     GJoel Dommett hosts and is joined
-OL,13,     Gby panellists Jonathan Ross,
-OL,14,     GDavina McCall, Maya Jama, and
-OL,15,     Gspecial guest Richard E Grant for
-OL,16,     Gthe Semi-Final as five Masked
-OL,17,     GSingers become three.
+OL,4,G1900FThe Masked Singer
+OL,5,     GJoel Dommett hosts and is joined
+OL,6,     Gby panellists Jonathan Ross,
+OL,7,     GDavina McCall, Maya Jama, and
+OL,8,     Gspecial guest Richard E Grant for
+OL,9,     Gthe Semi-Final as five Masked
+OL,10,     GSingers become three.
+OL,11,G2030FThe 1% Club
+OL,12,     GLee Mack hosts the quiz show
+OL,13,     Gwhere 100 contestants compete,
+OL,14,     Gbut in order to win up to 100,000
+OL,15,     Gpounds, they need to answer a
+OL,16,     Gquestion only one per cent of the
+OL,17,     Gcountry can get right.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -460,25 +455,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 8 FEB
-OL,4,G1810FSarah Beeny's New Life in the
-OL,5,     FCountry
-OL,6,     GThe family prepare the farm for
-OL,7,     Gthe arrival of two piglets, and
-OL,8,     Ghead to Stonehenge to experience
-OL,9,     Gthe sunrise over the ancient
-OL,10,     Gmonument on the autumn equinox.
-OL,11,G1910FOur Farm Next Door: Amanda, Clive
-OL,12,     Fand Kids
-OL,13,     GAmanda Owen and her family
-OL,14,     Grenovate a derelict Yorkshire
-OL,15,     GDales farmhouse. The build
-OL,16,     Gbegins, but the autumn wind and
-OL,17,     Grain aren't helping.
+OL,4,G1910FOur Farm Next Door: Amanda, Clive
+OL,5,     Fand Kids
+OL,6,     GAmanda Owen and her family
+OL,7,     Grenovate a derelict Yorkshire
+OL,8,     GDales farmhouse. The build
+OL,9,     Gbegins, but the autumn wind and
+OL,10,     Grain aren't helping.
+OL,11,G2010FScotland's Poshest Train
+OL,12,     GAlan Cumming enjoys an opulent
+OL,13,     Godyssey onboard the Royal
+OL,14,     GScotsman. After settling in,
+OL,15,     GAlan's given a VIP tour of the
+OL,16,     Gonboard kitchen before visiting
+OL,17,     Gthe Silver Sands of Morar.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -486,28 +481,26 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 8 FEB
-OL,4,G1800FSupermarket Own Brands:..
-OL,5,     G...The Big Taste Test. In an
-OL,6,     Gepisode all about health, Mr
-OL,7,     GMotivator engages a panel to
-OL,8,     Gcompare brands, testing no-
-OL,9,     Galcohol low-calorie beer,
-OL,10,     Gmeatless meatballs, porridge and
-OL,11,     Gmore.
-OL,12,G1855F5 News Weekend
-OL,13,     GNational and international news.
-OL,14,G1900FSt James's: The King's High Street
-OL,15,     GSt James's in London is renowned
-OL,16,     Gfor being Britain's poshest high
-OL,17,     Gstreet. We meet the characters
-OL,18,     Gwho run the stores, and the
-OL,19,     Gcustomers who buy their premium
-OL,20,     Gproducts.
+OL,4,G1900FSt James's: The King's High Street
+OL,5,     GSt James's in London is renowned
+OL,6,     Gfor being Britain's poshest high
+OL,7,     Gstreet. We meet the characters
+OL,8,     Gwho run the stores, and the
+OL,9,     Gcustomers who buy their premium
+OL,10,     Gproducts.
+OL,11,G2000FGlamis Castle: A Royal Retreat
+OL,12,     GExperts reveal the secrets of a
+OL,13,     Ghouse steeped in history,
+OL,14,     Gtradition and myth - a pink
+OL,15,     Gpainted fairytale fortress that
+OL,16,     Gwas the family home to one of
+OL,17,     GBritain's oldest aristocratic
+OL,18,     Gfamilies.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -515,26 +508,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739039508
+OL,0,        ECIMSBWebfax     F498A1739043113
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 8 FEB
-OL,4,G1740FThe Green Cockatoo
-OL,5,     G1937. Crime Drama. Directed by
-OL,6,     GWilliam Cameron Menzies. Stars
-OL,7,     GJohn Mills, Rene Ray & Robert
-OL,8,     GNewton. A Soho entertainer teams
-OL,9,     Gup with a young woman to find out
-OL,10,     Gwho killed his brother.
-OL,11,G1900FZ-Cars
-OL,12,     GThanks But.. No Thanks. 1975.
-OL,13,     GStars Douglas Fielding & Margaret
-OL,14,     GCourtenay. Quilley is up for
-OL,15,     Gpromotion. He has an excellent
-OL,16,     Gservice record, but how close an
-OL,17,     Gexamination will his private life
-OL,18,     Gbear?
+OL,4,G1900FZ-Cars
+OL,5,     GThanks But.. No Thanks. 1975.
+OL,6,     GStars Douglas Fielding & Margaret
+OL,7,     GCourtenay. Quilley is up for
+OL,8,     Gpromotion. He has an excellent
+OL,9,     Gservice record, but how close an
+OL,10,     Gexamination will his private life
+OL,11,     Gbear?
+OL,12,G2000FTravelling Man
+OL,13,     GBlow Up. 1985. Stars Leigh Lawson
+OL,14,     G& Terry Taplin. Lomax is near to
+OL,15,     Gfinding the man who framed him. A
+OL,16,     GFleet Street reporter thinks he
+OL,17,     Gcan help, but the real lead is
+OL,18,     Gtraced by Lomax's girlfriend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
