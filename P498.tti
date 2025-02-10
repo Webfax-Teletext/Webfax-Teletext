@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,24 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FStarmer becomes first PM to take
-OL,9,FHIV test as he urges public to get
-OL,10,Ftested
-OL,12,G303FMeet the ITV Weather Team across
-OL,13,Fthe UK
-OL,15,G304FSuper Bowl: Philadelphia Eagles
-OL,16,Fwin, Taylor Swift booed as Trump makes
-OL,17,Fhistory
-OL,19,G305FTrump set to announce 25% tariff
-OL,20,Fon all US steel and aluminium imports
+OL,8,G302FSuper Bowl: Philadelphia Eagles
+OL,9,Fwin, Taylor Swift booed as Trump makes
+OL,10,Fhistory
+OL,12,G303FChina's retaliatory tariffs
+OL,13,Fagainst the US comes into effect
+OL,15,G304FSecond Labour MP apologises for
+OL,16,F'unacceptable' comments in WhatsApp
+OL,17,Fgroup
+OL,19,G305FAsteroid 2024 YR4: When could the
+OL,20,Fasteroid hit and what would happen if
+OL,21,Fit did?
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +152,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +178,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -187,13 +188,15 @@ OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
 OL,8,G391FSouthport families call for
 OL,9,Finquiry 'to bring accountability'
-OL,11,G392FFinancial pressure leads to ward
-OL,12,Fclosure
-OL,14,G393FWhatsApp group investigated after
-OL,15,FLabour minister sacked over messages
-OL,17,G394FOasis fans have tickets cancelled
-OL,18,Fafter Ticketmaster accuses them of
-OL,19,Fbeing bots
+OL,11,G392F2,000 year-old divination spoon
+OL,12,Ffound in Isle of Man
+OL,14,G393FFinancial pressure leads to ward
+OL,15,Fclosure
+OL,17,G394FWhatsApp group investigated after
+OL,18,FLabour minister sacked over messages
+OL,20,G395FOasis fans have tickets cancelled
+OL,21,Fafter Ticketmaster accuses them of
+OL,22,Fbeing bots
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -201,7 +204,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -227,7 +230,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -252,7 +255,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -278,7 +281,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -286,16 +289,16 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FArgyle superfan from Japan
-OL,9,Fcelebrating the win against Liverpool
-OL,11,G432FVolunteers helping thousands of
-OL,12,Ftoads cross the road safely
-OL,14,G433FPlymouth Argyle beat Liverpool in
-OL,15,FFA Cup 1-0
-OL,17,G434FMoment vehicle stop leads to
-OL,18,Fdiscovery of drugs and weapons
-OL,20,G435FTributes paid to Ellis Joseph who
-OL,21,Fhas died aged 27
+OL,8,G431FWarning to drivers amid heavy
+OL,9,Fsmoke from 'large' barn fire
+OL,11,G432FArgyle superfan from Japan
+OL,12,Fcelebrating the win against Liverpool
+OL,14,G433FVolunteers helping thousands of
+OL,15,Ftoads cross the road safely
+OL,17,G434FPlymouth Argyle beat Liverpool in
+OL,18,FFA Cup 1-0
+OL,20,G435FMoment vehicle stop leads to
+OL,21,Fdiscovery of drugs and weapons
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -303,7 +306,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +331,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +357,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,25 +382,28 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 10 FEB
-OL,4,G1300FBBC News at One including Look...
-OL,5,     GNorth . The latest national and
-OL,6,     Ginternational news from the BBC.
-OL,7,G1400FThe Big Idea Works
-OL,8,     GSara Davies invites two more
-OL,9,     Gpeople into the Idea Works. Amber
-OL,10,     Gwants to make mealtimes less
-OL,11,     Gstressful for parents, and Cece's
-OL,12,     Gthought of a clever way to take
-OL,13,     Gshopping home.
-OL,14,G1430FRick Stein's Food Stories
-OL,15,     GRick tours Britain's best market,
-OL,16,     GManchester's old music scene and
-OL,17,     Gits hippest food joint.
+OL,4,G1430FRick Stein's Food Stories
+OL,5,     GRick tours Britain's best market,
+OL,6,     GManchester's old music scene and
+OL,7,     Gits hippest food joint.
+OL,8,G1500FEscape to the Country
+OL,9,     GIn his home county of Kent, Steve
+OL,10,     GBrown helps two newlyweds from
+OL,11,     GLondon find a new, spacious and
+OL,12,     Gdog-friendly family home in the
+OL,13,     Gcountryside.
+OL,14,G1545FAntiques Road Trip
+OL,15,     GBezzie buds Phil Serrell and
+OL,16,     GNatasha Raskin Sharp kick off
+OL,17,     Gtheir fourth head-to-head road
+OL,18,     Gtrip, this time shopping their
+OL,19,     Gway through the wilds of bonnie
+OL,20,     GScotland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -405,26 +411,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 10 FEB
-OL,4,G1300FImpossible
-OL,5,     GCan players avoid giving
-OL,6,     GImpossible answers and stay in
-OL,7,     Gthe running for a #10,000 jackpot?
-OL,8,G1345FThe Edge
-OL,9,     GQuiz show hosted by Mark Benton.
-OL,10,     GContestants must answer questions
-OL,11,     Gcorrectly to get the chance to
-OL,12,     Gbowl for cash prizes.
-OL,13,G1430FThe Boss
-OL,14,     GJoin Susan Calman for the quiz
-OL,15,     Gshow where contestants compete
-OL,16,     Gfor the cash prize. Who will rise
-OL,17,     Gto the top and see off their
-OL,18,     Gchallengers?
+OL,4,G1430FThe Boss
+OL,5,     GJoin Susan Calman for the quiz
+OL,6,     Gshow where contestants compete
+OL,7,     Gfor the cash prize. Who will rise
+OL,8,     Gto the top and see off their
+OL,9,     Gchallengers?
+OL,10,G1515FSouth Pacific
+OL,11,     GDocumentary series about the
+OL,12,     GSouth Pacific islands. A look at
+OL,13,     Ghow every one of the 20,000
+OL,14,     Gislands was colonised by the
+OL,15,     GPolynesians, and at the varied
+OL,16,     Glocal fauna.
+OL,17,G1615FAll Roads Lead Home
+OL,18,     GSue Perkins takes charge in
+OL,19,     GCornwall, visiting Bodmin Moor to
+OL,20,     GCape Cornwall.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -432,27 +440,30 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 10 FEB
-OL,4,G1330FITV Lunchtime News
-OL,5,G1355FRegional News
-OL,6,G1400FDickinson's Real Deal
-OL,7,     GLiverpool 3: David Dickinson
-OL,8,     Ghosts from Aintree Racecourse in
-OL,9,     GLiverpool as a bargain buy gets
-OL,10,     Gan amazing profit and dealer
-OL,11,     GJames Layte splashes out for an
-OL,12,     Gextraordinary portrait.
-OL,13,G1500FLingo
-OL,14,     GThe fast-paced game of words
-OL,15,     Ghosted by Adil Ray - playing this
-OL,16,     Gtime are the reigning Lingo
-OL,17,     Gchampions alongside Daniella and
-OL,18,     GCharlotte from London and Nathan
-OL,19,     Gand Aarati from Kent.
+OL,4,G1400FDickinson's Real Deal
+OL,5,     GLiverpool 3: David Dickinson
+OL,6,     Ghosts from Aintree Racecourse in
+OL,7,     GLiverpool as a bargain buy gets
+OL,8,     Gan amazing profit and dealer
+OL,9,     GJames Layte splashes out for an
+OL,10,     Gextraordinary portrait.
+OL,11,G1500FLingo
+OL,12,     GThe fast-paced game of words
+OL,13,     Ghosted by Adil Ray - playing this
+OL,14,     Gtime are the reigning Lingo
+OL,15,     Gchampions alongside Daniella and
+OL,16,     GCharlotte from London and Nathan
+OL,17,     Gand Aarati from Kent.
+OL,18,G1600FDeal or No Deal
+OL,19,     GOzzy: Join Stephen Mulhern as
+OL,20,     GOzzy goes up against the Banker
+OL,21,     Gand tries to take a huge cash
+OL,22,     Gprize home.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -460,56 +471,54 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 10 FEB
-OL,4,G1310FSun, Sea and Selling Houses
-OL,5,     GIn Almeria, the Garners search
-OL,6,     Gfor a spacious villa for Eva and
-OL,7,     GIan. In Alicante, the Rodriguez
-OL,8,     Gfamily help Grace and Lorna find
-OL,9,     Ga holiday apartment in the sun.
-OL,10,G1410FCountdown
-OL,11,     GColin Murray and Rachel Riley
-OL,12,     Ghost as contestants race against
-OL,13,     Gthe clock to pit their wits
-OL,14,     Gagainst vowels, consonants and
-OL,15,     Gnumbers. Les Dennis joins Susie
-OL,16,     GDent in Dictionary Corner.
+OL,4,G1410FCountdown
+OL,5,     GColin Murray and Rachel Riley
+OL,6,     Ghost as contestants race against
+OL,7,     Gthe clock to pit their wits
+OL,8,     Gagainst vowels, consonants and
+OL,9,     Gnumbers. Les Dennis joins Susie
+OL,10,     GDent in Dictionary Corner.
+OL,11,G1500FA Place in the Sun
+OL,12,     GLeah Charles-King helps Julie and
+OL,13,     GLeo find the perfect holiday home
+OL,14,     Gon the southern Costa Blanca for
+OL,15,     Gall three generations of their
+OL,16,     Gfamily to enjoy. How far can
+OL,17,     Gtheir #120k budget stretch?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
-OL,26,@mD@Nrt
 PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 10 FEB
-OL,4,G1310FFriends
-OL,5,     GMonica and Chandler interview
-OL,6,     Gcandidates in the hope of finding
-OL,7,     Ga sperm donor. Rachel is mean to
-OL,8,     GCharlie because she is jealous of
-OL,9,     GCharlie's interest in Joey.
-OL,10,G1340F5 News at Lunchtime
-OL,11,     GNational and international news.
-OL,12,G1345FHome and Away
-OL,13,     GJohn tells Dana their friendship
-OL,14,     Gis over. Harper is left confused.
-OL,15,     GTane decides what he wants.
-OL,16,G1415FA Dangerous Affair
-OL,17,     GOlivia battles insomnia after her
-OL,18,     Gson's death, and her sleepwalking
-OL,19,     Gintensifies after she starts an
-OL,20,     Gaffair with Shane. When Shane's
-OL,21,     Gwife vanishes, Olivia becomes a
-OL,22,     Gsuspect...
+OL,4,G1415FA Dangerous Affair
+OL,5,     GOlivia battles insomnia after her
+OL,6,     Gson's death, and her sleepwalking
+OL,7,     Gintensifies after she starts an
+OL,8,     Gaffair with Shane. When Shane's
+OL,9,     Gwife vanishes, Olivia becomes a
+OL,10,     Gsuspect...
+OL,11,G1600FBargain-Loving Brits in the Sun
+OL,12,     GIn an edition shown in tribute to
+OL,13,     G'Happy Days' Graham Boland, he
+OL,14,     Gwelcomes a puppy into his life.
+OL,15,     GAt Villamar campsite, Lorna
+OL,16,     Gtackles the role of
+OL,17,     Gentertainments manager.
+OL,18,G1700F5 News at 5
+OL,19,     GJoin Dan Walker and the team for
+OL,20,     Gthe news that matters to you.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -517,27 +526,25 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1739194652
+OL,0,        ECIMSBWebfax     F498A1739198261
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 10 FEB
-OL,4,G1215FRawhide
-OL,5,     G1951. Western. Directed by Henry
-OL,6,     GHathaway. Stars Tyrone Power,
-OL,7,     GSusan Hayward & Hugh Marlowe. A
-OL,8,     Gstagecoach stop employee and a
-OL,9,     Gyoung woman find themselves at
-OL,10,     Gthe mercy of four desperate
-OL,11,     Goutlaws.
-OL,12,G1400FCromwell
-OL,13,     G1970. Drama. Directed by Ken
-OL,14,     GHughes. Stars Richard Harris,
-OL,15,     GAlec Guinness & Robert Morley.
-OL,16,     GPolitician and soldier, Oliver
-OL,17,     GCromwell, rises from the ranks to
-OL,18,     Glead a civil war against King
-OL,19,     GCharles I.
+OL,4,G1400FCromwell
+OL,5,     G1970. Drama. Directed by Ken
+OL,6,     GHughes. Stars Richard Harris,
+OL,7,     GAlec Guinness & Robert Morley.
+OL,8,     GPolitician and soldier, Oliver
+OL,9,     GCromwell, rises from the ranks to
+OL,10,     Glead a civil war against King
+OL,11,     GCharles I.
+OL,12,G1650FLook At Life For the Record
+OL,13,     G1961. A behind the scenes look at
+OL,14,     Gthe record industry, featuring
+OL,15,     GHelen Shapiro, with glimpses of
+OL,16,     Gthe finished disc and how they
+OL,17,     Gare produced.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
