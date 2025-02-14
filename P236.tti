@@ -1,7 +1,7 @@
 PN,23601
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1739429152
+OL,0,        ECIMSBWebfax     F236A1739508507
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -30,7 +30,7 @@ FL,237,200,140,260,000,100
 PN,23602
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1739429152
+OL,0,        ECIMSBWebfax     F236A1739508507
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -59,7 +59,7 @@ FL,237,200,140,260,000,100
 PN,23603
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1739429152
+OL,0,        ECIMSBWebfax     F236A1739508507
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -86,7 +86,7 @@ FL,237,200,140,260,000,100
 PN,23604
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1739429152
+OL,0,        ECIMSBWebfax     F236A1739508507
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -113,7 +113,7 @@ FL,237,200,140,260,000,100
 PN,23605
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1739429152
+OL,0,        ECIMSBWebfax     F236A1739508507
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -141,7 +141,7 @@ FL,237,200,140,260,000,100
 PN,23606
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1739429152
+OL,0,        ECIMSBWebfax     F236A1739508507
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G6/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -170,7 +170,7 @@ FL,237,200,140,260,000,100
 PN,23607
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1739429152
+OL,0,        ECIMSBWebfax     F236A1739508507
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G7/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -189,45 +189,46 @@ OL,14,     Ginternational news, with reports
 OL,15,     Gfrom BBC correspondents worldwide.
 OL,16,G2230FNewsnight
 OL,17,     GThe day's important national and
-OL,18,     Ginternational news stories.
-OL,19,G2300FBBC World News America
-OL,20,     GIn-depth reports on the major US,
-OL,21,     GUK and international news of the
-OL,22,     Gday presented from Washington DC.
+OL,18,     Ginternational news stories. With
+OL,19,     GAdam Fleming.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
 PN,23608
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1739429152
+OL,0,        ECIMSBWebfax     F236A1739508507
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G8/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 14 FEB
-OL,4,G2330FThe President's Path
-OL,5,     GJoin Caitriona Perry and Sumi
-OL,6,     GSomaskanda for a dynamic weekly
-OL,7,     Gdiscussion on the US presidency.
-OL,8,G0000FBBC News
-OL,9,     GThe latest news from the BBC.
-OL,10,G0030FClick
-OL,11,     GNick Kwek meets the Sydney-based
-OL,12,     Gstart-up using robotics to clean
-OL,13,     Gup waterways. Paul Carter
-OL,14,     Gexplores a tech solution which
-OL,15,     Gcould lead to self-healing
-OL,16,     Gpotholes.
-OL,17,G0100FBBC News
-OL,18,     GThe latest news from the BBC.
+OL,4,G2300FBBC World News America
+OL,5,     GIn-depth reports on the major US,
+OL,6,     GUK and international news of the
+OL,7,     Gday presented from Washington DC.
+OL,8,G2330FThe President's Path
+OL,9,     GJoin Caitriona Perry and Sumi
+OL,10,     GSomaskanda for a dynamic weekly
+OL,11,     Gdiscussion on the US presidency.
+OL,12,G0000FBBC News
+OL,13,     GThe latest news from the BBC.
+OL,14,G0030FClick
+OL,15,     GNick Kwek meets the Sydney-based
+OL,16,     Gstart-up using robotics to clean
+OL,17,     Gup waterways. Paul Carter
+OL,18,     Gexplores a tech solution which
+OL,19,     Gcould lead to self-healing
+OL,20,     Gpotholes.
+OL,21,G0100FBBC News
+OL,22,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
-OL,26,@mD@Prt
+OL,26,@qD@Prt
 PN,23609
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1739429152
+OL,0,        ECIMSBWebfax     F236A1739508507
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G9/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -256,36 +257,35 @@ FL,237,200,140,260,000,100
 PN,23610
 SC,0010
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1739429152
+OL,0,        ECIMSBWebfax     F236A1739508507
 OL,1,W{${$~+$ ~k4~sj5j5~s1          G10/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 14 FEB
 OL,4,G0330FThe Media Show
-OL,5,     GA global, topical weekly show
-OL,6,     Gthat lifts the hood on the
-OL,7,     Gentertainment and news business.
-OL,8,     GThe Media Show explores the
-OL,9,     Gcompanies and personalities who
-OL,10,     Gcommand our attention.
-OL,11,G0400FBBC News
-OL,12,     GThe latest news from the BBC.
-OL,13,G0430FThe Travel Show
-OL,14,     GThirty years after the Dayton
-OL,15,     GAccords finally ended the war in
-OL,16,     GBosnia, Rajan Datar travels to
-OL,17,     Gthe country to explore the legacy
-OL,18,     Gthat the conflict left behind as
-OL,19,     Git tries to attract more tourists.
-OL,20,G0500FBBC News
-OL,21,     GThe latest news from the BBC.
+OL,5,     GElon Musk's growing power in
+OL,6,     GTrump's White House, USAID's cuts
+OL,7,     Gto global journalism, and Chris
+OL,8,     GHayes on how big tech monetises
+OL,9,     Ghuman attention.
+OL,10,G0400FBBC News
+OL,11,     GThe latest news from the BBC.
+OL,12,G0430FThe Travel Show
+OL,13,     GThirty years after the Dayton
+OL,14,     GAccords finally ended the war in
+OL,15,     GBosnia, Rajan Datar travels to
+OL,16,     Gthe country to explore the legacy
+OL,17,     Gthat the conflict left behind as
+OL,18,     Git tries to attract more tourists.
+OL,19,G0500FBBC News
+OL,20,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
 PN,23611
 SC,0011
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1739429152
+OL,0,        ECIMSBWebfax     F236A1739508507
 OL,1,W{${$~+$ ~k4~sj5j5~s1          G11/11
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
