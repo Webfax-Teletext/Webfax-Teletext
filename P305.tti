@@ -2,7 +2,7 @@ PN,30501
 SC,0001
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FITV News Social Affairs Correspondent
@@ -26,11 +26,11 @@ PN,30502
 SC,0002
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FDiethylstilbestrol, commonly known as
-OL,7,FDES was a synthetic hormone,
+OL,7,FDES, was a synthetic hormone
 OL,8,Fprescribed to dry up breast milk and
 OL,9,Frecommended for use in mother and baby
 OL,10,Fhomes in England for decades.
@@ -49,7 +49,7 @@ PN,30503
 SC,0003
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FITV's Tonight programme broadcast on
@@ -61,9 +61,9 @@ OL,11,Fand the lifelong consequences.
 OL,13,FA bulletin published by the Moral
 OL,14,FWelfare Workers' Association in 1964,
 OL,15,Fa body representing social workers at
-OL,16,Fthe time, which shows that mother and
-OL,17,Fbaby homes were recommended to
-OL,18,Fprescribe DES to dry up breast milk.
+OL,16,Fthe time, shows that mother and baby
+OL,17,Fhomes were recommended to prescribe
+OL,18,FDES to dry up breast milk.
 OL,1,W~k4~sj5j5~s1G                    G3/22
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -73,7 +73,7 @@ PN,30504
 SC,0004
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FThe drug was prescribed to women
@@ -98,21 +98,23 @@ PN,30505
 SC,0005
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FYet in UK, the true extent of the harm
-OL,7,Fcaused and the numbers exposed to
-OL,8,Fdiethylstilbestrol is still unknown
-OL,9,Fpartly due to a lack of medical
-OL,10,Frecords. It's been described by some
-OL,11,Fdoctors as 'the silent thalidomide.'
-OL,13,FConsultant Urogynaecologist and
-OL,14,Fadvisor to the Scottish Government Dr
-OL,15,FWael Agurhas treated women who were
-OL,16,Fexposed to the drug.
+OL,7,Fcaused and the numbers exposed to DES
+OL,8,Fis still unknown partly due to a lack
+OL,9,Fof medical records. It's been
+OL,10,Fdescribed by some doctors as 'the
+OL,11,Fsilent thalidomide.'
+OL,13,FDr Wael Agur, a Consultant
+OL,14,FUrogynaecologist and advisor to the
+OL,15,FScottish Government, has treated women
+OL,16,Fwho were exposed to the drug.
 OL,18,F"The most serious risk is the cancer
-OL,19,Frisk," he told ITV Tonight.
+OL,19,Frisk," he told ITV Tonight. "This drug
+OL,20,Fincreases the risk of breast cancer
+OL,21,Fin the women who took it.
 OL,26,@zD@AOU{D@FO]
 OL,1,W~k4~sj5j5~s1G                    G5/22
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -123,18 +125,22 @@ PN,30506
 SC,0006
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
-OL,6,F"This drug increases the risk of
-OL,7,Fbreast cancer in the women who took
-OL,8,Fit. People call it the hidden
-OL,9,Fthalidomide, because it is there, we
-OL,10,Fknow it is there, but we don't know
-OL,11,Fwhat is the size of the problem."
-OL,13,FDr Agur wants a full inquiry to
-OL,14,Fascertain how many women have been
-OL,15,Fexposed to the drug.
+OL,6,F"People call it the hidden
+OL,7,Fthalidomide, because it is there, we
+OL,8,Fknow it is there, but we don't know
+OL,9,Fwhat is the size of the problem."
+OL,11,FDr Agur wants a full inquiry to
+OL,12,Fascertain how many women have been
+OL,13,Fexposed to the drug.
+OL,15,FAcademics who have studied the drug
+OL,16,Festimate anywhere between 10,000 to
+OL,17,F300,000 women came into contact with
+OL,18,FDESin the UK, although many patients
+OL,19,Fwere never told they'd been prescribed
+OL,20,Fit.
 OL,1,W~k4~sj5j5~s1G                    G6/22
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -144,20 +150,19 @@ PN,30507
 SC,0007
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
-OL,6,FAcademics who have studied the drug
-OL,7,Festimate anywhere between 10,000 to
-OL,8,F300,000 women came into contact with
-OL,9,FDESin the UK, although many patients
-OL,10,Fwere never told they'd been prescribed
-OL,11,Fit.
-OL,13,FWomen like Diana Defries still to this
-OL,14,Fday have no idea what they were given,
-OL,15,Fbut suspect it could have been DES, or
-OL,16,Fan equivalent drug.They may never
-OL,17,Fknow the truth.
+OL,6,FWomen like Diana Defries still to this
+OL,7,Fday have no idea what they were given,
+OL,8,Fbut suspect it could have been DES, or
+OL,9,Fan equivalent drug.They may never
+OL,10,Fknow the truth.
+OL,12,FAs a 16-year-old, pregnant and
+OL,13,Funmarried, she was sent to a home in
+OL,14,FSouthampton in 1974.She recalls her
+OL,15,Fbreast milk drying up after having an
+OL,16,Finjection in the hospital.
 OL,1,W~k4~sj5j5~s1G                    G7/22
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -167,24 +172,21 @@ PN,30508
 SC,0008
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
-OL,6,FAs a 16-year-old, pregnant and
-OL,7,Funmarried, she was sent to a home in
-OL,8,FSouthampton in 1974.She recalls her
-OL,9,Fbreast milk drying up after having an
-OL,10,Finjection in the hospital.
-OL,12,F"I have tried to find out what that
-OL,13,Fdrug was. I've approached the
-OL,14,Fhospital, I've tried NHS records, but
-OL,15,Fso far I've drawn a blank," Ms
-OL,16,FDefries, who is now 67, said.
-OL,18,FDiana Defries says she has no idea
-OL,19,Fwhat drug she was given as a teenager
-OL,20,Fat a mother and baby home in
-OL,21,FSouthampton in 1974
-OL,26,@tD@AOUwD@[O]
+OL,6,F"I have tried to find out what that
+OL,7,Fdrug was. I've approached the
+OL,8,Fhospital, I've tried NHS records, but
+OL,9,Fso far I've drawn a blank," Ms
+OL,10,FDefries, who is now 67, said.
+OL,12,FDiana Defries says she has no idea
+OL,13,Fwhat drug she was given as a teenager
+OL,14,Fat a mother and baby home in
+OL,15,FSouthampton in 1974
+OL,17,FShe's been told there are no medical
+OL,18,Frecords available for her before 1997.
+OL,26,@nD@AOUqD@[O]
 OL,1,W~k4~sj5j5~s1G                    G8/22
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -194,21 +196,19 @@ PN,30509
 SC,0009
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
-OL,6,FShe's been told there are no medical
-OL,7,Frecords available for her before 1997.
-OL,9,FIn the years after that injection, she
-OL,10,Fdeveloped an unusual condition with
-OL,11,Fher breasts, that at times has left
-OL,12,Fher in severe pain, which she believes
-OL,13,Fmay be connected to the drug.
-OL,15,F"It was so bad they offered me
-OL,16,Fsurgery," she said. "The impact of
-OL,17,Fthat drug has been significant on my
-OL,18,Fhealth."
-OL,26,@wD@AOU
+OL,6,FIn the years after that injection, she
+OL,7,Fdeveloped an unusual condition with
+OL,8,Fher breasts, that at times has left
+OL,9,Fher in severe pain, which she believes
+OL,10,Fmay be connected to the drug.
+OL,12,F"It was so bad they offered me
+OL,13,Fsurgery," she said. "The impact of
+OL,14,Fthat drug has been significant on my
+OL,15,Fhealth."
+OL,26,@tD@AOU
 OL,1,W~k4~sj5j5~s1G                    G9/22
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -218,7 +218,7 @@ PN,30510
 SC,0010
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FITV Tonight has spoken to former
@@ -242,13 +242,13 @@ PN,30511
 SC,0011
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
-OL,6,FDr Michael Lambert from Lancaster
-OL,7,FUniversity has spent a decade
-OL,8,Fexamining these institutions spoke to
-OL,9,FSocial Affairs Correspondent Sarah
+OL,6,FDr Michael Lambert, from Lancaster
+OL,7,FUniversity, has spent a decade
+OL,8,Fexamining these institutions and spoke
+OL,9,Fto Social Affairs Correspondent Sarah
 OL,10,FCorker
 OL,12,FThe hormone was developed in Britain
 OL,13,Fin the 1930s by scientist Edward
@@ -262,7 +262,7 @@ PN,30512
 SC,0012
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FIn the decades that followed there
@@ -286,7 +286,7 @@ PN,30513
 SC,0013
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FThese concerns were discussed for
@@ -306,7 +306,7 @@ PN,30514
 SC,0014
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FThere was government acknowledgement,
@@ -330,7 +330,7 @@ PN,30515
 SC,0015
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FThen in 1961 in the House of Lords,
@@ -353,7 +353,7 @@ PN,30516
 SC,0016
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FThe UK government has never issued a
@@ -376,7 +376,7 @@ PN,30517
 SC,0017
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FMs Defries, who is one of the leaders
@@ -400,22 +400,23 @@ PN,30518
 SC,0018
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
-OL,6,FVik Fielder, an adoptee who was
-OL,7,Fadopted by a white family in Somerset.
-OL,8,FShe was adopted from the hospital at
-OL,9,Fjust one week old
-OL,11,FIn 2021, an inquiry by the Joint
-OL,12,FCommittee of Human Rights concluded
-OL,13,Fthat the state bore ultimate
-OL,14,Fresponsibility for the suffering
-OL,15,Finflicted on vulnerable women and
-OL,16,Ftheir children, calling on the
-OL,17,Fgovernment to issue an official
-OL,18,Fapology. Those affected are still
-OL,19,Fwaiting.
+OL,6,FVik Fielder, who was adopted at just
+OL,7,Fone-week-old, fears the lasting impact
+OL,8,Fof forced adoptions on those separated
+OL,9,Ffrom their birth families is often
+OL,10,Fforgotten
+OL,12,FIn 2021, an inquiry by the Joint
+OL,13,FCommittee of Human Rights concluded
+OL,14,Fthat the state bore ultimate
+OL,15,Fresponsibility for the suffering
+OL,16,Finflicted on vulnerable women and
+OL,17,Ftheir children, calling on the
+OL,18,Fgovernment to issue an official
+OL,19,Fapology. Those affected are still
+OL,20,Fwaiting.
 OL,1,W~k4~sj5j5~s1G                   G18/22
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -425,7 +426,7 @@ PN,30519
 SC,0019
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FWhen asked why an apology had not been
@@ -448,7 +449,7 @@ PN,30520
 SC,0020
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FIn response to our programme the
@@ -472,7 +473,7 @@ PN,30521
 SC,0021
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,F"We are committed to learning from
@@ -495,7 +496,7 @@ PN,30522
 SC,0022
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F305A1740037746
+OL,0,        ECIMSBWebfax     F305A1740041355
 OL,3,CForced Adoption: Britain's silent
 OL,4,Cscandal
 OL,6,FCardinal Vincent Nichols acknowledged
