@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -186,13 +186,13 @@ OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
 OL,8,G391FOfficers find human remains in
 OL,9,Fsearch for murdered mum-of-three
-OL,11,G392FEverything you need to know about
-OL,12,FRugby Leagues' historic trip to Vegas
-OL,14,G393FAttempted murder arrest after
-OL,15,Fstabbing at B&M store
-OL,17,G394FFamily of ex footballer Kevin
-OL,18,FCampbell questions treatment, inquest
-OL,19,Fhears
+OL,11,G392FFamily of ex footballer Kevin
+OL,12,FCampbell questions treatment, inquest
+OL,13,Fhears
+OL,15,G393FEverything you need to know about
+OL,16,FRugby Leagues' historic trip to Vegas
+OL,18,G394FAttempted murder arrest after
+OL,19,Fstabbing at B&M store
 OL,21,G395FMan charged after girl killed in
 OL,22,Fcrash involving tram and van
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -202,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -210,18 +210,17 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FGovernment pledges 'sweeping
-OL,9,Freform' in official response to
-OL,10,FGrenfell Inquiry
-OL,12,G402FWoman who used 'array of wigs'
-OL,13,Fadmits taking UK citizenship tests for
-OL,14,F13 people
-OL,16,G403FBBC Board apologises for 'missed
-OL,17,Fopportunities' after Tim Westwood
-OL,18,Freview
-OL,20,G404FWoman found dead in flat after
-OL,21,Fthree years had been 'left to fend for
-OL,22,Fherself'
+OL,8,G401FGrenfell firms facing possible
+OL,9,Fbans over 'mercenary behaviour' named
+OL,11,G402FWoman who used 'array of wigs'
+OL,12,Fadmits taking UK citizenship tests for
+OL,13,F13 people
+OL,15,G403FBBC Board apologises for 'missed
+OL,16,Fopportunities' after Tim Westwood
+OL,17,Freview
+OL,19,G404FWoman found dead in flat after
+OL,20,Fthree years had been 'left to fend for
+OL,21,Fherself'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -229,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -255,7 +254,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -280,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -304,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -330,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -355,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -380,28 +379,30 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 26 FEB
-OL,4,G2000FThe Repair Shop
-OL,5,     GThe team takes on a task with
-OL,6,     Gstrings attached - an elephant
-OL,7,     Gpuppet that survived a fire.
-OL,8,G2100FAmandaland
-OL,9,     GAmanda meets property developer
-OL,10,     GJohannes as her daughter starts
-OL,11,     Gdating Anne's son. Contains adult
-OL,12,     Ghumour.
-OL,13,G2130FAm I Being Unreasonable?
-OL,14,     GThe village witch trial brings
-OL,15,     GNic and Dan together, and Ollie
-OL,16,     Gmakes a shocking discovery.
-OL,17,     GContains strong language and
-OL,18,     Gadult humour.
-OL,19,G2200FBBC News and Weather
-OL,20,G2230FRegional News
+OL,4,G2100FAmandaland
+OL,5,     GAmanda meets property developer
+OL,6,     GJohannes as her daughter starts
+OL,7,     Gdating Anne's son. Contains adult
+OL,8,     Ghumour.
+OL,9,G2130FAm I Being Unreasonable?
+OL,10,     GThe village witch trial brings
+OL,11,     GNic and Dan together, and Ollie
+OL,12,     Gmakes a shocking discovery.
+OL,13,     GContains strong language and
+OL,14,     Gadult humour.
+OL,15,G2200FBBC News and Weather
+OL,16,G2230FRegional News
+OL,17,G2240FMatch of the Day
+OL,18,     GHighlights from the midweek
+OL,19,     GPremier League matches, which
+OL,20,     Ginclude title chasers Liverpool
+OL,21,     Ghosting Newcastle United at
+OL,22,     GAnfield.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -409,29 +410,30 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 26 FEB
-OL,4,G2000FGreat British Menu
-OL,5,     GThe remaining three chefs from
-OL,6,     GWales compete over mains and
-OL,7,     Gdesserts celebrating great
-OL,8,     GBritons of the past. Who will
-OL,9,     Gwin, and who must go home?
-OL,10,G2100FSurgeons: At the Edge of Life
-OL,11,     GSurgeons attempt a pioneering
-OL,12,     Gtransplant for only the fourth
-OL,13,     Gtime in Scotland. Contains
-OL,14,     Ggraphic medical scenes.
-OL,15,G2200FThe Cockfields
-OL,16,     GRay teaches David and Simon how
-OL,17,     Gto bowl, while Sue tries to plan
-OL,18,     Gfor Christmas. Contains some
-OL,19,     Gstrong language.
-OL,20,G2230FNewsnight
-OL,21,G2300FWeather
+OL,4,G2100FSurgeons: At the Edge of Life
+OL,5,     GSurgeons attempt a pioneering
+OL,6,     Gtransplant for only the fourth
+OL,7,     Gtime in Scotland. Contains
+OL,8,     Ggraphic medical scenes.
+OL,9,G2200FThe Cockfields
+OL,10,     GRay teaches David and Simon how
+OL,11,     Gto bowl, while Sue tries to plan
+OL,12,     Gfor Christmas. Contains some
+OL,13,     Gstrong language.
+OL,14,G2230FNewsnight
+OL,15,G2300FWeather
+OL,16,G2305FUnspun World with John Simpson
+OL,17,     GUnspun World provides an
+OL,18,     Gunvarnished version of the week's
+OL,19,     Gmajor global news stories -
+OL,20,     Greliable, honest and essential
+OL,21,     Gviewing with the BBC's world
+OL,22,     Gaffairs editor, John Simpson.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -439,27 +441,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 26 FEB
-OL,4,G2000FCoronation Street
-OL,5,     GCassie has an effect on Steve and
-OL,6,     GKen's hearts, Todd urges Julie to
-OL,7,     Gbe honest with Eileen, Dylan
-OL,8,     Gmakes matters worse for himself
-OL,9,     Gin court, and Kevin feels
-OL,10,     Gemasculated by Ronnie.
-OL,11,G2100FGrantchester
-OL,12,     GCrime drama. Geordie and Larry
-OL,13,     Gare confronted by a shocking and
-OL,14,     Gterrifying revelation when they
-OL,15,     Ginvestigate the mysterious death
-OL,16,     Gof a reclusive man on the streets
-OL,17,     Gof Cambridge.
-OL,18,G2200FITV News at Ten
-OL,19,G2230FRegional News
+OL,4,G2100FGrantchester
+OL,5,     GCrime drama. Geordie and Larry
+OL,6,     Gare confronted by a shocking and
+OL,7,     Gterrifying revelation when they
+OL,8,     Ginvestigate the mysterious death
+OL,9,     Gof a reclusive man on the streets
+OL,10,     Gof Cambridge.
+OL,11,G2200FITV News at Ten
+OL,12,G2230FRegional News
+OL,13,G2245FPeston
+OL,14,     GJoin Robert Peston for a late-
+OL,15,     Gnight political magazine show
+OL,16,     Gfeaturing big interviews with the
+OL,17,     Gcountry's leading politicians,
+OL,18,     Gtopical guests, and the best
+OL,19,     Gpolitical gossip.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -467,25 +469,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 26 FEB
-OL,4,G2000FKirstie and Phil's Love It or
-OL,5,     FList It
-OL,6,     GAnne-Marie and Paul bought a doer-
-OL,7,     Gupper but haven't done it up.
-OL,8,     GKirstie has a master plan, but
-OL,9,     Gwhen the roof guzzles the budget,
-OL,10,     Gwill a turnkey temptation seduce?
-OL,11,G2100FGeorge Clarke's Building Home
-OL,12,     GLaura and Daniel want their son
-OL,13,     Gto have the same idyllic
-OL,14,     Gchildhood that Laura had on
-OL,15,     GMersea Island in Essex. But
-OL,16,     Gconverting an old beach house on
-OL,17,     Ga tiny budget becomes a nightmare.
+OL,4,G2100FGeorge Clarke's Building Home
+OL,5,     GLaura and Daniel want their son
+OL,6,     Gto have the same idyllic
+OL,7,     Gchildhood that Laura had on
+OL,8,     GMersea Island in Essex. But
+OL,9,     Gconverting an old beach house on
+OL,10,     Ga tiny budget becomes a nightmare.
+OL,11,G2200FBritain's Most Expensive Houses
+OL,12,     GPolina's in full selling mode
+OL,13,     Gwith a #4.5 million London
+OL,14,     Gpenthouse. Can she get a sale
+OL,15,     Gbefore it hits the market? In
+OL,16,     GBarbados, Guy views a $40 million
+OL,17,     Gbeachside property.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -493,28 +495,26 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 26 FEB
-OL,4,G2000FDoorstep Scammers: Don't Get
-OL,5,     FCaught Out
-OL,6,     G...Get Caught Out. Alexis Conran
-OL,7,     Greturns with a new series
-OL,8,     Gexploring the growing world of
-OL,9,     Gscammers and con artists. In this
-OL,10,     Gedition, he takes on the scammers
-OL,11,     Gwho make us vulnerable in our
-OL,12,     Ghomes.
-OL,13,G2100FPrime Suspect: Hunting the
-OL,14,     FPredators
-OL,15,     GWith unprecedented access, this
-OL,16,     Gseries enters the dark world of
-OL,17,     Gonline predators investigated by
-OL,18,     Gthe National Crime Agency. In
-OL,19,     Gthis edition: online paedophile
-OL,20,     GMatthew Falder.
+OL,4,G2100FPrime Suspect: Hunting the
+OL,5,     FPredators
+OL,6,     GWith unprecedented access, this
+OL,7,     Gseries enters the dark world of
+OL,8,     Gonline predators investigated by
+OL,9,     Gthe National Crime Agency. In
+OL,10,     Gthis edition: online paedophile
+OL,11,     GMatthew Falder.
+OL,12,G2230F999: Emergency Call Out
+OL,13,     GA man found on his kitchen floor
+OL,14,     Gin a pool of blood says he is the
+OL,15,     Gvictim of a hit-and-run car
+OL,16,     Gincident. But was he? A motorist
+OL,17,     Gis pursued after fleeing the
+OL,18,     Gscene of a road collision.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -522,26 +522,25 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1740601555
+OL,0,        ECIMSBWebfax     F498A1740605161
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 26 FEB
-OL,4,G2000FManhunt
-OL,5,     GA Way to Die. 1970. Stars Peter
-OL,6,     GBarkworth, Maggie Fitzgibbon &
-OL,7,     GNerys Hughes. Jimmy and Vincent
-OL,8,     Glearn of an SS raid on a junk
-OL,9,     Gshop where a Resistance meeting
-OL,10,     Gis planned. But can they help in
-OL,11,     Gtime?
-OL,12,G2105FMaigret
-OL,13,     GMaigret in Finland. 1996. Stars
-OL,14,     GBruno Cremer & Robin Renucci.
-OL,15,     GWhen a French professor is
-OL,16,     Gaccused of murder and refuses to
-OL,17,     Gtalk, Maigret must travel to
-OL,18,     GFinland to investigate the case.
+OL,4,G2105FMaigret
+OL,5,     GMaigret in Finland. 1996. Stars
+OL,6,     GBruno Cremer & Robin Renucci.
+OL,7,     GWhen a French professor is
+OL,8,     Gaccused of murder and refuses to
+OL,9,     Gtalk, Maigret must travel to
+OL,10,     GFinland to investigate the case.
+OL,11,G2255FIn Suspicious Circumstances
+OL,12,     GRing of Truth - The Golden Goose.
+OL,13,     G1996. Stars Julia Farino & Paul
+OL,14,     GShelley. A look at the case of a
+OL,15,     Gman haunted by crimes of the past
+OL,16,     Gand the story of a captain of
+OL,17,     Gindustry who knows too much.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
