@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,24 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FArtist Jack Vettriano, famous for
-OL,9,FThe Singing Butler, dies in France,
-OL,10,Faged 73
-OL,12,G303FBritain must 'lead from the front'
-OL,13,Fon Ukraine, Starmer tells MPs
-OL,15,G304FTwo dead and several injured after
-OL,16,Fcar hits crowd in Germany, police say
-OL,18,G305FAustralian blood donor who saved
-OL,19,Fmore than two million lives, dies aged
-OL,20,F88
+OL,8,G302FTwo dead and several injured after
+OL,9,Fcar hits crowd in Germany, police say
+OL,11,G303FBritain must 'lead from the front'
+OL,12,Fon Ukraine, Starmer tells MPs
+OL,14,G304FArtist attempts to paint the
+OL,15,Fportrait of all 1,800 people of city
+OL,17,G305FUkraine, UK and France 'to present
+OL,18,Fceasefire plan to Trump'
+OL,20,G306FArtist Jack Vettriano, famous for
+OL,21,FThe Singing Butler, dies in France,
+OL,22,Faged 73
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -149,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -182,15 +183,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FCricket legend Anderson aims to
-OL,9,Fmake the cut in 'Hundred'
-OL,11,G392FScouser Lee Sandales wins Oscar
-OL,12,Ffor best production design on Wicked
-OL,14,G393FWoman arrested after four-year-old
-OL,15,Fgirl dies in house fire in Manchester
-OL,17,G394FTwo arrested after man shot in legs
-OL,19,G395FHistoric night of Rugby League
-OL,20,Fends in wins for Wigan and Australia
+OL,8,G391F'Girl thought it was normal to
+OL,9,Fhave had sex with at least 30 men by
+OL,10,Fage of 13'
+OL,12,G392FJury sworn in ahead of body parts
+OL,13,Fmurder trial
+OL,15,G393FCricket legend Anderson aims to
+OL,16,Fmake the cut in 'Hundred'
+OL,18,G394FScouser Lee Sandales wins Oscar
+OL,19,Ffor best production design on Wicked
+OL,21,G395FWoman arrested after four-year-old
+OL,22,Fgirl dies in house fire in Manchester
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -198,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -224,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -232,17 +235,16 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FTwo men charged after Paddington
-OL,9,FBear statue sliced in half and stolen
-OL,11,G412FDeadliest Channel crossing
-OL,12,Fincident a 'terrible human tragedy',
-OL,13,Finquiry hears
-OL,15,G413FNearly 600 migrants cross Channel
-OL,16,Fin highest daily total of 2025
-OL,18,G414FMan arrested in connection with
-OL,19,Funexplained death released on bail
-OL,21,G415FTwo men arrested after Paddington
-OL,22,FBear statue cut in half and stolen
+OL,8,G411FMan denies helping thief sell gold
+OL,9,Ffrom golden toilet after Blenheim
+OL,10,FPalace raid
+OL,12,G412FTwo men charged after Paddington
+OL,13,FBear statue sliced in half and stolen
+OL,15,G413FDeadliest Channel crossing
+OL,16,Fincident a 'terrible human tragedy',
+OL,17,Finquiry hears
+OL,19,G414FNearly 600 migrants cross Channel
+OL,20,Fin highest daily total of 2025
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -250,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -258,17 +260,15 @@ OL,4,                             R"{4
 OL,5,BThe latest updates from      R?}
 OL,6,BITV News Tyne Tees            Rt
 OL,7,                               R*'#/'#
-OL,8,G421FNorth East stars Sam Fender and
-OL,9,FJade win big at BRIT Awards
-OL,11,G422FSam Fender reaches number one for
-OL,12,Fnew album and breaks vinyl sales record
-OL,14,G423FRegistered nurse accused of
-OL,15,Foffences including sexual assault
-OL,17,G424FReport finds 'lack of professional
-OL,18,Fcuriosity' about murdered toddler's
-OL,19,Fmother
-OL,21,G425FMan jailed after kicking out at
-OL,22,Fpolice during Sunderland riot
+OL,8,G421FFarming brothers fined over
+OL,9,Ffailings that led to cows trampling
+OL,10,Fteacher to death
+OL,12,G422FNorth East stars Sam Fender and
+OL,13,FJade win big at BRIT Awards
+OL,15,G423FSam Fender reaches number one for
+OL,16,Fnew album and breaks vinyl sales record
+OL,18,G424FRegistered nurse accused of
+OL,19,Foffences including sexual assault
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -276,7 +276,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -284,15 +284,17 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FPolice 'extremely worried' for
-OL,9,Fmissing 26-year-old man
-OL,11,G432FFishing boat sinks after getting
-OL,12,Fstuck on rocks
-OL,14,G433FJudo Olympian says chances of
-OL,15,Ffinding missing brother alive are
-OL,16,F'decreasing'
-OL,18,G434FMax and Mason: Killer 'gloats'
-OL,19,Fover double murder on social media
+OL,8,G431FDaughter 'unable to escape grief'
+OL,9,F15 years after disappearance of dad
+OL,11,G432FPolice 'extremely worried' for
+OL,12,Fmissing 26-year-old man
+OL,14,G433FFishing boat sinks after getting
+OL,15,Fstuck on rocks
+OL,17,G434FJudo Olympian says chances of
+OL,18,Ffinding missing brother alive are
+OL,19,F'decreasing'
+OL,21,G435FMax and Mason: Killer 'gloats'
+OL,22,Fover double murder on social media
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -300,7 +302,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -310,10 +312,10 @@ OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
 OL,8,G441FPolice make second arrest over
 OL,9,FDungannon murder
-OL,11,G442FSplit over Belfast Ukrainian
-OL,12,Ffunding announcement
-OL,14,G443FWhat is in Stormont's new
-OL,15,FProgramme for Government?
+OL,11,G442FWhat is in Stormont's new
+OL,12,FProgramme for Government?
+OL,14,G443FSplit over Belfast Ukrainian
+OL,15,Ffunding announcement
 OL,17,G444FMother and child shaken by
 OL,18,Fracially-motivated criminal damage,
 OL,19,Fpolice say
@@ -324,7 +326,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -349,7 +351,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -374,26 +376,30 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 3 MAR
-OL,4,G1930FEastEnders
-OL,5,     GOne Walford resident overhears a
-OL,6,     Gshocking secret, Tommy steps up
-OL,7,     Gfor a mate, and trauma takes its
-OL,8,     Gtoll on a Square local.
-OL,9,G2000FTrump, Ukraine and Europe on the
-OL,10,     FEdge - Panorama
-OL,11,     GCan the new US president be the
-OL,12,     Gbroker in a peace deal between
-OL,13,     GRussia and Ukraine?
-OL,14,G2030FOur Yorkshire Stately Home
-OL,15,     GHow one of the UK's grandest
-OL,16,     Gstately homes is being saved from
-OL,17,     Gruin by an army of devoted local
-OL,18,     Gvolunteers.
+OL,4,G2030FOur Yorkshire Stately Home
+OL,5,     GHow one of the UK's grandest
+OL,6,     Gstately homes is being saved from
+OL,7,     Gruin by an army of devoted local
+OL,8,     Gvolunteers.
+OL,9,G2100FVirdee
+OL,10,     GA chilling clue forces Harry to
+OL,11,     Gconfront a violent secret - and
+OL,12,     Gask who knows the truth. Contains
+OL,13,     Gsome strong language, some
+OL,14,     Gviolence and upsetting scenes.
+OL,15,G2200FBBC News and Weather
+OL,16,G2230FRegional News
+OL,17,G2240Fimagine... The Academy of Armando
+OL,18,     Gimagine... profiles the career of
+OL,19,     Gone of the great satirists of our
+OL,20,     Gage, Armando Iannucci. Contains
+OL,21,     Gvery strong language and adult
+OL,22,     Ghumour
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -401,27 +407,30 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 3 MAR
-OL,4,G1930FMastermind
-OL,5,     GThe subjects include the poetry
-OL,6,     Gof Seamus Heaney, Mad Men and the
-OL,7,     G1944 Battle of Arnhem.
-OL,8,G2000FOnly Connect
-OL,9,     GVictoria Coren Mitchell hosts the
-OL,10,     Gquiz where knowledge only gets
-OL,11,     Gyou so far. The winners of the
-OL,12,     Gseries are crowned - and, as can
-OL,13,     Gbe expected, it's a close contest.
-OL,14,G2030FUniversity Challenge
-OL,15,     GAnother two quarter-finalists
-OL,16,     Gface off, hoping to gain the
-OL,17,     Gfirst of the two wins they need
-OL,18,     Gto reach the semis. Amol Rajan
-OL,19,     Gasks the questions.
+OL,4,G2030FUniversity Challenge
+OL,5,     GAnother two quarter-finalists
+OL,6,     Gface off, hoping to gain the
+OL,7,     Gfirst of the two wins they need
+OL,8,     Gto reach the semis. Amol Rajan
+OL,9,     Gasks the questions.
+OL,10,G2100FIsrael and the Palestinians:...
+OL,11,     GThe Road to 7th October.
+OL,12,     GNetanyahu and Obama clash, and
+OL,13,     Gthe Israeli leader cuts an
+OL,14,     Gextraordinary deal with Hamas.
+OL,15,     GContains some strong language.
+OL,16,G2200FQI
+OL,17,     GSandi Toksvig searches for
+OL,18,     Gvictory with Rob Beckett, Daliso
+OL,19,     GChaponda, Lara Ricote and Alan
+OL,20,     GDavies. Contains adult humour.
+OL,21,G2230FNewsnight
+OL,22,G2300FWeather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -429,24 +438,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 3 MAR
-OL,4,G1930FEmmerdale
-OL,5,     GDawn is horrified to realise that
-OL,6,     GKim knows about the affair,
-OL,7,     Gtensions are high between Marlon
-OL,8,     Gand April, and Cain is left
-OL,9,     Gdistraught.
-OL,10,G2000FCoronation Street
-OL,11,     GMax is sentenced for his crime,
-OL,12,     GSally hosts a soiree, Ken refuses
-OL,13,     Gto add to Cassie's woes, Andy
-OL,14,     Gconfronts David with a knife, and
-OL,15,     Gbirthday girl Jenny makes a
-OL,16,     Gdrunken pass at Kit.
+OL,4,G2000FCoronation Street
+OL,5,     GMax is sentenced for his crime,
+OL,6,     GSally hosts a soiree, Ken refuses
+OL,7,     Gto add to Cassie's woes, Andy
+OL,8,     Gconfronts David with a knife, and
+OL,9,     Gbirthday girl Jenny makes a
+OL,10,     Gdrunken pass at Kit.
+OL,11,G2100FThe Bay
+OL,12,     GCrime drama. When the victim's
+OL,13,     Gboyfriend is found near death,
+OL,14,     GJenn struggles to keep her FLO
+OL,15,     Grelationships intact when the
+OL,16,     Gfamily she is helping start to
+OL,17,     Gimplicate each other.
+OL,18,G2200FITV News at Ten
+OL,19,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -454,28 +466,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 3 MAR
-OL,4,G1900FChannel 4 News
-OL,5,     GChannel 4's flagship news
-OL,6,     Gprogramme. Including the weather.
-OL,7,G2000FBatch from Scratch: Cooking for
-OL,8,     FLess
-OL,9,     GThe Shah family are struggling to
-OL,10,     Gnavigate everyone's individual
-OL,11,     Gdietary requirements and fond
-OL,12,     Gfavourites. Can batch cooking
-OL,13,     Grestore harmony to their
-OL,14,     Gmealtimes?
-OL,15,G2100F24 Hours in A&E
-OL,16,     GHeather, who's 65, is rushed to
-OL,17,     GQueen's after collapsing in the
-OL,18,     Gpark. Long-serving member of the
-OL,19,     Gteam Deanna speaks of her
-OL,20,     Gprevious struggles with addiction.
+OL,4,G2000FBatch from Scratch: Cooking for
+OL,5,     FLess
+OL,6,     GThe Shah family are struggling to
+OL,7,     Gnavigate everyone's individual
+OL,8,     Gdietary requirements and fond
+OL,9,     Gfavourites. Can batch cooking
+OL,10,     Grestore harmony to their
+OL,11,     Gmealtimes?
+OL,12,G2100F24 Hours in A&E
+OL,13,     GHeather, who's 65, is rushed to
+OL,14,     GQueen's after collapsing in the
+OL,15,     Gpark. Long-serving member of the
+OL,16,     Gteam Deanna speaks of her
+OL,17,     Gprevious struggles with addiction.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -483,25 +492,25 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,W~+$z5~{4~k4~k4~sj5  os!         G20/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ ,.!V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 3 MAR
-OL,4,G1900FPolice Interceptors
-OL,5,     GPaul's shift starts with the high-
-OL,6,     Gspeed pursuit of a vehicle which
-OL,7,     Gmay have been stolen from the
-OL,8,     Gdriver's own mother. And an
-OL,9,     GInterceptor must chase a burglary
-OL,10,     Gsuspect on foot.
-OL,11,G2000FTraffic Cops
-OL,12,     GA look at hit and run incidents.
-OL,13,     GOfficers rush to the scene of a
-OL,14,     Gfatal collision on a Peak
-OL,15,     GDistrict country road as a
-OL,16,     Gmanhunt is launched to find two
-OL,17,     Grunaway suspects.
+OL,4,G2000FTraffic Cops
+OL,5,     GA look at hit and run incidents.
+OL,6,     GOfficers rush to the scene of a
+OL,7,     Gfatal collision on a Peak
+OL,8,     GDistrict country road as a
+OL,9,     Gmanhunt is launched to find two
+OL,10,     Grunaway suspects.
+OL,11,G2100FPolice: Suspect No.1
+OL,12,     GIn Grimsby, a vicious mass street
+OL,13,     Gbrawl leaves innocent victims
+OL,14,     Gwith serious injuries. Police
+OL,15,     Gface a desperate race against
+OL,16,     Gtime to find a suspect before
+OL,17,     Gthey flee the country.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -509,27 +518,27 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1741030511
+OL,0,        ECIMSBWebfax     F498A1741034118
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 3 MAR
-OL,4,G1900FThe Footage Detectives
-OL,5,     GMike and Noel share an
-OL,6,     Geducational reel on 1950s
-OL,7,     Gprojection, then it's time for
-OL,8,     GFanny Cradock and omelettes in a
-OL,9,     Gbrilliant lost reel and there's
-OL,10,     Gfootage from the 1950s for car
-OL,11,     Genthusiasts.
-OL,12,G2000FPublic Eye
-OL,13,     G1971. Detective & Mystery Drama.
-OL,14,     GWard of Court. Stars Alfred
-OL,15,     GBurke, Ray Smith & John Ash. It
-OL,16,     Gappears as though Marker's
-OL,17,     Ginterests and those of DI
-OL,18,     GFirbanks are the same - but are
-OL,19,     Gthey?
+OL,4,G2000FPublic Eye
+OL,5,     G1971. Detective & Mystery Drama.
+OL,6,     GWard of Court. Stars Alfred
+OL,7,     GBurke, Ray Smith & John Ash. It
+OL,8,     Gappears as though Marker's
+OL,9,     Ginterests and those of DI
+OL,10,     GFirbanks are the same - but are
+OL,11,     Gthey?
+OL,12,G2105FSchool For Secrets
+OL,13,     G1946. War. Director Peter
+OL,14,     GUstinov. Stars Ralph Richardson
+OL,15,     Gand Richard Attenborough. During
+OL,16,     GWorld War II, on the eve of the
+OL,17,     GBattle of Britain, British
+OL,18,     Gscientists develop the first
+OL,19,     Gradar systems.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
