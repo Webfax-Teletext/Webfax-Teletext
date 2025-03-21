@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,24 +50,24 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FHow long will the Heathrow Airport
-OL,9,Fdisruption last and what are my rights?
-OL,11,G303FHeathrow airport disruption:
-OL,12,F'Nearest thing to this was volcanic
-OL,13,Fash shutdown'
-OL,15,G304FHow triple killer Nicholas Prosper
-OL,16,Fcame close to the UK's worst school
-OL,17,Fshooting
-OL,19,G305FHeathrow Fire: Where are flights
-OL,20,Fbeing diverted and are other airports
-OL,21,Fimpacted?
+OL,8,G302FHeathrow Fire: Where are flights
+OL,9,Fbeing diverted and are other airports
+OL,10,Fimpacted?
+OL,12,G303FHow long will the Heathrow Airport
+OL,13,Fdisruption last and what are my rights?
+OL,15,G304FHeathrow airport disruption:
+OL,16,F'Nearest thing to this was volcanic
+OL,17,Fash shutdown'
+OL,19,G305FHow triple killer Nicholas Prosper
+OL,20,Fcame close to the UK's worst school
+OL,21,Fshooting
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +152,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -178,7 +178,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -204,7 +204,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -228,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -253,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -304,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -312,10 +312,10 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FRoyals test baking skills on NI
-OL,9,Fvisit
-OL,11,G442FBuses 'completely destroyed' in
-OL,12,Farson attack
+OL,8,G441FBuses 'completely destroyed' in
+OL,9,Farson attack
+OL,11,G442FRoyals test baking skills on NI
+OL,12,Fvisit
 OL,14,G443FFraudster dubbed 'Irish actor'
 OL,15,Fscammed #1.5m in social media bank scam
 OL,17,G444FPolice investigate sudden death
@@ -329,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -355,7 +355,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -380,30 +380,25 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 21 MAR
-OL,4,G1045FCrimewatch Live
-OL,5,     GThe Police Service of Northern
-OL,6,     GIreland appeal for information
-OL,7,     Gabout Lisa Dorrian, who went
-OL,8,     Gmissing in February 2005.
-OL,9,G1130FHomes Under the Hammer
-OL,10,     GDion encounters two front doors
-OL,11,     Gin Wigan and has a decision to
-OL,12,     Gmake. Which one should he go
-OL,13,     Gthrough?
-OL,14,G1215FBargain Hunt
-OL,15,     GExperts Philip Serrell and Tim
-OL,16,     GWeeks lend their expertise to two
-OL,17,     Gmums and their children as they
-OL,18,     Gtry to bag three items that will
-OL,19,     Gmake a profit at auction.
-OL,20,G1300FBBC News at One including Look...
-OL,21,     GNorth . The latest national and
-OL,22,     Ginternational news from the BBC.
+OL,4,G1130FHomes Under the Hammer
+OL,5,     GDion encounters two front doors
+OL,6,     Gin Wigan and has a decision to
+OL,7,     Gmake. Which one should he go
+OL,8,     Gthrough?
+OL,9,G1215FBargain Hunt
+OL,10,     GExperts Philip Serrell and Tim
+OL,11,     GWeeks lend their expertise to two
+OL,12,     Gmums and their children as they
+OL,13,     Gtry to bag three items that will
+OL,14,     Gmake a profit at auction.
+OL,15,G1300FBBC News at One including Look...
+OL,16,     GNorth . The latest national and
+OL,17,     Ginternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -411,7 +406,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -442,7 +437,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -468,58 +463,57 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 21 MAR
-OL,4,G1105FFrasier
-OL,5,G1135FF1 Chinese GP Sprint Qualifying
-OL,6,     FHighlights
-OL,7,     GChina hosts the first Sprint race
-OL,8,     Gof 2025. With a maximum of eight
-OL,9,     Gpoints available, the drivers
-OL,10,     Gwill want to qualify high on the
-OL,11,     Ggrid to give their season an
-OL,12,     Gearly boost.
-OL,13,G1205FChannel 4 News Summary
-OL,14,G1210FSun, Sea and Selling Houses
-OL,15,     GIn Almeria, the Garners help
-OL,16,     Gretired airline staff Darren and
-OL,17,     GTom upgrade their current
-OL,18,     Gtemporary abode, while the
-OL,19,     GHamiltons scour the Malaga market
-OL,20,     Gfor holistic therapist Suzan.
+OL,4,G1210FSun, Sea and Selling Houses
+OL,5,     GIn Almeria, the Garners help
+OL,6,     Gretired airline staff Darren and
+OL,7,     GTom upgrade their current
+OL,8,     Gtemporary abode, while the
+OL,9,     GHamiltons scour the Malaga market
+OL,10,     Gfor holistic therapist Suzan.
+OL,11,G1310FFind It, Fix It, Flog It
+OL,12,     GIn Herefordshire, Henry Cole
+OL,13,     Gfinds an old cattle feeder that
+OL,14,     Ghe wants to turn into a garden
+OL,15,     Gbench, and Simon O'Brien plans to
+OL,16,     Gturn a vintage seed drill into a
+OL,17,     Gtrendy dining table.
+OL,18,G1410FCountdown
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
-OL,26,@wD@Nrt{D@[rp
+OL,26,@mD@NrtqD@[rp
 PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 21 MAR
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss the
-OL,6,     Glatest news and get your views
-OL,7,     Gand opinions of the day.
-OL,8,G1130FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories of
-OL,12,     Gthe day.
-OL,13,G1245FGPs: Behind Closed Doors
-OL,14,     GIn Bradford, a woman with a
-OL,15,     Gstomach bypass gets advice about
-OL,16,     Gabdominal pains, and a mum is
-OL,17,     Gconcerned about a Strep A
-OL,18,     Goutbreak in schools and brings in
-OL,19,     Gher son about his chesty cough.
-OL,20,G1340F5 News at Lunchtime
+OL,4,G1130FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories of
+OL,8,     Gthe day.
+OL,9,G1245FGPs: Behind Closed Doors
+OL,10,     GIn Bradford, a woman with a
+OL,11,     Gstomach bypass gets advice about
+OL,12,     Gabdominal pains, and a mum is
+OL,13,     Gconcerned about a Strep A
+OL,14,     Goutbreak in schools and brings in
+OL,15,     Gher son about his chesty cough.
+OL,16,G1340F5 News at Lunchtime
+OL,17,G1345FHome and Away
+OL,18,     GKirby receives support in her
+OL,19,     Gfight. Gary and Rose discover the
+OL,20,     Gtruth. Cash and Eden are drawn
+OL,21,     Gback together.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -527,25 +521,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742555481
+OL,0,        ECIMSBWebfax     F498A1742559091
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 21 MAR
-OL,4,G0935FSerious Charge
-OL,5,     G1959. Drama. A new vicar falls
-OL,6,     Gfoul of Hester as she backs up a
-OL,7,     Gfalse claim made by Larry against
-OL,8,     Gthe vicar. Cliff Richard sings
-OL,9,     GLiving Doll.
-OL,10,G1135FStrange Voyage
-OL,11,     G1946. Adventure. Director: Irving
-OL,12,     GAllen. Stars Eddie Albert &
-OL,13,     GForrest Taylor. An adventurer
-OL,14,     Grents a sailing ship to hunt for
-OL,15,     Ga treasure and winds up battling
-OL,16,     Gbad weather, rough seas and the
-OL,17,     Gcrew.
+OL,4,G1135FStrange Voyage
+OL,5,     G1946. Adventure. Director: Irving
+OL,6,     GAllen. Stars Eddie Albert &
+OL,7,     GForrest Taylor. An adventurer
+OL,8,     Grents a sailing ship to hunt for
+OL,9,     Ga treasure and winds up battling
+OL,10,     Gbad weather, rough seas and the
+OL,11,     Gcrew.
+OL,12,G1250FFaces in the Dark
+OL,13,     G1960. Drama. Directed by David
+OL,14,     GEady. Starring John Gregson, Mai
+OL,15,     GZetterling & John Ireland.
+OL,16,     GRichard, a factory owner, becomes
+OL,17,     Gblind during an experiment on the
+OL,18,     Gvery day his wife wants a divorce.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
