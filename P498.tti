@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -63,11 +63,12 @@ OL,10,Fhospital
 OL,12,G303FFormer Radio 1 DJ Andy Peebles,
 OL,13,Flast interviewer of John Lennon, dies
 OL,14,Faged 76
-OL,16,G304FAir strike kills senior Hamas
-OL,17,Fofficial in Gaza, officials say
-OL,19,G305FLewis Hamilton and Charles Leclerc
-OL,20,Fdisqualified in nightmare race for
-OL,21,FFerrari
+OL,16,G304FIsrael strikes southern Gaza as
+OL,17,FPalestinian death toll climbs past
+OL,18,F50,000
+OL,20,G305FLewis Hamilton and Charles Leclerc
+OL,21,Fdisqualified in nightmare race for
+OL,22,FFerrari
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +76,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -149,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -175,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -183,17 +184,15 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FProtestors claim landfill in
-OL,9,FFleetwood is making them ill
-OL,11,G392FMan who escaped from prison van on
-OL,12,Fthe way to court found
-OL,14,G393FBrian Nolan reveals prostate
-OL,15,Fcancer diagnosis after sister Linda's
-OL,16,Fdeath
-OL,18,G394FDays old baby girl dies following
-OL,19,F'gross failure' of medical team
-OL,21,G395FSentencing of mum for 1998 killing
-OL,22,Fof baby delayed
+OL,8,G391FMan charged with escaping from
+OL,9,Fprison van on way to court
+OL,11,G392FThe Searchers to play final show
+OL,12,Fat Glastonbury after touring for 68
+OL,13,Fyears
+OL,15,G393FProtestors claim landfill in
+OL,16,FFleetwood is making them ill
+OL,18,G394FMan who escaped from prison van on
+OL,19,Fthe way to court found
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -201,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +225,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -251,7 +250,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -276,7 +275,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -302,7 +301,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -327,7 +326,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -352,7 +351,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -377,7 +376,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -405,7 +404,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -433,25 +432,25 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 23 MAR
-OL,4,G1335FMamma Mia!
-OL,5,     GRomantic musical comedy film
-OL,6,     Gstarring Meryl Streep and Amanda
-OL,7,     GSeyfried, 2008. A spirited bride-
-OL,8,     Gto-be invites her mother's old
-OL,9,     Glovers to her wedding to work out
-OL,10,     Gwho her father is.
-OL,11,G1540FLingo
-OL,12,     GThree sets of friends battle it
-OL,13,     Gout in this edition - Marta and
-OL,14,     GShane from Dursley, Ann and Joyce
-OL,15,     Gfrom West Yorkshire, and David
-OL,16,     Gand Sumbul from St Albans and
-OL,17,     GDurham.
+OL,4,G1540FLingo
+OL,5,     GThree sets of friends battle it
+OL,6,     Gout in this edition - Marta and
+OL,7,     GShane from Dursley, Ann and Joyce
+OL,8,     Gfrom West Yorkshire, and David
+OL,9,     Gand Sumbul from St Albans and
+OL,10,     GDurham.
+OL,11,G1640FThe Chase Celebrity Special
+OL,12,     GAre four celebrities clever
+OL,13,     Genough to take on one of the
+OL,14,     Gcountry's finest quiz brains?
+OL,15,     GBradley Walsh hosts as Cheryl
+OL,16,     GBaker, Laura Tobin, Jason Bell
+OL,17,     Gand Mark Steel face The Chase.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -459,24 +458,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 23 MAR
-OL,4,G1300FF1 Chinese GP Highlights
-OL,5,     GThe championship got off to an
-OL,6,     Gexciting start in tough
-OL,7,     Gconditions in Melbourne, with
-OL,8,     Grain playing a huge part and a
-OL,9,     Gchase that came down to the wire.
-OL,10,     GWhat surprises will Shanghai hold?
-OL,11,G1530FFour in a Bed
-OL,12,     GIn Lancashire, Steve and Georgia
-OL,13,     Gwhet their guests' appetites with
-OL,14,     Gwater skiing and a boozy
-OL,15,     Gbreakfast. But the price of a
-OL,16,     Gpint causes some confusion.
+OL,4,G1600FFour in a Bed
+OL,5,     GSarah and Sarah host at their
+OL,6,     GNorth Yorkshire glampsite, Lahtle
+OL,7,     GWood Glamping. After a visit to
+OL,8,     Gan air raid shelter, one B&Ber
+OL,9,     Gdrops some truth bombs about what
+OL,10,     Ghe really thinks.
+OL,11,G1630FFour in a Bed
+OL,12,     GThe week's third visit is to
+OL,13,     GJoe's Grade II listed Cley Hall
+OL,14,     GHotel in Lincolnshire. A noisy
+OL,15,     Gnight drives one guest to
+OL,16,     Gdistraction, while others get a
+OL,17,     Glittle too hot under the collar.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -484,25 +484,26 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 23 MAR
-OL,4,G1435FInside the Tower of London
-OL,5,     GBehind the walls for another
-OL,6,     Gextraordinary year. It's March
-OL,7,     G2023 and the Tower prepares for
-OL,8,     Gone the most important events in
-OL,9,     Gits 1000-year history - the
-OL,10,     Gcrowning of a new monarch.
-OL,11,G1530FInside the Tower of London
-OL,12,     GThe crowning of Charles III means
-OL,13,     Gthe Beefeaters' uniforms must be
-OL,14,     Gupdated to acknowledge the new
-OL,15,     GKing. Plus big changes to the
-OL,16,     Gmoat, and a look at Henry VIII's
-OL,17,     Gbeloved mother.
+OL,4,G1530FInside the Tower of London
+OL,5,     GThe crowning of Charles III means
+OL,6,     Gthe Beefeaters' uniforms must be
+OL,7,     Gupdated to acknowledge the new
+OL,8,     GKing. Plus big changes to the
+OL,9,     Gmoat, and a look at Henry VIII's
+OL,10,     Gbeloved mother.
+OL,11,G1630FThe Fall of Anne Boleyn
+OL,12,     GHistorian Tracy Boorman tells the
+OL,13,     Gstory of the fall of Henry VIII's
+OL,14,     Gsecond wife Anne Boleyn, in
+OL,15,     Gforensic detail, as she retraces
+OL,16,     GAnne's footsteps to find the
+OL,17,     Gtruth behind her fall.
+OL,18,G1830F5 News Weekend
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -510,30 +511,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1742743144
+OL,0,        ECIMSBWebfax     F498A1742746750
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 23 MAR
-OL,4,G1400FAbilene Town
-OL,5,     G1946. Western. Directed by Edwin
-OL,6,     GL. Marin. Stars Randolph Scott,
-OL,7,     GAnn Dvorak & Edgar Buchanan. Post
-OL,8,     GCivil War in Abilene, a sheriff
-OL,9,     Gattempts to stop conflict between
-OL,10,     Gthe homesteaders and cattlemen.
-OL,11,G1545FLook At Life Out of the Inn
-OL,12,     G1968. An intriguing look at the
-OL,13,     Gchanging social scene that is
-OL,14,     Gtaking place in Britain's pubs.
-OL,15,G1600FThe Adventures of Robin Hood
-OL,16,     GSix Strings to his Bow. 1960.
-OL,17,     GStars Richard Greene, Richard
-OL,18,     GColeman & Simone Lovell. Alan-a-
-OL,19,     GDale returns to Sherwood unaware
-OL,20,     Ghe is wanted for murder and in
-OL,21,     Gdanger. Robin attempts to protect
-OL,22,     Ghim.
+OL,4,G1600FThe Adventures of Robin Hood
+OL,5,     GSix Strings to his Bow. 1960.
+OL,6,     GStars Richard Greene, Richard
+OL,7,     GColeman & Simone Lovell. Alan-a-
+OL,8,     GDale returns to Sherwood unaware
+OL,9,     Ghe is wanted for murder and in
+OL,10,     Gdanger. Robin attempts to protect
+OL,11,     Ghim.
+OL,12,G1630FOut of Town
+OL,13,     GLong Distance Ride. 1986. Jack
+OL,14,     Gexplains the intricacies of the
+OL,15,     Guniversal troop saddle and, on
+OL,16,     Gthe longest day of the year, he
+OL,17,     Gwatches endurance riding in the
+OL,18,     GNew Forest.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
