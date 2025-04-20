@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,15 +50,15 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FKing and Queen to attend Easter
-OL,9,FSunday service at Windsor Castle
+OL,8,G302FAndrew joins King and Queen for
+OL,9,FEaster service at Windsor Castle
 OL,11,G303FZelenskyy says Russian attacks
 OL,12,Fcontinuing despite Putin's 'Easter
 OL,13,Ftruce'
@@ -73,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -97,7 +97,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -123,7 +123,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -148,7 +148,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -173,7 +173,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -181,15 +181,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FBody of missing pensioner Brian
-OL,9,FFletcher found after four-week search
-OL,11,G392FMan dies after car is
-OL,12,F'deliberately' driven at him in
-OL,13,FMerseyside
-OL,15,G393FRNLI warns people to take care on
-OL,16,Fthe coast this Easter weekend
-OL,18,G394FChurch walls and gravestones
-OL,19,Fvandalised at Grade II listed church
+OL,8,G391FBrianna Ghey's school says pupils
+OL,9,F'less stressed' after mobile phone ban
+OL,11,G392FBody of missing pensioner Brian
+OL,12,FFletcher found after four-week search
+OL,14,G393FMan dies after car is
+OL,15,F'deliberately' driven at him in
+OL,16,FMerseyside
+OL,18,G394FRNLI warns people to take care on
+OL,19,Fthe coast this Easter weekend
+OL,21,G395FChurch walls and gravestones
+OL,22,Fvandalised at Grade II listed church
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -197,7 +199,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -223,7 +225,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -247,7 +249,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -273,7 +275,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -299,7 +301,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -324,7 +326,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -349,7 +351,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -374,27 +376,24 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 20 APR
-OL,4,G1220FBargain Hunt
-OL,5,     GNatasha Raskin Sharp oversees the
-OL,6,     Ghunt for bargains in
-OL,7,     GPeterborough. She also visits the
-OL,8,     Gtown's lido and hears all about a
-OL,9,     Glocal legend, the strongman
-OL,10,     GWalter Cornelius.
-OL,11,G1300FBBC News
-OL,12,G1310FWeather for the Week Ahead
-OL,13,G1315FSongs of Praise: Easter Sunday
-OL,14,     GAled Jones celebrates Easter
-OL,15,     GSunday at St George's Roman
-OL,16,     GCatholic Cathedral in London and
-OL,17,     Gmarks the rare event of the
-OL,18,     Geastern and western churches
-OL,19,     Gobserving Easter on the same day.
+OL,4,G1315FSongs of Praise: Easter Sunday
+OL,5,     GAled Jones celebrates Easter
+OL,6,     GSunday at St George's Roman
+OL,7,     GCatholic Cathedral in London and
+OL,8,     Gmarks the rare event of the
+OL,9,     Geastern and western churches
+OL,10,     Gobserving Easter on the same day.
+OL,11,G1350FEscape to the Country
+OL,12,     GAlistair Appleton guides a couple
+OL,13,     Gwho want to switch their lives
+OL,14,     Gfrom the bustle of Bristol to the
+OL,15,     Gfresh country air of the Wye
+OL,16,     GValley.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -402,28 +401,27 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 20 APR
-OL,4,G1200FMarcus Wareing's Tales from a
-OL,5,     FKitchen Garden
-OL,6,     GMarcus gets more than he
-OL,7,     Gbargained for when ducks arrive,
-OL,8,     Gand he has a close encounter with
-OL,9,     Gsome bees.
-OL,10,G1300FSnooker: World Championship
-OL,11,     GCoverage of the second day of the
-OL,12,     GWorld Snooker Championship from
-OL,13,     Gthe Crucible Theatre.
-OL,14,G1740FFlog It!
-OL,15,     GAntiques series. Paul Martin and
-OL,16,     Gthe team take over Stockport Town
-OL,17,     GHall. Paul and experts Mark
-OL,18,     GStacey and Philip Serrell pick
-OL,19,     Gout a selection of their
-OL,20,     Gfavourite objects.
+OL,4,G1300FSnooker: World Championship
+OL,5,     GCoverage of the second day of the
+OL,6,     GWorld Snooker Championship from
+OL,7,     Gthe Crucible Theatre.
+OL,8,G1740FFlog It!
+OL,9,     GAntiques series. Paul Martin and
+OL,10,     Gthe team take over Stockport Town
+OL,11,     GHall. Paul and experts Mark
+OL,12,     GStacey and Philip Serrell pick
+OL,13,     Gout a selection of their
+OL,14,     Gfavourite objects.
+OL,15,G1810FGareth Malone's Messiah: The
+OL,16,     FConcert
+OL,17,     GGareth's eight new singers are
+OL,18,     Gall set for the biggest
+OL,19,     Gperformance of their lives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -431,24 +429,25 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 20 APR
-OL,4,G1240FPrue Leith's Cotswold Kitchen
-OL,5,     GMark Lane: Prue welcomes Mark
-OL,6,     GLane - who cooks up a warm kale
-OL,7,     Gsalad with peanut dressing and
-OL,8,     Gplum cake - and recreates a dish
-OL,9,     Gthat her husband hasn't eaten for
-OL,10,     Galmost 20 years.
-OL,11,G1345FMidsomer Murders
-OL,12,     GRed in Tooth and Claw: Crime
-OL,13,     Gdrama series. A sinister side to
-OL,14,     Ga local pet show is revealed when
-OL,15,     GDCI Barnaby and DS Winter find a
-OL,16,     Gdead body covered in live rabbits.
+OL,4,G1345FMidsomer Murders
+OL,5,     GRed in Tooth and Claw: Crime
+OL,6,     Gdrama series. A sinister side to
+OL,7,     Ga local pet show is revealed when
+OL,8,     GDCI Barnaby and DS Winter find a
+OL,9,     Gdead body covered in live rabbits.
+OL,10,G1540FWilly Wonka and the Chocolate
+OL,11,     FFactory
+OL,12,     GFamily-friendly musical film
+OL,13,     Gstarring Gene Wilder and Jack
+OL,14,     GAlbertson, 1971. A poor but
+OL,15,     Ghopeful boy seeks a prize that
+OL,16,     Gwill send him on a tour of a
+OL,17,     Gchocolate factory.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -456,30 +455,30 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 20 APR
-OL,4,G1000FLive: Sunday Brunch
-OL,5,     GLarry Lamb tells us about his
-OL,6,     Gdebut novel. Two of the Harlem
-OL,7,     GGlobetrotters talk about the
-OL,8,     Giconic basketball team's UK tour.
-OL,9,     GPlus: Nikita Kuzman, Siena Kelly,
-OL,10,     GBetty Boo and Prima Queen.
-OL,11,G1300FThe Simpsons
-OL,12,G1330FThe Simpsons
-OL,13,G1400FThe Simpsons
-OL,14,G1430FThe Simpsons
-OL,15,G1500FThe Simpsons
-OL,16,G1535FOliver!
-OL,17,     GCarol Reed's evergreen musical
-OL,18,     Gbased on Charles Dickens' Oliver
-OL,19,     GTwist, with Mark Lester starring
-OL,20,     Gas the young orphan in Victorian
-OL,21,     GLondon. With Ron Moody and Oliver
-OL,22,     GReed.
+OL,4,G1330FThe Simpsons
+OL,5,G1400FThe Simpsons
+OL,6,G1430FThe Simpsons
+OL,7,G1500FThe Simpsons
+OL,8,G1535FOliver!
+OL,9,     GCarol Reed's evergreen musical
+OL,10,     Gbased on Charles Dickens' Oliver
+OL,11,     GTwist, with Mark Lester starring
+OL,12,     Gas the young orphan in Victorian
+OL,13,     GLondon. With Ron Moody and Oliver
+OL,14,     GReed.
+OL,15,G1830FChannel 4 News
+OL,16,G1900FStacey Solomon's Renovation Rescue
+OL,17,     GDIY queen Stacey Solomon helps
+OL,18,     Ghomeowners salvage their half-
+OL,19,     Gbuilt homes. Can she work her
+OL,20,     Gmagic on Erick and Caroline's
+OL,21,     Gextension to bring their
+OL,22,     G'Japandi' vision back to life?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -487,30 +486,24 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 20 APR
-OL,4,G1155FEaster on the Farm
-OL,5,     GBrothers Rob and Dave Nicholson
-OL,6,     Gmust treat a very poorly cow
-OL,7,     Gabout to give birth. Jules Hudson
-OL,8,     Ggets in the Easter spirit,
-OL,9,     Gjoining an egg hunt on the farm.
-OL,10,G1255FInside the Tower of London
-OL,11,     GDocuseries about the history,
-OL,12,     Gsecrets and people of London's
-OL,13,     Giconic landmark. The great gates
-OL,14,     Gre-open and the crowds re-enter
-OL,15,     Gfor the first time since the
-OL,16,     Gcovid-related lockdown.
-OL,17,G1350FInside the Tower of London
-OL,18,     GDocuseries about the history,
-OL,19,     Gsecrets and people of London's
-OL,20,     Giconic landmark. New Yeoman
-OL,21,     GWarder Barry is grilled on VIII's
-OL,22,     Gwives by a young visitor.
+OL,4,G1255FInside the Tower of London
+OL,5,     GDocuseries about the history,
+OL,6,     Gsecrets and people of London's
+OL,7,     Giconic landmark. The great gates
+OL,8,     Gre-open and the crowds re-enter
+OL,9,     Gfor the first time since the
+OL,10,     Gcovid-related lockdown.
+OL,11,G1350FInside the Tower of London
+OL,12,     GDocuseries about the history,
+OL,13,     Gsecrets and people of London's
+OL,14,     Giconic landmark. New Yeoman
+OL,15,     GWarder Barry is grilled on VIII's
+OL,16,     Gwives by a young visitor.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -518,26 +511,25 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1745149597
+OL,0,        ECIMSBWebfax     F498A1745153204
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 20 APR
-OL,4,G1110FStagecoach
-OL,5,     G1966. Western. Directed by Gordon
-OL,6,     GDouglas. Stars Van Heflin,
-OL,7,     GStefanie Powers & Bing Crosby. On
-OL,8,     Gthe stagecoach to Cheyenne, a
-OL,9,     Ggroup of passengers must work
-OL,10,     Gtogether to survive the arduous
-OL,11,     Gjourney.
-OL,12,G1325FBatman
-OL,13,     GAn Egg Grows in Gotham. 1966.
-OL,14,     GStars Adam West, Vincent Price &
-OL,15,     GEdward Everett Horton. Egghead
-OL,16,     Gand his yeggs steal the Gotham
-OL,17,     GCity charter in a twisted plot to
-OL,18,     Ggain control of the city.
+OL,4,G1325FBatman
+OL,5,     GAn Egg Grows in Gotham. 1966.
+OL,6,     GStars Adam West, Vincent Price &
+OL,7,     GEdward Everett Horton. Egghead
+OL,8,     Gand his yeggs steal the Gotham
+OL,9,     GCity charter in a twisted plot to
+OL,10,     Ggain control of the city.
+OL,11,G1400FLook At Life On the Scent
+OL,12,     G1967. A magnificent glimpse into
+OL,13,     Gthe perfume and fragrance
+OL,14,     Gindustry, with a look at how
+OL,15,     Gperfumes and scents are being
+OL,16,     Gused more and more in everyday
+OL,17,     Glife.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
