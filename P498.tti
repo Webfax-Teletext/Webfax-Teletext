@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,18 +50,18 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FTrump denies his tariffs are to
-OL,9,Fblame for shrinking the US economy
-OL,11,G303FMicrosoft says it is 'always
-OL,12,Fthere' for M&S, as Co-op reveals
-OL,13,Fattempted hack
+OL,8,G302FMicrosoft says it is 'always
+OL,9,Fthere' for M&S, as Co-op reveals
+OL,10,Fattempted hack
+OL,12,G303FTrump denies his tariffs are to
+OL,13,Fblame for shrinking the US economy
 OL,15,G304FPM will 'look into' changing
 OL,16,FMental Capacity Act after murder of
 OL,17,Fautistic man
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -184,15 +184,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FRonaldsway Airport to reduce daily
-OL,9,Fclosures in air traffic control ahead
-OL,10,Fof TT
-OL,12,G392F'Get checked': Mum mistakes
-OL,13,Fmenopause for ovarian cancer
-OL,15,G393FFirefighters tackling large
-OL,16,Fwildfire in the Peak District
-OL,18,G394FReform UK take down Stockport
-OL,19,Fwebsite using AI-generated supporters
+OL,8,G391FMeet the tram driver celebrating
+OL,9,F50 years at the Douglas Horse Tramway
+OL,11,G392FRonaldsway Airport to reduce daily
+OL,12,Fclosures in air traffic control ahead
+OL,13,Fof TT
+OL,15,G393F'Get checked': Mum mistakes
+OL,16,Fmenopause for ovarian cancer
+OL,18,G394FFirefighters tackling large
+OL,19,Fwildfire in the Peak District
+OL,21,G395FReform UK take down Stockport
+OL,22,Fwebsite using AI-generated supporters
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -200,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -225,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -250,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -276,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -301,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -326,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -334,16 +336,16 @@ OL,4,                      R G    R z4
 OL,5,BThe latest updates fromG  R`|u
 OL,6,BITV News Wales         G  R +';o/
 OL,7,                        G      R"#
-OL,8,G461FTrain safety checks not carried
-OL,9,Fout on day of fatal crash
-OL,11,G462FFather urges young people to get
-OL,12,FHPV vaccine as protection from some
-OL,13,Fcancers
-OL,15,G463FPaddleboard firm owner jailed for
-OL,16,F10 years over fatal tour which killed
-OL,17,Ffour
-OL,19,G464FEvents cancelled at farm shop
-OL,20,Fafter parasite outbreak
+OL,8,G461FMan dies and three women in
+OL,9,Fhospital in two vehicle crash
+OL,11,G462FCertain train safety checks not
+OL,12,Fcarried out on day of fatal crash
+OL,14,G463FFather urges young people to get
+OL,15,FHPV vaccine as protection from some
+OL,16,Fcancers
+OL,18,G464FPaddleboard firm owner jailed for
+OL,19,F10 years over fatal tour which killed
+OL,20,Ffour
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -351,7 +353,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -376,25 +378,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 30 APR
-OL,4,G2100FRace Across the World
-OL,5,     GThe teams race to reach Sanya,
-OL,6,     Gone of China's most southerly
-OL,7,     Gcities.
-OL,8,G2200FBBC News and Weather
-OL,9,G2230FRegional News
-OL,10,G2240FMOTD: UEFA Champions League
-OL,11,     FHighlights
-OL,12,     GMark Chapman introduces the
-OL,13,     Ggoals, talking points and
-OL,14,     Gcomprehensive analysis as four of
-OL,15,     GEurope's elite clubs face off in
-OL,16,     Gthe first legs of this season's
-OL,17,     Gsemi-finals.
+OL,4,G2240FMOTD: UEFA Champions League
+OL,5,     FHighlights
+OL,6,     GMark Chapman introduces the
+OL,7,     Ggoals, talking points and
+OL,8,     Gcomprehensive analysis as four of
+OL,9,     GEurope's elite clubs face off in
+OL,10,     Gthe first legs of this season's
+OL,11,     Gsemi-finals.
+OL,12,G2325FWho Do You Think You Are?
+OL,13,     GIn an unexpected twist, Mishal
+OL,14,     GHusain's journey into her family
+OL,15,     Gtree takes her from India to the
+OL,16,     Geast coast of the USA, where she
+OL,17,     Gdiscovers some revolutionary
+OL,18,     Gancestors.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -402,27 +405,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 30 APR
-OL,4,G2100FSaving Lives in Cardiff
-OL,5,     GSurgeon Lewis's day is turned
-OL,6,     Gupside down when all his planned
-OL,7,     Goperations are cancelled.
-OL,8,     GContains graphic medical scenes.
-OL,9,G2200FLive at the Apollo
-OL,10,     GThe hilarious Geoff Norcott
-OL,11,     Gintroduces comedians Michelle de
-OL,12,     GSwarte and Sean McLoughlin to the
-OL,13,     Gstage. Contains some strong
-OL,14,     Glanguage and adult humour.
-OL,15,G2230FNewsnight, followed by Weather
-OL,16,     GInsights and global interviews on
-OL,17,     Gthe crucial news stories of the
-OL,18,     Gday. Presented by Faisal Islam.
-OL,19,     GFollowed by Weather.
+OL,4,G2230FNewsnight, followed by Weather
+OL,5,     GInsights and global interviews on
+OL,6,     Gthe crucial news stories of the
+OL,7,     Gday. Presented by Faisal Islam.
+OL,8,     GFollowed by Weather.
+OL,9,G2300FUnspun World with John Simpson
+OL,10,     GUnspun World provides an
+OL,11,     Gunvarnished version of the week's
+OL,12,     Gmajor global news stories -
+OL,13,     Greliable, honest and essential
+OL,14,     Gviewing with the BBC's world
+OL,15,     Gaffairs editor, John Simpson.
+OL,16,G2330FLouis Theroux: The Settlers
+OL,17,     GLouis Theroux returns to the West
+OL,18,     GBank to meet some of the Israeli
+OL,19,     Gsettlers living there. Contains
+OL,20,     Gscenes which some viewers may
+OL,21,     Gfind upsetting.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -430,27 +435,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 30 APR
-OL,4,G2100FGenius Game
-OL,5,     GReality game show presented by
-OL,6,     GDavid Tennant. 11 players take on
-OL,7,     Gtheir first Main Match in the
-OL,8,     Ggroup game Gold Heist, but one of
-OL,9,     Gthem must be eliminated in the
-OL,10,     GDeath Match.
-OL,11,G2215FITV News
-OL,12,G2245FRegional News
-OL,13,G2255FPeston
-OL,14,     GJoin Robert Peston for a late-
-OL,15,     Gnight political magazine show
-OL,16,     Gfeaturing big interviews with the
-OL,17,     Gcountry's leading politicians,
-OL,18,     Gtopical guests, and the best
-OL,19,     Gpolitical gossip.
+OL,4,G2245FRegional News
+OL,5,G2255FPeston
+OL,6,     GJoin Robert Peston for a late-
+OL,7,     Gnight political magazine show
+OL,8,     Gfeaturing big interviews with the
+OL,9,     Gcountry's leading politicians,
+OL,10,     Gtopical guests, and the best
+OL,11,     Gpolitical gossip.
+OL,12,G2355FGenius Game
+OL,13,     GReality game show presented by
+OL,14,     GDavid Tennant. 11 players take on
+OL,15,     Gtheir first Main Match in the
+OL,16,     Ggroup game Gold Heist, but one of
+OL,17,     Gthem must be eliminated in the
+OL,18,     GDeath Match.
+OL,19,G0055FShop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -458,25 +463,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 30 APR
-OL,4,G2100FGroomed: A National Scandal
-OL,5,     GThe experiences of five young
-OL,6,     Gwomen who survived unimaginable
-OL,7,     Gabuse and rape in a story of gang
-OL,8,     Ggrooming spanning 20 years.
-OL,9,     GFailures of police and social
-OL,10,     Gservices continue to this day.
-OL,11,G2230FBuilding Monaco's Superhomes
-OL,12,     GAs Guy Phoenix navigates the
-OL,13,     Gintricacies of transforming a
-OL,14,     G#16m apartment in Monaco into an
-OL,15,     Gopulent superhome, the pressure's
-OL,16,     Gon to complete it in time for the
-OL,17,     Gupcoming Grand Prix.
+OL,4,G2230FBuilding Monaco's Superhomes
+OL,5,     GAs Guy Phoenix navigates the
+OL,6,     Gintricacies of transforming a
+OL,7,     G#16m apartment in Monaco into an
+OL,8,     Gopulent superhome, the pressure's
+OL,9,     Gon to complete it in time for the
+OL,10,     Gupcoming Grand Prix.
+OL,11,G2335FBritain's Most Expensive Houses
+OL,12,     GThe brokers at UK Sotheby's
+OL,13,     GInternational Realty secure more
+OL,14,     Gmulti-million-pound sales. Can
+OL,15,     GLee find a buyer for a #29m house
+OL,16,     Goverlooking Regents Park lake?
+OL,17,G0035FRamsay's Kitchen Nightmares USA
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -484,26 +489,25 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 30 APR
-OL,4,G2000FThe Drowning of Paula Leeson
-OL,5,     GPaula Leeson's death looked like
-OL,6,     Gan accident until dark secrets
-OL,7,     Gunraveled. Her husband's
-OL,8,     Gidentity, past crimes, and a web
-OL,9,     Gof lies lead to one chilling
-OL,10,     Gquestion, did he get away with
-OL,11,     Gmurder?
-OL,12,G2200FAmbulance: Code Red
-OL,13,     GA 53-year-old joiner has fallen
-OL,14,     Gthrough the first floor of a
-OL,15,     Gbuilding; a 43-year-old man has
-OL,16,     Gcut himself in the abdomen with a
-OL,17,     Gchainsaw whilst doing DIY and is
-OL,18,     Gin a serious condition.
+OL,4,G2200FAmbulance: Code Red
+OL,5,     GA 53-year-old joiner has fallen
+OL,6,     Gthrough the first floor of a
+OL,7,     Gbuilding; a 43-year-old man has
+OL,8,     Gcut himself in the abdomen with a
+OL,9,     Gchainsaw whilst doing DIY and is
+OL,10,     Gin a serious condition.
+OL,11,G2305FSkin A&E
+OL,12,     GDr Adil Sheraz treats a bus
+OL,13,     Gdriver with over 100 lipomas, Dr
+OL,14,     GToby Nelson tries to help a 23-
+OL,15,     Gyear-old who's covered in
+OL,16,     Gkeloids, plus a treat of a cyst
+OL,17,     Gfor Dr Emma McMullen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -511,7 +515,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1746046003
+OL,0,        ECIMSBWebfax     F498A1746049623
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
