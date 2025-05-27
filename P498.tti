@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -64,9 +64,9 @@ OL,12,F'critical moment' as he addresses its
 OL,13,Fparliament
 OL,15,G304FFarage pledges to scrap two-child
 OL,16,Fbenefit cap and reverse winter fuel cut
-OL,18,G305FIsraeli gunfire heard as chaos
-OL,19,Ferupts at new aid distribution centre
-OL,20,Fin Gaza
+OL,18,G305F'Hallmarks of organised crime':
+OL,19,FMourners targeted by 'sickening'
+OL,20,Flivestream scam
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -132,12 +132,12 @@ OL,4,                      R~3!
 OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
-OL,8,G371F'You're happy and celebrating one
-OL,9,Fmoment - the next you've got serious
-OL,10,Finjuries'
-OL,12,G372FEuros-winning England goalkeeper
-OL,13,FMary Earps retires from international
-OL,14,Ffootball
+OL,8,G371FEuros-winning England goalkeeper
+OL,9,FMary Earps retires from international
+OL,10,Ffootball
+OL,12,G372F'You're happy and celebrating one
+OL,13,Fmoment - the next you've got serious
+OL,14,Finjuries'
 OL,16,G373FToyota to spend $56 million on
 OL,17,Fmoving some sports car production to
 OL,18,FDerbyshire
@@ -150,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -158,17 +158,16 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381F'I'm not alone': Medical student
-OL,9,Fwho had all four limbs amputated
-OL,10,Fspeaks out
-OL,12,G382FRed Arrows and RAF Typhoon to star
-OL,13,Fat evening air show
-OL,15,G383FManifestos released as Guernsey's
-OL,16,Felection campaign heats up
-OL,18,G384FJersey Bulls one step closer to
-OL,19,Fpromotion after play-off penalty drama
-OL,21,G385F38% of Guernsey's poorest homes do
-OL,22,Fnot have enough beds, report finds
+OL,8,G381FBasketballer who died after
+OL,9,Fcardiac arrest on court remembered one
+OL,10,Fyear on
+OL,12,G382F'I'm not alone': Medical student
+OL,13,Fwho had all four limbs amputated
+OL,14,Fspeaks out
+OL,16,G383FRed Arrows and RAF Typhoon to star
+OL,17,Fat evening air show
+OL,19,G384FManifestos released as Guernsey's
+OL,20,Felection campaign heats up
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -176,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -226,7 +225,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -252,7 +251,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -277,7 +276,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -302,7 +301,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -310,15 +309,16 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FRoad death illustrates need for A5
-OL,9,Fupgrade
-OL,11,G442FPublic warning after minke whale
-OL,12,Fwashes up on beach
-OL,14,G443FPSNI defends pro-Palestine protest
-OL,15,Farrests
-OL,17,G444FMan stabbed in Belfast fight
-OL,19,G445FPensioner, 82, killed in crash
-OL,20,Fnear Omagh
+OL,8,G441FCalls for Ballycastle hotel to be
+OL,9,Fpreserved for 'historic restoration'
+OL,11,G442FLisburn man 'jumped out of the
+OL,12,Fway' to avoid car about to hit
+OL,13,FLiverpool fans
+OL,15,G443FNesbitt 'appalled' by report on
+OL,16,FNorthern Ireland cardiac surgery unit
+OL,17,Fculture
+OL,19,G444FRoad death illustrates need for A5
+OL,20,Fupgrade
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -326,7 +326,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -351,7 +351,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -376,27 +376,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 27 MAY
-OL,4,G2000FSort Your Life Out with Stacey
-OL,5,     FSolomon
-OL,6,     GStacey Solomon and her crack team
-OL,7,     Ghelp Daniela and Tim, and their
-OL,8,     Gtwo children, to transform their
-OL,9,     Gfamily home through a life-
-OL,10,     Gchanging declutter.
-OL,11,G2100FWho Do You Think You Are?
-OL,12,     GFrom the French battlefields of
-OL,13,     Gthe First World War to a romance
-OL,14,     Gworthy of First Dates, maitre d'
-OL,15,     Gand presenter Fred Sirieix goes
-OL,16,     Gto France to explore his family
-OL,17,     Gtree.
-OL,18,G2200FBBC News and Weather
-OL,19,G2230FRegional News
+OL,4,G2100FWho Do You Think You Are?
+OL,5,     GFrom the French battlefields of
+OL,6,     Gthe First World War to a romance
+OL,7,     Gworthy of First Dates, maitre d'
+OL,8,     Gand presenter Fred Sirieix goes
+OL,9,     Gto France to explore his family
+OL,10,     Gtree.
+OL,11,G2200FBBC News and Weather
+OL,12,G2230FRegional News
+OL,13,G2240FThe Crime I Can't Forget
+OL,14,     GPolice race against the clock to
+OL,15,     Gsolve a murder of a promising
+OL,16,     Gyoung boxer. Contains scenes
+OL,17,     Gwhich some viewers may find
+OL,18,     Gupsetting.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -404,30 +403,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 27 MAY
-OL,4,G2000FSpringwatch
-OL,5,     GChris, Michaela and Iolo are
-OL,6,     Gjoined by Megan McCubbin at
-OL,7,     GHaddon Hall. The 20th anniversary
-OL,8,     Gcelebrations continue, and with a
-OL,9,     Gmedley of new nests, the drama
-OL,10,     Ghas already begun.
-OL,11,G2100FImplosion: The Titanic Sub
-OL,12,     FDisaster
-OL,13,     GAfter an implosion on a Titanic
-OL,14,     Gdive, investigators search for
-OL,15,     Gthe truth. Contains scenes which
-OL,16,     Gsome viewers may find upsetting.
-OL,17,G2200FQI
-OL,18,     GSandi Toksvig is joined by
-OL,19,     GBridget Christie, Rosie Jones,
-OL,20,     GCariad Lloyd and Alan Davies to
-OL,21,     Gfind out about ulex and other
-OL,22,     Gobscure U words.
+OL,4,G2100FImplosion: The Titanic Sub
+OL,5,     FDisaster
+OL,6,     GAfter an implosion on a Titanic
+OL,7,     Gdive, investigators search for
+OL,8,     Gthe truth. Contains scenes which
+OL,9,     Gsome viewers may find upsetting.
+OL,10,G2200FQI
+OL,11,     GSandi Toksvig is joined by
+OL,12,     GBridget Christie, Rosie Jones,
+OL,13,     GCariad Lloyd and Alan Davies to
+OL,14,     Gfind out about ulex and other
+OL,15,     Gobscure U words.
+OL,16,G2230FNewsnight, followed by Weather
+OL,17,     GInsights and global interviews on
+OL,18,     Gthe news stories of the day. With
+OL,19,     GPaddy O'Connell. Followed by
+OL,20,     GWeather.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -435,28 +432,29 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 27 MAY
-OL,4,G2000FLove Your Garden
-OL,5,     GEnfield: Alan and the team are in
-OL,6,     GHertfordshire to come to the aid
-OL,7,     Gof Yvonne, who has devoted her
-OL,8,     Glife to fighting knife crime
-OL,9,     Gsince her son was tragically
-OL,10,     Gmurdered at the age of 17.
-OL,11,G2100FEllie Simmonds: Should I Have
-OL,12,     FChildren?
-OL,13,     GEllie Simmonds sets out to
-OL,14,     Gdiscover if attitudes have
-OL,15,     Gchanged 30 years since her birth
-OL,16,     Gand if fear around disability had
-OL,17,     Ga role in her being put up for
-OL,18,     Gadoption.
-OL,19,G2200FITV News at Ten
-OL,20,G2230FRegional News
+OL,4,G2100FEllie Simmonds: Should I Have
+OL,5,     FChildren?
+OL,6,     GEllie Simmonds sets out to
+OL,7,     Gdiscover if attitudes have
+OL,8,     Gchanged 30 years since her birth
+OL,9,     Gand if fear around disability had
+OL,10,     Ga role in her being put up for
+OL,11,     Gadoption.
+OL,12,G2200FITV News at Ten
+OL,13,G2230FRegional News
+OL,14,G2245FJaws: The Revenge
+OL,15,     GThriller film sequel starring
+OL,16,     GLorraine Gary and Michael Caine,
+OL,17,     G1987. Chief Brody's widow
+OL,18,     Gbelieves that her family is being
+OL,19,     Gtargeted by another shark that is
+OL,20,     Gin search of revenge.
+OL,21,G0020FShop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -464,25 +462,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 27 MAY
-OL,4,G2000FBake Off: The Professionals
-OL,5,     GThe search for the best
-OL,6,     Gpatisserie team returns. A new
-OL,7,     Gbatch take on judge Cherish's
-OL,8,     GApple Tin, without a recipe to
-OL,9,     Ghand, and create showpieces with
-OL,10,     Ga hidden Victoria sandwich.
-OL,11,G2100F24 Hours in A&E
-OL,12,     GA man arrives at A&E with two of
-OL,13,     Ghis severed fingers in a bag of
-OL,14,     Gfrozen peas after having a wood-
-OL,15,     Gchopping accident. And pro-bike-
-OL,16,     Grider Max has hit his head in a
-OL,17,     Ghigh-speed crash.
+OL,4,G2100F24 Hours in A&E
+OL,5,     GA man arrives at A&E with two of
+OL,6,     Ghis severed fingers in a bag of
+OL,7,     Gfrozen peas after having a wood-
+OL,8,     Gchopping accident. And pro-bike-
+OL,9,     Grider Max has hit his head in a
+OL,10,     Ghigh-speed crash.
+OL,11,G2200FVirgin Island
+OL,12,     GIt's the last days on the island.
+OL,13,     GWho'll make the most of it and
+OL,14,     Gfind the answers they've been
+OL,15,     Gseeking? Charlotte tries out as a
+OL,16,     Gdominatrix. Can Ben get over his
+OL,17,     Gphobia of nudity?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -490,29 +488,29 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 27 MAY
-OL,4,G2000FReuben Owen: Life in The Dales
-OL,5,     GReuben takes on Miles as an
-OL,6,     Gapprentice. And although Reuben
-OL,7,     Ghas never been on a plane before,
-OL,8,     GTommy helps his friend face his
-OL,9,     Gfear of heights - with an
-OL,10,     Ginvitation to skydive.
-OL,11,G2100FFaking It
-OL,12,     GFish and chip shop owner Rani
-OL,13,     Gswaps battered cod for raw fish
-OL,14,     Gas she tries to become a high-end
-OL,15,     Gsushi-chef in just four weeks.
-OL,16,G2215FBen Fogle: New Lives in the Wild
-OL,17,     GBen spends time with DNA, a
-OL,18,     Ghomeless artist who's built a
-OL,19,     Ghome from scrap on a desert hill
-OL,20,     Gin Slab City, California - an
-OL,21,     Galternative lifestyle community.
+OL,4,G2100FFaking It
+OL,5,     GFish and chip shop owner Rani
+OL,6,     Gswaps battered cod for raw fish
+OL,7,     Gas she tries to become a high-end
+OL,8,     Gsushi-chef in just four weeks.
+OL,9,G2215FBen Fogle: New Lives in the Wild
+OL,10,     GBen spends time with DNA, a
+OL,11,     Ghomeless artist who's built a
+OL,12,     Ghome from scrap on a desert hill
+OL,13,     Gin Slab City, California - an
+OL,14,     Galternative lifestyle community.
+OL,15,G2315FInside the Force
+OL,16,     GOfficers at Middlesbrough station
+OL,17,     Gdeal with the realities of drug
+OL,18,     Gabuse in a town with one of the
+OL,19,     Ghighest drug related deaths in
+OL,20,     GEurope, including the suspicious
+OL,21,     Gdeath of a woman.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -520,7 +518,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1748374695
+OL,0,        ECIMSBWebfax     F498A1748378305
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
