@@ -1,11 +1,11 @@
 PN,23601
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748493863
+OL,0,        ECIMSBWebfax     F236A1748497475
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/10
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 29 MAY
+OL,3,CProgramme listings for FRI 30 MAY
 OL,4,G0600FBreakfast
 OL,5,     GThe latest news, sport, business
 OL,6,     Gand weather from the BBC's
@@ -30,11 +30,11 @@ FL,237,200,140,260,000,100
 PN,23602
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748493863
+OL,0,        ECIMSBWebfax     F236A1748497475
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/10
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 29 MAY
+OL,3,CProgramme listings for FRI 30 MAY
 OL,4,G1145FBBC News
 OL,5,     GThe latest news from the BBC.
 OL,6,G1200FBBC News Now
@@ -58,11 +58,11 @@ FL,237,200,140,260,000,100
 PN,23603
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748493863
+OL,0,        ECIMSBWebfax     F236A1748497475
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/10
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 29 MAY
+OL,3,CProgramme listings for FRI 30 MAY
 OL,4,G1430FBusiness Today - NYSE Opening Bell
 OL,5,     GBringing the latest business news
 OL,6,     Gand up-to-date informed analysis
@@ -86,186 +86,192 @@ FL,237,200,140,260,000,100
 PN,23604
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748493863
+OL,0,        ECIMSBWebfax     F236A1748497475
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/10
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 29 MAY
+OL,3,CProgramme listings for FRI 30 MAY
 OL,4,G1600FVerified Live
 OL,5,     GMatthew Amroliwala presents all
 OL,6,     Gthe latest global and UK news,
 OL,7,     Glive from London.
-OL,8,G1630FBusiness Today
-OL,9,     GBringing the latest business news
-OL,10,     Gand up-to-date informed analysis
-OL,11,     Gfrom London and around the world.
-OL,12,G1645FVerified Live
+OL,8,G1630FVerified Live
+OL,9,     GMatthew Amroliwala presents all
+OL,10,     Gthe latest global and UK news,
+OL,11,     Glive from London.
+OL,12,G1700FVerified Live
 OL,13,     GMatthew Amroliwala presents all
 OL,14,     Gthe latest global and UK news,
 OL,15,     Glive from London.
-OL,16,G1700FVerified Live
-OL,17,     GMatthew Amroliwala presents all
-OL,18,     Gthe latest global and UK news,
-OL,19,     Glive from London.
-OL,20,G1730FBBC News
-OL,21,     GThe latest news from the BBC.
+OL,16,G1730FBBC News
+OL,17,     GThe latest news from the BBC.
+OL,18,G1800FBBC News at Six
+OL,19,     GThe latest national and
+OL,20,     Ginternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
 PN,23605
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748493863
+OL,0,        ECIMSBWebfax     F236A1748497475
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/10
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 29 MAY
-OL,4,G1800FBBC News at Six
-OL,5,     GThe latest national and
-OL,6,     Ginternational news, with reports
-OL,7,     Gfrom BBC correspondents worldwide.
-OL,8,G1830FSportsday
-OL,9,     GA round-up of the day's sporting
-OL,10,     Gaction, plus talking points,
-OL,11,     Ganalysis and original journalism.
-OL,12,G1900FThe World Today with Maryam
+OL,3,CProgramme listings for FRI 30 MAY
+OL,4,G1830FSportsday
+OL,5,     GA round-up of the day's sporting
+OL,6,     Gaction, plus talking points,
+OL,7,     Ganalysis and original journalism.
+OL,8,G1900FThe World Today with Maryam
+OL,9,     FMoshiri
+OL,10,     GWatch the best of the BBC's
+OL,11,     Gjournalism from around the world.
+OL,12,G1930FThe World Today with Maryam
 OL,13,     FMoshiri
 OL,14,     GWatch the best of the BBC's
 OL,15,     Gjournalism from around the world.
-OL,16,G1930FThe World Today with Maryam
-OL,17,     FMoshiri
-OL,18,     GWatch the best of the BBC's
-OL,19,     Gjournalism from around the world.
+OL,16,G2000FThe Context
+OL,17,     GA regular panel of guests from
+OL,18,     Gacross the political spectrum
+OL,19,     Gdiscuss the biggest international
+OL,20,     Gstories of the day.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
 PN,23606
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748493863
+OL,0,        ECIMSBWebfax     F236A1748497475
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G6/10
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 29 MAY
-OL,4,G2000FThe Context
+OL,3,CProgramme listings for FRI 30 MAY
+OL,4,G2030FThe Context
 OL,5,     GA regular panel of guests from
 OL,6,     Gacross the political spectrum
 OL,7,     Gdiscuss the biggest international
 OL,8,     Gstories of the day.
-OL,9,G2030FThe Context
-OL,10,     GA regular panel of guests from
-OL,11,     Gacross the political spectrum
-OL,12,     Gdiscuss the biggest international
-OL,13,     Gstories of the day.
-OL,14,G2100FQuestion Time
-OL,15,     GFiona Bruce hosts a live debate
-OL,16,     Gfrom Cheltenham in
-OL,17,     GGloucestershire. On the panel
-OL,18,     Gare: Heidi Alexander MP, David
-OL,19,     GSimmonds MP, Jess Brown-Fuller
-OL,20,     GMP, Ava Evans and Tim Montgomerie.
+OL,9,G2100FThe Context
+OL,10,     GSpecial coverage from Washington
+OL,11,     GDC and London, focusing on
+OL,12,     GPresident Trump's second term.
+OL,13,G2130FThe Context
+OL,14,     GSpecial coverage from Washington
+OL,15,     GDC and London, focusing on
+OL,16,     GPresident Trump's second term.
+OL,17,G2200FBBC News at Ten
+OL,18,     GThe latest national and
+OL,19,     Ginternational news, with reports
+OL,20,     Gfrom BBC correspondents worldwide.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
 PN,23607
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748493863
+OL,0,        ECIMSBWebfax     F236A1748497475
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G7/10
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 29 MAY
-OL,4,G2200FBBC News at Ten
-OL,5,     GThe latest national and
-OL,6,     Ginternational news, with reports
-OL,7,     Gfrom BBC correspondents worldwide.
-OL,8,G2230FNewsnight
-OL,9,     GInsights and global interviews on
-OL,10,     Gthe news stories of the day. With
-OL,11,     GPaddy O'Connell.
-OL,12,G2300FBBC World News America
-OL,13,     GIn-depth reports on the major
-OL,14,     Ginternational and US news of the
-OL,15,     Gday presented from Washington DC.
+OL,3,CProgramme listings for FRI 30 MAY
+OL,4,G2230FNewsnight
+OL,5,     GInsights and global interviews on
+OL,6,     Gthe news stories of the day. With
+OL,7,     GMatt Chorley.
+OL,8,G2300FBBC World News America
+OL,9,     GIn-depth reports on the major
+OL,10,     Ginternational and US news of the
+OL,11,     Gday presented from Washington DC.
+OL,12,G2330FThe President's Path
+OL,13,     GJoin Caitriona Perry and Sumi
+OL,14,     GSomaskanda for a dynamic weekly
+OL,15,     Gdiscussion on the US presidency.
 OL,16,G0000FBBC News
 OL,17,     GThe latest news from the BBC.
-OL,18,G0030FNewscast
-OL,19,     GLighthearted discussion of the
-OL,20,     Gday's news.
-OL,21,G0100FBBC News
-OL,22,     GThe latest news from the BBC.
+OL,18,G0030FTalking Business
+OL,19,     GExamining the business stories
+OL,20,     Gand economic trends that are re-
+OL,21,     Gshaping our world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
+OL,26,@uD@Prt
 PN,23608
 SC,0008
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748493863
+OL,0,        ECIMSBWebfax     F236A1748497475
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G8/10
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 29 MAY
-OL,4,G0130FThe Media Show
-OL,5,     GHow a social media post led to
-OL,6,     GGary Lineker's departure.
-OL,7,G0200FNewsday
-OL,8,     GLive from Singapore, the latest
-OL,9,     Ginternational news from the BBC.
-OL,10,G0230FTech Now
-OL,11,     GLara Lewington explores a
-OL,12,     Gcontroversial new form of genetic
-OL,13,     Gtesting which claims to predict
-OL,14,     Ghow likely an unborn child is to
-OL,15,     Gdevelop diseases.
-OL,16,G0300FNewsday
-OL,17,     GLive from Singapore, the latest
-OL,18,     Ginternational news from the BBC.
+OL,3,CProgramme listings for FRI 30 MAY
+OL,4,G0100FBBC News
+OL,5,     GThe latest news from the BBC.
+OL,6,G0130FTech Now
+OL,7,     GAdrienne Murray heads behind the
+OL,8,     Gscenes at the European Spallation
+OL,9,     GSource in Sweden, created to
+OL,10,     Gproduce the world's most powerful
+OL,11,     Gsource of neutrons.
+OL,12,G0200FBBC News
+OL,13,     GThe latest news from the BBC.
+OL,14,G0230FIran: Murder for Hire
+OL,15,     GEye Investigations examines
+OL,16,     Gevidence of targeted abductions
+OL,17,     Gand assassinations by the Iranian
+OL,18,     Gregime abroad, and the links to
+OL,19,     Gone man - Iranian organised crime
+OL,20,     Gboss Naji Sharfi Zindashti.
+OL,21,G0300FBBC News
+OL,22,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
 PN,23609
 SC,0009
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748493863
+OL,0,        ECIMSBWebfax     F236A1748497475
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G9/10
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 29 MAY
-OL,4,G0330FTalking Business
-OL,5,     GLukwesa Burak asks global
-OL,6,     Gbusiness leaders about the
-OL,7,     Gstrategies being used to cope
-OL,8,     Gwith ongoing uncertainty from the
-OL,9,     Gon-again off-again tariff
-OL,10,     Gnegotiations between the US and
-OL,11,     Gits trading partners.
-OL,12,G0400FNewsday
-OL,13,     GLive from Singapore, the latest
-OL,14,     Ginternational news from the BBC.
-OL,15,G0430FInside the High Street Cyber-
-OL,16,     FAttacks
-OL,17,     GWho hacked M&S and Co-op? We go
-OL,18,     Ginside the cyber-attacks that
-OL,19,     Gshook the British high street and
-OL,20,     Gask how flaws in digital defences
-OL,21,     Gwere exposed.
+OL,3,CProgramme listings for FRI 30 MAY
+OL,4,G0330FScams & Scandals
+OL,5,     GThe inside story of a council in
+OL,6,     Gnorth east England was held to
+OL,7,     Gransom by a dangerous gang of
+OL,8,     Gcyber criminals. Geoff White
+OL,9,     Ginvestigates the threats to our
+OL,10,     Gpublic services from Russian
+OL,11,     Ghackers.
+OL,12,G0400FBBC News
+OL,13,     GThe latest news from the BBC.
+OL,14,G0430FThe Media Show
+OL,15,     GA global, topical weekly show
+OL,16,     Gthat lifts the hood on the
+OL,17,     Gentertainment and news business.
+OL,18,     GThe Media Show explores the
+OL,19,     Gcompanies and personalities who
+OL,20,     Gcommand our attention.
+OL,21,G0500FBBC News
+OL,22,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
 PN,23610
 SC,0010
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748493863
+OL,0,        ECIMSBWebfax     F236A1748497475
 OL,1,W{${$~+$ ~k4~sj5j5~s1          G10/10
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 29 MAY
-OL,4,G0500FBBC News
-OL,5,     GThe latest news from the BBC.
-OL,6,G0530FBusiness Today
-OL,7,     GBringing the latest business news
-OL,8,     Gand up-to-date informed analysis
-OL,9,     Gfrom London and around the world.
+OL,3,CProgramme listings for FRI 30 MAY
+OL,4,G0530FThe Travel Show
+OL,5,     GEmeline Nsingi Nkosi celebrates
+OL,6,     G125 years of the iconic Paris
+OL,7,     GMetro - going behind the scenes
+OL,8,     Gto meet the people who keep the
+OL,9,     Gnetwork running and finding out
+OL,10,     Gabout a huge building project.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
