@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c010
-OL,0,        ECIMSBWebfax     F1fcA1748598590
+OL,0,        ECIMSBWebfax     F1fcA1748602253
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1748598590;
-OL,10,GService: Webfax - 21773 cf34318227e
-OL,11,FLast Update: 30/05/2025 10:49:50  G1/2
+OL,25,1748602253;
+OL,10,GService: Webfax - 21774 06288e7218a
+OL,11,FLast Update: 30/05/2025 11:50:53  G1/2
 OL,13,Abbc_news_papers            G28/05-23:42
 OL,14,CitvSport/border            G28/05-23:42
 OL,15,CitvSport/calendar          G28/05-23:42
 OL,16,CitvSport/central           G28/05-23:42
 OL,17,CitvSport/channel           G29/05-06:44
-OL,18,CitvSport/meridian          G28/05-23:42
-OL,19,CitvSport/tyne-tees         G28/05-23:42
-OL,20,CitvSport/utv               G28/05-23:42
-OL,21,CitvSport/wales             G28/05-23:42
-OL,22,CitvSport/westcountry       G28/05-23:42
-OL,23,Ctvroom/cleanfeed           G28/05-23:42
+OL,18,CitvSport/london            G29/05-10:45
+OL,19,CitvSport/meridian          G28/05-23:42
+OL,20,CitvSport/tyne-tees         G28/05-23:42
+OL,21,CitvSport/utv               G28/05-23:42
+OL,22,CitvSport/wales             G28/05-23:42
+OL,23,CitvSport/westcountry       G28/05-23:42
 PN,1fc02
 SC,0002
 PS,c010
-OL,0,        ECIMSBWebfax     F1fcA1748598590
+OL,0,        ECIMSBWebfax     F1fcA1748602253
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,6 +42,8 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1748598590;
-OL,10,GService: Webfax - 21773 cf34318227e
-OL,11,FLast Update: 30/05/2025 10:49:50  G2/2
+OL,25,1748602253;
+OL,10,GService: Webfax - 21774 06288e7218a
+OL,11,FLast Update: 30/05/2025 11:50:53  G2/2
+OL,13,Ctvroom/cleanfeed           G28/05-23:42
+OL,14,AZXIndustries/epg.json      G30/05-11:50
