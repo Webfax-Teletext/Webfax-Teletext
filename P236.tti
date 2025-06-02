@@ -1,8 +1,8 @@
 PN,23601
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748840609
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/7
+OL,0,        ECIMSBWebfax     F236A1748855075
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 JUN
@@ -30,8 +30,8 @@ FL,237,200,140,260,000,100
 PN,23602
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748840609
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/7
+OL,0,        ECIMSBWebfax     F236A1748855075
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 JUN
@@ -58,8 +58,8 @@ FL,237,200,140,260,000,100
 PN,23603
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748840609
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/7
+OL,0,        ECIMSBWebfax     F236A1748855075
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 JUN
@@ -88,8 +88,8 @@ FL,237,200,140,260,000,100
 PN,23604
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748840609
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/7
+OL,0,        ECIMSBWebfax     F236A1748855075
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 JUN
@@ -116,8 +116,8 @@ FL,237,200,140,260,000,100
 PN,23605
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748840609
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/7
+OL,0,        ECIMSBWebfax     F236A1748855075
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 JUN
@@ -145,8 +145,8 @@ FL,237,200,140,260,000,100
 PN,23606
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748840609
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G6/7
+OL,0,        ECIMSBWebfax     F236A1748855075
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G6/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 JUN
@@ -172,8 +172,8 @@ FL,237,200,140,260,000,100
 PN,23607
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1748840609
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G7/7
+OL,0,        ECIMSBWebfax     F236A1748855075
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G7/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 3 JUN
@@ -183,6 +183,65 @@ OL,6,     Ginternational and US news of the
 OL,7,     Gday presented from Washington DC.
 OL,8,G0000FBBC News
 OL,9,     GThe latest news from the BBC.
+OL,10,G0030FNewscast
+OL,11,     GLighthearted discussion of the
+OL,12,     Gday's news.
+OL,13,G0100FBBC News
+OL,14,     GThe latest news from the BBC.
+OL,15,G0130FTech Now
+OL,16,     GAdrienne Murray explores the
+OL,17,     GEuropean Spallation Source, a
+OL,18,     Gleading neutron production
+OL,19,     Gfacility.
+OL,20,G0200FNewsday
+OL,21,     GLive from Singapore, the latest
+OL,22,     Ginternational news from the BBC.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,237,200,140,260,000,100
+PN,23608
+SC,0008
+PS,c000
+OL,0,        ECIMSBWebfax     F236A1748855075
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G8/9
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,3,CProgramme listings for TUE 3 JUN
+OL,4,G0230FTalking Business
+OL,5,     GTrump family's crypto ties may
+OL,6,     Gbring more harm than good as US
+OL,7,     Gembraces cryptocurrencies.
+OL,8,G0300FNewsday
+OL,9,     GLive from Singapore, the latest
+OL,10,     Ginternational news from the BBC.
+OL,11,G0330FThe Media Show
+OL,12,     GJoe Kahn on journalism's role
+OL,13,     Gwith Trump; Simon Reeve and Alfie
+OL,14,     GWatts on travel storytelling.
+OL,15,G0400FNewsday
+OL,16,     GLive from Singapore, the latest
+OL,17,     Ginternational news from the BBC.
+OL,18,G0430FCyber Siege: From Russia to Redcar
+OL,19,     GGeoff White explores a council in
+OL,20,     Gnortheast England targeted by
+OL,21,     GRussian cyber criminals.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,237,200,140,260,000,100
+PN,23609
+SC,0009
+PS,c000
+OL,0,        ECIMSBWebfax     F236A1748855075
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G9/9
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,3,CProgramme listings for TUE 3 JUN
+OL,4,G0500FBBC News
+OL,5,     GThe latest news from the BBC.
+OL,6,G0530FBusiness Today
+OL,7,     GBringing the latest business news
+OL,8,     Gand up-to-date informed analysis
+OL,9,     Gfrom London and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
