@@ -1,8 +1,8 @@
 PN,23601
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1749129217
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/10
+OL,0,        ECIMSBWebfax     F236A1749179755
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 6 JUN
@@ -30,8 +30,8 @@ FL,237,200,140,260,000,100
 PN,23602
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1749129217
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/10
+OL,0,        ECIMSBWebfax     F236A1749179755
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 6 JUN
@@ -58,8 +58,8 @@ FL,237,200,140,260,000,100
 PN,23603
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1749129217
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/10
+OL,0,        ECIMSBWebfax     F236A1749179755
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 6 JUN
@@ -88,8 +88,8 @@ FL,237,200,140,260,000,100
 PN,23604
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1749129217
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/10
+OL,0,        ECIMSBWebfax     F236A1749179755
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 6 JUN
@@ -116,8 +116,8 @@ FL,237,200,140,260,000,100
 PN,23605
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1749129217
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/10
+OL,0,        ECIMSBWebfax     F236A1749179755
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 6 JUN
@@ -145,8 +145,8 @@ FL,237,200,140,260,000,100
 PN,23606
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1749129217
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G6/10
+OL,0,        ECIMSBWebfax     F236A1749179755
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G6/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 6 JUN
@@ -172,8 +172,8 @@ FL,237,200,140,260,000,100
 PN,23607
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1749129217
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G7/10
+OL,0,        ECIMSBWebfax     F236A1749179755
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G7/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 6 JUN
@@ -184,13 +184,18 @@ OL,7,     Gdiscussion on the US presidency.
 OL,8,G0000FBBC News
 OL,9,     GThe latest news from the BBC.
 OL,10,G0030FTalking Business
-OL,11,     GBen Thompson asks if a company
-OL,12,     Gshould ever pay a ransom to
-OL,13,     Ghackers who attack their online
-OL,14,     Gsystems, or if such payments
-OL,15,     Gshould be made illegal.
-OL,16,G0100FBBC News
-OL,17,     GThe latest news from the BBC.
+OL,11,     GBen Thompson questions if
+OL,12,     Gcompanies should pay hackers or
+OL,13,     Gif ransom payments should be
+OL,14,     Gbanned.
+OL,15,G0100FBBC News
+OL,16,     GThe latest news from the BBC.
+OL,17,G0130FTech Now
+OL,18,     GIone Wells explores Chile's Rubin
+OL,19,     GObservatory, while Paul Carter
+OL,20,     Gtests a new Amazon robot.
+OL,21,G0200FBBC News
+OL,22,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
@@ -198,75 +203,47 @@ OL,26,@mD@Prt
 PN,23608
 SC,0008
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1749129217
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G8/10
+OL,0,        ECIMSBWebfax     F236A1749179755
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G8/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 6 JUN
-OL,4,G0130FTech Now
-OL,5,     GIone Wells has behind-the-scenes
-OL,6,     Gaccess to the Rubin Observatory
-OL,7,     Gin Chile's Atacama Desert, while
-OL,8,     GPaul Carter visits an Amazon
-OL,9,     Gwarehouse introducing a new robot
-OL,10,     Gwith a sense of touch.
-OL,11,G0200FBBC News
-OL,12,     GThe latest news from the BBC.
-OL,13,G0230FChina's Greatest Treasures: The
-OL,14,     FYellow River
-OL,15,     GAlastair explores the Yellow
-OL,16,     GRiver, to understand how this
-OL,17,     Gunique natural phenomenon is
-OL,18,     Gdeeply connected with the
-OL,19,     Gidentity of the Chinese and the
-OL,20,     Groots of their culture.
-OL,21,G0300FBBC News
-OL,22,     GThe latest news from the BBC.
+OL,4,G0230FChina's Greatest Treasures: The
+OL,5,     FYellow River
+OL,6,     GAlastair explores the Yellow
+OL,7,     GRiver to uncover its deep
+OL,8,     Gcultural and Chinese identity
+OL,9,     Gties.
+OL,10,G0300FBBC News
+OL,11,     GThe latest news from the BBC.
+OL,12,G0330FThe Interview
+OL,13,     GCynthia Erivo opens up about her
+OL,14,     Gnew album, childhood struggles,
+OL,15,     Gand post-Wicked success.
+OL,16,G0400FBBC News
+OL,17,     GThe latest news from the BBC.
+OL,18,G0430FThe Media Show
+OL,19,     GA global weekly show examining
+OL,20,     Gthe entertainment and news
+OL,21,     Gindustries' key players and
+OL,22,     Gtrends.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
 PN,23609
 SC,0009
 PS,c000
-OL,0,        ECIMSBWebfax     F236A1749129217
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G9/10
+OL,0,        ECIMSBWebfax     F236A1749179755
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G9/9
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 6 JUN
-OL,4,G0330FThe Interview
-OL,5,     GFresh off the success of the
-OL,6,     GOscar-nominated Wicked, Cynthia
-OL,7,     GErivo talks about getting back in
-OL,8,     Gthe studio for her new album,
-OL,9,     Ggrowing up feeling different and
-OL,10,     Ghow she finally feels able to
-OL,11,     Gopen up.
-OL,12,G0400FBBC News
-OL,13,     GThe latest news from the BBC.
-OL,14,G0430FThe Media Show
-OL,15,     GA global weekly show examining
-OL,16,     Gthe entertainment and news
-OL,17,     Gindustries' key players and
-OL,18,     Gtrends.
-OL,19,G0500FBBC News
-OL,20,     GThe latest news from the BBC.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,237,200,140,260,000,100
-PN,23610
-SC,0010
-PS,c000
-OL,0,        ECIMSBWebfax     F236A1749129217
-OL,1,W{${$~+$ ~k4~sj5j5~s1          G10/10
-OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for
-OL,3,CProgramme listings for FRI 6 JUN
-OL,4,G0530FThe Travel Show
-OL,5,     GThe Travel Show heads to
-OL,6,     GBradford, the current UK City of
-OL,7,     GCulture, as it plans to host over
-OL,8,     Ga thousand arts and culture
-OL,9,     Gevents throughout 2025.
+OL,4,G0500FBBC News
+OL,5,     GThe latest news from the BBC.
+OL,6,G0530FThe Travel Show
+OL,7,     GThe Travel Show visits Bradford,
+OL,8,     GUK City of Culture, hosting
+OL,9,     G1,000+ arts events in 2025.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
