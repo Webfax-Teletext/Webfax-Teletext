@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/15
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/15
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W{$~k4{$k4~sjw=        G     R`pG3/15
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G4/15
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G5/15
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -122,7 +122,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}0G6/15
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -147,7 +147,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   Rx|G7/15
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -172,7 +172,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,Wj5hw}j5 ~shws        G    R*dx|0G8/15
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -198,7 +198,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W|4|h4|||h||4|||h||4|4|            G9/15
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -223,12 +223,28 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W{${$~+$ ~k4~k4~s               G10/15
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 7 JUN
-OL,4,G0225FBBC News
+OL,3,CProgramme listings for SUN 8 JUN
+OL,4,G0600FBreakfast
+OL,5,     GThe latest news, sport, business
+OL,6,     Gand weather from the BBC's
+OL,7,     GBreakfast team.
+OL,8,G0900FSunday with Laura Kuenssberg
+OL,9,     GLaura Kuenssberg talks to Peter
+OL,10,     GKyle, Chris Philp, Richard Tice
+OL,11,     Gand Arnold Schwarzenegger.
+OL,12,G1000FRegional Political Programmes
+OL,13,G1030FA Celebration for Pentecost
+OL,14,     GA lively Pentecost celebration
+OL,15,     Gwith songs and stories, led by
+OL,16,     GTim Hughes at Gas Street Church.
+OL,17,G1130FHomes Under the Hammer
+OL,18,     GTommy enjoys stunning London
+OL,19,     Gviews and lucky adventures on
+OL,20,     GNorfolk's beautiful coast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -236,12 +252,28 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W{${$~+$ k7j5j5~k4             G11/15
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 7 JUN
-OL,4,G0355FThis is BBC Two
+OL,3,CProgramme listings for SUN 8 JUN
+OL,4,G0620FThe A to Z of TV Gardening
+OL,5,     GCarol Kirkwood explores BBC
+OL,6,     Ggardening shows and topics
+OL,7,     Gstarting with the letter J.
+OL,8,G0705FCountryfile
+OL,9,     GThe BBC marks the UK's City of
+OL,10,     GCulture, highlighting Bradford's
+OL,11,     Gcountryside and creative legacy.
+OL,12,G0800FBeechgrove Garden
+OL,13,     GIn June, Beechgrove blooms with
+OL,14,     Gcolour, scent, and productivity
+OL,15,     Gin the herb garden.
+OL,16,G0830FWeatherman Walking: The Welsh
+OL,17,     FCoast
+OL,18,     GWeatherman Derek Brockway walks
+OL,19,     Gfrom Ynyslas to Aberystwyth,
+OL,20,     GCardigan Bay.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -249,15 +281,30 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W"!j5 n5                       G12/15
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 7 JUN
-OL,4,G0500FGary Barlow's Food and Wine Tour
-OL,5,     GGary meets Andi Peters in South
-OL,6,     GAustralia to try barrel-making
-OL,7,     Gand meet the Willy Wonka of Wine.
+OL,3,CProgramme listings for SUN 8 JUN
+OL,4,G0600FIn for a Penny
+OL,5,     GStephen Mulhern returns with Roll
+OL,6,     GIt, Left Hanging, and Whatever
+OL,7,     GThe Weather games.
+OL,8,G0630FJames Martin's Saturday Morning
+OL,9,     GJames eagerly awaits Soccer Aid
+OL,10,     G2025 with Harry, cooking
+OL,11,     Galongside Carly, Sally, and
+OL,12,     GDaniel.
+OL,13,G0825FKatie Piper's Weekend Escape
+OL,14,     GKatie and Joe Wicks try South
+OL,15,     GAfrican dancing while Aldo Zilli
+OL,16,     Gserves brunch.
+OL,17,G0925FITV News
+OL,18,G0930FLove Your Weekend with Alan
+OL,19,     FTitchmarsh
+OL,20,     GJoining Alan are actress Barbara
+OL,21,     GFlynn and Teddy Bear Ladies Julie
+OL,22,     GTatchell and Amanda Middleditch.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -265,15 +312,29 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G13/15
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 7 JUN
-OL,4,G0510FLocation, Location, Location
-OL,5,     GKirstie and Phil search Surrey,
-OL,6,     GBerkshire, and Hampshire for
-OL,7,     Gdream homes amid challenges.
+OL,3,CProgramme listings for SUN 8 JUN
+OL,4,G0605FCheers
+OL,5,G0635FCheers
+OL,6,G0700FCheers
+OL,7,G0730FCheers
+OL,8,G0800FFrasier
+OL,9,G0825FFrasier
+OL,10,G0855FBake Off: The Professionals
+OL,11,     GTeams create 24 Le Petit Antoine,
+OL,12,     G24 fruit tarts, and a serene
+OL,13,     GJapanese garden showpiece.
+OL,14,G1000FLive: Sunday Brunch
+OL,15,     GAstronaut Tim Peake and Ben
+OL,16,     GMcKenzie chat, plus music from
+OL,17,     GYungblud and Professor Green.
+OL,18,G1300FThe Simpsons
+OL,19,G1330FThe Simpsons
+OL,20,G1400FThe Simpsons
+OL,21,G1430FThe Simpsons
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -281,18 +342,30 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,Wos!                              G14/15
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 7 JUN
-OL,4,G0440FThe Wonderful World of Chocolate
-OL,5,     GThis edition includes a look at
-OL,6,     Gthe family favourite, Quality
-OL,7,     GStreet.
-OL,8,G0530FEntertainment News on 5
-OL,9,G0540FPAW Patrol
-OL,10,G0550FPip and Posy
+OL,3,CProgramme listings for SUN 8 JUN
+OL,4,G0620FPeppa Pig
+OL,5,G0625FBen and Holly's Little Kingdom
+OL,6,G0635FFireman Sam
+OL,7,G0645FThomas & Friends: Big World!...
+OL,8,G0655FPAW Patrol
+OL,9,G0705FTreehouse
+OL,10,     GSquiggle's wilted flowers lead to
+OL,11,     Ga sneezy visit with Scratch and
+OL,12,     GBadger.
+OL,13,G0715FMilkshake! World Oceans Day
+OL,14,     GOlivia learns how we can protect
+OL,15,     Goceans for World Ocean Day on
+OL,16,     GMilkshake!
+OL,17,G0720FPeppa Pig
+OL,18,G0725FPip and Posy
+OL,19,G0740FThe Adventures of Paddington
+OL,20,G0755FDORA
+OL,21,G0810FPAW Patrol
+OL,22,G0830FCooking with The Gills
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -300,19 +373,27 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749356597
+OL,0,        ECIMSBWebfax     F498A1749360208
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G15/15
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
-OL,3,CProgramme listings for SAT 7 JUN
-OL,4,G0520FLook At Life Saturday Special
-OL,5,     G1969. An enchanting glimpse of
-OL,6,     Gthe work of the Children's Film
-OL,7,     GFoundation.
-OL,8,G0530FOut of Town
-OL,9,     GJack Hargreaves repairs his cart
-OL,10,     Gbefore fishing for grayling at
-OL,11,     Gthe River Kennet in 1981.
+OL,3,CProgramme listings for SUN 8 JUN
+OL,4,G0600FClimb Up the Wall
+OL,5,     G1960 musical directed by Michael
+OL,6,     GWinner, featuring George Browne,
+OL,7,     GRuss Conway, Frances Day.
+OL,8,G0715FFire Maidens From Outerspace
+OL,9,     GIn 1956, spacemen land on
+OL,10,     GJupiter's 13th moon and meet man-
+OL,11,     Ghungry space girls.
+OL,12,G0845FJack the Giant Killer
+OL,13,     GIn 1962, "Fantasy" features
+OL,14,     GPendragon's sinister quest for
+OL,15,     Gthe Cornwall throne.
+OL,16,G1035FThe Beverly Hillbillies
+OL,17,     GGranny and Cousin Pearl fight
+OL,18,     Gover cooking, so Jed steps in to
+OL,19,     Gsettle the dilemma.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
