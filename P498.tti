@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,W{$~k4{$k4~sjw=        G     R`pG3/14
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -72,7 +72,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G4/14
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -97,7 +97,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}0G5/14
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -122,7 +122,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   Rx|G6/14
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -147,7 +147,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,Wj5hw}j5 ~shws        G    R*dx|0G7/14
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -173,7 +173,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,W|4|h4|||h||4|||h||4|4|            G8/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -198,29 +198,27 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,W{${$~+$ ~k4~k4~s                G9/14
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G1545FGarden Rescue
-OL,5,     GCharlie Dimmock revisits gardens,
-OL,6,     Gincluding one inspired by its
-OL,7,     Gowners' time in Turkey.
-OL,8,G1630FBridge of Lies
-OL,9,     GFriends Mo, Hannah, Rich, and
-OL,10,     GNathan cross the Bridge of Lies,
-OL,11,     Gstepping only on truths.
-OL,12,G1715FPointless
-OL,13,     GContestants score points by
-OL,14,     Gcoming up with the answers no-one
-OL,15,     Gelse could think of.
-OL,16,G1800FBBC News
-OL,17,G1830FRegional News
-OL,18,G1900FThe One Show
-OL,19,     GAlex Jones and Roman Kemp bring
-OL,20,     Gyou the stories that matter from
-OL,21,     Gacross the country.
+OL,4,G1715FPointless
+OL,5,     GContestants score points by
+OL,6,     Gcoming up with the answers no-one
+OL,7,     Gelse could think of.
+OL,8,G1800FBBC News
+OL,9,G1830FRegional News
+OL,10,G1900FThe One Show
+OL,11,     GAlex Jones and Roman Kemp bring
+OL,12,     Gyou the stories that matter from
+OL,13,     Gacross the country.
+OL,14,G1930FMOTD Live: Belgium v Wales
+OL,15,     GLive coverage from Brussels of
+OL,16,     Gthe 2026 World Cup qualifier
+OL,17,     Gbetween Belgium and Wales.
+OL,18,G2200FBBC News and Weather
+OL,19,G2230FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -228,29 +226,29 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,W{${$~+$ k7j5j5~k4             G10/14
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G1300FTennis: Queen's
-OL,5,     GLive coverage from Queen's where
-OL,6,     Gthe first women's event in over
-OL,7,     G50 years takes place.
-OL,8,G1645FInternational Football:
-OL,9,     FLiechtenstein v Scotland
-OL,10,     GAmy Irons presents live coverage
-OL,11,     Gof Scotland's international
-OL,12,     Gfriendly against Liechtenstein.
-OL,13,G1930FRichard Osman's House of Games
-OL,14,     GFormer players test their
-OL,15,     Gknowledge on this week's Richard
-OL,16,     GOsman's House of Games:
-OL,17,     GRedemption.
-OL,18,G2000FSpringwatch
-OL,19,     GIolo Williams lands in Mount
-OL,20,     GStewart, the final stop of his
-OL,21,     GNorthern Irish road trip.
+OL,4,G1645FInternational Football:
+OL,5,     FLiechtenstein v Scotland
+OL,6,     GAmy Irons presents live coverage
+OL,7,     Gof Scotland's international
+OL,8,     Gfriendly against Liechtenstein.
+OL,9,G1930FRichard Osman's House of Games
+OL,10,     GFormer players test their
+OL,11,     Gknowledge on this week's Richard
+OL,12,     GOsman's House of Games:
+OL,13,     GRedemption.
+OL,14,G2000FSpringwatch
+OL,15,     GIolo Williams lands in Mount
+OL,16,     GStewart, the final stop of his
+OL,17,     GNorthern Irish road trip.
+OL,18,G2100FJane Austen: Rise of a Genius
+OL,19,     GAusten dives into her most
+OL,20,     Gambitious work yet, Emma, to
+OL,21,     Gsecure her financial future.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -258,29 +256,30 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,W"!j5 n5                       G11/14
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G1600FTipping Point
-OL,5,     GBen Shephard hosts a quiz show
-OL,6,     Gwhere three players compete
-OL,7,     Gagainst a machine for cash.
-OL,8,G1700FThe Chase
-OL,9,     GKerry, Ellena, Alex, and Fraser
-OL,10,     Gface a Chaser standing between
-OL,11,     Gthem and thousands.
-OL,12,G1800FRegional News
-OL,13,G1830FITV Evening News
-OL,14,G1930FEmmerdale
-OL,15,     GJohn is questioned by the police,
-OL,16,     GTracy tries to defend herself,
-OL,17,     Gand Jacob learns Sarah's secret.
-OL,18,G2000FCoronation Street
-OL,19,     GBrody complains, Millie shocks
-OL,20,     GTodd, Lou pleads with Gary, and
-OL,21,     GToyah warns Ronnie.
+OL,4,G1700FThe Chase
+OL,5,     GKerry, Ellena, Alex, and Fraser
+OL,6,     Gface a Chaser standing between
+OL,7,     Gthem and thousands.
+OL,8,G1800FRegional News
+OL,9,G1830FITV Evening News
+OL,10,G1930FEmmerdale
+OL,11,     GJohn is questioned by the police,
+OL,12,     GTracy tries to defend herself,
+OL,13,     Gand Jacob learns Sarah's secret.
+OL,14,G2000FCoronation Street
+OL,15,     GBrody complains, Millie shocks
+OL,16,     GTodd, Lou pleads with Gary, and
+OL,17,     GToyah warns Ronnie.
+OL,18,G2100FShardlake
+OL,19,     GA brilliant lawyer investigates a
+OL,20,     Gmonastery murder in CJ Sansom's
+OL,21,     Ggripping whodunnit.
+OL,22,G2200FITV News at Ten
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -288,62 +287,61 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G12/14
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G1600FNarrow Escapes
-OL,5,     GPaul, Chris, and Emma explore
-OL,6,     Glife on our canals with their
-OL,7,     Gfloating pizzeria and epic
-OL,8,     Gjourney.
-OL,9,G1700FChateau DIY
-OL,10,     GAt Chateau de Cezerac, Jon and
-OL,11,     GCarmen spark hope while Julia's
-OL,12,     GMad Hatter party looms.
-OL,13,G1800FA New Life in the Sun: Where Are
-OL,14,     FThey Now?
-OL,15,     GEllie plans big in Almeria as
-OL,16,     GLauren and James face their
-OL,17,     Gbiggest wedding season in France.
-OL,18,G1900FChannel 4 News
-OL,19,G2000FDover 24/7: Britain's Busiest Port
-OL,20,     GA tugboat rescues a ferry amid a
-OL,21,     Gstorm while police spot
-OL,22,     Gsuspicious pigeons.
+OL,4,G1700FChateau DIY
+OL,5,     GAt Chateau de Cezerac, Jon and
+OL,6,     GCarmen spark hope while Julia's
+OL,7,     GMad Hatter party looms.
+OL,8,G1800FA New Life in the Sun: Where Are
+OL,9,     FThey Now?
+OL,10,     GEllie plans big in Almeria as
+OL,11,     GLauren and James face their
+OL,12,     Gbiggest wedding season in France.
+OL,13,G1900FChannel 4 News
+OL,14,G2000FDover 24/7: Britain's Busiest Port
+OL,15,     GA tugboat rescues a ferry amid a
+OL,16,     Gstorm while police spot
+OL,17,     Gsuspicious pigeons.
+OL,18,G2100FJamie's Dyslexia Revolution
+OL,19,     GJamie Oliver highlights the
+OL,20,     Gstruggles of dyslexic students in
+OL,21,     Gan outdated education system.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
-OL,26,@rD@KsprD@UrrrD@WrrwD@^rt
+OL,26,@mD@KspmD@UrrmD@WrrrD@^rt
 PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,Wos!                              G13/14
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G1600FBargain-Loving Brits in the Sun
-OL,5,     GMichelle's bar hosts its first
-OL,6,     GMexican theme night with food and
-OL,7,     Gentertainment.
-OL,8,G1700F5 News at 5
-OL,9,G1800FDogs Behaving (Very) Badly
-OL,10,     GMaster trainer Graeme Hall
-OL,11,     Gtransforms Rachel and George's
-OL,12,     Glife with Tequila and two hounds.
-OL,13,G1900FTraffic Cops
-OL,14,     GSouth Wales officers chase
-OL,15,     Gsuspects, including drug dealers
-OL,16,     Gand a couple caught outdoors.
-OL,17,G2000FMotorway Cops: Catching Britain's
-OL,18,     FSpeeders
-OL,19,     GPolice stop a drink driver, an
-OL,20,     Guninsured pizza delivery man, and
-OL,21,     Ga reckless driver seeking a
-OL,22,     Gselfie.
+OL,4,G1700F5 News at 5
+OL,5,G1800FDogs Behaving (Very) Badly
+OL,6,     GMaster trainer Graeme Hall
+OL,7,     Gtransforms Rachel and George's
+OL,8,     Glife with Tequila and two hounds.
+OL,9,G1900FTraffic Cops
+OL,10,     GSouth Wales officers chase
+OL,11,     Gsuspects, including drug dealers
+OL,12,     Gand a couple caught outdoors.
+OL,13,G2000FMotorway Cops: Catching Britain's
+OL,14,     FSpeeders
+OL,15,     GPolice stop a drink driver, an
+OL,16,     Guninsured pizza delivery man, and
+OL,17,     Ga reckless driver seeking a
+OL,18,     Gselfie.
+OL,19,G2100FFare Dodgers: At War with the Law
+OL,20,     GRevenue Protection officer Sam is
+OL,21,     Gverbally abused on a train to
+OL,22,     GFeltham by an unticketed man.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -351,28 +349,27 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749482914
+OL,0,        ECIMSBWebfax     F498A1749486519
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G14/14
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G1625FThe Beverly Hillbillies
-OL,5,     GLafe Crick returns to the
-OL,6,     GClampett mansion with a new
-OL,7,     Gscheme to get rich off Jed's
-OL,8,     Gmoney.
-OL,9,G1655FScotland Yard
-OL,10,     GA poisoned flask at London
-OL,11,     Gairport leads Scotland Yard to
-OL,12,     GLisbon in Destination Death.
-OL,13,G1730FDixon of Dock Green
-OL,14,     GPolice officers from a 1976 dock
-OL,15,     Goperation reunite after twenty
-OL,16,     Gyears.
-OL,17,G1830FOut of Town
-OL,18,     GJack shares a 1986 film about two
-OL,19,     Glovers from opposite Edwardian
-OL,20,     Gsocial classes.
+OL,4,G1655FScotland Yard
+OL,5,     GA poisoned flask at London
+OL,6,     Gairport leads Scotland Yard to
+OL,7,     GLisbon in Destination Death.
+OL,8,G1730FDixon of Dock Green
+OL,9,     GPolice officers from a 1976 dock
+OL,10,     Goperation reunite after twenty
+OL,11,     Gyears.
+OL,12,G1830FOut of Town
+OL,13,     GJack shares a 1986 film about two
+OL,14,     Glovers from opposite Edwardian
+OL,15,     Gsocial classes.
+OL,16,G1900FThe Footage Detectives
+OL,17,     GA Sunday by the sea and London in
+OL,18,     Gthe 30s, with memories and a
+OL,19,     Gtribute to Brian Murphy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
