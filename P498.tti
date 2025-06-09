@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,W{$~k4{$k4~sjw=        G     R`pG3/14
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -72,7 +72,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G4/14
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -97,7 +97,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}0G5/14
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -122,7 +122,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   Rx|G6/14
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -147,7 +147,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,Wj5hw}j5 ~shws        G    R*dx|0G7/14
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -173,7 +173,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,W|4|h4|||h||4|||h||4|4|            G8/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -198,30 +198,27 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,W{${$~+$ ~k4~k4~s                G9/14
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G1930FMOTD Live: Belgium v Wales
-OL,5,     GLive coverage from Brussels of
-OL,6,     Gthe 2026 World Cup qualifier
-OL,7,     Gbetween Belgium and Wales.
-OL,8,G2200FBBC News and Weather
-OL,9,G2230FRegional News
-OL,10,G2240FHave I Got a Bit More News for You
-OL,11,     GRichard Ayoade hosts with guests
-OL,12,     GJack Dee, Kelly Cates, and
-OL,13,     Gcaptains Paul Merton, Ian Hislop.
-OL,14,G2325FI Kissed a Boy
-OL,15,     GBuckle up for an epic final Kiss-
-OL,16,     GOff as Dannii plays Cupid one
-OL,17,     Glast time.
-OL,18,G0020FPointless Celebrities
-OL,19,     GAlexander Armstrong presents a
-OL,20,     Gcelebrity version of the general
-OL,21,     Gknowledge quiz.
-OL,22,G0105FWeather for the Week Ahead
+OL,4,G2200FBBC News and Weather
+OL,5,G2230FRegional News
+OL,6,G2240FHave I Got a Bit More News for You
+OL,7,     GRichard Ayoade hosts with guests
+OL,8,     GJack Dee, Kelly Cates, and
+OL,9,     Gcaptains Paul Merton, Ian Hislop.
+OL,10,G2325FI Kissed a Boy
+OL,11,     GBuckle up for an epic final Kiss-
+OL,12,     GOff as Dannii plays Cupid one
+OL,13,     Glast time.
+OL,14,G0020FPointless Celebrities
+OL,15,     GAlexander Armstrong presents a
+OL,16,     Gcelebrity version of the general
+OL,17,     Gknowledge quiz.
+OL,18,G0105FWeather for the Week Ahead
+OL,19,G0110FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -229,27 +226,27 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,W{${$~+$ k7j5j5~k4             G10/14
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G2100FJane Austen: Rise of a Genius
-OL,5,     GAusten dives into her most
-OL,6,     Gambitious work yet, Emma, to
-OL,7,     Gsecure her financial future.
-OL,8,G2200FUpstart Crow
-OL,9,     GWill loves his new play of a
-OL,10,     Gstrong woman broken by a man;
-OL,11,     GKate disagrees.
-OL,12,G2230FNewsnight, followed by Weather
-OL,13,     GInsights and global interviews on
-OL,14,     Gtoday's news with Victoria
-OL,15,     GDerbyshire, followed by Weather.
-OL,16,G2300FThe Children Act
-OL,17,     GA judge handles the case of a
-OL,18,     Gteenager who refuses a blood
-OL,19,     Gtransfusion.
+OL,4,G2200FUpstart Crow
+OL,5,     GWill loves his new play of a
+OL,6,     Gstrong woman broken by a man;
+OL,7,     GKate disagrees.
+OL,8,G2230FNewsnight, followed by Weather
+OL,9,     GInsights and global interviews on
+OL,10,     Gtoday's news with Victoria
+OL,11,     GDerbyshire, followed by Weather.
+OL,12,G2300FThe Children Act
+OL,13,     GA judge handles the case of a
+OL,14,     Gteenager who refuses a blood
+OL,15,     Gtransfusion.
+OL,16,G0040FCountryfile
+OL,17,     GBradford's countryside shaped its
+OL,18,     Gcreative legacy`a story of grit
+OL,19,     Gand wool.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -257,27 +254,23 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,W"!j5 n5                       G11/14
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G2100FShardlake
-OL,5,     GA brilliant lawyer investigates a
-OL,6,     Gmonastery murder in CJ Sansom's
-OL,7,     Ggripping whodunnit.
-OL,8,G2200FITV News at Ten
-OL,9,G2230FRegional News
-OL,10,G2245FLove Island
-OL,11,     GThe OG dating show returns with
-OL,12,     Gfresh singles and host Maya Jama
-OL,13,     Gleading the love search.
-OL,14,G0005FShop on TV
-OL,15,G0300FUnwind with ITV
-OL,16,G0415FThe British Soap Awards 2025
-OL,17,     GJane McDonald hosts the biggest
-OL,18,     Gnight in soap at London's Hackney
-OL,19,     GEmpire.
+OL,4,G2200FITV News at Ten
+OL,5,G2230FRegional News
+OL,6,G2245FLove Island
+OL,7,     GThe OG dating show returns with
+OL,8,     Gfresh singles and host Maya Jama
+OL,9,     Gleading the love search.
+OL,10,G0005FShop on TV
+OL,11,G0300FUnwind with ITV
+OL,12,G0415FThe British Soap Awards 2025
+OL,13,     GJane McDonald hosts the biggest
+OL,14,     Gnight in soap at London's Hackney
+OL,15,     GEmpire.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -285,29 +278,29 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G12/14
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G2100FJamie's Dyslexia Revolution
-OL,5,     GJamie Oliver highlights the
-OL,6,     Gstruggles of dyslexic students in
-OL,7,     Gan outdated education system.
-OL,8,G2200FBETH
-OL,9,     GA miracle birth shatters a
-OL,10,     Gmarriage and shakes the
-OL,11,     Gfoundation of humankind.
-OL,12,G2245FGogglebox
-OL,13,     GBritain's top armchair critics
-OL,14,     Greview Slow Horses, Dating Naked,
-OL,15,     GCelebrity Race Across the World,
-OL,16,     Gand more.
-OL,17,G2345FFirst Dates
-OL,18,     GBarrister Sarah meets Dan, an ex-
-OL,19,     Gsoldier full of dad jokes, while
-OL,20,     GMegan and Ellena date.
-OL,21,G0040FRamsay's Kitchen Nightmares USA
+OL,4,G2200FBETH
+OL,5,     GA miracle birth shatters a
+OL,6,     Gmarriage and shakes the
+OL,7,     Gfoundation of humankind.
+OL,8,G2245FGogglebox
+OL,9,     GBritain's top armchair critics
+OL,10,     Greview Slow Horses, Dating Naked,
+OL,11,     GCelebrity Race Across the World,
+OL,12,     Gand more.
+OL,13,G2345FFirst Dates
+OL,14,     GBarrister Sarah meets Dan, an ex-
+OL,15,     Gsoldier full of dad jokes, while
+OL,16,     GMegan and Ellena date.
+OL,17,G0040FRamsay's Kitchen Nightmares USA
+OL,18,G0130FOur Guy in Vietnam
+OL,19,     GOn the 50th anniversary of the
+OL,20,     GVietnam War's end, Guy Martin
+OL,21,     Gbikes the Ho Chi Minh Trail.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -315,30 +308,30 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,Wos!                              G13/14
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G2100FFare Dodgers: At War with the Law
-OL,5,     GRevenue Protection officer Sam is
-OL,6,     Gverbally abused on a train to
-OL,7,     GFeltham by an unticketed man.
-OL,8,G2200FPolice: Night Shift 999
-OL,9,     GA man with three female bank
-OL,10,     Gcards and a lock knife was caught
-OL,11,     Gurinating on a wall.
-OL,12,G2305FTraffic Cops
-OL,13,     GJamie Theakston hosts an action-
-OL,14,     Gpacked doc as Nick faces a
-OL,15,     Greckless driver avoiding capture.
-OL,16,G0005FPolice Interceptors
-OL,17,     GCar thieves chased by units and
-OL,18,     Gdrone are caught by police dog
-OL,19,     GRocky and firearms squad.
-OL,20,G0100FPlayOJO Live Casino Show
-OL,21,G0300FFriends
-OL,22,G0325FFriends
+OL,4,G2200FPolice: Night Shift 999
+OL,5,     GA man with three female bank
+OL,6,     Gcards and a lock knife was caught
+OL,7,     Gurinating on a wall.
+OL,8,G2305FTraffic Cops
+OL,9,     GJamie Theakston hosts an action-
+OL,10,     Gpacked doc as Nick faces a
+OL,11,     Greckless driver avoiding capture.
+OL,12,G0005FPolice Interceptors
+OL,13,     GCar thieves chased by units and
+OL,14,     Gdrone are caught by police dog
+OL,15,     GRocky and firearms squad.
+OL,16,G0100FPlayOJO Live Casino Show
+OL,17,G0300FFriends
+OL,18,G0325FFriends
+OL,19,G0350FMotorhoming with Merton & Webster
+OL,20,     GPaul and Suki visit Norfolk,
+OL,21,     Gstarting their final UK tour stop
+OL,22,     Gat peaceful Gorleston-On-Sea.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -346,7 +339,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749500957
+OL,0,        ECIMSBWebfax     F498A1749504567
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G14/14
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
