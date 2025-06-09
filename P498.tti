@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/15
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/15
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W{$~k4{$k4~sjw=        G     R`pG3/15
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G4/15
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G5/15
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -119,7 +119,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}0G6/15
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -144,7 +144,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   Rx|G7/15
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -169,7 +169,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,Wj5hw}j5 ~shws        G    R*dx|0G8/15
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -195,7 +195,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W|4|h4|||h||4|||h||4|4|            G9/15
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -220,27 +220,29 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W{${$~+$ ~k4~k4~s               G10/15
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0930FMorning Live
-OL,9,     GConversation, advice and tips to
-OL,10,     Gmake your day that little bit
-OL,11,     Geasier.
-OL,12,G1045FExpert Witness
-OL,13,     GThe examination of pollen at a
-OL,14,     Gmurder site and fibres in a car
-OL,15,     Gcrash help solve crimes.
-OL,16,G1115FHomes Under the Hammer
-OL,17,     GDion, Jacqui, and Tommy meet
-OL,18,     Gbuyers of Wakefield, Folkestone,
-OL,19,     Gand Bintree auction properties.
+OL,4,G0930FMorning Live
+OL,5,     GConversation, advice and tips to
+OL,6,     Gmake your day that little bit
+OL,7,     Geasier.
+OL,8,G1045FExpert Witness
+OL,9,     GThe examination of pollen at a
+OL,10,     Gmurder site and fibres in a car
+OL,11,     Gcrash help solve crimes.
+OL,12,G1115FHomes Under the Hammer
+OL,13,     GDion, Jacqui, and Tommy meet
+OL,14,     Gbuyers of Wakefield, Folkestone,
+OL,15,     Gand Bintree auction properties.
+OL,16,G1215FBargain Hunt
+OL,17,     GAt the Newark fair, Danny
+OL,18,     Gexplores Victorian lockets with
+OL,19,     Ghair and messages from the dead.
+OL,20,G1300FBBC News at One including
+OL,21,     FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -248,7 +250,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W{${$~+$ k7j5j5~k4             G11/15
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -278,30 +280,29 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W"!j5 n5                       G12/15
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G0900FLorraine
-OL,5,     GLorraine Kelly offers
-OL,6,     Gentertainment, discussion,
-OL,7,     Gfashion, food, and celebrity
-OL,8,     Ggossip.
-OL,9,G1000FThis Morning
-OL,10,     GA magazine show featuring news,
-OL,11,     Gcelebrities, expert advice, real
-OL,12,     Gstories, and various topics.
-OL,13,G1230FLoose Women
-OL,14,     GLoose Women panellists interview
-OL,15,     Gcelebrities and discuss current
-OL,16,     Gaffairs and showbiz news.
-OL,17,G1330FITV Lunchtime News
-OL,18,G1355FRegional News
-OL,19,G1400FAlan Titchmarsh's Gardening Club
-OL,20,     GAlan, Anna, and Claire share top
-OL,21,     Gtips on seasonal gardening, Hyde
-OL,22,     GHall, and houseplants.
+OL,4,G1000FThis Morning
+OL,5,     GA magazine show featuring news,
+OL,6,     Gcelebrities, expert advice, real
+OL,7,     Gstories, and various topics.
+OL,8,G1230FLoose Women
+OL,9,     GLoose Women panellists interview
+OL,10,     Gcelebrities and discuss current
+OL,11,     Gaffairs and showbiz news.
+OL,12,G1330FITV Lunchtime News
+OL,13,G1355FRegional News
+OL,14,G1400FAlan Titchmarsh's Gardening Club
+OL,15,     GAlan, Anna, and Claire share top
+OL,16,     Gtips on seasonal gardening, Hyde
+OL,17,     GHall, and houseplants.
+OL,18,G1500FLingo
+OL,19,     GQuiz show hosted by Adil Ray with
+OL,20,     Gteams Sharon & Sean, Amit & Alon,
+OL,21,     Gand Linda & Peter.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -309,30 +310,28 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G13/15
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G0910FFrasier
-OL,5,G0940FFrasier
-OL,6,G1010FFrasier
-OL,7,G1040FFrasier
-OL,8,G1110FRamsay's 24 Hours to Hell and Back
-OL,9,     GGordon Ramsay saves Bella
-OL,10,     GGianna's, a family-run Italian
-OL,11,     Grestaurant in Congers, NY, in 24
-OL,12,     Ghours.
-OL,13,G1205FChannel 4 News Summary
-OL,14,G1210FHelp! We Bought a Village
-OL,15,     GAn ancient well disrupts 17th-
-OL,16,     Gcentury French hamlet plans while
-OL,17,     GAndalucia caves need repairs.
-OL,18,G1310FFind It, Fix It, Flog It
-OL,19,     GOn the sunny Isle of Wight, Henry
-OL,20,     Gand Simon find a three-wheeled
-OL,21,     Gbike and old screen.
-OL,22,G1410FCountdown
+OL,4,G1010FFrasier
+OL,5,G1040FFrasier
+OL,6,G1110FRamsay's 24 Hours to Hell and Back
+OL,7,     GGordon Ramsay saves Bella
+OL,8,     GGianna's, a family-run Italian
+OL,9,     Grestaurant in Congers, NY, in 24
+OL,10,     Ghours.
+OL,11,G1205FChannel 4 News Summary
+OL,12,G1210FHelp! We Bought a Village
+OL,13,     GAn ancient well disrupts 17th-
+OL,14,     Gcentury French hamlet plans while
+OL,15,     GAndalucia caves need repairs.
+OL,16,G1310FFind It, Fix It, Flog It
+OL,17,     GOn the sunny Isle of Wight, Henry
+OL,18,     Gand Simon find a three-wheeled
+OL,19,     Gbike and old screen.
+OL,20,G1410FCountdown
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -340,7 +339,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,Wos!                              G14/15
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -368,27 +367,27 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749457653
+OL,0,        ECIMSBWebfax     F498A1749461264
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G15/15
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G0855FMan From Tangier
-OL,5,     GIn 1957 drama, Chuck Collins gets
-OL,6,     Gcaught in a forgery racket by
-OL,7,     Gtaking the wrong coat.
-OL,8,G1015FWhat's On TPTV With Noel
-OL,9,     GNoel Cronin of Talking Pictures
-OL,10,     GTV shares must-watch shows and
-OL,11,     Gfilms for June.
-OL,12,G1025FStock Car
-OL,13,     GAfter her father's death, a racer
-OL,14,     Ghelps his daughter keep the
-OL,15,     Ggarage running.
-OL,16,G1145FTiger By The Tail
-OL,17,     GIn 1955, John Desmond meets a
-OL,18,     Gmysterious woman linked to a
-OL,19,     Gcounterfeit ring.
+OL,4,G1025FStock Car
+OL,5,     GAfter her father's death, a racer
+OL,6,     Ghelps his daughter keep the
+OL,7,     Ggarage running.
+OL,8,G1145FTiger By The Tail
+OL,9,     GIn 1955, John Desmond meets a
+OL,10,     Gmysterious woman linked to a
+OL,11,     Gcounterfeit ring.
+OL,12,G1325FRide in the Whirlwind
+OL,13,     GIn 1966 Western, three cowboys
+OL,14,     Gare chased by a posse after a
+OL,15,     Gmistaken outlaw identity.
+OL,16,G1505FTwo Wives at One Wedding
+OL,17,     GOn Tom's wedding day, a stranger
+OL,18,     Gclaims to be his wife, causing
+OL,19,     Gchaos.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
