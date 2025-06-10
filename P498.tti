@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,W{$~k4{$k4~sjw=        G     R`pG3/14
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -70,7 +70,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G4/14
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -93,7 +93,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}0G5/14
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -118,7 +118,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   Rx|G6/14
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -143,7 +143,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,Wj5hw}j5 ~shws        G    R*dx|0G7/14
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -164,7 +164,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,W|4|h4|||h||4|||h||4|4|            G8/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -189,30 +189,25 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,W{${$~+$ ~k4~k4~s                G9/14
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 10 JUN
-OL,4,G2100FThe Gold
-OL,5,     GThe money from the gold starts to
-OL,6,     Gbe laundered through
-OL,7,     Ginternational criminal networks.
-OL,8,G2200FBBC News and Weather
-OL,9,G2230FRegional News
-OL,10,G2240FWhat It Feels Like for a Girl
-OL,11,     GByron is pulled into Liam's
-OL,12,     Gdangerous and intoxicating web,
-OL,13,     Gbut can he be trusted?
-OL,14,G2330FWhat It Feels Like for a Girl
-OL,15,     GBuzzing from the encounter with
-OL,16,     GLiam, Byron goes out on the town
-OL,17,     Gwith The Divas.
-OL,18,G0015FAmbulance
-OL,19,     GCall handlers face a succession
-OL,20,     Gof sexually abusive 999 calls.
-OL,21,G0115FWeather for the Week Ahead
-OL,22,G0120FBBC News
+OL,4,G2230FRegional News
+OL,5,G2240FWhat It Feels Like for a Girl
+OL,6,     GByron is pulled into Liam's
+OL,7,     Gdangerous and intoxicating web,
+OL,8,     Gbut can he be trusted?
+OL,9,G2330FWhat It Feels Like for a Girl
+OL,10,     GBuzzing from the encounter with
+OL,11,     GLiam, Byron goes out on the town
+OL,12,     Gwith The Divas.
+OL,13,G0015FAmbulance
+OL,14,     GCall handlers face a succession
+OL,15,     Gof sexually abusive 999 calls.
+OL,16,G0115FWeather for the Week Ahead
+OL,17,G0120FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -220,29 +215,28 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,W{${$~+$ k7j5j5~k4             G10/14
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 10 JUN
-OL,4,G2100FSurviving Syria's Prisons
-OL,5,     GA look inside one of the most
-OL,6,     Gbrutal campaigns of state
-OL,7,     Grepression in modern history.
-OL,8,     GContains scenes which some
-OL,9,     Gviewers may find disturbing.
-OL,10,G2215FQI XS
-OL,11,     GA selection of classic clips from
-OL,12,     GQI with a historical flavour.
-OL,13,G2230FNewsnight, followed by Weather
-OL,14,     GInsights and global interviews on
-OL,15,     Gtoday's news with Victoria
-OL,16,     GDerbyshire, followed by Weather.
-OL,17,G2300FCricket: England v West Indies
-OL,18,     FT20 Highlights
-OL,19,     GAll the big moments from the
-OL,20,     Gfinal men's T20 clash between
-OL,21,     GEngland and West Indies.
+OL,4,G2230FNewsnight, followed by Weather
+OL,5,     GInsights and global interviews on
+OL,6,     Gtoday's news with Victoria
+OL,7,     GDerbyshire, followed by Weather.
+OL,8,G2300FCricket: England v West Indies
+OL,9,     FT20 Highlights
+OL,10,     GAll the big moments from the
+OL,11,     Gfinal men's T20 clash between
+OL,12,     GEngland and West Indies.
+OL,13,G2330FThe Levelling
+OL,14,     GAfter her brother dies, Clover
+OL,15,     Greturns home to rebuild her
+OL,16,     Grelationship with her father.
+OL,17,G0050FScandinavia with Simon Reeve
+OL,18,     GSimon travels through the forests
+OL,19,     Gof Sweden to Denmark's beautiful
+OL,20,     Gcapital, Copenhagen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -250,28 +244,27 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,W"!j5 n5                       G11/14
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 10 JUN
-OL,4,G1900FInternational Football: England v
-OL,5,     FSenegal
-OL,6,     GMark Pougatch, Roy Keane, and Ian
-OL,7,     GWright cover England vs Senegal
-OL,8,     Gat the City Ground.
-OL,9,G2205FITV News at Ten
-OL,10,G2235FRegional News
-OL,11,G2250FRoad to Perdition
-OL,12,     GOscar-winning crime drama about a
-OL,13,     GMob enforcer's son fleeing 1930s
-OL,14,     GChicago after a murder.
-OL,15,G0050FShop on TV
-OL,16,G0300FFake
-OL,17,     GJoe reunites with Kristy and
-OL,18,     Gfights to stop his family home's
-OL,19,     Gauction in Run.
-OL,20,G0350FUnwind with ITV
+OL,4,G2205FITV News at Ten
+OL,5,G2235FRegional News
+OL,6,G2250FRoad to Perdition
+OL,7,     GOscar-winning crime drama about a
+OL,8,     GMob enforcer's son fleeing 1930s
+OL,9,     GChicago after a murder.
+OL,10,G0050FShop on TV
+OL,11,G0300FFake
+OL,12,     GJoe reunites with Kristy and
+OL,13,     Gfights to stop his family home's
+OL,14,     Gauction in Run.
+OL,15,G0350FUnwind with ITV
+OL,16,G0505FAlan Titchmarsh's Gardening Club
+OL,17,     GAlan, Anna, and Claire share
+OL,18,     Ggardening tips, Hyde Hall
+OL,19,     Ginsights, and houseplant answers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -279,29 +272,29 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G12/14
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 10 JUN
-OL,4,G2100F24 Hours in A&E
-OL,5,     GA boy has a stone in his nose, a
-OL,6,     G92-year-old trapped under a car,
-OL,7,     Gand a 95-year-old hero's heart
-OL,8,     Grate is low.
-OL,9,G2200FThe Body Detectives
-OL,10,     GAn ex-detective and experts
-OL,11,     Greopen cold UK cases, starting
-OL,12,     Gwith a lost hero by Norfolk.
-OL,13,G2305FCelebrity Gogglebox
-OL,14,     GDenise van Outen, Johnny Vaughan,
-OL,15,     GJordan Banjo, Perri Kiely and
-OL,16,     Gmore settle in for top TV.
-OL,17,G0010FTaskmaster
-OL,18,     GAlex Horne is dunked and chased
-OL,19,     Gas Jason Mantzoukas wreaks havoc
-OL,20,     Gin Taskmaster House.
-OL,21,G0100FRamsay's Kitchen Nightmares USA
+OL,4,G2200FThe Body Detectives
+OL,5,     GAn ex-detective and experts
+OL,6,     Greopen cold UK cases, starting
+OL,7,     Gwith a lost hero by Norfolk.
+OL,8,G2305FCelebrity Gogglebox
+OL,9,     GDenise van Outen, Johnny Vaughan,
+OL,10,     GJordan Banjo, Perri Kiely and
+OL,11,     Gmore settle in for top TV.
+OL,12,G0010FTaskmaster
+OL,13,     GAlex Horne is dunked and chased
+OL,14,     Gas Jason Mantzoukas wreaks havoc
+OL,15,     Gin Taskmaster House.
+OL,16,G0100FRamsay's Kitchen Nightmares USA
+OL,17,G0150FGeorge Clarke's Amazing Spaces
+OL,18,     GGeorge Clarke meets a man
+OL,19,     Gbuilding a UFO-style house and a
+OL,20,     Gwoman crafting a natural garden
+OL,21,     Groom.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -309,30 +302,28 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,Wos!                              G13/14
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 10 JUN
-OL,4,G2100FThe Yorkshire Vet: At Home with
-OL,5,     FThe Greens
-OL,6,     GFarmers Jean and Steve call
-OL,7,     Gparanormal investigators to
-OL,8,     Guncover their farm's history.
-OL,9,G2200FBen Fogle: New Lives in the Wild
-OL,10,     GIn Tuscany, Ben meets George and
-OL,11,     GSophie, who revived a farmhouse
-OL,12,     Gfor self-sufficient living.
-OL,13,G2305FTraffic Cops
-OL,14,     GSouth Wales officers chase
-OL,15,     Gsuspects, including drug dealers
-OL,16,     Gand a couple caught outdoors.
-OL,17,G0005FMotorway Cops: Catching Britain's
-OL,18,     FSpeeders
-OL,19,     GPolice stop a drink driver, an
-OL,20,     Guninsured pizza delivery man, and
-OL,21,     Ga reckless driver seeking a
-OL,22,     Gselfie.
+OL,4,G2200FBen Fogle: New Lives in the Wild
+OL,5,     GIn Tuscany, Ben meets George and
+OL,6,     GSophie, who revived a farmhouse
+OL,7,     Gfor self-sufficient living.
+OL,8,G2305FTraffic Cops
+OL,9,     GSouth Wales officers chase
+OL,10,     Gsuspects, including drug dealers
+OL,11,     Gand a couple caught outdoors.
+OL,12,G0005FMotorway Cops: Catching Britain's
+OL,13,     FSpeeders
+OL,14,     GPolice stop a drink driver, an
+OL,15,     Guninsured pizza delivery man, and
+OL,16,     Ga reckless driver seeking a
+OL,17,     Gselfie.
+OL,18,G0100FPlayOJO Live Casino Show
+OL,19,G0300FFriends
+OL,20,G0325FFriends
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -340,28 +331,28 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749587544
+OL,0,        ECIMSBWebfax     F498A1749591172
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G14/14
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 10 JUN
-OL,4,G2010FRun Wild, Run Free
-OL,5,     GA mute boy finds emotional
-OL,6,     Grelease through his love for a
-OL,7,     Gwild white colt .
-OL,8,G2215FCellar Club with Caroline Munro
-OL,9,     GCaroline Munro hosts The Cellar
-OL,10,     GClub tonight with the chilling
-OL,11,     Gsci-fi horror They Nest.
-OL,12,G2220FThey Nest
-OL,13,     GIn 2000 horror, a doctor warns
-OL,14,     Gislanders of a deadly cockroach
-OL,15,     Ginfestation.
-OL,16,G0010FCellar Club with Caroline Munro
-OL,17,     GCaroline Munro presents
-OL,18,     GDisappearance, a 2002 mystery
-OL,19,     Gthriller starring Susan Dey and
-OL,20,     GHarry Hamlin.
+OL,4,G2220FThey Nest
+OL,5,     GIn 2000 horror, a doctor warns
+OL,6,     Gislanders of a deadly cockroach
+OL,7,     Ginfestation.
+OL,8,G0010FCellar Club with Caroline Munro
+OL,9,     GCaroline Munro presents
+OL,10,     GDisappearance, a 2002 mystery
+OL,11,     Gthriller starring Susan Dey and
+OL,12,     GHarry Hamlin.
+OL,13,G0015FDisappearance
+OL,14,     GIn 2002, a family discovers
+OL,15,     Ggrisly secrets in a Nevada ghost
+OL,16,     Gtown.
+OL,17,G0205FCellar Club with Caroline Munro
+OL,18,     GCaroline Munro takes a look at
+OL,19,     Gthe interesting pair of films
+OL,20,     Gcoming up next week.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
