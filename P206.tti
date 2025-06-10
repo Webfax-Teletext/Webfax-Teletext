@@ -1,26 +1,26 @@
 PN,20601
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax     F206A1749515385
+OL,0,        ECIMSBWebfax     F206A1749518995
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/2
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G0100FBBC News
-OL,5,     GThe latest news from the BBC.
-OL,6,G0130FTalking Business
-OL,7,     GBen Thompson questions if
-OL,8,     Gcompanies should pay hackers or
-OL,9,     Gif ransom payments should be
-OL,10,     Gbanned.
-OL,11,G0200FNewsday
+OL,4,G0200FNewsday
+OL,5,     GLive from Singapore, the latest
+OL,6,     Ginternational news from the BBC.
+OL,7,G0230FThe Security Brief
+OL,8,     GUkraine launches a massive drone
+OL,9,     Gattack deep into Russia, hitting
+OL,10,     Gmultiple airbases.
+OL,11,G0300FNewsday
 OL,12,     GLive from Singapore, the latest
 OL,13,     Ginternational news from the BBC.
-OL,14,G0230FThe Security Brief
-OL,15,     GUkraine launches a massive drone
-OL,16,     Gattack deep into Russia, hitting
-OL,17,     Gmultiple airbases.
-OL,18,G0300FNewsday
+OL,14,G0330FThe Interview
+OL,15,     GCynthia Erivo opens up about her
+OL,16,     Gnew album, childhood struggles,
+OL,17,     Gand post-Wicked success.
+OL,18,G0400FNewsday
 OL,19,     GLive from Singapore, the latest
 OL,20,     Ginternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
@@ -29,29 +29,22 @@ FL,207,200,140,260,000,100
 PN,20602
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax     F206A1749515385
+OL,0,        ECIMSBWebfax     F206A1749518995
 OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/2
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 9 JUN
-OL,4,G0330FThe Interview
-OL,5,     GCynthia Erivo opens up about her
-OL,6,     Gnew album, childhood struggles,
-OL,7,     Gand post-Wicked success.
-OL,8,G0400FNewsday
-OL,9,     GLive from Singapore, the latest
-OL,10,     Ginternational news from the BBC.
-OL,11,G0430FThe Media Show
-OL,12,     GNPR chief reacts to Trump's
-OL,13,     Gfunding threat; the Hajj's media
-OL,14,     Grise and Apple's China history
-OL,15,     Gexplored.
-OL,16,G0500FBBC News
-OL,17,     GThe latest news from the BBC.
-OL,18,G0530FBusiness Today
-OL,19,     GBringing the latest business news
-OL,20,     Gand up-to-date informed analysis
-OL,21,     Gfrom London and around the world.
+OL,4,G0430FThe Media Show
+OL,5,     GNPR chief reacts to Trump's
+OL,6,     Gfunding threat; the Hajj's media
+OL,7,     Grise and Apple's China history
+OL,8,     Gexplored.
+OL,9,G0500FBBC News
+OL,10,     GThe latest news from the BBC.
+OL,11,G0530FBusiness Today
+OL,12,     GBringing the latest business news
+OL,13,     Gand up-to-date informed analysis
+OL,14,     Gfrom London and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,000,100
