@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,W{$~k4{$k4~sjw=        G     R`pG3/14
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -68,7 +68,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G4/14
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -91,7 +91,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}0G5/14
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -116,7 +116,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   Rx|G6/14
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -141,7 +141,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,Wj5hw}j5 ~shws        G    R*dx|0G7/14
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -160,7 +160,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,W|4|h4|||h||4|||h||4|4|            G8/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -185,7 +185,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,W{${$~+$ ~k4~k4~s                G9/14
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -198,20 +198,16 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,W{${$~+$ k7j5j5~k4             G10/14
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 10 JUN
-OL,4,G0050FScandinavia with Simon Reeve
-OL,5,     GSimon travels through the forests
-OL,6,     Gof Sweden to Denmark's beautiful
-OL,7,     Gcapital, Copenhagen.
-OL,8,G0150FThe Gold
-OL,9,     GThe police chase the other half
-OL,10,     Gof the stolen Brink's-Mat gold
-OL,11,     Gafter it resurfaces.
-OL,12,G0250FThis is BBC Two
+OL,4,G0150FThe Gold
+OL,5,     GThe police chase the other half
+OL,6,     Gof the stolen Brink's-Mat gold
+OL,7,     Gafter it resurfaces.
+OL,8,G0250FThis is BBC Two
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -219,7 +215,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,W"!j5 n5                       G11/14
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -241,26 +237,30 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G12/14
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 10 JUN
-OL,4,G0100FRamsay's Kitchen Nightmares USA
-OL,5,G0150FGeorge Clarke's Amazing Spaces
-OL,6,     GGeorge Clarke meets a man
-OL,7,     Gbuilding a UFO-style house and a
-OL,8,     Gwoman crafting a natural garden
-OL,9,     Groom.
-OL,10,G0230FChanging Rooms
-OL,11,     GLucy, Andy, Mark, and Jackie
-OL,12,     Gupdate 1960s homes with bold
-OL,13,     Gcolors and wow factor in
-OL,14,     GWokingham.
-OL,15,G0325FTravel Man: 48 Hours in Rotterdam
-OL,16,     GJoe Lycett and Alex Brooker tour
-OL,17,     GWikkelboats, taste fermented
-OL,18,     Gflavors, and play pinball.
+OL,4,G0230FChanging Rooms
+OL,5,     GLucy, Andy, Mark, and Jackie
+OL,6,     Gupdate 1960s homes with bold
+OL,7,     Gcolors and wow factor in
+OL,8,     GWokingham.
+OL,9,G0325FTravel Man: 48 Hours in Rotterdam
+OL,10,     GJoe Lycett and Alex Brooker tour
+OL,11,     GWikkelboats, taste fermented
+OL,12,     Gflavors, and play pinball.
+OL,13,G0355FDevon and Cornwall
+OL,14,     GJack Baines and Nick Dymond aim
+OL,15,     Gto make Cornwall's first
+OL,16,     Gsunflower oil from 275,000
+OL,17,     Gflowers.
+OL,18,G0450FLocation, Location, Location
+OL,19,     GKirstie Allsopp and Phil Spencer
+OL,20,     Ghelp two couples find homes in
+OL,21,     GLondon's leafy south-west.
+OL,22,G0545FCountdown
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -268,7 +268,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,Wos!                              G13/14
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -294,28 +294,28 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1749601991
+OL,0,        ECIMSBWebfax     F498A1749605600
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G14/14
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for TUE 10 JUN
-OL,4,G0015FDisappearance
-OL,5,     GIn 2002, a family discovers
-OL,6,     Ggrisly secrets in a Nevada ghost
-OL,7,     Gtown.
-OL,8,G0205FCellar Club with Caroline Munro
-OL,9,     GCaroline Munro takes a look at
-OL,10,     Gthe interesting pair of films
-OL,11,     Gcoming up next week.
-OL,12,G0210FHammer House of Mystery and
-OL,13,     FSuspense
-OL,14,     GA couple in 1984 gets trapped
-OL,15,     Greliving a sinister event in
-OL,16,     Gtheir apartment.
-OL,17,G0340FSuddenly
-OL,18,     GIn 1954, three gangsters trap a
-OL,19,     Gfamily aiming to kill the US
-OL,20,     Gpresident.
+OL,4,G0210FHammer House of Mystery and
+OL,5,     FSuspense
+OL,6,     GA couple in 1984 gets trapped
+OL,7,     Greliving a sinister event in
+OL,8,     Gtheir apartment.
+OL,9,G0340FSuddenly
+OL,10,     GIn 1954, three gangsters trap a
+OL,11,     Gfamily aiming to kill the US
+OL,12,     Gpresident.
+OL,13,G0515FLook At Life Gypsy Holiday
+OL,14,     GEach year, Europe's gypsies
+OL,15,     Gpilgrimage to the Camargue for a
+OL,16,     Gcolorful festival.
+OL,17,G0530FThe Beverly Hillbillies
+OL,18,     GJed catches Granny setting dogs
+OL,19,     Gon Pearl, so she reports Granny
+OL,20,     Gto the police.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
