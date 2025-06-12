@@ -1,47 +1,28 @@
-PN,26701
-SC,0001
-PS,c000
-OL,0,        ECIMSBWebfax     F267A1749760878
-OL,1,W{${$~+$ ~k4~k4~s                G1/2
+PN,26700
+SC,0000
+PS,8000
+OL,0,        ECIMSBWebfax     F267A1749764492
+OL,1,W{${$~+$ ~k4~k4~s
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,$FEAST
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 12 JUN
-OL,4,G2100FAmbulance
-OL,5,     GPatient Ron suddenly stops
-OL,6,     Gbreathing in London; a bystander
-OL,7,     Gurgently tries to save him.
-OL,8,G2200FBBC News and Weather
-OL,9,G2230FLook East
-OL,10,     GThe latest news, sport and
-OL,11,     Gweather for the East of England.
-OL,12,G2240FQuestion Time
-OL,13,     GFiona Bruce hosts weekly debates
-OL,14,     Gwith politicians and guests,
-OL,15,     Gtackling audience questions.
-OL,16,G2340FNewscast
-OL,17,     GLighthearted discussion of the
-OL,18,     Gweek's political events.
-OL,19,G0010FThe Hit List
-OL,20,     GComedians Suzi Ruffell and
-OL,21,     GJessica Knappett are one of the
-OL,22,     Gpairs guessing the song titles.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page  BReg TV   CNat News  FNat TV
-FL,268,260,300,200,000,100
-PN,26702
-SC,0002
-PS,c000
-OL,0,        ECIMSBWebfax     F267A1749760878
-OL,1,W{${$~+$ ~k4~k4~s                G2/2
-OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,$FEAST
-OL,3,CProgramme listings for
-OL,3,CProgramme listings for THU 12 JUN
-OL,4,G0055FBlankety Blank
-OL,5,     GThe celebrities joining Bradley
-OL,6,     GWalsh include Jenny Eclair, Jon
-OL,7,     GRichardson and Tom Allen.
-OL,8,G0130FWeather for the Week Ahead
-OL,9,G0135FBBC News
+OL,4,G2240FQuestion Time
+OL,5,     GFiona Bruce hosts weekly debates
+OL,6,     Gwith politicians and guests,
+OL,7,     Gtackling audience questions.
+OL,8,G2340FNewscast
+OL,9,     GLighthearted discussion of the
+OL,10,     Gweek's political events.
+OL,11,G0010FThe Hit List
+OL,12,     GComedians Suzi Ruffell and
+OL,13,     GJessica Knappett are one of the
+OL,14,     Gpairs guessing the song titles.
+OL,15,G0055FBlankety Blank
+OL,16,     GThe celebrities joining Bradley
+OL,17,     GWalsh include Jenny Eclair, Jon
+OL,18,     GRichardson and Tom Allen.
+OL,19,G0130FWeather for the Week Ahead
+OL,20,G0135FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV   CNat News  FNat TV
 FL,268,260,300,200,000,100
