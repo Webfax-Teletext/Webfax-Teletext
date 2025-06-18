@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -149,7 +149,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -174,7 +174,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -200,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -225,7 +225,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -233,17 +233,15 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FMothers who took epilepsy drug
-OL,9,Fthat led to birth defects feel
-OL,10,F'abandoned'
-OL,12,G412FMan in 30s dies in police custody
-OL,14,G413F'Shocking' moment van driver
-OL,15,Fdistracted on phone crashes into
-OL,16,Fbroken-down car
-OL,18,G414FCharity shop spends thousands on
-OL,19,FCCTV after spate of shoplifting
-OL,21,G415FHomes left in 'total devastation'
-OL,22,Fafter torrential downpours
+OL,8,G411FFather and son jailed after
+OL,9,Finventing story over crash which
+OL,10,Finjured woman
+OL,12,G412FDartford Crossing charge will rise
+OL,13,Fin September to 'manage traffic'
+OL,15,G413FMothers who took epilepsy drug
+OL,16,Fthat led to birth defects feel
+OL,17,F'abandoned'
+OL,19,G414FMan in 30s dies in police custody
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -251,7 +249,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -276,7 +274,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -301,7 +299,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -309,16 +307,15 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FPolice Ombudsman steps down over
-OL,9,F'commentary'
-OL,11,G442FChildren attacked the homes of
-OL,12,Ffellow pupils during disorder, says
-OL,13,Fminister
-OL,15,G443F'Substantial fire risk' found at
-OL,16,Fmajor NI hospital
-OL,18,G444FConcern raised as victims excluded
-OL,19,Ffrom mother and baby home redress
-OL,20,Fscheme
+OL,8,G441FPSNI officers attacked for second
+OL,9,Fnight in Londonderry
+OL,11,G442FPolice Ombudsman steps down over
+OL,12,F'commentary'
+OL,14,G443FChildren attacked the homes of
+OL,15,Ffellow pupils during disorder, says
+OL,16,Fminister
+OL,18,G444F'Substantial fire risk' found at
+OL,19,Fmajor NI hospital
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -326,7 +323,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -351,7 +348,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -376,7 +373,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -407,28 +404,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 18 JUN
-OL,4,G0800FCelebrity Antiques Road Trip
-OL,5,     GDragons' Den's Sara Davies and
-OL,6,     GStrictly's Amy Dowden take to the
-OL,7,     Groad in a Ford Cortina.
-OL,8,G0900FBBC News
-OL,9,G1115FPolitics Live
-OL,10,     GThe big political issues of the
-OL,11,     Gday.
-OL,12,G1300FTennis: Queen's
-OL,13,     GLive coverage from Queen's Club
-OL,14,     Gsecond round as top players chase
-OL,15,     GWimbledon prep.
-OL,16,G1800FRichard Osman's House of Games
-OL,17,     GKaye Adams, Alex Brooker, Kiell
-OL,18,     GSmith-Bynoe, and Isy Suttie
-OL,19,     Gcompete on House of Games:
-OL,20,     GChampions.
+OL,4,G0900FBBC News
+OL,5,G1115FPolitics Live
+OL,6,     GThe big political issues of the
+OL,7,     Gday.
+OL,8,G1300FTennis: Queen's
+OL,9,     GLive coverage from Queen's Club
+OL,10,     Gsecond round as top players chase
+OL,11,     GWimbledon prep.
+OL,12,G1800FRichard Osman's House of Games
+OL,13,     GKaye Adams, Alex Brooker, Kiell
+OL,14,     GSmith-Bynoe, and Isy Suttie
+OL,15,     Gcompete on House of Games:
+OL,16,     GChampions.
+OL,17,G1830FRobson Green's Weekend Escapes
+OL,18,     GRobson and Mark Benton swap
+OL,19,     Ghorsepower for horse-drawn
+OL,20,     Gcaravans in Eden Valley.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -436,27 +433,30 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 18 JUN
-OL,4,G0600FGood Morning Britain
-OL,5,     GNews, current affairs and lively
-OL,6,     Gdebate.
-OL,7,G0900FLorraine
-OL,8,     GLorraine investigates the
-OL,9,     Gworrying rise in teen skincare -
-OL,10,     Gis it helpful or harmful? And
-OL,11,     GAngela Scanlon on teaming up with
-OL,12,     GVicky Pattison for her new
-OL,13,     Gpodcast.
-OL,14,G1000FThis Morning
-OL,15,     GA magazine show featuring news,
-OL,16,     Gcelebrities, expert advice, real
-OL,17,     Gstories, and various topics.
-OL,18,G1300FITV Lunchtime News
-OL,19,G1320FRegional News
+OL,4,G0900FLorraine
+OL,5,     GLorraine investigates the
+OL,6,     Gworrying rise in teen skincare -
+OL,7,     Gis it helpful or harmful? And
+OL,8,     GAngela Scanlon on teaming up with
+OL,9,     GVicky Pattison for her new
+OL,10,     Gpodcast.
+OL,11,G1000FThis Morning
+OL,12,     GA magazine show featuring news,
+OL,13,     Gcelebrities, expert advice, real
+OL,14,     Gstories, and various topics.
+OL,15,G1300FITV Lunchtime News
+OL,16,G1320FRegional News
+OL,17,G1330FITV Racing Live: Royal Ascot
+OL,18,     GEd Chamberlin and Francesca
+OL,19,     GCumani present Royal Ascot 2025
+OL,20,     GDay 2, featuring the Prince of
+OL,21,     GWales' Stakes.
+OL,22,G1800FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -464,27 +464,30 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 18 JUN
-OL,4,G0810FThe King of Queens
-OL,5,     GDoug mentors a troubled boy who
-OL,6,     Gsurprises him by joining a
-OL,7,     Gchallenging 10km run.
-OL,8,G0840FThe King of Queens
-OL,9,     GSoft Touch: Doug signs up to a
-OL,10,     Gpyramid scheme.
-OL,11,G0910FFrasier
-OL,12,G0940FFrasier
-OL,13,G1010FFrasier
-OL,14,G1040FFrasier
-OL,15,G1110FRamsay's 24 Hours to Hell and Back
-OL,16,     GGordon updates Sandra Dee's 20-
-OL,17,     Gyear-old decor, kitchen, and menu
-OL,18,     Gin California.
-OL,19,G1205FChannel 4 News Summary
+OL,4,G0910FFrasier
+OL,5,G0940FFrasier
+OL,6,G1010FFrasier
+OL,7,G1040FFrasier
+OL,8,G1110FRamsay's 24 Hours to Hell and Back
+OL,9,     GGordon updates Sandra Dee's 20-
+OL,10,     Gyear-old decor, kitchen, and menu
+OL,11,     Gin California.
+OL,12,G1205FChannel 4 News Summary
+OL,13,G1210FHelp! We Bought a Village
+OL,14,     GPaul and Yip may sell their
+OL,15,     GNormandy village as Roberto's
+OL,16,     Gbridge between Italian ghost
+OL,17,     Gtowns nears opening.
+OL,18,G1310FFind It, Fix It, Flog It
+OL,19,     GHenry Cole and Simon O'Brien find
+OL,20,     Gmemorabilia in Dumfries and
+OL,21,     GGalloway, including a neglected
+OL,22,     Gcorner unit.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -492,29 +495,28 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 18 JUN
-OL,4,G0820FMilo
-OL,5,G0830FMixmups
-OL,6,G0840FBen and Holly's Little Kingdom
-OL,7,G0850FPeppa Pig
-OL,8,G0900FPeppa Pig
-OL,9,G0905FMilkshake! Off We Go!
-OL,10,     GJen hails a taxi, buckles up, and
-OL,11,     Grides through London, spotting
-OL,12,     Gfamous sights.
-OL,13,G0910FMilkshake! Story Den
-OL,14,G0915FJeremy Vine
-OL,15,     GJeremy Vine and guests discuss
-OL,16,     Gthe latest news and get your
-OL,17,     Gviews and opinions of the day.
-OL,18,G1130FStorm Huntley with Matt Allwright
-OL,19,     GMatt Allwright and guests discuss
-OL,20,     Gand take calls on the day's
-OL,21,     Gbiggest stories.
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and guests discuss
+OL,6,     Gthe latest news and get your
+OL,7,     Gviews and opinions of the day.
+OL,8,G1130FStorm Huntley with Matt Allwright
+OL,9,     GMatt Allwright and guests discuss
+OL,10,     Gand take calls on the day's
+OL,11,     Gbiggest stories.
+OL,12,G1230FVanessa
+OL,13,     GVanessa Feltz hosts a must-watch
+OL,14,     Gshow on relationships, parenting,
+OL,15,     Ggossip, and fashion.
+OL,16,G1340F5 News at Lunchtime
+OL,17,G1345FHome and Away
+OL,18,     GTheo is given a flicker of hope.
+OL,19,     GLeah's in overprotective mode.
+OL,20,     GRomance sparks at the safe house.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -522,28 +524,27 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1750231382
+OL,0,        ECIMSBWebfax     F498A1750235008
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 18 JUN
-OL,4,G0705FFate Takes a Hand
-OL,5,     GLetters from a stolen mail bag
-OL,6,     Gchange lives 15 years later in
-OL,7,     Gthis 1961 drama.
-OL,8,G0835FA Lifetime Ago with The Baim
-OL,9,     FCollection
-OL,10,     GDiscover the stunning 1960 French
-OL,11,     GRiviera coast and hidden mountain
-OL,12,     Gvillages beyond.
-OL,13,G0910FLife In Danger
-OL,14,     G1959 crime thriller by Terry
-OL,15,     GBishop: a child murderer escapes
-OL,16,     Gfrom an asylum.
-OL,17,G1025FThree Witnesses
-OL,18,     G1935 drama: a murder mystery
-OL,19,     Gunfolds during a contractors'
-OL,20,     Gfirm takeover bid.
+OL,4,G0910FLife In Danger
+OL,5,     G1959 crime thriller by Terry
+OL,6,     GBishop: a child murderer escapes
+OL,7,     Gfrom an asylum.
+OL,8,G1025FThree Witnesses
+OL,9,     G1935 drama: a murder mystery
+OL,10,     Gunfolds during a contractors'
+OL,11,     Gfirm takeover bid.
+OL,12,G1145FScott of the Antarctic
+OL,13,     G1948 adventure about explorer
+OL,14,     GRobert Falcon Scott's quest to
+OL,15,     Greach the South Pole first.
+OL,16,G1355FThe Brothers
+OL,17,     GSix months after the vote, the
+OL,18,     GHammond family has changed both
+OL,19,     Gpublicly and privately.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
