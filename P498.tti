@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -59,11 +59,11 @@ OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
 OL,8,G302FStarmer: Fixing welfare system is
 OL,9,F'moral imperative'
-OL,11,G303FMassive cocaine haul weighing more
-OL,12,Fthan a rhino seized at UK port
-OL,14,G304FThousands line streets for state
-OL,15,Ffunerals of Iranian officials killed
-OL,16,Fby Israel
+OL,11,G303FPatient ratings may be used by NHS
+OL,12,Fto decide whether hospitals receive
+OL,13,Ffunding
+OL,15,G304FMassive cocaine haul weighing more
+OL,16,Fthan a rhino seized at UK port
 OL,18,G305FKneecap set to perform at
 OL,19,FGlastonbury today despite backlash
 OL,20,Ffrom politicians
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -209,17 +209,16 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FHainault killer jailed for life
-OL,9,Ffor sword rampage
-OL,11,G402F'Like a horror film': Patient
-OL,12,Ftraps London Ambulance crew and
-OL,13,Fsmashes windscreen
-OL,15,G403FEuston disruption: Train
-OL,16,Fcancellations and delays after
-OL,17,Fderailment near London
-OL,19,G404FTwo police officers committed
-OL,20,F'gross misconduct' for strip searching
-OL,21,Fschoolgirl
+OL,8,G401FFugitive jailed for murder after
+OL,9,Fspending a year on the run
+OL,11,G402FHainault killer jailed for life
+OL,12,Ffor sword rampage
+OL,14,G403F'Like a horror film': Patient
+OL,15,Ftraps London Ambulance crew and
+OL,16,Fsmashes windscreen
+OL,18,G404FEuston disruption: Train
+OL,19,Fcancellations and delays after
+OL,20,Fderailment near London
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -227,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -253,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -279,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -305,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -313,16 +312,16 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FThe tax choice facing NI farmers
-OL,10,G442F'Depraved' killer jailed for 24
-OL,11,Fyears
-OL,13,G443FGrooming inquiry in England to
-OL,14,Ftrigger major changes in NI
-OL,16,G444FNorthern Ireland students make cut
-OL,17,Fat film awards
-OL,19,G445FEquality Commission to seek
-OL,20,Fclarity from High Court on gender
-OL,21,Fruling
+OL,8,G441FBBC won't show Kneecap live at
+OL,9,FGlastonbury but likely to upload set
+OL,10,Fafter
+OL,12,G442FThe tax choice facing NI farmers
+OL,14,G443F'Depraved' killer jailed for 24
+OL,15,Fyears
+OL,17,G444FGrooming inquiry in England to
+OL,18,Ftrigger major changes in NI
+OL,20,G445FNorthern Ireland students make cut
+OL,21,Fat film awards
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -330,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -356,7 +355,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -381,30 +380,30 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 JUN
-OL,4,G1520FWalking With Dinosaurs
-OL,5,     GThe epic tale of young Albie in a
-OL,6,     Gmassive Pachyrhinosaurus herd
-OL,7,     Gunfolds.
-OL,8,G1610FGarden Rescue
-OL,9,     GCharlie and Lee design an Italian
-OL,10,     Gcourtyard garden in Ledbury for
-OL,11,     GMiranda and Andrew's 25th.
-OL,12,G1655FThe Bidding Room
-OL,13,     GNigel Havers hosts as five
-OL,14,     Gsellers auction stilts, perfume,
-OL,15,     Glocks, a toy phone, and more.
-OL,16,G1740FBBC News
-OL,17,G1750FRegional News
-OL,18,G1755FWeather
-OL,19,G1800FCelebrity Bridge of Lies
-OL,20,     GRoss Kemp hosts a celebrity quiz
-OL,21,     Gwith Steve, Jason, Natasha, and
-OL,22,     GSunetra on Bridge of Lies.
+OL,4,G1655FThe Bidding Room
+OL,5,     GNigel Havers hosts as five
+OL,6,     Gsellers auction stilts, perfume,
+OL,7,     Glocks, a toy phone, and more.
+OL,8,G1740FBBC News
+OL,9,G1750FRegional News
+OL,10,G1755FWeather
+OL,11,G1800FCelebrity Bridge of Lies
+OL,12,     GRoss Kemp hosts a celebrity quiz
+OL,13,     Gwith Steve, Jason, Natasha, and
+OL,14,     GSunetra on Bridge of Lies.
+OL,15,G1845FThe Hit List
+OL,16,     GChris, James, Rickie, Charlie,
+OL,17,     GSam, and Martel compete to win
+OL,18,     G#10,000 for charity.
+OL,19,G1930FPointless Celebrities
+OL,20,     GCelebrities Fee Mak, DJ Spoony,
+OL,21,     GMatt Chorley, and others vie for
+OL,22,     Gthe Pointless trophy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -412,27 +411,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 JUN
-OL,4,G1405FOperation Crossbow
-OL,5,     GA team of agents must destroy a
-OL,6,     GNazi V-2 rocket base to stop
-OL,7,     Gbombs hitting London.
-OL,8,G1600FHidden Treasures of the National
-OL,9,     FTrust
-OL,10,     GSaving a dodo from extinction, a
-OL,11,     Gpicture's hidden history and a
-OL,12,     GVictorian garden showpiece.
-OL,13,G1700FGlastonbury 2025 Live
-OL,14,     GClara Amfo and Jack Saunders are
-OL,15,     Glive from day two at Glastonbury
-OL,16,     GFestival, introducing
-OL,17,     Gperformances from across the five
-OL,18,     Gmain stages. Contains scenes of
-OL,19,     Gflashing images.
+OL,4,G1600FHidden Treasures of the National
+OL,5,     FTrust
+OL,6,     GSaving a dodo from extinction, a
+OL,7,     Gpicture's hidden history and a
+OL,8,     GVictorian garden showpiece.
+OL,9,G1700FGlastonbury 2025 Live
+OL,10,     GClara Amfo and Jack Saunders are
+OL,11,     Glive from day two at Glastonbury
+OL,12,     GFestival, introducing
+OL,13,     Gperformances from across the five
+OL,14,     Gmain stages. Contains scenes of
+OL,15,     Gflashing images.
+OL,16,G1900FGlastonbury 2025 Live
+OL,17,     GLauren Laverne and Jack Saunders
+OL,18,     Glook over the site ahead of a
+OL,19,     Ghuge evening of music. Contains
+OL,20,     Gscenes of flashing images.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -440,30 +440,30 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 JUN
-OL,4,G1330FITV Racing: Live from Newcastle
-OL,5,     GOli Bell covers racing from
-OL,6,     GNewcastle, York, and The Curragh,
-OL,7,     Gfeaturing the Northumberland
-OL,8,     GPlate.
-OL,9,G1600FIn for a Penny
-OL,10,     GStephen Mulhern is in Liverpool,
-OL,11,     Gtraveling the country with his
-OL,12,     Gunique games!
-OL,13,G1630FTipping Point: Lucky Stars
-OL,14,     GBen Shephard hosts as Ollie
-OL,15,     GLocke, Denise Van Outen, and Axel
-OL,16,     GBlake compete for #20,000 charity.
-OL,17,G1730FDeal or No Deal: Celebrity Special
-OL,18,     GKatarina Johnson-Thompson
-OL,19,     Gcompetes for the jackpot with
-OL,20,     Ghost Stephen Mulhern.
-OL,21,G1830FITV Evening News
-OL,22,G1845FRegional News
+OL,4,G1630FTipping Point: Lucky Stars
+OL,5,     GBen Shephard hosts as Ollie
+OL,6,     GLocke, Denise Van Outen, and Axel
+OL,7,     GBlake compete for #20,000 charity.
+OL,8,G1730FDeal or No Deal: Celebrity Special
+OL,9,     GKatarina Johnson-Thompson
+OL,10,     Gcompetes for the jackpot with
+OL,11,     Ghost Stephen Mulhern.
+OL,12,G1830FITV Evening News
+OL,13,G1845FRegional News
+OL,14,G1900FThe Chase Celebrity Special
+OL,15,     GBradley Walsh hosts as
+OL,16,     Gcontestants compete against the
+OL,17,     GChasers to win charity prizes.
+OL,18,G2000FCasino Royale
+OL,19,     GDaniel Craig stars as 007 in a
+OL,20,     G2006 reboot, investigating a
+OL,21,     Gbanker linked to terrorism.
+OL,22,G2240FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -471,50 +471,57 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 JUN
-OL,4,G1555FSun, Sea and Selling Houses
-OL,5,     GThe Garners find a new home in
-OL,6,     GAlmeria as the Aldertons help
-OL,7,     GKevin and Liz relocate.
-OL,8,G1655FJamie: What to Eat This Week
-OL,9,     GJamie Oliver shares his favorite
-OL,10,     Gsummer meals, from crispy duck to
-OL,11,     Gcherry frangipane.
-OL,12,G1800FChannel 4 News
-OL,13,G1830FF1 Austrian GP Qualifying
-OL,14,     FHighlights
-OL,15,     GMax Verstappen aims to repeat
-OL,16,     G2024 pole at Red Bull's home,
-OL,17,     Gfacing McLaren and Mercedes.
+OL,4,G1655FJamie: What to Eat This Week
+OL,5,     GJamie Oliver shares his favorite
+OL,6,     Gsummer meals, from crispy duck to
+OL,7,     Gcherry frangipane.
+OL,8,G1800FChannel 4 News
+OL,9,G1830FF1 Austrian GP Qualifying
+OL,10,     FHighlights
+OL,11,     GMax Verstappen aims to repeat
+OL,12,     G2024 pole at Red Bull's home,
+OL,13,     Gfacing McLaren and Mercedes.
+OL,14,G1930FLive: UEFA U21s Final: England v
+OL,15,     FGermany
+OL,16,     GGermany beat England in the group
+OL,17,     Gstage, but the Young Lions may
+OL,18,     Gwell have come good at exactly
+OL,19,     Gthe right time. Which of these
+OL,20,     Gsides will win their fourth title
+OL,21,     Gtonight?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
-OL,26,@nD@Krt
 PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 JUN
-OL,4,G1330FLive: UK's Strongest Man 2025
-OL,5,     GLive from Nottingham: 12 athletes
-OL,6,     Gcompete in Semi Finals with Truck
-OL,7,     GPull, Stone Lift, Bar Bending.
-OL,8,G1630FSecrets of the Royal Palaces
-OL,9,     GReturn of the series exposing
-OL,10,     Guntold royal histories. Historian
-OL,11,     GKate Williams reveals the
-OL,12,     Gaccidental origins of Buckingham
-OL,13,     GPalace, and the most haphazard
-OL,14,     Groyal wedding in history.
-OL,15,G1725F5 News Weekend
+OL,4,G1630FSecrets of the Royal Palaces
+OL,5,     GReturn of the series exposing
+OL,6,     Guntold royal histories. Historian
+OL,7,     GKate Williams reveals the
+OL,8,     Gaccidental origins of Buckingham
+OL,9,     GPalace, and the most haphazard
+OL,10,     Groyal wedding in history.
+OL,11,G1725F5 News Weekend
+OL,12,G1735FInside The Tower of London
+OL,13,     FBuilding the World's Greatest
+OL,14,     FCastle
+OL,15,     GActor Jason Watkins and historian
+OL,16,     GTracy Borman explore the
+OL,17,     Gfascinating story of how the
+OL,18,     GTower grew into the impressive
+OL,19,     Gfortress complex we see today.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -522,27 +529,28 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751122720
+OL,0,        ECIMSBWebfax     F498A1751126327
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 JUN
-OL,4,G1510FHighway to Battle
-OL,5,     GBefore WWII, a German ambassador
-OL,6,     Gquestions his Nazi allegiance in
-OL,7,     Gthis 1961 thriller.
-OL,8,G1630FThe Man In The Iron Mask
-OL,9,     GIn 1977, D'Artagnan and
-OL,10,     Gmusketeers plan to replace King
-OL,11,     GLouis XIV with his twin.
-OL,12,G1835FDown to Sussex in 1964
-OL,13,     GA 1964 travelogue by Kenneth
-OL,14,     GFairbairn showcasing the South
-OL,15,     GDowns and the Weald.
-OL,16,G1900FMaigret
-OL,17,     GA timid man warns Maigret of his
-OL,18,     Gwife's murder plot, but is found
-OL,19,     Gdead.
+OL,4,G1630FThe Man In The Iron Mask
+OL,5,     GIn 1977, D'Artagnan and
+OL,6,     Gmusketeers plan to replace King
+OL,7,     GLouis XIV with his twin.
+OL,8,G1835FDown to Sussex in 1964
+OL,9,     GA 1964 travelogue by Kenneth
+OL,10,     GFairbairn showcasing the South
+OL,11,     GDowns and the Weald.
+OL,12,G1900FMaigret
+OL,13,     GA timid man warns Maigret of his
+OL,14,     Gwife's murder plot, but is found
+OL,15,     Gdead.
+OL,16,G2000FA Family At War
+OL,17,     GMichael struggles as Edwin and
+OL,18,     GJean clash over Margaret's
+OL,19,     Gpregnancy in 1971's Hope Against
+OL,20,     GHope.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
