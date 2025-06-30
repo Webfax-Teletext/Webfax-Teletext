@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,22 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FCould a controversial large scale
-OL,9,Fbattery system be coming to your area?
-OL,11,G303FTwo firefighters shot dead in Idaho
-OL,13,G304FGlastonbury Festival says chants
-OL,14,Fby Bob Vylan 'very much crossed a line'
-OL,16,G305FWelfare concessions to be set out
-OL,17,Fahead of crunch vote
-OL,19,G306FMonday set to be one of the
-OL,20,Fhottest June days ever with
-OL,21,Ftemperatures to hit 34C
+OL,8,G302FGlastonbury Festival says chants
+OL,9,Fby Bob Vylan 'very much crossed a line'
+OL,11,G303FITV Signed News: A round-up of the
+OL,12,Fweek's events
+OL,14,G304FCould a controversial large scale
+OL,15,Fbattery system be coming to your area?
+OL,17,G305FTwo firefighters shot dead in Idaho
+OL,19,G306FWelfare concessions to be set out
+OL,20,Fahead of crunch vote
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +73,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -98,7 +97,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -123,7 +122,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -149,7 +148,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -175,7 +174,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -209,15 +208,17 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FWomen in UK 'still not safe' as
-OL,9,Fmourners gather to remember murdered
-OL,10,FZara Aleena
-OL,12,G402FTwo injured after car crashes near
-OL,13,FPiccadilly Circus roundabout
-OL,15,G403FFugitive jailed for murder after
-OL,16,Fspending a year on the run
-OL,18,G404FHainault killer jailed for life
-OL,19,Ffor sword rampage
+OL,8,G401FFans camp out in Wimbledon ticket
+OL,9,Fqueue as SW19 tournament gets underway
+OL,11,G402FWomen in UK 'still not safe' as
+OL,12,Fmourners gather to remember murdered
+OL,13,FZara Aleena
+OL,15,G403FTwo injured after car crashes near
+OL,16,FPiccadilly Circus roundabout
+OL,18,G404FFugitive jailed for murder after
+OL,19,Fspending a year on the run
+OL,21,G405FHainault killer jailed for life
+OL,22,Ffor sword rampage
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -225,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -250,7 +251,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -258,17 +259,17 @@ OL,4,                             R"{4
 OL,5,BThe latest updates from      R?}
 OL,6,BITV News Tyne Tees            Rt
 OL,7,                               R*'#/'#
-OL,8,G421FMajor search underway for missing
-OL,9,Fboy, 13, on Teesside
-OL,11,G422FUS actor Kelsey Grammer goes
-OL,12,F'supercar shopping' in North East
-OL,14,G423FBeamish named Art Fund's 'Museum
-OL,15,Fof the Year'
-OL,17,G424FPolice force destroys records
-OL,18,Frelating to Miners' Strike and Orgreave
-OL,20,G425FFootage captures rescue of
-OL,21,Fschoolchildren kayaking and
-OL,22,Fpaddleboarding off coast
+OL,8,G421FFamily of boy, 13, found dead
+OL,9,Fafter river search thank emergency
+OL,10,Fservices
+OL,12,G422FMajor search underway for missing
+OL,13,Fboy, 13, on Teesside
+OL,15,G423FUS actor Kelsey Grammer goes
+OL,16,F'supercar shopping' in North East
+OL,18,G424FBeamish named Art Fund's 'Museum
+OL,19,Fof the Year'
+OL,21,G425FPolice force destroys records
+OL,22,Frelating to Miners' Strike and Orgreave
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -276,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -284,16 +285,16 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FTravel updates as the Glastonbury
-OL,9,FFestival 2025 clean-up begins
-OL,11,G432FGlastonbury day 5: Highlights on
-OL,12,Fthe last day of the 2025 festival
-OL,14,G433FGlastonbury day four: Who is
-OL,15,Fplaying and how hot will it get?
-OL,17,G434FTwo arrested after statues stolen
-OL,18,Ffrom manor house
-OL,20,G435FGlastonbury Festival 2025: Lewis
-OL,21,FCapaldi returns to the stage
+OL,8,G431FMan arrested on suspicion of
+OL,9,Fmurder after elderly woman found dead
+OL,11,G432FTravel updates as the Glastonbury
+OL,12,FFestival 2025 clean-up begins
+OL,14,G433FGlastonbury day 5: Highlights on
+OL,15,Fthe last day of the 2025 festival
+OL,17,G434FGlastonbury day four: Who is
+OL,18,Fplaying and how hot will it get?
+OL,20,G435FTwo arrested after statues stolen
+OL,21,Ffrom manor house
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -301,7 +302,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -327,7 +328,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -352,7 +353,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -377,25 +378,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 30 JUN
-OL,4,G1045FThe Moment of Proof
-OL,5,     GPolice are left confounded by a
-OL,6,     Gserial burglar's Houdini-style
-OL,7,     Gdisappearing act. But a single
-OL,8,     Gpiece of information brings the
-OL,9,     Ggame of hide-and-seek to a sudden
-OL,10,     Gend.
-OL,11,G1115FHomes Under the Hammer
-OL,12,     GThe walls threaten to come
-OL,13,     Gtumbling down for Martin at a mid-
-OL,14,     Gterrace in south Wales, and a
-OL,15,     GGrade II listed former church in
-OL,16,     GCambridgeshire has Tommy excited
-OL,17,     Gabout its potential.
+OL,4,G1115FHomes Under the Hammer
+OL,5,     GThe walls threaten to come
+OL,6,     Gtumbling down for Martin at a mid-
+OL,7,     Gterrace in south Wales, and a
+OL,8,     GGrade II listed former church in
+OL,9,     GCambridgeshire has Tommy excited
+OL,10,     Gabout its potential.
+OL,11,G1215FBargain Hunt
+OL,12,     GA huge antiques centre near
+OL,13,     GBradford beckons for two teams of
+OL,14,     Gbargain hunters, each of which
+OL,15,     Ghas a budget of #300 to buy three
+OL,16,     Gitems.
+OL,17,G1300FBBC News at One including
+OL,18,     FRegional News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -403,7 +405,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -432,7 +434,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -461,26 +463,26 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 30 JUN
-OL,4,G1040FFrasier
-OL,5,G1110FRamsay's 24 Hours to Hell and Back
-OL,6,     GGordon Ramsay visits Los Toros, a
-OL,7,     Gfamily-run Mexican restaurant in
-OL,8,     GChatsworth, California, to
-OL,9,     Grestyle the premises with a warm,
-OL,10,     Gmodern colour scheme and
-OL,11,     Gintroduce a new menu.
-OL,12,G1205FChannel 4 News Summary
-OL,13,G1210FHelp! We Bought a Village
-OL,14,     GKen and Pauline become the
-OL,15,     Gsurprise guardians of an entire
-OL,16,     GFrench hamlet. Carrie and Ross
-OL,17,     Ghunt for a property in Bulgaria's
-OL,18,     Gland of the lost villages.
+OL,4,G1205FChannel 4 News Summary
+OL,5,G1210FHelp! We Bought a Village
+OL,6,     GKen and Pauline become the
+OL,7,     Gsurprise guardians of an entire
+OL,8,     GFrench hamlet. Carrie and Ross
+OL,9,     Ghunt for a property in Bulgaria's
+OL,10,     Gland of the lost villages.
+OL,11,G1310FFind It, Fix It, Flog It
+OL,12,     GIt's a tank-off as Henry Cole
+OL,13,     Gturns a redundant water tank into
+OL,14,     Ga mobile shelving unit in
+OL,15,     GOxfordshire, while Simon O'Brien
+OL,16,     Gtransforms some old tanks into a
+OL,17,     Gpizza oven in Liverpool.
+OL,18,G1410FCountdown
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -488,27 +490,29 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 30 JUN
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and guests discuss
-OL,6,     Gthe latest news and get your
-OL,7,     Gviews and opinions of the day.
-OL,8,G1130FStorm Huntley with Matt Allwright
-OL,9,     GMatt Allwright and guests discuss
-OL,10,     Gand take calls on the day's
-OL,11,     Gbiggest stories.
-OL,12,G1230FVanessa
-OL,13,     GVanessa Feltz hosts a must-watch
-OL,14,     Gshow on relationships, parenting,
-OL,15,     Ggossip, and fashion.
-OL,16,G1345FHome and Away
-OL,17,     GCash and Eden's joy ends as River
-OL,18,     GBoys close in during a risky
-OL,19,     Grescue for Theo and Sonny.
+OL,4,G1130FStorm Huntley with Matt Allwright
+OL,5,     GMatt Allwright and guests discuss
+OL,6,     Gand take calls on the day's
+OL,7,     Gbiggest stories.
+OL,8,G1230FVanessa
+OL,9,     GVanessa Feltz hosts a must-watch
+OL,10,     Gshow on relationships, parenting,
+OL,11,     Ggossip, and fashion.
+OL,12,G1345FHome and Away
+OL,13,     GCash and Eden's joy ends as River
+OL,14,     GBoys close in during a risky
+OL,15,     Grescue for Theo and Sonny.
+OL,16,G1415FMurders to Die For
+OL,17,     GA true crime podcaster uncovers a
+OL,18,     Glocal murder and is drawn into a
+OL,19,     Gdeadly game of cat and mouse. 5
+OL,20,     Gnights. 5 killers. One deadly
+OL,21,     Gweek.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -516,30 +520,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751278018
+OL,0,        ECIMSBWebfax     F498A1751281632
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 30 JUN
-OL,4,G1020FHighway to Battle
-OL,5,     GBefore WWII, a German ambassador
-OL,6,     Gquestions his Nazi allegiance in
-OL,7,     Gthis 1961 thriller.
-OL,8,G1140FCover Girl Killer
-OL,9,     G1959. Crime. Someone is murdering
-OL,10,     Gcover girl models, leaving them
-OL,11,     Gin the same pose and place as
-OL,12,     Gfeatured in 'Wow' magazine.
-OL,13,     GStars: Harry H. Corbett, Felicity
-OL,14,     GYoung.
-OL,15,G1300FThe Court Martial of Major Keller
-OL,16,     G1961. Drama. Director: Ernest
-OL,17,     GMorris. Stars Laurence Payne,
-OL,18,     GRalph Michael, Basil Dignam.
-OL,19,     GDecorated British army officer,
-OL,20,     GMajor Keller, is court-martialled
-OL,21,     Gfor the murder of his commanding
-OL,22,     Gofficer.
+OL,4,G1140FCover Girl Killer
+OL,5,     G1959. Crime. Someone is murdering
+OL,6,     Gcover girl models, leaving them
+OL,7,     Gin the same pose and place as
+OL,8,     Gfeatured in 'Wow' magazine.
+OL,9,     GStars: Harry H. Corbett, Felicity
+OL,10,     GYoung.
+OL,11,G1300FThe Court Martial of Major Keller
+OL,12,     G1961. Drama. Director: Ernest
+OL,13,     GMorris. Stars Laurence Payne,
+OL,14,     GRalph Michael, Basil Dignam.
+OL,15,     GDecorated British army officer,
+OL,16,     GMajor Keller, is court-martialled
+OL,17,     Gfor the murder of his commanding
+OL,18,     Gofficer.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
