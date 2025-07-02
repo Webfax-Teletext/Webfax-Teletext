@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,25 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FMeet the ITV Weather Team across
-OL,9,Fthe UK
-OL,11,G303FHeatwave hits Greggs profits as
-OL,12,Fbaking Britons shun hot food
-OL,14,G304FLast-minute welfare U-turn will
-OL,15,Fhave a 'financial consequence',
-OL,16,Fminister says
-OL,18,G305FTrump says Israel agrees to 60-day
-OL,19,Fceasefire in Gaza and urges Hamas to
-OL,20,Faccept
+OL,8,G302FSmell of Victory: Donald Trump
+OL,9,Flaunches new fragrance that celebrates
+OL,10,F'winning'
+OL,12,G303FLast-minute welfare U-turn will
+OL,13,Fhave a 'financial consequence',
+OL,14,Fminister says
+OL,16,G304F'I want to look like I used to':
+OL,17,FMalnourished Amal, 7, pleads for help
+OL,18,Fin Gaza
+OL,20,G305FDalai Lama announces he will have
+OL,21,Fa successor: How is a spiritual leader
+OL,22,Fchosen?
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +76,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -132,17 +134,16 @@ OL,4,                      R~3!
 OL,5,BLatest updates from  R"o?!
 OL,6,BITV News Central      Roo/!
 OL,7,                      R"#
-OL,8,G371FBuildings evacuated after reports
-OL,9,Fof 'suspicious package' found in
-OL,10,FBirmingham
-OL,12,G372FMan held on suspicion of murder
-OL,13,Fafter prison inmate found dead in cell
-OL,15,G373F'Lego man' Black Sabbath
-OL,16,Fimmortalised in Lego with pint-sized
-OL,17,FPrince of Darkness
-OL,19,G374FDevoted mum with 'vibrant soul'
-OL,20,Fremembered by family after death in
-OL,21,FLeicester
+OL,8,G371FMan, 45, found guilty of murdering
+OL,9,Fmum and hiding her body under sofa
+OL,11,G372FBuildings evacuated after reports
+OL,12,Fof 'suspicious package' found in
+OL,13,FBirmingham
+OL,15,G373FMan held on suspicion of murder
+OL,16,Fafter prison inmate found dead in cell
+OL,18,G374F'Lego man' Black Sabbath
+OL,19,Fimmortalised in Lego with pint-sized
+OL,20,FPrince of Darkness
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -150,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -158,16 +159,16 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381FGuernsey Post to cut ten jobs in
-OL,9,Fefficiency savings
-OL,11,G382FTown centre reopens after being
-OL,12,Fevacuated over suspicious package
-OL,14,G383FJersey's largest food wholesaler
-OL,15,Fto close over unsustainable costs
-OL,17,G384FGuernsey elects its first female
-OL,18,FChief Minister
-OL,20,G385FFollow live as Guernsey elects its
-OL,21,Fnew Chief Minister
+OL,8,G381FPlans approved for 69 new homes in
+OL,9,FGuernsey
+OL,11,G382FGuernsey Post to cut ten jobs in
+OL,12,Fefficiency savings
+OL,14,G383FTown centre reopens after being
+OL,15,Fevacuated over suspicious package
+OL,17,G384FJersey's largest food wholesaler
+OL,18,Fto close over unsustainable costs
+OL,20,G385FGuernsey elects its first female
+OL,21,FChief Minister
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -175,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -186,12 +187,13 @@ OL,7,                              R"+'
 OL,8,G391FMorecambe FC on brink of entering
 OL,9,Fadministration after owner fails to
 OL,10,Fsell club
-OL,12,G392FIn-patient hospice unit to remain
-OL,13,Fpermanently closed
+OL,12,G392FBob Vylan's Manchester gig
+OL,13,Fcancelled
 OL,15,G393FKiller nurse Lucy Letby could face
 OL,16,Fmore charges
-OL,18,G394FFoo Fighters and Jack Fender bring
-OL,19,F#1.2 billion to region
+OL,18,G394FWoman falsely accused of
+OL,19,Fshoplifting calls for ban of AI
+OL,20,Frecognition cameras
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -199,7 +201,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -224,7 +226,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -232,16 +234,17 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FTributes paid to elderly sisters
-OL,9,Fkilled in collision while on 'morning
-OL,10,Fwalk'
-OL,12,G412FMan jailed for driving
-OL,13,Fdeliberately at victim causing him to
-OL,14,Fhave leg amputated
-OL,16,G413FWarning issued after police
-OL,17,Fofficers and teenager injured
-OL,19,G414FFemale tiger dies after being
-OL,20,Fattacked by male tiger at zoo
+OL,8,G411FAccidental deaths on railways at
+OL,9,Ffive-year high according to Network
+OL,10,FRail
+OL,12,G412FTributes paid to elderly sisters
+OL,13,Fkilled in collision while on 'morning
+OL,14,Fwalk'
+OL,16,G413FMan jailed for driving
+OL,17,Fdeliberately at victim causing him to
+OL,18,Fhave leg amputated
+OL,20,G414FWarning issued after police
+OL,21,Fofficers and teenager injured
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -249,7 +252,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -274,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -298,7 +301,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -306,17 +309,16 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FMan in court charged with pregnant
-OL,9,Fmum of two's murder
-OL,11,G442FNewly formed trust to protect
-OL,12,FLough Neagh
-OL,14,G443FTributes to 'wonderful mum'
-OL,15,Fmurdered in flat
-OL,17,G444FNI coastal defences 'ticking time
-OL,18,Fbomb'
-OL,20,G445FA5 upgrade: Infrastructure
-OL,21,Fminister 'looking at all options'
-OL,22,Fafter court quash
+OL,8,G441FBallymena sex assault accused
+OL,9,Fteenagers back in court
+OL,11,G442FSchool's artificial intelligence
+OL,12,Fhelping raise kids' self esteem
+OL,14,G443FMan in court charged with pregnant
+OL,15,Fmum of two's murder
+OL,17,G444FNewly formed trust to protect
+OL,18,FLough Neagh
+OL,20,G445FTributes to 'wonderful mum'
+OL,21,Fmurdered in flat
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -324,7 +326,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -349,7 +351,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -374,7 +376,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -404,28 +406,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 2 JUL
-OL,4,G1300FWimbledon
-OL,5,     GContinued live coverage from
-OL,6,     GWimbledon, where the second round
-OL,7,     Gis taking place. Presented by Isa
-OL,8,     GGuha.
-OL,9,G1500FWimbledon
-OL,10,     GFurther live coverage from
-OL,11,     GWimbledon, where the world's top
-OL,12,     Gtennis players are doing battle
-OL,13,     Gin the second round. Presented by
-OL,14,     GClare Balding.
-OL,15,G1900FWimbledon
-OL,16,     GFurther live coverage from
-OL,17,     GWimbledon, where the world's top
-OL,18,     Gtennis players are doing battle
-OL,19,     Gin the second round. Presented by
-OL,20,     GClare Balding.
+OL,4,G1500FWimbledon
+OL,5,     GFurther live coverage from
+OL,6,     GWimbledon, where the world's top
+OL,7,     Gtennis players are doing battle
+OL,8,     Gin the second round. Presented by
+OL,9,     GClare Balding.
+OL,10,G1900FWimbledon
+OL,11,     GFurther live coverage from
+OL,12,     GWimbledon, where the world's top
+OL,13,     Gtennis players are doing battle
+OL,14,     Gin the second round. Presented by
+OL,15,     GClare Balding.
+OL,16,G2200FInside No. 9
+OL,17,     GA talented piano tuner is forced
+OL,18,     Gto confront the power of a
+OL,19,     Gcenturies-old curse. Contains
+OL,20,     Gscenes which some viewers may
+OL,21,     Gfind upsetting.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -433,30 +436,28 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 2 JUL
-OL,4,G1400FJames Martin's Midweek Menu
-OL,5,     GJames Martin serves up some of
-OL,6,     Ghis favourite recipes from his
-OL,7,     GSaturday Morning series,
-OL,8,     Gincluding sea bass ceviche and a
-OL,9,     Gsteak that he treated Jordan
-OL,10,     GNorth and William Hanson to.
-OL,11,G1500FLingo
-OL,12,     GJane, Mick, Bilal, Joe, Scarlett,
-OL,13,     Gand Walter prove they're as good
-OL,14,     Gas their word.
-OL,15,G1600FUEFA Euro 2025: Iceland v Finland
-OL,16,     GLaura Woods presents coverage as
-OL,17,     GEuro 2025 kicks off in
-OL,18,     GSwitzerland with the opening game
-OL,19,     Gbetween Iceland - who reached the
-OL,20,     Glast eight in 2013 - and former
-OL,21,     Gsemi-finalists Finland.
-OL,22,G1915FRegional News
+OL,4,G1500FLingo
+OL,5,     GJane, Mick, Bilal, Joe, Scarlett,
+OL,6,     Gand Walter prove they're as good
+OL,7,     Gas their word.
+OL,8,G1600FUEFA Euro 2025: Iceland v Finland
+OL,9,     GLaura Woods presents coverage as
+OL,10,     GEuro 2025 kicks off in
+OL,11,     GSwitzerland with the opening game
+OL,12,     Gbetween Iceland - who reached the
+OL,13,     Glast eight in 2013 - and former
+OL,14,     Gsemi-finalists Finland.
+OL,15,G1915FRegional News
+OL,16,G1925FITV Evening News
+OL,17,G1930FEmmerdale
+OL,18,     GMarlon gets real with Paddy,
+OL,19,     GJacob comforts Sarah, and Vinny
+OL,20,     Gis awkward around Kammy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -464,25 +465,24 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 2 JUL
-OL,4,G1410FCountdown
-OL,5,G1500FA Place in the Sun
-OL,6,     GBarbara and Butch have #90k to
-OL,7,     Gspend on a holiday home in Lucca.
-OL,8,     GBen Hillman shows them five
-OL,9,     Goptions. Will any of them make
-OL,10,     GBarbara and Butch want to Lucc-
-OL,11,     Gagain?
-OL,12,G1600FNarrow Escapes
-OL,13,     GTracey and Tim launch their
-OL,14,     GAccessible Waterways scheme.
-OL,15,     GPeter and Noni navigate Foxton
-OL,16,     GLocks, one of the seven wonders
-OL,17,     Gof the waterways.
+OL,4,G1500FA Place in the Sun
+OL,5,     GBarbara and Butch have #90k to
+OL,6,     Gspend on a holiday home in Lucca.
+OL,7,     GBen Hillman shows them five
+OL,8,     Goptions. Will any of them make
+OL,9,     GBarbara and Butch want to Lucc-
+OL,10,     Gagain?
+OL,11,G1600FNarrow Escapes
+OL,12,     GTracey and Tim launch their
+OL,13,     GAccessible Waterways scheme.
+OL,14,     GPeter and Noni navigate Foxton
+OL,15,     GLocks, one of the seven wonders
+OL,16,     Gof the waterways.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -490,25 +490,25 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 2 JUL
-OL,4,G1345FHome and Away
-OL,5,     GLevi uncovers Mackenzie's fears
-OL,6,     Gabout pregnancy, while Eden
-OL,7,     Gfinally learns who told her
-OL,8,     Gfather about her engagement.
-OL,9,     GMeanwhile, Abigail has to decide
-OL,10,     Gif she's ready to leave Summer
-OL,11,     GBay behind.
-OL,12,G1420FThe Perfect Killer
-OL,13,     GAfter her dad is killed by a
-OL,14,     Gvoice mimicking her own, a teen
-OL,15,     Gand her stepmum suspect someone
-OL,16,     Gclose. 5 nights. 5 killers. One
-OL,17,     Gdeadly week.
+OL,4,G1420FThe Perfect Killer
+OL,5,     GAfter her dad is killed by a
+OL,6,     Gvoice mimicking her own, a teen
+OL,7,     Gand her stepmum suspect someone
+OL,8,     Gclose. 5 nights. 5 killers. One
+OL,9,     Gdeadly week.
+OL,10,G1600FBargain-Loving Brits in the Sun
+OL,11,     GKaren hunts antiques with husband
+OL,12,     GRob in Benidorm, Ant hosts a
+OL,13,     Gpacked fundraiser in Alicante,
+OL,14,     Gand 2-jobs Anthony juggles bar
+OL,15,     Gwindows and pool tables in sunny
+OL,16,     GSpain.
+OL,17,G1700F5 News at 5
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -516,25 +516,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751462311
+OL,0,        ECIMSBWebfax     F498A1751465923
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 2 JUL
-OL,4,G1355FThe Brothers
-OL,5,     GTiger by the Tail. 1975. Stars
-OL,6,     GJennifer Wilson & Colin Baker.
-OL,7,     GPaul Merroney is proving to be a
-OL,8,     Gman of ambition with confident
-OL,9,     Gplans for the company. Meanwhile,
-OL,10,     GBrian is less sure of himself.
-OL,11,G1500FThe Kansan
-OL,12,     G1943. Western. Directed by George
-OL,13,     GArchainbaud. Stars Richard Dix,
-OL,14,     GJane Wyatt & Albert Dekker. A
-OL,15,     Gcowboy's life takes a turn after
-OL,16,     Ghe stops a gang of thieves from
-OL,17,     Grobbing a bank in the town.
+OL,4,G1500FThe Kansan
+OL,5,     G1943. Western. Directed by George
+OL,6,     GArchainbaud. Stars Richard Dix,
+OL,7,     GJane Wyatt & Albert Dekker. A
+OL,8,     Gcowboy's life takes a turn after
+OL,9,     Ghe stops a gang of thieves from
+OL,10,     Grobbing a bank in the town.
+OL,11,G1640F1960s Torquay - The Perfect
+OL,12,     FHoliday Destination
+OL,13,     GNarrated by Johnny Morris this
+OL,14,     Gcharming travelogue shouts loudly
+OL,15,     Gand proudly of the wonders of
+OL,16,     GTorquay in the 1960s as a holiday
+OL,17,     Gdestination. Shot in Beautiful
+OL,18,     Gcolour.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
