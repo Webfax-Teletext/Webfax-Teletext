@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -60,13 +60,14 @@ OL,6,BITV News                   V +o,!
 OL,8,G302FTrump says Israel agrees to 60-day
 OL,9,Fceasefire in Gaza and urges Hamas to
 OL,10,Faccept
-OL,12,G303FWelfare U-turn raises questions
-OL,13,Fover Labour's tax plans
-OL,15,G304FCall for early action to tackle
-OL,16,F'alarming' rise of childhood obesity
-OL,18,G305FPupils with special needs 'have to
-OL,19,Ftravel further to school for suitable
-OL,20,Fplace'
+OL,12,G303FPublic asked to help choose theme
+OL,13,Fof next series of banknotes
+OL,15,G304FWelfare U-turn raises questions
+OL,16,Fover Labour's tax plans
+OL,18,G305FCall for early action to tackle
+OL,19,F'alarming' rise of childhood obesity
+OL,21,G306FHow Wales is preparing for their
+OL,22,FEuro 2025 debut in the 'group of death'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -124,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -150,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -175,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -183,17 +184,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391F'Sickle Cell isn't a black
-OL,9,Fdisease': Ex-Corrie star calls for
-OL,10,Fmore research
-OL,12,G392FSenior hospital bosses arrested
-OL,13,Ffollowing Lucy Letby conviction
-OL,15,G393FParents of baby killed by nursery
-OL,16,Fworker take campaign to Parliament
-OL,18,G394FMother and wife of football club
-OL,19,Fchairman killed in jet ski incident
-OL,21,G395FMan who served 36 years in jail
-OL,22,Ffor murder to have case reviewed
+OL,8,G391FFoo Fighters and Jack Fender bring
+OL,9,F#1.2 billion to region
+OL,11,G392F'Sickle Cell isn't a black
+OL,12,Fdisease': Ex-Corrie star calls for
+OL,13,Fmore research
+OL,15,G393FSenior hospital bosses arrested
+OL,16,Ffollowing Lucy Letby conviction
+OL,18,G394FParents of baby killed by nursery
+OL,19,Fworker take campaign to Parliament
+OL,21,G395FMother and wife of football club
+OL,22,Fchairman killed in jet ski incident
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -201,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -209,15 +210,16 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FNew police technology to help to
-OL,9,Fvisualise bruising in darker skin
-OL,11,G402FSt Albans student, ranked 733,
-OL,12,Fwins Wimbledon match but can't claim
-OL,13,F#99k prize
-OL,15,G403FHottest-ever start to Wimbledon
-OL,16,Fwith 29.7C recorded
-OL,18,G404FFans camp out in Wimbledon ticket
-OL,19,Fqueue as SW19 tournament gets underway
+OL,8,G401FBriton ranked at 733 'staying
+OL,9,Fpresent' ahead of Carlos Alcaraz
+OL,10,FWimbledon match
+OL,12,G402FNew police technology to help to
+OL,13,Fvisualise bruising in darker skin
+OL,15,G403FSt Albans student, ranked 733,
+OL,16,Fwins Wimbledon match but can't claim
+OL,17,F#99k prize
+OL,19,G404FHottest-ever start to Wimbledon
+OL,20,Fwith 29.7C recorded
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -225,7 +227,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -233,17 +235,17 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FWarning issued after police
-OL,9,Fofficers and teenager injured
-OL,11,G412FFemale tiger dies after being
-OL,12,Fattacked by male tiger at zoo
-OL,14,G413FMan seriously injured in Medieval
-OL,15,Fcombat re-enactment
-OL,17,G414FTaxi driver ordered to pay back
-OL,18,F#100,000 he made from people smuggling
-OL,20,G415FMembers of people smuggling
-OL,21,Fnetwork sentenced over small boat
-OL,22,Fcrossing
+OL,8,G411FMan jailed for driving
+OL,9,Fdeliberately at victim causing him to
+OL,10,Fhave leg amputated
+OL,12,G412FWarning issued after police
+OL,13,Fofficers and teenager injured
+OL,15,G413FFemale tiger dies after being
+OL,16,Fattacked by male tiger at zoo
+OL,18,G414FMan seriously injured in Medieval
+OL,19,Fcombat re-enactment
+OL,21,G415FTaxi driver ordered to pay back
+OL,22,F#100,000 he made from people smuggling
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -251,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -276,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -302,7 +304,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +330,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -352,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -377,7 +379,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -408,27 +410,26 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 2 JUL
-OL,4,G0800FCelebrity Antiques Road Trip
-OL,5,     GKent and Surrey host pop royalty
-OL,6,     GSamantha Fox and Sinitta for
-OL,7,     Gtheir road trip in a 1987 Locus
-OL,8,     GExcel. The powers behind the
-OL,9,     Gthrone are Steven Moore and Tim
-OL,10,     GMedhurst.
-OL,11,G0900FBBC News
-OL,12,G1115FPolitics Live
-OL,13,     GThe big political issues of the
-OL,14,     Gday.
-OL,15,G1300FWimbledon
-OL,16,     GContinued live coverage from
-OL,17,     GWimbledon, where the second round
-OL,18,     Gis taking place. Presented by Isa
-OL,19,     GGuha.
+OL,4,G0900FBBC News
+OL,5,G1115FPolitics Live
+OL,6,     GThe big political issues of the
+OL,7,     Gday.
+OL,8,G1300FWimbledon
+OL,9,     GContinued live coverage from
+OL,10,     GWimbledon, where the second round
+OL,11,     Gis taking place. Presented by Isa
+OL,12,     GGuha.
+OL,13,G1500FWimbledon
+OL,14,     GFurther live coverage from
+OL,15,     GWimbledon, where the world's top
+OL,16,     Gtennis players are doing battle
+OL,17,     Gin the second round. Presented by
+OL,18,     GClare Balding.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -436,29 +437,30 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 2 JUL
-OL,4,G0600FGood Morning Britain
-OL,5,     GNews, current affairs and lively
-OL,6,     Gdebate.
-OL,7,G0900FLorraine
-OL,8,     GLorraine Kelly offers
-OL,9,     Gentertainment, discussion,
-OL,10,     Gfashion, food, and celebrity
-OL,11,     Ggossip.
-OL,12,G1000FThis Morning
-OL,13,     GA magazine show featuring news,
-OL,14,     Gcelebrities, expert advice, real
-OL,15,     Gstories, and various topics.
-OL,16,G1230FLoose Women
-OL,17,     GLoose Women panellists interview
-OL,18,     Gcelebrities and discuss current
-OL,19,     Gaffairs and showbiz news.
-OL,20,G1915FRegional News
-OL,21,G1925FITV Evening News
+OL,4,G0900FLorraine
+OL,5,     GLorraine Kelly offers
+OL,6,     Gentertainment, discussion,
+OL,7,     Gfashion, food, and celebrity
+OL,8,     Ggossip.
+OL,9,G1000FThis Morning
+OL,10,     GA magazine show featuring news,
+OL,11,     Gcelebrities, expert advice, real
+OL,12,     Gstories, and various topics.
+OL,13,G1230FLoose Women
+OL,14,     GLoose Women panellists interview
+OL,15,     Gcelebrities and discuss current
+OL,16,     Gaffairs and showbiz news.
+OL,17,G1915FRegional News
+OL,18,G1925FITV Evening News
+OL,19,G1930FEmmerdale
+OL,20,     GMarlon gets real with Paddy,
+OL,21,     GJacob comforts Sarah, and Vinny
+OL,22,     Gis awkward around Kammy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -466,25 +468,29 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 2 JUL
-OL,4,G0810FThe King of Queens
-OL,5,     GHorizontal Hold: Carrie goes on
-OL,6,     Gsex strike, and Arthur dates a
-OL,7,     Gwoman who claims she used to be
-OL,8,     GFrank Sinatra's girlfriend.
-OL,9,G0840FThe King of Queens
-OL,10,     GInner Tube: After playing mud
-OL,11,     Gfootball, Doug dozes off in front
-OL,12,     Gof the TV and has some unusual
-OL,13,     Gdreams.
-OL,14,G0910FFrasier
-OL,15,G0940FFrasier
-OL,16,G1010FFrasier
-OL,17,G1040FFrasier
+OL,4,G0910FFrasier
+OL,5,G0940FFrasier
+OL,6,G1010FFrasier
+OL,7,G1040FFrasier
+OL,8,G1110FRamsay's 24 Hours to Hell and Back
+OL,9,     GGordon Ramsay revamps the menu
+OL,10,     Gand redecorates at Social, a
+OL,11,     Grestaurant in affluent Costa Mesa
+OL,12,     Gin California. What will the
+OL,13,     Gcustomers think of the
+OL,14,     Gimprovements?
+OL,15,G1205FChannel 4 News Summary
+OL,16,G1210FHelp! We Bought a Village
+OL,17,     GIn Bulgaria, Carrie and Ross try
+OL,18,     Gto turn back time. Lolly and Sean
+OL,19,     Gmake way for a new resident in
+OL,20,     GFrance. Michael attempts to
+OL,21,     Grescue a Spanish hamlet.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -492,28 +498,23 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 2 JUL
-OL,4,G0815FMilo
-OL,5,G0830FMixmups
-OL,6,G0840FBen and Holly's Little Kingdom
-OL,7,G0850FPeppa Pig
-OL,8,G0855FPeppa Pig
-OL,9,G0900FThe Real Pup Squad
-OL,10,     GIssy and her water-loving
-OL,11,     Gchocolate Labrador, Mo join The
-OL,12,     GReal Pup Squad! When a group of
-OL,13,     Gbaby ducklings waddles away from
-OL,14,     Gtheir mummy, it's up to Issy and
-OL,15,     GMo to bring them back safety
-OL,16,G0905FMilkshake! Story Den
-OL,17,G0915FJeremy Vine
-OL,18,     GJeremy Vine and guests discuss
-OL,19,     Gthe latest news and get your
-OL,20,     Gviews and opinions of the day.
+OL,4,G0915FJeremy Vine
+OL,5,     GJeremy Vine and guests discuss
+OL,6,     Gthe latest news and get your
+OL,7,     Gviews and opinions of the day.
+OL,8,G1130FStorm Huntley with Matt Allwright
+OL,9,     GMatt Allwright and guests discuss
+OL,10,     Gand take calls on the day's
+OL,11,     Gbiggest stories.
+OL,12,G1230FVanessa
+OL,13,     GVanessa Feltz hosts a must-watch
+OL,14,     Gshow on relationships, parenting,
+OL,15,     Ggossip, and fashion.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -521,24 +522,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751440614
+OL,0,        ECIMSBWebfax     F498A1751444225
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 2 JUL
-OL,4,G0700FNo Way Back
-OL,5,     G1949. Drama. A boxer begins on a
-OL,6,     Gdownward slide losing his wife
-OL,7,     Gand money. A childhood sweetheart
-OL,8,     Ghelps him but complications set
-OL,9,     Gin.
-OL,10,G0830FPart-Time Wife
-OL,11,     G1961. Comedy. Directed by Max
-OL,12,     GVarnel. Stars Anton Rodgers,
-OL,13,     GNyree Dawn Porter & Kenneth J.
-OL,14,     GWarren. A husband 'loans' his
-OL,15,     Gwife to his bachelor friend who
-OL,16,     Gneeds to make a good impression.
+OL,4,G0830FPart-Time Wife
+OL,5,     G1961. Comedy. Directed by Max
+OL,6,     GVarnel. Stars Anton Rodgers,
+OL,7,     GNyree Dawn Porter & Kenneth J.
+OL,8,     GWarren. A husband 'loans' his
+OL,9,     Gwife to his bachelor friend who
+OL,10,     Gneeds to make a good impression.
+OL,11,G0950FYou Were Never Lovelier
+OL,12,     G1942. Musical. Directed by
+OL,13,     GWilliam A. Seiter. Stars Fred
+OL,14,     GAstaire, Rita Hayworth & Adolphe
+OL,15,     GMenjou. A down-on-his-luck dancer
+OL,16,     Gromances an elegant woman against
+OL,17,     Gthe wishes of her suspicious
+OL,18,     Gfather.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
