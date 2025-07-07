@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -99,7 +99,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -109,15 +109,14 @@ OL,6,BITV News Calendar          R#!
 OL,7,                             R"#!
 OL,8,G361FMan who died three days after
 OL,9,Fassault named
-OL,11,G362FLeo Atang: The 18-year-old boxer
-OL,12,Fbranded the 'next Anthony Joshua'
-OL,14,G363FGirl, 16, dies a week after being
-OL,15,Fhit by car while crossing the road
-OL,17,G364FFire at family play farm believed
-OL,18,Fto be arson
-OL,20,G365FPupils locked themselves in
-OL,21,Fcupboard after school stabbing, court
-OL,22,Ftold
+OL,11,G362F'Why have you done that?': Pupil's
+OL,12,Flast words after being stabbed
+OL,14,G363FLeo Atang: The 18-year-old boxer
+OL,15,Fbranded the 'next Anthony Joshua'
+OL,17,G364FGirl, 16, dies a week after being
+OL,18,Fhit by car while crossing the road
+OL,20,G365FFire at family play farm believed
+OL,21,Fto be arson
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -125,7 +124,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +150,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -176,7 +175,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -201,7 +200,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -209,15 +208,16 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FWimbledon tennis grounds hit by
-OL,9,Flightning amid 'challenging' weather
-OL,11,G402F70 firefighters called to blaze on
-OL,12,FElectric Avenue
-OL,14,G403FLondon remembers 7/7 bombings,
-OL,15,Fwhich killed 52 people, on the 20th
-OL,16,Fanniversary
-OL,18,G404FFirst responders share horror over
-OL,19,FJuly 7 atrocities
+OL,8,G401FLondon remembers 7/7 bombings,
+OL,9,Fwhich killed 52 people, on the 20th
+OL,10,Fanniversary
+OL,12,G402FMan taken to hospital after
+OL,13,Fstabbing on high street
+OL,15,G403FNotting Hill Carnival fugitive
+OL,16,Ffound guilty of bus driver's stab
+OL,17,Fmurder
+OL,19,G404FWimbledon tennis grounds hit by
+OL,20,Flightning amid 'challenging' weather
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -225,7 +225,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -251,7 +251,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -277,7 +277,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -285,17 +285,16 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FMurder investigation proving
-OL,9,F'complex' and 'challenging', say police
-OL,11,G432FPolice appeal for witnesses
-OL,12,Ffollowing a stabbing in Plymouth
-OL,14,G433FPlans for hundreds of dedicated
-OL,15,Fspaces for van-dwellers as numbers
-OL,16,Fsurge
-OL,18,G434FTwo murder probes launched after
-OL,19,Fbody found during missing man search
-OL,21,G435FThree companies face prosecution
-OL,22,Fover Hinkley Point C death
+OL,8,G431FMilitary families to be
+OL,9,Fcompensated for serious water outage
+OL,10,Fafter MoD dispute
+OL,12,G432FMurder investigation proving
+OL,13,F'complex' and 'challenging', say police
+OL,15,G433FPolice appeal for witnesses
+OL,16,Ffollowing a stabbing in Plymouth
+OL,18,G434FPlans for hundreds of dedicated
+OL,19,Fspaces for van-dwellers as numbers
+OL,20,Fsurge
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -303,7 +302,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +327,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -336,12 +335,12 @@ OL,4,                      R G    R z4
 OL,5,BThe latest updates fromG  R`|u
 OL,6,BITV News Wales         G  R +';o/
 OL,7,                        G      R"#
-OL,8,G461FMother denies hitting toddler who
-OL,9,Fdied from head injury
-OL,11,G462FFive people deny murder of woman
-OL,12,Fwho was shot dead in Talbot Green
-OL,14,G463FTwo teenagers appear in court over
-OL,15,Falleged Barry murder
+OL,8,G461FTwo teenagers appear in court over
+OL,9,Falleged Barry murder
+OL,11,G462FMother denies hitting toddler who
+OL,12,Fdied from head injury
+OL,14,G463FFive people deny murder of woman
+OL,15,Fwho was shot dead in Talbot Green
 OL,17,G464F'Miscarriage of justice' fears
 OL,18,Fover brother and sister's deaths in
 OL,19,FPembrokeshire
@@ -354,7 +353,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,27 +378,25 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 7 JUL
-OL,4,G1800FBBC News
-OL,5,G1830FRegional News
-OL,6,G1900FWimbledon
-OL,7,     GClare Balding presents more
-OL,8,     Gtennis action from the All
-OL,9,     GEngland Club, Wimbledon, with the
-OL,10,     Gfourth round of the singles
-OL,11,     Gnearing its conclusion.
-OL,12,G2200FBBC News and Weather
-OL,13,G2230FRegional News
-OL,14,G2240FHave I Got News for You
-OL,15,     GMartin Clunes is host, with guest
-OL,16,     Gpanellists journalist Lyse Doucet
-OL,17,     Gand comedian Chloe Petts joining
-OL,18,     Gteam captains Paul Merton and Ian
-OL,19,     GHislop.
+OL,4,G1900FWimbledon
+OL,5,     GClare Balding presents more
+OL,6,     Gtennis action from the All
+OL,7,     GEngland Club, Wimbledon, with the
+OL,8,     Gfourth round of the singles
+OL,9,     Gnearing its conclusion.
+OL,10,G2200FBBC News and Weather
+OL,11,G2230FRegional News
+OL,12,G2240FHave I Got News for You
+OL,13,     GMartin Clunes is host, with guest
+OL,14,     Gpanellists journalist Lyse Doucet
+OL,15,     Gand comedian Chloe Petts joining
+OL,16,     Gteam captains Paul Merton and Ian
+OL,17,     GHislop.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -407,27 +404,29 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 7 JUL
-OL,4,G1500FWimbledon
-OL,5,     GFurther live and uninterrupted
-OL,6,     Gcoverage from the world-famous
-OL,7,     Ggrass courts of the All England
-OL,8,     GClub, where Wimbledon 2025 is
-OL,9,     Gtaking place.
-OL,10,G1900FHeatwaves: The New Normal?
-OL,11,     GHow hot is too hot? From heat
-OL,12,     Glabs to firefighting helicopter
-OL,13,     Gpilots and wineries, this is a
-OL,14,     Glook at how extreme heat impacts
-OL,15,     Gpeople and environments in the UK.
-OL,16,G1930FGrand Tours of Scotland's Rivers
-OL,17,     GPaul explores the lower reaches
-OL,18,     Gof the royal River Dee from
-OL,19,     GBallater to Aberdeen.
+OL,4,G1900FHeatwaves: The New Normal?
+OL,5,     GHow hot is too hot? From heat
+OL,6,     Glabs to firefighting helicopter
+OL,7,     Gpilots and wineries, this is a
+OL,8,     Glook at how extreme heat impacts
+OL,9,     Gpeople and environments in the UK.
+OL,10,G1930FGrand Tours of Scotland's Rivers
+OL,11,     GPaul explores the lower reaches
+OL,12,     Gof the royal River Dee from
+OL,13,     GBallater to Aberdeen.
+OL,14,G2000FYour Garden Made Perfect
+OL,15,     GRachael and Tom want to transform
+OL,16,     Gtheir outside space into a living
+OL,17,     Glarder.
+OL,18,G2100FScrublands: Silver
+OL,19,     GA witness claims to have seen
+OL,20,     GMandy dispose of the murder
+OL,21,     Gweapon.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -435,7 +434,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -465,51 +464,50 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 7 JUL
-OL,4,G1800FSun, Sea and Selling Houses
-OL,5,     GThe new series continues. In
-OL,6,     GAlmeria, the Garners help Janice
-OL,7,     Gand Stephen make their sun-soaked
-OL,8,     Gdreams come true. And can the
-OL,9,     GAldertons score a hole in one for
-OL,10,     Ggolfer James?
-OL,11,G1900FChannel 4 News
-OL,12,G2000FDover 24/7: Britain's Busiest Port
-OL,13,     GWith major works hampering port
-OL,14,     Goperations, the engineering crew
-OL,15,     Gget busy. And the team welcome
-OL,16,     Gsome very special visitors on the
-OL,17,     GChildren's Magical Taxi Tour.
+OL,4,G1900FChannel 4 News
+OL,5,G2000FDover 24/7: Britain's Busiest Port
+OL,6,     GWith major works hampering port
+OL,7,     Goperations, the engineering crew
+OL,8,     Gget busy. And the team welcome
+OL,9,     Gsome very special visitors on the
+OL,10,     GChildren's Magical Taxi Tour.
+OL,11,G2100F24 Hours in Police Custody
+OL,12,     GNightclub Predator: The inside
+OL,13,     Gstory of the investigation of a
+OL,14,     Gserial rapist continues. As
+OL,15,     Gevidence of more victims emerges,
+OL,16,     Gcan police stop the suspect
+OL,17,     Ggetting out on bail?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
-OL,26,@nD@Krt
 PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 7 JUL
-OL,4,G1800FDogs Behaving (Very) Badly
-OL,5,     GTwo Newfoundlands, who should be
-OL,6,     Gat the heart of a family, are
-OL,7,     Ginstead scaring them away.
-OL,8,     GGrandparents Dawn and Gordon
-OL,9,     Gwanted to do the right thing by
-OL,10,     Grescue dogs Simon and Panda.
-OL,11,G1900FTraffic Cops
-OL,12,     GAction-packed observational
-OL,13,     Gdocumentary series with Jamie
-OL,14,     GTheakston. A teenage driver goes
-OL,15,     Gon the rampage in a 7.5 tonne
-OL,16,     Gtruck, transporting stolen goods.
+OL,4,G1900FTraffic Cops
+OL,5,     GAction-packed observational
+OL,6,     Gdocumentary series with Jamie
+OL,7,     GTheakston. A teenage driver goes
+OL,8,     Gon the rampage in a 7.5 tonne
+OL,9,     Gtruck, transporting stolen goods.
+OL,10,G2000FMotorway Cops: Catching Britain's
+OL,11,     FSpeeders
+OL,12,     GA driver seems more concerned
+OL,13,     Gabout losing his footwear than
+OL,14,     Ggetting nicked! And late night, a
+OL,15,     GPC hunts for a suspected cloned
+OL,16,     Gcar linked to a recent burglary.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -517,29 +515,30 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1751908022
+OL,0,        ECIMSBWebfax     F498A1751911632
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 7 JUL
-OL,4,G1730FBonanza
-OL,5,     GBlood on the Land. 1960. Stars
-OL,6,     GPernell Roberts, Everett Sloane &
-OL,7,     GKen Lynch. When Ben tries to stop
-OL,8,     Gthe Drummonds from grazing his
-OL,9,     Gherd on the Ponderosa, Adam gets
-OL,10,     Gcaught and is taken hostage.
-OL,11,G1830FOut of Town
-OL,12,     GIron Ponds/Lobster Breeding.
-OL,13,     G1986. Jack Hargreaves fishes one
-OL,14,     Gof the hundreds of little ponds
-OL,15,     Gof Kent, relics of the iron age.
-OL,16,     GHe then visits a lobster research
-OL,17,     Gstation.
-OL,18,G1900FThe Footage Detectives
-OL,19,     GMike and Noel share rare Goon
-OL,20,     GShow reels with a special guest
-OL,21,     Gand Origami Rupert fun!
+OL,4,G1900FThe Footage Detectives
+OL,5,     GMike and Noel share rare Goon
+OL,6,     GShow reels with a special guest
+OL,7,     Gand Origami Rupert fun!
+OL,8,G2000FPublic Eye
+OL,9,     G1975. How About a Cup of Tea?
+OL,10,     GStars Alfred Burke, Ray Smith &
+OL,11,     GPeter Childs. Bruised & battered
+OL,12,     Gduring his last case, Marker
+OL,13,     Greceives a surprise visitor to
+OL,14,     Ghis hospital bed.
+OL,15,G2105FThe Anderson Tapes (1971)
+OL,16,     G1971. Crime Thriller. Directed by
+OL,17,     GSidney Lumet. Starring Martin
+OL,18,     GBalsam, Dyan Cannon, Sean
+OL,19,     GConnery, Christopher Walken. A
+OL,20,     Ghabitual criminal looks for
+OL,21,     Gfunding to set up his next
+OL,22,     Grobbery.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
