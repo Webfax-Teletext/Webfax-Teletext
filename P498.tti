@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,23 +50,24 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FWhy did the King and Prince
-OL,9,FHarry's senior staff decide to meet
-OL,10,Fface-to-face?
-OL,12,G303FMan arrested for alleged sexual
-OL,13,Fassault 'on set of Eastenders'
-OL,15,G304FStrike kills ten people collecting
-OL,16,Fwater in Gaza as total war deaths top
-OL,17,F58,000
-OL,19,G305FDonald Trump threatens to revoke
-OL,20,Fcomedian Rosie O'Donnell's citizenship
+OL,8,G302FUkraine says it killed Russian
+OL,9,Fagents suspected of shooting an
+OL,10,Fofficer dead
+OL,12,G303FStrike kills ten people collecting
+OL,13,Fwater in Gaza as total war deaths top
+OL,14,F58,000
+OL,16,G304FWhy did the King and Prince
+OL,17,FHarry's senior staff decide to meet
+OL,18,Fface-to-face?
+OL,20,G305FMan arrested for alleged sexual
+OL,21,Fassault 'on set of Eastenders'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -74,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +127,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +153,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +178,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -185,11 +186,11 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FOasis homecoming gigs pass without
-OL,9,Ftrouble
-OL,11,G392FHospital urges parents to
-OL,12,Fvaccinate after reports a child died
-OL,13,Ffrom measles
+OL,8,G391FHospital urges parents to
+OL,9,Fvaccinate after reports a child died
+OL,10,Ffrom measles
+OL,12,G392FOasis homecoming gigs pass without
+OL,13,Ftrouble
 OL,15,G393FSalford City match abandoned after
 OL,16,Fplayer racially abused
 OL,18,G394FSections of the Hotspur Press
@@ -202,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -228,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -236,16 +237,16 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FSearches ongoing for man missing
-OL,9,Ffor almost a week
-OL,11,G412FTwo teenagers killed after car
-OL,12,Fhits tree on country lane
-OL,14,G413FMajor river search underway for
-OL,15,Fman who 'got into difficulty' near lock
-OL,17,G414FFirefighters tackle large blaze at
-OL,18,FSurrey nature reserve
-OL,20,G415FGuard of honour for footballer who
-OL,21,Flost leg after being hit by car
+OL,8,G411FTwo teenagers killed after car
+OL,9,Fhits tree on country lane
+OL,11,G412FOne person killed after train
+OL,12,Fcrashes into van on level crossing
+OL,14,G413FSearches ongoing for man missing
+OL,15,Ffor almost a week
+OL,17,G414FMajor river search underway for
+OL,18,Fman who 'got into difficulty' near lock
+OL,20,G415FFirefighters tackle large blaze at
+OL,21,FSurrey nature reserve
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -253,7 +254,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -278,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -304,7 +305,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -353,7 +354,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -378,7 +379,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -406,30 +407,24 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 13 JUL
-OL,4,G1700FFlog It!
-OL,5,     GPaul Martin and experts Will Axon
-OL,6,     Gand Mark Stacey visit Powderham
-OL,7,     GCastle in Devon. Items uncovered
-OL,8,     Ginclude a pristine collection of
-OL,9,     GDinky toys.
-OL,10,G1800FMy Tiger Family
-OL,11,     GIn the jungles of north west
-OL,12,     GIndia, there lives a remarkable
-OL,13,     Gwild tiger family. Now, using 50
-OL,14,     Gyears of footage, the story of
-OL,15,     Gtheir matriarchal clan is pieced
-OL,16,     Gtogether.
-OL,17,G1900FCountryfile
-OL,18,     GAdam Henson is in the Vale of
-OL,19,     GEvesham to meet the Padda family
-OL,20,     G- three generations running one
-OL,21,     Gof the UK's most vibrant soft
-OL,22,     Gfruit farms.
+OL,4,G1800FMy Tiger Family
+OL,5,     GIn the jungles of north west
+OL,6,     GIndia, there lives a remarkable
+OL,7,     Gwild tiger family. Now, using 50
+OL,8,     Gyears of footage, the story of
+OL,9,     Gtheir matriarchal clan is pieced
+OL,10,     Gtogether.
+OL,11,G1900FCountryfile
+OL,12,     GAdam Henson is in the Vale of
+OL,13,     GEvesham to meet the Padda family
+OL,14,     G- three generations running one
+OL,15,     Gof the UK's most vibrant soft
+OL,16,     Gfruit farms.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -437,29 +432,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 13 JUL
-OL,4,G1740FThe Chase Celebrity Special
-OL,5,     GBradley Walsh hosts as David
-OL,6,     GJames, Lucrezia Millarini, Myles
-OL,7,     GStephenson and Joe Sugg take on
-OL,8,     Gthe challenge in the hope of
-OL,9,     Gwinning thousands of pounds for
-OL,10,     Gtheir chosen charities.
-OL,11,G1830FITV Evening News
-OL,12,G1845FRegional News
-OL,13,G1900FUEFA Women's Euro 2025: England v
-OL,14,     FWales
-OL,15,     GLaura Woods presents coverage
-OL,16,     Galongside Emma Hayes, Karen
-OL,17,     GCarney and Jayne Ludlow as the
-OL,18,     GUEFA Women's Euro 2025 group
-OL,19,     Gstage draws to a close with a
-OL,20,     Gmatch between England and Wales.
-OL,21,G2230FITV News
+OL,4,G1830FITV Evening News
+OL,5,G1845FRegional News
+OL,6,G1900FUEFA Women's Euro 2025: England v
+OL,7,     FWales
+OL,8,     GLaura Woods presents coverage
+OL,9,     Galongside Emma Hayes, Karen
+OL,10,     GCarney and Jayne Ludlow as the
+OL,11,     GUEFA Women's Euro 2025 group
+OL,12,     Gstage draws to a close with a
+OL,13,     Gmatch between England and Wales.
+OL,14,G2230FITV News
+OL,15,G2245FJaws
+OL,16,     GSteven Spielberg's 1975 thriller
+OL,17,     Gfeatures a coastal town battling
+OL,18,     Ga great white shark.
+OL,19,G0115FShop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -467,26 +460,25 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 13 JUL
-OL,4,G1730FChannel 4 News
-OL,5,G1800FFisherman's Friends
-OL,6,     GHeart-warming comedy based on the
-OL,7,     Greal-life story of the Cornish
-OL,8,     Gfolk ensemble who took the UK
-OL,9,     Gcharts by storm in 2010, starring
-OL,10,     GDaniel Mays and Tuppence
-OL,11,     GMiddleton.
-OL,12,G2000FJimmy Doherty's Big Bear Rescue
-OL,13,     GJimmy and the team make a vast
-OL,14,     Greserve for a pack of homeless
-OL,15,     Gwolves. Can the wolves sort their
-OL,16,     Gdifferences and settle in? Ewa
-OL,17,     Gthe polar bear's joined by Flocke
-OL,18,     Gand Tala.
+OL,4,G1800FFisherman's Friends
+OL,5,     GHeart-warming comedy based on the
+OL,6,     Greal-life story of the Cornish
+OL,7,     Gfolk ensemble who took the UK
+OL,8,     Gcharts by storm in 2010, starring
+OL,9,     GDaniel Mays and Tuppence
+OL,10,     GMiddleton.
+OL,11,G2000FJimmy Doherty's Big Bear Rescue
+OL,12,     GJimmy and the team make a vast
+OL,13,     Greserve for a pack of homeless
+OL,14,     Gwolves. Can the wolves sort their
+OL,15,     Gdifferences and settle in? Ewa
+OL,16,     Gthe polar bear's joined by Flocke
+OL,17,     Gand Tala.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -494,25 +486,25 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 13 JUL
-OL,4,G1705FThe Great Plague with Rob Rinder
-OL,5,     F& Ruth Goodman
-OL,6,     GNearly a quarter of Londoners
-OL,7,     Gdied. But did it have the same
-OL,8,     Gimpact on the rich and the poor?
-OL,9,     GRob and historian Ruth step into
-OL,10,     Gtheir shoes to discover the truth.
-OL,11,G1830FFIFA CWC Final: Chelsea vs PSG
-OL,12,     GChelsea, led by new signing Joao
-OL,13,     GPedro, try to upset the Champions
-OL,14,     GLeague winners Paris Saint-
-OL,15,     GGermain, themselves in sparkling
-OL,16,     Gform following a Semi Final
-OL,17,     Gdemolition of Real Madrid.
+OL,4,G1830FFIFA CWC Final: Chelsea vs PSG
+OL,5,     GChelsea, led by new signing Joao
+OL,6,     GPedro, try to upset the Champions
+OL,7,     GLeague winners Paris Saint-
+OL,8,     GGermain, themselves in sparkling
+OL,9,     Gform following a Semi Final
+OL,10,     Gdemolition of Real Madrid.
+OL,11,G2255FPolice: Suspect No. 1
+OL,12,     GDetectives suspect that a series
+OL,13,     Gof burglaries targeting the
+OL,14,     Gelderly and vulnerable might be
+OL,15,     Gthe work of one man. Can CID
+OL,16,     GInspector Tom Smith take this
+OL,17,     Gdangerous man off the streets?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -520,29 +512,29 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax     F498A1752424846
+OL,0,        ECIMSBWebfax     F498A1752428459
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 13 JUL
-OL,4,G1700FThe Footage Detectives
-OL,5,     GWe take a trip to the Cotswolds
-OL,6,     Gin 1948, look at Alexandra Palace
-OL,7,     Gand the birth of television in
-OL,8,     G1936, Noel has a very interesting
-OL,9,     Greel about a ladder, and do you
-OL,10,     Gremember milk machines?
-OL,11,G1800FFather's Little Dividend
-OL,12,     G1951. Comedy. Director: Vincente
-OL,13,     GMinnelli. Stars Elizabeth Taylor,
-OL,14,     GSpencer Tracy & Joan Bennett.
-OL,15,     GStanley Banks is still recovering
-OL,16,     Gfrom his daughter's wedding when
-OL,17,     Ghe learns that she is pregnant.
-OL,18,G1940FLook At Life Trouble Shooters
-OL,19,     G1964. Filmed in Sarawak, we take
-OL,20,     Ga look at Britain's trouble
-OL,21,     Gshooters - the Royal Marines.
+OL,4,G1800FFather's Little Dividend
+OL,5,     G1951. Comedy. Director: Vincente
+OL,6,     GMinnelli. Stars Elizabeth Taylor,
+OL,7,     GSpencer Tracy & Joan Bennett.
+OL,8,     GStanley Banks is still recovering
+OL,9,     Gfrom his daughter's wedding when
+OL,10,     Ghe learns that she is pregnant.
+OL,11,G1940FLook At Life Trouble Shooters
+OL,12,     G1964. Filmed in Sarawak, we take
+OL,13,     Ga look at Britain's trouble
+OL,14,     Gshooters - the Royal Marines.
+OL,15,G1950FTerror By Night
+OL,16,     G1946. Crime Drama. Starring:
+OL,17,     GBasil Rathbone, Nigel Bruce &
+OL,18,     GAlan Mowbray. When a diamond is
+OL,19,     Gstolen on a train and the son of
+OL,20,     Gits owner is murdered, everybody
+OL,21,     Gis a suspect to Sherlock Holmes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
