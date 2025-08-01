@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c010
-OL,0,        ECIMSBWebfax     F1fcA1754023044
+OL,0,        ECIMSBWebfax     F1fcA1754026659
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1754023044;
-OL,10,GService: Webfax - 23278 5cf0638d346
-OL,11,FLast Update: 01/08/2025 05:37:24  G1/2
+OL,25,1754026658;
+OL,10,GService: Webfax - 23279 2cce222d120
+OL,11,FLast Update: 01/08/2025 06:37:38  G1/2
 OL,13,Ageneric/national_weather   G01/08-05:05
 OL,14,CitvSport/border            G28/07-18:14
 OL,15,CitvSport/calendar          G23/07-21:55
@@ -30,7 +30,7 @@ OL,23,CitvSport/utv               G26/07-17:07
 PN,1fc02
 SC,0002
 PS,c010
-OL,0,        ECIMSBWebfax     F1fcA1754023044
+OL,0,        ECIMSBWebfax     F1fcA1754026659
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,13 +42,11 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1754023044;
-OL,10,GService: Webfax - 23278 5cf0638d346
-OL,11,FLast Update: 01/08/2025 05:37:24  G2/2
+OL,25,1754026658;
+OL,10,GService: Webfax - 23279 2cce222d120
+OL,11,FLast Update: 01/08/2025 06:37:38  G2/2
 OL,13,CitvSport/wales             G23/07-21:55
 OL,14,CitvSport/westcountry       G23/07-21:55
 OL,15,Amet_weather/504            G01/08-03:26
-OL,16,Amet_weather/506            G01/08-02:10
-OL,17,Amet_weather/509            G01/08-05:36
-OL,18,Amet_weather/513            G01/08-03:43
-OL,19,Amet_weather/514            G31/07-22:43
+OL,16,Amet_weather/509            G01/08-05:36
+OL,17,Amet_weather/513            G01/08-03:43
