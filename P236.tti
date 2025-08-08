@@ -1,8 +1,8 @@
 PN,23601
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1754630439
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/5
+OL,0,        ECIMSBWebfax     F236A1754634053
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G1/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 AUG
@@ -30,8 +30,8 @@ FL,237,200,140,260,000,100
 PN,23602
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1754630439
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/5
+OL,0,        ECIMSBWebfax     F236A1754634053
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G2/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 AUG
@@ -39,29 +39,30 @@ OL,4,G1230FBBC News
 OL,5,     GThe latest news from the BBC.
 OL,6,G1300FBBC News
 OL,7,     GThe latest news from the BBC.
-OL,8,G1330FTalking Movies
-OL,9,     GTom Brook travels to Berlin to
-OL,10,     Gexplore some German cinema
-OL,11,     Gclassics.
-OL,12,G1400FBBC News
-OL,13,     GThe latest news from the BBC.
-OL,14,G1430FThe President's Path
-OL,15,     GJoin Caitriona Perry and Sumi
-OL,16,     GSomaskanda for a dynamic weekly
-OL,17,     Gdiscussion on the US presidency.
-OL,18,G1500FBBC News
-OL,19,     GThe latest news from the BBC.
-OL,20,G1530FBBC News
-OL,21,     GThe latest news from the BBC.
+OL,8,G1330FTalking Movies: German Cinema
+OL,9,     FClassics
+OL,10,     GTom Brook travels to Berlin to
+OL,11,     Gexplore some German cinema
+OL,12,     Gclassics.
+OL,13,G1400FBBC News
+OL,14,     GThe latest news from the BBC.
+OL,15,G1430FThe President's Path
+OL,16,     GJoin Caitriona Perry and Sumi
+OL,17,     GSomaskanda for a dynamic weekly
+OL,18,     Gdiscussion on the US presidency.
+OL,19,G1500FBBC News
+OL,20,     GThe latest news from the BBC.
+OL,21,G1530FBBC News
+OL,22,     GThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
-OL,26,@wD@Prt
+OL,26,@xD@Prt
 PN,23603
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1754630439
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/5
+OL,0,        ECIMSBWebfax     F236A1754634053
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G3/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 AUG
@@ -87,8 +88,8 @@ FL,237,200,140,260,000,100
 PN,23604
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1754630439
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/5
+OL,0,        ECIMSBWebfax     F236A1754634053
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G4/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 AUG
@@ -117,13 +118,73 @@ FL,237,200,140,260,000,100
 PN,23605
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax     F236A1754630439
-OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/5
+OL,0,        ECIMSBWebfax     F236A1754634053
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G5/7
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 9 AUG
 OL,4,G0000FBBC News
 OL,5,     GThe latest news from the BBC.
+OL,6,G0030FThe Media Show
+OL,7,     GTaiwan's new military drama,
+OL,8,     Gleaked Tesla files, Downing
+OL,9,     GStreet's influencer push.
+OL,10,G0100FBBC News
+OL,11,     GThe latest news from the BBC.
+OL,12,G0130FTalking Movies
+OL,13,     GTom Brook travels to Berlin to
+OL,14,     Gexplore some German cinema
+OL,15,     Gclassics.
+OL,16,G0200FBBC News
+OL,17,     GThe latest news from the BBC.
+OL,18,G0230FUkrainecast
+OL,19,     GIn-depth coverage and analysis of
+OL,20,     Gthe ongoing war in Ukraine.
+OL,21,G0300FBBC News
+OL,22,     GThe latest news from the BBC.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,237,200,140,260,000,100
+PN,23606
+SC,0006
+PS,c008
+OL,0,        ECIMSBWebfax     F236A1754634053
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G6/7
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,3,CProgramme listings for SAT 9 AUG
+OL,4,G0330FAI Decoded
+OL,5,     GAI Decoded looks at the Chinese
+OL,6,     Groom argument, which challenges
+OL,7,     Gthe claim AI can genuinely
+OL,8,     Gunderstand language, let alone
+OL,9,     Gpossess true consciousness.
+OL,10,G0400FBBC News
+OL,11,     GThe latest news from the BBC.
+OL,12,G0430FWhat Happened at Hiroshima
+OL,13,     GEighty years after the first
+OL,14,     Gatomic bomb used in war, Jordan
+OL,15,     GDunbar hears from survivors.
+OL,16,G0500FBBC News
+OL,17,     GThe latest news from the BBC.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,237,200,140,260,000,100
+PN,23607
+SC,0007
+PS,c008
+OL,0,        ECIMSBWebfax     F236A1754634053
+OL,1,W{${$~+$ ~k4~sj5j5~s1           G7/7
+OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for
+OL,3,CProgramme listings for SAT 9 AUG
+OL,4,G0530FTech Now
+OL,5,     GExploring some of the latest tech
+OL,6,     Ginnovations in the world of
+OL,7,     Gsport, including AI in boxing,
+OL,8,     Gthe Esports World Cup, e-bikes
+OL,9,     Gand Paralympic wheelchair fencers
+OL,10,     Gusing biomechanics.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,000,100
