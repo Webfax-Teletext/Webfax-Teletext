@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -109,16 +109,17 @@ OL,4,                          R//0
 OL,5,BThe latest updates from   R*///4
 OL,6,BITV News Calendar          R#!
 OL,7,                             R"#!
-OL,8,G361FArson investigation after pub fire
-OL,9,Fcauses 'significant damage'
-OL,11,G362FTwo people rescued from car which
-OL,12,Foverturned on to embankment
-OL,14,G363FMan seriously injured in shotgun
-OL,15,Fand knife attack
-OL,17,G364FJewel thieves who tied up
-OL,18,Fshopkeeper jailed
-OL,20,G365FTeenager arrested after young
-OL,21,Fchild found in water
+OL,8,G361FCalls for review of 'lenient'
+OL,9,Fsentence for driver who killed two
+OL,10,Fteenagers
+OL,12,G362FArson investigation after pub fire
+OL,13,Fcauses 'significant damage'
+OL,15,G363FTwo people rescued from car which
+OL,16,Foverturned on to embankment
+OL,18,G364FMan seriously injured in shotgun
+OL,19,Fand knife attack
+OL,21,G365FJewel thieves who tied up
+OL,22,Fshopkeeper jailed
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -126,7 +127,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +153,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +178,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -185,16 +186,16 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FPolice release footage of arrest
-OL,9,Fof teen boy believed to be riding
-OL,10,Fstolen E-Bike
-OL,12,G392FWoman arrested after man stabbed
-OL,13,Foutside pub
-OL,15,G393FPolice issue 36 hour dispersal
-OL,16,Forder on supercars in Alderley Edge
-OL,18,G394FHeartwarming moment Coldplay
-OL,19,Fbrought young autistic DJ from
-OL,20,FLiverpool on stage
+OL,8,G391FIn pictures: Everton's new stadium
+OL,9,Fhosts Premier League action for first
+OL,10,Ftime
+OL,12,G392FPolice release footage of arrest
+OL,13,Fof teen boy believed to be riding
+OL,14,Fstolen E-Bike
+OL,16,G393FWoman arrested after man stabbed
+OL,17,Foutside pub
+OL,19,G394FPolice issue 36 hour dispersal
+OL,20,Forder on supercars in Alderley Edge
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -202,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -228,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -254,7 +255,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -280,7 +281,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -306,7 +307,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -331,7 +332,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -357,7 +358,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -382,7 +383,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -407,30 +408,24 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 24 AUG
-OL,4,G1615FFake or Fortune: What Happened
-OL,5,     FNext?
-OL,6,     GA Double Whodunnit. The team find
-OL,7,     Gout why two historic paintings of
-OL,8,     GBlack British women have soared
-OL,9,     Gin value.
-OL,10,G1715FFlog It!
-OL,11,     GPaul Martin and experts Mark
-OL,12,     GStacey, Anita Manning and David
-OL,13,     GFletcher are at Tatton Park in
-OL,14,     GCheshire.
-OL,15,G1745FGreat British Classics at the
-OL,16,     FProms
-OL,17,     GVaughan Williams's The Lark
-OL,18,     GAscending, Elgar's much-loved
-OL,19,     GNimrod, and Britten's Four Sea
-OL,20,     GInterludes in this musical
-OL,21,     Gcelebration of landscapes and
-OL,22,     Gseascapes.
+OL,4,G1715FFlog It!
+OL,5,     GPaul Martin and experts Mark
+OL,6,     GStacey, Anita Manning and David
+OL,7,     GFletcher are at Tatton Park in
+OL,8,     GCheshire.
+OL,9,G1745FGreat British Classics at the
+OL,10,     FProms
+OL,11,     GVaughan Williams's The Lark
+OL,12,     GAscending, Elgar's much-loved
+OL,13,     GNimrod, and Britten's Four Sea
+OL,14,     GInterludes in this musical
+OL,15,     Gcelebration of landscapes and
+OL,16,     Gseascapes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -438,27 +433,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 24 AUG
-OL,4,G1505FNever Say Never Again
-OL,5,     GAction film starring Sean Connery
-OL,6,     Gand Kim Basinger, 1983. James
-OL,7,     GBond is summoned when the
-OL,8,     Gvillainous SPECTRE organisation
-OL,9,     Gsteals two nuclear bombs and
-OL,10,     Gthreatens to detonate them.
-OL,11,G1735FThe Chase
-OL,12,     GBradley Walsh hosts as Rachel
-OL,13,     Gfrom Stoke-on-Trent, Karim from
-OL,14,     GCardiff, Ru from Slough and Dylan
-OL,15,     Gfrom Belfast work together as a
-OL,16,     Gteam and face one of the
-OL,17,     Gcountry's finest quizzers.
-OL,18,G1830FITV Evening News
-OL,19,G1845FRegional News
+OL,4,G1735FThe Chase
+OL,5,     GBradley Walsh hosts as Rachel
+OL,6,     Gfrom Stoke-on-Trent, Karim from
+OL,7,     GCardiff, Ru from Slough and Dylan
+OL,8,     Gfrom Belfast work together as a
+OL,9,     Gteam and face one of the
+OL,10,     Gcountry's finest quizzers.
+OL,11,G1830FITV Evening News
+OL,12,G1845FRegional News
+OL,13,G1900FCooking with the Stars
+OL,14,     GEmma Willis and Tom Allen host as
+OL,15,     Gstars Natalie Cassidy, Jack
+OL,16,     GOsbourne, Kelly Hoppen, Jordan
+OL,17,     GNorth and Shaun Wright-Phillips
+OL,18,     Gtry to impress with family
+OL,19,     Gfavourite dishes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -466,27 +461,26 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 24 AUG
-OL,4,G1625FFour in a Bed
-OL,5,     GIt's payment day, and the B&Bers
-OL,6,     Gget to the bottom of fussy
-OL,7,     Gfeedback - and have a good old-
-OL,8,     Gfashioned barney while doing it.
-OL,9,     GWhen the dust finally settles,
-OL,10,     Gwho'll win the week?
-OL,11,G1655FGrand Designs
-OL,12,     GDoes good architecture have the
-OL,13,     Gpower to heal? Kevin revisits
-OL,14,     GElinor and Born, who in 2017
-OL,15,     Gbuilt a clean-aired,
-OL,16,     Ghypoallergenic house, motivated
-OL,17,     Gby their two sons' extreme
-OL,18,     Gallergies.
-OL,19,G1800FChannel 4 News
+OL,4,G1655FGrand Designs
+OL,5,     GDoes good architecture have the
+OL,6,     Gpower to heal? Kevin revisits
+OL,7,     GElinor and Born, who in 2017
+OL,8,     Gbuilt a clean-aired,
+OL,9,     Ghypoallergenic house, motivated
+OL,10,     Gby their two sons' extreme
+OL,11,     Gallergies.
+OL,12,G1800FChannel 4 News
+OL,13,G1830FOur Tiny Islands
+OL,14,     GOn Eriskay, we visit a football
+OL,15,     Gpitch ranked by FIFA as one of
+OL,16,     Gthe most remarkable places to
+OL,17,     Gplay the game. Plus: Northey
+OL,18,     GIsland's vital salt marshes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -494,26 +488,26 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 24 AUG
-OL,4,G1605FInside Longleat
-OL,5,     GWe go behind the scenes of the
-OL,6,     G900-acre gardens, including
-OL,7,     GBritain's biggest maze, meet red
-OL,8,     Gpanda Emma and witness the
-OL,9,     Gdelicate art of cleaning a
-OL,10,     Gpriceless 18th-century chandelier.
-OL,11,G1700FLost Worlds with Ben Fogle
-OL,12,     GBen Fogle explores the underbelly
-OL,13,     Gof Detroit as he tries to
-OL,14,     Gdiscover what went wrong. What
-OL,15,     Gcaused the economy to collapse
-OL,16,     Gand communities to fall apart?
-OL,17,     GAnd is there any hope?
-OL,18,G1825F5 News Weekend
+OL,4,G1700FLost Worlds with Ben Fogle
+OL,5,     GBen Fogle explores the underbelly
+OL,6,     Gof Detroit as he tries to
+OL,7,     Gdiscover what went wrong. What
+OL,8,     Gcaused the economy to collapse
+OL,9,     Gand communities to fall apart?
+OL,10,     GAnd is there any hope?
+OL,11,G1825F5 News Weekend
+OL,12,G1830FKatrina: The Hurricane That
+OL,13,     FDrowned New Orleans
+OL,14,     G20 years after Hurricane Katrina,
+OL,15,     Gthe film relives the devastating
+OL,16,     Gstorm, with minute-by-minute
+OL,17,     Gaccounts and survivors' stories
+OL,18,     Gfrom US's deadliest hurricane.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -521,26 +515,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1756050247
+OL,0,        ECIMSBWebfax     F498A1756053860
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 24 AUG
-OL,4,G1630FThe Vise
-OL,5,     GThe Diamond Expert. 1954. Stars
-OL,6,     GPaul Carpenter, Hugh Latimer &
-OL,7,     GLeslie Linder. John learns that
-OL,8,     GClaude is a diamond expert. He
-OL,9,     Gkills him and assumes his
-OL,10,     Gidentity but ends up trapping
-OL,11,     Ghimself.
-OL,12,G1700FThe Footage Detectives
-OL,13,     GFancy some nostalgia? We've got a
-OL,14,     Greel on the life of a 50s milkman
-OL,15,     Gand a peek at the late-40s
-OL,16,     GTinseltown. Plus, an amateur film
-OL,17,     Gof a 50s car rally with a pit
-OL,18,     Gstop at the Busy Bee!
+OL,4,G1700FThe Footage Detectives
+OL,5,     GFancy some nostalgia? We've got a
+OL,6,     Greel on the life of a 50s milkman
+OL,7,     Gand a peek at the late-40s
+OL,8,     GTinseltown. Plus, an amateur film
+OL,9,     Gof a 50s car rally with a pit
+OL,10,     Gstop at the Busy Bee!
+OL,11,G1800FThe Four Feathers (1939)
+OL,12,     G1939. Adventure. Director: Zoltan
+OL,13,     GKorda. Stars John Clements, Ralph
+OL,14,     GRichardson & C. Aubrey Smith. A
+OL,15,     GBritish officer seeks to redeem
+OL,16,     Ghis cowardice 'feathers' by
+OL,17,     Gsecretly aiding his former
+OL,18,     Gcomrades.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
