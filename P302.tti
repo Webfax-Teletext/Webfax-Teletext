@@ -2,7 +2,7 @@ PN,30201
 SC,0001
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1756862941
+OL,0,        ECIMSBWebfax     F302A1756884614
 OL,3,CYellow warning for rain in force as
 OL,4,Cheavy rain and strong winds forecast
 OL,6,FA yellow weather warning has come into
@@ -10,10 +10,10 @@ OL,7,Fforce as heavy rain and strong winds
 OL,8,Fare forecast which may cause flooding
 OL,9,Fand travel disruption, the Met Office
 OL,10,Fsaid.
-OL,12,FThe warning for rain is in place from
-OL,13,Fmidnight until 2pm on Wednesday for
-OL,14,Fsouth-west England and much of South
-OL,15,FWales.
+OL,12,FThe warning for rain is in place until
+OL,13,F2pm on Wednesday for south-west
+OL,14,FEngland, much of South Wales and parts
+OL,15,Fof south-east England.
 OL,17,FMonday was the end of meteorological
 OL,18,Fsummer, with cooling temperatures,
 OL,19,Frain and wind expected across the
@@ -28,20 +28,18 @@ PN,30202
 SC,0002
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1756862941
+OL,0,        ECIMSBWebfax     F302A1756884614
 OL,3,CYellow warning for rain in force as
 OL,4,Cheavy rain and strong winds forecast
-OL,6,FMeanwhile, the Northern Lights were
-OL,7,Fvisible across parts of the UK and
-OL,8,FIreland overnight on Monday and may
-OL,9,Fappear again on Tuesday, after a
-OL,10,Fpowerful solar storm.
-OL,12,FStargazers on Monday night reported
-OL,13,Fsightings in north-east Scotland,
-OL,14,Fnorthern England and the Midlands,
-OL,15,Fwith photos on social media showing
-OL,16,Fthe lights as far south as West Cork
-OL,17,Fin Ireland.
+OL,6,FIn its weather warning, the Met Office
+OL,7,Fsaid "heavy rain may cause travel
+OL,8,Fdisruption and flooding in places".
+OL,10,FIt added that "some interruption to
+OL,11,Fpower supplies and other services is
+OL,12,Fpossible" and bus and train services
+OL,13,Fwill probably be affected with
+OL,14,F"journey times taking longer".
+OL,26,@oD@FOUpD@bO]rD@OOUtD@IO]vD@AOUvD@]O]
 OL,1,W~k4~sj5j5~s1G                    G2/7
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -51,34 +49,7 @@ PN,30203
 SC,0003
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1756862941
-OL,3,CYellow warning for rain in force as
-OL,4,Cheavy rain and strong winds forecast
-OL,6,FTuesday and Wednesday will see night-
-OL,7,Ftime viewing conditions worsen, but
-OL,8,Fnorthern Scotland and northern England
-OL,9,Fare likely to have the clearest skies,
-OL,10,Falthough still not ideal viewing
-OL,11,Fconditions.
-OL,13,FIn its weather warning, the Met Office
-OL,14,Fsaid "heavy rain may cause travel
-OL,15,Fdisruption and flooding in places".
-OL,17,FIt added that "some interruption to
-OL,18,Fpower supplies and other services is
-OL,19,Fpossible" and bus and train services
-OL,20,Fwill probably be affected with
-OL,21,F"journey times taking longer".
-OL,26,@vD@FOUwD@bO]yD@OOU{D@IO]}D@AOU}D@]O]
-OL,1,W~k4~sj5j5~s1G                    G3/7
-OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,23,TppppppppppppppppppGsource: itv.com/news
-OL,24,ANext Page BNat News CNat TV FClean Feed
-FL,303,300,200,140,000,100
-PN,30204
-SC,0004
-CT,2,C
-PS,c008
-OL,0,        ECIMSBWebfax     F302A1756862941
+OL,0,        ECIMSBWebfax     F302A1756884614
 OL,3,CYellow warning for rain in force as
 OL,4,Cheavy rain and strong winds forecast
 OL,6,FRebekah Hicks, chief meteorologist at
@@ -96,16 +67,16 @@ OL,18,Fholidays for some, meaning a wet and
 OL,19,Fpotentially disruptive start to the
 OL,20,Fday for many."
 OL,26,@oD@WOUxD@AOU|D@NO]
-OL,1,W~k4~sj5j5~s1G                    G4/7
+OL,1,W~k4~sj5j5~s1G                    G3/7
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
 OL,24,ANext Page BNat News CNat TV FClean Feed
 FL,303,300,200,140,000,100
-PN,30205
-SC,0005
+PN,30204
+SC,0004
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1756862941
+OL,0,        ECIMSBWebfax     F302A1756884614
 OL,3,CYellow warning for rain in force as
 OL,4,Cheavy rain and strong winds forecast
 OL,6,FHeavy rain and strong winds will move
@@ -116,11 +87,35 @@ OL,11,FConditions will gradually improve from
 OL,12,Fthe South West through Wednesday
 OL,13,Fafternoon as showers become more
 OL,14,Fisolated.
-OL,16,FRainfall totals will be 20-30mm across
-OL,17,Fmuch of the area covered by the
-OL,18,Fweather warning on Wednesday, but some
-OL,19,Fplaces could see 40-60mm within a
-OL,20,Fperiod of six to nine hours.
+OL,16,FSubscribe free to our weekly
+OL,17,Fnewsletter for exclusive and original
+OL,18,Fcoverage from ITV News. Direct to your
+OL,19,Finbox every Friday morning.
+OL,1,W~k4~sj5j5~s1G                    G4/7
+OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,23,TppppppppppppppppppGsource: itv.com/news
+OL,24,ANext Page BNat News CNat TV FClean Feed
+FL,303,300,200,140,000,100
+PN,30205
+SC,0005
+CT,2,C
+PS,c008
+OL,0,        ECIMSBWebfax     F302A1756884614
+OL,3,CYellow warning for rain in force as
+OL,4,Cheavy rain and strong winds forecast
+OL,6,FRainfall totals will be 20-30mm across
+OL,7,Fmuch of the area covered by the
+OL,8,Fweather warning on Wednesday, but some
+OL,9,Fplaces could see 40-60mm within a
+OL,10,Fperiod of six to nine hours.
+OL,12,FCoastal gales are also likely for a
+OL,13,Ftime, especially along English Channel
+OL,14,Fcoasts, the Met Office added.
+OL,16,FThe weather service said conditions on
+OL,17,FThursday would be "unsettled", with
+OL,18,Fwidespread showers and occasional
+OL,19,Fthunderstorms.
+OL,26,@yD@SOUyD@]O]
 OL,1,W~k4~sj5j5~s1G                    G5/7
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -130,20 +125,23 @@ PN,30206
 SC,0006
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1756862941
+OL,0,        ECIMSBWebfax     F302A1756884614
 OL,3,CYellow warning for rain in force as
 OL,4,Cheavy rain and strong winds forecast
-OL,6,FCoastal gales are also likely for a
-OL,7,Ftime, especially along English Channel
-OL,8,Fcoasts, the Met Office added.
-OL,10,FThe weather service said conditions on
-OL,11,FThursday would be "unsettled", with
-OL,12,Fwidespread showers and occasional
-OL,13,Fthunderstorms.
-OL,15,FSome sunny spells are expected, but
-OL,16,Frain may become more persistent in
-OL,17,Fparts of western Scotland.
-OL,26,@sD@SOUsD@]O]
+OL,6,FSome sunny spells are expected, but
+OL,7,Frain may become more persistent in
+OL,8,Fparts of western Scotland.
+OL,10,FBy Friday, southern areas will begin
+OL,11,Fto see more settled conditions, with
+OL,12,Fincreasing sunshine and fewer showers.
+OL,13,FHowever, the North West will remain
+OL,14,Fwet and windy, with a small chance of
+OL,15,Fcoastal gales, the Met Office said.
+OL,17,FMeanwhile, the Northern Lights were
+OL,18,Fvisible across parts of the UK and
+OL,19,FIreland overnight on Monday and may
+OL,20,Fappear again on Tuesday, after a
+OL,21,Fpowerful solar storm.
 OL,1,W~k4~sj5j5~s1G                    G6/7
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
@@ -153,15 +151,21 @@ PN,30207
 SC,0007
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F302A1756862941
+OL,0,        ECIMSBWebfax     F302A1756884614
 OL,3,CYellow warning for rain in force as
 OL,4,Cheavy rain and strong winds forecast
-OL,6,FBy Friday, southern areas will begin
-OL,7,Fto see more settled conditions, with
-OL,8,Fincreasing sunshine and fewer showers.
-OL,9,FHowever, the North West will remain
-OL,10,Fwet and windy, with a small chance of
-OL,11,Fcoastal gales, the Met Office said.
+OL,6,FStargazers on Monday night reported
+OL,7,Fsightings in north-east Scotland,
+OL,8,Fnorthern England and the Midlands,
+OL,9,Fwith photos on social media showing
+OL,10,Fthe lights as far south as West Cork
+OL,11,Fin Ireland.
+OL,13,FWednesday will see night-time viewing
+OL,14,Fconditions worsen, but northern
+OL,15,FScotland and northern England are
+OL,16,Flikely to have the clearest skies,
+OL,17,Falthough still not ideal viewing
+OL,18,Fconditions.
 OL,1,W~k4~sj5j5~s1G                    G7/7
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,TppppppppppppppppppGsource: itv.com/news
