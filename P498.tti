@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -85,15 +85,15 @@ OL,6,BITV News Border        G G    R*?5
 OL,7,                         G      R!"#!
 OL,8,G351FBrothers face dangerous driving
 OL,9,Fcharges after one man seriously injured
-OL,11,G352FTwo men will face dangerous
-OL,12,Fdriving charges after a pedestrian was
-OL,13,Finjured
-OL,15,G353FPride of Britain: Regional
-OL,16,FFundraiser of the Year Finalist Steve
-OL,17,FJack
+OL,11,G352FThe discovery of mine works means
+OL,12,Fsetbacks for restoration of Bransty
+OL,13,Ftunnel
+OL,15,G353FTwo men will face dangerous
+OL,16,Fdriving charges after a pedestrian was
+OL,17,Finjured
 OL,19,G354FPride of Britain: Regional
-OL,20,FFundraiser of the Year Finalists the
-OL,21,FTaylor family
+OL,20,FFundraiser of the Year Finalist Steve
+OL,21,FJack
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -101,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +152,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -185,25 +185,24 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FArrest after sacks of ketamine
-OL,9,Fworth #17 million seized from van
-OL,11,G392FManchester Arena bomb plotter due
-OL,12,Fin court on attempted murder charges
-OL,14,G393FThe best friends who organised
-OL,15,Fannual 1,500 person charity pub crawl
-OL,16,Ffor hospice
-OL,18,G394FFamily who fear woman was murdered
-OL,19,Fcall for law change
-OL,21,G395FTwo people accused of murder
-OL,22,Fappear in court after couple killed in
-OL,23,Fhouse fire
+OL,8,G391FTeenager pleads not guilty to
+OL,9,Fmurder of 14-year-old
+OL,11,G392FJohn Lennon's school desk
+OL,12,Fdiscovered in school attic
+OL,14,G393FFirst ever public memorial
+OL,15,Fdedicated to 'fifth Beatle' underway
+OL,17,G394FArrest after sacks of ketamine
+OL,18,Fworth #17 million seized from van
+OL,20,G395FManchester Arena bomb plotter due
+OL,21,Fin court on attempted murder charges
+OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
 PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -229,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -254,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -280,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -288,25 +287,25 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FOfficer shot by police firearm
-OL,9,Fduring machete arrest
-OL,11,G432FBristol City: Women's team sold to
-OL,12,Fnew owners Mercury13
-OL,14,G433FPrisoner charged with murder of
-OL,15,Finmate
-OL,17,G434F'Utterly appalling': Swan
-OL,18,Fstrangled to death at Gloucester
-OL,19,Fbeauty spot
-OL,21,G435FFormer policeman accused of rape
-OL,22,Fdenies 'ever having sex' with
-OL,23,Fvulnerable woman
+OL,8,G431FPrisoner appears in court accused
+OL,9,Fof murdering inmate
+OL,11,G432FOfficer shot by police firearm
+OL,12,Fduring machete arrest
+OL,14,G433FBristol City: Women's team sold to
+OL,15,Fnew owners Mercury13
+OL,17,G434FPrisoner charged with murder of
+OL,18,Finmate
+OL,20,G435F'Utterly appalling': Swan
+OL,21,Fstrangled to death at Gloucester
+OL,22,Fbeauty spot
+OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
 PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -332,7 +331,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -357,7 +356,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -382,29 +381,29 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 18 SEP
-OL,4,G1400FAthletics: World Championships
-OL,5,     GDay 6 of the World Athletics
-OL,6,     GChampionships concludes with the
-OL,7,     Gfinals of the men and women's
-OL,8,     G400m, with Great Britain's
-OL,9,     GMatthew Hudson-Smith and Amber
-OL,10,     GAnning going for gold.
-OL,11,G1445FEscape to the Country
-OL,12,     GA married couple are swapping the
-OL,13,     GBlue Mountains in Australia for
-OL,14,     Gthe Peak District.
-OL,15,G1545FThe Travelling Auctioneers
-OL,16,     GA widow needs help to sell her
-OL,17,     Gcollectibles. JB finds a rare
-OL,18,     Gwatch that could make a small
-OL,19,     Gfortune at auction, and Robin
-OL,20,     Gturns to toothpaste to help
-OL,21,     Grestore an antique.
+OL,4,G1445FEscape to the Country
+OL,5,     GA married couple are swapping the
+OL,6,     GBlue Mountains in Australia for
+OL,7,     Gthe Peak District.
+OL,8,G1545FThe Travelling Auctioneers
+OL,9,     GA widow needs help to sell her
+OL,10,     Gcollectibles. JB finds a rare
+OL,11,     Gwatch that could make a small
+OL,12,     Gfortune at auction, and Robin
+OL,13,     Gturns to toothpaste to help
+OL,14,     Grestore an antique.
+OL,15,G1630FThe Answer Run
+OL,16,     GComedian Jason Manford hosts the
+OL,17,     Gexciting, fast-paced general
+OL,18,     Gknowledge quiz show where three
+OL,19,     Gcouples face a series of
+OL,20,     Gquestions hurtling down the
+OL,21,     GAnswer Run towards them.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -412,26 +411,30 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 18 SEP
-OL,4,G1400FHairy Bikers' Best Of British
-OL,5,     GDave and Si continue their
-OL,6,     Gjourney through time, celebrating
-OL,7,     GBritish food. Here they look at
-OL,8,     Ghow the flavours of the
-OL,9,     GMediterranean have influenced
-OL,10,     GBritish cuisine.
-OL,11,G1430FUnbeatable
-OL,12,     GJason Manford hosts a quiz show
-OL,13,     Gwhere players rank answers,
-OL,14,     Gseeking the Unbeatable one.
-OL,15,G1515FGreat British Menu
-OL,16,     GIt's judging day, and only one
-OL,17,     Gchef can go through to represent
-OL,18,     GScotland.
+OL,4,G1515FGreat British Menu
+OL,5,     GIt's judging day, and only one
+OL,6,     Gchef can go through to represent
+OL,7,     GScotland.
+OL,8,G1615FWorld's Sneakiest Animals
+OL,9,     GChris Packham meets animals that
+OL,10,     Guse deceptive tactics to find
+OL,11,     Gfood. Some cheat each other -
+OL,12,     Glike sea otters, who demand
+OL,13,     Gransoms after kidnapping pups.
+OL,14,G1715FFlog It!
+OL,15,     GIn Blackburn, Anita Manning
+OL,16,     Gvalues a gold charm bracelet.
+OL,17,G1800FRichard Osman's House of Games
+OL,18,     GFormer winners Tim Key, Jamie
+OL,19,     GLaing, Sunetra Sarker and Laura
+OL,20,     GWhitmore test their general
+OL,21,     Gknowledge skills on Richard
+OL,22,     GOsman's House of Games: Champions.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -439,26 +442,28 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 18 SEP
-OL,4,G1400FDickinson's Real Deal
-OL,5,     GCirencester 3: David and his team
-OL,6,     Gare in Cirencester in
-OL,7,     GGloucestershire as the owners of
-OL,8,     Ga horse hoof matchbox who think
-OL,9,     Gthat it's worth next to nothing
-OL,10,     Gend up as big winners.
-OL,11,G1500FTenable
-OL,12,     GCardiff family climbs Tenable
-OL,13,     GTower in quiz show hosted by
-OL,14,     GWarwick Davis to win cash.
-OL,15,G1600FTipping Point
-OL,16,     GBen Shephard hosts a quiz show
-OL,17,     Gwhere three players compete
-OL,18,     Gagainst a machine for cash.
+OL,4,G1500FTenable
+OL,5,     GCardiff family climbs Tenable
+OL,6,     GTower in quiz show hosted by
+OL,7,     GWarwick Davis to win cash.
+OL,8,G1600FTipping Point
+OL,9,     GBen Shephard hosts a quiz show
+OL,10,     Gwhere three players compete
+OL,11,     Gagainst a machine for cash.
+OL,12,G1700FThe Chase
+OL,13,     GBradley Walsh hosts as four
+OL,14,     Gstrangers - Nigel from Penrith,
+OL,15,     GRoz from Orpington, Heather from
+OL,16,     GFiley and Callum from Oldham -
+OL,17,     Gwork together as a team in the
+OL,18,     Ghope of winning big.
+OL,19,G1800FRegional News
+OL,20,G1830FITV Evening News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -466,30 +471,29 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 18 SEP
-OL,4,G1410FCountdown
-OL,5,G1500FA Place in the Sun
-OL,6,     GTrain driver Wayne and manager
-OL,7,     GKate explore their #85k budget in
-OL,8,     GPinar de Campoverde, Spain.
-OL,9,G1600FHelp! We Bought a Village
-OL,10,     GThe new series continues. Karen
-OL,11,     Gand Steve unearth secrets at
-OL,12,     Gtheir French settlement. And will
-OL,13,     Gthere be calm after the storm at
-OL,14,     GMike's village and Andrew and
-OL,15,     GKatja's palazzo?
-OL,16,G1700FFour in a Bed
-OL,17,     GThe new run continues. The week's
-OL,18,     Gfinal visit is to the Bull Inn in
-OL,19,     GBerkshire, where Ana and Dominic
-OL,20,     Ghope that their homely pub's
-OL,21,     Gquintessential character will
-OL,22,     Gcharm the B&Bers.
+OL,4,G1500FA Place in the Sun
+OL,5,     GTrain driver Wayne and manager
+OL,6,     GKate explore their #85k budget in
+OL,7,     GPinar de Campoverde, Spain.
+OL,8,G1600FHelp! We Bought a Village
+OL,9,     GThe new series continues. Karen
+OL,10,     Gand Steve unearth secrets at
+OL,11,     Gtheir French settlement. And will
+OL,12,     Gthere be calm after the storm at
+OL,13,     GMike's village and Andrew and
+OL,14,     GKatja's palazzo?
+OL,15,G1700FFour in a Bed
+OL,16,     GThe new run continues. The week's
+OL,17,     Gfinal visit is to the Bull Inn in
+OL,18,     GBerkshire, where Ana and Dominic
+OL,19,     Ghope that their homely pub's
+OL,20,     Gquintessential character will
+OL,21,     Gcharm the B&Bers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -497,30 +501,26 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 18 SEP
-OL,4,G1345FHome and Away
-OL,5,     GRoo anxiously awaits Cohen's DNA
-OL,6,     Gresults. Leah plans a surprise
-OL,7,     Gfor Irene. Jo is in the wrong
-OL,8,     Gplace at the wrong time.
-OL,9,G1420FFatal Flatshare
-OL,10,     GFrom the family you're born
-OL,11,     Ginto... to the ones you find
-OL,12,     Galong the way, every bond hides a
-OL,13,     Gdeadly secret. A young
-OL,14,     Gprofessional finds herself the
-OL,15,     Gobject of a deadly obsession.
-OL,16,G1555FAll Creatures Great and Small
-OL,17,     GChristmas Special. Faced with a
-OL,18,     Gdaunting future, James longs to
-OL,19,     Gsee Helen, but an injured bird
-OL,20,     Gstands in his way. Siegfried and
-OL,21,     GCarmody try to support Mrs Hall's
-OL,22,     Gcommunity efforts.
+OL,4,G1420FFatal Flatshare
+OL,5,     GFrom the family you're born
+OL,6,     Ginto... to the ones you find
+OL,7,     Galong the way, every bond hides a
+OL,8,     Gdeadly secret. A young
+OL,9,     Gprofessional finds herself the
+OL,10,     Gobject of a deadly obsession.
+OL,11,G1555FAll Creatures Great and Small
+OL,12,     GChristmas Special. Faced with a
+OL,13,     Gdaunting future, James longs to
+OL,14,     Gsee Helen, but an injured bird
+OL,15,     Gstands in his way. Siegfried and
+OL,16,     GCarmody try to support Mrs Hall's
+OL,17,     Gcommunity efforts.
+OL,18,G1700F5 News at 5
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -528,27 +528,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758201537
+OL,0,        ECIMSBWebfax     F498A1758205151
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 18 SEP
-OL,4,G1315FThey Came to a City
-OL,5,     GIn 1944 fantasy, nine strangers
-OL,6,     Gare transported to a mysterious
-OL,7,     Gcity.
-OL,8,G1450FMagic Feet - Glimpses
-OL,9,     GShort documentary film about
-OL,10,     GBritish football's 'star of
-OL,11,     Gstars', Sir Stanley Matthews
-OL,12,G1500FCrown Court
-OL,13,     GPublic Lives - Part 1. 1973.
-OL,14,     GStars Jim Norton, Jill Freud,
-OL,15,     GJoseph Berry. A theatre director
-OL,16,     Gand a theatre producer face
-OL,17,     Gobscenity charges relating to a
-OL,18,     Gplay they presented entitled
-OL,19,     G'Public Lives'.
+OL,4,G1500FCrown Court
+OL,5,     GPublic Lives - Part 1. 1973.
+OL,6,     GStars Jim Norton, Jill Freud,
+OL,7,     GJoseph Berry. A theatre director
+OL,8,     Gand a theatre producer face
+OL,9,     Gobscenity charges relating to a
+OL,10,     Gplay they presented entitled
+OL,11,     G'Public Lives'.
+OL,12,G1530FCrown Court
+OL,13,     GPublic Lives - Part 2. 1973.
+OL,14,     GStars Kevin Stoney, Brian Wilde &
+OL,15,     GJennifer Clulow. Actress Mandy
+OL,16,     GJenkins speaks about how she was
+OL,17,     Gsacked from the play and author
+OL,18,     GE.W. Appleby makes a statement.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
