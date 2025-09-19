@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -62,12 +62,11 @@ OL,9,Faged 89
 OL,11,G303FTake That announce Circus Live
 OL,12,Freturn tour - here's how and where to
 OL,13,Fget tickets
-OL,15,G304FTrump suggests US TV networks who
-OL,16,Fcriticise him could have licence taken
-OL,17,Faway
-OL,19,G305FSecond migrant to be returned to
-OL,20,FFrance after Trump urges military
-OL,21,Fintervention
+OL,15,G304FNato intercepts Russian jets that
+OL,16,Fviolated Estonian airspace
+OL,18,G305FTrump suggests US TV networks who
+OL,19,Fcriticise him could have licence taken
+OL,20,Faway
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -86,21 +85,22 @@ OL,7,                         G      R!"#!
 OL,8,G351FUp to #38 million to be spent on
 OL,9,FDumfries Whitesands flooding
 OL,10,Fprotection scheme
-OL,12,G352FWeather warning for rain in place
-OL,13,Ffor Cumbria and southern Scotland
-OL,15,G353FPride of Britain: Regional
-OL,16,FFundraiser of the Year Finalist Lynne
-OL,17,FBlaney
-OL,19,G354FBrothers face dangerous driving
-OL,20,Fcharges after one man seriously injured
-OL,23,Tppppppppppppppppppppppppppppppppppppppp
+OL,12,G352FSteve Jack revealed as ITV Border
+OL,13,Ffundraiser of the year for 2025
+OL,15,G353FWeather warning for rain in place
+OL,16,Ffor Cumbria and southern Scotland
+OL,18,G354FPride of Britain: Regional
+OL,19,FFundraiser of the Year Finalist Lynne
+OL,20,FBlaney
+OL,22,G355FBrothers face dangerous driving
+OL,23,Fcharges after one man seriously injured
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
 PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +152,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -160,16 +160,17 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381FCompany fined after apprentice
-OL,9,Fsuffers severe burns from blow torch
-OL,11,G382FDefendant 'not concerned' about
-OL,12,Ffishing boat minutes before collision
-OL,14,G383FGovernment faces criminal charges
-OL,15,Fover explosion which killed 10
-OL,17,G384FPride of Britain Fundraiser
-OL,18,FFinalist 2025: Fleur Sharman
-OL,20,G385FNumber of school suspensions for
-OL,21,Fchildren being racist doubles
+OL,8,G381FThe big reveal: Find out who is
+OL,9,FITV Channel's 2025 Fundraiser of the
+OL,10,FYear
+OL,12,G382FCompany fined after apprentice
+OL,13,Fsuffers severe burns from blow torch
+OL,15,G383FDefendant 'not concerned' about
+OL,16,Ffishing boat minutes before collision
+OL,18,G384FGovernment faces criminal charges
+OL,19,Fover explosion which killed 10
+OL,21,G385FPride of Britain Fundraiser
+OL,22,FFinalist 2025: Fleur Sharman
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -177,7 +178,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -203,7 +204,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -229,7 +230,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -242,12 +243,11 @@ OL,9,F80, in seaside town
 OL,11,G412FMen jailed for trying to smuggle
 OL,12,Fmillions of pounds worth of cocaine
 OL,13,Finto UK
-OL,15,G413FHospital in Kent apologises to
-OL,16,Fpatients for using cafe as makeshift
-OL,17,FA&E ward
-OL,19,G414FOxford University pushed out of
-OL,20,Ftop three UK university ranking for
-OL,21,Ffirst time
+OL,15,G413FDaily Mirror Pride of Britain 2025
+OL,16,F- ITV Meridian winners revealed
+OL,18,G414FHospital in Kent apologises to
+OL,19,Fpatients for using cafe as makeshift
+OL,20,FA&E ward
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -255,7 +255,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -280,7 +280,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -306,7 +306,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -314,25 +314,25 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FJudge to consider admissibility of
-OL,9,F'decisive' evidence in Soldier F trial
-OL,11,G442FInquest told A5 car driver
-OL,12,Fcollapsed in gym weeks before fatal
-OL,13,Fcrash
-OL,15,G443FNursing home evacuated following
-OL,16,Fdiscovery of suspicious object in Omagh
-OL,18,G444FNew Troubles legacy framework
-OL,19,Ffounded on 'reciprocal cooperation'
-OL,21,G445F'A vision that won't leave':
-OL,22,FFamily trauma over police handling of
-OL,23,Fsudden death
+OL,8,G441FNew Troubles legacy framework
+OL,9,Ffounded on 'reciprocal cooperation'
+OL,11,G442FWhat does the new Troubles legacy
+OL,12,Fframework include?
+OL,14,G443FNursing home evacuated following
+OL,15,Fdiscovery of suspicious object in Omagh
+OL,17,G444FJudge to consider admissibility of
+OL,18,F'decisive' evidence in Soldier F trial
+OL,20,G445FInquest told A5 car driver
+OL,21,Fcollapsed in gym weeks before fatal
+OL,22,Fcrash
+OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
 PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -358,7 +358,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -383,28 +383,27 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 19 SEP
-OL,4,G2000FWould I Lie to You?
-OL,5,     GSorting the fact from the fiction
-OL,6,     Gthis week are guests Pam Ayres,
-OL,7,     GSarah Kendall, Richard Osman and
-OL,8,     GKiell Smith-Bynoe.
-OL,9,G2030FMasterChef
-OL,10,     GIt's the last step before finals
-OL,11,     Gweek, and the challenge for the
-OL,12,     Gamateurs is to cook something
-OL,13,     Gamazing using an ingredient they
-OL,14,     Gdetest.
-OL,15,G2100FStranded on Honeymoon Island
-OL,16,     GThe recent flare-up causes
-OL,17,     Gsuspicion and speculation amongst
-OL,18,     Gthe remaining honeymooners.
-OL,19,G2200FBBC News and Weather
-OL,20,G2230FRegional News
+OL,4,G2100FStranded on Honeymoon Island
+OL,5,     GThe recent flare-up causes
+OL,6,     Gsuspicion and speculation amongst
+OL,7,     Gthe remaining honeymooners.
+OL,8,G2200FBBC News and Weather
+OL,9,G2230FRegional News
+OL,10,G2240FKnocked Up
+OL,11,     GA one-night stand leads to an
+OL,12,     Gunexpected pregnancy and a crash
+OL,13,     Gcourse in growing up.
+OL,14,G0040FThe Hit List
+OL,15,     GCelebrities including Stacey
+OL,16,     GDooley and Kevin Clifton hope to
+OL,17,     Gname the tunes the quickest.
+OL,18,G0125FWeather for the Week Ahead
+OL,19,G0130FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -412,29 +411,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 19 SEP
-OL,4,G1830FWomen's Rugby World Cup 2025: New
-OL,5,     FZealand v Canada
-OL,6,     GCoverage of the first semi-final
-OL,7,     Gof the Women's Rugby World Cup
-OL,8,     G2025.
-OL,9,G2110FThe Newsreader
-OL,10,     GRob makes a controversial comment
-OL,11,     Gon air discussing the apartheid
-OL,12,     Gsports boycott.
-OL,13,G2200FMissing in Paradise: Searching
-OL,14,     Ffor Sarm
-OL,15,     GTir searches for the yacht Sarm
-OL,16,     Gvanished from and tracks down
-OL,17,     GRyan Bane's ex-wife.
-OL,18,G2230FNewsnight, followed by Weather
-OL,19,     GDaily global news insights and
-OL,20,     Ginterviews with Matt Chorley,
-OL,21,     Gfollowed by Weather.
+OL,4,G2110FThe Newsreader
+OL,5,     GRob makes a controversial comment
+OL,6,     Gon air discussing the apartheid
+OL,7,     Gsports boycott.
+OL,8,G2200FMissing in Paradise: Searching
+OL,9,     Ffor Sarm
+OL,10,     GTir searches for the yacht Sarm
+OL,11,     Gvanished from and tracks down
+OL,12,     GRyan Bane's ex-wife.
+OL,13,G2230FNewsnight, followed by Weather
+OL,14,     GDaily global news insights and
+OL,15,     Ginterviews with Matt Chorley,
+OL,16,     Gfollowed by Weather.
+OL,17,G2300FSelma
+OL,18,     GDavid Oyelowo stars as Martin
+OL,19,     GLuther King Jr, chronicling his
+OL,20,     Gcampaign for equal rights.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -442,30 +440,25 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 19 SEP
-OL,4,G2000FCoronation Street
-OL,5,     GTracy pushes Carl too far with
-OL,6,     Gher blackmail demands, Todd's
-OL,7,     Gfriends help him to clean the
-OL,8,     Gflat for Theo, and Roy is hurt by
-OL,9,     GCarla's duplicity.
-OL,10,G2100FWho Wants to Be a Millionaire?
-OL,11,     GJeremy Clarkson returns, hoping
-OL,12,     GSteph McGovern and Dion Dublin
-OL,13,     Gwin one million pounds.
-OL,14,G2200FITV News at Ten
-OL,15,G2230FRegional News
-OL,16,G2245FLondon Has Fallen
-OL,17,     GAction-packed thriller film
-OL,18,     Gsequel starring Gerard Butler and
-OL,19,     GAaron Eckhart, 2016. Mike Banning
-OL,20,     Gis caught up in a plot to
-OL,21,     Gassassinate the world's most
-OL,22,     Gpowerful leaders in London.
+OL,4,G2100FWho Wants to Be a Millionaire?
+OL,5,     GJeremy Clarkson returns, hoping
+OL,6,     GSteph McGovern and Dion Dublin
+OL,7,     Gwin one million pounds.
+OL,8,G2200FITV News at Ten
+OL,9,G2230FRegional News
+OL,10,G2245FLondon Has Fallen
+OL,11,     GAction-packed thriller film
+OL,12,     Gsequel starring Gerard Butler and
+OL,13,     GAaron Eckhart, 2016. Mike Banning
+OL,14,     Gis caught up in a plot to
+OL,15,     Gassassinate the world's most
+OL,16,     Gpowerful leaders in London.
+OL,17,G0020FShop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -473,30 +466,30 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 19 SEP
-OL,4,G2000FThe Great British Bake Off
-OL,5,     GAn Extra Slice: Natalie Cassidy
-OL,6,     Gand Kiell Smith-Bynoe slice into
-OL,7,     GBread Week. Whose Showstopper
-OL,8,     Gbrought 'tiers' of joy? And whose
-OL,9,     Gmonkey bread was pulled apart?
-OL,10,G2100FGogglebox
-OL,11,     GThe brand new series continues.
-OL,12,     GWhat do Britain's sharpest
-OL,13,     Garmchair critics think of the
-OL,14,     Gbiggest and best shows on TV this
-OL,15,     Gweek?
-OL,16,G2200FMitchell and Webb Are Not Helping
-OL,17,     GThe inventive and very sweary new
-OL,18,     Gsketch show continues with a
-OL,19,     Grubbish spy and ultra-competitive
-OL,20,     Gpuritans. Plus: a dodgy sound-
-OL,21,     Geffects man, and the great taste
-OL,22,     Gof bran.
+OL,4,G2100FGogglebox
+OL,5,     GThe brand new series continues.
+OL,6,     GWhat do Britain's sharpest
+OL,7,     Garmchair critics think of the
+OL,8,     Gbiggest and best shows on TV this
+OL,9,     Gweek?
+OL,10,G2200FMitchell and Webb Are Not Helping
+OL,11,     GThe inventive and very sweary new
+OL,12,     Gsketch show continues with a
+OL,13,     Grubbish spy and ultra-competitive
+OL,14,     Gpuritans. Plus: a dodgy sound-
+OL,15,     Geffects man, and the great taste
+OL,16,     Gof bran.
+OL,17,G2235FAmerican Pie: The Wedding
+OL,18,     GThird slice of the pastry-
+OL,19,     Gbothering sex comedy. Jim's
+OL,20,     Ggetting married to Michelle. But
+OL,21,     GStifler and the boys ensure the
+OL,22,     Gplanning doesn't go smoothly...
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -504,25 +497,24 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 19 SEP
-OL,4,G2000FSusan Calman's Grand Day Out
-OL,5,     GSusan is back for more Grand Days
-OL,6,     GOut, taking in wonders of
-OL,7,     GWorcestershire, The Malvern Hills
-OL,8,     Gand Midlands, with a speed record
-OL,9,     Gchallenge at the world's oldest
-OL,10,     Gactive motorsport track.
-OL,11,G2100FEllis
-OL,12,     GPolice drama starring Sharon D
-OL,13,     GClarke as tenacious cop DCI
-OL,14,     GEllis, parachuted in to solve
-OL,15,     Gfailing investigations. When a
-OL,16,     Gteenager is found dead, Ellis is
-OL,17,     Gassigned to the case.
+OL,4,G2100FEllis
+OL,5,     GPolice drama starring Sharon D
+OL,6,     GClarke as tenacious cop DCI
+OL,7,     GEllis, parachuted in to solve
+OL,8,     Gfailing investigations. When a
+OL,9,     Gteenager is found dead, Ellis is
+OL,10,     Gassigned to the case.
+OL,11,G2300FPiers Morgan: Uncensored
+OL,12,     GA bold, opinion-led news and
+OL,13,     Gdebate show hosted by Piers
+OL,14,     GMorgan. Piers blends journalism,
+OL,15,     Gdebates and cultural commentary
+OL,16,     Gthat's unapologetically direct.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -530,27 +522,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1758309918
+OL,0,        ECIMSBWebfax     F498A1758313531
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 19 SEP
-OL,4,G2025FStrange But True
-OL,5,     GThe Galway Poltergeist. 1997.
-OL,6,     GMicheal Aspel explores a family
-OL,7,     Gwho claim they have all been
-OL,8,     Gterrorised by the same
-OL,9,     Gpoltergeist and try to rid them
-OL,10,     Gof the spirit so they can live in
-OL,11,     Gpeace.
-OL,12,G2100FCellar Club with Caroline Munro
-OL,13,     GJoin Caroline Munro for an
-OL,14,     Gevening of investigations and a
-OL,15,     Gbit of horror. The first offering
-OL,16,     Gof the evening is the 70s series
-OL,17,     GDoomwatch and the captivating
-OL,18,     Gepisode By the Pricking of My
-OL,19,     GThumbs.
+OL,4,G2105FDoomwatch
+OL,5,     GBy the Pricking of My Thumbs.
+OL,6,     G1971. Stars John Nolan, Jean
+OL,7,     GTrend, Sally Thomsett & Colin
+OL,8,     GJeavons. A schoolboy is expelled
+OL,9,     Gbecause of his genes. Can people
+OL,10,     Gbe labelled for life by science?
+OL,11,G2205FCellar Club with Caroline Munro
+OL,12,     GNext up, we remain in the 70s
+OL,13,     Gwith a spine tingling feature!
+OL,14,     GCaroline Munro introduces the
+OL,15,     G1978 sci-fi horror The Alpha
+OL,16,     GIncident, about a deadly alien
+OL,17,     Gorganism that threatens to end
+OL,18,     Ghumanity.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
