@@ -1,7 +1,7 @@
 PN,26801
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax     F268A1759382753
+OL,0,        ECIMSBWebfax     F268A1759389980
 OL,1,W{${$~+$ ~k4~k4~s                G1/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,$FEAST MIDLANDS
 OL,3,CProgramme listings for
@@ -30,7 +30,7 @@ FL,269,260,300,200,000,100
 PN,26802
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax     F268A1759382753
+OL,0,        ECIMSBWebfax     F268A1759389980
 OL,1,W{${$~+$ ~k4~k4~s                G2/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,$FEAST MIDLANDS
 OL,3,CProgramme listings for
@@ -57,7 +57,7 @@ FL,269,260,300,200,000,100
 PN,26803
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax     F268A1759382753
+OL,0,        ECIMSBWebfax     F268A1759389980
 OL,1,W{${$~+$ ~k4~k4~s                G3/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,$FEAST MIDLANDS
 OL,3,CProgramme listings for
@@ -86,7 +86,7 @@ FL,269,260,300,200,000,100
 PN,26804
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax     F268A1759382753
+OL,0,        ECIMSBWebfax     F268A1759389980
 OL,1,W{${$~+$ ~k4~k4~s                G4/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,$FEAST MIDLANDS
 OL,3,CProgramme listings for
@@ -115,7 +115,7 @@ FL,269,260,300,200,000,100
 PN,26805
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax     F268A1759382753
+OL,0,        ECIMSBWebfax     F268A1759389980
 OL,1,W{${$~+$ ~k4~k4~s                G5/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,$FEAST MIDLANDS
 OL,3,CProgramme listings for
@@ -136,25 +136,29 @@ OL,16,G2200FBBC News and Weather
 OL,17,G2230FEast Midlands Today
 OL,18,     GThe latest news, sport and
 OL,19,     Gweather for the East Midlands.
-OL,20,G2240FQuestion Time
-OL,21,     GFiona Bruce presents an hour of
-OL,22,     Gtopical debate.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV   CNat News  FNat TV
 FL,269,260,300,200,000,100
 PN,26806
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax     F268A1759382753
+OL,0,        ECIMSBWebfax     F268A1759389980
 OL,1,W{${$~+$ ~k4~k4~s                G6/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,$FEAST MIDLANDS
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 2 OCT
-OL,4,G2340FNewscast
-OL,5,     GLighthearted discussion of the
-OL,6,     Gday's news.
-OL,7,G0010FWeather for the Week Ahead
-OL,8,G0015FBBC News
+OL,4,G2240FQuestion Time
+OL,5,     GFiona Bruce presents debate from
+OL,6,     GBelfast. On the panel are Hilary
+OL,7,     GBenn MP, Alex Burghart MP, John
+OL,8,     GFinucane MP, Jonathan Buckley
+OL,9,     GMLA, and author and journalist
+OL,10,     GAoife Moore.
+OL,11,G2340FNewscast
+OL,12,     GLighthearted discussion of the
+OL,13,     Gday's news.
+OL,14,G0010FWeather for the Week Ahead
+OL,15,G0015FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV   CNat News  FNat TV
 FL,269,260,300,200,000,100
