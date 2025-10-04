@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,21 +50,21 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FBritish teenager jailed in Dubai
-OL,9,Fkilled in car crash months after
-OL,10,Frelease
-OL,12,G303FStorm Amy: Strong winds and heavy
-OL,13,Frain bring travel disruption
-OL,15,G304FPro-Palestine marches to go ahead
-OL,16,Fdespite PM and police bosses' calls to
-OL,17,Fcancel
+OL,8,G302FPro-Palestine marches to go ahead
+OL,9,Fdespite PM and police bosses' calls to
+OL,10,Fcancel
+OL,12,G303FBritish teenager jailed in Dubai
+OL,13,Fkilled in car crash months after
+OL,14,Frelease
+OL,16,G304FStorm Amy: Strong winds and heavy
+OL,17,Frain bring travel disruption
 OL,19,G305FStarmer welcomes Hamas' partial
 OL,20,Facceptance of Gaza peace plan
 OL,22,G306FGaza ceasefire: 'Trump has got the
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -125,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -159,17 +159,16 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381FJersey's GDP decreases for the
-OL,9,Ffirst time since the pandemic
-OL,11,G382FIsland Jewish communities calls
-OL,12,Ffor solidarity after Manchester
-OL,13,Fsynagogue attack
-OL,15,G383FChannel Island religious leaders
-OL,16,Fpraise first female Archbishop of
-OL,17,FCanterbury
-OL,19,G384FJersey politician guilty of
-OL,20,Foffences linked to employing Rwandan
-OL,21,Fnationals
+OL,8,G381FMore than #13,000 raised for
+OL,9,FGuernsey fisherman whose boat sank
+OL,11,G382FJersey's GDP decreases for the
+OL,12,Ffirst time since the pandemic
+OL,14,G383FIsland Jewish communities calls
+OL,15,Ffor solidarity after Manchester
+OL,16,Fsynagogue attack
+OL,18,G384FChannel Island religious leaders
+OL,19,Fpraise first female Archbishop of
+OL,20,FCanterbury
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -177,7 +176,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -185,17 +184,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FPrison officer cries as secret
-OL,9,Fmessages to inmate exposed
-OL,11,G392F'Hero' who barricaded synagogue
-OL,12,Fdoors from attacker 'was hit by police
-OL,13,Fbullet'
-OL,15,G393FTwo victims killed in Manchester
-OL,16,FSynagogue attack named by police
-OL,18,G394FOasis guitarist 'Bonehead' takes
-OL,19,Fbreak for next phase of his cancer care
-OL,21,G395FPolice step up patrols at
-OL,22,Fsynagogues after terror attack
+OL,8,G391FPolice step up patrols at
+OL,9,Fsynagogues after terror attack
+OL,11,G392FPrison officer cries as secret
+OL,12,Fmessages to inmate exposed
+OL,14,G393F'Hero' who barricaded synagogue
+OL,15,Fdoors from attacker 'was hit by police
+OL,16,Fbullet'
+OL,18,G394FTwo victims killed in Manchester
+OL,19,FSynagogue attack named by police
+OL,21,G395FOasis guitarist 'Bonehead' takes
+OL,22,Fbreak for next phase of his cancer care
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -203,7 +202,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -229,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -255,7 +254,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -281,7 +280,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -307,7 +306,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -315,16 +314,16 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FStorm Amy: NI homes hit by power
-OL,9,Fcuts as disruption continues
-OL,11,G442FSchools to close as Storm Amy
-OL,12,Fapproaches
-OL,14,G443FMurdered Donegal backpacker's
-OL,15,Fmother scared of killer's release
-OL,17,G444FSoldier F trial: Teenager told man
-OL,18,Fon Bloody Sunday to 'play dead'
-OL,20,G445FGaza-bound humanitarian flotilla
-OL,21,Fintercepted with some on board detained
+OL,8,G441FExecutive 'allergic to
+OL,9,Fresponsibility', SDLP leader says
+OL,11,G442FStorm Amy: NI homes hit by power
+OL,12,Fcuts as disruption continues
+OL,14,G443FSchools to close as Storm Amy
+OL,15,Fapproaches
+OL,17,G444FMurdered Donegal backpacker's
+OL,18,Fmother scared of killer's release
+OL,20,G445FSoldier F trial: Teenager told man
+OL,21,Fon Bloody Sunday to 'play dead'
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
@@ -332,7 +331,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -358,7 +357,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -383,26 +382,25 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 4 OCT
-OL,4,G1530FDIY SOS
-OL,5,     GThe team are in Leicester to help
-OL,6,     Gseven-year-old Isla, who longs
-OL,7,     Gfor independence. Everything must
-OL,8,     Gbe made bespoke, and fitting it
-OL,9,     Gall in will be a huge challenge.
-OL,10,G1630FFinal Score
-OL,11,     GJason Mohammad and guests bring
-OL,12,     Gyou all the goals, latest news,
-OL,13,     Ganalysis, reaction and interviews
-OL,14,     Gfrom the afternoon's biggest
-OL,15,     Gfootball matches.
-OL,16,G1715FBBC News
-OL,17,G1725FRegional News
-OL,18,G1730FWeather
+OL,4,G1630FFinal Score
+OL,5,     GJason Mohammad and guests bring
+OL,6,     Gyou all the goals, latest news,
+OL,7,     Ganalysis, reaction and interviews
+OL,8,     Gfrom the afternoon's biggest
+OL,9,     Gfootball matches.
+OL,10,G1715FBBC News
+OL,11,G1725FRegional News
+OL,12,G1730FWeather
+OL,13,G1735FThe Celebrity Inner Circle
+OL,14,     GAmanda Holden hosts the quiz show
+OL,15,     Gwhere contestants and their
+OL,16,     Gcelebrity partners must outsmart
+OL,17,     Geach other to win big.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -410,25 +408,24 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 4 OCT
-OL,4,G1420FHello, Dolly!
-OL,5,     GDolly Levi uses her matchmaking
-OL,6,     Gskills in New York City to
-OL,7,     Gorchestrate the love lives of her
-OL,8,     Gfriends, all the while trying to
-OL,9,     Gget the man she likes to fall for
-OL,10,     Gher.
-OL,11,G1640FFlog It!
-OL,12,     GA collection of the best finds
-OL,13,     Gfrom the show's travels around
-OL,14,     Gthe country.
-OL,15,G1715FRugby League: Super League Live
-OL,16,     GHull KR v St Helens. Coverage
-OL,17,     Gfrom the 2025 Rugby Super League.
+OL,4,G1640FFlog It!
+OL,5,     GA collection of the best finds
+OL,6,     Gfrom the show's travels around
+OL,7,     Gthe country.
+OL,8,G1715FRugby League: Super League Live
+OL,9,     GHull KR v St Helens. Coverage
+OL,10,     Gfrom the 2025 Rugby Super League.
+OL,11,G1945FSecrets of the Jurassic Dinosaurs
+OL,12,     GThe plot thickens. As the team
+OL,13,     Guncovers the remains of fearsome
+OL,14,     GJurassic predators, they consider
+OL,15,     Gthe possibility that the site was
+OL,16,     Ga dinosaur hunting ground.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -436,26 +433,25 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 4 OCT
-OL,4,G1600FTipping Point: Best Ever Finals
-OL,5,     GA look back at more of Tipping
-OL,6,     GPoint's most thrilling end games
-OL,7,     Gas plucky players and famous
-OL,8,     Gfaces alike take on the machine
-OL,9,     Gfor its jackpot.
-OL,10,G1630FITV Evening News
-OL,11,G1645FRegional News
-OL,12,G1700FThe Chase Celebrity Special
-OL,13,     GBradley Walsh hosts as one Chaser
-OL,14,     Gis all that stands between Karim
-OL,15,     GZeroual, Christopher Biggins,
-OL,16,     GEllie Leach, Des Clarke and
-OL,17,     Gthousands of pounds for their
-OL,18,     Gchosen charities.
+OL,4,G1700FThe Chase Celebrity Special
+OL,5,     GBradley Walsh hosts as one Chaser
+OL,6,     Gis all that stands between Karim
+OL,7,     GZeroual, Christopher Biggins,
+OL,8,     GEllie Leach, Des Clarke and
+OL,9,     Gthousands of pounds for their
+OL,10,     Gchosen charities.
+OL,11,G1800FYou Bet! on Tour
+OL,12,     GStephen Mulhern is joined by Alex
+OL,13,     GBrooker, AJ Odudu, and Ryan and
+OL,14,     GAdam Thomas as he travels across
+OL,15,     Gthe UK to find more ordinary
+OL,16,     Gpeople taking on some
+OL,17,     Gextraordinary challenges.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -463,25 +459,26 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 4 OCT
-OL,4,G1540FKirstie and Phil's Love It or
-OL,5,     FList It
-OL,6,     GKirstie and Phil help homeowners
-OL,7,     Gdecide whether to stay put or
-OL,8,     Gstart afresh. Is there still life
-OL,9,     Gin Carl and Katy's draughty,
-OL,10,     Ginefficient Victorian semi?
-OL,11,G1645FGeorge Clarke's Amazing Spaces
-OL,12,     GGeorge checks out a wedding cake
-OL,13,     Gfolly, a beach house inspired by
-OL,14,     Gpill boxes, an old RNLI station
-OL,15,     Gand a stunning circular home in
-OL,16,     GDenmark inspired by the owner's
-OL,17,     Gcar collection.
+OL,4,G1645FGeorge Clarke's Amazing Spaces
+OL,5,     GGeorge checks out a wedding cake
+OL,6,     Gfolly, a beach house inspired by
+OL,7,     Gpill boxes, an old RNLI station
+OL,8,     Gand a stunning circular home in
+OL,9,     GDenmark inspired by the owner's
+OL,10,     Gcar collection.
+OL,11,G1750FThe Great British Bake Off
+OL,12,     GThe bakers melt into Chocolate
+OL,13,     GWeek with fiddly mousse cups, a
+OL,14,     Gtricky tart and a fab fondue
+OL,15,     Gdisplay. Whose fondue will get
+OL,16,     Gthem through, and whose mousse
+OL,17,     Gwill cut them loose?
+OL,18,G1900FChannel 4 News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -489,30 +486,30 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 4 OCT
-OL,4,G1510FThe Railway Children Return
-OL,5,     GFamily adventure. A group of
-OL,6,     Gchildren are evacuated to a
-OL,7,     GYorkshire village during the
-OL,8,     GSecond World War, where they
-OL,9,     Gencounter a young soldier who,
-OL,10,     Glike them, is far away from home.
-OL,11,G1610FMrs Caldicot's Cabbage War
-OL,12,     GComedy starring Pauline Collins
-OL,13,     Gand Peter Capaldi. After her
-OL,14,     Ghusband's death, a woman starts
-OL,15,     Glooking for independence.
-OL,16,G1710FEntertainment News on 5
-OL,17,G1715FMrs Caldicot's Cabbage War
-OL,18,     GComedy starring Pauline Collins
-OL,19,     Gand Peter Capaldi. After her
-OL,20,     Ghusband's death, a woman starts
-OL,21,     Glooking for independence.
-OL,22,G1820F5 News Weekend
+OL,4,G1610FMrs Caldicot's Cabbage War
+OL,5,     GComedy starring Pauline Collins
+OL,6,     Gand Peter Capaldi. After her
+OL,7,     Ghusband's death, a woman starts
+OL,8,     Glooking for independence.
+OL,9,G1710FEntertainment News on 5
+OL,10,G1715FMrs Caldicot's Cabbage War
+OL,11,     GComedy starring Pauline Collins
+OL,12,     Gand Peter Capaldi. After her
+OL,13,     Ghusband's death, a woman starts
+OL,14,     Glooking for independence.
+OL,15,G1820F5 News Weekend
+OL,16,G1825FThe Great Hurricane of 1990
+OL,17,     GThe definitive story of one of
+OL,18,     Gthe worst storms to hit the
+OL,19,     Gcountry in centuries which
+OL,20,     Gresulted in the tragic loss of 47
+OL,21,     Glives and left millions without
+OL,22,     Gelectricity.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -520,30 +517,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1759590365
+OL,0,        ECIMSBWebfax     F498A1759593975
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 4 OCT
-OL,4,G1425FSea of Sand
-OL,5,     G1958. War. Guy Green. Stars
-OL,6,     GRichard Attenborough, Michael
-OL,7,     GCraig & John Gregson. The Long
-OL,8,     GRange Desert Group go on an
-OL,9,     Gexpedition through North Africa
-OL,10,     Gto destroy a huge Nazi fuel dump.
-OL,11,G1625FLook At Life Trouble Shooters
-OL,12,     G1964. Filmed in Sarawak, we take
-OL,13,     Ga look at Britain's trouble
-OL,14,     Gshooters - the Royal Marines.
-OL,15,G1645FThe One That Got Away
-OL,16,     G1957. Drama. Director Roy Ward
-OL,17,     GBaker. Stars Hardy Kruger, Colin
-OL,18,     GGordon & Michael Goodliffe. A
-OL,19,     GGerman flight officer is shot
-OL,20,     Gdown over England and makes
-OL,21,     Gnumerous attempts to escape to
-OL,22,     Gfight again.
+OL,4,G1645FThe One That Got Away
+OL,5,     G1957. Drama. Director Roy Ward
+OL,6,     GBaker. Stars Hardy Kruger, Colin
+OL,7,     GGordon & Michael Goodliffe. A
+OL,8,     GGerman flight officer is shot
+OL,9,     Gdown over England and makes
+OL,10,     Gnumerous attempts to escape to
+OL,11,     Gfight again.
+OL,12,G1900FMaigret
+OL,13,     GDeath of a Butcher. 1961. Stars
+OL,14,     GRupert Davies, Ewen Solon & Helen
+OL,15,     GShingler. A wealthy meat trader
+OL,16,     Gwho is also an old school friend
+OL,17,     Gof Maigret's, requests for police
+OL,18,     Gprotection.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
