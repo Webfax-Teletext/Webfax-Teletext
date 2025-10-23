@@ -2,8 +2,8 @@ PN,55101
 SC,0001
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F551A1761240130
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}     G1/6
+OL,0,        ECIMSBWebfax     F551A1761251787
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}     G1/5
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GOPINIONCBBC One takes wrong turn in peak time
 OL,4,
@@ -25,8 +25,8 @@ PN,55102
 SC,0002
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F551A1761240130
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}     G2/6
+OL,0,        ECIMSBWebfax     F551A1761251787
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}     G2/5
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GOPINIONCBBC One takes wrong turn in peak time
 OL,4,
@@ -47,8 +47,8 @@ PN,55103
 SC,0003
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F551A1761240130
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}     G3/6
+OL,0,        ECIMSBWebfax     F551A1761251787
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}     G3/5
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GOPINIONCBBC One takes wrong turn in peak time
 OL,4,
@@ -72,8 +72,8 @@ PN,55104
 SC,0004
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F551A1761240130
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}     G4/6
+OL,0,        ECIMSBWebfax     F551A1761251787
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}     G4/5
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GOPINIONCBBC One takes wrong turn in peak time
 OL,4,
@@ -87,6 +87,9 @@ OL,12,FThis matters.
 OL,14,FThe BBC's charter is up for renewal.
 OL,16,FThere needs to be a debate over just
 OL,17,Fwhat the BBC is for.
+OL,19,FI would always defend the need for the
+OL,20,FBBC to have popular drama and
+OL,21,Fentertainment.
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,552,140,200,120,0,100
@@ -94,40 +97,25 @@ PN,55105
 SC,0005
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F551A1761240130
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}     G5/6
+OL,0,        ECIMSBWebfax     F551A1761251787
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}     G5/5
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GOPINIONCBBC One takes wrong turn in peak time
 OL,4,
-OL,5,FI would always defend the need for the
-OL,6,FBBC to have popular drama and
-OL,7,Fentertainment.
-OL,9,FThe BBC does not exist just to produce
-OL,10,Fserious and innovative programmes or
-OL,11,Fprovide what the market cannot
-OL,12,Fdeliver.
-OL,14,FBut there need to be no go areas too.
-OL,16,FFor instance, certain derivative or
-OL,17,Fbought in formats where there is little
-OL,18,Fsense of adding public value.
-OL,23,Uppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext PageBClean FeedCNat TVFOn This Day
-FL,552,140,200,120,0,100
-PN,55106
-SC,0006
-CT,2,C
-PS,c008
-OL,0,        ECIMSBWebfax     F551A1761240130
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}     G6/6
-OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
-OL,3,GOPINIONCBBC One takes wrong turn in peak time
-OL,4,
-OL,5,FSimply serving a demographic which is
-OL,6,Fhard to reach must never mean doing the
-OL,7,Fkind of programme better suited to
-OL,8,Fcommercial channels.
-OL,10,FNor must loyal, heartland audiences be
-OL,11,Falienated in the process.
+OL,5,FThe BBC does not exist just to produce
+OL,6,Fserious and innovative programmes or
+OL,7,Fprovide what the market cannot
+OL,8,Fdeliver.
+OL,10,FBut there need to be no go areas too.
+OL,12,FFor instance, certain derivative or
+OL,13,Fbought in formats where there is little
+OL,14,Fsense of adding public value.
+OL,16,FSimply serving a demographic which is
+OL,17,Fhard to reach must never mean doing the
+OL,18,Fkind of programme better suited to
+OL,19,Fcommercial channels.
+OL,21,FNor must loyal, heartland audiences be
+OL,22,Falienated in the process.
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,552,140,200,120,0,100
