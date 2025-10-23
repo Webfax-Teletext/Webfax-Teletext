@@ -1,7 +1,7 @@
 PN,23101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761180763
+OL,0,        ECIMSBWebfax     F231A1761195207
 OL,1,W{${$~+$ ~k4~k4~s                G1/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -29,7 +29,7 @@ FL,232,200,140,260,000,100
 PN,23102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761180763
+OL,0,        ECIMSBWebfax     F231A1761195207
 OL,1,W{${$~+$ ~k4~k4~s                G2/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -55,7 +55,7 @@ FL,232,200,140,260,000,100
 PN,23103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761180763
+OL,0,        ECIMSBWebfax     F231A1761195207
 OL,1,W{${$~+$ ~k4~k4~s                G3/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -84,7 +84,7 @@ FL,232,200,140,260,000,100
 PN,23104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761180763
+OL,0,        ECIMSBWebfax     F231A1761195207
 OL,1,W{${$~+$ ~k4~k4~s                G4/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -114,7 +114,7 @@ FL,232,200,140,260,000,100
 PN,23105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761180763
+OL,0,        ECIMSBWebfax     F231A1761195207
 OL,1,W{${$~+$ ~k4~k4~s                G5/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -134,29 +134,32 @@ OL,15,     Gcan - and more importantly can't
 OL,16,     G- trust.
 OL,17,G2205FBBC News and Weather
 OL,18,G2235FRegional News
-OL,19,G2245FQuestion Time
-OL,20,     GFiona Bruce presents an hour of
-OL,21,     Gtopical debate.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,232,200,140,260,000,100
 PN,23106
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761180763
+OL,0,        ECIMSBWebfax     F231A1761195207
 OL,1,W{${$~+$ ~k4~k4~s                G6/6
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 23 OCT
-OL,4,G2345FNewscast
-OL,5,     GLighthearted discussion of the
-OL,6,     Gday's news.
-OL,7,G0015FThe Weakest Link: Redemption
-OL,8,     FSpecial
-OL,9,     GRomesh Ranganathan hosts a
-OL,10,     Gredemption special.
-OL,11,G0100FWeather for the Week Ahead
-OL,12,G0105FBBC News
+OL,4,G2245FQuestion Time
+OL,5,     GFiona Bruce presents an hour of
+OL,6,     Gdebate from Swindon. On the panel
+OL,7,     Gare Stephen Kinnock MP, Harriet
+OL,8,     GBaldwin MP, Nadine Dorries and
+OL,9,     GMariella Frostrup.
+OL,10,G2345FNewscast
+OL,11,     GLighthearted discussion of the
+OL,12,     Gday's news.
+OL,13,G0015FThe Weakest Link: Redemption
+OL,14,     FSpecial
+OL,15,     GRomesh Ranganathan hosts a
+OL,16,     Gredemption special.
+OL,17,G0100FWeather for the Week Ahead
+OL,18,G0105FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,232,200,140,260,000,100
