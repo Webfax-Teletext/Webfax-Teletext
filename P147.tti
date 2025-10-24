@@ -2,8 +2,8 @@ PN,14701
 SC,0001
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F147A1761345348
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G1/7
+OL,0,        ECIMSBWebfax     F147A1761347298
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G1/9
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCHigh-profile Panorama
 OL,4,Cdisrupted by playout error
@@ -24,8 +24,8 @@ PN,14702
 SC,0002
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F147A1761345348
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G2/7
+OL,0,        ECIMSBWebfax     F147A1761347298
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G2/9
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCHigh-profile Panorama
 OL,4,Cdisrupted by playout error
@@ -47,8 +47,8 @@ PN,14703
 SC,0003
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F147A1761345348
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G3/7
+OL,0,        ECIMSBWebfax     F147A1761347298
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G3/9
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCHigh-profile Panorama
 OL,4,Cdisrupted by playout error
@@ -70,8 +70,8 @@ PN,14704
 SC,0004
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F147A1761345348
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G4/7
+OL,0,        ECIMSBWebfax     F147A1761347298
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G4/9
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCHigh-profile Panorama
 OL,4,Cdisrupted by playout error
@@ -87,8 +87,8 @@ OL,14,Fin-house teams in each of the
 OL,15,Frespective nations, though London's
 OL,16,Foutput is seen there for much of the
 OL,17,Fday.
-OL,19,FStaff in Belfast, Glasgow and Cardiff
-OL,20,Fintervened during the breakdown:
+OL,19,FHere's how things were handled in
+OL,20,FBelfast, Glasgow and Cardiff:
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,148,140,200,120,0,100
@@ -96,18 +96,19 @@ PN,14705
 SC,0005
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F147A1761345348
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G5/7
+OL,0,        ECIMSBWebfax     F147A1761347298
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G5/9
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCHigh-profile Panorama
 OL,4,Cdisrupted by playout error
 OL,5,
-OL,6,F- Northern Ireland took London's output
-OL,7,Ffor the in-programme breakdown. But
-OL,8,FBelfast Playout intervened to prevent
-OL,9,Fthe post-programme breakdown (seen in
-OL,10,Fthe rest of the country) and seamlessly
-OL,11,Ffilled with trails up to the 10pm news.
+OL,6,GBBC NORTHERN IRELAND
+OL,8,FNorthern Ireland took London's output
+OL,9,Ffor the in-programme breakdown. But
+OL,10,FBelfast Playout intervened to prevent
+OL,11,Fthe post-programme breakdown (seen in
+OL,12,Fthe rest of the country) and seamlessly
+OL,13,Ffilled with trails up to the 10pm news.
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,148,140,200,120,0,100
@@ -115,29 +116,25 @@ PN,14706
 SC,0006
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F147A1761345348
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G6/7
+OL,0,        ECIMSBWebfax     F147A1761347298
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G6/9
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCHigh-profile Panorama
 OL,4,Cdisrupted by playout error
 OL,5,
-OL,6,F- Glasgow was in-circuit when the
-OL,7,Fbreakdown occurred and so when London
-OL,8,Finadvertently triggered the next
-OL,9,Fjunction, Scottish viewers initially
-OL,10,Fsaw the BBC logo and music usually
-OL,11,Fplayed out on the clean feed of BBC One
-OL,12,Fduring junctions.Scotland put the
-OL,13,FSalford Sport studio to air for
-OL,14,Fslightly longer than Network before
-OL,15,Fcutting up their own breakdown graphic.
-OL,16,FThe Scottish announcer provided a
-OL,17,Fverbal apology.BBC One Scotland
-OL,18,Freturned to Panorama as soon as it was
-OL,19,Frestarted by the Network director.BBC
-OL,20,FOne Scotland put up their own breakdown
-OL,21,Fslide again post-Panorama, filling in a
-OL,22,Fsimilar fashion to Network, until
+OL,6,GBBC SCOTLAND
+OL,8,FGlasgow was in-circuit when the
+OL,9,Fbreakdown occurred and so when London
+OL,10,Finadvertently triggered the next
+OL,11,Fjunction, Scottish viewers initially
+OL,12,Fsaw the BBC logo and music usually
+OL,13,Fplayed out on the clean feed of BBC One
+OL,14,Fduring junctions.
+OL,16,FScotland put the Salford Sport studio
+OL,17,Fto air for slightly longer than Network
+OL,18,Fbefore cutting up their own breakdown
+OL,19,Fgraphic. The Scottish announcer
+OL,20,Fprovided a verbal apology.
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,148,140,200,120,0,100
@@ -145,29 +142,65 @@ PN,14707
 SC,0007
 CT,2,C
 PS,c008
-OL,0,        ECIMSBWebfax     F147A1761345348
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G7/7
+OL,0,        ECIMSBWebfax     F147A1761347298
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G7/9
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCHigh-profile Panorama
 OL,4,Cdisrupted by playout error
 OL,5,
-OL,6,F- BBC One Wales, like Scotland, was on
-OL,7,Fthe clean feed of BBC One when the
-OL,8,Fbreakdown occurred but cut back to the
-OL,9,Fdirty Network feed before the BBC Radio
-OL,10,F3 Unwind trail had finished.They took
-OL,11,Fthe Network breakdown slide initially
-OL,12,Fbefore cutting up their own breakdown
-OL,13,Fslide, and providing a verbal
-OL,14,Fapology.BBC One Wales returned to
-OL,15,FPanorama as soon as it was restarted by
-OL,16,Fthe Network director.After Panorama
-OL,17,Ffinished (earlier than originally
-OL,18,Fplanned), BBC One Wales put up their
-OL,19,Fown breakdown slide again and provided
-OL,20,Fa further verbal apology. The junction
-OL,21,Fkicked in a short time later, ahead of
-OL,22,Fthe 10pm news.
+OL,6,FBBC One Scotland returned to Panorama
+OL,7,Fas soon as it was restarted by the
+OL,8,FNetwork director.
+OL,10,FBBC One Scotland put up their own
+OL,11,Fbreakdown slide again post-Panorama,
+OL,12,Ffilling in a similar fashion to
+OL,13,FNetwork, until starting the next
+OL,14,Fjunction ahead of the 10pm news.
+OL,23,Uppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBClean FeedCNat TVFOn This Day
+FL,148,140,200,120,0,100
+PN,14708
+SC,0008
+CT,2,C
+PS,c008
+OL,0,        ECIMSBWebfax     F147A1761347298
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G8/9
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+OL,3,GBLOOPERSCHigh-profile Panorama
+OL,4,Cdisrupted by playout error
+OL,5,
+OL,6,GBBC WALES
+OL,8,FBBC One Wales, like Scotland, was on
+OL,9,Fthe clean feed of BBC One when the
+OL,10,Fbreakdown occurred but cut back to the
+OL,11,Fdirty Network feed before the BBC Radio
+OL,12,F3 Unwind trail had finished.
+OL,14,FThey took the Network breakdown slide
+OL,15,Finitially before cutting up their own
+OL,16,Fbreakdown slide, and providing a verbal
+OL,17,Fapology.
+OL,19,FBBC One Wales returned to Panorama as
+OL,20,Fsoon as it was restarted by the Network
+OL,21,Fdirector.
+OL,23,Uppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBClean FeedCNat TVFOn This Day
+FL,148,140,200,120,0,100
+PN,14709
+SC,0009
+CT,2,C
+PS,c008
+OL,0,        ECIMSBWebfax     F147A1761347298
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G9/9
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+OL,3,GBLOOPERSCHigh-profile Panorama
+OL,4,Cdisrupted by playout error
+OL,5,
+OL,6,FAfter Panorama finished (earlier than
+OL,7,Foriginally planned), BBC One Wales put
+OL,8,Fup their own breakdown slide again and
+OL,9,Fprovided a further verbal apology. The
+OL,10,Fjunction kicked in a short time later,
+OL,11,Fahead of the 10pm news.
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,148,140,200,120,0,100@
