@@ -1,7 +1,7 @@
 PN,10000
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax     F100A1761322656
+OL,0,        ECIMSBWebfax     F100A1761695235
 OL,1,W|4|h4|||h||4|||h||4|4|Rh|4
 OL,2,W5j5u3jz%u3jz5ou?R 5 C   Teletext
 OL,3,W5j57qjk47!jk5~7}R 5 C on the web
@@ -11,7 +11,7 @@ OL,6,BGWebfax is updated 24-hours-a-day
 OL,7,BGEm: site.editor@webfax.thetvroom.com
 OL,8,BGWhat is Webfax? Find out more on 499
 OL,10,MFOn This Day --G120FRegional TV --G260
-OL,11,              -
+OL,11,              -                        B
 OL,12,MBClean Feed ---G140BNational News G300
 OL,13,            -
 OL,14,MFNational TV --G200FRegional News G301
@@ -21,6 +21,6 @@ OL,19, BWeather ------G120BRegional RadioG250
 OL,20, FTravel -------G150FNational SportG300
 OL,21, BNational RadioG200BRegional SportG301
 OL,22,C
-OL,23,B]D  NMS/thetvroom.com collaboration
-OL,24,AThis DayB Clean FeedC  Nat TV FNat News
+OL,23,B]D@    NMS/ZXGuesser/The TV Room
+OL,24,AOn This DayBClean FeedC Nat TVFNat News
 FL,120,140,200,300,0,100
