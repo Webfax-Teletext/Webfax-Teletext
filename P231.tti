@@ -1,7 +1,7 @@
 PN,23101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761788836
+OL,0,        ECIMSBWebfax     F231A1761803303
 OL,1,W{${$~+$ ~k4~k4~s                G1/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -27,7 +27,7 @@ FL,232,200,140,260,000,100
 PN,23102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761788836
+OL,0,        ECIMSBWebfax     F231A1761803303
 OL,1,W{${$~+$ ~k4~k4~s                G2/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -53,7 +53,7 @@ FL,232,200,140,260,000,100
 PN,23103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761788836
+OL,0,        ECIMSBWebfax     F231A1761803303
 OL,1,W{${$~+$ ~k4~k4~s                G3/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -82,7 +82,7 @@ FL,232,200,140,260,000,100
 PN,23104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761788836
+OL,0,        ECIMSBWebfax     F231A1761803304
 OL,1,W{${$~+$ ~k4~k4~s                G4/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -112,7 +112,7 @@ FL,232,200,140,260,000,100
 PN,23105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761788836
+OL,0,        ECIMSBWebfax     F231A1761803304
 OL,1,W{${$~+$ ~k4~k4~s                G5/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -137,7 +137,7 @@ FL,232,200,140,260,000,100
 PN,23106
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761788836
+OL,0,        ECIMSBWebfax     F231A1761803304
 OL,1,W{${$~+$ ~k4~k4~s                G6/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -152,27 +152,30 @@ OL,10,G2200FBBC News and Weather
 OL,11,G2230FRegional News
 OL,12,G2240FQuestion Time
 OL,13,     GFiona Bruce presents an hour of
-OL,14,     Gtopical debate.
-OL,15,G2340FNewscast
-OL,16,     GLighthearted discussion of the
-OL,17,     Gday's news.
-OL,18,G0010FMichael McIntyre's The Wheel
-OL,19,     GThe celebrities include Susan
-OL,20,     GWokoma, Roman Kemp, Layton
-OL,21,     GWilliams and Katherine Ryan.
-OL,22,G0110FWeather for the Week Ahead
+OL,14,     Gdebate from Bradford. On the
+OL,15,     Gpanel, the Culture secretary Lisa
+OL,16,     GNandy MP, Harriet Cross MP; Matt
+OL,17,     GGoodwin and Faiza Shaheen.
+OL,18,G2340FNewscast
+OL,19,     GLighthearted discussion of the
+OL,20,     Gday's news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,232,200,140,260,000,100
 PN,23107
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax     F231A1761788836
+OL,0,        ECIMSBWebfax     F231A1761803304
 OL,1,W{${$~+$ ~k4~k4~s                G7/7
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 30 OCT
-OL,4,G0115FBBC News
+OL,4,G0010FMichael McIntyre's The Wheel
+OL,5,     GThe celebrities include Susan
+OL,6,     GWokoma, Roman Kemp, Layton
+OL,7,     GWilliams and Katherine Ryan.
+OL,8,G0110FWeather for the Week Ahead
+OL,9,G0115FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,232,200,140,260,000,100
