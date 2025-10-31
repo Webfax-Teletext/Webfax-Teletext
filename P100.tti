@@ -1,26 +1,228 @@
-PN,10000
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax     F100A1761948037
+PN,10001
+SC,0001
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax     F100A1761948314
 OL,1,W|4|h4|||h||4|||h||4|4|Rh|4
-OL,2,W5j5u3jz%u3jz5ou?R 5 C   Teletext
-OL,3,W5j57qjk47!jk5~7}R 5 C on the web
+OL,2,W5j5u3jz%u3jz5ou?R 5 C    Updated
+OL,3,W5j57qjk47!jk5~7}R 5 C       24/7
 OL,4,W////%///*//%/% */*%/%/R*// (,,,,,,,,,,,
 OL,5,                   B
-OL,6,BGWebfax is updated 24-hours-a-day
-OL,7,BGEm: site.editor@webfax.thetvroom.com
-OL,8,BGWhat is Webfax? Find out more on 499
-OL,10,MFOn This Day --G120FRegional TV --G260
-OL,11,              -                        B
-OL,12,MBClean Feed ---G140BNational News G300
-OL,13,            -
-OL,14,MFNational TV --G200FRegional News G301
-OL,15,-
-OL,17,BGContent available over on Webfax 2
-OL,19, BWeather ------G120BRegional RadioG250
-OL,20, FTravel -------G150FNational SportG300
-OL,21, BNational RadioG200BRegional SportG301
+OL,6,BGEm: site.editor@webfax.thetvroom.com
+OL,7,BGWhat is Webfax? Find out more on 499
+OL,9,MCOn This Day...G120FNational TV...G200
+OL,10,M120...COn This Day  G200...FNational TV
+OL,11,MBClean Feed....G140BRegional TV...G260
+OL,12,            -
+OL,13,MFWeather.......G160FNational News.G300
+OL,14,-
+OL,15,MBEngineering...G190BRegional News.G301
+OL,18,R#############GOn This DayR#############
+OL,19,CTV-related dates of note, including
+OL,20,Cfirst and final airings of programmes
+OL,21,Cand presenter/announcer anniversaries.
 OL,22,C
 OL,23,B]D@    NMS/ZXGuesser/The TV Room
 OL,24,AOn This DayBClean FeedC Nat TVFNat News
-FL,120,140,200,300,0,100
+FL,120,140,200,300,100,100
+PN,10002
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax     F100A1761948314
+OL,1,W|4|h4|||h||4|||h||4|4|Rh|4
+OL,2,W5j5u3jz%u3jz5ou?R 5 C    Updated
+OL,3,W5j57qjk47!jk5~7}R 5 C       24/7
+OL,4,W////%///*//%/% */*%/%/R*// (,,,,,,,,,,,
+OL,5,                   B
+OL,6,BGEm: site.editor@webfax.thetvroom.com
+OL,7,BGWhat is Webfax? Find out more on 499
+OL,9,MFOn This Day...G120FNational TV...G200
+OL,10,M120...COn This Day  G200...FNational TV
+OL,11,MCClean Feed....G140BRegional TV...G260
+OL,12,            -
+OL,13,MFWeather.......G160FNational News.G300
+OL,14,-
+OL,15,MBEngineering...G190BRegional News.G301
+OL,18,R#############GClean FeedR##############
+OL,19,CBroadcast news, insider info, bloopers,
+OL,20,Copinion and more, with an emphasis on
+OL,21,Cpresentation, branding and technology.
+OL,22,C
+OL,23,B]D@    NMS/ZXGuesser/The TV Room
+OL,24,AOn This DayBClean FeedC Nat TVFNat News
+FL,120,140,200,300,100,100
+PN,10003
+SC,0003
+PS,c008
+OL,0,        ECIMSBWebfax     F100A1761948314
+OL,1,W|4|h4|||h||4|||h||4|4|Rh|4
+OL,2,W5j5u3jz%u3jz5ou?R 5 C    Updated
+OL,3,W5j57qjk47!jk5~7}R 5 C       24/7
+OL,4,W////%///*//%/% */*%/%/R*// (,,,,,,,,,,,
+OL,5,                   B
+OL,6,BGEm: site.editor@webfax.thetvroom.com
+OL,7,BGWhat is Webfax? Find out more on 499
+OL,9,MFOn This Day...G120FNational TV...G200
+OL,10,M120...COn This Day  G200...FNational TV
+OL,11,MBClean Feed....G140BRegional TV...G260
+OL,12,            -
+OL,13,MCWeather.......G160FNational News.G300
+OL,14,-
+OL,15,MBEngineering...G190BRegional News.G301
+OL,18,R###############GWeatherR###############
+OL,19,CThe latest UK national/regional weather
+OL,20,Coutlook for today, tomorrow and the
+OL,21,Cnext three days. From the Met Office.
+OL,23,B]D@    NMS/ZXGuesser/The TV Room
+OL,24,AOn This DayBClean FeedC Nat TVFNat News
+FL,120,140,200,300,100,100
+PN,10004
+SC,0004
+PS,c008
+OL,0,        ECIMSBWebfax     F100A1761948314
+OL,1,W|4|h4|||h||4|||h||4|4|Rh|4
+OL,2,W5j5u3jz%u3jz5ou?R 5 C    Updated
+OL,3,W5j57qjk47!jk5~7}R 5 C       24/7
+OL,4,W////%///*//%/% */*%/%/R*// (,,,,,,,,,,,
+OL,5,                   B
+OL,6,BGEm: site.editor@webfax.thetvroom.com
+OL,7,BGWhat is Webfax? Find out more on 499
+OL,9,MFOn This Day...G120FNational TV...G200
+OL,10,M120...COn This Day  G200...FNational TV
+OL,11,MBClean Feed....G140BRegional TV...G260
+OL,12,            -
+OL,13,MFWeather.......G160FNational News.G300
+OL,14,-
+OL,15,MCEngineering...G190BRegional News.G301
+OL,18,R#############GEngineeringR#############
+OL,19,CDetails of planned engineering work for
+OL,20,Cthis week at transmitting stations
+OL,21,Cacross the Freeview/Saorview networks.
+OL,23,B]D@    NMS/ZXGuesser/The TV Room
+OL,24,AOn This DayBClean FeedC Nat TVFNat News
+FL,120,140,200,300,100,100
+PN,10005
+SC,0005
+PS,c008
+OL,0,        ECIMSBWebfax     F100A1761948314
+OL,1,W|4|h4|||h||4|||h||4|4|Rh|4
+OL,2,W5j5u3jz%u3jz5ou?R 5 C    Updated
+OL,3,W5j57qjk47!jk5~7}R 5 C       24/7
+OL,4,W////%///*//%/% */*%/%/R*// (,,,,,,,,,,,
+OL,5,                   B
+OL,6,BGEm: site.editor@webfax.thetvroom.com
+OL,7,BGWhat is Webfax? Find out more on 499
+OL,9,MFOn This Day...G120CNational TV...G200
+OL,10,M120...COn This Day  G200...FNational TV
+OL,11,MBClean Feed....G140BRegional TV...G260
+OL,12,            -
+OL,13,MFWeather.......G160FNational News.G300
+OL,14,-
+OL,15,MBEngineering...G190BRegional News.G301
+OL,18,R#############GNational TVR#############
+OL,19,CProgramme listings for the TV channels
+OL,20,Cprovided by the UK's public service
+OL,21,Cbroadcasters, as well as a few others.
+OL,23,B]D@    NMS/ZXGuesser/The TV Room
+OL,24,AOn This DayBClean FeedC Nat TVFNat News
+FL,120,140,200,300,100,100
+PN,10006
+SC,0006
+PS,c008
+OL,0,        ECIMSBWebfax     F100A1761948314
+OL,1,W|4|h4|||h||4|||h||4|4|Rh|4
+OL,2,W5j5u3jz%u3jz5ou?R 5 C    Updated
+OL,3,W5j57qjk47!jk5~7}R 5 C       24/7
+OL,4,W////%///*//%/% */*%/%/R*// (,,,,,,,,,,,
+OL,5,                   B
+OL,6,BGEm: site.editor@webfax.thetvroom.com
+OL,7,BGWhat is Webfax? Find out more on 499
+OL,9,MFOn This Day...G120FNational TV...G200
+OL,10,M120...COn This Day  G200...FNational TV
+OL,11,MBClean Feed....G140CRegional TV...G260
+OL,12,            -
+OL,13,MFWeather.......G160FNational News.G300
+OL,14,-
+OL,15,MBEngineering...G190BRegional News.G301
+OL,18,R#############GRegional TVR#############
+OL,19,CProgramme listings for the various
+OL,20,Cregional and national strains of ITV 1,
+OL,21,CBBC One and BBC Two.
+OL,23,B]D@    NMS/ZXGuesser/The TV Room
+OL,24,AOn This DayBClean FeedC Nat TVFNat News
+FL,120,140,200,300,100,100
+PN,10007
+SC,0007
+PS,c008
+OL,0,        ECIMSBWebfax     F100A1761948314
+OL,1,W|4|h4|||h||4|||h||4|4|Rh|4
+OL,2,W5j5u3jz%u3jz5ou?R 5 C    Updated
+OL,3,W5j57qjk47!jk5~7}R 5 C       24/7
+OL,4,W////%///*//%/% */*%/%/R*// (,,,,,,,,,,,
+OL,5,                   B
+OL,6,BGEm: site.editor@webfax.thetvroom.com
+OL,7,BGWhat is Webfax? Find out more on 499
+OL,9,MFOn This Day...G120FNational TV...G200
+OL,10,M120...COn This Day  G200...FNational TV
+OL,11,MBClean Feed....G140BRegional TV...G260
+OL,12,            -
+OL,13,MFWeather.......G160CNational News.G300
+OL,14,-
+OL,15,MBEngineering...G190BRegional News.G301
+OL,18,R############GNational NewsR############
+OL,19,CThe latest national and world news
+OL,20,Ccourtesy of ITV News. Updated regularly
+OL,21,Cduring daytime and evening.
+OL,23,B]D@    NMS/ZXGuesser/The TV Room
+OL,24,AOn This DayBClean FeedC Nat TVFNat News
+FL,120,140,200,300,100,100
+PN,10008
+SC,0008
+PS,c008
+OL,0,        ECIMSBWebfax     F100A1761948314
+OL,1,W|4|h4|||h||4|||h||4|4|Rh|4
+OL,2,W5j5u3jz%u3jz5ou?R 5 C    Updated
+OL,3,W5j57qjk47!jk5~7}R 5 C       24/7
+OL,4,W////%///*//%/% */*%/%/R*// (,,,,,,,,,,,
+OL,5,                   B
+OL,6,BGEm: site.editor@webfax.thetvroom.com
+OL,7,BGWhat is Webfax? Find out more on 499
+OL,9,MFOn This Day...G120FNational TV...G200
+OL,10,M120...COn This Day  G200...FNational TV
+OL,11,MBClean Feed....G140BRegional TV...G260
+OL,12,            -
+OL,13,MFWeather.......G160FNational News.G300
+OL,14,-
+OL,15,MBEngineering...G190CRegional News.G301
+OL,18,R############GRegional NewsR############
+OL,19,CThe latest from ITV regional newsrooms
+OL,20,Caround the country. Updated regularly
+OL,21,Cduring daytime and evening.
+OL,23,B]D@    NMS/ZXGuesser/The TV Room
+OL,24,AOn This DayBClean FeedC Nat TVFNat News
+FL,120,140,200,300,100,100
+PN,10009
+SC,0009
+PS,c008
+OL,0,        ECIMSBWebfax     F100A1761948314
+OL,1,W|4|h4|||h||4|||h||4|4|Rh|4
+OL,2,W5j5u3jz%u3jz5ou?R 5 C    Updated
+OL,3,W5j57qjk47!jk5~7}R 5 C       24/7
+OL,4,W////%///*//%/% */*%/%/R*// (,,,,,,,,,,,
+OL,5,                   B
+OL,6,BGYou can find a Round-Up of content
+OL,7, from across Webfax 1 on page 498
+OL,9,MFOn This Day...G120FNational TV...G200
+OL,10,M120...COn This Day  G200...FNational TV
+OL,11,MBClean Feed....G140BRegional TV...G260
+OL,12,            -
+OL,13,MFWeather.......G160FNational News.G300
+OL,14,-
+OL,15,MBEngineering...G190BRegional News.G301
+OL,18,R###########GMORE ON WEBFAX 2R##########
+OL,19,FTune to our sister service via the
+OL,20,FRemote Control, for sports news, radio
+OL,21,Fprogramme listings and more.
+OL,23,B]D@    NMS/ZXGuesser/The TV Room
+OL,24,AOn This DayBClean FeedC Nat TVFNat News
+FL,120,140,200,300,100,100
