@@ -2,23 +2,22 @@ PN,14501
 SC,0001
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax     F145A1762608659
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G1/4
+OL,0,        ECIMSBWebfax     F145A1762688800
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G1/3
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
-OL,3,GNEWSCNew format for incorporating live
-OL,4,Cstream coverage into BBC News channel
-OL,5,
-OL,6,FBBC News is apparently trialling a new
-OL,7,Fmethod of transitioning from joint
-OL,8,FUK/international programming on its TV
-OL,9,Fnews channel, to streaming-led,
-OL,10,Fstory-specific output for UK viewers of
-OL,11,Fthe channel.
-OL,13,FAn example of the experimental format
-OL,14,Fwent out at 2.05pm today ` coverage of
-OL,15,Fa news conference by Reform UK.
-OL,17,FBBC News ran a dedicated live stream of
-OL,18,Fthe news conference online.
+OL,3,GNEWSCVisual test implemented to police
+OL,4,Caccess to BBC Genome/Programme Index
+OL,5,Cwebsite
+OL,6,
+OL,7,FVisitors to the BBC Genome/BBC
+OL,8,FProgramme Index in recent months have
+OL,9,Fbeen becoming increasingly frustrated
+OL,10,Fwith technical issues preventing
+OL,11,Faccess.
+OL,13,F"502 Bad Gateway" errors were a
+OL,14,Ffrequent sight. Unusually long waits
+OL,15,Ffor requested content to finally appear
+OL,16,Fwas also a fairly common experience.
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,146,140,200,120,0,100
@@ -26,23 +25,24 @@ PN,14502
 SC,0002
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax     F145A1762608659
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G2/4
+OL,0,        ECIMSBWebfax     F145A1762688800
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G2/3
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
-OL,3,GNEWSCNew format for incorporating live
-OL,4,Cstream coverage into BBC News channel
-OL,5,
-OL,6,FThe BBC News TV channel ` which was
-OL,7,Fshowing the same live news programming
-OL,8,Fon its UK and international feeds `
-OL,9,Fjoined the news conference less than a
-OL,10,Fminute later.
-OL,12,FThe on-screen straps used for the live
-OL,13,Fstream and the TV channel's coverage
-OL,14,Fmatched ` with the exception of the
-OL,15,Flocation strap, which was "LONDON" on
-OL,16,Fthe TV channel and "WESTMINSTER" on the
-OL,17,Fstream.
+OL,3,GNEWSCVisual test implemented to police
+OL,4,Caccess to BBC Genome/Programme Index
+OL,5,Cwebsite
+OL,6,
+OL,7,FIt's not clear why these experiences
+OL,8,Fwere unique to this particular portion
+OL,9,Fof the BBC's website but it certainly
+OL,10,Fsuggests the content is hosted on less
+OL,11,Frobust infrastructure than the rest of
+OL,12,Fthe corporation's online offerings.
+OL,14,FHowever, in the last week or so, a new
+OL,15,Fmeasure has been put in place `
+OL,16,Fpresumably to better control the load
+OL,17,Fon whatever hosting arrangement is in
+OL,18,Fplace for the Programme Index content.
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,146,140,200,120,0,100
@@ -50,43 +50,23 @@ PN,14503
 SC,0003
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax     F145A1762608659
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G3/4
+OL,0,        ECIMSBWebfax     F145A1762688800
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G3/3
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
-OL,3,GNEWSCNew format for incorporating live
-OL,4,Cstream coverage into BBC News channel
-OL,5,
-OL,6,FJust over a minute into the news
-OL,7,Fconference coverage, the UK version of
-OL,8,Fthe TV channel switched to the output
-OL,9,Fproduced by the streaming team.
-OL,11,FThe transition would've been fairly
-OL,12,Fseamless were it not for a
-OL,13,Fpicture/audio freeze on the line which
-OL,14,Foccurred at the same time as the
-OL,15,Fswitch.
-OL,23,Uppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext PageBClean FeedCNat TVFOn This Day
-FL,146,140,200,120,0,100
-PN,14504
-SC,0004
-CT,3,C
-PS,c008
-OL,0,        ECIMSBWebfax     F145A1762608659
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G4/4
-OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
-OL,3,GNEWSCNew format for incorporating live
-OL,4,Cstream coverage into BBC News channel
-OL,5,
-OL,6,FThe international version of the TV
-OL,7,Fchannel eventually left the news
-OL,8,Fconference coverage. But coverage
-OL,9,Fcontinued on the UK version of the
-OL,10,Fchannel until 3pm. The live stream also
-OL,11,Fended at that point.
-OL,13,FThe UK TV channel then rejoined the
-OL,14,Finternational version of the TV channel
-OL,15,Fneatly at the top of the hour.
+OL,3,GNEWSCVisual test implemented to police
+OL,4,Caccess to BBC Genome/Programme Index
+OL,5,Cwebsite
+OL,6,
+OL,7,FVisitors to BBC Genome/Programme Index
+OL,8,Fmust now participate in a short test,
+OL,9,Fto prove they are human.
+OL,11,FThis quick visual test should keep out
+OL,12,Fmany bots and crawlers, and reduce
+OL,13,Fstrain on the hosting server(s), and
+OL,14,Fprovide a better quality experience for
+OL,15,Flegitimate users.
+OL,17,FIt certainly seems to be working so
+OL,18,Ffar.
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,146,140,200,120,0,100@
