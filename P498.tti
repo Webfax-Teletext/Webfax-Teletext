@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,24 +50,24 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FSearch for UK navy crew member
-OL,9,Funder way off north-west coast of
-OL,10,FIreland
-OL,12,G303FWhat is in the asylum seeker
-OL,13,Foverhaul and why is it inspired by
-OL,14,FDenmark's laws?
-OL,16,G304FYungblud cancels tour dates on
-OL,17,Fadvice of doctor to avoid 'lasting
-OL,18,Fdamage'
-OL,20,G305FAsylum in UK to be made temporary
-OL,21,Funder new plans
+OL,8,G302FAsylum in UK to be made temporary
+OL,9,Funder new plans
+OL,11,G303FStorm Claudia flooding and
+OL,12,Fdownpours to continue as country
+OL,13,Fbraces for cold snap
+OL,15,G304FJamaican conjoined twins safely
+OL,16,Fseparated by surgeons in five-hour
+OL,17,Foperation
+OL,19,G305FSearch for UK navy crew member
+OL,20,Funder way off north-west coast of
+OL,21,FIreland
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +152,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -203,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -211,17 +211,16 @@ OL,4,                      R  R(4
 OL,5,BThe latest updates from GR"/
 OL,6,BITV News London         G  R!+?'
 OL,7,                         G    R# "
-OL,8,G401FConor Benn says rivalry is 'done,
-OL,9,Ffinished, over' after beating Chris
-OL,10,FEubank Jr
-OL,12,G402FTrain worker who protected
-OL,13,Fpassengers during mass stabbing leaves
-OL,14,Fhospital
-OL,16,G403FChris Eubank Jr weighs in heavier
-OL,17,Fthan Conor Benn ahead of rematch
-OL,19,G404FMan who stole 'Girl with Balloon'
-OL,20,FBanksy print jailed for more than a
-OL,21,Fyear
+OL,8,G401FCharity run that barred women and
+OL,9,Fgirls over 12 'reviewing its policies'
+OL,11,G402FConor Benn says rivalry is 'done,
+OL,12,Ffinished, over' after beating Chris
+OL,13,FEubank Jr
+OL,15,G403FTrain worker who protected
+OL,16,Fpassengers during mass stabbing leaves
+OL,17,Fhospital
+OL,19,G404FChris Eubank Jr weighs in heavier
+OL,20,Fthan Conor Benn ahead of rematch
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -229,7 +228,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -254,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -280,7 +279,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -288,25 +287,25 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FMan credited with saving some of
-OL,9,FBristol's most historic buildings dies
-OL,10,Faged 68
+OL,8,G431FGuide dog puppies form guard of
+OL,9,Fhonour at Premiership Women's Rugby
+OL,10,Fmatch
 OL,12,G432FTensions rise as protesters and
 OL,13,Fcounter-protesters gather in Bristol
-OL,15,G433FFire damage to Exeter City stadium
-OL,16,Fcould cost up to #100k
-OL,18,G434FFour malnourished kittens rescued
-OL,19,Ffrom landfill site
-OL,21,G435FSpecialist diving teams to inspect
-OL,22,Fflooded railway causing train
-OL,23,Fcancellations
+OL,15,G433FMan credited with saving some of
+OL,16,FBristol's most historic buildings dies
+OL,17,Faged 68
+OL,19,G434FFire damage to Exeter City stadium
+OL,20,Fcould cost up to #100k
+OL,22,G435FFour malnourished kittens rescued
+OL,23,Ffrom landfill site
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
 PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -314,24 +313,25 @@ OL,4,                          R`{5kyt
 OL,5,BThe latest updates from  Rk?~:
 OL,6,BUTV News                  R+? *??!
 OL,7,                                 R"
-OL,8,G441FFive young people dead in Co Louth
-OL,9,Froad crash
-OL,11,G442FBelfast-born flautist receives
-OL,12,Fhonorary doctorate from Ulster
-OL,13,FUniversity
-OL,15,G443FGPs back motion of no confidence
-OL,16,Fin Health Minister Mike Nesbitt
-OL,18,G444FCalls for independent inquiry into
-OL,19,FPresbyterian Church's safeguarding
-OL,20,Fscandal
-OL,23,Tppppppppppppppppppppppppppppppppppppppp
+OL,8,G441FUUP hits back at British Medical
+OL,9,FAssociation over no confidence vote in
+OL,10,FNesbitt
+OL,12,G442FSearch ends for UK Navy crew
+OL,13,Fmember off north-west coast of Ireland
+OL,15,G443FFive young people dead in Co Louth
+OL,16,Froad crash
+OL,18,G444FBelfast-born flautist receives
+OL,19,Fhonorary doctorate from Ulster
+OL,20,FUniversity
+OL,22,G445FGPs back motion of no confidence
+OL,23,Fin Health Minister Mike Nesbitt
 OL,24,ANext Page  BReg News CReg TV  FThis Day
 FL,499,301,260,120,000,100
 PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -357,7 +357,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -382,28 +382,25 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 16 NOV
-OL,4,G1705FBBC News
-OL,5,G1715FRegional News
-OL,6,G1720FWeather
-OL,7,G1725FCountryfile
-OL,8,     GHamza Yassin joins the team
-OL,9,     Gbehind an ambitious conservation
-OL,10,     Gproject to help release three
-OL,11,     Gwildcats into the Scottish
-OL,12,     GHighlands.
-OL,13,G1825FKingdom
-OL,14,     GThe lion pride tightens its grip
-OL,15,     Gon power, sending shockwaves
-OL,16,     Gthrough the rival families.
-OL,17,G1915FStrictly Come Dancing: The Results
-OL,18,     GWhich couples will take the trip
-OL,19,     Gfrom the Strictly Ballroom to
-OL,20,     GBlackpool Tower?
+OL,4,G1725FCountryfile
+OL,5,     GHamza Yassin joins the team
+OL,6,     Gbehind an ambitious conservation
+OL,7,     Gproject to help release three
+OL,8,     Gwildcats into the Scottish
+OL,9,     GHighlands.
+OL,10,G1825FKingdom
+OL,11,     GThe lion pride tightens its grip
+OL,12,     Gon power, sending shockwaves
+OL,13,     Gthrough the rival families.
+OL,14,G1915FStrictly Come Dancing: The Results
+OL,15,     GWhich couples will take the trip
+OL,16,     Gfrom the Strictly Ballroom to
+OL,17,     GBlackpool Tower?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -411,29 +408,26 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 16 NOV
-OL,4,G1635FCelebrity Race Across the World
-OL,5,     GThe race to the Guajira Peninsula
-OL,6,     Gis under way.
-OL,7,G1735FGolf: Tour Championship Highlights
-OL,8,     GHighlights as golfers on the
-OL,9,     GEuropean Tour battle it out in
-OL,10,     Gthe season's final tournament.
-OL,11,G1835FEva Longoria: Searching for Spain
-OL,12,     GFour hundred years after her
-OL,13,     Gancestor Lorenzo Longoria left
-OL,14,     GSpain for the New World, Eva is
-OL,15,     Gcoming home to Asturias, meeting
-OL,16,     Glong-lost relatives who teach her
-OL,17,     Ga family recipe.
-OL,18,G1915FWorld's Most Dangerous Roads
-OL,19,     GStephen Mangan and Lara Ricote
-OL,20,     Gtake on one of the most
-OL,21,     Gterrifying 4x4 roads in Australia.
+OL,4,G1735FGolf: Tour Championship Highlights
+OL,5,     GHighlights as golfers on the
+OL,6,     GEuropean Tour battle it out in
+OL,7,     Gthe season's final tournament.
+OL,8,G1835FEva Longoria: Searching for Spain
+OL,9,     GFour hundred years after her
+OL,10,     Gancestor Lorenzo Longoria left
+OL,11,     GSpain for the New World, Eva is
+OL,12,     Gcoming home to Asturias, meeting
+OL,13,     Glong-lost relatives who teach her
+OL,14,     Ga family recipe.
+OL,15,G1915FWorld's Most Dangerous Roads
+OL,16,     GStephen Mangan and Lara Ricote
+OL,17,     Gtake on one of the most
+OL,18,     Gterrifying 4x4 roads in Australia.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -441,7 +435,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -467,26 +461,27 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 16 NOV
-OL,4,G1645FGeorge Clarke's Old House New Home
-OL,5,     GGeorge takes inspiration from
-OL,6,     GJapan, to help Rachel and Sarah
-OL,7,     Gwith their Victorian terrace. And
-OL,8,     Ghave a young couple taken on too
-OL,9,     Gmuch with a listed 17th-century
-OL,10,     Gcottage?
-OL,11,G1750FChannel 4 News
-OL,12,G1820FMen in Black II
-OL,13,     GTommy Lee Jones and Will Smith
-OL,14,     Gstar in the tough action sequel
-OL,15,     Gto their sci-fi comedy about US
-OL,16,     Ggovernment agents who secretly
-OL,17,     Gprotect Earth from
-OL,18,     Gextraterrestrial criminals.
+OL,4,G1750FChannel 4 News
+OL,5,G1820FMen in Black II
+OL,6,     GTommy Lee Jones and Will Smith
+OL,7,     Gstar in the tough action sequel
+OL,8,     Gto their sci-fi comedy about US
+OL,9,     Ggovernment agents who secretly
+OL,10,     Gprotect Earth from
+OL,11,     Gextraterrestrial criminals.
+OL,12,G2000FGame of Wool: Britain's Best
+OL,13,     FKnitter
+OL,14,     GIt's Holiday Week and the
+OL,15,     Gknitters make glamorous swimwear
+OL,16,     Gand crochet a deckchair. Whose
+OL,17,     Gswimwear will make a splash? And
+OL,18,     Gwill anyone be laid back in the
+OL,19,     Gteam knit?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -494,25 +489,25 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 16 NOV
-OL,4,G1640FThe Christmas Bow
-OL,5,     GA promising musician's dream is
-OL,6,     Gput on hold by an accident, but
-OL,7,     Gshe reconnects with an old family
-OL,8,     Gfriend while recovering at home
-OL,9,     Gduring the Christmas holiday.
-OL,10,G1725F5 News Weekend
-OL,11,G1730FLive: NFL Big Game Night: Los
-OL,12,     FAngeles @ Jacksonville
-OL,13,     GDermot O'Leary, Sam Quek and Osi
-OL,14,     GUmenyiora are joined by NFL fans
-OL,15,     Gand comedian Ellie Taylor to
-OL,16,     Gwatch Los Angeles Chargers vs
-OL,17,     GJacksonville Jaguars.
+OL,4,G1730FLive: NFL Big Game Night: Los
+OL,5,     FAngeles @ Jacksonville
+OL,6,     GDermot O'Leary, Sam Quek and Osi
+OL,7,     GUmenyiora are joined by NFL fans
+OL,8,     Gand comedian Ellie Taylor to
+OL,9,     Gwatch Los Angeles Chargers vs
+OL,10,     GJacksonville Jaguars.
+OL,11,G2130FCarry On: Secrets & Scandals
+OL,12,     GBehind-the-scenes stories reveal
+OL,13,     Gthe truth behind the cheeky,
+OL,14,     Gcheerful image of the film
+OL,15,     Gseries, including the treatment
+OL,16,     Gof the cast at the hands of
+OL,17,     Gmillionaire producer Peter Rogers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -520,30 +515,27 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1763313260
+OL,0,        ECIMSBWebfax     F498A1763316868
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 16 NOV
-OL,4,G1700FThe Footage Detectives
-OL,5,     GNoel and Mike are joined by a
-OL,6,     Gfamiliar face from the antiques
-OL,7,     Gworld, Eric Knowles! Watch a
-OL,8,     Gbrilliant scopitone by The
-OL,9,     GKessler Sisters, and the
-OL,10,     GHornchurch Bus Garage cricket
-OL,11,     Gteam needs your help!
-OL,12,G1800FVicious Circle
-OL,13,     G1957. Thriller. Director: Gerald
-OL,14,     GThomas. Stars John Mills, Wilfrid
-OL,15,     GHyde-White & Lionel Jeffries.
-OL,16,     GHoward finds himself in a
-OL,17,     Gpredicament after he finds an
-OL,18,     Gactress murdered in his flat.
-OL,19,G1940FLook At Life Down London River
-OL,20,     G1962. A Look into a leisurely
-OL,21,     Gjourney through London along the
-OL,22,     GThames.
+OL,4,G1800FVicious Circle
+OL,5,     G1957. Thriller. Director: Gerald
+OL,6,     GThomas. Stars John Mills, Wilfrid
+OL,7,     GHyde-White & Lionel Jeffries.
+OL,8,     GHoward finds himself in a
+OL,9,     Gpredicament after he finds an
+OL,10,     Gactress murdered in his flat.
+OL,11,G1940FLook At Life Down London River
+OL,12,     G1962. A Look into a leisurely
+OL,13,     Gjourney through London along the
+OL,14,     GThames.
+OL,15,G2000FMemories of Making Sergeant Cork
+OL,16,     GAcclaimed actor William Gaunt
+OL,17,     Gtells all about the malfunctions
+OL,18,     Gand mistakes made on the set of
+OL,19,     GSergeant Cork.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
