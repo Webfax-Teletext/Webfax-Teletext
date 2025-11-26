@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,22 +50,22 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FFame reduces a celebrity's life
-OL,9,Fexpectancy by nearly five years, study
-OL,10,Fsays
-OL,12,G303FChancellor set to unveil Budget as
-OL,13,Fseries of tax rises expected
-OL,15,G304FWhat to look out for in Rachel
-OL,16,FReeves' Budget
-OL,18,G305FInquiry into rogue surgeon to hear
-OL,19,Fopening statements
+OL,8,G302FNamibian politician called Adolf
+OL,9,FHitler Uunona seeks re-election
+OL,11,G303FFame reduces a celebrity's life
+OL,12,Fexpectancy by nearly five years, study
+OL,13,Fsays
+OL,15,G304FChancellor set to unveil Budget as
+OL,16,Fseries of tax rises expected
+OL,18,G305FWhat to look out for in Rachel
+OL,19,FReeves' Budget
 OL,21,G306FPay rise for millions of workers
 OL,22,Fas national minimum wage to rise
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -127,7 +127,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -153,7 +153,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -179,7 +179,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -187,17 +187,16 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FGrand National animal rights
-OL,9,Fprotest case dropped by prosecutors
-OL,11,G392FGrieving mums join campaign to
-OL,12,Fchallenge knife crime myths
-OL,14,G393F'It shows me they care': Everton
-OL,15,Fboss defends Idrissa Gueye after slap
-OL,17,G394FWoman denies murder of 'much
-OL,18,Floved' great grandmother
-OL,20,G395FPolice issue over 500 domestic
-OL,21,Fabuse protection orders in in year
-OL,22,Flong trial
+OL,8,G391FAndy Burnham backs plans for
+OL,9,Ftourist tax
+OL,11,G392FGrand National animal rights
+OL,12,Fprotest case dropped by prosecutors
+OL,14,G393FGrieving mums join campaign to
+OL,15,Fchallenge knife crime myths
+OL,17,G394F'It shows me they care': Everton
+OL,18,Fboss defends Idrissa Gueye after slap
+OL,20,G395FWoman denies murder of 'much
+OL,21,Floved' great grandmother
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -205,7 +204,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -230,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -256,7 +255,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -281,7 +280,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -307,7 +306,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -333,7 +332,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -358,7 +357,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -383,30 +382,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 26 NOV
-OL,4,G0600FBreakfast
-OL,5,     GThe latest news, sport, business
-OL,6,     Gand weather from the BBC's
-OL,7,     GBreakfast team.
-OL,8,G0930FMorning Live
-OL,9,     GJoin Gethin, Helen, and Michelle
-OL,10,     Gfor tips and advice to simplify
-OL,11,     Gyour day!
-OL,12,G1045FRip Off Britain: Scams
-OL,13,     GA viewer contacts the team after
-OL,14,     Gsuspecting the online task work
-OL,15,     Ghe's been completing could be a
-OL,16,     Gscam.
-OL,17,G1130FHomes Under the Hammer
-OL,18,     GA modest bungalow in rural
-OL,19,     GCambridgeshire undergoes a
-OL,20,     G#250,000 transformation, and two
-OL,21,     Gfriends snap up an end-terrace in
-OL,22,     GCumbria for #35,000.
+OL,4,G0930FMorning Live
+OL,5,     GJoin Gethin, Helen, and Michelle
+OL,6,     Gfor tips and advice to simplify
+OL,7,     Gyour day!
+OL,8,G1045FRip Off Britain: Scams
+OL,9,     GA viewer contacts the team after
+OL,10,     Gsuspecting the online task work
+OL,11,     Ghe's been completing could be a
+OL,12,     Gscam.
+OL,13,G1130FHomes Under the Hammer
+OL,14,     GA modest bungalow in rural
+OL,15,     GCambridgeshire undergoes a
+OL,16,     G#250,000 transformation, and two
+OL,17,     Gfriends snap up an end-terrace in
+OL,18,     GCumbria for #35,000.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -414,7 +409,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -442,26 +437,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 26 NOV
-OL,4,G0900FLorraine
-OL,5,     GLorraine Kelly offers
-OL,6,     Gentertainment, discussion,
-OL,7,     Gfashion, food, and celebrity
-OL,8,     Ggossip.
-OL,9,G1000FThis Morning
-OL,10,     GA magazine show featuring news,
-OL,11,     Gcelebrities, expert advice, real
-OL,12,     Gstories, and various topics.
-OL,13,G1215FThe Chancellor's Budget
-OL,14,     GFind out what the Chancellor's
-OL,15,     GBudget means for you and your
-OL,16,     Gfamily with news and instant
-OL,17,     Ganalysis from ITV News
-OL,18,     Gcorrespondents.
+OL,4,G1000FThis Morning
+OL,5,     GA magazine show featuring news,
+OL,6,     Gcelebrities, expert advice, real
+OL,7,     Gstories, and various topics.
+OL,8,G1215FThe Chancellor's Budget
+OL,9,     GFind out what the Chancellor's
+OL,10,     GBudget means for you and your
+OL,11,     Gfamily with news and instant
+OL,12,     Ganalysis from ITV News
+OL,13,     Gcorrespondents.
+OL,14,G1430FTipping Point: Best Ever Finals
+OL,15,     GLooking back at Tipping Point's
+OL,16,     Gmost thrilling end games as
+OL,17,     Gplucky players and famous faces
+OL,18,     Galike take on the machine for its
+OL,19,     Gjackpot.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -469,30 +465,28 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for WED 26 NOV
-OL,4,G0910FFrasier
-OL,5,G0940FFrasier
-OL,6,G1010FFrasier
-OL,7,G1040FFrasier
-OL,8,G1110FAmerican Pickers
-OL,9,     GEscape to Motor Mountain: The
-OL,10,     Gguys find a mountain of
-OL,11,     Gmotorcycles, but can they get
-OL,12,     Gthrough the avalanche of booby
-OL,13,     Gtraps? Plus: a stubborn collector
-OL,14,     Gand a warehouse mega-pick.
-OL,15,G1205FChannel 4 News Summary
-OL,16,G1210FCome Dine with Me: The
-OL,17,     FProfessionals
-OL,18,     GCan Lost Property's surf-and-turf
-OL,19,     Gsharing boards make waves in
-OL,20,     GMiddlesbrough? And will Finkle
-OL,21,     Gand Green's small plates and Banh
-OL,22,     GMi's pan-Asian food impress?
+OL,4,G1010FFrasier
+OL,5,G1040FFrasier
+OL,6,G1110FAmerican Pickers
+OL,7,     GEscape to Motor Mountain: The
+OL,8,     Gguys find a mountain of
+OL,9,     Gmotorcycles, but can they get
+OL,10,     Gthrough the avalanche of booby
+OL,11,     Gtraps? Plus: a stubborn collector
+OL,12,     Gand a warehouse mega-pick.
+OL,13,G1205FChannel 4 News Summary
+OL,14,G1210FCome Dine with Me: The
+OL,15,     FProfessionals
+OL,16,     GCan Lost Property's surf-and-turf
+OL,17,     Gsharing boards make waves in
+OL,18,     GMiddlesbrough? And will Finkle
+OL,19,     Gand Green's small plates and Banh
+OL,20,     GMi's pan-Asian food impress?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -500,7 +494,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -526,7 +520,7 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764148731
+OL,0,        ECIMSBWebfax     F498A1764152345
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
