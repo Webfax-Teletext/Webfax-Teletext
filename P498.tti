@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,24 +50,23 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FPaddington The Musical song tipped
-OL,9,Ffor Christmas number one
-OL,11,G303FTrump says US will 'permanently
-OL,12,Fpause migration' from 'third world
-OL,13,Fcountries'
-OL,15,G304FDeath toll rises to 128 in Hong
-OL,16,FKong fire as search for survivors
-OL,17,Fcontinues
-OL,19,G305FNational Guard members shot in DC
-OL,20,Fnamed as suspect revealed to have CIA
-OL,21,Flinks
+OL,8,G302FRobber who murdered pensioner
+OL,9,Fbefore stealing his cottage pie jailed
+OL,10,Ffor life
+OL,12,G303FAt least 56 dead after heavy rain
+OL,13,Ftriggers flooding and landslides in
+OL,14,FSri Lanka
+OL,16,G304FBritish tourist falls off TUI-
+OL,17,Foperated cruise ship near Tenerife
+OL,19,G305FPaddington The Musical song tipped
+OL,20,Ffor Christmas number one
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,AFirst News BReg NewsCNat TV FClean Feed
 FL,302,301,200,140,000,100
@@ -75,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +125,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -160,16 +159,17 @@ OL,4,                   R"z0   |  *}|p
 OL,5,BLatest updates fromR###!!   '   {}
 OL,6,BITV News Channel Islands      R(/+5"+5
 OL,7,
-OL,8,G381FGas firm to face criminal charge
-OL,9,Fover explosion in family home
-OL,11,G382FGuernsey's Standards Commissioner
-OL,12,Fresigns
-OL,14,G383FFamilies claim 'smear campaign'
-OL,15,Fagainst senior Guernsey politician
-OL,17,G384FGuernsey's Deputy Chief Minister
-OL,18,Favoids suspension
-OL,20,G385FFormer Head of Sixth Form pleads
-OL,21,Fguilty to sexual acts on teenage girl
+OL,8,G381FPublic 'deserve better' as
+OL,9,Fmillions wasted on IT, top civil
+OL,10,Fservant says
+OL,12,G382FGas firm to face criminal charge
+OL,13,Fover explosion in family home
+OL,15,G383FGuernsey's Standards Commissioner
+OL,16,Fresigns
+OL,18,G384FFamilies claim 'smear campaign'
+OL,19,Fagainst senior Guernsey politician
+OL,21,G385FGuernsey's Deputy Chief Minister
+OL,22,Favoids suspension
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -177,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -185,17 +185,17 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391F'He was the perfect partner':
-OL,9,FPolice dog retires after eight years
-OL,10,Fof service
-OL,12,G392FStalker film producer put tracker
-OL,13,Fon ex-girlfiend's car
-OL,15,G393FPensioner dies after mobility
-OL,16,Fscooter crashes into car
-OL,18,G394FTrees in need of 'urgent
-OL,19,Fattention' in park where man was killed
-OL,21,G395FWorld-class training at risk as
-OL,22,Farts schools face 'funding crisis'
+OL,8,G391FLandlord fined #14k after exposing
+OL,9,Ftenants to 'risk of serious harm'
+OL,11,G392F'He was the perfect partner':
+OL,12,FPolice dog retires after eight years
+OL,13,Fof service
+OL,15,G393FStalker film producer put tracker
+OL,16,Fon ex-girlfiend's car
+OL,18,G394FPensioner dies after mobility
+OL,19,Fscooter crashes into car
+OL,21,G395FTrees in need of 'urgent
+OL,22,Fattention' in park where man was killed
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -203,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -229,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -255,7 +255,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -280,7 +280,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -288,25 +288,25 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FHidden camera catches two people
-OL,9,Fdumping rubbish in Cornish layby
-OL,11,G432F'Ask questions': Parents' plea
-OL,12,Fafter 5-year-old dies days after
-OL,13,Fsurgery
-OL,15,G433FIslanders celebrate the return of
-OL,16,F'beautiful Pi', the humpback whale
-OL,18,G434FCause of death of mental health
-OL,19,Fcounsellor 'unexplained', say police
-OL,21,G435FFamilies welcome the Chancellor's
-OL,22,Fdecision to scrap the two-child
-OL,23,Fbenefit cap
+OL,8,G431FTriplet otter cubs rescued from
+OL,9,Ftree hollow
+OL,11,G432FHidden camera catches two people
+OL,12,Fdumping rubbish in Cornish layby
+OL,14,G433F'Ask questions': Parents' plea
+OL,15,Fafter 5-year-old dies days after
+OL,16,Fsurgery
+OL,18,G434FIslanders celebrate the return of
+OL,19,F'beautiful Pi', the humpback whale
+OL,21,G435FCause of death of mental health
+OL,22,Fcounsellor 'unexplained', say police
+OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
 PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -332,7 +332,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -359,7 +359,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -384,29 +384,27 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 28 NOV
-OL,4,G1045FRip Off Britain: Scams
-OL,5,     GA man whose home address is
-OL,6,     Ghijacked by a fraudster using the
-OL,7,     Gname Michael Jackson receives
-OL,8,     Gtraffic fines and a visit from a
-OL,9,     Gbailiff but says the authorities
-OL,10,     Gwon't help.
-OL,11,G1130FHomes Under the Hammer
-OL,12,     GDion feels he has a mountain to
-OL,13,     Gclimb in Blackpool... at a home
-OL,14,     Gwith potential subsidence!
-OL,15,G1215FBargain Hunt
-OL,16,     GThe rolling hills of
-OL,17,     GCarmarthenshire are the setting
-OL,18,     Gfor this battle of the bargains
-OL,19,     Gbetween two teams of sisters,
-OL,20,     Gwith experts Izzie Balmer and
-OL,21,     GRichard Madley.
+OL,4,G1215FBargain Hunt
+OL,5,     GThe rolling hills of
+OL,6,     GCarmarthenshire are the setting
+OL,7,     Gfor this battle of the bargains
+OL,8,     Gbetween two teams of sisters,
+OL,9,     Gwith experts Izzie Balmer and
+OL,10,     GRichard Madley.
+OL,11,G1300FBBC News at One including
+OL,12,     FRegional News
+OL,13,G1400FHope Street
+OL,14,     GDonal is horrified when his
+OL,15,     Gsecret girlfriend Sasha is
+OL,16,     Gimplicated in the supply of
+OL,17,     Gsteroids. Has Doctor Sasha been
+OL,18,     Gtaking cash for illegal
+OL,19,     Gprescriptions?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -414,7 +412,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -444,7 +442,7 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -472,27 +470,30 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 28 NOV
-OL,4,G1110FAmerican Pickers
-OL,5,     GLike Father, Like Daughter:
-OL,6,     GExpert buyers Mike Wolfe and
-OL,7,     GFrank Fritz hunt down hidden
-OL,8,     Grelics and treasures across the
-OL,9,     GUSA. The guys meet a family who
-OL,10,     Ghave haggling in their blood.
-OL,11,G1205FChannel 4 News Summary
-OL,12,G1210FCome Dine with Me: The
-OL,13,     FProfessionals
-OL,14,     GIn Brighton and Hove, Planet
-OL,15,     GIndia warm up the week with cosy
-OL,16,     Gcurries. But can Bonsai Plant
-OL,17,     GKitchen impress and will
-OL,18,     GBotanique's hydroponic farm make
-OL,19,     Ga splash?
+OL,4,G1210FCome Dine with Me: The
+OL,5,     FProfessionals
+OL,6,     GIn Brighton and Hove, Planet
+OL,7,     GIndia warm up the week with cosy
+OL,8,     Gcurries. But can Bonsai Plant
+OL,9,     GKitchen impress and will
+OL,10,     GBotanique's hydroponic farm make
+OL,11,     Ga splash?
+OL,12,G1310FFind It, Fix It, Flog It
+OL,13,     GIn Norfolk, Simon O'Brien
+OL,14,     Gconverts a trough into a
+OL,15,     Gbioethanol patio heater and Henry
+OL,16,     GCole uncovers a vintage
+OL,17,     Gstationary engine.
+OL,18,G1410FCountdown
+OL,19,G1500FA Place in the Sun
+OL,20,     GCarpenter David from Suffolk
+OL,21,     Gexplores Abruzzo apartments near
+OL,22,     GItaly's east coast with #45,000.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -500,30 +501,26 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 28 NOV
-OL,4,G0915FJeremy Vine
-OL,5,     GJeremy Vine and Storm discuss the
-OL,6,     Glatest news and get your views
-OL,7,     Gand opinions of the day.
-OL,8,G1130FStorm Huntley
-OL,9,     GStorm Huntley carries on the
-OL,10,     Gdiscussion and takes your calls
-OL,11,     Gto discuss the biggest stories of
-OL,12,     Gthe day.
-OL,13,G1255F5 News at Lunchtime
-OL,14,G1300FHome and Away
-OL,15,     GCash and Eden are back in the
-OL,16,     GBay. Mackenzie refuses to budge.
-OL,17,     GLeah's left out.
-OL,18,G1330FA Magical Christmas Village
-OL,19,     GReal-life events seem to mimic
-OL,20,     Gthe scenes a teenage girl creates
-OL,21,     Gin a miniature Christmas village
-OL,22,     Gin this seasonal family romance.
+OL,4,G1130FStorm Huntley
+OL,5,     GStorm Huntley carries on the
+OL,6,     Gdiscussion and takes your calls
+OL,7,     Gto discuss the biggest stories of
+OL,8,     Gthe day.
+OL,9,G1255F5 News at Lunchtime
+OL,10,G1300FHome and Away
+OL,11,     GCash and Eden are back in the
+OL,12,     GBay. Mackenzie refuses to budge.
+OL,13,     GLeah's left out.
+OL,14,G1330FA Magical Christmas Village
+OL,15,     GReal-life events seem to mimic
+OL,16,     Gthe scenes a teenage girl creates
+OL,17,     Gin a miniature Christmas village
+OL,18,     Gin this seasonal family romance.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -531,29 +528,30 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1764329266
+OL,0,        ECIMSBWebfax     F498A1764332877
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 28 NOV
-OL,4,G1100FRumpole of the Bailey
-OL,5,     GRumpole and the Tap End. Stars:
-OL,6,     GLeo McKern, Marion Mathie, Peter
-OL,7,     GBowles. Controversial remarks and
-OL,8,     Grulings in a domestic violence
-OL,9,     Gcase causes concern from the Lord
-OL,10,     GChancellor.
-OL,11,G1205FZ-Cars
-OL,12,     GKidnap. 1976. Stars Ralph Arliss,
-OL,13,     GBruce Boa, Don Fellows, James
-OL,14,     GEllis, Douglas Fielding, Garrick
-OL,15,     GHagon & Mark Jones. A rag week
-OL,16,     Gkidnap for charity starts out all
-OL,17,     Gright...
-OL,18,G1305FSleeping Car To Trieste
-OL,19,     GAgents break into a Paris embassy
-OL,20,     Gto steal a diary of political
-OL,21,     Gsecrets in this 1948 drama.
+OL,4,G1205FZ-Cars
+OL,5,     GKidnap. 1976. Stars Ralph Arliss,
+OL,6,     GBruce Boa, Don Fellows, James
+OL,7,     GEllis, Douglas Fielding, Garrick
+OL,8,     GHagon & Mark Jones. A rag week
+OL,9,     Gkidnap for charity starts out all
+OL,10,     Gright...
+OL,11,G1305FSleeping Car To Trieste
+OL,12,     GAgents break into a Paris embassy
+OL,13,     Gto steal a diary of political
+OL,14,     Gsecrets in this 1948 drama.
+OL,15,G1455FThe Stranger Came Home
+OL,16,     G1954. Mystery. Directed by
+OL,17,     GTerence Fisher. Stars Paulette
+OL,18,     GGoddard & William Sylvester. A
+OL,19,     Gman returns home after being
+OL,20,     Gmissing for three years to find
+OL,21,     Gthose responsible for the attempt
+OL,22,     Gon his life.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
