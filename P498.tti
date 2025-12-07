@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +152,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -203,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -229,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -237,24 +237,25 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FYellow weather warnings for wind
-OL,9,Fand rain could disrupt travel across
-OL,10,Fthe south
-OL,12,G412FThousands of bananas wash up on
-OL,13,Fbeach after shipping containers fall
-OL,14,Finto sea
-OL,16,G413FMultiple fire engines deployed to
-OL,17,FSuperdrug after fire breaks out
-OL,19,G414FMan bundled to the floor in after
-OL,20,Fdramatic 110 mph chase
-OL,23,Tppppppppppppppppppppppppppppppppppppppp
+OL,8,G411FTributes to student killed on
+OL,9,Fnight out with football friends
+OL,11,G412FThousands of bananas wash up on
+OL,12,Fbeach after shipping containers fall
+OL,13,Finto sea
+OL,15,G413FYellow weather warnings for wind
+OL,16,Fand rain could disrupt travel across
+OL,17,Fthe south
+OL,19,G414FMultiple fire engines deployed to
+OL,20,FSuperdrug after fire breaks out
+OL,22,G415FMan bundled to the floor in after
+OL,23,Fdramatic 110 mph chase
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
 PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -280,7 +281,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -288,17 +289,17 @@ OL,4,                           R|!
 OL,5,BThe latest updates from  Rx'#//!
 OL,6,BITV News West Country   Rx?'/?
 OL,7,                        R#%
-OL,8,G431FFire that destroyed flats was
-OL,9,F'started accidentally'
-OL,11,G432FTwo men jailed over Taser attack
-OL,12,Foutside pub
-OL,14,G433FMaternity unit may reopen in
-OL,15,Fstages, say NHS bosses
-OL,17,G434F'Dangerous' man who stabbed father
-OL,18,Fon doorstep of flat found guilty of
-OL,19,Fmurder
-OL,21,G435FWarning over 'rogue' airport car
-OL,22,Fpark businesses
+OL,8,G431FWho is Lando Norris? The story
+OL,9,Fbehind the Formula One superstar
+OL,11,G432FFormer teacher praises Lando
+OL,12,FNorris after ex-student becomes F1
+OL,13,Fworld champion
+OL,15,G433FLando Norris wins F1 world title
+OL,16,Fafter third-place finish in Abu Dhabi
+OL,18,G434FFire that destroyed flats was
+OL,19,F'started accidentally'
+OL,21,G435FTwo men jailed over Taser attack
+OL,22,Foutside pub
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
@@ -306,7 +307,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -332,7 +333,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -358,7 +359,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -383,30 +384,29 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 7 DEC
-OL,4,G1250FSnooker: UK Championship
-OL,5,     GLive coverage from day 9 of the
-OL,6,     G2025 UK Snooker Championship.
-OL,7,G1605FEscape to the Country
-OL,8,     GJules Hudson shows a property
-OL,9,     Gbuyer from Edinburgh around the
-OL,10,     GLothians. Jules also tours a
-OL,11,     Gmeticulously restored 16th-
-OL,12,     Gcentury tower.
-OL,13,G1635FBBC News
-OL,14,G1645FRegional News
-OL,15,G1650FWeather
-OL,16,G1655FCountryfile
-OL,17,     GMatt Baker and Sammi Kinghorn are
-OL,18,     Gin Bannau Brycheiniog National
-OL,19,     GPark, where the power of the
-OL,20,     Gwater that runs through its
-OL,21,     Gvalleys shapes the landscape both
-OL,22,     Gabove and below ground.
+OL,4,G1635FBBC News
+OL,5,G1645FRegional News
+OL,6,G1650FWeather
+OL,7,G1655FCountryfile
+OL,8,     GMatt Baker and Sammi Kinghorn are
+OL,9,     Gin Bannau Brycheiniog National
+OL,10,     GPark, where the power of the
+OL,11,     Gwater that runs through its
+OL,12,     Gvalleys shapes the landscape both
+OL,13,     Gabove and below ground.
+OL,14,G1755FAntiques Roadshow: A History of
+OL,15,     FFood
+OL,16,     GThe roadshow explores the history
+OL,17,     Gof food, with objects that reveal
+OL,18,     Gcenturies of cooking, from
+OL,19,     Gfarmhouse fare to royal banquets,
+OL,20,     Gand a special appearance from
+OL,21,     GDame Mary Berry.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -414,30 +414,28 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 7 DEC
-OL,4,G1415FMOTD Live: Boreham Wood v Newport
-OL,5,     FCounty
-OL,6,     GLive second-round action from the
-OL,7,     GFA Cup as National League high-
-OL,8,     Gflyers Boreham Wood take on
-OL,9,     GLeague Two Newport County.
-OL,10,G1635FFlog It!
-OL,11,     GAntiques series. Paul Martin is
-OL,12,     Gjoined by experts Mark Stacey,
-OL,13,     GAnita Manning and David Fletcher
-OL,14,     Gat Tatton Park in Cheshire, and
-OL,15,     Galso from Liverpool's historic
-OL,16,     Gdocks.
-OL,17,G1715FWorld's Most Dangerous Roads
-OL,18,     GBest friends and Derry Girls
-OL,19,     GJamie-Lee O'Donnell and Saoirse-
-OL,20,     GMonica Jackson take an off-road
-OL,21,     Gadventure to the rugged mountains
-OL,22,     Gof Romania.
+OL,4,G1635FFlog It!
+OL,5,     GAntiques series. Paul Martin is
+OL,6,     Gjoined by experts Mark Stacey,
+OL,7,     GAnita Manning and David Fletcher
+OL,8,     Gat Tatton Park in Cheshire, and
+OL,9,     Galso from Liverpool's historic
+OL,10,     Gdocks.
+OL,11,G1715FWorld's Most Dangerous Roads
+OL,12,     GBest friends and Derry Girls
+OL,13,     GJamie-Lee O'Donnell and Saoirse-
+OL,14,     GMonica Jackson take an off-road
+OL,15,     Gadventure to the rugged mountains
+OL,16,     Gof Romania.
+OL,17,G1800FMOTD: FA Cup Highlights
+OL,18,     GJason Mohammad presents
+OL,19,     Ghighlights from the second round
+OL,20,     Gof the FA Cup.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -445,26 +443,27 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 7 DEC
-OL,4,G1510FTipping Point: Best Ever Finals
-OL,5,     GRelive some of the most dramatic
-OL,6,     Gend games in Tipping Point
-OL,7,     Ghistory, including agonising
-OL,8,     Gtrades and jackpot counters
-OL,9,     Gteetering on the edge!
-OL,10,G1540FSanta Claus: The Movie
-OL,11,     GClassic Christmas film starring
-OL,12,     GDudley Moore, 1985. When one of
-OL,13,     GSanta's elves gets frustrated
-OL,14,     Gwith his old-fashioned ways, he
-OL,15,     Gleaves to set up a toy-making
-OL,16,     Gbusiness of his own.
-OL,17,G1745FITV Evening News
-OL,18,G1755FRegional News
+OL,4,G1540FSanta Claus: The Movie
+OL,5,     GClassic Christmas film starring
+OL,6,     GDudley Moore, 1985. When one of
+OL,7,     GSanta's elves gets frustrated
+OL,8,     Gwith his old-fashioned ways, he
+OL,9,     Gleaves to set up a toy-making
+OL,10,     Gbusiness of his own.
+OL,11,G1745FITV Evening News
+OL,12,G1755FRegional News
+OL,13,G1805FThe Great Escapers
+OL,14,     GThe Chasers in Rhodes: The Chase
+OL,15,     Gstars Mark Labbett, Jenny Ryan
+OL,16,     Gand Shaun Wallace head to the
+OL,17,     GGreek island of Rhodes and
+OL,18,     Gcompete to throw the best holiday
+OL,19,     Gat the destination.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -472,26 +471,26 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 7 DEC
-OL,4,G1510FThe Snowman and the Snowdog
-OL,5,     GCharming animated sequel to
-OL,6,     GRaymond Briggs's classic The
-OL,7,     GSnowman. When a young boy and his
-OL,8,     Gmother move house, he builds a
-OL,9,     Gsnowman and a snowdog who
-OL,10,     Gmagically come to life.
-OL,11,G1545FJingle All the Way
-OL,12,     GBrian Levant's festive all-action
-OL,13,     Gcomedy. Arnold Schwarzenegger is
-OL,14,     Gon a mission to get his son the
-OL,15,     Gmust-have Christmas toy, Turbo
-OL,16,     GMan. But it's sold out
-OL,17,     Geverywhere...
-OL,18,G1730FChannel 4 News
+OL,4,G1545FJingle All the Way
+OL,5,     GBrian Levant's festive all-action
+OL,6,     Gcomedy. Arnold Schwarzenegger is
+OL,7,     Gon a mission to get his son the
+OL,8,     Gmust-have Christmas toy, Turbo
+OL,9,     GMan. But it's sold out
+OL,10,     Geverywhere...
+OL,11,G1730FChannel 4 News
+OL,12,G1800FF1 Abu Dhabi GP Highlights
+OL,13,     GVerstappen's Qatar win makes this
+OL,14,     Grace even more exciting. Norris
+OL,15,     Gwill take the title if he makes
+OL,16,     Gthe podium. But the Red Bull -
+OL,17,     Gand his teammate Piastri - will
+OL,18,     Gbe right up in his grill.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -499,27 +498,26 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 7 DEC
-OL,4,G1535F'Tis the Season to Be Merry
+OL,4,G1640F'Tis the Season to Be Merry
 OL,5,     GRelationship expert and writer
 OL,6,     GMerry heads to snow-covered
 OL,7,     GVermont, where she finds both a
 OL,8,     Gnew perspective and Christmas
 OL,9,     Gcheer in the company of
 OL,10,     Gcharismatic aid worker Chris.
-OL,11,G1635FEntertainment News on 5
-OL,12,G1640F'Tis the Season to Be Merry
-OL,13,     GRelationship expert and writer
-OL,14,     GMerry heads to snow-covered
-OL,15,     GVermont, where she finds both a
-OL,16,     Gnew perspective and Christmas
-OL,17,     Gcheer in the company of
-OL,18,     Gcharismatic aid worker Chris.
-OL,19,G1725F5 News Weekend
+OL,11,G1725F5 News Weekend
+OL,12,G1730FLive: NFL Big Game Night
+OL,13,     GDermot O'Leary, Sam Quek and Osi
+OL,14,     GUmenyiora are joined live by NFL
+OL,15,     Gfans to watch Indianapolis Colts
+OL,16,     Gat Jacksonville Jaguars and take
+OL,17,     Gpart in fun games to win a US
+OL,18,     Gtrip.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -527,23 +525,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1765122010
+OL,0,        ECIMSBWebfax     F498A1765125623
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 7 DEC
-OL,4,G1430FThe Bells Go Down
-OL,5,     G1943. Drama. Director: Basil
-OL,6,     GDearden. Stars Tommy Trinder,
-OL,7,     GJames Mason & Philip Friend. A
-OL,8,     Gbettor, a bridegroom, and a thief
-OL,9,     Gvolunteer for the London
-OL,10,     GAuxiliary Fire Service during
-OL,11,     GWorld War Two.
-OL,12,G1620FLook At Life Down in the Dumps
-OL,13,     GIn 1965, efforts began to tackle
-OL,14,     Gthe problem of dumped cars and
-OL,15,     Gunwanted items.
+OL,4,G1630FThe Vise
+OL,5,     GThe Deception. 1955. Stars Ron
+OL,6,     GRandell, Marjorie Stewart & Ann
+OL,7,     GStephens. Only two out of the
+OL,8,     Gthree Hadley sisters have
+OL,9,     Gsuitors. The older sister makes
+OL,10,     Gup a romance and ends up getting
+OL,11,     Gblackmailed.
+OL,12,G1700FThe Footage Detectives
+OL,13,     GJoin Noel and Mike as they head
+OL,14,     Gto 1950s Kent and brace
+OL,15,     Gyourselves for some dare devil
+OL,16,     Gcar stunts! After this, enjoy a
+OL,17,     Gcaptivating Scopitone from 1965
+OL,18,     Gwith the amazing Joi Lansing.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
