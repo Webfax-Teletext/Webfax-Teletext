@@ -1,29 +1,17 @@
 PN,20600
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax     F206A1765252955
+OL,0,        ECIMSBWebfax     F206A1765256569
 OL,1,W{${$~+$ ~k4~sj5j5~s1
 OL,2,W/.!/.!+.! /*%+,"-/.!,.!V,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for MON 8 DEC
-OL,4,G0400FNewsday
-OL,5,     GLive from Singapore, the latest
-OL,6,     Ginternational news from the BBC.
-OL,7,G0430FBusiness Today
-OL,8,     GBringing the latest business news
-OL,9,     Gand up-to-date informed analysis
-OL,10,     Gfrom Singapore and around the
-OL,11,     Gworld.
-OL,12,G0445FBBC Sport
-OL,13,     GA round-up of the day's sporting
-OL,14,     Gaction, plus talking points,
-OL,15,     Ganalysis and original journalism.
-OL,16,G0500FBBC News
-OL,17,     GThe latest news from the BBC.
-OL,18,G0530FBusiness Today
-OL,19,     GBringing the latest business news
-OL,20,     Gand up-to-date informed analysis
-OL,21,     Gfrom London and around the world.
+OL,4,G0500FBBC News
+OL,5,     GThe latest news from the BBC.
+OL,6,G0530FBusiness Today
+OL,7,     GBringing the latest business news
+OL,8,     Gand up-to-date informed analysis
+OL,9,     Gfrom London and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,000,100
