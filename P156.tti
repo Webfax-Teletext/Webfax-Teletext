@@ -1,28 +1,72 @@
-PN,15600
-SC,0000
+PN,15601
+SC,0001
 CT,3,C
-PS,8008
-OL,0,        ECIMSBWebfax     F156A1765022544
-OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}
+PS,c008
+OL,0,        ECIMSBWebfax     F156A1765926715
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G1/3
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
-OL,3,GNEWSCUK BBC News channel to take global
-OL,4,Cfeed at breakfast
-OL,5,
-OL,6,FBBC News is expected to announce later
-OL,7,Fthat the UK version of its TV news
-OL,8,Fchannel will broadcast the
-OL,9,Finternational version of the channel
-OL,10,Frather than BBC Breakfast from this
-OL,11,FWednesday.
-OL,13,FIn January this year, BBC News
-OL,14,Fannounced a similar move before
-OL,15,Freverting the change about four months
-OL,16,Flater, in May.
-OL,18,FThe e-mail to staff regarding the
-OL,19,Fdecision in May to flip back stated the
-OL,20,Fplan was to continue to review the
-OL,21,Fsituation "over the next few months"
-OL,22,Fbefore arriving at a final decision.
+OL,3,GNEWSCVisual test implemented to police
+OL,4,Caccess to BBC Genome/Programme Index
+OL,5,Cwebsite
+OL,6,
+OL,7,FVisitors to the BBC Genome/BBC
+OL,8,FProgramme Index in recent months have
+OL,9,Fbeen becoming increasingly frustrated
+OL,10,Fwith technical issues preventing
+OL,11,Faccess.
+OL,13,F"502 Bad Gateway" errors were a
+OL,14,Ffrequent sight. Unusually long waits
+OL,15,Ffor requested content to finally appear
+OL,16,Fwas also a fairly common experience.
+OL,23,Uppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBClean FeedCNat TVFOn This Day
+FL,157,140,200,120,0,100
+PN,15602
+SC,0002
+CT,3,C
+PS,c008
+OL,0,        ECIMSBWebfax     F156A1765926715
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G2/3
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+OL,3,GNEWSCVisual test implemented to police
+OL,4,Caccess to BBC Genome/Programme Index
+OL,5,Cwebsite
+OL,6,
+OL,7,FIt's not clear why these experiences
+OL,8,Fwere unique to this particular portion
+OL,9,Fof the BBC's website but it certainly
+OL,10,Fsuggests the content is hosted on less
+OL,11,Frobust infrastructure than the rest of
+OL,12,Fthe corporation's online offerings.
+OL,14,FHowever, in the last week or so, a new
+OL,15,Fmeasure has been put in place `
+OL,16,Fpresumably to better control the load
+OL,17,Fon whatever hosting arrangement is in
+OL,18,Fplace for the Programme Index content.
+OL,23,Uppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBClean FeedCNat TVFOn This Day
+FL,157,140,200,120,0,100
+PN,15603
+SC,0003
+CT,3,C
+PS,c008
+OL,0,        ECIMSBWebfax     F156A1765926715
+OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G3/3
+OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
+OL,3,GNEWSCVisual test implemented to police
+OL,4,Caccess to BBC Genome/Programme Index
+OL,5,Cwebsite
+OL,6,
+OL,7,FVisitors to BBC Genome/Programme Index
+OL,8,Fmust now participate in a short test,
+OL,9,Fto prove they are human.
+OL,11,FThis quick visual test should keep out
+OL,12,Fmany bots and crawlers, and reduce
+OL,13,Fstrain on the hosting server(s), and
+OL,14,Fprovide a better quality experience for
+OL,15,Flegitimate users.
+OL,17,FIt certainly seems to be working so
+OL,18,Ffar.
 OL,23,Uppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,157,140,200,120,0,100@
