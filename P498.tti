@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,18 +50,18 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
 OL,4,                           Vjuj "?t~
 OL,5,BThe latest updates from    Vo~5z?o%
 OL,6,BITV News                   V +o,!
-OL,8,G302FThe Epstein files: Who is in them
-OL,9,Fand what do they reveal?
-OL,11,G303FChristmas getaway disrupted by
-OL,12,Fqueues at ferry port and train
-OL,13,Fcancellations
+OL,8,G302FChristmas getaway disrupted by
+OL,9,Fqueues at ferry port and train
+OL,10,Fcancellations
+OL,12,G303FThe Epstein files: Who is in them
+OL,13,Fand what do they reveal?
 OL,15,G304FElectoral Commission rules out
 OL,16,Finvestigation into Nigel Farage
 OL,17,Fspending
@@ -75,7 +75,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -101,7 +101,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -127,7 +127,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -153,7 +153,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -178,7 +178,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -186,24 +186,25 @@ OL,4,                              R~}
 OL,5,BThe latest updates from     R`{5
 OL,6,BITV News Granada             Rk/#
 OL,7,                              R"+'
-OL,8,G391FPolice Cadets sleep rough for
-OL,9,Fcharity
-OL,11,G392FPasengers warned of disruption to
-OL,12,FChristmas getaway amid train
-OL,13,Fcancellations
-OL,15,G393FSearch continues for missing
-OL,16,Fteenager
-OL,18,G394FRuben Amorim calls players
-OL,19,F'entitled' ahead of their match
-OL,20,Fagainst Aston Villa
-OL,23,Tppppppppppppppppppppppppppppppppppppppp
+OL,8,G391FVideo of missing teenager's last
+OL,9,Fknown recorded movements
+OL,11,G392FPolice Cadets sleep rough for
+OL,12,Fcharity
+OL,14,G393FPasengers warned of disruption to
+OL,15,FChristmas getaway amid train
+OL,16,Fcancellations
+OL,18,G394FSearch continues for missing
+OL,19,Fteenager
+OL,21,G395FRuben Amorim calls players
+OL,22,F'entitled' ahead of their match
+OL,23,Fagainst Aston Villa
 OL,24,ANext Page BReg News CClean Feed FReg TV
 FL,499,301,140,260,000,100
 PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -228,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -252,7 +253,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -277,7 +278,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -302,7 +303,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -328,7 +329,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -354,7 +355,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -379,30 +380,26 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 21 DEC
-OL,4,G1705FCountryfile: A Cornish Christmas
-OL,5,     GMatt Baker, Anita Rani and Adam
-OL,6,     GHenson pay a Christmas visit to
-OL,7,     GCadgwith in Cornwall.
-OL,8,G1805FCelebrity Escape to the Country
-OL,9,     GNicki Chapman helps ex-England
-OL,10,     Ginternational and football hard
-OL,11,     Gman Neil 'Razor' Ruddock find his
-OL,12,     Gsofter side as he looks to escape
-OL,13,     Gto the country with his family in
-OL,14,     Grural Kent.
-OL,15,G1905FAntiques Roadshow: Unseen
-OL,16,     FTreasures
-OL,17,     GThe roadshow reveals more unseen
-OL,18,     Gtreasures from the summer,
-OL,19,     Gincluding Victorian Christmas
-OL,20,     Gcards and a ceramic polar bear,
-OL,21,     Gand visits Trentham Gardens near
-OL,22,     GStoke-on-Trent.
+OL,4,G1805FCelebrity Escape to the Country
+OL,5,     GNicki Chapman helps ex-England
+OL,6,     Ginternational and football hard
+OL,7,     Gman Neil 'Razor' Ruddock find his
+OL,8,     Gsofter side as he looks to escape
+OL,9,     Gto the country with his family in
+OL,10,     Grural Kent.
+OL,11,G1905FAntiques Roadshow: Unseen
+OL,12,     FTreasures
+OL,13,     GThe roadshow reveals more unseen
+OL,14,     Gtreasures from the summer,
+OL,15,     Gincluding Victorian Christmas
+OL,16,     Gcards and a ceramic polar bear,
+OL,17,     Gand visits Trentham Gardens near
+OL,18,     GStoke-on-Trent.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -410,7 +407,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -441,30 +438,25 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 21 DEC
-OL,4,G1515FJurassic Park
-OL,5,     GHumans fight for survival when
-OL,6,     Gcloned dinosaurs escape in this
-OL,7,     G1993 action-adventure film.
-OL,8,G1740FITV Evening News
-OL,9,G1755FRegional News
-OL,10,G1805FThe Chase: The Bloopers
-OL,11,     GBradley Walsh presents the 2025
-OL,12,     Gbloopers reel - The Governess,
-OL,13,     GThe Sinnerman, The Beast, The
-OL,14,     GVixen, The Dark Destroyer and The
-OL,15,     GMenace might be clever, but they
-OL,16,     Gstill make mistakes.
-OL,17,G1905FThe Royal Variety Performance 2025
-OL,18,     GJason Manford hosts the 2025
-OL,19,     Gedition of the event including
-OL,20,     Gperformances from the musical Les
-OL,21,     GMiserables, the cast of Dead
-OL,22,     GRingers, and Harry Moulding.
+OL,4,G1805FThe Chase: The Bloopers
+OL,5,     GBradley Walsh presents the 2025
+OL,6,     Gbloopers reel - The Governess,
+OL,7,     GThe Sinnerman, The Beast, The
+OL,8,     GVixen, The Dark Destroyer and The
+OL,9,     GMenace might be clever, but they
+OL,10,     Gstill make mistakes.
+OL,11,G1905FThe Royal Variety Performance 2025
+OL,12,     GJason Manford hosts the 2025
+OL,13,     Gedition of the event including
+OL,14,     Gperformances from the musical Les
+OL,15,     GMiserables, the cast of Dead
+OL,16,     GRingers, and Harry Moulding.
+OL,17,G2150FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -472,7 +464,7 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -497,27 +489,23 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 21 DEC
-OL,4,G1640FScrooge: A Christmas Carol
-OL,5,     GClassic festive fairytale
-OL,6,     Gstarring Alastair Sim and Mervyn
-OL,7,     GJohns. A miser discovers the true
-OL,8,     Gmeaning of Christmas through his
-OL,9,     Gencounters with three seasonal
-OL,10,     Gghosts.
-OL,11,G1725F5 News Weekend
-OL,12,G1730FLive: NFL Big Game Night
-OL,13,     GDermot O'Leary, Sam Quek and Osi
-OL,14,     GUmenyiora host a Christmas
-OL,15,     Gspecial edition, joined by
-OL,16,     Gcomedian and Taskmaster winner
-OL,17,     GMaisie Adam and NFL fans to watch
-OL,18,     GBuffalo Bills versus Cleveland
-OL,19,     GBrowns.
+OL,4,G1730FLive: NFL Big Game Night
+OL,5,     GDermot O'Leary, Sam Quek and Osi
+OL,6,     GUmenyiora host a Christmas
+OL,7,     Gspecial edition, joined by
+OL,8,     Gcomedian and Taskmaster winner
+OL,9,     GMaisie Adam and NFL fans to watch
+OL,10,     GBuffalo Bills versus Cleveland
+OL,11,     GBrowns.
+OL,12,G2130FMorecambe & Wise: The Unseen Tapes
+OL,13,     GThis special shows rare, unseen
+OL,14,     Gfootage of Eric and Ernie
+OL,15,     Gentertaining the nation.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -525,26 +513,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax     F498A1766336991
+OL,0,        ECIMSBWebfax     F498A1766340598
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SUN 21 DEC
-OL,4,G1700FThe Footage Detectives
-OL,5,     GNoel and Mike have some festive
-OL,6,     Gfootage for you in this Christmas
-OL,7,     Gspecial! From magical vintage
-OL,8,     Ganimations brimming with Yuletide
-OL,9,     Gcharm to Fanny Cradock making a
-OL,10,     Gmince pie!
-OL,11,G1800FThe Halfway House
-OL,12,     GIn 1944, travelers with hidden
-OL,13,     Gpasts seek refuge from a storm in
-OL,14,     Gan old inn.
-OL,15,G2000FMemories of Making Sergeant Cork
-OL,16,     GAcclaimed actor William Gaunt
-OL,17,     Gshares his memories of co-star on
-OL,18,     GSergeant Cork, John Barrie.
+OL,4,G1800FThe Halfway House
+OL,5,     GIn 1944, travelers with hidden
+OL,6,     Gpasts seek refuge from a storm in
+OL,7,     Gan old inn.
+OL,8,G2000FMemories of Making Sergeant Cork
+OL,9,     GAcclaimed actor William Gaunt
+OL,10,     Gshares his memories of co-star on
+OL,11,     GSergeant Cork, John Barrie.
+OL,12,G2005FSergeant Cork
+OL,13,     GThe Case of the Hangman's Noose.
+OL,14,     G1964. Stars John Barrie, William
+OL,15,     GGaunt & Ronald Adam. A judge
+OL,16,     Greceives threats after sentencing
+OL,17,     Ga fourteen year old boy to death
+OL,18,     Gfor murdering his headmaster.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
