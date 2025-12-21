@@ -1,7 +1,7 @@
 PN,12000
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax     F120A1766189010
+OL,0,        ECIMSBWebfax     F120A1766279198
 OL,1,W~k4~k4 k7juj5~s1 k4~{4oz5   Q d`d`d`d
 OL,2,W+.!/*% *%*%/*%,.! /.!/*%,.!S,,,Qj`;(9hq
 OL,3,CINDEX  V(4<4<4<4S  4|h t  T`0`pp`pp`pp
@@ -20,9 +20,10 @@ OL,15,CPRESENTERS         CSTATIONS
 OL,16,G128FBirths         G131FTV Sites
 OL,17,G129FDeaths         G132FRadio Sites
 OL,18,G130FEvents
-OL,20,CBROADCAST FACILITIES
-OL,21,G133FBuildings      G135FOB Vehicles
-OL,22,G134FStudios
+OL,19,                    CFACILITIES
+OL,20,                     133FBuildings
+OL,21,BResearch by        G134FStudios
+OL,22,BPaul R. Jackson    G135FOB Vehicles
 OL,23,Sppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BClean Feed CNat TV  FReg TV
 FL,121,140,200,260,0,100
