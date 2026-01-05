@@ -1,18 +1,48 @@
-PN,19100
-SC,0000
+PN,19101
+SC,0001
 CT,3,C
-PS,8008
-OL,0,        ECIMSBWebfax     F191A1767024460
-OL,1,W~sh7}h7sj5~k4~shw1{$h7}h7s
+PS,c008
+OL,0,        ECIMSBWebfax     F191A1767626247
+OL,1,W~sh7}h7sj5~k4~shw1{$h7}h7s      G1/2
 OL,2,W+,*%/"-'*%/*%+,"-$/*%/*%/"-'V(,,,,,,,,,
-OL,3,CFreeview work w/b 29 Dec: ENGLAND
+OL,3,CFreeview work w/b 05 Jan: ENGLAND
 OL,4,
-OL,5,FNo engineering work planned.
-OL,6,
+OL,5,GIMPACT:FPixelation or flickering on
+OL,6,Fsome or all channels.
 OL,7,
-OL,8,
-OL,9,
-OL,10,
+OL,8,GTRANSMITTERS AFFECTED:FBeacon Hill,
+OL,9,FBrierley Hill, Bristol Ilchester
+OL,10,FCrescent, Bromsgrove, Chatton,
+OL,11,FDallington Park, Dover, Fenham, Fenton,
+OL,12,FHeathfield, Huntshaw Cross, Keighley,
+OL,13,FLark Stoke, Nottingham, Oliver's Mount,
+OL,14,FPontop Pike, Salisbury, Selkirk,
+OL,15,FStockland Hill, Storeton, Sutton
+OL,16,FColdfield, The Wrekin, Tunbridge Wells.
+OL,17,
+OL,18,
+OL,19,
+OL,20,
+OL,21,
+OL,22,
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BEngineering CNat TV FWeather
+FL,192,190,200,160,100,100
+PN,19102
+SC,0002
+CT,3,C
+PS,c008
+OL,0,        ECIMSBWebfax     F191A1767626247
+OL,1,W~sh7}h7sj5~k4~shw1{$h7}h7s      G2/2
+OL,2,W+,*%/"-'*%/*%+,"-$/*%/*%/"-'V(,,,,,,,,,
+OL,3,CFreeview work w/b 05 Jan: ENGLAND
+OL,4,
+OL,5,GIMPACT:FScreen may go black on some or
+OL,6,Fall channels.
+OL,7,
+OL,8,GTRANSMITTERS AFFECTED:FAllesley Park,
+OL,9,FBolehill, Charlbury, Chinley, Eyemouth,
+OL,10,FNorden, Presteigne, Redruth, Stroud.
 OL,11,
 OL,12,
 OL,13,
