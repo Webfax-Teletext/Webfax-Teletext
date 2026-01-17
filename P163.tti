@@ -2,7 +2,7 @@ PN,16301
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax     F163A1768662861
+OL,0,        ECIMSBWebfax     F163A1768670087
 OL,1,Wj5hw1~{4k7juhw1{$             G1/3
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK long range forecast
@@ -13,7 +13,7 @@ PN,16302
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax     F163A1768662861
+OL,0,        ECIMSBWebfax     F163A1768670087
 OL,1,Wj5hw1~{4k7juhw1{$             G2/3
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK long range forecast
@@ -47,27 +47,26 @@ PN,16303
 SC,0003
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax     F163A1768662861
+OL,0,        ECIMSBWebfax     F163A1768670087
 OL,1,Wj5hw1~{4k7juhw1{$             G3/3
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK long range forecast
 OL,4,
-OL,5,CSaturday 31 Jan - Saturday 14 Feb
-OL,6,FInitially, slowly evolving weather
-OL,7,Fpatterns are most likely in the
-OL,8,Fvicinity of the UK, with low pressure
-OL,9,Ftypically to the west or southwest and
-OL,10,Fhigh pressure to the northeast. This
-OL,11,Fconfiguration brings an increased
-OL,12,Fchance of cold conditions affecting
-OL,13,Fthe UK, and the associated risk of
-OL,14,Fwintry hazards at times. Deeper into
-OL,15,FFebruary, and whilst confidence is
-OL,16,Fnaturally low, there may be a
-OL,17,Ftransition to more widely unsettled
-OL,18,Fconditions and a corresponding
-OL,19,Frecovery in temperature back closer to
-OL,20,Faverage.
+OL,5,CSunday 1 Feb - Sunday 15 FebFInitially,
+OL,6,Fslowly evolving weather patterns are
+OL,7,Fmost likely in the vicinity of the UK,
+OL,8,Fwith low pressure typically to the
+OL,9,Fwest or southwest and high pressure to
+OL,10,Fthe northeast. This configuration
+OL,11,Fbrings an increased chance of cold
+OL,12,Fconditions affecting the UK, and the
+OL,13,Fassociated risk of wintry hazards at
+OL,14,Ftimes. Deeper into February, and
+OL,15,Fwhilst confidence is naturally low,
+OL,16,Fthere may be a transition to more
+OL,17,Fwidely unsettled conditions and a
+OL,18,Fcorresponding recovery in temperature
+OL,19,Fback closer to average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,164,160,301,260,100,100
