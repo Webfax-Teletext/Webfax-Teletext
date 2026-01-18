@@ -1,29 +1,49 @@
-PN,17200
-SC,0000
+PN,17201
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax     F172A1768673700
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax     F172A1768715547
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy with
-OL,6,Fshowery rain in the east slowly
-OL,7,Fclearing overnight. Clear spells and
-OL,8,Fdry in the west where mist or fog
-OL,9,Fpatches are likely in places.
+OL,5,CToday:FA cloudy morning with a few
+OL,6,Foutbreaks of rain, mainly in the east.
+OL,7,FTurning dry for the afternoon with
+OL,8,Fbright and sunny intervals developing.
+OL,9,FBreezy around the coasts but mainly
+OL,10,Flight winds.
+OL,11,
+OL,12,CTonight:FIt will be dry evening with
+OL,13,Fmostly cloudy skies and occasional
+OL,14,Fclear intervals. Turning increasingly
+OL,15,Fcloudier overnight as rain gradually
+OL,16,Fspreads eastwards.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,173,160,301,260,100,100
+PN,17202
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax     F172A1768715547
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,CMonday:FA cloudy day throughout with
+OL,6,Foutbreaks of rain. Drier spells in the
+OL,7,Fafternoon but heavier rain may
+OL,8,Fdeveloping into the evening. Light
+OL,9,Fwinds.
 OL,10,
-OL,11,CSunday:FMist and fog patches at first.
-OL,12,FOtherwise a bright day with a few
-OL,13,Fsunny spells and the odd light shower
-OL,14,Fnot to be ruled out.
-OL,15,
-OL,16,COutlook for Monday to Wednesday:FBands
-OL,17,Fof rain and showers will push
-OL,18,Fnortheast through this period. These
-OL,19,Fbands will be interspersed with
-OL,20,Foccasional spells of drier and
-OL,21,Fbrighter conditions.
+OL,11,COutlook for Tuesday to Thursday:FBands
+OL,12,Fof rain and showers will push
+OL,13,Fnortheast through this period. These
+OL,14,Fbands will be interspersed with
+OL,15,Foccasional spells of drier and
+OL,16,Fbrighter conditions. Winds
+OL,17,Fstrengthening through Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,173,160,301,260,100,100
