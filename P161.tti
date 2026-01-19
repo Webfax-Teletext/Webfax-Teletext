@@ -1,27 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax     F161A1768773205
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax     F161A1768799953
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FA rather
-OL,6,Fcloudy and murky night, with outbreaks
-OL,7,Fof rain stretched across the central
-OL,8,Fswathe of the UK, plus later across
-OL,9,FNorthern Ireland. Areas of mist and
-OL,10,Ffog developing especially where any
-OL,11,Fcloud breaks occur across Scotland and
-OL,12,Fsoutheast England.
-OL,13,
-OL,14,CMonday:FA rather grey day with some
-OL,15,Ffog remaining stubborn to clear.
-OL,16,FOutbreaks of rain also continuing in
-OL,17,Fwestern and central areas, with the
-OL,18,Fbrightest skies across northern
-OL,19,FScotland.
+OL,5,CToday:FA rather grey day with some fog
+OL,6,Fremaining stubborn to clear and plenty
+OL,7,Fof low cloud. Outbreaks of rain also
+OL,8,Fcontinuing in central areas, with the
+OL,9,Fbrightest skies across northern
+OL,10,FScotland. Temperature close to, or
+OL,11,Fslightly above average.
+OL,12,
+OL,13,CTonight:FRemaining cloudy with rain
+OL,14,Fmoving northwards, locally heavy in
+OL,15,FNorthern Ireland. Some clear spells
+OL,16,Finbetween cloud will allow frost to
+OL,17,Fdevelop in the north and west. Turing
+OL,18,Fwindy in southwest.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax     F161A1768799953
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CTuesday:FCloud breaking across central
+OL,6,Fand northern areas, but remains around
+OL,7,Fwestern and eastern coasts. Rain in
+OL,8,Fthe west, can be heavy in the
+OL,9,Fsouthwest where winds will strengthen.
+OL,10,FAverage temperatures.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
