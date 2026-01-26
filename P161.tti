@@ -1,26 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax     F161A1769389209
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax     F161A1769407275
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FA cloudy and
-OL,6,Fbreezy night in the north with hill
-OL,7,Ffog and patchy light rain and drizzle,
-OL,8,Feven a little snow on the highest
-OL,9,Fground. Becoming mostly dry across
-OL,10,FEngland and Wales. Patchy fog and
-OL,11,Ffrost forming under cloud breaks.
-OL,12,
-OL,13,CMonday:FShowery rain affecting eastern
-OL,14,FScotland. Mostly dry with a few bright
-OL,15,Fintervals developing elsewhere, though
-OL,16,Fwet and windy weather edging in across
-OL,17,FNorthern Ireland, and eventually Wales
-OL,18,Fand southwest England.
+OL,5,CToday:FLargely cloudy today with
+OL,6,Foutbreaks of rain and hill snow in the
+OL,7,Fnortheast. Heavy rain and
+OL,8,Fstrengthening winds will push into the
+OL,9,Fwest during the afternoon, bringing a
+OL,10,Frisk of flooding in some areas.
+OL,11,FCoastal gales possible in Northern
+OL,12,FIreland.
+OL,13,
+OL,14,CTonight:FHeavy rain will spread across
+OL,15,Fthe country overnight with strong
+OL,16,Fwinds in the west and hill snow in the
+OL,17,Fnorth. Coastal gales are likely around
+OL,18,Fwestern coasts.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax     F161A1769407275
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CTuesday:FCloudy with heavy persistent
+OL,6,Frain at first. Rain gradually moves
+OL,7,Feast, clearing to sunny spells and
+OL,8,Fblustery showers to the southwest.
+OL,9,FWindy with coastal gales, perhaps
+OL,10,Fsevere in the southwest.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
