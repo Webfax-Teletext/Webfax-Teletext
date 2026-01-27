@@ -1,7 +1,7 @@
-PN,1fc00
-SC,0000
-PS,8018
-OL,0,        ECIMSBWebfax     F1fcA1769494199
+PN,1fc01
+SC,0001
+PS,c018
+OL,0,        ECIMSBWebfax     F1fcA1769497806
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,38 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1769494198;
-OL,10,GService: Webfax - 27811 eec69dbd7f0
-OL,11,FLast Update: 27/01/2026 06:09:58      
-OL,13,AbbcNewsLive                G27/01-02:32
+OL,25,1769497806;
+OL,10,GService: Webfax - 27812 3a25f647778
+OL,11,FLast Update: 27/01/2026 07:10:06  G1/2
+OL,13,CbbcSport/Horse Racing      G26/01-06:55
 OL,14,Ageneric/lottery            G26/01-06:55
-OL,15,Ageneric/pollen_forecast    G27/01-06:09
+OL,15,Ageneric/pollen_forecast    G27/01-07:00
+OL,16,CitvSport/border            G26/01-06:57
+OL,17,CitvSport/calendar          G26/01-06:57
+OL,18,CitvSport/channel           G26/01-06:57
+OL,19,CitvSport/granada           G26/01-06:57
+OL,20,CitvSport/london            G26/01-06:57
+OL,21,CitvSport/meridian          G26/01-06:57
+OL,22,CitvSport/tyne-tees         G26/01-06:57
+OL,23,CitvSport/utv               G26/01-06:57
+PN,1fc02
+SC,0002
+PS,c018
+OL,0,        ECIMSBWebfax     F1fcA1769497806
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1769497806;
+OL,10,GService: Webfax - 27812 3a25f647778
+OL,11,FLast Update: 27/01/2026 07:10:06  G2/2
+OL,13,CitvSport/wales             G26/01-06:57
+OL,14,CitvSport/westcountry       G26/01-06:57
+OL,15,Ctv_listings?select=false   G26/01-06:56
