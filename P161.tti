@@ -1,28 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax     F161A1769449815
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax     F161A1769486960
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FStorm
-OL,6,FChandra moves into the southwest
-OL,7,Fovernight, bringing heavy rain to
-OL,8,Fsouthwest England and Northern
-OL,9,FIreland. Strong winds through the
-OL,10,FIrish Sea where coastal gales are
-OL,11,Flikely around exposed coasts. Rain
-OL,12,Fwill sweep eastwards, with snow on
-OL,13,Fnorthern hills.
-OL,14,
-OL,15,CTuesday:FStorm Chandra will move
-OL,16,Fnorthwards, strengthening winds across
-OL,17,Fthe eastern half of Northern Ireland.
-OL,18,FRain continues to move northeastwards,
-OL,19,Fwith brighter spells in the south.
-OL,20,FHeavy showers follow later.
+OL,5,CToday:FHeavy rain spreads across the
+OL,6,Fcountry today with hill snow in the
+OL,7,Fnorth. Turning brighter in the
+OL,8,Fsouthwest with blustery showers. Windy
+OL,9,Fwith coastal gales, and severe coastal
+OL,10,Fgales in parts of the west. Feeling
+OL,11,Frather cold.
+OL,12,
+OL,13,CTonight:FRain and hill snow clearing
+OL,14,Fto the north, turning drier for many,
+OL,15,Fwith just a few showers in the south.
+OL,16,FWindy in the north at first, but winds
+OL,17,Fgradually easing.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax     F161A1769486960
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CWednesday:FPatchy fog in the east at
+OL,6,Ffirst. Outbreaks of showery rain
+OL,7,Fpossible in the southwest and
+OL,8,Fnortheast, otherwise dry for many with
+OL,9,Fsome sunny spells. Breezy, but
+OL,10,Fgenerally less windy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
