@@ -1,26 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax     F161A1769530330
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax     F161A1769573721
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRain and
-OL,6,Fhill snow clearing to the north,
-OL,7,Fturning drier for many, with just a
-OL,8,Ffew showers in the south. Windy in the
-OL,9,Fnorth at first, but winds gradually
-OL,10,Feasing. Feeling cold with a few icy
-OL,11,Fstretches on untreated surfaces.
+OL,5,CToday:FFog and ice will clear leaving
+OL,6,Fmost places dry with sunny spells.
+OL,7,FHowever, the north and east of
+OL,8,FScotland will have patchy rain and
+OL,9,Fmountain snow, and Northern Ireland,
+OL,10,Fsouthwest Wales and southwest England
+OL,11,Fwill be breezy with some showers.
 OL,12,
-OL,13,CWednesday:FPatchy fog in the east at
-OL,14,Ffirst. Outbreaks of showery rain
-OL,15,Fpossible in the southwest and
-OL,16,Fnortheast, otherwise dry for many with
-OL,17,Fsome sunny spells. Breezy, but
-OL,18,Fgenerally less windy.
+OL,13,CTonight:FLow cloud and fog forming
+OL,14,Facross many eastern and central areas
+OL,15,Fovernight, with patchy rain. Hill snow
+OL,16,Fnortheast Scotland. Breezy, with
+OL,17,Fshowers in the southwest. Frost under
+OL,18,Fclearer spells elsewhere.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax     F161A1769573721
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CThursday:FRather cloudy and breezy
+OL,6,Fwith some rain and hill snow lingering
+OL,7,Fin the northeast, whilst showers give
+OL,8,Fway to more persistent rain towards
+OL,9,Fthe southwest. Some brighter breaks
+OL,10,Fdeveloping elsewhere.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
