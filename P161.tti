@@ -1,26 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1770831760
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1770876903
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy, with
-OL,6,Ffurther outbreaks of rain. Snow also
-OL,7,Ffalling over the Scottish mountains
-OL,8,Fbut perhaps the high ground of
-OL,9,Fnorthern England by the end of night.
-OL,10,FA few clearer breaks across central
-OL,11,Fparts of the UK, with some fog patches.
-OL,12,
-OL,13,CThursday:FRain in the north pushes
-OL,14,Fsouthwards, allowing brighter skies to
-OL,15,Fdevelop across Scotland. Snow showers
-OL,16,Fhowever in the northeast. Persistent
-OL,17,Frain in Wales and southeast England.
-OL,18,FSunny spells in southwest.
+OL,5,CToday:FRain in the north pushes
+OL,6,Fsouthwards, allowing brighter skies to
+OL,7,Fdevelop across Scotland. Snow showers
+OL,8,Fhowever in the northeast. Persistent
+OL,9,Frain in Wales and southeast England
+OL,10,Fwith hill snow across northern
+OL,11,FEngland. Sunny spells in southwest.
+OL,12,FTurning cold further north.
+OL,13,
+OL,14,CTonight:FRain and hill snow pushes
+OL,15,Fsouthwards slowly with clearer spells
+OL,16,Fdeveloping in the north. Widespread
+OL,17,Ffrost and icy patches developing.
+OL,18,FVariable cloud in the south with the
+OL,19,Fodd heavy shower.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1770876903
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FRain continues to move
+OL,6,Fsouthwards with Northern Ireland and
+OL,7,FScotland seeing some sunshine. Snow
+OL,8,Fshowers around the coasts. Staying
+OL,9,Fcloudy and wet across the south but
+OL,10,Feventually clears later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
