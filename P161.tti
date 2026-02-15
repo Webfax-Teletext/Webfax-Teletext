@@ -1,25 +1,41 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1771084965
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1771128320
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FA clear and
-OL,6,Fcold evening in the east, but a band
-OL,7,Fof rain, sleet and mainly hill snow
-OL,8,Fwill move eastwards across the UK.
-OL,9,FClear spells and showers following in
-OL,10,Fthe west where it will turn milder.
-OL,11,FWindy for many.
-OL,12,
-OL,13,CSunday:FA wet start to Sunday, with
-OL,14,Foutbreaks of rain and some snow.
-OL,15,FStaying unsettled through the day, but
-OL,16,Fturning milder as blustery showers
-OL,17,Fcontinue to move in from the west.
+OL,5,CToday:FA wet and windy start to the
+OL,6,Fmorning, with outbreaks of rain, sleet
+OL,7,Fand snow. Staying unsettled through
+OL,8,Fmuch of the day, but gradually turning
+OL,9,Fmilder as heavy and blustery showers
+OL,10,Fcontinue to move in from the west.
+OL,11,
+OL,12,CTonight:FRain clearing eastern areas
+OL,13,Fthrough the evening, but for many
+OL,14,Fheavy showers will continue through
+OL,15,Fmuch of the night. Some snow possible
+OL,16,Fover the highest hills in the north.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1771128320
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CMonday:FA day of sunny spells and
+OL,6,Fshowers. Some of the showers will be
+OL,7,Fheavy at times, with the risk of some
+OL,8,Fhail and thunder. Snow showers in the
+OL,9,Ffar north.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
