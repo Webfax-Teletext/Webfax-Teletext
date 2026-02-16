@@ -1,25 +1,41 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1771172782
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1771216106
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FBlustery
-OL,6,Fshowers will spread across many areas
-OL,7,Fovernight, turning wintry on high
-OL,8,Fground in the north. However, some
-OL,9,Feastern areas turning mostly dry with
-OL,10,Fclear spells. A chilly night for many,
-OL,11,Fwith a frost in the north.
-OL,12,
-OL,13,CMonday:FA day of sunny spells and
-OL,14,Fshowers. Some of the showers will be
-OL,15,Fheavy at times, with the risk of some
-OL,16,Fhail and thunder. Snow showers in the
-OL,17,Ffar north.
+OL,5,CToday:FA day of sunny spells and
+OL,6,Fshowers. Some of the showers will be
+OL,7,Fheavy at times, with a risk of hail
+OL,8,Fand thunder. Turning colder from the
+OL,9,Fnorth, with showers becoming wintry,
+OL,10,Fmostly over high ground.
+OL,11,
+OL,12,CTonight:FShowers at first, but these
+OL,13,Fwill fade during the evening, with
+OL,14,Fclear intervals becoming extensive
+OL,15,Fovernight. A widespread frost
+OL,16,Fdeveloping away from the far southwest.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1771216106
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CTuesday:FA cold and frosty start, with
+OL,6,Fmany places dry with sunny spells. A
+OL,7,Ffew scattered showers are possible,
+OL,8,Fmainly in the north and east. Turning
+OL,9,Fcloudy across the southwest later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
