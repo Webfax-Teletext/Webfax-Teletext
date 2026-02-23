@@ -1,26 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1771786306
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1771823036
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will be a
-OL,6,Fbreezy evening and night with clear
-OL,7,Fspells and showers, the showers most
-OL,8,Fwidespread and sometimes heavy across
-OL,9,Fsome central and many northwestern
-OL,10,Fareas. A mild night for most, but with
-OL,11,Fa patchy frost in the north.
-OL,12,
-OL,13,CMonday:FBlustery showers easing in the
-OL,14,Fnorth and northeast to leave some
-OL,15,Fsunshine. Elsewhere, cloud thickening
-OL,16,Ffrom the southwest bringing rain and
-OL,17,Fsome fog patches into the afternoon.
-OL,18,FMild for many.
+OL,5,CToday:FA bright start, with sunny
+OL,6,Fspells and showers. Cloud increasing
+OL,7,Ffrom the southwest, with rain moving
+OL,8,Fnortheastwards across much of England,
+OL,9,FWales and Northern Ireland. Best of
+OL,10,Fthe brighter skies holding on across
+OL,11,FScotland and northeast England. Mild
+OL,12,Fand Breezy.
+OL,13,
+OL,14,CTonight:FCloud and rain will continue
+OL,15,Fto move northeastwards across the rest
+OL,16,Fof the UK through the evening and
+OL,17,Fovernight. Turning increasingly murky,
+OL,18,Fwith hill fog and drizzle. Mild and
+OL,19,Fbreezy.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1771823036
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CTuesday:FA cloudy and damp start.
+OL,6,FSlowly brightening up across central
+OL,7,Fand southern parts through the day,
+OL,8,Fwith sunny spells developing here.
+OL,9,FCloudy elsewhere, with further rain
+OL,10,Fpossible at times. Mild.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
