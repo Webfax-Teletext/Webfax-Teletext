@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CNational/world stories    Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -151,7 +151,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -177,7 +177,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -203,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -229,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -237,17 +237,16 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FQueen Elizabeth doodles and letter
-OL,9,Fwritten when she was a girl sold for
-OL,10,F#25,000
-OL,12,G412FWoman jailed for attacking
-OL,13,Fhospital worker and police officers
-OL,15,G413FPolice hunt for man after child
-OL,16,Fsuffers life-changing injuries in hit-
-OL,17,Fand-run
-OL,19,G414FAmputation Support: Campaigners
-OL,20,Fcall for more investment in life-
-OL,21,Fchanging rehab
+OL,8,G411FFootage released of Sussex ramraid
+OL,9,Fas thieves target small jewellery store
+OL,11,G412FQueen Elizabeth doodles and letter
+OL,12,Fwritten when she was a girl sold for
+OL,13,F#25,000
+OL,15,G413FWoman jailed for attacking
+OL,16,Fhospital worker and police officers
+OL,18,G414FPolice hunt for man after child
+OL,19,Fsuffers life-changing injuries in hit-
+OL,20,Fand-run
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -255,7 +254,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -281,7 +280,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -307,7 +306,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -333,7 +332,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -359,7 +358,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -384,27 +383,30 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 FEB
-OL,4,G1745FGladiators
-OL,5,     GGladiators ready! Bradley and
-OL,6,     GBarney Walsh welcome back four
-OL,7,     Gmore Contenders for the ultimate
-OL,8,     Gcontest against the Gladiators as
-OL,9,     Gthey compete for a place in the
-OL,10,     Gsemi-finals.
-OL,11,G1845FMichael McIntyre's Big Show
-OL,12,     GMichael's guests include Jade
-OL,13,     GThirlwall, Jack Savoretti and
-OL,14,     GTasha Ghouri.
-OL,15,G1945FThe Weakest Link: Comedians
-OL,16,     FSpecial
-OL,17,     GAngela Barnes and Phil Wang are
-OL,18,     Gamongst the comedians aiming to
-OL,19,     Gbe the strongest link.
+OL,4,G1845FMichael McIntyre's Big Show
+OL,5,     GMichael's guests include Jade
+OL,6,     GThirlwall, Jack Savoretti and
+OL,7,     GTasha Ghouri.
+OL,8,G1945FThe Weakest Link: Comedians
+OL,9,     FSpecial
+OL,10,     GAngela Barnes and Phil Wang are
+OL,11,     Gamongst the comedians aiming to
+OL,12,     Gbe the strongest link.
+OL,13,G2030FCasualty
+OL,14,     GThe pressure is on for Flynn when
+OL,15,     Gthe CQC make their return, but
+OL,16,     Gwill a spiralling Matty and Kim
+OL,17,     Gget in the way?
+OL,18,G2120FThe Walsh Sisters
+OL,19,     GPlans for Rachel's recovery are
+OL,20,     Gset in motion, and the family
+OL,21,     Gface an uncertain future.
+OL,22,G2210FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -412,7 +414,7 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -441,25 +443,26 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 FEB
-OL,4,G1800FWheel of Fortune
-OL,5,     GGraham Norton hosts as curriculum
-OL,6,     Gand quality manager Tana, train
-OL,7,     Gconductor Mikey, and operations
-OL,8,     Gmanager Charlotte go head-to-head
-OL,9,     Gwith the Wheel and try to win
-OL,10,     G50,000 pounds.
-OL,11,G1900FBritain's Got Talent
-OL,12,     GThe search for the most
-OL,13,     Gspectacular entertainers to hit
-OL,14,     Gthese shores continues in
-OL,15,     GBlackpool as more hopefuls are
-OL,16,     Gwelcomed by award-winning hosts
-OL,17,     GAnt & Dec and face the judges.
+OL,4,G1900FBritain's Got Talent
+OL,5,     GThe search for the most
+OL,6,     Gspectacular entertainers to hit
+OL,7,     Gthese shores continues in
+OL,8,     GBlackpool as more hopefuls are
+OL,9,     Gwelcomed by award-winning hosts
+OL,10,     GAnt & Dec and face the judges.
+OL,11,G2015FThe BRIT Awards 2026
+OL,12,     GJack Whitehall hosts the
+OL,13,     Gceremony, which is being held in
+OL,14,     GManchester for the first time,
+OL,15,     Gwith performances from Harry
+OL,16,     GStyles, Rosalia, Wolf Alice, Alex
+OL,17,     GWarren and Olivia Dean.
+OL,18,G2250FITV News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -467,27 +470,26 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 FEB
-OL,4,G1745FChannel 4 News
-OL,5,G1815FFukushima: Days That Shocked the
-OL,6,     FWorld
-OL,7,     GIn March 2011, Japan was hit by a
-OL,8,     Gdevastating tsunami, killing
-OL,9,     G20,000 and triggering a nuclear
-OL,10,     Gmeltdown. Survivors and witnesses
-OL,11,     Gtell their extraordinary stories.
-OL,12,G1915FFukushima: Days That Shocked the
-OL,13,     FWorld
-OL,14,     GIn March 2011, a massive tsunami
-OL,15,     Gcaused a major meltdown at
-OL,16,     GJapan's Fukushima nuclear plant,
-OL,17,     Gtriggering explosions and
-OL,18,     Gevacuations. What went wrong at
-OL,19,     GFukushima?
+OL,4,G1815FFukushima: Days That Shocked the
+OL,5,     FWorld
+OL,6,     GIn March 2011, Japan was hit by a
+OL,7,     Gdevastating tsunami, killing
+OL,8,     G20,000 and triggering a nuclear
+OL,9,     Gmeltdown. Survivors and witnesses
+OL,10,     Gtell their extraordinary stories.
+OL,11,G1915FFukushima: Days That Shocked the
+OL,12,     FWorld
+OL,13,     GIn March 2011, a massive tsunami
+OL,14,     Gcaused a major meltdown at
+OL,15,     GJapan's Fukushima nuclear plant,
+OL,16,     Gtriggering explosions and
+OL,17,     Gevacuations. What went wrong at
+OL,18,     GFukushima?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -495,25 +497,25 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 FEB
-OL,4,G1750FOur Yorkshire Farm
-OL,5,     GWith the local mountain rescue
-OL,6,     Gteam using the farm as a base for
-OL,7,     Gtheir annual training exercise,
-OL,8,     GClive and Amanda volunteer their
-OL,9,     Gchildren to take part.
-OL,10,G1845F5 News Weekend
-OL,11,G1850FBeatrice and Eugenie: Caught in
-OL,12,     Fthe Crossfire
-OL,13,     GGranddaughters of the Queen
-OL,14,     GElizabeth II have weathered many
-OL,15,     Gcontroversies. Now their father
-OL,16,     Ghas lost his royal status, what
-OL,17,     Gdoes their future hold?
+OL,4,G1850FBeatrice and Eugenie: Caught in
+OL,5,     Fthe Crossfire
+OL,6,     GGranddaughters of the Queen
+OL,7,     GElizabeth II have weathered many
+OL,8,     Gcontroversies. Now their father
+OL,9,     Ghas lost his royal status, what
+OL,10,     Gdoes their future hold?
+OL,11,G2015FLip-Reading the Royals: What Are
+OL,12,     FThey Really Saying?
+OL,13,     GForensic lip readers attempt to
+OL,14,     Gdecode the Coronation, examining
+OL,15,     GKing Charles' words during the
+OL,16,     Gceremony and Queen Camilla's
+OL,17,     Gconcerns about her crown.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -521,27 +523,27 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1772301852
+OL,0,        ECIMSBWebfax 1   F498A1772305466
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 28 FEB
-OL,4,G1635FThe Sea Shall Not Have Them
-OL,5,     G1954. War. Directed by Lewis
-OL,6,     GGilbert. Stars Michael Redgrave,
-OL,7,     GDirk Bogarde & Bonar Colleano. In
-OL,8,     G1944, passengers of a downed
-OL,9,     Gaircraft discuss their lives
-OL,10,     Gwhile awaiting rescue from the
-OL,11,     GNorth Sea.
-OL,12,G1825FScotland Yard
-OL,13,     G1960. Evidence in Concrete.
-OL,14,     GDirected by Gordon Hales.
-OL,15,     GStarring Russell Napier, Howard
-OL,16,     GPays and Peter Welch. A young
-OL,17,     Ggirl's body found near a busy
-OL,18,     Gmotorway tells of something
-OL,19,     Gsinister.
+OL,4,G1900FMaigret
+OL,5,     GDeath in Mind. 1962. Stars Rupert
+OL,6,     GDavies, Neville Jason & Anton
+OL,7,     GRodgers. A rich old woman and her
+OL,8,     Gmaid have been murdered. Maigret
+OL,9,     Gallows the prime suspect to
+OL,10,     Gescape custody to learn the truth.
+OL,11,G2000FThe Hound of the Baskervilles
+OL,12,     F(2002)
+OL,13,     G2002. Drama. Director: David
+OL,14,     GAttwood. Stars Richard Roxburgh,
+OL,15,     GIan Hart & Richard E. Grant.
+OL,16,     GSherlock Holmes and Dr Watson
+OL,17,     Ginvestigate after being told an
+OL,18,     Gheir's estate is plagued by a
+OL,19,     Gghostly dog.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
