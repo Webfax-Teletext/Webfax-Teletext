@@ -1,25 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1772216417
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1772251413
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRain clears
-OL,6,Feastwards across southern areas,
-OL,7,Fleaving clearer skies. Further showers
-OL,8,Faffect the far north and northwest,
-OL,9,Fbut much of northern UK stays dry,
-OL,10,Fwidespread frost, and possible icy
-OL,11,Fpatches.
+OL,5,CToday:FCloud and rain slowly clear the
+OL,6,Fsoutheast through the morning,
+OL,7,Fbrightening from the west with some
+OL,8,Fsunny spells. Western areas stay
+OL,9,Fmostly bright, though sharp showers
+OL,10,Facross northern areas this afternoon.
+OL,11,FFeeling a little cooler than of late.
 OL,12,
-OL,13,CSaturday:FCloud and rain slowly clear
-OL,14,Fthe southeast through the morning,
-OL,15,Fbrightening from the west. Western
-OL,16,Fareas stay mostly bright, though sharp
-OL,17,Fshowers affect the far north later.
+OL,13,CTonight:FSome dry, clear spells for
+OL,14,Fmany at first. Then a band of locally
+OL,15,Fheavy rain moves into western areas
+OL,16,Fthrough the early hours. Turning
+OL,17,Fbreezier too. Remaining mainly frost
+OL,18,Ffree.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1772251413
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FLocally heavy rain and brisk
+OL,6,Fwinds moving east through the morning.
+OL,7,FTurning drier but remaining rather
+OL,8,Fcloudy through the afternoon before
+OL,9,Ffurther rain arrives in the northwest
+OL,10,Flater. Feeling milder.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
