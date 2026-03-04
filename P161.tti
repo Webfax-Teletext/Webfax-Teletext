@@ -1,28 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1772572326
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1772600626
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FMostly clear
-OL,6,Fthis evening in the north with some
-OL,7,Ffrost forming, and central and
-OL,8,Fnortheastern parts of Scotland will
-OL,9,Fremain chilly overnight. Elsewhere
-OL,10,Fcloud will increase from the south.
-OL,11,FLight rain developing Northern Ireland
-OL,12,Fand southwest Scotland. Some fog
-OL,13,Fpatches.
-OL,14,
-OL,15,CWednesday:FIt will be rather cloudy
-OL,16,Fand breezy across Scotland and
-OL,17,FNorthern Ireland tomorrow with patchy
-OL,18,Frain. Elsewhere low cloud and fog
-OL,19,Fslowly lifting to give some pleasantly
-OL,20,Fwarm sunshine.
+OL,5,CToday:FRather cloudy across Scotland
+OL,6,Fand Northern Ireland with some patchy
+OL,7,Frain. Otherwise, early mist, fog and
+OL,8,Flow cloud gradually clearing leaving a
+OL,9,Ffine day with sunny spells. Feeling
+OL,10,Fwarmer than Tuesday, especially in the
+OL,11,Fsunshine.
+OL,12,
+OL,13,CTonight:FRemaining cloudy across
+OL,14,FScotland and Northern Ireland, with
+OL,15,Frain becoming more persistent
+OL,16,Flater.Dry elsewhere, with some patchy
+OL,17,Flow cloud and hill fog developing. A
+OL,18,Fmilder night for most.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1772600626
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CThursday:FRain across the northwest
+OL,6,Fmaking slow progress southeastwards
+OL,7,Fduring Thursday. Much of England and
+OL,8,FWales though remaining dry with
+OL,9,Fsunniest skies in the east. Feeling
+OL,10,Fwarm away from the northwest.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
