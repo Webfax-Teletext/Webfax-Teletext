@@ -2,7 +2,7 @@ PN,14201
 SC,0001
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F142A1772718051
+OL,0,        ECIMSBWebfax 1   F142A1773000680
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G1/4
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GNEWSC5 to close satellite SD service on
@@ -24,7 +24,7 @@ PN,14202
 SC,0002
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F142A1772718051
+OL,0,        ECIMSBWebfax 1   F142A1773000680
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G2/4
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GNEWSC5 to close satellite SD service on
@@ -51,7 +51,7 @@ PN,14203
 SC,0003
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F142A1772718051
+OL,0,        ECIMSBWebfax 1   F142A1773000680
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G3/4
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GNEWSC5 to close satellite SD service on
@@ -64,6 +64,15 @@ OL,9,Favoiding the cost of broadcasting these
 OL,10,Fvariants on expensive pan-European
 OL,11,Fsatellite capacity that would require
 OL,12,Fencryption.
+OL,14,FAs part of a recent review of the
+OL,15,Ffuture of TV distribution by Ofcom, S4C
+OL,16,Fargued that the costs of maintaining a
+OL,17,Fpresence on Digital Terrestrial TV
+OL,18,F(Freeview) and satellite platforms are
+OL,19,Fsubstantial and represent a significant
+OL,20,Fongoing financial commitment for the
+OL,21,Fbroadcaster, and eat into the content
+OL,22,Fbudget.
 OL,23,EPub: 03-Mar-2026Upppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,143,140,200,120,0,100
@@ -71,24 +80,15 @@ PN,14204
 SC,0004
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F142A1772718051
+OL,0,        ECIMSBWebfax 1   F142A1773000680
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G4/4
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GNEWSC5 to close satellite SD service on
 OL,4,CThursday
 OL,5,
-OL,6,FAs part of a recent review of the
-OL,7,Ffuture of TV distribution by Ofcom, S4C
-OL,8,Fargued that the costs of maintaining a
-OL,9,Fpresence on Digital Terrestrial TV
-OL,10,F(Freeview) and satellite platforms are
-OL,11,Fsubstantial and represent a significant
-OL,12,Fongoing financial commitment for the
-OL,13,Fbroadcaster, and eat into the content
-OL,14,Fbudget.
-OL,16,FWorth noting that the STV and S4C SD
-OL,17,Fservices use the DVB-S2 standard which
-OL,18,Flegacy SD-only receivers don't support.
+OL,6,FWorth noting that the STV and S4C SD
+OL,7,Fservices use the DVB-S2 standard which
+OL,8,Flegacy SD-only receivers don't support.
 OL,23,EPub: 03-Mar-2026Upppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,143,140,200,120,0,100@
