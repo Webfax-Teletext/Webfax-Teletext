@@ -1,27 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1773936670
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1773979416
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy
-OL,6,Facross southeast Scotland and
-OL,7,Fnortheast England, especially near
-OL,8,Fcoasts and this spreading inland
-OL,9,Fovernight. Elsewhere, clear spells
-OL,10,Fbring a chilly night with some mist
-OL,11,Fand fog patches in prone spots,
-OL,12,Fparticularly across parts of East
-OL,13,FAnglia.
-OL,14,
-OL,15,CFriday:FEarly mist or fog clearing
-OL,16,Finto a fine, warm day with light
-OL,17,Fwinds. Sunny for most, though the far
-OL,18,Fnorth and northwest turn cloudier and
-OL,19,Fbreezier later with patchy rain.
+OL,5,CToday:FEarly mist and fog soon
+OL,6,Fclearing into a fine, warm day for
+OL,7,Fmost with light winds. Cloud in
+OL,8,Feastern areas lifting through the
+OL,9,Fmorning, leaving plenty of sunny
+OL,10,Fspells. The far north and northwest
+OL,11,Fwill turn cloudier with patchy rain.
+OL,12,
+OL,13,CTonight:FCloud and light rain move
+OL,14,Fslowly across northwest Scotland.
+OL,15,FElsewhere mostly clear with light
+OL,16,Fwinds, some patchy mist and fog. A
+OL,17,Fchilly night with local frost.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1773979416
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FA chilly start with mist or
+OL,6,Ffog quickly dispersing. Most places
+OL,7,Fthen warm and sunny with light winds,
+OL,8,Fthough northwest Scotland stays
+OL,9,Fcloudier, breezier and sees occasional
+OL,10,Flight rain.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
