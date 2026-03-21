@@ -1,25 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1774023076
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1774071360
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud and
-OL,6,Flight rain move slowly across
-OL,7,Fnorthwest Scotland. Elsewhere mostly
-OL,8,Fclear with light winds, some patchy
-OL,9,Fmist and fog. A chilly night with
-OL,10,Flocal frost.
-OL,11,
-OL,12,CSaturday:FA chilly start with mist or
-OL,13,Ffog quickly dispersing. Most places
-OL,14,Fthen warm and sunny with light winds,
-OL,15,Fthough northwest Scotland stays
-OL,16,Fcloudier, breezier and sees occasional
-OL,17,Flight rain.
+OL,5,CToday:FAreas of low cloud, mist and
+OL,6,Ffog will gradually lift to leave a
+OL,7,Fmainly dry day with plenty of
+OL,8,Fsunshine. However, thicker cloud will
+OL,9,Faffect central, northern and western
+OL,10,Fparts of Scotland giving patchy rain.
+OL,11,FFeeling warm in the sunshine.
+OL,12,
+OL,13,CTonight:FTurning cloudy and breezy
+OL,14,Facross Scotland and Northern Ireland
+OL,15,Fovernight. Some rain, especially
+OL,16,Ftowards the north and west. Clearer
+OL,17,Felsewhere, with patchy frost and some
+OL,18,Flow cloud and fog returning.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1774071360
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FPatchy rain will move
+OL,6,Fsoutheastwards across the UK. Some
+OL,7,Fsunshine developing across southern
+OL,8,FEngland after a locally foggy start.
+OL,9,FBrighter, colder weather arriving in
+OL,10,Fthe northwest, with some blustery
+OL,11,Fshowers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
