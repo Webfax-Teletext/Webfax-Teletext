@@ -1,28 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1774455107
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1774501436
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FShowers,
-OL,6,Fsome wintry, will continue overnight,
-OL,7,Fespecially in the far north, and
-OL,8,Facross Wales, central and later
-OL,9,Fsouthern parts of England. Otherwise
-OL,10,Fclear periods will develop and the
-OL,11,Fstrong and gusty northwesterly wind
-OL,12,Fwill ease. Turning frosty with icy
-OL,13,Fpatches.
-OL,14,
-OL,15,CThursday:FThursday will start mostly
-OL,16,Ffine with some sunshine. It will
-OL,17,Fgradually turn cloudy, wet and breezy
-OL,18,Fin the north. Meanwhile, much of
-OL,19,FEngland and Wales will remain dry and
-OL,20,Fbright.
+OL,5,CToday:FAny wintry showers in northeast
+OL,6,FScotland will ease during the early
+OL,7,Fmorning. Most areas stay dry and
+OL,8,Fbright before clouds, rain, and
+OL,9,Fstrengthening winds reach Northern
+OL,10,FIreland and western Scotland later.
+OL,11,FMilder than Wednesday, but still
+OL,12,Ffeeling rather cold.
+OL,13,
+OL,14,CTonight:FA milder night with
+OL,15,Fwidespread cloud and rain, heavy over
+OL,16,Fwestern hills. The southeast may stay
+OL,17,Fclearer with patchy frost. Clearer
+OL,18,Fskies and showers reach northwest
+OL,19,FScotland later.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1774501436
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FRain returns on Friday and
+OL,6,Fpushed southeastwards through the day.
+OL,7,FSunnier skies in the north, but cooler
+OL,8,Fonce again with some wintry showers
+OL,9,Fand stronger gusts of winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
