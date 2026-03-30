@@ -1,26 +1,41 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1774800665
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1774843473
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRain across
-OL,6,Fthe south clearing this evening,
-OL,7,Fallowing clearer spells to develop
-OL,8,Fbehind. Further north it will stay
-OL,9,Fwindy with blustery showers, with
-OL,10,Fthese turning wintry over the higher
-OL,11,Fground. A chilly night to come, with a
-OL,12,Ftouch of frost.
-OL,13,
-OL,14,CMonday:FMorning showers will gradually
-OL,15,Fease through the day, with the best of
-OL,16,Fthe brightness in the south. A little
-OL,17,Fless cold on Monday, especially as the
-OL,18,Fbreeze begins to ease.
+OL,5,CToday:FBlustery shower in the north
+OL,6,Fwill continue this morning, with snow
+OL,7,Fover the hills at first, but these
+OL,8,Fwill gradually ease through the day.
+OL,9,FLargely dry in the south with sunny
+OL,10,Fspells, although a few showers
+OL,11,Fpossible. Winds easing.
+OL,12,
+OL,13,CTonight:FClear spells in the east at
+OL,14,Ffirst with a frost developing. Skies
+OL,15,Fclouding over elsewhere with outbreaks
+OL,16,Fof rain and drizzle.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1774843473
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CTuesday:FCloudy at first with
+OL,6,Foutbreaks of rain and drizzle. Turning
+OL,7,Fdrier for many in the afternoon with
+OL,8,Fsome warm bright or sunny spells.
+OL,9,FWindy in the north with coastal gales.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
