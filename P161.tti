@@ -1,26 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1775063147
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1775098859
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FOutbreaks of
-OL,6,Frain will continue moving
-OL,7,Fsoutheastwards this evening and
-OL,8,Fovernight, but gradually petering out.
-OL,9,FDry with clear spells following, but
-OL,10,Fturning colder with a widespread frost
-OL,11,Fdeveloping across the north.
-OL,12,
-OL,13,CThursday:FCloudy with patchy drizzle
-OL,14,Fat first in the far southeast.
-OL,15,FOtherwise dry with some sunny spells,
-OL,16,Falthough rain arriving into the
-OL,17,Fnorthwest later. Temperatures near
-OL,18,Faverage for early April.
+OL,5,CToday:FCloudy at first in the far
+OL,6,Fsoutheast with light rain or drizzle,
+OL,7,Fsoon clearing. Mostly dry elsewhere
+OL,8,Fwith sunny spells. Cloud and rain
+OL,9,Fspread into the northwest later, snow
+OL,10,Fon Scottish hills, turning windy with
+OL,11,Fpossible coastal gales. Average
+OL,12,Ftemperatures.
+OL,13,
+OL,14,CTonight:FCloud, rain or drizzle move
+OL,15,Fsoutheastwards, reaching most areas by
+OL,16,Fdawn, though the far southeast staying
+OL,17,Fdry. Snow affects Scottish hills.
+OL,18,FIncreasingly windy with possible
+OL,19,Fnorthern coastal gales.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1775098859
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FRain spreads southeastwards
+OL,6,Fwhich can be heavy on western hills.
+OL,7,FBrighter, showery weather follows into
+OL,8,Fnorthern Scotland. Windy for many,
+OL,9,Fwith gusts near high ground. Mild
+OL,10,Fsouth, colder north.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
