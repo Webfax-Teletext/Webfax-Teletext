@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 1   F1fcA1775098859
+OL,0,        ECIMSBWebfax 1   F1fcA1775102468
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1775098858;
-OL,10,GService: Webfax 1 - 29600 b4b905094eb
-OL,11,FLast Update: 02/04/2026 04:00:58  G1/2
+OL,25,1775102467;
+OL,10,GService: Webfax 1 - 29601 ad85f562c63
+OL,11,FLast Update: 02/04/2026 05:01:07  G1/2
 OL,13,Ccharts/singles             G28/03-20:21
 OL,14,Cgeneric/championship       G22/03-03:48
 OL,15,Cgeneric/f1                 G29/03-09:11
@@ -30,7 +30,7 @@ OL,23,CitvSport/central           G27/03-18:03
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 1   F1fcA1775098859
+OL,0,        ECIMSBWebfax 1   F1fcA1775102468
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,9 +42,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1775098858;
-OL,10,GService: Webfax 1 - 29600 b4b905094eb
-OL,11,FLast Update: 02/04/2026 04:00:58  G2/2
+OL,25,1775102467;
+OL,10,GService: Webfax 1 - 29601 ad85f562c63
+OL,11,FLast Update: 02/04/2026 05:01:07  G2/2
 OL,13,CitvSport/channel           G29/03-17:02
 OL,14,CitvSport/granada           G31/03-20:21
 OL,15,CitvSport/london            G31/03-20:21
@@ -54,3 +54,4 @@ OL,18,CitvSport/utv               G28/03-12:03
 OL,19,CitvSport/wales             G27/03-00:03
 OL,20,CitvSport/westcountry       G30/03-19:20
 OL,21,CiNMS/comments.json         G17/03-16:45
+OL,22,CZXIndustries/epg.json      G01/04-04:03
