@@ -1,26 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1775232664
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1775275427
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FLight rain
-OL,6,Fclears most areas except the far south
-OL,7,Fbefore returning north later.
-OL,8,FElsewhere clear spells with northern
-OL,9,Fshowers, wintry on hills. Patchy frost
-OL,10,Fin Scotland, Northern Ireland and
-OL,11,FEngland.
+OL,5,CToday:FCloudy with outbreaks of rain
+OL,6,Fmoving north during the day as Storm
+OL,7,FDave arrives. The rain becoming heavy
+OL,8,Fand persistent in the northwest later.
+OL,9,FStrengthening winds for all with gales
+OL,10,Fand severe gales developing,
+OL,11,Fparticularly in the north and west.
 OL,12,
-OL,13,CSaturday:FStorm Dave moves northwards
-OL,14,Facross Northern Ireland and western
-OL,15,FScotland, bring cloud, rain and strong
-OL,16,Fwinds. Coastal gales likely here, but
-OL,17,Fdrier further south. Stay windy but
-OL,18,Fmild.
+OL,13,CTonight:FVery windy with gales and
+OL,14,Fperhaps severe gales across parts of
+OL,15,FNorthern Ireland, Scotland and
+OL,16,Fnorthern England for a time. Outbreaks
+OL,17,Fof rain, with snow over modest hills
+OL,18,Facross Scotland.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1775275427
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FCloud, rain and hill snow
+OL,6,Facross the far northeast clearing, as
+OL,7,Fwinds continue to ease. Sunny spells
+OL,8,Fand blustery showers for many, but
+OL,9,Fsouthern areas may to stay dry. Chilly.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
