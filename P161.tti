@@ -1,26 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1775426988
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1775448228
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FDaytime
-OL,6,Fshowers will become increasingly
-OL,7,Fconfined to coasts in the north this
-OL,8,Fevening, leading to a dry and clear
-OL,9,Fnight for many. Turning chilly under
-OL,10,Fthe clear skies with a fairly
-OL,11,Fwidespread frost, although clouding
-OL,12,Fover in the west later.
-OL,13,
-OL,14,CMonday:FA chilly start, but mostly dry
-OL,15,Fwith sunny spells. Cloud will continue
-OL,16,Fto increase across western areas
-OL,17,Fthrough the day, with outbreaks of
-OL,18,Frain reaching the far northwest later.
+OL,5,CToday:FA chilly, but bright start.
+OL,6,FPlenty of sunny spells through the
+OL,7,Fday, though cloudier skies at times in
+OL,8,Fthe west. A few splashes of rain
+OL,9,Fpossible for Northern Ireland and
+OL,10,Fnorthwest Scotland. Breezy in the
+OL,11,Fwest. Feeling warmer for many.
+OL,12,
+OL,13,CTonight:FA fine evening, though
+OL,14,Fturning chilly again under the clear
+OL,15,Fspells overnight, with a patchy frost
+OL,16,Fin the east. A few showers still
+OL,17,Fpossible in the far northwest.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1775448228
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CTuesday:FMost places dry with sunny
+OL,6,Fspells. Cloud and outbreaks of rain
+OL,7,Fmoving across Northern Ireland and
+OL,8,Fwestern Scotland during the afternoon.
+OL,9,FBreezy in the west. Feeling warm in
+OL,10,Fthe sunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
