@@ -2,7 +2,7 @@ PN,14101
 SC,0001
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F141A1775523444
+OL,0,        ECIMSBWebfax 1   F141A1775560261
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G1/5
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCITV 1 playout fault disrupts
@@ -26,7 +26,7 @@ PN,14102
 SC,0002
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F141A1775523444
+OL,0,        ECIMSBWebfax 1   F141A1775560261
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G2/5
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCITV 1 playout fault disrupts
@@ -51,7 +51,7 @@ PN,14103
 SC,0003
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F141A1775523444
+OL,0,        ECIMSBWebfax 1   F141A1775560261
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G3/5
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCITV 1 playout fault disrupts
@@ -66,11 +66,9 @@ OL,12,Finto their regional programme, minutes
 OL,13,Flate, when the weather forecast was in
 OL,14,Fprogress.
 OL,16,FA second switching failure meant many
-OL,17,Fregions were unable to return to the
-OL,18,Fnetwork version of ITV 1.
-OL,20,FConsequently, output from the regional
-OL,21,Fstudios remained on air for quite some
-OL,22,Ftime beyond the regional news slot.
+OL,17,Fregions were unable to switch away from
+OL,18,Ftheir regional studio back to the
+OL,19,Fnational schedule.
 OL,23,EPub: 06-Apr-2026Upppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,142,140,200,120,0,100
@@ -78,26 +76,24 @@ PN,14104
 SC,0004
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F141A1775523444
+OL,0,        ECIMSBWebfax 1   F141A1775560262
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G4/5
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCITV 1 playout fault disrupts
 OL,4,Cregional and national news
 OL,5,
-OL,6,FMost of the affected regions quickly
-OL,7,Fswitched to an animated version of
-OL,8,Ftheir respective ITV regional logos;
-OL,9,Fsome remained on their programme
-OL,10,Fendboards.
-OL,12,FOne-by-one, the affected regions began
-OL,13,Fto switch back to the network output,
-OL,14,Fwith the final region restored to
-OL,15,Fnormal shortly after 7pm, minutes into
-OL,16,Fan edition of The Chase.
-OL,18,FThe handful of ITV 1 regions that were
-OL,19,Flargely unaffected by the problems will
-OL,20,Fhave heard an apology at 6.40pm and 7pm
-OL,21,Fby the live network ITV 1 announcer.
+OL,6,FConsequently, output from the regional
+OL,7,Fstudios remained on air for quite some
+OL,8,Ftime beyond the regional news slot.
+OL,10,FMost of the affected regions quickly
+OL,11,Fput up an animated version of their
+OL,12,Frespective ITV regional logos; some
+OL,13,Fremained on their programme endboards.
+OL,15,FOne-by-one, the affected regions began
+OL,16,Fto switch back to the national
+OL,17,Fschedule, with the final region
+OL,18,Frestored to normal shortly after 7pm,
+OL,19,Fminutes into an edition of The Chase.
 OL,23,EPub: 06-Apr-2026Upppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,142,140,200,120,0,100
@@ -105,19 +101,23 @@ PN,14105
 SC,0005
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F141A1775523444
+OL,0,        ECIMSBWebfax 1   F141A1775560262
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G5/5
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCITV 1 playout fault disrupts
 OL,4,Cregional and national news
 OL,5,
-OL,6,FSTV (in Scotland) ` which has its own
-OL,7,Fplayout operation and is run
-OL,8,Findependently of ITV plc (which runs
-OL,9,Fthe ITV franchises in England, Wales
-OL,10,Fand Northern Ireland) ` is believed to
-OL,11,Fhave been unaffected by the playout
-OL,12,Ffault at Red Bee.
+OL,6,FThe handful of ITV 1 regions that were
+OL,7,Flargely unaffected by the problems will
+OL,8,Fhave heard an apology at 6.40pm and 7pm
+OL,9,Fby the live network ITV 1 announcer.
+OL,11,FSTV (in Scotland) ` which has its own
+OL,12,Fplayout operation and is run
+OL,13,Findependently of ITV plc (which runs
+OL,14,Fthe ITV franchises in England, Wales
+OL,15,Fand Northern Ireland) ` is believed to
+OL,16,Fhave been unaffected by the playout
+OL,17,Ffault at Red Bee.
 OL,23,EPub: 06-Apr-2026Upppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,142,140,200,120,0,100@
