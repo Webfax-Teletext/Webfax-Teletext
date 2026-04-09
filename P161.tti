@@ -1,26 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1775661069
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1775703865
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FA band of
-OL,6,Frain will move across Northern Ireland
-OL,7,Fand Scotland. Low cloud and patchy fog
-OL,8,Fextending east across parts of England
-OL,9,Fand Wales but remaining dry with the
-OL,10,Fclearest skies in the east. A mild
-OL,11,Fnight away from northwest.
+OL,5,CToday:FEarly low cloud and fog in the
+OL,6,Fsoutheast clears to bring warm sunny
+OL,7,Fspells. A band of rain moves
+OL,8,Feastwards. Turning much cooler behind
+OL,9,Fwith blustery showers, some heavy with
+OL,10,Fhail, thunder, and snow over northern
+OL,11,Fhigh ground.
 OL,12,
-OL,13,CThursday:FRain followed by cooler and
-OL,14,Fshowery weather will continue to move
-OL,15,Fsoutheastwards across the UK
-OL,16,Fthroughout Thursday. Remaining dry and
-OL,17,Fwarm across the southeast until later
-OL,18,Fon.
+OL,13,CTonight:FShowers persist across
+OL,14,Fnorthern and northwestern Scotland
+OL,15,Fovernight. Elsewhere largely dry with
+OL,16,Flong clear spells, cloud increasing
+OL,17,Flater in the south and west. A colder
+OL,18,Fnight brings patchy rural frost.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1775703865
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FWintry showers affect northern
+OL,6,FScotland early. Elsewhere, a cold
+OL,7,Fstart in the sunshine. Later, heavy
+OL,8,Frain and strong winds spread from
+OL,9,FNorthern Ireland into the west, with
+OL,10,Fcoastal gales.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
