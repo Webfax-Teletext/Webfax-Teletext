@@ -1,26 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1775833867
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1775880269
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRain, heavy
-OL,6,Fat times, edging slowly eastwards
-OL,7,Fthrough the evening and overnight.
-OL,8,FSome snow possible is also over the
-OL,9,FScottish mountains. Clear spells and
-OL,10,Fblustery showers following. Windy for
-OL,11,Fall, with gales in the northwest.
+OL,5,CToday:FRain across central and eastern
+OL,6,Fareas soon clearing. Showers following
+OL,7,Ffor most, these heavy in Northern
+OL,8,FIreland and western Scotland, with a
+OL,9,Frisk of hail and thunder. Windy for
+OL,10,Fall with coastal gales in the west.
+OL,11,FTemperatures near average.
 OL,12,
-OL,13,CSaturday:FRain across central and
-OL,14,Feastern areas soon clearing. Showers
-OL,15,Ffollowing for most, these heavy in
-OL,16,FNorthern Ireland and western Scotland.
-OL,17,FWindy with coastal gales in the west.
-OL,18,FTemperatures near average.
+OL,13,CTonight:FFurther blustery showers with
+OL,14,Flonger spells of rain likely across
+OL,15,Fthe northwest. However some eastern
+OL,16,Fcounties will remain dry with clear
+OL,17,Fspells. Windy with coastal gales in
+OL,18,Fthe northwest.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1775880269
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FAnother day of sunny spells
+OL,6,Fand blustery showers, a continued risk
+OL,7,Fof hail and thunder, particularly in
+OL,8,Fthe north and west of the country.
+OL,9,FFeeling chilly with strong gusty winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
