@@ -2,7 +2,7 @@ PN,49801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,49802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,49803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W~k4~sj5j5~s1              V `8l|pG3/21
 OL,2,W/*%+,"-/.!,.!T,,,,,,,,,,,,$Vx!`~;#)0T,,
 OL,3,CINDEX for UK national     Vh!k~=0` i
@@ -74,7 +74,7 @@ PN,49804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W{$~k4{$k4~sjw=        G     R`pG4/21
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -100,7 +100,7 @@ PN,49805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G5/21
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -126,7 +126,7 @@ PN,49806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W~+$ ~sh7}h7sj5 ~{4~k4k4 Rj4 |}0G6/21
 OL,2,W+.! +,*%/"-'"-$/*%/*%/.!R`~5T,,,,
 OL,3,CRegional news INDEX   R||0
@@ -152,7 +152,7 @@ PN,49807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G7/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -178,7 +178,7 @@ PN,49808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G8/21
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -203,7 +203,7 @@ PN,49809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G9/21
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -229,7 +229,7 @@ PN,49810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,GS/Whw1~k4~c1 hw}h7}j7}   R``}0 G10/21
 OL,2,GSEW"-$/*%+.!+,*%/*%/*-'T(,Rj<T(,,,,,
 OL,3,CRegional news INDEX       R"ow0
@@ -237,16 +237,17 @@ OL,4,                           R`j5  `~~5
 OL,5,BThe latest updates from   R}}|~'
 OL,6,BITV News Meridian       R"?/w3'##+#
 OL,7,                           R! "
-OL,8,G411FSix men jailed for violent
-OL,9,Fburglary which left two people
-OL,10,Fseriously injured
-OL,12,G412FMan in his 70s dies in collision
-OL,13,Fwith a car on village road
-OL,15,G413FCash reward offered as search
-OL,16,Fcontinues for arsonists who set fire
-OL,17,Fto gym
-OL,19,G414FReform UK loses to Green Party in
-OL,20,Fby-election at 'flagship' council
+OL,8,G411FMan convicted of sharing
+OL,9,F'extremely graphic' terrorist videos
+OL,10,Fon social media
+OL,12,G412FSix men jailed for violent
+OL,13,Fburglary which left two people
+OL,14,Fseriously injured
+OL,16,G413FMan in his 70s dies in collision
+OL,17,Fwith a car on village road
+OL,19,G414FCash reward offered as search
+OL,20,Fcontinues for arsonists who set fire
+OL,21,Fto gym
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -254,7 +255,7 @@ PN,49811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}G11/21
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -262,16 +263,17 @@ OL,4,                             R"{4
 OL,5,BThe latest updates from      R?}
 OL,6,BITV News Tyne Tees            Rt
 OL,7,                               R*'#/'#
-OL,8,G421FChild dies after suspected dog bite
-OL,10,G422FFormer detective jailed after
-OL,11,Fbombarding rape victim with drunken
-OL,12,Fmessages
-OL,14,G423FWhich North East councils have
-OL,15,Felections in May?
-OL,17,G424FMan who died in Hartlepool
-OL,18,Fcollision following police chase named
-OL,20,G425FMan jailed for attempted
-OL,21,Fcarjacking in Sunderland
+OL,8,G421FMan is missing after 'entering
+OL,9,Fwater' following alleged altercation
+OL,10,Fon bridge
+OL,12,G422FChild dies after suspected dog bite
+OL,14,G423FFormer detective jailed after
+OL,15,Fbombarding rape victim with drunken
+OL,16,Fmessages
+OL,18,G424FWhich North East councils have
+OL,19,Felections in May?
+OL,21,G425FMan who died in Hartlepool
+OL,22,Fcollision following police chase named
 OL,23,Tppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg News CClean FeedFThis Day
 FL,499,301,140,120,000,100
@@ -279,7 +281,7 @@ PN,49812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W~s1j5 hw1~k4~c1 hw}h7}j7}   RxG12/21
 OL,2,W,.!+.-' "-$/*%+.!+,*%/*%/*-'T($RuT,,,
 OL,3,CRegional news INDEX        Rpp`~?
@@ -305,7 +307,7 @@ PN,49813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W~k4 jw=hw1 hw}h7}j7}         R0G13/21
 OL,2,W/*% /*%/"-$+,*%/*%/*-'T(,,,R`p~}T(,,,
 OL,3,CRegional news INDEX        R~u
@@ -330,7 +332,7 @@ PN,49814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,Wj5hw}j5 ~shws        G    R*dx|G14/21
 OL,2,W+.-'*%/"-$+,(,'T(,,,,,,,,,,$R8o'T(,,,
 OL,3,CRegional news INDEX    G     R*5
@@ -355,7 +357,7 @@ PN,49815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W|4|h4|||h||4|||h||4|4|           G15/21
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -380,7 +382,7 @@ PN,49816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W{${$~+$ ~k4~k4~s               G16/21
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -406,27 +408,26 @@ PN,49817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W{${$~+$ k7j5j5~k4             G17/21
 OL,2,W/.!/.!+.! *%"-/.!+.!V,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 11 APR
-OL,4,G1300FRugby League Challenge Cup Hull
-OL,5,     FKR v York Knights
-OL,6,     GHull Kingston Rovers face York
-OL,7,     GKnights in the Rugby League
-OL,8,     GChallenge Cup quarter-finals.
-OL,9,G1530FFlog It!
-OL,10,     GPaul Martin presents from
-OL,11,     GSouthwell near Nottingham, where
-OL,12,     Gexperts Caroline Hawley and Mark
-OL,13,     GStacey find antiques and
-OL,14,     Gcollectibles for auction.
-OL,15,G1625FWomen's Six Nations: Wales v
-OL,16,     FScotland
-OL,17,     GThe first round of the 2026
-OL,18,     GWomen's Six Nations finishes with
-OL,19,     GWales v Scotland in Cardiff.
+OL,4,G1530FFlog It!
+OL,5,     GPaul Martin presents from
+OL,6,     GSouthwell near Nottingham, where
+OL,7,     Gexperts Caroline Hawley and Mark
+OL,8,     GStacey find antiques and
+OL,9,     Gcollectibles for auction.
+OL,10,G1625FWomen's Six Nations: Wales v
+OL,11,     FScotland
+OL,12,     GThe first round of the 2026
+OL,13,     GWomen's Six Nations finishes with
+OL,14,     GWales v Scotland in Cardiff.
+OL,15,G1900FEric Morecambe: My Comedy Hero by
+OL,16,     FMiranda Hart
+OL,17,     GMiranda Hart explores the life of
+OL,18,     Gher comedy idol, Eric Morecambe.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -434,26 +435,26 @@ PN,49818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W"!j5 n5                       G18/21
 OL,2,W/ / "'  *%V,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 11 APR
-OL,4,G1245FITV Racing: Grand National
-OL,5,     FFestival
-OL,6,     GEd Chamberlin presents live
-OL,7,     Gcoverage of the opening races on
-OL,8,     GGrand National Day, plus the
-OL,9,     Gbuild-up continues to the big
-OL,10,     Grace.
-OL,11,G1515FITV Racing: Grand National Live
-OL,12,     GEd Chamberlin presents coverage
-OL,13,     Gof the 2026 Randox Grand
-OL,14,     GNational, live from Aintree
-OL,15,     Gracecourse, followed by an in-
-OL,16,     Gdepth review of the race.
-OL,17,G1700FITV Evening News
-OL,18,G1710FRegional News
+OL,4,G1515FITV Racing: Grand National Live
+OL,5,     GEd Chamberlin presents coverage
+OL,6,     Gof the 2026 Randox Grand
+OL,7,     GNational, live from Aintree
+OL,8,     Gracecourse, followed by an in-
+OL,9,     Gdepth review of the race.
+OL,10,G1700FITV Evening News
+OL,11,G1710FRegional News
+OL,12,G1720FMillionaire Hot Seat
+OL,13,     GJeremy Clarkson hosts the quiz
+OL,14,     Gwhere six players race to answer
+OL,15,     Gtimed questions and hope to win
+OL,16,     Gone million pounds, but it all
+OL,17,     Gcomes down to who's in the Hot
+OL,18,     GSeat at the end.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -461,24 +462,27 @@ PN,49819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,W~+$z5~{4~k4~k4~sj5  ox4         G19/21
 OL,2,W+.!/*%/*%/*%/*%+,"-$  *%V,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 11 APR
-OL,4,G1450FFour in a Bed
-OL,5,     GThe week's last visit is to
-OL,6,     GValley View in Pendle, Lancashire
-OL,7,     Gwhere sisters Sharon and Deby
-OL,8,     Ghope the B&Bers get onboard with
-OL,9,     Gglamping. But one guest thinks
-OL,10,     Ghis pod is like a student flat...
-OL,11,G1520FFour in a Bed
-OL,12,     GIt's payment day, and after a
-OL,13,     Gcompetition full of controversial
-OL,14,     Gcomments and divisive opinions,
-OL,15,     Gthe B&Bers have plenty of scores
-OL,16,     Gto settle. But who's won the week?
+OL,4,G1550FKirstie and Phil's Love It or
+OL,5,     FList It
+OL,6,     GIn Caterham, Ruth and Ken are
+OL,7,     Gtorn over their town house. Can
+OL,8,     GPhil's open-plan options and all-
+OL,9,     Gimportant garage pip Kirstie's
+OL,10,     Gpersuasive plan to the garden
+OL,11,     Gpost?
+OL,12,G1655FChannel 4 News
+OL,13,G1725FTransformers: Rise of the Beasts
+OL,14,     GSeventh instalment in the
+OL,15,     Gfrenetic sci-fi franchise. The
+OL,16,     GMaximals - part animal, part
+OL,17,     Grobot - join the Autobots to
+OL,18,     Gbattle against planet-munching
+OL,19,     GUnicron and his Terrorcon cronies.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
@@ -486,7 +490,7 @@ PN,49820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,Wos!                              G20/21
 OL,2,W,.!V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -512,29 +516,26 @@ PN,49821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F498A1775916666
+OL,0,        ECIMSBWebfax 1   F498A1775920265
 OL,1,Wk7hw}j5 z%h7}h7s jw=j5~+$~s1   G21/21
 OL,2,W*%*%/"-$/*%/*%/"-' *% *%+.!,.!V,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 11 APR
-OL,4,G1335FThe Silent Enemy
-OL,5,     G1957. Action. Directed by William
-OL,6,     GFairchild. Stars Laurence Harvey,
-OL,7,     GDawn Addams & Michael Craig.
-OL,8,     GDuring WWII, the British must
-OL,9,     Gprevent the Italian Navy from
-OL,10,     Gattaching mines to their warships.
-OL,11,G1555FCinebox Memories
-OL,12,     GA nostalgic look back at British
-OL,13,     Gsoul band Hot Chocolate as they
-OL,14,     Gperform the 1974 song Emma.
-OL,15,G1600FWhiplash
-OL,16,     GSarong. 1961. Stars Peter Graves,
-OL,17,     GAnthony Wickert & Joe McCormick.
-OL,18,     GCobb escorts a group of women on
-OL,19,     Gtheir way to take up servant
-OL,20,     Gduties but he is concerned about
-OL,21,     Gthe honesty of the man organizing.
+OL,4,G1600FWhiplash
+OL,5,     GSarong. 1961. Stars Peter Graves,
+OL,6,     GAnthony Wickert & Joe McCormick.
+OL,7,     GCobb escorts a group of women on
+OL,8,     Gtheir way to take up servant
+OL,9,     Gduties but he is concerned about
+OL,10,     Gthe honesty of the man organizing.
+OL,11,G1635FOur Man in Havana
+OL,12,     G1960. Comedy. Director: Carol
+OL,13,     GReed. Stars Alec Guinness,
+OL,14,     GMaureen O'Hara & Burl Ives.
+OL,15,     GVacuum cleaner salesman Jim
+OL,16,     Gagrees to work as an agent and
+OL,17,     Grecruit agents for the British
+OL,18,     GSecret Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,499,200,140,260,000,100
