@@ -1,25 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1776269466
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1776312233
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FHeavy rain
-OL,6,Fquickly clearing to the east this
-OL,7,Fevening, then a mix of clear spells
-OL,8,Fand showers, these continuing
-OL,9,Fovernight. Showers heaviest and most
-OL,10,Ffrequent in the northwest. Staying
-OL,11,Fmild.
+OL,5,CToday:FSunny spells and showers,
+OL,6,Fthough many places staying. Heaviest
+OL,7,Fof the showers across the north with
+OL,8,Fisolated hail and thunder with gusty
+OL,9,Fwinds. Cloud and rain spread from the
+OL,10,Fsouthwest later. Remaining warm in the
+OL,11,Fsoutheast.
 OL,12,
-OL,13,CThursday:FA bright and breezy day,
-OL,14,Fwith sunny spells and showers. Showers
-OL,15,Fmost frequent in the north, some heavy
-OL,16,Fwith the risk of hail and thunder.
-OL,17,FFeeling warm in the sunshine.
+OL,13,CTonight:FEarly showers fade, leaving
+OL,14,Fclear spells. Cloud and rain spread in
+OL,15,Ffrom the west turning heavy and gusty
+OL,16,Fin the north. Staying mild, with
+OL,17,Fisolated mist in the southeast.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1776312233
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FMist clears the southeast to a
+OL,6,Flargely dry start with early sunny
+OL,7,Fspells. Rain moves eastwards across
+OL,8,Fthe country through the day. Heavy
+OL,9,Fshowers follow in the northwest. Winds
+OL,10,Fstrengthening.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
