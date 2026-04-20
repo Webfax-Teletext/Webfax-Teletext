@@ -1,27 +1,41 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1776615077
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1776657870
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FShowers will
-OL,6,Fcontinue to affect the northeast of
-OL,7,FScotland overnight, with increasing
-OL,8,Fcloud also generating a few showers
-OL,9,Fnear to the east coast of England
-OL,10,Flater. Becoming mostly dry elsewhere
-OL,11,Fwith clear periods. Some fog and frost
-OL,12,Fforming.
-OL,13,
-OL,14,CMonday:FEarly showers in the north and
-OL,15,Feast, breaking out more widely during
-OL,16,Fthe day, and turning locally heavy.
-OL,17,FSome southern and western areas
-OL,18,Fstaying mostly fine, with some warm
-OL,19,Fsunshine.
+OL,5,CToday:FEarly showers in the north and
+OL,6,Feast, breaking out more widely during
+OL,7,Fthe day, and turning locally heavy.
+OL,8,FSome southern and western areas
+OL,9,Fstaying mostly fine and dry, with some
+OL,10,Fwarm sunshine.
+OL,11,
+OL,12,CTonight:FShowers gradually fading this
+OL,13,Fevening. Clear spells at first, but
+OL,14,Fcloud will thicken in the east with
+OL,15,Fdrizzly outbreaks. Strengthening winds
+OL,16,Fin the south.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1776657870
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CTuesday:FGrey skies at first in the
+OL,6,Feast with drizzly outbreaks. Turning
+OL,7,Fdrier and brighter through the day
+OL,8,Fwith warm sunny spells for most. Windy
+OL,9,Fin the south.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
