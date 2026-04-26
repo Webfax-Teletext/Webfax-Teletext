@@ -1,27 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1777129865
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1777172625
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FLow cloud
-OL,6,Ftowards the northeast will become more
-OL,7,Fextensive across eastern and some
-OL,8,Fcentral parts of the UK tonight. Also
-OL,9,Frather cloudy with patchy rain
-OL,10,Fdeveloping across western Scotland.
-OL,11,FElsewhere, dry with clear spells and
-OL,12,Fsome mist and fog.
-OL,13,
-OL,14,CSunday:FEarly low cloud and any fog
-OL,15,Flifting in the east, then warm hazy
-OL,16,Fsunshine England and Wales. However,
-OL,17,Fcloudier with showers Scotland and
-OL,18,FNorthern Ireland, and isolated showers
-OL,19,Felsewhere later.
+OL,5,CToday:FEarly low cloud and any fog
+OL,6,Flifting in the east, then warm hazy
+OL,7,Fsunshine England and Wales. However,
+OL,8,Fcloudier with showers Scotland and
+OL,9,FNorthern Ireland, and isolated showers
+OL,10,Felsewhere later in the west.
+OL,11,
+OL,12,CTonight:FCloudy across Scotland with
+OL,13,Fpatchy rain, heavy at times in the
+OL,14,Fnorth. Elsewhere, mostly dry though
+OL,15,Fthe odd shower still possible with
+OL,16,Fmist and fog patches in the west.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1777172625
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CMonday:FSunny in the south on Monday.
+OL,6,FCloudier to the north with rain or
+OL,7,Fshowers. These eventually sinking
+OL,8,Fsouthwards into central England,
+OL,9,Fturning heavy and possibly thundery
+OL,10,Flater in the day.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
