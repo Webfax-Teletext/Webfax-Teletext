@@ -2,18 +2,48 @@ PN,19101
 SC,0001
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F191A1776700609
-OL,1,W~sh7}h7sj5~k4~shw1{$h7}h7s      G1/2
+OL,0,        ECIMSBWebfax 1   F191A1777331154
+OL,1,W~sh7}h7sj5~k4~shw1{$h7}h7s      G1/3
 OL,2,W+,*%/"-'*%/*%+,"-$/*%/*%/"-'V(,,,,,,,,,
-OL,3,CFreeview work w/b 20 Apr: ENGLAND
+OL,3,CFreeview work w/b 27 Apr: ENGLAND
 OL,4,
-OL,5,GIMPACT:FScreen may go black on some or
-OL,6,Fall channels.
+OL,5,GIMPACT:FPixelation or flickering on
+OL,6,Fsome or all channels.
 OL,7,
-OL,8,GTRANSMITTERS AFFECTED:FBilsdale,
-OL,9,FBrighton Central, Bromsgrove, Clun,
-OL,10,FFalstone, High Wycombe, Kimmeragh,
-OL,11,FOverstrand, Skinningrove, Walsden.
+OL,8,GTRANSMITTERS AFFECTED:FAshbourne,
+OL,9,FBeacon Hill, Belmont, Bilsdale,
+OL,10,FBluebell Hill, Brierley Hill, Bristol
+OL,11,FIlchester Crescent, Bristol Kings
+OL,12,FWeston, Caldbeck, Chatton, Crystal
+OL,13,FPalace, Dover, Emley Moor, Fenham,
+OL,14,FFenton, Hannington, Haslingden,
+OL,15,FHastings, Heathfield, Hemel Hempstead,
+OL,16,FHuntshaw Cross, Idle, Keighley, Lark
+OL,17,FStoke, Malvern, Mendip, Midhurst,
+OL,18,FNottingham, Oliver's Mount, Oxford,
+OL,19,FPontop Pike, Redruth, Ridge Hill,
+OL,20,FRowridge, Sandy Heath, Selkirk,
+OL,21,FSudbury, Sutton Coldfield, Tacolneston,
+OL,22,FThe Wrekin, Tunbridge Wells, Waltham,
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BEngineering CNat TV FWeather
+FL,192,190,200,160,100,100
+PN,19102
+SC,0002
+CT,3,C
+PS,c008
+OL,0,        ECIMSBWebfax 1   F191A1777331154
+OL,1,W~sh7}h7sj5~k4~shw1{$h7}h7s      G2/3
+OL,2,W+,*%/"-'*%/*%+,"-$/*%/*%/"-'V(,,,,,,,,,
+OL,3,CFreeview work w/b 27 Apr: ENGLAND
+OL,4,
+OL,5,G...continued
+OL,6,FWhitehawk Hill.
+OL,7,
+OL,8,
+OL,9,
+OL,10,
+OL,11,
 OL,12,
 OL,13,
 OL,14,
@@ -28,26 +58,26 @@ OL,22,
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BEngineering CNat TV FWeather
 FL,192,190,200,160,100,100
-PN,19102
-SC,0002
+PN,19103
+SC,0003
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F191A1776700609
-OL,1,W~sh7}h7sj5~k4~shw1{$h7}h7s      G2/2
+OL,0,        ECIMSBWebfax 1   F191A1777331154
+OL,1,W~sh7}h7sj5~k4~shw1{$h7}h7s      G3/3
 OL,2,W+,*%/"-'*%/*%+,"-$/*%/*%/"-'V(,,,,,,,,,
-OL,3,CFreeview work w/b 20 Apr: ENGLAND
+OL,3,CFreeview work w/b 27 Apr: ENGLAND
 OL,4,
-OL,5,GIMPACT:FPixelation or flickering on
-OL,6,Fsome or all channels.
+OL,5,GIMPACT:FScreen may go black on some or
+OL,6,Fall channels.
 OL,7,
-OL,8,GTRANSMITTERS AFFECTED:FAshbourne,
-OL,9,FBelmont, Caldbeck, Caradon Hill,
-OL,10,FChatton, Crystal Palace, Dover, Fenham,
-OL,11,FHaslingden, Lark Stoke, Midhurst,
-OL,12,FOliver's Mount, Oxford, Pontop Pike,
-OL,13,FRedruth, Reigate, Rowridge, Salisbury,
-OL,14,FSelkirk, Tacolneston, The Wrekin,
-OL,15,FWhitehawk Hill.
+OL,8,GTRANSMITTERS AFFECTED:FAllesley Park,
+OL,9,FBatley, Brighton Central, Bromsgrove,
+OL,10,FClun, Cornholme, Dawlish, Elham, Exeter
+OL,11,FSt Thomas, Eyemouth, Heyshaw, Kenley,
+OL,12,FLydden, North Oldham, Pillowell HP,
+OL,13,FSiston, Winterborne Stickland.
+OL,14,
+OL,15,
 OL,16,
 OL,17,
 OL,18,
