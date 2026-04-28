@@ -1,26 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1777306270
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1777349075
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FHeavy
-OL,6,Fshowers clearing southwards this
-OL,7,Fevening leaving behind large amounts
-OL,8,Fof cloud and some patchy drizzle
-OL,9,Facross eastern areas. Western parts
-OL,10,Fwill see some clearer spells allowing
-OL,11,Fsome patchy fog to develop across
-OL,12,FNorthern Ireland and western Scotland.
-OL,13,
-OL,14,CTuesday:FA grey start for many with
-OL,15,Fdrizzly outbreaks at first. Cloud will
-OL,16,Fbreak up from the east allowing plenty
-OL,17,Fof sunshine to develop later. Breezy
-OL,18,Fand feeling fresher.
+OL,5,CToday:FA cloudy start for England and
+OL,6,FWales, with a few spots of rain or
+OL,7,Fdrizzle. Brightening up from the east
+OL,8,Fas the day progresses. Sunny spells
+OL,9,Ffor Northern Ireland and Scotland. A
+OL,10,Fnotably cooler day, with a chilly
+OL,11,Fnortheasterly breeze.
+OL,12,
+OL,13,CTonight:FDry, with long clear periods
+OL,14,Ffor most. Though generally cloudy
+OL,15,Facross the northeast. Patchy frost and
+OL,16,Ffog forming in the north, whilst the
+OL,17,Fsouth will remain rather breezy.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1777349075
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CWednesday:FMorning fog clearing to
+OL,6,Fleave a sunny day for most. Perhaps a
+OL,7,Ffew showers moving into the far
+OL,8,Fsouthwest of England. Windy in the
+OL,9,Fsouth. Feeling warm in the sunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
