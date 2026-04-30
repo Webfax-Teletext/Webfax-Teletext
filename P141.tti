@@ -2,7 +2,7 @@ PN,14101
 SC,0001
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F141A1777581027
+OL,0,        ECIMSBWebfax 1   F141A1777583466
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G1/3
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCPower supply issue takes BBC
@@ -29,7 +29,7 @@ PN,14102
 SC,0002
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F141A1777581027
+OL,0,        ECIMSBWebfax 1   F141A1777583466
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G2/3
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCPower supply issue takes BBC
@@ -54,7 +54,7 @@ PN,14103
 SC,0003
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 1   F141A1777581027
+OL,0,        ECIMSBWebfax 1   F141A1777583466
 OL,1,W~+$ hw1~{4~k4 ~shw1~sj7}         G3/3
 OL,2,W+.!+,"-$/*%/*% / "-$+,*-'U(,,,,,,,,,,,,
 OL,3,GBLOOPERSCPower supply issue takes BBC
@@ -65,6 +65,10 @@ OL,7,Fon-screen scoreboard was briefly
 OL,8,Funavailable. There was also a loss of
 OL,9,Fsound for a few minutes before normal
 OL,10,Fservice was fully resumed.
+OL,12,FBBC Two Northern Ireland and BBC Two
+OL,13,FWales remained with network BBC Two for
+OL,14,Fthe entire breakdown and filler
+OL,15,Fprogramme.
 OL,23,EPub: 30-Apr-2026Upppppppppppppppppppppp
 OL,24,ANext PageBClean FeedCNat TVFOn This Day
 FL,142,140,200,120,0,100@
