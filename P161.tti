@@ -1,27 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1777561869
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1777608250
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRather
-OL,6,Fcloudy and breezy with some rain in
-OL,7,Fthe southwest and parts of Wales and
-OL,8,FNorthern Ireland, edging slowly
-OL,9,Fnortheastwards. Otherwise a dry and
-OL,10,Fclear night. Chilly in the east and
-OL,11,Fnortheast. A mild night in the south
-OL,12,Fand west.
-OL,13,
-OL,14,CFriday:FShowers in the west and
-OL,15,Fsouthwest will spread northeastwards.
-OL,16,FTurning heavy in places with some
-OL,17,Fthundery bursts. Feeling much warmer
-OL,18,Fin the east with some sunshine.
-OL,19,FFeeling humid for many.
+OL,5,CToday:FAny early low cloud clearing to
+OL,6,Fleave a very warm day with spells of
+OL,7,Fsunshine. A band of cloud and some
+OL,8,Fshowers however will move eastwards
+OL,9,Fthroughout the day with a few heavier
+OL,10,Fand thundery showers developing later.
+OL,11,
+OL,12,CTonight:FShowers clearing to the east
+OL,13,Fthis evening leaving many dry with
+OL,14,Fclear spells. Some rain or showers
+OL,15,Fwill continue across northern Scotland
+OL,16,Fand returning later in the southwest.
+OL,17,FMild.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1777608250
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FRather cloudy for most with
+OL,6,Foutbreaks of rain or showers, possibly
+OL,7,Fheavy and thundery, especially over
+OL,8,FNorthern Ireland. Driest in eastern
+OL,9,FEngland with warm spells of sunshine
+OL,10,Fhere until later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
