@@ -1,27 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1777651869
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1777694646
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FShowers,
-OL,6,Flocally heavy, clearing to the east
-OL,7,Fthis evening, leaving many areas dry
-OL,8,Fwith clear spells. Some rain or
-OL,9,Fshowers will continue across northern
-OL,10,FScotland, with rain returning later to
-OL,11,Fthe southwest. A chilly night,
-OL,12,Fespecially in some rural spots.
-OL,13,
-OL,14,CSaturday:FRather cloudy for most with
-OL,15,Foutbreaks of rain or showers, possibly
-OL,16,Fheavy and thundery, especially over
-OL,17,FNorthern Ireland. Driest in eastern
-OL,18,FEngland with warm spells of sunshine
-OL,19,Fhere until later.
+OL,5,CToday:FRather cloudy for most with
+OL,6,Foutbreaks of rain or showers, possibly
+OL,7,Fheavy and thundery, especially over
+OL,8,FNorthern Ireland. Driest in eastern
+OL,9,FEngland with warm spells of sunshine
+OL,10,Fhere until later with rain soon
+OL,11,Farriving from the south.
+OL,12,
+OL,13,CTonight:FA wet end to the day in the
+OL,14,Fsouth with outbreaks of rain, locally
+OL,15,Fheavy, pushing across England and
+OL,16,FWales. Cloudy for Scotland with
+OL,17,Fshowers in Northern Ireland slowly
+OL,18,Feasing.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1777694646
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FPersistent rain pushing
+OL,6,Fnorthwards, mainly lingering in
+OL,7,Fnorthern England. Sunshine and
+OL,8,Fshowers, locally heavy, breaking out
+OL,9,Fin the south with the driest
+OL,10,Fconditions across Scotland.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
