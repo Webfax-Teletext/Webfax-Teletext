@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 1   F1fcA1778004670
+OL,0,        ECIMSBWebfax 1   F1fcA1778008271
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1778004669;
-OL,10,GService: Webfax 1 - 30586 3b77348efa9
-OL,11,FLast Update: 05/05/2026 19:11:09  G1/2
-OL,13,Ageneric/lottery            G04/05-15:07
-OL,14,Ageneric/tube_status        G04/05-15:07
-OL,15,CitvSport/border            G04/05-15:07
-OL,16,CitvSport/calendar          G04/05-15:07
-OL,17,CitvSport/central           G04/05-15:07
-OL,18,CitvSport/channel           G04/05-15:07
-OL,19,CitvSport/granada           G04/05-15:07
-OL,20,CitvSport/meridian          G04/05-15:07
-OL,21,CitvSport/tyne-tees         G04/05-15:07
-OL,22,CitvSport/utv               G04/05-15:07
-OL,23,CitvSport/wales             G04/05-15:07
+OL,25,1778008270;
+OL,10,GService: Webfax 1 - 30587 51b56d38144
+OL,11,FLast Update: 05/05/2026 20:11:10  G1/2
+OL,13,CbbcSport/Horse Racing      G04/05-19:16
+OL,14,Cbbc_news_papers            G04/05-19:16
+OL,15,Ccharts/singles             G04/05-19:16
+OL,16,Cgeneric/f1                 G04/05-19:16
+OL,17,Cgeneric/league-one         G04/05-19:16
+OL,18,Ageneric/lottery            G04/05-15:07
+OL,19,Cgeneric/pollen_forecast    G04/05-19:16
+OL,20,Ageneric/tube_status        G04/05-15:07
+OL,21,Cgeneric/weather_warnings   G04/05-19:16
+OL,22,CitvSport/border            G04/05-15:07
+OL,23,CitvSport/calendar          G04/05-15:07
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 1   F1fcA1778004670
+OL,0,        ECIMSBWebfax 1   F1fcA1778008271
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,7 +42,14 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1778004669;
-OL,10,GService: Webfax 1 - 30586 3b77348efa9
-OL,11,FLast Update: 05/05/2026 19:11:09  G2/2
-OL,13,CitvSport/westcountry       G04/05-15:07
+OL,25,1778008270;
+OL,10,GService: Webfax 1 - 30587 51b56d38144
+OL,11,FLast Update: 05/05/2026 20:11:10  G2/2
+OL,13,CitvSport/central           G04/05-15:07
+OL,14,CitvSport/channel           G04/05-15:07
+OL,15,CitvSport/meridian          G04/05-15:07
+OL,16,CitvSport/tyne-tees         G04/05-15:07
+OL,17,CitvSport/utv               G04/05-15:07
+OL,18,CitvSport/wales             G04/05-15:07
+OL,19,CitvSport/westcountry       G04/05-15:07
+OL,20,CiNMS/comments.json         G04/05-19:16
