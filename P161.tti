@@ -1,25 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1778193330
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1778213054
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FA band of
-OL,6,Frain will move southeastwards across
-OL,7,FScotland and Northern Ireland. Drier
-OL,8,Felsewhere, with clear spells and a
-OL,9,Fscattering of showers. Patchy fog and
-OL,10,Ffrost under the clearest skies.
-OL,11,
-OL,12,CFriday:FBands of rain moving
-OL,13,Fsoutheastwards across Scotland,
-OL,14,FNorthern Ireland and northern England.
-OL,15,FSunny spells elsewhere, but also a
-OL,16,Fscattering of showers. Warm in the
-OL,17,Fsouth, chilly in the north.
+OL,5,CToday:FCloudy across the north with
+OL,6,Fsome heavy shower for northern England
+OL,7,Flater. Elsewhere, sunny spells with
+OL,8,Ffurther showers developing, heaviest
+OL,9,Facross Wales, the Midlands, southern
+OL,10,Fand eastern England. Slightly warmer
+OL,11,Ffor most but cooler across the
+OL,12,Fnorthwest.
+OL,13,
+OL,14,CTonight:FEvening showers fade leaving
+OL,15,Fclear spells. Some rain may persist in
+OL,16,Ffar northern England. Local frost in
+OL,17,Fthe northwest, with rural grass frost
+OL,18,Fand isolated fog patches south.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1778213054
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FBand of rain moves south
+OL,6,Facross Scotland, Northern Ireland and
+OL,7,Fnorthern England. Scattered heavy
+OL,8,Fshowers in Wales and the Midlands.
+OL,9,FBrighter further north. Warm in the
+OL,10,Fsouth, colder further north.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
