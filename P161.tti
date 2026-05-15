@@ -1,25 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1778778663
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1778817908
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FShowers
-OL,6,Ftending to ease through the evening
-OL,7,Fand overnight, with clear spells for
-OL,8,Fmany. Turning chilly, and under the
-OL,9,Fclearest skies a touch of frost is
-OL,10,Fpossible in the north.
-OL,11,
-OL,12,CFriday:FDrier and brighter for many,
-OL,13,Fwith spells of sunshine. A few showers
-OL,14,Fremain possible, perhaps heavy in the
-OL,15,Fsouth. Still a chilly northerly breeze
-OL,16,Fmeans temperatures will remain below
-OL,17,Faverage.
+OL,5,CToday:FDry with sunny spells for many.
+OL,6,FFurther showers are likely to affect
+OL,7,Fwindward coasts at first, with a few
+OL,8,Fscattered showers developing inland
+OL,9,Facross England and Wales, although not
+OL,10,Fas heavy as on Thursday. Feeling less
+OL,11,Fcold than recent days.
+OL,12,
+OL,13,CTonight:FA few showers will drift
+OL,14,Fsouthwards, but many areas dry with
+OL,15,Fclear spells. Cloud and rain arriving
+OL,16,Facross the far west towards dawn. A
+OL,17,Fpatchy frost possible in the
+OL,18,Fcountryside.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1778817908
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FA sunny morning for most.
+OL,6,FCloud and rain across the far west
+OL,7,Fwill slowly move eastwards as the day
+OL,8,Fprogresses, reaching the far east by
+OL,9,Flate evening. Still chilly.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
