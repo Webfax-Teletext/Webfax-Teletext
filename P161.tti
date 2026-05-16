@@ -1,24 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1778861473
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1778904284
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FA few
-OL,6,Fshowers will drift southwards, but
-OL,7,Fmany areas dry with clear spells.
-OL,8,FCloud and rain arriving across the far
-OL,9,Fwest towards dawn. A patchy frost
-OL,10,Fpossible in the countryside.
+OL,5,CToday:FA bright start for most but
+OL,6,Fgradually turning cloudier from the
+OL,7,Fwest with some patchy rain. The best
+OL,8,Fof the brightness across the east with
+OL,9,Fsome sunny spells. Temperatures a
+OL,10,Flittle closer to average for many.
 OL,11,
-OL,12,CSaturday:FA sunny morning for most.
-OL,13,FCloud and rain across the far west
-OL,14,Fwill slowly move eastwards as the day
-OL,15,Fprogresses, reaching the far east by
-OL,16,Flate evening. Still chilly.
+OL,12,CTonight:FRain will continue to clear
+OL,13,Feastwards overnight. Likely persisting
+OL,14,Facross east and southeast England and
+OL,15,Fthe Northern Isles by dawn. Skies
+OL,16,Fclearing elsewhere. Largely frost-free.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1778904284
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FUnsettled at times with
+OL,6,Fshowers and longer spells of rain,
+OL,7,Fthese may turn heavy. Plenty of
+OL,8,Fbrighter interludes as well. Feeling
+OL,9,Fwarmer than of late in any brighter
+OL,10,Fbreaks.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
