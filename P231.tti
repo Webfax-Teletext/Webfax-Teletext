@@ -1,7 +1,7 @@
 PN,23101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 1   F231A1779253496
+OL,0,        ECIMSBWebfax 1   F231A1779260760
 OL,1,W{${$~+$ ~k4~k4~s                G1/5
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -31,7 +31,7 @@ FL,232,200,140,260,000,100
 PN,23102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 1   F231A1779253496
+OL,0,        ECIMSBWebfax 1   F231A1779260760
 OL,1,W{${$~+$ ~k4~k4~s                G2/5
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -61,7 +61,7 @@ FL,232,200,140,260,000,100
 PN,23103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 1   F231A1779253496
+OL,0,        ECIMSBWebfax 1   F231A1779260760
 OL,1,W{${$~+$ ~k4~k4~s                G3/5
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -91,7 +91,7 @@ FL,232,200,140,260,000,100
 PN,23104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 1   F231A1779253496
+OL,0,        ECIMSBWebfax 1   F231A1779260760
 OL,1,W{${$~+$ ~k4~k4~s                G4/5
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -116,7 +116,7 @@ FL,232,200,140,260,000,100
 PN,23105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 1   F231A1779253496
+OL,0,        ECIMSBWebfax 1   F231A1779260760
 OL,1,W{${$~+$ ~k4~k4~s                G5/5
 OL,2,W/.!/.!+.! +.!/*%+,V(,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for
@@ -136,6 +136,8 @@ OL,15,     Gtopical debate.
 OL,16,G2340FNewscast
 OL,17,     GLighthearted discussion of the
 OL,18,     Gday's news.
+OL,19,G0010FWeather for the Week Ahead
+OL,20,G0015FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,232,200,140,260,000,100
