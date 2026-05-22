@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 1   F1fcA1779462670
+OL,0,        ECIMSBWebfax 1   F1fcA1779466274
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1779462669;
-OL,10,GService: Webfax 1 - 31081 3087df2dee1
-OL,11,FLast Update: 22/05/2026 16:11:09  G1/2
+OL,25,1779466273;
+OL,10,GService: Webfax 1 - 31082 fdd71468baf
+OL,11,FLast Update: 22/05/2026 17:11:13  G1/2
 OL,13,CbbcSport/Horse Racing      G14/05-18:29
 OL,14,Ccharts/singles             G16/05-02:46
 OL,15,Cgeneric/championship       G10/05-00:06
@@ -26,11 +26,11 @@ OL,19,Ageneric/lottery            G10/05-00:06
 OL,20,Cgeneric/prem_league        G21/05-14:16
 OL,21,Ageneric/tube_status        G10/05-00:06
 OL,22,Cgeneric/weather_warnings   G10/05-00:06
-OL,23,CitvNews/tyne-tees          G20/05-13:11
+OL,23,CitvSport/border            G21/05-15:03
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 1   F1fcA1779462670
+OL,0,        ECIMSBWebfax 1   F1fcA1779466274
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,16 +42,15 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1779462669;
-OL,10,GService: Webfax 1 - 31081 3087df2dee1
-OL,11,FLast Update: 22/05/2026 16:11:09  G2/2
-OL,13,CitvSport/border            G21/05-15:03
-OL,14,CitvSport/calendar          G10/05-00:06
-OL,15,CitvSport/central           G10/05-00:06
-OL,16,CitvSport/london            G20/05-11:06
-OL,17,CitvSport/meridian          G20/05-17:04
-OL,18,CitvSport/tyne-tees         G20/05-13:20
-OL,19,CitvSport/utv               G10/05-00:06
-OL,20,CitvSport/wales             G10/05-00:06
-OL,21,CitvSport/westcountry       G10/05-00:06
-OL,22,CiNMS/comments.json         G10/05-00:06
+OL,25,1779466273;
+OL,10,GService: Webfax 1 - 31082 fdd71468baf
+OL,11,FLast Update: 22/05/2026 17:11:13  G2/2
+OL,13,CitvSport/calendar          G10/05-00:06
+OL,14,CitvSport/central           G10/05-00:06
+OL,15,CitvSport/london            G20/05-11:06
+OL,16,CitvSport/meridian          G20/05-17:04
+OL,17,CitvSport/tyne-tees         G20/05-13:20
+OL,18,CitvSport/utv               G10/05-00:06
+OL,19,CitvSport/wales             G10/05-00:06
+OL,20,CitvSport/westcountry       G10/05-00:06
+OL,21,CiNMS/comments.json         G10/05-00:06
