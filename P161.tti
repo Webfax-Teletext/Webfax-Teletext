@@ -1,26 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1779376270
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1779419058
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FBreezy, with
-OL,6,Frain spreading northeastwards across
-OL,7,FNorthern Ireland and Scotland this
-OL,8,Fevening, then some clearer spells
-OL,9,Fovernight. Mostly clear for England
-OL,10,Fand Wales, though a little patchy fog
-OL,11,Fand drizzle is likely in the west. A
-OL,12,Fmild night for all.
-OL,13,
-OL,14,CFriday:FPatchy rain and fog in the
-OL,15,Fnorthwest, and some western areas at
-OL,16,Ffirst. Otherwise dry with a good deal
-OL,17,Fof very warm or hot sunshine
-OL,18,Fdeveloping. Breezy in the northwest.
+OL,5,CToday:FA largely sunny day across
+OL,6,FEngland and Wales with some low cloud
+OL,7,Fpotentially affecting western coasts.
+OL,8,FCloudier across Scotland and Northern
+OL,9,FIreland with some occasional rain but
+OL,10,Falso sunny spells. Feeling warm for
+OL,11,Fmost and hot towards the southeast.
+OL,12,
+OL,13,CTonight:FRain across the northwest
+OL,14,Fmoves southeastwards overnight, but
+OL,15,Fweakening as it moves across England
+OL,16,Fand Wales. Drier behind with some
+OL,17,Fclear spells. Widely mild and staying
+OL,18,Fwarm in the southeast.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1779419058
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FA largely sunny day,
+OL,6,Falthough northwest Scotland, Northern
+OL,7,FIreland and some western coasts
+OL,8,Felsewhere often cloudier with some
+OL,9,Fpatchy drizzle. Another very warm day
+OL,10,Ffor most.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
