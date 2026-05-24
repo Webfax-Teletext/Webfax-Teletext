@@ -1,29 +1,47 @@
-PN,16900
-SC,0000
+PN,16901
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F169A1779552674
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F169A1779588223
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FA settled
-OL,6,Fnight with light winds and clear
-OL,7,Fspells allowing mist and fog to form
-OL,8,Fin some places. Mild in urban areas
-OL,9,Fbut cooler in rural spots.
+OL,5,CToday:FA hot day with some cloudy
+OL,6,Fperiods during the morning followed by
+OL,7,Fa bright and sunny afternoon. Cooler
+OL,8,Falong the coast with a refreshing sea
+OL,9,Fbreeze.
 OL,10,
-OL,11,CSunday:FA hot day with some cloudy
-OL,12,Fperiods during the morning followed by
-OL,13,Fa bright and sunny afternoon. Cooler
-OL,14,Falong the coast with a refreshing sea
-OL,15,Fbreeze.
-OL,16,
-OL,17,COutlook for Monday to Wednesday:
-OL,18,FLargely bright and sunny throughout,
-OL,19,Fand notably hot on Monday and Tuesday.
-OL,20,FTemperatures may start to decrease
-OL,21,Ffrom Wednesday as it becomes breezier.
+OL,11,CTonight:FA dry and settled evening
+OL,12,Fwith clear skies across the whole
+OL,13,Fregion. Winds will be light and
+OL,14,Fvariable. Remaining mild overnight.
+OL,15,
+OL,16,CMonday:FLargely bright and sunny
+OL,17,Fthroughout. Light and variable winds
+OL,18,Fbut breezy along the coast, Feeling
+OL,19,Fhot inland but slightly cooler along
+OL,20,Fthe coast in the breeze.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,170,160,301,260,100,100
+PN,16902
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F169A1779588223
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GEast
+OL,4,
+OL,5,COutlook for Tuesday to Thursday:
+OL,6,FLargely bright and sunny throughout,
+OL,7,Fand notably hot on Tuesday.
+OL,8,FTemperatures may start to decrease
+OL,9,Ffrom Wednesday and into Thursday as it
+OL,10,Fbecomes breezier, especially along the
+OL,11,Fcoast.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,170,160,301,260,100,100
