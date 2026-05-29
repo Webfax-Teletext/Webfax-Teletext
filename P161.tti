@@ -1,28 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1779984666
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1780027431
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FEvening
-OL,6,Fshowers, possibly thundery, slowly
-OL,7,Fclearing eastwards. Cloudy with
-OL,8,Foutbreaks of rain affecting parts of
-OL,9,FNorthern Ireland and Scotland,
-OL,10,Fotherwise dry with clear spells.
-OL,11,FAnother warm night, especially in the
-OL,12,Feast where itll be warmer than
-OL,13,Fprevious nights.
-OL,14,
-OL,15,CFriday:FDry with sunny spells for
-OL,16,Fmost, however outbreaks of rain will
-OL,17,Faffect the far north, with showers
-OL,18,Facross the southeast, where it will be
-OL,19,Fanother very warm day. Cooler
-OL,20,Felsewhere.
+OL,5,CToday:FDry and bright for many, with
+OL,6,Fsunny spells. Much of Scotland will be
+OL,7,Fcloudy, with outbreaks of rain across
+OL,8,Fthe northwest. Southeast England will
+OL,9,Falso be rather cloudy, with some
+OL,10,Fshowers. Warm for many, but fresher in
+OL,11,Fthe far north.
+OL,12,
+OL,13,CTonight:FRain clearing to leave a dry
+OL,14,Fevening and night, with clear spells.
+OL,15,FSome fog developing during the early
+OL,16,Fhours in the southwest. Rain arriving
+OL,17,Finto the far northwest towards dawn.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1780027431
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FRain, heavy at times, will
+OL,6,Fmove eastwards across Scotland and
+OL,7,FNorthern Ireland, moving across
+OL,8,FEngland and Wales during the evening
+OL,9,Fand overnight. Ahead of this, plenty
+OL,10,Fof warm sunny spells.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
