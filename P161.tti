@@ -1,27 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1780071066
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1780117539
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FEvening rain
-OL,6,Facross Scotland, becoming confined to
-OL,7,FShetland. Otherwise, a dry evening and
-OL,8,Fnight, with clear spells. Some fog
-OL,9,Fdeveloping during the early hours in
-OL,10,Fthe southwest. Rain arriving into the
-OL,11,Ffar northwest towards dawn. Staying
-OL,12,Fwarm in the southeast.
-OL,13,
-OL,14,CSaturday:FRain, heavy at times, will
-OL,15,Fmove eastwards across Scotland and
-OL,16,FNorthern Ireland, moving across
-OL,17,FEngland and Wales during the evening
-OL,18,Fand overnight. Ahead of this, plenty
-OL,19,Fof warm sunny spells.
+OL,5,CToday:FA mostly cloudy day across
+OL,6,FNorthern Ireland and Scotland, with
+OL,7,Foutbreaks of showery rain which could
+OL,8,Fbe heavy at times. Breezy around
+OL,9,Fwestern coasts here. Dry across
+OL,10,FEngland and Wales with plenty of warm
+OL,11,Fspells of sunshine and light winds.
+OL,12,
+OL,13,CTonight:FFurther showery outbreaks of
+OL,14,Frain will move across the north and
+OL,15,Fwest of the UK, but it will remain
+OL,16,Flargely dry in the southeast with
+OL,17,Fclear spells. Mild for all.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1780117539
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FA fresher feeling day, with a
+OL,6,Fmixture of sunny spells and scattered
+OL,7,Fshowers, Showers most frequent in the
+OL,8,Fnorth. Feeling pleasant in the sunnier
+OL,9,Fmoments, especially in the south.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
