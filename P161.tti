@@ -1,27 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1781107889
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781147015
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FEvening
-OL,6,Fshowers becoming confined to eastern
-OL,7,Fareas, with it turning drier for a
-OL,8,Ftime overnight with clear skies.
-OL,9,FHowever, low cloud and rain arrives in
-OL,10,Fthe west through the early hours.
-OL,11,FTurning milder in the west, chilly
-OL,12,Felsewhere.
-OL,13,
-OL,14,CThursday:FA wet and rather windy day
-OL,15,Fas rain spreads across east, turning
-OL,16,Flocally heavy at times, but easing
-OL,17,Flater. Feeling muggy under widespread
-OL,18,Fcloud cover. Turning drier by the
-OL,19,Fevening.
+OL,5,CToday:FA wet and rather windy day as
+OL,6,Frain spreads steadily east. The rain
+OL,7,Fturning heavy at times, but easing
+OL,8,Flater from the west. Feeling muggy
+OL,9,Funder widespread cloud cover, with
+OL,10,Fpatchy coastal and hill fog, mainly in
+OL,11,Fthe west.
+OL,12,
+OL,13,CTonight:FOutbreaks of rain becoming
+OL,14,Fincreasingly showery into the evening,
+OL,15,Fhowever heavy bursts are still
+OL,16,Fpossible. Drier later in the night
+OL,17,Fwith some clear spells developing.
+OL,18,FRemaining rather windy for many.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781147015
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FRather cloudy in the south
+OL,6,Fwith patchy rain in the west. Brighter
+OL,7,Ffor northern areas with showers and
+OL,8,Fsome sunny spells. Winds a little
+OL,9,Flighter and feeling a touch warmer.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
