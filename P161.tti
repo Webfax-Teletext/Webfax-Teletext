@@ -1,27 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1781190689
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781233414
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FOutbreaks of
-OL,6,Frain becoming increasingly showery as
-OL,7,Fwe move through the evening, however
-OL,8,Fheavy bursts are still possible. Drier
-OL,9,Flater in the night with some clear
-OL,10,Fspells developing, these mainly
-OL,11,Ftowards northeast England and
-OL,12,FScotland. Remaining rather windy for
-OL,13,Fmany.
-OL,14,
-OL,15,CFriday:FRather cloudy in the south
-OL,16,Fwith patchy rain in the west. Brighter
-OL,17,Ffor northern areas with showers and
-OL,18,Fsome sunny spells. Winds a little
-OL,19,Flighter and feeling a touch warmer.
+OL,5,CToday:FLargely cloudy in the south
+OL,6,Fwith patchy drizzle, plus coastal fog
+OL,7,Fin the far southwest. Sunny spells
+OL,8,Femerging in the north, though showers
+OL,9,Faffecting northwest Scotland. Breezy
+OL,10,Ffor all. Feeling humid in the south,
+OL,11,Fbut fresher further north.
+OL,12,
+OL,13,CTonight:FRather windy in the north
+OL,14,Fwith further showers, heavy at times.
+OL,15,FMostly dry with clear spells in the
+OL,16,Fsouth, but low cloud lingering in the
+OL,17,Fsouthwest. Cooler than last night.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781233414
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FRemaining windy and cool in
+OL,6,Fthe north with a mixture of showers
+OL,7,Fand a few bright periods. Drier,
+OL,8,Fsunnier and warmer in the south with
+OL,9,Flighter winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
