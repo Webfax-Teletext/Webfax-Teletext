@@ -1,25 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1781277116
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781319819
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Frather windy in the north. Further
-OL,7,Fshowers, mainly across Scotland, heavy
-OL,8,Fat times. Mostly dry elsewhere with
-OL,9,Fclear spells in the south, but low
-OL,10,Fcloud lingering in the southwest. A
-OL,11,Flittle cooler than last night too.
-OL,12,
-OL,13,CSaturday:FRemaining windy and cool in
-OL,14,Fthe north with a mixture of showers
-OL,15,Fand a few bright periods. Drier,
-OL,16,Fsunnier and warmer in the south with
-OL,17,Flighter winds.
+OL,5,CToday:FBreezy in the north with sunny
+OL,6,Fspells and showers for Northern
+OL,7,FIreland, Scotland and northern
+OL,8,FEngland, but clearing later. Southern
+OL,9,Fareas stay dry and bright, though low
+OL,10,Fcloud may affect the far southwest.
+OL,11,FCooler further north, warm fin the
+OL,12,Fsouth.
+OL,13,
+OL,14,CTonight:FShowers in the north
+OL,15,Fgradually fade as winds ease
+OL,16,Fovernight. Elsewhere, skies clear,
+OL,17,Fespecially in the south, with some
+OL,18,Fpatchy fog possible later across the
+OL,19,Ffar southwest by dawn.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781319819
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FEarly mist or fog in the
+OL,6,Fsouthwest, otherwise mostly dry with
+OL,7,Fsunny spells. Light showers in
+OL,8,Fnorthern Scotland, with increasing
+OL,9,Fcloud and rain later. Light winds,
+OL,10,Fcool northeast, warm south.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
