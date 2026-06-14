@@ -2,26 +2,27 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1781457542
+OL,0,        ECIMSBWebfax 1   F206A1781459256
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CSunday                   G1/6
-OL,5,G1800 BBC News
+OL,3,Vupppppp5CSunday                   G1/5
+OL,5,G1845 BBC News
 OL,6,     FThe latest news from the BBC.
-OL,7,G1830 The Iran War Today
-OL,8,     FA daily briefing from BBC News on
-OL,9,     Fthe latest developments on the
-OL,10,     FIsrael-US war in Iran.
-OL,11,G1845 BBC News
-OL,12,     FThe latest news from the BBC.
-OL,13,G1900 BBC News
+OL,7,G1900 BBC News
+OL,8,     FThe latest news from the BBC.
+OL,9,G1930 BBC News including Sport
+OL,10,     FThe latest news from the BBC
+OL,11,     Fincluding a round-up of the day's
+OL,12,     Fsporting action.
+OL,13,G2000 BBC News
 OL,14,     FThe latest news from the BBC.
-OL,15,G1930 BBC News including Sport
-OL,16,     FThe latest news from the BBC
-OL,17,     Fincluding a round-up of the day's
-OL,18,     Fsporting action.
-OL,19,G2000 BBC News
-OL,20,     FThe latest news from the BBC.
+OL,15,G2030 Newscast
+OL,16,     FLighthearted discussion of the
+OL,17,     Fday's news.
+OL,18,G2100 BBC News
+OL,19,     FThe latest news from the BBC.
+OL,20,G2200 BBC News
+OL,21,     FThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -29,27 +30,28 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1781457542
+OL,0,        ECIMSBWebfax 1   F206A1781459256
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CSunday                   G2/6
-OL,5,G2030 Newscast
-OL,6,     FLighthearted discussion of the
-OL,7,     Fday's news.
-OL,8,G2100 BBC News
-OL,9,     FThe latest news from the BBC.
-OL,10,G2200 BBC News
-OL,11,     FThe latest news from the BBC.
-OL,12,G2300 BBC News
-OL,13,     FThe latest news from the BBC.
-OL,14,G2330 AI Decoded
-OL,15,     FNot long ago, artificial
-OL,16,     Fintelligence was being sold as
-OL,17,     Fforce that could transform
-OL,18,     Fsociety, cure disease, and remake
-OL,19,     Fthe economy. Now, the mood is
-OL,20,     Fshifting. Is AI now at a tipping
-OL,21,     Fpoint?
+OL,3,Vupppppp5CSunday                   G2/5
+OL,5,G2300 BBC News
+OL,6,     FThe latest news from the BBC.
+OL,7,G2330 AI Decoded
+OL,8,     FNot long ago, artificial
+OL,9,     Fintelligence was being sold as
+OL,10,     Fforce that could transform
+OL,11,     Fsociety, cure disease, and remake
+OL,12,     Fthe economy. Now, the mood is
+OL,13,     Fshifting. Is AI now at a tipping
+OL,14,     Fpoint?
+OL,15,G0000 BBC News
+OL,16,     FThe latest news from the BBC.
+OL,17,G0030 The Climate Question
+OL,18,     FThe BBC's lead weather forecaster
+OL,19,     Fexplores one of the most common
+OL,20,     Fclimate questions.
+OL,21,G0100 BBC News
+OL,22,     FThe latest news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -57,24 +59,24 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1781457542
+OL,0,        ECIMSBWebfax 1   F206A1781459256
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CSunday                   G3/6
-OL,5,G0000 BBC News
-OL,6,     FThe latest news from the BBC.
-OL,7,G0030 The Climate Question
-OL,8,     FThe BBC's lead weather forecaster
-OL,9,     Fexplores one of the most common
-OL,10,     Fclimate questions.
-OL,11,G0100 BBC News
-OL,12,     FThe latest news from the BBC.
-OL,13,G0130 The Secret Jungle Hospital
-OL,14,     FSaving lives in a hidden hospital,
-OL,15,     Frebels fighting against Myanmar's
-OL,16,     Fmilitary. Contains upsetting
-OL,17,     Fscenes and flashing images.
-OL,18,G0200 Newsday
+OL,3,Vupppppp5CSunday                   G3/5
+OL,5,G0130 The Secret Jungle Hospital
+OL,6,     FSaving lives in a hidden hospital,
+OL,7,     Frebels fighting against Myanmar's
+OL,8,     Fmilitary. Contains upsetting
+OL,9,     Fscenes and flashing images.
+OL,10,G0200 Newsday
+OL,11,     FLive from Singapore, the latest
+OL,12,     Finternational news from the BBC.
+OL,13,G0230 Business Today
+OL,14,     FBringing the latest business news
+OL,15,     Fand up-to-date informed analysis
+OL,16,     Ffrom Singapore and around the
+OL,17,     Fworld.
+OL,18,G0245 Newsday
 OL,19,     FLive from Singapore, the latest
 OL,20,     Finternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
@@ -84,26 +86,24 @@ PN,20604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1781457542
+OL,0,        ECIMSBWebfax 1   F206A1781459256
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CSunday                   G4/6
-OL,5,G0230 Business Today
-OL,6,     FBringing the latest business news
-OL,7,     Fand up-to-date informed analysis
-OL,8,     Ffrom Singapore and around the
-OL,9,     Fworld.
-OL,10,G0245 Newsday
-OL,11,     FLive from Singapore, the latest
-OL,12,     Finternational news from the BBC.
-OL,13,G0300 Newsday
+OL,3,Vupppppp5CSunday                   G4/5
+OL,5,G0300 Newsday
+OL,6,     FLive from Singapore, the latest
+OL,7,     Finternational news from the BBC.
+OL,8,G0330 Business Today
+OL,9,     FBringing the latest business news
+OL,10,     Fand up-to-date informed analysis
+OL,11,     Ffrom Singapore and around the
+OL,12,     Fworld.
+OL,13,G0345 Newsday
 OL,14,     FLive from Singapore, the latest
 OL,15,     Finternational news from the BBC.
-OL,16,G0330 Business Today
-OL,17,     FBringing the latest business news
-OL,18,     Fand up-to-date informed analysis
-OL,19,     Ffrom Singapore and around the
-OL,20,     Fworld.
+OL,16,G0400 Newsday
+OL,17,     FLive from Singapore, the latest
+OL,18,     Finternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -111,41 +111,24 @@ PN,20605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1781457542
+OL,0,        ECIMSBWebfax 1   F206A1781459256
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CSunday                   G5/6
-OL,5,G0345 Newsday
-OL,6,     FLive from Singapore, the latest
-OL,7,     Finternational news from the BBC.
-OL,8,G0400 Newsday
-OL,9,     FLive from Singapore, the latest
-OL,10,     Finternational news from the BBC.
-OL,11,G0430 Business Today
-OL,12,     FBringing the latest business news
-OL,13,     Fand up-to-date informed analysis
-OL,14,     Ffrom Singapore and around the
-OL,15,     Fworld.
-OL,16,G0445 Newsday
-OL,17,     FLive from Singapore, the latest
-OL,18,     Finternational news from the BBC.
-OL,19,G0500 BBC News
-OL,20,     FThe latest news from the BBC.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,207,200,140,260,0,100
-PN,20606
-SC,0006
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1781457542
-OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
-OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CSunday                   G6/6
-OL,5,G0530 Business Today
+OL,3,Vupppppp5CSunday                   G5/5
+OL,5,G0430 Business Today
 OL,6,     FBringing the latest business news
 OL,7,     Fand up-to-date informed analysis
-OL,8,     Ffrom London and around the world.
+OL,8,     Ffrom Singapore and around the
+OL,9,     Fworld.
+OL,10,G0445 Newsday
+OL,11,     FLive from Singapore, the latest
+OL,12,     Finternational news from the BBC.
+OL,13,G0500 BBC News
+OL,14,     FThe latest news from the BBC.
+OL,15,G0530 Business Today
+OL,16,     FBringing the latest business news
+OL,17,     Fand up-to-date informed analysis
+OL,18,     Ffrom London and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100@
