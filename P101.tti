@@ -2,7 +2,7 @@ PN,10101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F101A1781453489
+OL,0,        ECIMSBWebfax 1   F101A1781455657
 OL,1,W~{4{$~k4j5k7 j5j5~sjw=hw1~{4oz%G1/3
 OL,2,W/*%/.!+.!+.!*% "-/.!+,*-'*% /*%/*%V,,,,
 OL,3,CTeletext on the web
@@ -28,7 +28,7 @@ PN,10102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F101A1781453489
+OL,0,        ECIMSBWebfax 1   F101A1781455657
 OL,1,W~{4{$~k4j5k7 j5j5~sjw=hw1~{4oz%G2/3
 OL,2,W/*%/.!+.!+.!*% "-/.!+,*-'*% /*%/*%V,,,,
 OL,3,CTeletext on the web
@@ -39,15 +39,15 @@ OL,7,F
 OL,8,FThanks to software written byGPeter
 OL,9,GKwanFwe're able to keep teletext alive
 OL,10,Ffor a new audience on the internet.
-OL,12,FJust like the broadcast services of the
-OL,13,Fpast,GWebfaxFoffers a mix of the latest
-OL,14,Fnews, sport, weather, travel, TV/radio
-OL,15,Flistings and more.
-OL,17,GWebfaxFis managed byGThe TV RoomFbut is
-OL,18,Fonly possible through a collaboration
-OL,19,Fwith some very clever people:
-OL,21,CGNathan Dane      CGAlistair Cree
-OL,22,CGTerence Burridge C
+OL,12,FLike its predecessors,GWebfaxFoffers a
+OL,13,Fmix of content, such as news, sport,
+OL,14,Fweather, TV/radio guides and features.
+OL,16,GWebfaxFis managed byGThe TV RoomFusing
+OL,17,Fsoftware built and maintained in-house.
+OL,19,FAdditionallyGNathan DaneFprovides
+OL,20,Fsolutions for news, sport and weather
+OL,21,Fcontent.FThe Teletext Viewer mechanism
+OL,22,Fis produced byGAlistair Cree.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,AMain Index BNat News  CReg News FNat TV
 FL,100,300,301,200,0,1FC
@@ -55,7 +55,7 @@ PN,10103
 SC,0003
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F101A1781453489
+OL,0,        ECIMSBWebfax 1   F101A1781455657
 OL,1,W~{4{$~k4j5k7 j5j5~sjw=hw1~{4oz%G3/3
 OL,2,W/*%/.!+.!+.!*% "-/.!+,*-'*% /*%/*%V,,,,
 OL,3,CTeletext on the web
@@ -65,14 +65,16 @@ OL,6,Fsources to present information in a
 OL,7,Fteletext format:
 OL,9,CGNEWS:Fitv.com
 OL,10,CGSPORT:Fitv.com
-OL,11,CGWEATHER:Fitv.com
-OL,12,CGTRAVEL:Fsource not defined
-OL,13,CGON THIS DAY/CLEAN FEED:Fthetvroom.com
-OL,14,CGTV/RADIO LISTINGS:FFreeview EPG
-OL,16,FIf you're interested in having your
-OL,17,Fcontent included on theGWebfaxFservice,
-OL,18,Fplease drop us an e-mail:
-OL,20, contact@webfax.thetvroom.com
+OL,11,CGWEATHER:FMet Office
+OL,12,CGENGINEERING:FArqiva; 2RN
+OL,13,CGON THIS DAY, CLEAN FEED, REWIND,
+OL,14,  GSHOWREEL:Fthetvroom.com
+OL,15,CGTELETEXT FILES:Fteletextarchive.com
+OL,16,CGTV/RADIO GUIDE:FFreeview EPG
+OL,18,FIf you're interested in having your
+OL,19,Fcontent included on theGWebfaxFservice,
+OL,20,Fplease drop us an e-mail:
+OL,22, webfax@thetvroom.com
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,AMain Index BNat News  CReg News FNat TV
 FL,100,300,301,200,0,1FC
