@@ -2,8 +2,8 @@ PN,20001
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F200A1781395389
-OL,1,Wk7j5 h7sj5j5k4~s               G1/2
+OL,0,        ECIMSBWebfax 1   F200A1781398075
+OL,1,Wk7j5 h7sj5j5k4~s               G1/3
 OL,2,W*% +! "-'"-'*%/.!+,V(,,,,,,,,,,,,,,,,,,
 OL,3,CSchedules for various national channels
 OL,5,W7s#######5               CTODAY TOMRW
@@ -30,8 +30,8 @@ PN,20002
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F200A1781395389
-OL,1,Wk7j5 h7sj5j5k4~s               G2/2
+OL,0,        ECIMSBWebfax 1   F200A1781398075
+OL,1,Wk7j5 h7sj5j5k4~s               G2/3
 OL,2,W*% +! "-'"-'*%/.!+,V(,,,,,,,,,,,,,,,,,,
 OL,3,CSchedules for various national channels
 OL,5,W7s#######5               CTODAY TOMRW
@@ -52,6 +52,35 @@ OL,19,    Talking Pictures TV ---G228 - 258
 OL,20,   FRewind TV -------------G229F-G259
 OL,21,F  B
 OL,22,   BRadio Guide ------ 200 (Webfax 2)
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BReg TV CClean Feed FNat News
+FL,201,260,140,300,0,100
+PN,20003
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F200A1781398075
+OL,1,Wk7j5 h7sj5j5k4~s               G3/3
+OL,2,W*% +! "-'"-'*%/.!+,V(,,,,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for key channels
+OL,5,W7s#######5               CTODAY TOMRW
+OL,6,W5!       5FU&Dave --------G451F-G471
+OL,7,W5      `45GU&Drama -------G452 - 472
+OL,8,W-l,,,,,l,%FU&Eden --------G453F-G473
+OL,9,W #!    #! GU&W -----------G455 - 475
+OL,10,           FU&Yesterday ---G456F-G476
+OL,11,F
+OL,12,    RTE One ---------------G457 - 477
+OL,13,F   RTE 2 -----------------G458F-G478
+OL,14,    RTE News --------------G459 - 479
+OL,15,F   RTE Kids Jr -----------G460F-G480
+OL,16,    TG4 -------------------G462 - 482
+OL,17,F   Virgin Media One ------G463F-G483
+OL,18,    Virgin Media Two ------G464 - 484
+OL,19,F   Virgin Media Three ----G465F-G485
+OL,20,    Virgin Media Four -----G466 - 486
+OL,21,F
+OL,22,   BRadio Guide ----------------- 260
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg TV CClean Feed FNat News
 FL,201,260,140,300,0,100
