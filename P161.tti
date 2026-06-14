@@ -1,24 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1781395390
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781408877
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FShowers in
-OL,6,Fthe north gradually fade as winds ease
-OL,7,Fovernight. Elsewhere, skies clear,
-OL,8,Fespecially in the south, with some
-OL,9,Fpatchy fog possible later across the
-OL,10,Ffar southwest by dawn.
-OL,11,
-OL,12,CSunday:FMostly dry with sunny spells
-OL,13,Fon Sunday. Light winds for most, but
-OL,14,Fbreezy along North Sea coasts. The odd
-OL,15,Fshower possible in the north later.
-OL,16,FFeeling warm in any sunshine.
+OL,5,CToday:FEarly fog in the far southwest
+OL,6,Fclears quickly. Most areas stay dry
+OL,7,Fwith sunshine and variable cloud,
+OL,8,Fthough northern and northeastern
+OL,9,Fregions may see isolated showers.
+OL,10,FLight winds overall, breezier
+OL,11,Fnortheast. Warm in the southwest,
+OL,12,Fcooler northern and eastern coasts.
+OL,13,
+OL,14,CTonight:FMostly dry with light winds,
+OL,15,Fgusty in the far southwest spreading
+OL,16,Fnortheast. Cloudier northern and
+OL,17,Feastern coasts with some rain
+OL,18,Fpossible; otherwise clear spells.
+OL,19,FChance of showers southwest by dawn.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781408877
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CMonday:FStaying dry with sunny spells.
+OL,6,FShowers track east across southern
+OL,7,Fareas, possibly thundery. Cloud
+OL,8,Fthickens in the west and north with
+OL,9,Fevening rain. Winds light to moderate,
+OL,10,Ftemperatures near average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
