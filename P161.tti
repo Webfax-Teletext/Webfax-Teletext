@@ -1,23 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1781470069
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781497055
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FMostly dry
-OL,6,Fwith light winds. A chance of some
-OL,7,Fshows in southern England and Wales in
-OL,8,Fthe early hours. Mild in the southwest
-OL,9,Fbut a cooler night elsewhere with a
-OL,10,Ffew mist and fog patches.
-OL,11,
-OL,12,CMonday:FStaying mostly dry with sunny
-OL,13,Fspells. A few showers moving north
-OL,14,Fthrough the day. Winds light to
-OL,15,Fmoderate, temperatures near average.
+OL,5,CToday:FSunny spells for many, with the
+OL,6,Frisk of some showers moving north and
+OL,7,Feastwards. Feeling warm in the
+OL,8,Fsunshine, though a touch cooler along
+OL,9,Fthe east coast. Some low cloud and
+OL,10,Fcoastal fog developing across
+OL,11,Fsouthwest England.
+OL,12,
+OL,13,CTonight:FCloud amounts increasing
+OL,14,Fthrough the evening and overnight with
+OL,15,Fshowery rain in the north and west at
+OL,16,Ftimes. Mostly dry in the southeast,
+OL,17,Fwith clear spells. Winds staying light.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781497055
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CTuesday:FOften cloudy in the north and
+OL,6,Fwest, with patchy rain. Rain turning
+OL,7,Fheavy through the evening. Drier and
+OL,8,Fbrighter elsewhere, with the best of
+OL,9,Fthe warm sunshine across southeast
+OL,10,FEngland.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
