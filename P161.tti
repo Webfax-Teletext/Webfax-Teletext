@@ -1,27 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1781542112
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781578069
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRain will
-OL,6,Fmove northeast across Scotland
-OL,7,Fovernight, with some outbreaks
-OL,8,Fdeveloping across northern England and
-OL,9,Finitially Northern Ireland. Mostly dry
-OL,10,Felsewhere, though generally becoming
-OL,11,Frather cloudy. A rather warm night,
-OL,12,Fexcept across northeast Scotland, with
-OL,13,Fmostly light winds too.
-OL,14,
-OL,15,CTuesday:FSome showery outbreaks of
-OL,16,Frain will affect northern and western
-OL,17,Fareas on Tuesday. Otherwise it looks
-OL,18,Flargely dry with some warm spells of
-OL,19,Fsunshine, and mostly light winds.
+OL,5,CToday:FLargely dry across the south
+OL,6,Fand east with variable amounts of
+OL,7,Fcloud and very warm sunny spells.
+OL,8,FCloudier in the north and west with
+OL,9,Fpatchy rain and drizzle, before more
+OL,10,Fpersistent rain moves into the
+OL,11,Fsouthwest later.
+OL,12,
+OL,13,CTonight:FOutbreaks of rain will move
+OL,14,Fnortheast across many parts, turning
+OL,15,Fheavy and persistent over western
+OL,16,Fhills. Staying mostly dry in the
+OL,17,Fsoutheast. Warm and muggy for many
+OL,18,Fwith low cloud.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781578069
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CWednesday:FA cloudy start with some
+OL,6,Frain and drizzle. Turning brighter in
+OL,7,Fthe north and northwest with scattered
+OL,8,Fshowers. Some warm bright spells
+OL,9,Fdeveloping in the south. Humid in the
+OL,10,Fsouth.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
