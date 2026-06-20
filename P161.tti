@@ -1,24 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1781884084
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781927263
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRain move
-OL,6,Feast tonight, gradually easing. Clear
-OL,7,Fspells and isolated showers into the
-OL,8,Fnorthwest, where a little fresher.
-OL,9,FWarm and muggy in the south and
-OL,10,Fsoutheast.
-OL,11,
-OL,12,CSaturday:FRather cloudy at first with
-OL,13,Fa little light rain in the south.
-OL,14,FIsolated showers in the north.
-OL,15,FGenerally dry with sunny spells
-OL,16,Fdeveloping for most. Rather warm.
+OL,5,CToday:FEarly cloud and rain easing to
+OL,6,Fleave sunny spells. Some showers
+OL,7,Fremain, mostly in the north and west.
+OL,8,FA little cooler than Friday but
+OL,9,Ftemperatures still above average in
+OL,10,Fsouth and southeast England. Turning
+OL,11,Fbreezy in the far north.
+OL,12,
+OL,13,CTonight:FShowers fading leaving a dry
+OL,14,Fnight though thunderstorms may clip
+OL,15,Fthe southeast. Feeling fresher for
+OL,16,Fsome, but a warm and humid night to
+OL,17,Fcome in the south.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1781927263
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FA fine and dry day ahead with
+OL,6,Flots of sunshine though a small risk
+OL,7,Fof the odd light shower. Feeling warm,
+OL,8,Fthough a hot, humid day ahead in the
+OL,9,Fsouth.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
