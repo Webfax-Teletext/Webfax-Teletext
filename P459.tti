@@ -2,21 +2,21 @@ PN,45901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F459A1781970468
+OL,0,        ECIMSBWebfax 1   F459A1781972285
 OL,1,V7c#####5Wwsjp%uz j#5wsj 5jjs1
 OL,2,V5!     5W,.* %,. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday                 G1/4
-OL,5,G1630 Sky News Today
-OL,6,     FBreaking news, developing stories
-OL,7,     Fand live events from Sky News
-OL,8,     Fcorrespondents in the UK and
-OL,9,     Faround the world.
-OL,10,G1700 News Hour with Jonathan Samuels
+OL,5,G1700 News Hour with Jonathan Samuels
+OL,6,     FA comprehensive round-up of the
+OL,7,     Fdays biggest news stories,
+OL,8,     Fincluding analysis and insight
+OL,9,     Ffrom Sky News correspondents.
+OL,10,G1730 News Hour with Jonathan Samuels
 OL,11,     FA comprehensive round-up of the
 OL,12,     Fdays biggest news stories,
 OL,13,     Fincluding analysis and insight
 OL,14,     Ffrom Sky News correspondents.
-OL,15,G1730 News Hour with Jonathan Samuels
+OL,15,G1800 News Hour with Jonathan Samuels
 OL,16,     FA comprehensive round-up of the
 OL,17,     Fdays biggest news stories,
 OL,18,     Fincluding analysis and insight
@@ -28,28 +28,27 @@ PN,45902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F459A1781970468
+OL,0,        ECIMSBWebfax 1   F459A1781972285
 OL,1,V7c#####5Wwsjp%uz j#5wsj 5jjs1
 OL,2,V5!     5W,.* %,. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday                 G2/4
-OL,5,G1800 News Hour with Jonathan Samuels
+OL,5,G1830 News Hour with Jonathan Samuels
 OL,6,     FA comprehensive round-up of the
 OL,7,     Fdays biggest news stories,
 OL,8,     Fincluding analysis and insight
 OL,9,     Ffrom Sky News correspondents.
-OL,10,G1830 News Hour with Jonathan Samuels
-OL,11,     FA comprehensive round-up of the
-OL,12,     Fdays biggest news stories,
-OL,13,     Fincluding analysis and insight
-OL,14,     Ffrom Sky News correspondents.
-OL,15,G1900 Sky News
-OL,16,G1930 Sky News
-OL,17,G2000 Sky News
-OL,18,G2030 UK Tonight Highlights
-OL,19,     FAnother chance to see the big
-OL,20,     Finterviews this week on UK Tonight
-OL,21,     Fwith Sarah-Jane Mee.
-OL,22,G2100 Sky News
+OL,10,G1900 Sky News
+OL,11,G1930 Sky News
+OL,12,G2000 Sky News
+OL,13,G2030 UK Tonight Highlights
+OL,14,     FAnother chance to see the big
+OL,15,     Finterviews this week on UK Tonight
+OL,16,     Fwith Sarah-Jane Mee.
+OL,17,G2100 Sky News
+OL,18,G2130 The World with Yalda Hakim
+OL,19,     FEyewitness reports, interviews and
+OL,20,     Fanalysis on the big stories around
+OL,21,     Fthe world with Yalda Hakim.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,460,200,140,260,0,100
@@ -57,24 +56,25 @@ PN,45903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F459A1781970468
+OL,0,        ECIMSBWebfax 1   F459A1781972285
 OL,1,V7c#####5Wwsjp%uz j#5wsj 5jjs1
 OL,2,V5!     5W,.* %,. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday                 G3/4
-OL,5,G2130 The World with Yalda Hakim
-OL,6,     FEyewitness reports, interviews and
-OL,7,     Fanalysis on the big stories around
-OL,8,     Fthe world with Yalda Hakim.
-OL,9,G2200 The Wrap with Matt Barbet
-OL,10,     FDebate, analysis and insight on
-OL,11,     Fthe biggest news stories of the
-OL,12,     Fday from the UK and around the
-OL,13,     Fworld.
-OL,14,G2230 The Wrap with Matt Barbet
-OL,15,     FDebate, analysis and insight on
-OL,16,     Fthe biggest news stories of the
-OL,17,     Fday from the UK and around the
-OL,18,     Fworld.
+OL,5,G2200 The Wrap with Matt Barbet
+OL,6,     FDebate, analysis and insight on
+OL,7,     Fthe biggest news stories of the
+OL,8,     Fday from the UK and around the
+OL,9,     Fworld.
+OL,10,G2230 The Wrap with Matt Barbet
+OL,11,     FDebate, analysis and insight on
+OL,12,     Fthe biggest news stories of the
+OL,13,     Fday from the UK and around the
+OL,14,     Fworld.
+OL,15,G2300 The Wrap with Matt Barbet
+OL,16,     FDebate, analysis and insight on
+OL,17,     Fthe biggest news stories of the
+OL,18,     Fday from the UK and around the
+OL,19,     Fworld.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,460,200,140,260,0,100
@@ -82,26 +82,21 @@ PN,45904
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F459A1781970468
+OL,0,        ECIMSBWebfax 1   F459A1781972285
 OL,1,V7c#####5Wwsjp%uz j#5wsj 5jjs1
 OL,2,V5!     5W,.* %,. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday                 G4/4
-OL,5,G2300 The Wrap with Matt Barbet
+OL,5,G2330 The Wrap with Matt Barbet
 OL,6,     FDebate, analysis and insight on
 OL,7,     Fthe biggest news stories of the
 OL,8,     Fday from the UK and around the
 OL,9,     Fworld.
-OL,10,G2330 The Wrap with Matt Barbet
-OL,11,     FDebate, analysis and insight on
-OL,12,     Fthe biggest news stories of the
-OL,13,     Fday from the UK and around the
-OL,14,     Fworld.
-OL,15,G0000 Sky News
-OL,16,G0100 Sky News
-OL,17,G0200 Sky News
-OL,18,G0300 Sky News
-OL,19,G0400 Sky News
-OL,20,G0500 Sky News
+OL,10,G0000 Sky News
+OL,11,G0100 Sky News
+OL,12,G0200 Sky News
+OL,13,G0300 Sky News
+OL,14,G0400 Sky News
+OL,15,G0500 Sky News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,460,200,140,260,0,100@
