@@ -1,23 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1782141507
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1782184680
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FA widely
-OL,6,Fwarm night, very warm in parts of
-OL,7,FWales and southwest England. Most
-OL,8,Fplaces staying dry, but thunderstorms
-OL,9,Fmay affect southern and central parts
-OL,10,Fof England this evening.
-OL,11,
-OL,12,CTuesday:FA very hot and humid day
-OL,13,Facross England and Wales with strong
-OL,14,Fsunshine. Hot across parts of Scotland
-OL,15,Fand Northern Ireland with light winds.
+OL,5,CToday:FAny remaining showers will soon
+OL,6,Fclearing eastwards into the North Sea,
+OL,7,Fleaving a very hot and humid day
+OL,8,Facross England and Wales with strong
+OL,9,Fsunshine. Hot across parts of Scotland
+OL,10,Fand Northern Ireland with light winds
+OL,11,Fand slightly cloudier skies.
+OL,12,
+OL,13,CTonight:FLargely clear and settled
+OL,14,Fwith light winds, with some mist and
+OL,15,Ffog patches developing. It will remain
+OL,16,Fwidely warm, particularly in the
+OL,17,Fsouth, leading to a rather
+OL,18,Funcomfortable night.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1782184680
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CWednesday:FDry with plenty of
+OL,6,Fsunshine, though an isolated shower is
+OL,7,Fpossible in the west. Warm in the
+OL,8,Fnorth, hot and humid elsewhere,
+OL,9,Ffollowed by another very warm and
+OL,10,Fmuggy night.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
