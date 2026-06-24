@@ -1,14 +1,48 @@
-PN,20700
-SC,0000
+PN,20701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F207A1782256707
+PS,c008
+OL,0,        ECIMSBWebfax 1   F207A1782265694
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
-OL,3,Vupppppp5CTuesday
-OL,5,G0015 House of Lords
-OL,6,     FBusiness in the House of Lords on
-OL,7,     FTuesday 23 June.
+OL,3,Vupppppp5CTuesday                  G1/2
+OL,5,G0100 House of Lords - National Security
+OL,6,G     Bill, Part 1
+OL,7,     FCoverage of the debate in the
+OL,8,     FHouse of Lords on the second
+OL,9,     Freading of the National Security
+OL,10,     F(State Threats) Bill, on Tuesday
+OL,11,     F23 June.
+OL,12,G0255 House of Lords - National Security
+OL,13,G     Bill, Part 2
+OL,14,     FCoverage of the debate in the
+OL,15,     FHouse of Lords on the second
+OL,16,     Freading of the National Security
+OL,17,     F(State Threats) Bill, on Tuesday
+OL,18,     F23 June.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,208,200,140,260,0,100
+PN,20702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F207A1782265694
+OL,1,V7c#####5Ww;js%7+ js5w{js%5
+OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
+OL,3,Vupppppp5CTuesday                  G2/2
+OL,5,G0425 House of Lords - Carbon and
+OL,6,G     Climate Change Orders
+OL,7,     FCoverage of the debate in the
+OL,8,     FHouse of Lords on the Carbon
+OL,9,     FBudget Order and the Climate
+OL,10,     FChange Act 2008 (Credit Limit)
+OL,11,     FOrder, on Tuesday 23 June.
+OL,12,G0555 House of Lords - Employment
+OL,13,G     Tribunal Regulations
+OL,14,     FCoverage of a debate on Employment
+OL,15,     FTribunal Regulations, on Tuesday
+OL,16,     F23 June.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,208,200,140,260,0,100@
