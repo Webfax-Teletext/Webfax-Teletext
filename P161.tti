@@ -1,24 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1782227912
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1782271081
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FLargely
-OL,6,Fclear and settled with light winds,
-OL,7,Fwith some mist and fog patches
-OL,8,Fdeveloping. It will remain widely
-OL,9,Fwarm, particularly in the south,
-OL,10,Fleading to a rather uncomfortable
-OL,11,Fnight.
-OL,12,
-OL,13,CWednesday:FDry with plenty of
-OL,14,Fsunshine. Very warm in the north, very
-OL,15,Fhot and humid elsewhere, followed by
-OL,16,Fanother very warm and muggy night.
+OL,5,CToday:FDry and sunny for most with
+OL,6,Flight winds. Feeling humid as extreme
+OL,7,Fheat builds across England and Wales.
+OL,8,FCloudier and cooler for northwest
+OL,9,FScotland with a little drizzle at
+OL,10,Ftimes.
+OL,11,
+OL,12,CTonight:FCloudy in the northwest,
+OL,13,Fperhaps with some patchy rain for
+OL,14,FNorthern Ireland and western Scotland.
+OL,15,FLargely clear elsewhere but staying
+OL,16,Fvery warm and muggy overnight.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1782271081
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CThursday:FRain and thundery showers
+OL,6,Fover northwest Scotland turning heavy
+OL,7,Fat times. Low cloud and fog possibly
+OL,8,Faffecting North Sea coasts. Otherwise,
+OL,9,Fa widely very hot day with strong
+OL,10,Fsunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
