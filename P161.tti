@@ -1,26 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1782330466
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1782361075
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy in
-OL,6,Fthe northwest, perhaps with some
-OL,7,Fpatchy rain for Northern Ireland and
-OL,8,Fwestern Scotland. Largely clear and
-OL,9,Fdry elsewhere but staying very warm
-OL,10,Fand muggy overnight for parts of
-OL,11,FWales, western and southern England.
+OL,5,CToday:FPlenty of sunshine, though low
+OL,6,Fcloud affecting some North Sea coasts.
+OL,7,FHot for most, exceptionally so across
+OL,8,Fsouthern and central parts of England
+OL,9,Fand Wales. Breezier than Wednesday.
+OL,10,FWetter and cloudier for northwest
+OL,11,FScotland, with spells of heavy rain.
 OL,12,
-OL,13,CThursday:FRain and thundery showers
-OL,14,Fover northwest Scotland turning heavy
-OL,15,Fat times. Low cloud and fog possibly
-OL,16,Faffecting North Sea coasts. Otherwise,
-OL,17,Fwidely very hot and humid day with
-OL,18,Fstrong sunshine.
+OL,13,CTonight:FRain in the northwest turning
+OL,14,Fthundery. Further thunderstorms with
+OL,15,Fstrong gusty winds developing across
+OL,16,Fsouthwest England during Thursday
+OL,17,Fevening before spreading
+OL,18,Fnortheastwards overnight. Warm and
+OL,19,Fhumid for all.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1782361075
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FRather cloudy across northern
+OL,6,Fregions with outbreaks of rain and
+OL,7,Fthunderstorms, accompanied by hail and
+OL,8,Fgusty winds. Peak heat transferring to
+OL,9,Feastern England, with temperatures
+OL,10,Ffurther west dropping slightly.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
