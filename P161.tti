@@ -1,27 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1782404310
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1782449281
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRain in the
-OL,6,Fnorthwest turning thundery. Further
-OL,7,Fthunderstorms with strong gusty winds
-OL,8,Fdeveloping across southwest England
-OL,9,Fduring Thursday evening before
-OL,10,Fspreading northeastwards overnight.
-OL,11,FCan be heavy at times with the risk of
-OL,12,Fsome hail. Warm and humid for all.
+OL,5,CToday:FRather cloudy across Scotland
+OL,6,Fwith outbreaks of rain and
+OL,7,Fthunderstorms, accompanied by hail and
+OL,8,Fgusty winds. Elsewhere, some early
+OL,9,Fshowers, then dry with sunny spells.
+OL,10,FExtreme heat transferring to eastern
+OL,11,FEngland, with temperatures further
+OL,12,Fwest dropping slightly.
 OL,13,
-OL,14,CFriday:FRather cloudy across northern
-OL,15,Fregions with outbreaks of rain and
-OL,16,Fthunderstorms, accompanied by hail and
-OL,17,Fgusty winds. Extreme heat transferring
-OL,18,Fto eastern England, with temperatures
-OL,19,Ffurther west dropping slightly.
+OL,14,CTonight:FRain slowly clearing
+OL,15,FScotland. Heavy, possibly thundery,
+OL,16,Fshowers cross the southeast in the
+OL,17,Fsecond half of the night. Dry with
+OL,18,Fclear spells elsewhere. Warm, but
+OL,19,Fslightly cooler than previous nights.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1782449281
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FShowers, possibly thundery,
+OL,6,Fin the east and southeast. Rain slowly
+OL,7,Fedging into the northwest. Sunny
+OL,8,Fspells elsewhere. Still hot in the
+OL,9,Fsoutheast, but temperatures lower than
+OL,10,Fof late.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
