@@ -1,15 +1,242 @@
-PN,20600
-SC,0000
+PN,20601
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F206A1782449281
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1782451151
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CThursday
-OL,5,G0530 Business Today
+OL,3,Vupppppp5CFriday                   G1/9
+OL,5,G0600 BBC News
+OL,6,G0630 Business Today
+OL,7,     FBringing the latest business news
+OL,8,     Fand up-to-date informed analysis
+OL,9,     Ffrom London and around the world.
+OL,10,G0700 BBC News
+OL,11,G0730 Business Today
+OL,12,     FBringing the latest business news
+OL,13,     Fand up-to-date informed analysis
+OL,14,     Ffrom London and around the world.
+OL,15,G0800 Signed: BBC News
+OL,16,     FThe latest news from the BBC.
+OL,17,G0830 BBC News
+OL,18,G0900 BBC News
+OL,19,G0930 BBC News
+OL,20,G1000 BBC News
+OL,21,G1030 BBC News
+OL,22,G1100 BBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20602
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1782451151
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CFriday                   G2/9
+OL,5,G1130 Business Today
 OL,6,     FBringing the latest business news
 OL,7,     Fand up-to-date informed analysis
 OL,8,     Ffrom London and around the world.
+OL,9,G1145 BBC News
+OL,10,G1200 BBC News Now
+OL,11,     FAll the big stories, live as they
+OL,12,     Fhappen, presented by Lucy
+OL,13,     FHockings.
+OL,14,G1230 BBC News Now
+OL,15,     FAll the big stories, live as they
+OL,16,     Fhappen, presented by Lucy
+OL,17,     FHockings.
+OL,18,G1300 Signed: BBC News at One
+OL,19,G1400 BBC News Now
+OL,20,     FAll the big stories, live as they
+OL,21,     Fhappen, presented by Lucy
+OL,22,     FHockings.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20603
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1782451151
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CFriday                   G3/9
+OL,5,G1430 Business Today - NYSE Opening Bell
+OL,6,     FBringing the latest business news
+OL,7,     Fand up-to-date informed analysis
+OL,8,     Ffrom New York and around the
+OL,9,     Fworld.
+OL,10,G1445 BBC News Now
+OL,11,     FAll the big stories, live as they
+OL,12,     Fhappen, presented by Lucy
+OL,13,     FHockings.
+OL,14,G1500 Verified Live
+OL,15,     FMatthew Amroliwala presents all
+OL,16,     Fthe latest global and UK news,
+OL,17,     Flive from London.
+OL,18,G1530 Verified Live
+OL,19,     FMatthew Amroliwala presents all
+OL,20,     Fthe latest global and UK news,
+OL,21,     Flive from London.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20604
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1782451151
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CFriday                   G4/9
+OL,5,G1600 Verified Live
+OL,6,     FMatthew Amroliwala presents all
+OL,7,     Fthe latest global and UK news,
+OL,8,     Flive from London.
+OL,9,G1630 Verified Live
+OL,10,     FMatthew Amroliwala presents all
+OL,11,     Fthe latest global and UK news,
+OL,12,     Flive from London.
+OL,13,G1700 Verified Live
+OL,14,     FMatthew Amroliwala presents all
+OL,15,     Fthe latest global and UK news,
+OL,16,     Flive from London.
+OL,17,G1730 BBC News
+OL,18,G1800 Signed: BBC News at Six
+OL,19,G1830 The Iran War This Week
+OL,20,     FA briefing from BBC News on the
+OL,21,     Flatest developments in the
+OL,22,     FIsrael-US war in Iran.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20605
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1782451151
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CFriday                   G5/9
+OL,5,G1900 The World Today with Maryam
+OL,6,G     Moshiri
+OL,7,     FWatch the best of the BBC's
+OL,8,     Fjournalism from around the world.
+OL,9,G1930 The World Today with Maryam
+OL,10,G     Moshiri
+OL,11,     FWatch the best of the BBC's
+OL,12,     Fjournalism from around the world.
+OL,13,G2000 Question Time
+OL,14,     FFiona Bruce presents a special
+OL,15,     Fprogramme from Kettering in the
+OL,16,     Fwake of Sir Keir Starmer
+OL,17,     Fannouncing his resignation as
+OL,18,     Fleader of the Labour Party and
+OL,19,     Fprime minister.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20606
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1782451151
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CFriday                   G6/9
+OL,5,G2100 The Context
+OL,6,     FA regular panel of guests from
+OL,7,     Facross the political spectrum
+OL,8,     Fdiscuss the biggest international
+OL,9,     Fstories of the day.
+OL,10,G2130 The Context
+OL,11,     FA regular panel of guests from
+OL,12,     Facross the political spectrum
+OL,13,     Fdiscuss the biggest international
+OL,14,     Fstories of the day.
+OL,15,G2200 BBC News at Ten
+OL,16,G2230 Newsnight
+OL,17,G2300 BBC World News America
+OL,18,     FThe BBC presents in-depth reports
+OL,19,     Fon the major international and US
+OL,20,     Fnews of the day presented from
+OL,21,     FWashington DC.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20607
+SC,0007
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1782451151
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CFriday                   G7/9
+OL,5,G2330 The President's Path
+OL,6,     FJoin Caitriona Perry and Sumi
+OL,7,     FSomaskanda for a dynamic weekly
+OL,8,     Fdiscussion on the US presidency.
+OL,9,G0000 BBC News
+OL,10,G0030 Talking Business
+OL,11,     FBen Thompson talks to industry
+OL,12,     Fplayers about the dangers and
+OL,13,     Fpotential of artificial
+OL,14,     Fintelligence which improves itself
+OL,15,     Fwithout human interaction. .
+OL,16,G0100 BBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20608
+SC,0008
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1782451151
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CFriday                   G8/9
+OL,5,G0130 Tech Now
+OL,6,     FAndrew Rogers explores the latest
+OL,7,     Ftech being trialled to help people
+OL,8,     Fstay underwater for longer, and
+OL,9,     FJoe Tidy reports on a huge U-turn
+OL,10,     Ffor big tech as Instagram stops
+OL,11,     Fend-to-end encryption.
+OL,12,G0200 BBC News
+OL,13,G0230 China's Greatest Treasures
+OL,14,     F3/6. Alastair Sooke discovers how
+OL,15,     Ftea continues to be an essential
+OL,16,     Fpart of Chinese culture.
+OL,17,G0300 BBC News
+OL,18,G0330 The Big Cases: Peter Murrell: The
+OL,19,G     Man with the Money
+OL,20,     FA paper trail of lies conceals the
+OL,21,     Fspending by a top political
+OL,22,     Foperator on luxury goods.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20609
+SC,0009
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1782451151
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CFriday                   G9/9
+OL,5,G0400 BBC News
+OL,6,G0430 The Media Show
+OL,7,     FRetail staff report a rise in
+OL,8,     Ffilming by customers for social
+OL,9,     Fmedia videos.
+OL,10,G0500 BBC News
+OL,11,G0530 The Travel Show
+OL,12,     FDwayne Fields travels America,
+OL,13,     Fexploring how the pursuit of
+OL,14,     Fhappiness is being lived today.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100@
