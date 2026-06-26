@@ -2,28 +2,28 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782508730
+OL,0,        ECIMSBWebfax 1   F206A1782510495
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G1/3
-OL,5,G2200 BBC News at Ten
-OL,6,G2230 Newsnight
-OL,7,G2300 BBC World News America
-OL,8,     FThe BBC presents in-depth reports
-OL,9,     Fon the major international and US
-OL,10,     Fnews of the day presented from
-OL,11,     FWashington DC.
-OL,12,G2330 The President's Path
-OL,13,     FThis year marks a big milestone in
-OL,14,     Fthe history of the US - its 250th
-OL,15,     Fanniversary.
-OL,16,G0000 BBC News
-OL,17,G0030 Talking Business
-OL,18,     FBen Thompson talks to industry
-OL,19,     Fplayers about the dangers and
-OL,20,     Fpotential of artificial
-OL,21,     Fintelligence which improves itself
-OL,22,     Fwithout human interaction. .
+OL,5,G2230 Newsnight
+OL,6,G2300 BBC World News America
+OL,7,     FThe BBC presents in-depth reports
+OL,8,     Fon the major international and US
+OL,9,     Fnews of the day presented from
+OL,10,     FWashington DC.
+OL,11,G2330 The President's Path
+OL,12,     FThis year marks a big milestone in
+OL,13,     Fthe history of the US - its 250th
+OL,14,     Fanniversary.
+OL,15,G0000 BBC News
+OL,16,G0030 Talking Business
+OL,17,     FBen Thompson talks to industry
+OL,18,     Fplayers about the dangers and
+OL,19,     Fpotential of artificial
+OL,20,     Fintelligence which improves itself
+OL,21,     Fwithout human interaction. .
+OL,22,G0100 BBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -31,24 +31,28 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782508730
+OL,0,        ECIMSBWebfax 1   F206A1782510495
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G2/3
-OL,5,G0100 BBC News
-OL,6,G0130 Tech Now
-OL,7,     FAndrew Rogers explores the latest
-OL,8,     Ftech being trialled to help people
-OL,9,     Fstay underwater for longer, and
-OL,10,     FJoe Tidy reports on a huge U-turn
-OL,11,     Ffor big tech as Instagram stops
-OL,12,     Fend-to-end encryption.
-OL,13,G0200 BBC News
-OL,14,G0230 China's Greatest Treasures
-OL,15,     F3/6. Alastair Sooke discovers how
-OL,16,     Ftea continues to be an essential
-OL,17,     Fpart of Chinese culture.
-OL,18,G0300 BBC News
+OL,5,G0130 Tech Now
+OL,6,     FAndrew Rogers explores the latest
+OL,7,     Ftech being trialled to help people
+OL,8,     Fstay underwater for longer, and
+OL,9,     FJoe Tidy reports on a huge U-turn
+OL,10,     Ffor big tech as Instagram stops
+OL,11,     Fend-to-end encryption.
+OL,12,G0200 BBC News
+OL,13,G0230 China's Greatest Treasures
+OL,14,     F3/6. Alastair Sooke discovers how
+OL,15,     Ftea continues to be an essential
+OL,16,     Fpart of Chinese culture.
+OL,17,G0300 BBC News
+OL,18,G0330 The Big Cases: Peter Murrell: The
+OL,19,G     Man with the Money
+OL,20,     FA paper trail of lies conceals the
+OL,21,     Fspending by a top political
+OL,22,     Foperator on luxury goods.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -56,25 +60,20 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782508730
+OL,0,        ECIMSBWebfax 1   F206A1782510495
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G3/3
-OL,5,G0330 The Big Cases: Peter Murrell: The
-OL,6,G     Man with the Money
-OL,7,     FA paper trail of lies conceals the
-OL,8,     Fspending by a top political
-OL,9,     Foperator on luxury goods.
-OL,10,G0400 BBC News
-OL,11,G0430 The Media Show
-OL,12,     FRetail staff report a rise in
-OL,13,     Ffilming by customers for social
-OL,14,     Fmedia videos.
-OL,15,G0500 BBC News
-OL,16,G0530 The Travel Show
-OL,17,     FDwayne Fields travels America,
-OL,18,     Fexploring how the pursuit of
-OL,19,     Fhappiness is being lived today.
+OL,5,G0400 BBC News
+OL,6,G0430 The Media Show
+OL,7,     FRetail staff report a rise in
+OL,8,     Ffilming by customers for social
+OL,9,     Fmedia videos.
+OL,10,G0500 BBC News
+OL,11,G0530 The Travel Show
+OL,12,     FDwayne Fields travels America,
+OL,13,     Fexploring how the pursuit of
+OL,14,     Fhappiness is being lived today.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100@
