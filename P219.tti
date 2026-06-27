@@ -2,23 +2,23 @@ PN,21901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F219A1782589677
+OL,0,        ECIMSBWebfax 1   F219A1782591491
 OL,1,V7c#####5W7k#57kjs%wsjp4
 OL,2,V5!     5W%* %-.* %-,  %V,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday                 G1/4
-OL,5,G2030 Four in a Bed
-OL,6,     FTension abounds on payment day,
-OL,7,     Fwith a number of suspiciously low
-OL,8,     Fscores on the agenda. Who'll
-OL,9,     Femerge from the vitriol
-OL,10,     Fvictorious?
-OL,11,G2100 24 Hours in A&E
-OL,12,     FNurse Emma has a narrow window of
-OL,13,     Ftime to help 71-year-old Thomas
-OL,14,     Fafter a suspected stroke. And
-OL,15,     F97-year-old Leslie is brought to
-OL,16,     FA&E after experiencing persistent
-OL,17,     Fnosebleeds.
+OL,5,G2100 24 Hours in A&E
+OL,6,     FNurse Emma has a narrow window of
+OL,7,     Ftime to help 71-year-old Thomas
+OL,8,     Fafter a suspected stroke. And
+OL,9,     F97-year-old Leslie is brought to
+OL,10,     FA&E after experiencing persistent
+OL,11,     Fnosebleeds.
+OL,12,G2200 24 Hours in A&E
+OL,13,     FPam, who's 82 and has Alzheimer's,
+OL,14,     Fis brought into St George's with
+OL,15,     Fsuspected sepsis. Theo, who's 27,
+OL,16,     Fhas hurt his knee playing
+OL,17,     Ffootball.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,220,200,140,260,0,100
@@ -26,23 +26,23 @@ PN,21902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F219A1782589677
+OL,0,        ECIMSBWebfax 1   F219A1782591491
 OL,1,V7c#####5W7k#57kjs%wsjp4
 OL,2,V5!     5W%* %-.* %-,  %V,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday                 G2/4
-OL,5,G2200 24 Hours in A&E
-OL,6,     FPam, who's 82 and has Alzheimer's,
-OL,7,     Fis brought into St George's with
-OL,8,     Fsuspected sepsis. Theo, who's 27,
-OL,9,     Fhas hurt his knee playing
-OL,10,     Ffootball.
-OL,11,G2305 999: On the Front Line
-OL,12,     FWest Midlands Ambulance Service
-OL,13,     Frespond to a baby who's stopped
-OL,14,     Fbreathing. A traffic collision
-OL,15,     Fleaves a quad biker in agony.
-OL,16,     FParamedics suspect an elderly
-OL,17,     Fwoman is having a stroke.
+OL,5,G2305 999: On the Front Line
+OL,6,     FWest Midlands Ambulance Service
+OL,7,     Frespond to a baby who's stopped
+OL,8,     Fbreathing. A traffic collision
+OL,9,     Fleaves a quad biker in agony.
+OL,10,     FParamedics suspect an elderly
+OL,11,     Fwoman is having a stroke.
+OL,12,G0005 Emergency Helicopter Medics
+OL,13,     FA decorator's had a nasty fall and
+OL,14,     Fmay have a bleed on the brain. A
+OL,15,     Fmotorcyclist is given ketamine
+OL,16,     Fafter breaking a leg. And Doreen
+OL,17,     Fhas been trampled by a foal.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,220,200,140,260,0,100
@@ -50,23 +50,28 @@ PN,21903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F219A1782589677
+OL,0,        ECIMSBWebfax 1   F219A1782591491
 OL,1,V7c#####5W7k#57kjs%wsjp4
 OL,2,V5!     5W%* %-.* %-,  %V,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday                 G3/4
-OL,5,G0005 Emergency Helicopter Medics
-OL,6,     FA decorator's had a nasty fall and
-OL,7,     Fmay have a bleed on the brain. A
-OL,8,     Fmotorcyclist is given ketamine
-OL,9,     Fafter breaking a leg. And Doreen
-OL,10,     Fhas been trampled by a foal.
-OL,11,G0110 24 Hours in A&E
-OL,12,     FNurse Emma has a narrow window of
-OL,13,     Ftime to help 71-year-old Thomas
-OL,14,     Fafter a suspected stroke. And
-OL,15,     F97-year-old Leslie is brought to
-OL,16,     FA&E after experiencing persistent
-OL,17,     Fnosebleeds.
+OL,5,G0110 24 Hours in A&E
+OL,6,     FNurse Emma has a narrow window of
+OL,7,     Ftime to help 71-year-old Thomas
+OL,8,     Fafter a suspected stroke. And
+OL,9,     F97-year-old Leslie is brought to
+OL,10,     FA&E after experiencing persistent
+OL,11,     Fnosebleeds.
+OL,12,G0215 24 Hours in A&E
+OL,13,     FPam, who's 82 and has Alzheimer's,
+OL,14,     Fis brought into St George's with
+OL,15,     Fsuspected sepsis. Theo, who's 27,
+OL,16,     Fhas hurt his knee playing
+OL,17,     Ffootball.
+OL,18,G0320 The Perfect Pitch
+OL,19,     FIn North Yorkshire, first host
+OL,20,     FCarol sprinkles some magic at the
+OL,21,     Ffantasy-themed glampsite North
+OL,22,     FShire.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,220,200,140,260,0,100
@@ -74,25 +79,14 @@ PN,21904
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F219A1782589677
+OL,0,        ECIMSBWebfax 1   F219A1782591491
 OL,1,V7c#####5W7k#57kjs%wsjp4
 OL,2,V5!     5W%* %-.* %-,  %V,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday                 G4/4
-OL,5,G0215 24 Hours in A&E
-OL,6,     FPam, who's 82 and has Alzheimer's,
-OL,7,     Fis brought into St George's with
-OL,8,     Fsuspected sepsis. Theo, who's 27,
-OL,9,     Fhas hurt his knee playing
-OL,10,     Ffootball.
-OL,11,G0320 The Perfect Pitch
-OL,12,     FIn North Yorkshire, first host
-OL,13,     FCarol sprinkles some magic at the
-OL,14,     Ffantasy-themed glampsite North
-OL,15,     FShire.
-OL,16,G0350 Discover Must Have Ideas: Shopping
-OL,17,     FDiscover the very latest
-OL,18,     Fmust-haves for your home and
-OL,19,     Fgarden with Must Have Ideas.
+OL,5,G0350 Discover Must Have Ideas: Shopping
+OL,6,     FDiscover the very latest
+OL,7,     Fmust-haves for your home and
+OL,8,     Fgarden with Must Have Ideas.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,220,200,140,260,0,100@
