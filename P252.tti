@@ -2,10 +2,10 @@ PN,25201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1782623945
+OL,0,        ECIMSBWebfax 1   F252A1782710347
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G1/10
+OL,3,Vupppppp5CTuesday                  G1/10
 OL,5,G0600 Peppa Pig
 OL,6,G0605 Peppa Pig
 OL,7,G0610 Tweedy & Fluff
@@ -31,13 +31,13 @@ PN,25202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1782623945
+OL,0,        ECIMSBWebfax 1   F252A1782710347
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G2/10
+OL,3,Vupppppp5CTuesday                  G2/10
 OL,5,G0850 Kangaroo Beach
 OL,6,G0900 Peppa Pig
-OL,7,G0905 Milkshake! Story Den
+OL,7,G0910 Milkshake! Story Den
 OL,8,G0915 Jeremy Vine
 OL,9,     FStart the day with a dose of
 OL,10,     Fhard-hitting debate, your phone
@@ -57,10 +57,10 @@ PN,25203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1782623945
+OL,0,        ECIMSBWebfax 1   F252A1782710347
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G3/10
+OL,3,Vupppppp5CTuesday                  G3/10
 OL,5,G1250 Matt Allwright
 OL,6,     FMatt looks at the big news stories
 OL,7,     Fdeveloping during the day and
@@ -74,9 +74,11 @@ OL,14,     Fto tell her what's on your mind.
 OL,15,     FFiery discussions, a good giggle
 OL,16,     Fand plenty of afternoon gossip!
 OL,17,G1500 Castle
-OL,18,     FCastle and Beckett investigate
-OL,19,     Fwhen a woman dies after watching a
-OL,20,     Fsupposedly supernatural video.
+OL,18,     FTrapped in his home with a broken
+OL,19,     Fleg and a pair of binoculars,
+OL,20,     FCastle comes to believe he has
+OL,21,     Fwitnessed a murder in a nearby
+OL,22,     Fproperty.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -84,23 +86,22 @@ PN,25204
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1782623945
+OL,0,        ECIMSBWebfax 1   F252A1782710347
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G4/10
+OL,3,Vupppppp5CTuesday                  G4/10
 OL,5,G1555 Castle
-OL,6,     FA baker found dead in an
-OL,7,     Findustrial dough mixer leads the
-OL,8,     Fteam to investigate the Irish mob
-OL,9,     Fon Staten Island.
-OL,10,G1650 Love Nature
-OL,11,     FIn Walsall, conservation charity
-OL,12,     FFrogLife leads the Coalface to
-OL,13,     FWild Space project. At Reedswood
-OL,14,     FPark they've repaired old failing
-OL,15,     Fponds to make them the ideal
-OL,16,     Fhabitat for amphibians.
-OL,17,G1700 5 News with Dan Walker
+OL,6,     FClaw wounds and giant footprints
+OL,7,     Fat the murder scene of a Bigfoot
+OL,8,     Fresearcher convince Castle that
+OL,9,     Fthe killer may be the legendary
+OL,10,     Fbeast.
+OL,11,G1650 Love Nature
+OL,12,     FWe discover how even in our inner
+OL,13,     Fcities, bird watching is something
+OL,14,     Fany of us can do, as we follow The
+OL,15,     FUrban Birder, David Lindo.
+OL,16,G1700 5 News with Dan Walker
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -108,25 +109,24 @@ PN,25205
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1782623945
+OL,0,        ECIMSBWebfax 1   F252A1782710347
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G5/10
+OL,3,Vupppppp5CTuesday                  G5/10
 OL,5,G1800 Kent: The Garden of England
-OL,6,     FStunning travelogue series
-OL,7,     Fnarrated by Bill Nighy,
-OL,8,     Fcelebrating the beauty of county
-OL,9,     Fknown as the Garden of England -
-OL,10,     Ffrom the White Cliffs of Dover to
-OL,11,     Fthe marshlands of the Thames
-OL,12,     FEstuary. (Ep1)
-OL,13,G1900 Motorway Cops: Catching Britain's
-OL,14,G     Speeders
-OL,15,     FNorthumbria Police face a daily
-OL,16,     Fbattle with dangerous and illegal
-OL,17,     Fmotorbike use. In Newcastle, cops
-OL,18,     Fpursue - by car and chopper - a
-OL,19,     Fgroup riding off-road.
+OL,6,     FIn this edition we join harvests
+OL,7,     Ffor hops and oysters, travel down
+OL,8,     Fthe beautiful River Stour, watch
+OL,9,     Fthe annual Weald of Kent ploughing
+OL,10,     Fmatch, and explore the Samphire
+OL,11,     FHoe nature reserve. (Ep2)
+OL,12,G1900 Secrets of the River Mersey
+OL,13,     FThe incredible history of the
+OL,14,     FMersey. The river is at the heart
+OL,15,     Fof the nation's shipbuilding
+OL,16,     Findustry, and, during World War II
+OL,17,     Fwould produce a new warship every
+OL,18,     Fthree weeks.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -134,24 +134,24 @@ PN,25206
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1782623945
+OL,0,        ECIMSBWebfax 1   F252A1782710347
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G6/10
-OL,5,G2000 Police Interceptors
-OL,6,     FWhile investigating the burglary
-OL,7,     Fof allegedly empty premises by a
-OL,8,     Fmachete-wielding masked gang, cops
-OL,9,     Fdiscover the house is hiding a
-OL,10,     Fcolossal three-storey cannabis
-OL,11,     Ffarm.
+OL,3,Vupppppp5CTuesday                  G6/10
+OL,5,G2000 Reuben Owen: Life in The Dales
+OL,6,     FIt's springtime in the Dales, and
+OL,7,     Fat Brough Castle Farm, Reuben and
+OL,8,     FJess race to stock-proof the
+OL,9,     Ffences before more than 300
+OL,10,     Fnewborn lambs arrive in the
+OL,11,     Ffields.
 OL,12,G2100 Riptide
-OL,13,     FThriller with Jo Joyner. Newlyweds
-OL,14,     FAlison and Sean's life seems
-OL,15,     Fperfect. But one morning, Sean
-OL,16,     Fgoes surfing and never returns.
-OL,17,     FThe police conclude he drowned -
-OL,18,     Fbut Alison is suspicious. (Ep1/4)
+OL,13,     FAlison's suspicions grow when she
+OL,14,     Flearns that Sean and his son Ethan
+OL,15,     Fargued on the beach. And Michael
+OL,16,     Fand Hannah's friend Logan have a
+OL,17,     Fsecret connection. With Benny
+OL,18,     FTurland. (Ep2/4)
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -159,24 +159,24 @@ PN,25207
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1782623945
+OL,0,        ECIMSBWebfax 1   F252A1782710347
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G7/10
+OL,3,Vupppppp5CTuesday                  G7/10
 OL,5,G2200 Aces of Tennis: The ATP No
-OL,6,     F1 Club. Four-part docuseries
-OL,7,     Fchronicling the obsession,
-OL,8,     Fsacrifice, and drive of the only
-OL,9,     F29 men who have reached world No.
-OL,10,     F1 in tennis. In this episode:
-OL,11,     Fplayers from the 1970s and 1980s.
-OL,12,G2305 Police: Night Shift 999
-OL,13,     FOfficers on the night shift tackle
-OL,14,     Fa crash on the Avon-Somerset
-OL,15,     Fborder after a van crashes on a
-OL,16,     Fmotorway, spreading debris all
-OL,17,     Fover the road and threatening the
-OL,18,     Flives of motorists.
+OL,6,     F1 Club. As competition increased
+OL,7,     Fin the 1990s, this episode details
+OL,8,     Fthe power, precision, and pressure
+OL,9,     Fthat defined that decade, when
+OL,10,     Freaching the top spot became
+OL,11,     Fharder than ever. (Ep2/4)
+OL,12,G2305 Murder Scene: The Incident Room
+OL,13,     FIn Swindon, 60-year-old Tom Rogers
+OL,14,     Fwas brutally stabbed by a
+OL,15,     Fstranger. Investigators must piece
+OL,16,     Ftogether every shred of evidence
+OL,17,     Fto see whether the same killer has
+OL,18,     Fattacked before.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -184,28 +184,28 @@ PN,25208
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1782623945
+OL,0,        ECIMSBWebfax 1   F252A1782710347
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G8/10
-OL,5,G0005 World Cup 2026: Uncensored with
-OL,6,G     Piers Morgan
-OL,7,     FPiers partners with former Crystal
-OL,8,     FPalace chairman Simon Jordan for a
-OL,9,     Fstar-studded show featuring former
-OL,10,     FEngland captain John Terry and a
-OL,11,     Fhost of special guests. (Ep1)
+OL,3,Vupppppp5CTuesday                  G8/10
+OL,5,G0005 Britain's Most Dangerous Prisoners
+OL,6,     FJames O'Rourke's reputation has
+OL,7,     Fmade him one of the UK's most
+OL,8,     Ffeared prisoners. He's attacked
+OL,9,     Fprison officers, even holding some
+OL,10,     Fhostage, and in 2022 murdered a
+OL,11,     Ffellow inmate.
 OL,12,G0100 Cruise TV with LoveitBookit
 OL,13,G0200 Teleshopping
-OL,14,G0230 Inside Aldi: Britain's Biggest
-OL,15,G     Budget Supermarket
-OL,16,     FDocumentary exploring how the
-OL,17,     FGerman supermarket has swept the
-OL,18,     FUK. Former staff reveal how Aldi
-OL,19,     Fcuts costs and how own brand goods
-OL,20,     Ftaste like their big-name
-OL,21,     Fcounterparts.
-OL,22,G0320 Friends
+OL,14,G0230 Garden Makeovers from Hell
+OL,15,     FGarden disasters including a dream
+OL,16,     Fgarden destroyed by flood, a tree
+OL,17,     Fsurgeon whose chainsaw catches
+OL,18,     Ffire, and Martin Roberts
+OL,19,     Faccidentally rubbing poison in his
+OL,20,     Feyes.
+OL,21,G0345 Friends
+OL,22,G0410 Friends
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -213,27 +213,24 @@ PN,25209
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1782623945
+OL,0,        ECIMSBWebfax 1   F252A1782710347
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G9/10
-OL,5,G0345 Friends
-OL,6,G0410 Friends
-OL,7,G0435 ** Visually Signed** Paul...
-OL,8,     F...Martin's Antiques Showdown. In
-OL,9,     FBerkshire, Paul goes head to head
-OL,10,     Fwith local expert Jessica
-OL,11,     FForrester. Will either auctioneer
-OL,12,     Fbe wowed by police badges or a
-OL,13,     Fpewter model car? (Ep31)
-OL,14,G0525 Entertainment News on 5
-OL,15,G0535 Milo
-OL,16,     FWhen Suds transports Milo, Lofty
-OL,17,     Fand Lark to Stevie Snipz'
-OL,18,     Fsuper-cool salon they get busy
-OL,19,     Fstyling her demanding clients and
-OL,20,     Fwaiting for her mystery VIP to
-OL,21,     Farrive.
+OL,3,Vupppppp5CTuesday                  G9/10
+OL,5,G0435 ** Visually Signed** Paul...
+OL,6,     F...Martin's Antiques Showdown.
+OL,7,     FWill either Paul or Jessica be
+OL,8,     Ftempted by a statue of Hermes, a
+OL,9,     Fvintage pallet truck, or a fishing
+OL,10,     Fdisplay case? (Ep32)
+OL,11,G0525 Entertainment News on 5
+OL,12,G0535 Milo
+OL,13,     FWhen Heidi Hop bounces into
+OL,14,     FScrubby's to have her stained
+OL,15,     Foutfit cleaned, Milo, Lofty and
+OL,16,     FLark feel inspired to go on a
+OL,17,     Fbotanical adventure to discover
+OL,18,     Fthe rarest plant of all.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -241,17 +238,17 @@ PN,25210
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1782623945
+OL,0,        ECIMSBWebfax 1   F252A1782710347
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                  G10/10
+OL,3,Vupppppp5CTuesday                 G10/10
 OL,5,G0550 Mixmups
-OL,6,     FThe Mixmups mix up a Perfect
-OL,7,     FPresent adventure to make a
-OL,8,     Fpresent for Roller Guinea. But
-OL,9,     Fwhen Roller Guinea doesn't like
-OL,10,     Fthe gift, will they find another
-OL,11,     Fway to make him happy? (Ep23)
+OL,6,     FThe Mixmups mix up a Colouring In
+OL,7,     Fadventure and paint a giant LLB,
+OL,8,     Fusing a flying Heli-brush to reach
+OL,9,     Fthe top of the picture. Buy they
+OL,10,     Fget paint splatters everywhere!
+OL,11,     F(Ep24)
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100@

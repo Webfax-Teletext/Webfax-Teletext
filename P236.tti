@@ -2,10 +2,10 @@ PN,23601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1782623944
+OL,0,        ECIMSBWebfax 1   F236A1782710346
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G1/10
+OL,3,Vupppppp5CTuesday                  G1/10
 OL,5,G0600 BBC News
 OL,6,G0630 Business Today
 OL,7,     FBringing the latest business news
@@ -31,10 +31,10 @@ PN,23602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1782623944
+OL,0,        ECIMSBWebfax 1   F236A1782710346
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G2/10
+OL,3,Vupppppp5CTuesday                  G2/10
 OL,5,G1130 Business Today
 OL,6,     FBringing the latest business news
 OL,7,     Fand up-to-date informed analysis
@@ -60,10 +60,10 @@ PN,23603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1782623944
+OL,0,        ECIMSBWebfax 1   F236A1782710346
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G3/10
+OL,3,Vupppppp5CTuesday                  G3/10
 OL,5,G1430 Business Today - NYSE Opening Bell
 OL,6,     FBringing the latest business news
 OL,7,     Fand up-to-date informed analysis
@@ -88,10 +88,10 @@ PN,23604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1782623944
+OL,0,        ECIMSBWebfax 1   F236A1782710346
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G4/10
+OL,3,Vupppppp5CTuesday                  G4/10
 OL,5,G1600 Verified Live
 OL,6,     FMatthew Amroliwala presents all
 OL,7,     Fthe latest global and UK news,
@@ -117,10 +117,10 @@ PN,23605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1782623944
+OL,0,        ECIMSBWebfax 1   F236A1782710346
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G5/10
+OL,3,Vupppppp5CTuesday                  G5/10
 OL,5,G1830 The World Today with Maryam
 OL,6,G     Moshiri
 OL,7,     FWatch the best of the BBC's
@@ -144,10 +144,10 @@ PN,23606
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1782623944
+OL,0,        ECIMSBWebfax 1   F236A1782710346
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G6/10
+OL,3,Vupppppp5CTuesday                  G6/10
 OL,5,G2030 The Context USA
 OL,6,     FSpecial coverage from Washington
 OL,7,     FDC and London, focusing on
@@ -171,10 +171,10 @@ PN,23607
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1782623944
+OL,0,        ECIMSBWebfax 1   F236A1782710346
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G7/10
+OL,3,Vupppppp5CTuesday                  G7/10
 OL,5,G2300 BBC World News America
 OL,6,     FThe BBC presents in-depth reports
 OL,7,     Fon the major international and US
@@ -185,12 +185,13 @@ OL,11,G0030 Newscast
 OL,12,     FLighthearted discussion of the
 OL,13,     Fday's news.
 OL,14,G0100 BBC News
-OL,15,G0130 Talking Business
-OL,16,     FBen Thompson talks to industry
-OL,17,     Fplayers about the dangers and
-OL,18,     Fpotential of artificial
-OL,19,     Fintelligence which improves itself
-OL,20,     Fwithout human interaction. .
+OL,15,G0130 Tech Now
+OL,16,     FAndrew Rogers explores the latest
+OL,17,     Ftech being trialled to help people
+OL,18,     Fstay underwater for longer, and
+OL,19,     FJoe Tidy reports on a huge U-turn
+OL,20,     Ffor big tech as Instagram stops
+OL,21,     Fend-to-end encryption.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,0,100
@@ -198,10 +199,10 @@ PN,23608
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1782623944
+OL,0,        ECIMSBWebfax 1   F236A1782710346
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G8/10
+OL,3,Vupppppp5CTuesday                  G8/10
 OL,5,G0200 Newsday
 OL,6,     FLive from Singapore, the latest
 OL,7,     Finternational news from the BBC.
@@ -223,26 +224,25 @@ PN,23609
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1782623944
+OL,0,        ECIMSBWebfax 1   F236A1782710346
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G9/10
+OL,3,Vupppppp5CTuesday                  G9/10
 OL,5,G0330 Business Today
 OL,6,     FBringing the latest business news
 OL,7,     Fand up-to-date informed analysis
 OL,8,     Ffrom Singapore and around the
 OL,9,     Fworld.
-OL,10,G0345 Newsday
-OL,11,     FLive from Singapore, the latest
-OL,12,     Finternational news from the BBC.
-OL,13,G0400 Newsday
-OL,14,     FLive from Singapore, the latest
-OL,15,     Finternational news from the BBC.
-OL,16,G0430 Business Today
-OL,17,     FBringing the latest business news
-OL,18,     Fand up-to-date informed analysis
-OL,19,     Ffrom Singapore and around the
-OL,20,     Fworld.
+OL,10,G0345 Asia Specific
+OL,11,     FAsia Specific brings you essential
+OL,12,     Finsights and conversations on the
+OL,13,     Fstories and trends shaping Asia
+OL,14,     FPacific, unpacked by those who
+OL,15,     Fknow it best. Hosted in Singapore
+OL,16,     Fby Mariko Oi.
+OL,17,G0400 Newsday
+OL,18,     FLive from Singapore, the latest
+OL,19,     Finternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,0,100
@@ -250,18 +250,27 @@ PN,23610
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1782623944
+OL,0,        ECIMSBWebfax 1   F236A1782710346
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                  G10/10
-OL,5,G0445 Newsday
-OL,6,     FLive from Singapore, the latest
-OL,7,     Finternational news from the BBC.
-OL,8,G0500 BBC News
-OL,9,G0530 Business Today
-OL,10,     FBringing the latest business news
-OL,11,     Fand up-to-date informed analysis
-OL,12,     Ffrom London and around the world.
+OL,3,Vupppppp5CTuesday                 G10/10
+OL,5,G0430 Business Today
+OL,6,     FBringing the latest business news
+OL,7,     Fand up-to-date informed analysis
+OL,8,     Ffrom Singapore and around the
+OL,9,     Fworld.
+OL,10,G0445 Asia Specific
+OL,11,     FAsia Specific brings you essential
+OL,12,     Finsights and conversations on the
+OL,13,     Fstories and trends shaping Asia
+OL,14,     FPacific, unpacked by those who
+OL,15,     Fknow it best. Hosted in Singapore
+OL,16,     Fby Mariko Oi.
+OL,17,G0500 BBC News
+OL,18,G0530 Business Today
+OL,19,     FBringing the latest business news
+OL,20,     Fand up-to-date informed analysis
+OL,21,     Ffrom London and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,0,100@
