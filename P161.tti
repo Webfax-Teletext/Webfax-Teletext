@@ -1,25 +1,41 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1782661674
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1782704871
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will
-OL,6,Fremain cloudy in northwest Scotland
-OL,7,Fwith some showery outbreaks of rain,
-OL,8,Fbreezy here too. Drier elsewhere with
-OL,9,Fclear spells for many and lighter
-OL,10,Fwinds. A much fresher feeling night
-OL,11,Fcompared to recent ones.
+OL,5,CToday:FLargely dry across the UK today
+OL,6,Fwith prolonged sunny spells at first.
+OL,7,FCloud will increase a little into the
+OL,8,Fafternoon, particularly in the west.
+OL,9,FScattered showers will also move into
+OL,10,FNorthern Ireland and western Scotland.
+OL,11,FWarm in the sunshine.
 OL,12,
-OL,13,CMonday:FDry with sunny spells for many
-OL,14,Fof us on Monday. Scattered showers are
-OL,15,Fpossible across the north, where it
-OL,16,Fwill be breezy. Temperatures around
-OL,17,Fthe seasonal average for most.
+OL,13,CTonight:FA heavy spell of rain will
+OL,14,Fmove into the northwest with brisk
+OL,15,Fwinds. Drier elsewhere with clear
+OL,16,Fspells and a fresh night for many.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1782704871
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CTuesday:FCloudy in the north and west
+OL,6,Fwith showery outbreaks of rain. Rain
+OL,7,Fwill be heavy at times with a risk of
+OL,8,Fthunder in the north. Drier in the
+OL,9,Fsoutheast.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
