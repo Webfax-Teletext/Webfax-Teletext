@@ -2,7 +2,7 @@ PN,27101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F271A1782739111
+OL,0,        ECIMSBWebfax 1   F271A1782742732
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,$FNE/CUMBRIA
 OL,3,Vupppppp5CMonday                   G1/2
@@ -17,13 +17,9 @@ OL,12,G1900 Wimbledon 2026
 OL,13,     FLive coverage of the Championships
 OL,14,     Fat the All England Lawn Tennis
 OL,15,     FClub at Wimbledon.
-OL,16,G2200 BBC News and Weather
-OL,17,G2230 Look North (North East and
+OL,16,G2030 BBC News and Weather
+OL,17,G2055 Look North (North East and
 OL,18,G     Cumbria)
-OL,19,G2240 Mrs Brown's Boys D'Movie
-OL,20,     FMrs Brown faces car chases and
-OL,21,     Fninjas as she battles to save her
-OL,22,     FDublin market stall.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,272,260,140,200,0,100
@@ -31,12 +27,21 @@ PN,27102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F271A1782739111
+OL,0,        ECIMSBWebfax 1   F271A1782742732
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,$FNE/CUMBRIA
 OL,3,Vupppppp5CMonday                   G2/2
-OL,5,G0010 Weather for the Week Ahead
-OL,6,G0015 BBC News
+OL,5,G2100 MOTD Live: Germany v Paraguay
+OL,6,     FLive coverage from the 2026 FIFA
+OL,7,     FWorld Cup of the round of 32 match
+OL,8,     Fbetween Germany and Paraguay in
+OL,9,     FBoston.
+OL,10,G0000 Mrs Brown's Boys D'Movie
+OL,11,     FMrs Brown faces car chases and
+OL,12,     Fninjas as she battles to save her
+OL,13,     FDublin market stall.
+OL,14,G0130 Weather for the Week Ahead
+OL,15,G0135 BBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,272,260,140,200,0,100@
