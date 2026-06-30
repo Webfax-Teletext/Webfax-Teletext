@@ -2,28 +2,26 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782847100
+OL,0,        ECIMSBWebfax 1   F206A1782848907
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday                  G1/5
-OL,5,G2000 The Context USA
+OL,5,G2030 The Context USA
 OL,6,     FSpecial coverage from Washington
 OL,7,     FDC and London, focusing on
 OL,8,     FPresident Trump's second term.
-OL,9,G2030 The Context USA
-OL,10,     FSpecial coverage from Washington
-OL,11,     FDC and London, focusing on
-OL,12,     FPresident Trump's second term.
-OL,13,G2100 The Context
-OL,14,     FA regular panel of guests from
-OL,15,     Facross the political spectrum
-OL,16,     Fdiscuss the biggest international
-OL,17,     Fstories of the day.
-OL,18,G2130 The Context
-OL,19,     FA regular panel of guests from
-OL,20,     Facross the political spectrum
-OL,21,     Fdiscuss the biggest international
-OL,22,     Fstories of the day.
+OL,9,G2100 The Context
+OL,10,     FA regular panel of guests from
+OL,11,     Facross the political spectrum
+OL,12,     Fdiscuss the biggest international
+OL,13,     Fstories of the day.
+OL,14,G2130 The Context
+OL,15,     FA regular panel of guests from
+OL,16,     Facross the political spectrum
+OL,17,     Fdiscuss the biggest international
+OL,18,     Fstories of the day.
+OL,19,G2200 BBC News at Ten
+OL,20,G2230 Newsnight
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -31,22 +29,27 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782847100
+OL,0,        ECIMSBWebfax 1   F206A1782848907
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday                  G2/5
-OL,5,G2200 BBC News at Ten
-OL,6,G2230 Newsnight
-OL,7,G2300 BBC World News America
-OL,8,     FThe BBC presents in-depth reports
-OL,9,     Fon the major international and US
-OL,10,     Fnews of the day presented from
-OL,11,     FWashington DC.
-OL,12,G0000 BBC News
-OL,13,G0030 Newscast
-OL,14,     FLighthearted discussion of the
-OL,15,     Fday's news.
-OL,16,G0100 BBC News
+OL,5,G2300 BBC World News America
+OL,6,     FThe BBC presents in-depth reports
+OL,7,     Fon the major international and US
+OL,8,     Fnews of the day presented from
+OL,9,     FWashington DC.
+OL,10,G0000 BBC News
+OL,11,G0030 Newscast
+OL,12,     FLighthearted discussion of the
+OL,13,     Fday's news.
+OL,14,G0100 BBC News
+OL,15,G0130 Tech Now
+OL,16,     FAndrew Rogers explores the latest
+OL,17,     Ftech being trialled to help people
+OL,18,     Fstay underwater for longer, and
+OL,19,     FJoe Tidy reports on a huge U-turn
+OL,20,     Ffor big tech as Instagram stops
+OL,21,     Fend-to-end encryption.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -54,28 +57,24 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782847100
+OL,0,        ECIMSBWebfax 1   F206A1782848907
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday                  G3/5
-OL,5,G0130 Tech Now
-OL,6,     FAndrew Rogers explores the latest
-OL,7,     Ftech being trialled to help people
-OL,8,     Fstay underwater for longer, and
-OL,9,     FJoe Tidy reports on a huge U-turn
-OL,10,     Ffor big tech as Instagram stops
-OL,11,     Fend-to-end encryption.
-OL,12,G0200 Newsday
-OL,13,     FLive from Singapore, the latest
-OL,14,     Finternational news from the BBC.
-OL,15,G0230 Business Today
-OL,16,     FBringing the latest business news
-OL,17,     Fand up-to-date informed analysis
-OL,18,     Ffrom Singapore and around the
-OL,19,     Fworld.
-OL,20,G0245 Newsday
-OL,21,     FLive from Singapore, the latest
-OL,22,     Finternational news from the BBC.
+OL,5,G0200 Newsday
+OL,6,     FLive from Singapore, the latest
+OL,7,     Finternational news from the BBC.
+OL,8,G0230 Business Today
+OL,9,     FBringing the latest business news
+OL,10,     Fand up-to-date informed analysis
+OL,11,     Ffrom Singapore and around the
+OL,12,     Fworld.
+OL,13,G0245 Newsday
+OL,14,     FLive from Singapore, the latest
+OL,15,     Finternational news from the BBC.
+OL,16,G0300 Newsday
+OL,17,     FLive from Singapore, the latest
+OL,18,     Finternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -83,28 +82,25 @@ PN,20604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782847100
+OL,0,        ECIMSBWebfax 1   F206A1782848907
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday                  G4/5
-OL,5,G0300 Newsday
-OL,6,     FLive from Singapore, the latest
-OL,7,     Finternational news from the BBC.
-OL,8,G0330 Business Today
-OL,9,     FBringing the latest business news
-OL,10,     Fand up-to-date informed analysis
-OL,11,     Ffrom Singapore and around the
-OL,12,     Fworld.
-OL,13,G0345 Asia Specific
-OL,14,     FAsia Specific brings you essential
-OL,15,     Finsights and conversations on the
-OL,16,     Fstories and trends shaping Asia
-OL,17,     FPacific, unpacked by those who
-OL,18,     Fknow it best. Hosted in Singapore
-OL,19,     Fby Mariko Oi.
-OL,20,G0400 Newsday
-OL,21,     FLive from Singapore, the latest
-OL,22,     Finternational news from the BBC.
+OL,5,G0330 Business Today
+OL,6,     FBringing the latest business news
+OL,7,     Fand up-to-date informed analysis
+OL,8,     Ffrom Singapore and around the
+OL,9,     Fworld.
+OL,10,G0345 Asia Specific
+OL,11,     FAsia Specific brings you essential
+OL,12,     Finsights and conversations on the
+OL,13,     Fstories and trends shaping Asia
+OL,14,     FPacific, unpacked by those who
+OL,15,     Fknow it best. Hosted in Singapore
+OL,16,     Fby Mariko Oi.
+OL,17,G0400 Newsday
+OL,18,     FLive from Singapore, the latest
+OL,19,     Finternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -112,7 +108,7 @@ PN,20605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782847100
+OL,0,        ECIMSBWebfax 1   F206A1782848907
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday                  G5/5
