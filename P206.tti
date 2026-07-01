@@ -2,25 +2,28 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782893891
+OL,0,        ECIMSBWebfax 1   F206A1782895707
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G1/9
-OL,5,G0900 BBC News
-OL,6,G0930 BBC News
-OL,7,G1000 BBC News
-OL,8,G1030 BBC News
-OL,9,G1100 BBC News
-OL,10,G1130 Business Today
-OL,11,     FBringing the latest business news
-OL,12,     Fand up-to-date informed analysis
-OL,13,     Ffrom London and around the world.
-OL,14,G1145 BBC News
-OL,15,G1155 Politics Live: Prime Minister's
-OL,16,G     Questions
-OL,17,     FThe big political issues of the
-OL,18,     Fday.
-OL,19,G1300 Signed: BBC News at One
+OL,5,G0930 BBC News
+OL,6,G1000 BBC News
+OL,7,G1030 BBC News
+OL,8,G1100 BBC News
+OL,9,G1130 Business Today
+OL,10,     FBringing the latest business news
+OL,11,     Fand up-to-date informed analysis
+OL,12,     Ffrom London and around the world.
+OL,13,G1145 BBC News
+OL,14,G1155 Politics Live: Prime Minister's
+OL,15,G     Questions
+OL,16,     FThe big political issues of the
+OL,17,     Fday.
+OL,18,G1300 Signed: BBC News at One
+OL,19,G1400 BBC News Now
+OL,20,     FAll the big stories, live as they
+OL,21,     Fhappen, presented by Lucy
+OL,22,     FHockings.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -28,24 +31,24 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782893891
+OL,0,        ECIMSBWebfax 1   F206A1782895707
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G2/9
-OL,5,G1400 BBC News Now
-OL,6,     FAll the big stories, live as they
-OL,7,     Fhappen, presented by Lucy
-OL,8,     FHockings.
-OL,9,G1430 Business Today - NYSE Opening Bell
-OL,10,     FBringing the latest business news
-OL,11,     Fand up-to-date informed analysis
-OL,12,     Ffrom New York and around the
-OL,13,     Fworld.
-OL,14,G1445 BBC News Now
-OL,15,     FAll the big stories, live as they
-OL,16,     Fhappen, presented by Lucy
-OL,17,     FHockings.
-OL,18,G1500 Verified Live
+OL,5,G1430 Business Today - NYSE Opening Bell
+OL,6,     FBringing the latest business news
+OL,7,     Fand up-to-date informed analysis
+OL,8,     Ffrom New York and around the
+OL,9,     Fworld.
+OL,10,G1445 BBC News Now
+OL,11,     FAll the big stories, live as they
+OL,12,     Fhappen, presented by Lucy
+OL,13,     FHockings.
+OL,14,G1500 Verified Live
+OL,15,     FMatthew Amroliwala presents all
+OL,16,     Fthe latest global and UK news,
+OL,17,     Flive from London.
+OL,18,G1530 Verified Live
 OL,19,     FMatthew Amroliwala presents all
 OL,20,     Fthe latest global and UK news,
 OL,21,     Flive from London.
@@ -56,26 +59,27 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782893891
+OL,0,        ECIMSBWebfax 1   F206A1782895707
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G3/9
-OL,5,G1530 Verified Live
+OL,5,G1600 Verified Live
 OL,6,     FMatthew Amroliwala presents all
 OL,7,     Fthe latest global and UK news,
 OL,8,     Flive from London.
-OL,9,G1600 Verified Live
-OL,10,     FMatthew Amroliwala presents all
-OL,11,     Fthe latest global and UK news,
-OL,12,     Flive from London.
-OL,13,G1630 Business Today
-OL,14,     FBringing the latest business news
-OL,15,     Fand up-to-date informed analysis
-OL,16,     Ffrom London and around the world.
-OL,17,G1645 Verified Live
+OL,9,G1630 Business Today
+OL,10,     FBringing the latest business news
+OL,11,     Fand up-to-date informed analysis
+OL,12,     Ffrom London and around the world.
+OL,13,G1645 Verified Live
+OL,14,     FMatthew Amroliwala presents all
+OL,15,     Fthe latest global and UK news,
+OL,16,     Flive from London.
+OL,17,G1700 Verified Live
 OL,18,     FMatthew Amroliwala presents all
 OL,19,     Fthe latest global and UK news,
 OL,20,     Flive from London.
+OL,21,G1730 BBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -83,27 +87,26 @@ PN,20604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782893891
+OL,0,        ECIMSBWebfax 1   F206A1782895707
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G4/9
-OL,5,G1700 Verified Live
-OL,6,     FMatthew Amroliwala presents all
-OL,7,     Fthe latest global and UK news,
-OL,8,     Flive from London.
-OL,9,G1730 BBC News
-OL,10,G1800 The World Today with Maryam
-OL,11,G     Moshiri
-OL,12,     FWatch the best of the BBC's
-OL,13,     Fjournalism from around the world.
-OL,14,G1830 The World Today with Maryam
-OL,15,G     Moshiri
-OL,16,     FWatch the best of the BBC's
-OL,17,     Fjournalism from around the world.
-OL,18,G1900 The World Today with Maryam
-OL,19,G     Moshiri
-OL,20,     FWatch the best of the BBC's
-OL,21,     Fjournalism from around the world.
+OL,5,G1800 The World Today with Maryam
+OL,6,G     Moshiri
+OL,7,     FWatch the best of the BBC's
+OL,8,     Fjournalism from around the world.
+OL,9,G1830 The World Today with Maryam
+OL,10,G     Moshiri
+OL,11,     FWatch the best of the BBC's
+OL,12,     Fjournalism from around the world.
+OL,13,G1900 The World Today with Maryam
+OL,14,G     Moshiri
+OL,15,     FWatch the best of the BBC's
+OL,16,     Fjournalism from around the world.
+OL,17,G1930 The World Today with Maryam
+OL,18,G     Moshiri
+OL,19,     FWatch the best of the BBC's
+OL,20,     Fjournalism from around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -111,27 +114,28 @@ PN,20605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782893891
+OL,0,        ECIMSBWebfax 1   F206A1782895707
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G5/9
-OL,5,G1930 The World Today with Maryam
-OL,6,G     Moshiri
-OL,7,     FWatch the best of the BBC's
-OL,8,     Fjournalism from around the world.
-OL,9,G2000 The Context USA
+OL,5,G2000 The Context USA
+OL,6,     FSpecial coverage from Washington
+OL,7,     FDC and London, focusing on
+OL,8,     FPresident Trump's second term.
+OL,9,G2030 The Context USA
 OL,10,     FSpecial coverage from Washington
 OL,11,     FDC and London, focusing on
 OL,12,     FPresident Trump's second term.
-OL,13,G2030 The Context USA
-OL,14,     FSpecial coverage from Washington
-OL,15,     FDC and London, focusing on
-OL,16,     FPresident Trump's second term.
-OL,17,G2100 The Context
-OL,18,     FA regular panel of guests from
-OL,19,     Facross the political spectrum
-OL,20,     Fdiscuss the biggest international
-OL,21,     Fstories of the day.
+OL,13,G2100 The Context
+OL,14,     FA regular panel of guests from
+OL,15,     Facross the political spectrum
+OL,16,     Fdiscuss the biggest international
+OL,17,     Fstories of the day.
+OL,18,G2130 The Context
+OL,19,     FA regular panel of guests from
+OL,20,     Facross the political spectrum
+OL,21,     Fdiscuss the biggest international
+OL,22,     Fstories of the day.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -139,27 +143,22 @@ PN,20606
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782893891
+OL,0,        ECIMSBWebfax 1   F206A1782895707
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G6/9
-OL,5,G2130 The Context
-OL,6,     FA regular panel of guests from
-OL,7,     Facross the political spectrum
-OL,8,     Fdiscuss the biggest international
-OL,9,     Fstories of the day.
-OL,10,G2200 BBC News at Ten
-OL,11,G2230 Newsnight
-OL,12,G2300 BBC World News America
-OL,13,     FThe BBC presents in-depth reports
-OL,14,     Fon the major international and US
-OL,15,     Fnews of the day presented from
-OL,16,     FWashington DC.
-OL,17,G0000 BBC News
-OL,18,G0030 Newscast
-OL,19,     FLighthearted discussion of the
-OL,20,     Fday's news.
-OL,21,G0100 BBC News
+OL,5,G2200 BBC News at Ten
+OL,6,G2230 Newsnight
+OL,7,G2300 BBC World News America
+OL,8,     FThe BBC presents in-depth reports
+OL,9,     Fon the major international and US
+OL,10,     Fnews of the day presented from
+OL,11,     FWashington DC.
+OL,12,G0000 BBC News
+OL,13,G0030 Newscast
+OL,14,     FLighthearted discussion of the
+OL,15,     Fday's news.
+OL,16,G0100 BBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -167,7 +166,7 @@ PN,20607
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782893891
+OL,0,        ECIMSBWebfax 1   F206A1782895707
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G7/9
@@ -196,7 +195,7 @@ PN,20608
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782893891
+OL,0,        ECIMSBWebfax 1   F206A1782895707
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G8/9
@@ -221,7 +220,7 @@ PN,20609
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1782893891
+OL,0,        ECIMSBWebfax 1   F206A1782895707
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G9/9
