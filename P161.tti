@@ -1,26 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1783012718
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1783048683
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will
-OL,6,Fremain breezy in the north with patchy
-OL,7,Frain, mainly affecting the west of
-OL,8,FScotland and on higher ground.
-OL,9,FElsewhere stays mostly dry with clear
-OL,10,Fperiods leading to a few fog patches.
-OL,11,FA mild night.
+OL,5,CToday:FMost places having a fine and
+OL,6,Fdry day, with plenty of warm spells of
+OL,7,Fsunshine. However, it will generally
+OL,8,Fbe cloudier across Northern Ireland
+OL,9,Fand western Scotland, with an
+OL,10,Fincreasing risk of showery rain here.
+OL,11,FWinds lighter than on Thursday.
 OL,12,
-OL,13,CFriday:FFriday looks breezy in the
-OL,14,Fnorthwest with cloud and patchy
-OL,15,Fdrizzle, giving way to some more
-OL,16,Fpersistent rain later. Mostly fine
-OL,17,Felsewhere with lighter winds and some
-OL,18,Fvery warm sunshine.
+OL,13,CTonight:FCloud and outbreaks of rain
+OL,14,Fwill continue across parts of Scotland
+OL,15,Fand Northern Ireland, pushing into
+OL,16,Fwestern parts of England and Wales.
+OL,17,FClear spells holding on across
+OL,18,Fsoutheast England. Mild.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1783048683
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FRather cloudy in the north
+OL,6,Fand west, with some patchy rain. This
+OL,7,Fbecoming mainly confined to western
+OL,8,FScotland by the evening. Warm spells
+OL,9,Fof sunshine developing across much of
+OL,10,FEngland.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
