@@ -2,7 +2,7 @@ PN,23101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F231A1783142345
+OL,0,        ECIMSBWebfax 1   F231A1783192702
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CSunday                   G1/5
@@ -11,18 +11,16 @@ OL,6,     FThe latest news, sport, business
 OL,7,     Fand weather from the BBC's
 OL,8,     FBreakfast team.
 OL,9,G0900 Sunday with Laura Kuenssberg
-OL,10,     FThe big names behind the big
-OL,11,     Fstories. Laura Kuenssberg talks to
-OL,12,     Fthose making the news, inside and
-OL,13,     Foutside politics.
-OL,14,G1000 Politics London
-OL,15,     FThe latest political news,
-OL,16,     Finterviews and debate.
-OL,17,G1030 Prayer and Reflection from Guru...
-OL,18,     F...Nanak Darbar Gurdwara,
-OL,19,     FGravesend. Guru Nanak Darbar
-OL,20,     FGurdwara, Gravesend, invites us to
-OL,21,     Fjoin their daily Sikh service.
+OL,10,     FLaura Kuenssberg talks to those
+OL,11,     Fmaking the news, inside and
+OL,12,     Foutside politics.
+OL,13,G1000 Politics London
+OL,14,     FThe latest political news,
+OL,15,     Finterviews and debate.
+OL,16,G1030 Prayer and Reflection
+OL,17,     FGuru Nanak Darbar Gurdwara,
+OL,18,     FGravesend, invites us to join
+OL,19,     Ftheir daily Sikh service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,232,200,140,260,0,100
@@ -30,23 +28,26 @@ PN,23102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F231A1783142345
+OL,0,        ECIMSBWebfax 1   F231A1783192702
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CSunday                   G2/5
 OL,5,G1100 Bargain Hunt
 OL,6,     FNatasha Raskin Sharp presents from
 OL,7,     Fthe East of England Showground in
-OL,8,     FPeterborough, with experts Ben
-OL,9,     FCooper and Gary Pe on hand to help
-OL,10,     Fthe teams.
-OL,11,G1130 Points of View
-OL,12,     F10/20. Viewers have their say on
-OL,13,     Fthe BBC's television programmes.
-OL,14,     FEmail your thoughts to
-OL,15,     Fpov@bbc.co.uk, tweet @bbcPoV or
-OL,16,     Fsearch Facebook for BBC Points of
-OL,17,     FView.
+OL,8,     FPeterborough.
+OL,9,G1130 Points of View
+OL,10,     FViewers have their say on the
+OL,11,     FBBC's television shows. Email your
+OL,12,     Fthoughts to pov@bbc.co.uk
+OL,13,G1145 Songs of Praise
+OL,14,     FPam Rhodes explores the imagery
+OL,15,     Fand power of water in the Bible
+OL,16,     Fthrough much-loved hymns.
+OL,17,G1220 BBC Weekend News
+OL,18,     FThe latest national and
+OL,19,     Finternational news from the BBC.
+OL,20,G1230 Weather for the Week Ahead
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,232,200,140,260,0,100
@@ -54,25 +55,26 @@ PN,23103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F231A1783142345
+OL,0,        ECIMSBWebfax 1   F231A1783192702
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CSunday                   G3/5
-OL,5,G1145 Songs of Praise: Water of Life
-OL,6,     FPam Rhodes visits Ashburnham Place
-OL,7,     FRetreat Centre in East Sussex to
-OL,8,     Fintroduce much-loved hymns that
-OL,9,     Fexplore the profound meaning of
-OL,10,     Fwater in the Bible and in the
-OL,11,     FChristian faith.
-OL,12,G1220 BBC News
-OL,13,G1230 Weather for the Week Ahead
-OL,14,G1235 Wimbledon 2026
+OL,5,G1235 Wimbledon
+OL,6,     FLive coverage of the Championships
+OL,7,     Fat the All England Lawn Tennis
+OL,8,     FClub at Wimbledon.
+OL,9,G1740 BBC Weekend News
+OL,10,     FThe latest national and
+OL,11,     Finternational news from the BBC.
+OL,12,G1755 BBC Weather
+OL,13,     FThe latest weather forecast.
+OL,14,G1800 Wimbledon
 OL,15,     FLive coverage of the Championships
 OL,16,     Fat the All England Lawn Tennis
 OL,17,     FClub at Wimbledon.
-OL,18,G1740 BBC News
-OL,19,G1755 Weather
+OL,18,G2200 BBC Weekend News
+OL,19,     FThe latest national and
+OL,20,     Finternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,232,200,140,260,0,100
@@ -80,27 +82,26 @@ PN,23104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F231A1783142345
+OL,0,        ECIMSBWebfax 1   F231A1783192702
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CSunday                   G4/5
-OL,5,G1800 Wimbledon 2026
-OL,6,     FLive coverage of the Championships
-OL,7,     Fat the All England Lawn Tennis
-OL,8,     FClub at Wimbledon.
-OL,9,G2200 BBC News and Weather
-OL,10,G2225 BBC London News
-OL,11,G2230 The Weakest Link
-OL,12,     F13/15. The celebrity contestants
-OL,13,     Finclude JB Gill, Kaye Adams, Helen
-OL,14,     FFlanagan and Davood Ghadami.
-OL,15,G2315 Pointless Celebrities
-OL,16,     FPresented by Alexander Armstrong
-OL,17,     Fand co-host Richard Osman.
-OL,18,     FFeaturing Colin Salmon, Chizzy
-OL,19,     FAkudolu, Rosie Marcel, Belinda
-OL,20,     FOwusu, Des Clarke, Martel Maxwell,
-OL,21,     FHarriet Thorpe and La Voix.
+OL,5,G2225 BBC London
+OL,6,     FThe latest news, sport and weather
+OL,7,     Ffrom London.
+OL,8,G2230 The Weakest Link
+OL,9,     FThe celebrity contestants include
+OL,10,     FJB Gill, Kaye Adams, Helen
+OL,11,     FFlanagan and Davood Ghadami.
+OL,12,G2315 Pointless Celebrities
+OL,13,     FWith Colin Salmon, Chizzy Akudolu,
+OL,14,     FRosie Marcel, Belinda Owusu and
+OL,15,     FDes Clarke.
+OL,16,G0000 FIFA World Cup 2026
+OL,17,     FLive coverage of Mexico v England
+OL,18,     Fin the Azteca Stadium, Mexico
+OL,19,     FCity.
+OL,20,G0330 Weather for the Week Ahead
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,232,200,140,260,0,100
@@ -108,16 +109,13 @@ PN,23105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F231A1783142345
+OL,0,        ECIMSBWebfax 1   F231A1783192702
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CSunday                   G5/5
-OL,5,G0000 MOTD Live: Mexico v England
-OL,6,     FLive coverage of Mexico v England
-OL,7,     Fin the Azteca Stadium, Mexico
-OL,8,     FCity.
-OL,9,G0330 Weather for the Week Ahead
-OL,10,G0335 BBC News
+OL,5,G0335 Joins BBC News
+OL,6,     FBBC One joins the BBC's rolling
+OL,7,     Fnews channel for a night of news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,232,200,140,260,0,100@

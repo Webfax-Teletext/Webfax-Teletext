@@ -1,27 +1,43 @@
-PN,26700
-SC,0000
+PN,26701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F267A1783183701
+PS,c008
+OL,0,        ECIMSBWebfax 1   F267A1783192702
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,,,$ EAST
-OL,3,Vupppppp5CSaturday
-OL,5,G1730 Wimbledon 2026
+OL,3,Vupppppp5CSaturday                 G1/2
+OL,5,G1730 Wimbledon
 OL,6,     FLive coverage of the Championships
 OL,7,     Fat the All England Lawn Tennis
 OL,8,     FClub at Wimbledon.
-OL,9,G2110 BBC News
-OL,10,G2125 Weather
-OL,11,G2130 MOTD Live: Paraguay v France
-OL,12,     FLive coverage of Paraguay v France
-OL,13,     Fin the round of 16 at the 2026
-OL,14,     FWorld Cup.
-OL,15,G0030 Absolutely Fabulous: The Movie
-OL,16,     FEddy and Patsy are still living
-OL,17,     Fthe high life, but a setback sees
-OL,18,     Fthem going on the run. (2016)
-OL,19,G0155 Weather for the Week Ahead
-OL,20,G0200 BBC News
+OL,9,G2110 BBC Weekend News
+OL,10,     FThe latest national and
+OL,11,     Finternational news from the BBC.
+OL,12,G2125 BBC Weather
+OL,13,     FThe latest weather forecast.
+OL,14,G2130 FIFA World Cup 2026
+OL,15,     FLive coverage of Paraguay v France
+OL,16,     Fin the round of 16 at the 2026
+OL,17,     FWorld Cup.
+OL,18,G0030 Absolutely Fabulous: The Movie
+OL,19,     FEddy and Patsy are still living
+OL,20,     Fthe high life, but a setback sees
+OL,21,     Fthem going on the run.
+OL,22,G0155 Weather for the Week Ahead
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,268,260,140,200,0,100
+PN,26702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F267A1783192702
+OL,1,V7c#####5Ww;js%7+ j#57kjs1
+OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,,,$ EAST
+OL,3,Vupppppp5CSaturday                 G2/2
+OL,5,G0200 Joins BBC News
+OL,6,     FBBC One joins the BBC's rolling
+OL,7,     Fnews channel for a night of news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,268,260,140,200,0,100@
