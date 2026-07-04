@@ -1,43 +1,23 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1783192702
+PS,8008
+OL,0,        ECIMSBWebfax 1   F201A1783196311
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CSaturday                 G1/2
-OL,5,G1730 Wimbledon
-OL,6,     FLive coverage of the Championships
-OL,7,     Fat the All England Lawn Tennis
-OL,8,     FClub at Wimbledon.
-OL,9,G2110 BBC Weekend News
-OL,10,     FThe latest national and
-OL,11,     Finternational news from the BBC.
-OL,12,G2125 BBC Weather
-OL,13,     FThe latest weather forecast.
-OL,14,G2130 FIFA World Cup 2026
-OL,15,     FLive coverage of Paraguay v France
-OL,16,     Fin the round of 16 at the 2026
-OL,17,     FWorld Cup.
-OL,18,G0030 Absolutely Fabulous: The Movie
-OL,19,     FEddy and Patsy are still living
-OL,20,     Fthe high life, but a setback sees
-OL,21,     Fthem going on the run.
-OL,22,G0155 Weather for the Week Ahead
-OL,23,VpppppppppppppppppFBBC One regions: P260
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1783192702
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CSaturday                 G2/2
-OL,5,G0200 Joins BBC News
-OL,6,     FBBC One joins the BBC's rolling
-OL,7,     Fnews channel for a night of news.
+OL,3,Vupppppp5CSaturday
+OL,5,G2110 BBC Weekend News
+OL,6,G2125 BBC Weather
+OL,7,G2130 FIFA World Cup 2026
+OL,8,     FLive coverage of Paraguay v France
+OL,9,     Fin the round of 16 at the 2026
+OL,10,     FWorld Cup.
+OL,11,G0030 Absolutely Fabulous: The Movie
+OL,12,     FEddy and Patsy are still living
+OL,13,     Fthe high life, but a setback sees
+OL,14,     Fthem going on the run.
+OL,15,G0155 Weather for the Week Ahead
+OL,16,G0200 Joins BBC News
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100@
