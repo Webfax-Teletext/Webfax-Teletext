@@ -1,12 +1,76 @@
-PN,46200
-SC,0000
+PN,46201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F462A1783203480
+PS,c008
+OL,0,        ECIMSBWebfax 1   F462A1783228752
 OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
 OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
-OL,3,Vupppppp5CSaturday
-OL,5,G2315 EuroNews
+OL,3,Vupppppp5CSunday                   G1/3
+OL,5,G0600 EuroNews
+OL,6,G0700 EuroNews
+OL,7,G0800 Current Affairs Round Up
+OL,8,     FNews and Current Affairs
+OL,9,     Fhighlights from the past week.
+OL,10,G0900 Current Affairs Round Up
+OL,11,     FNews and Current Affairs
+OL,12,     Fhighlights from the past week.
+OL,13,G1000 Current Affairs Round Up
+OL,14,     FNews and Current Affairs
+OL,15,     Fhighlights from the past week.
+OL,16,G1100 Current Affairs Round Up
+OL,17,     FNews and Current Affairs
+OL,18,     Fhighlights from the past week.
+OL,19,G1200 The Week In Politics
+OL,20,     FReflections on the political week.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,463,200,140,260,0,100
+PN,46202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F462A1783228752
+OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
+OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
+OL,3,Vupppppp5CSunday                   G2/3
+OL,5,G1300 This Week
+OL,6,     FCatch up on the events making the
+OL,7,     Fnews in the past week.
+OL,8,G1400 Latest News and Weather
+OL,9,G1415 Sunday Service
+OL,10,     FEmbrace Farm Ecumenical Service
+OL,11,G1510 The Week In Politics
+OL,12,     FReflections on the political week.
+OL,13,G1556 The Sunday Game Beo
+OL,14,     FLuimneach v An Clar - Craoladh o
+OL,15,     FChluiche Leathcheannais Iomana na
+OL,16,     FhEireann. Is iad Garry Mac Donncha
+OL,17,     Fagus Pat Fleury a bheidh i mbun
+OL,18,     Ftrachtaireachta o Phairc an
+OL,19,     FChrocaigh.
+OL,20,G1801 RTE News: Six One
+OL,21,G1830 The Week In Politics
+OL,22,     FReflections on the political week.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,463,200,140,260,0,100
+PN,46203
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F462A1783228752
+OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
+OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
+OL,3,Vupppppp5CSunday                   G3/3
+OL,5,G1915 Latest News and Weather
+OL,6,G2000 Latest News and Weather
+OL,7,G2030 Nuacht RTE
+OL,8,G2100 RTE News: Nine O'Clock
+OL,9,G2130 Latest News and Weather
+OL,10,G2200 The Week In Politics
+OL,11,     FReflections on the political week.
+OL,12,G2300 Nuacht RTE
+OL,13,G2315 EuroNews
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,463,200,140,260,0,100@
