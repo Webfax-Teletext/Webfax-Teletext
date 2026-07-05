@@ -1,25 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1783180107
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1783225081
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud and
-OL,6,Fpatchy rain across parts of Scotland,
-OL,7,FNorthern Ireland and northern England.
-OL,8,FLargely dry elsewhere, with clear
-OL,9,Fspells and perhaps the odd light
-OL,10,Fshowers. A mild night for most.
-OL,11,
-OL,12,CSunday:FWarm spells of sunshine for
-OL,13,Fmuch of England and Wales. Cloudier
-OL,14,Facross Northern Ireland and Scotland,
-OL,15,Fwith further rain here. Staying hot
-OL,16,Ftowards the southeast, generally warm
-OL,17,Felsewhere.
+OL,5,CToday:FCloudy across Scotland,
+OL,6,FNorthern Ireland and parts of northern
+OL,7,FEngland, with rain at times, heaviest
+OL,8,Fin western Scotland. Elsewhere, plenty
+OL,9,Fof hazy sunshine after early cloud
+OL,10,Fclears. Warm or very warm for many.
+OL,11,FLocally hot in south-eastern England.
+OL,12,
+OL,13,CTonight:FFine, warm and mostly clear
+OL,14,Fin the south, though cloud thickens
+OL,15,Facross Wales and the southwest with
+OL,16,Fsome fog. Cloudy further north with
+OL,17,Frain, heaviest in western and
+OL,18,Fnorthwestern Scotland.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1783225081
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CMonday:FRain persists across northern
+OL,6,Fand northwestern Scotland. Cloudy at
+OL,7,Ffirst across Northern Ireland and
+OL,8,Fnorthern England with patchy drizzle.
+OL,9,FElsewhere, sunny spells. Very warm and
+OL,10,Flocally hot in the southeast.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
