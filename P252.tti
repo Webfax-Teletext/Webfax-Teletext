@@ -2,10 +2,10 @@ PN,25201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1783228753
+OL,0,        ECIMSBWebfax 1   F252A1783315155
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G1/10
+OL,3,Vupppppp5CTuesday                  G1/10
 OL,5,G0600 Peppa Pig
 OL,6,G0605 Peppa Pig
 OL,7,G0610 Tweedy & Fluff
@@ -31,12 +31,12 @@ PN,25202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1783228753
+OL,0,        ECIMSBWebfax 1   F252A1783315155
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G2/10
+OL,3,Vupppppp5CTuesday                  G2/10
 OL,5,G0850 Kangaroo Beach
-OL,6,G0905 Peppa Pig
+OL,6,G0900 Peppa Pig
 OL,7,G0910 Milkshake! Story Den
 OL,8,G0915 Jeremy Vine
 OL,9,     FStart the day with a dose of
@@ -57,10 +57,10 @@ PN,25203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1783228753
+OL,0,        ECIMSBWebfax 1   F252A1783315155
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G3/10
+OL,3,Vupppppp5CTuesday                  G3/10
 OL,5,G1250 Matt Allwright
 OL,6,     FMatt looks at the big news stories
 OL,7,     Fdeveloping during the day and
@@ -74,11 +74,11 @@ OL,14,     Fto tell her what's on your mind.
 OL,15,     FFiery discussions, a good giggle
 OL,16,     Fand plenty of afternoon gossip!
 OL,17,G1500 Castle
-OL,18,     FCastle teams up with Ryan and
-OL,19,     FEsposito to investigate a murder
-OL,20,     Fbut the case is taken out of their
-OL,21,     Fhands by two federal agents, one
-OL,22,     Fof whom is Beckett.
+OL,18,     FCastle and Beckett have to sort
+OL,19,     Fthe fact from the fiction when a
+OL,20,     Fmurder suspect claims that he has
+OL,21,     Fcome back from the future to help
+OL,22,     Fsave mankind.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -86,24 +86,22 @@ PN,25204
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1783228753
+OL,0,        ECIMSBWebfax 1   F252A1783315155
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G4/10
+OL,3,Vupppppp5CTuesday                  G4/10
 OL,5,G1555 Castle
-OL,6,     FThe prime suspect in a murder case
-OL,7,     Fholds a group of prisoners hostage
-OL,8,     Fand demands that her favourite
-OL,9,     Fauthor, Castle, find the real
-OL,10,     Fkiller.
-OL,11,G1650 Love Nature
-OL,12,     FThe work of Kevin Stephens who
-OL,13,     Fdiscovered a daffodil variety
-OL,14,     Fthat, grown in windswept
-OL,15,     Fconditions at altitude, produces a
-OL,16,     Fchemical used in drugs to treat
-OL,17,     FAlzheimer's patients.
-OL,18,G1700 5 News with Dan Walker
+OL,6,     FCastle & Beckett suspect a
+OL,7,     Freligious conspiracy is behind a
+OL,8,     Fyoung woman's death.
+OL,9,G1650 Love Nature
+OL,10,     FObserving black grouse performing
+OL,11,     Felaborate, competitive courtship
+OL,12,     Fdisplays to attract females. The
+OL,13,     Fstrutting, stamping and calling
+OL,14,     Fadvertise their strength and
+OL,15,     Fstature.
+OL,16,G1700 5 News with Dan Walker
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -111,24 +109,25 @@ PN,25205
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1783228753
+OL,0,        ECIMSBWebfax 1   F252A1783315155
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G5/10
-OL,5,G1800 Kent: The Garden of England
-OL,6,     FIn the final edition, we visit the
-OL,7,     Fkitchens of the Guru Nanak
-OL,8,     FGurdwara, travel by paddle steamer
-OL,9,     FWaverley along the Kent coast to
-OL,10,     FLondon's Tower Pier and go to the
-OL,11,     FLost Village of Dode. (Ep5/5)
-OL,12,G1900 Tour de France 2026
-OL,13,     FRebecca Charlton presents
-OL,14,     Fhighlights and analysis from Stage
-OL,15,     F3 as the Tour de France heads into
-OL,16,     Fthe Pyrenees with a demanding
-OL,17,     Froute from Granollers to Les
-OL,18,     FAngles.
+OL,3,Vupppppp5CTuesday                  G5/10
+OL,5,G1800 Shetland: Scotland's Wondrous
+OL,6,G     Isles
+OL,7,     FExploring this archipelago of
+OL,8,     Fwonders, including the famous
+OL,9,     Fponies, thrilling landscape and
+OL,10,     Fresidents, from long-timers to
+OL,11,     Frecent arrivals who don't want to
+OL,12,     Fleave. (Ep1)
+OL,13,G1900 Tour de France 2026
+OL,14,     FStage 4 highlights as the race
+OL,15,     Fcontinues through south west
+OL,16,     FFrance from the medieval city of
+OL,17,     FCarcassonne to Foix in the
+OL,18,     Ffoothills of the Pyrenees. Rebecca
+OL,19,     FCharlton presents.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -136,24 +135,24 @@ PN,25206
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1783228753
+OL,0,        ECIMSBWebfax 1   F252A1783315155
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G6/10
-OL,5,G2000 Police Interceptors
-OL,6,     FIt's foot to the floor time as
-OL,7,     FInterceptors Richie and Harrison
-OL,8,     Fjoin the pursuit of a Toyota that
-OL,9,     Ffails to stop. The cops are
-OL,10,     Fhorrified to discover a
-OL,11,     F14-year-old at the wheel.
+OL,3,Vupppppp5CTuesday                  G6/10
+OL,5,G2000 Reuben Owen: Life in The Dales
+OL,6,     FReuben and friends tackle a
+OL,7,     F100-mile vintage tractor challenge
+OL,8,     Ffrom the Yorkshire Dales to
+OL,9,     FWhitby. From breakdowns to
+OL,10,     Fbirthday cake, will they make it
+OL,11,     Fto the coast in time to celebrate?
 OL,12,G2100 Lie with Me
-OL,13,     FSeeking a fresh start for their
-OL,14,     Fmarriage, a couple move to
-OL,15,     FMelbourne with their two children.
-OL,16,     FBut they hire a nanny who isn't as
-OL,17,     Finnocent as she appears - with
-OL,18,     Fdeadly consequences.
+OL,13,     FLulled into a false sense of
+OL,14,     Fsecurity, Anna recommits to Jake.
+OL,15,     FShe continues to confide in Becky,
+OL,16,     Funaware that Becky is under Jake's
+OL,17,     Fspell and plotting with him
+OL,18,     Fagainst her.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -161,24 +160,24 @@ PN,25207
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1783228753
+OL,0,        ECIMSBWebfax 1   F252A1783315155
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G7/10
-OL,5,G2200 Police: Night Shift 999
-OL,6,     FPolice try to stop a suspected
-OL,7,     Fstolen car on the M5, two dog
-OL,8,     Fhandlers track down a man involved
-OL,9,     Fin a street fight, and the hunt is
-OL,10,     Fon for a motorcyclist who hit an
-OL,11,     F11-year-old child.
-OL,12,G2305 World Cup 2026: Uncensored with
-OL,13,G     Piers Morgan
-OL,14,     FPiers partners with former Crystal
-OL,15,     FPalace chairman Simon Jordan for a
-OL,16,     Fstar-studded show featuring former
-OL,17,     FEngland captain John Terry and a
-OL,18,     Fhost of special guests. (Ep3)
+OL,3,Vupppppp5CTuesday                  G7/10
+OL,5,G2200 The Poisoning: How to Kill Your
+OL,6,G     Husband
+OL,7,     FWhen divorced John Mook married
+OL,8,     FHeather, he thought he'd found a
+OL,9,     Fsecond chance at happiness. Little
+OL,10,     Fdid he know he'd welcomed a
+OL,11,     Ftwisted criminal into his home...
+OL,12,G2335 Britain's Most Dangerous Prisoners
+OL,13,     FOne of the UK's most infamous
+OL,14,     Fserial killers, Joanne Dennehy,
+OL,15,     Fkilled three men over ten days.
+OL,16,     FShe is one of only three women
+OL,17,     Fcurrently serving a whole life
+OL,18,     Forder in the UK. (Ep3)
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -186,26 +185,25 @@ PN,25208
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1783228753
+OL,0,        ECIMSBWebfax 1   F252A1783315155
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G8/10
-OL,5,G0005 Traffic Cops
-OL,6,     FOn the edge of the Peak District,
-OL,7,     Fthe Traffic Cops detain a
-OL,8,     Fsuspected drink driver, but he
-OL,9,     Fdenies any wrongdoing and goes on
-OL,10,     Fthe attack, threatening to harm
-OL,11,     Fthe officers.
+OL,3,Vupppppp5CTuesday                  G8/10
+OL,5,G0035 Cops
+OL,6,     FDeputies work together to stay on
+OL,7,     Fthe tail of a fleeing vehicle. An
+OL,8,     Fargumentative driver keeps his
+OL,9,     Ffriends tuned in as he livestreams
+OL,10,     Fhis own arrest.
+OL,11,G0055 Entertainment News on 5
 OL,12,G0100 Cruise TV with LoveitBookit
 OL,13,G0200 Build Your Dream Home in the
 OL,14,G     Country
-OL,15,     FMark Millar helps a family build a
-OL,16,     Fluxury home in stunning
-OL,17,     FLanarkshire countryside, with a
-OL,18,     Fshowpiece floating glass
-OL,19,     Fstaircase, bar, cinema room and
-OL,20,     Ffive bedrooms.
+OL,15,     FMark Millar meets a couple moving
+OL,16,     Fto a three-acre plot deep in
+OL,17,     FCornwall's wild countryside to
+OL,18,     Frestore a listed 200-year-old
+OL,19,     Fwreck to its former glory.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100
@@ -213,26 +211,26 @@ PN,25209
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1783228753
+OL,0,        ECIMSBWebfax 1   F252A1783315155
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G9/10
+OL,3,Vupppppp5CTuesday                  G9/10
 OL,5,G0250 Build Your Dream Home in the
 OL,6,G     Country
-OL,7,     FMark Millar helps couple Helen and
-OL,8,     FSimon, who are ploughing their
-OL,9,     Flife savings into a dream eco home
-OL,10,     Fin the Shropshire countryside that
-OL,11,     Fthey've designed themselves.
+OL,7,     FMark Millar helps a couple
+OL,8,     Fbuilding their own timber home in
+OL,9,     Fthe countryside south of Edinburgh
+OL,10,     Fon a tight budget and with rising
+OL,11,     Fmaterials costs.
 OL,12,G0345 Friends
 OL,13,G0410 Friends
 OL,14,G0435 ** Visually Signed** Paul...
 OL,15,     F...Martin's Antiques Showdown.
-OL,16,     FAuctioneers face a choice between
-OL,17,     Fa 19th-century apothecary cabinet
-OL,18,     Fand a plush chaise longue. Which
-OL,19,     Fpiece do they think will get
-OL,20,     Fbidders most excited? (Ep3)
+OL,16,     FLocals bring collectibles to a
+OL,17,     Fvaluation day in Stourbridge. Will
+OL,18,     Feither auctioneer be tempted by
+OL,19,     Flocally-blown wine goblets or a
+OL,20,     FBasil Brush lamp base? (Ep4)
 OL,21,G0525 Entertainment News on 5
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
@@ -241,21 +239,23 @@ PN,25210
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F252A1783228753
+OL,0,        ECIMSBWebfax 1   F252A1783315155
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CMonday                  G10/10
+OL,3,Vupppppp5CTuesday                 G10/10
 OL,5,G0535 Milo
-OL,6,     FMilo, Lofty and Lark love reading
-OL,7,     Fbooks and comics, so when they
-OL,8,     Fbecome librarians, they're keen to
-OL,9,     Fhelp everyone find a book they'll
-OL,10,     Flove.
-OL,11,G0545 The Adventures of Paddington
-OL,12,     FPaddington rescues Pancake Day
-OL,13,     Fafter Mrs. Bird hurts her arms
-OL,14,     Fsnowboarding and can't make
-OL,15,     Fpancakes.
+OL,6,     FWhen Dame Dolores gets
+OL,7,     Fdouble-booked for the Dancing on
+OL,8,     FSkates final and to perform opera,
+OL,9,     FMilo, Lofty and Lark take to the
+OL,10,     Fice in her place.
+OL,11,G0545 The
+OL,12,     F...Adventures of Paddington.
+OL,13,     FJonathan teaches Paddington
+OL,14,     Ffootball, but Paddington kicks the
+OL,15,     Fball into Mr Curry's garden. They
+OL,16,     Fdecide to get it back by climbing
+OL,17,     Fover the fence.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,253,200,140,260,0,100@
