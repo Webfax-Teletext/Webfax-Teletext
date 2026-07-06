@@ -2,27 +2,26 @@ PN,20101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1783343917
+OL,0,        ECIMSBWebfax 1   F201A1783358320
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CMonday                   G1/3
-OL,5,G1400 Wimbledon
-OL,6,     FLive coverage of the Championships
-OL,7,     Fat the All England Lawn Tennis
-OL,8,     FClub at Wimbledon.
-OL,9,G1800 BBC News at Six
-OL,10,     FThe latest national and
-OL,11,     Finternational news from the BBC.
-OL,12,G1830 BBC London
-OL,13,     FThe latest news, sport and weather
-OL,14,     Ffrom London.
-OL,15,G1900 EastEnders
-OL,16,     FHoney attempts to clear Billy's
-OL,17,     Fname.
-OL,18,G1930 FIFA World Cup 2026
-OL,19,     FLive coverage of Portugal v Spain
-OL,20,     Fin the round of 16 at the 2026
-OL,21,     FWorld Cup.
+OL,3,Vupppppp5CMonday                   G1/2
+OL,5,G1800 BBC News at Six
+OL,6,     FThe latest national and
+OL,7,     Finternational news from the BBC.
+OL,8,G1830 BBC London
+OL,9,     FThe latest news, sport and weather
+OL,10,     Ffrom London.
+OL,11,G1900 EastEnders
+OL,12,     FHoney attempts to clear Billy's
+OL,13,     Fname.
+OL,14,G1930 FIFA World Cup 2026
+OL,15,     FLive coverage of Portugal v Spain
+OL,16,     Fin the round of 16 at the 2026
+OL,17,     FWorld Cup.
+OL,18,G2230 BBC News at Ten
+OL,19,     FThe latest national and
+OL,20,     Finternational news from the BBC.
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100
@@ -30,41 +29,27 @@ PN,20102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1783343917
+OL,0,        ECIMSBWebfax 1   F201A1783358320
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CMonday                   G2/3
-OL,5,G2230 BBC News at Ten
-OL,6,     FThe latest national and
-OL,7,     Finternational news from the BBC.
-OL,8,G2300 BBC London
-OL,9,     FThe latest news, sport and weather
-OL,10,     Ffrom London.
-OL,11,G2310 The Weakest Link
-OL,12,     FThe celebrity contestants include
-OL,13,     FJB Gill, Kaye Adams, Helen
-OL,14,     FFlanagan and Davood Ghadami.
-OL,15,G2355 The Hit List
-OL,16,     FContestants from Sawbridgeworth,
-OL,17,     FLondon, Cardiff and south
-OL,18,     FDerbyshire compete in the quiz.
-OL,19,G0040 FIFA World Cup 2026
-OL,20,     FLive coverage of USA v Belgium in
-OL,21,     Fthe round of 16 at the 2026 World
-OL,22,     FCup.
-OL,23,VpppppppppppppppppFBBC One regions: P260
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20103
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1783343917
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CMonday                   G3/3
-OL,5,G0315 Weather for the Week Ahead
-OL,6,G0320 Joins BBC News
+OL,3,Vupppppp5CMonday                   G2/2
+OL,5,G2300 BBC London
+OL,6,     FThe latest news, sport and weather
+OL,7,     Ffrom London.
+OL,8,G2310 The Weakest Link
+OL,9,     FThe celebrity contestants include
+OL,10,     FJB Gill, Kaye Adams, Helen
+OL,11,     FFlanagan and Davood Ghadami.
+OL,12,G2355 The Hit List
+OL,13,     FContestants from Sawbridgeworth,
+OL,14,     FLondon, Cardiff and south
+OL,15,     FDerbyshire compete in the quiz.
+OL,16,G0040 FIFA World Cup 2026
+OL,17,     FLive coverage of USA v Belgium in
+OL,18,     Fthe round of 16 at the 2026 World
+OL,19,     FCup.
+OL,20,G0315 Weather for the Week Ahead
+OL,21,G0320 Joins BBC News
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100@
