@@ -1,44 +1,27 @@
-PN,20601
-SC,0001
+PN,20600
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1783390687
+PS,8008
+OL,0,        ECIMSBWebfax 1   F206A1783392487
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G1/2
-OL,5,G0300 Newsday
+OL,3,Vupppppp5CMonday
+OL,5,G0345 Newsday
 OL,6,     FLive from Singapore, the latest
 OL,7,     Finternational news from the BBC.
-OL,8,G0330 Business Today
-OL,9,     FThe latest business news from
-OL,10,     FSingapore and around the world.
-OL,11,G0345 Newsday
-OL,12,     FLive from Singapore, the latest
-OL,13,     Finternational news from the BBC.
-OL,14,G0400 Newsday
+OL,8,G0400 Newsday
+OL,9,     FLive from Singapore, the latest
+OL,10,     Finternational news from the BBC.
+OL,11,G0430 Business Today
+OL,12,     FThe latest business news from
+OL,13,     FSingapore and around the world.
+OL,14,G0445 Newsday
 OL,15,     FLive from Singapore, the latest
 OL,16,     Finternational news from the BBC.
-OL,17,G0430 Business Today
-OL,18,     FThe latest business news from
-OL,19,     FSingapore and around the world.
-OL,20,G0445 Newsday
-OL,21,     FLive from Singapore, the latest
-OL,22,     Finternational news from the BBC.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,207,200,140,260,0,100
-PN,20602
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1783390687
-OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
-OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G2/2
-OL,5,G0500 BBC News
-OL,6,G0530 Business Today
-OL,7,     FThe latest business news from
-OL,8,     FLondon and around the world.
+OL,17,G0500 BBC News
+OL,18,G0530 Business Today
+OL,19,     FThe latest business news from
+OL,20,     FLondon and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100@
