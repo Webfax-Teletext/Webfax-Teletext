@@ -2,26 +2,26 @@ PN,20701
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F207A1783606726
+OL,0,        ECIMSBWebfax 1   F207A1783615732
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/3
-OL,5,G1430 House of Commons
-OL,6,     FCoverage of the day's proceedings
-OL,7,     Fin the House of Commons, on
-OL,8,     FThursday 9 July.
-OL,9,G1730 Lords Questions
-OL,10,     FQuestions in the House of Lords to
-OL,11,     Fgovernment ministers on Thursday 9
-OL,12,     FJuly.
-OL,13,G1815 House of Lords
-OL,14,     FTributes to the Conservative peer
-OL,15,     FLord Mackay of Clashfern, on
+OL,5,G1730 Lords Questions
+OL,6,     FQuestions in the House of Lords to
+OL,7,     Fgovernment ministers on Thursday 9
+OL,8,     FJuly.
+OL,9,G1815 House of Lords
+OL,10,     FTributes to the Conservative peer
+OL,11,     FLord Mackay of Clashfern, on
+OL,12,     FThursday 9 July.
+OL,13,G1840 House of Lords
+OL,14,     FCoverage of a statement on the new
+OL,15,     FEuropean Entry System (EES), on
 OL,16,     FThursday 9 July.
-OL,17,G1840 House of Lords
-OL,18,     FCoverage of a statement on the new
-OL,19,     FEuropean Entry System (EES), on
-OL,20,     FThursday 9 July.
+OL,17,G1850 House of Lords
+OL,18,     FCoverage of a statement on foreign
+OL,19,     Finfluence in the House of Lords,
+OL,20,     Fon Thursday 9 July.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,208,200,140,260,0,100
@@ -29,25 +29,28 @@ PN,20702
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F207A1783606726
+OL,0,        ECIMSBWebfax 1   F207A1783615732
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G2/3
-OL,5,G1850 House of Lords
-OL,6,     FCoverage of a statement on foreign
-OL,7,     Finfluence in the House of Lords,
-OL,8,     Fon Thursday 9 July.
-OL,9,G1930 House of Lords
-OL,10,     FDebate on a committee report on
-OL,11,     Fthe emerging space economy in the
-OL,12,     FUK, on Thursday 9 July.
-OL,13,G2130 House of Lords
-OL,14,     FCoverage of the debate on defence
-OL,15,     Freadiness, on Thursday 9 July.
-OL,16,G2230 House of Lords
+OL,5,G1930 House of Lords
+OL,6,     FDebate on a committee report on
+OL,7,     Fthe emerging space economy in the
+OL,8,     FUK, on Thursday 9 July.
+OL,9,G2130 House of Lords
+OL,10,     FCoverage of the debate on defence
+OL,11,     Freadiness, on Thursday 9 July.
+OL,12,G2230 House of Lords
+OL,13,     FThe debate on a committee report
+OL,14,     Fon the rule of law in the UK, on
+OL,15,     FThursday 9 July.
+OL,16,G0000 House of Lords
 OL,17,     FThe debate on a committee report
 OL,18,     Fon the rule of law in the UK, on
 OL,19,     FThursday 9 July.
+OL,20,G0130 House of Commons
+OL,21,     FCoverage of questions to Emma
+OL,22,     FReynolds on Thursday 9 July.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,208,200,140,260,0,100
@@ -55,28 +58,21 @@ PN,20703
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F207A1783606726
+OL,0,        ECIMSBWebfax 1   F207A1783615732
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G3/3
-OL,5,G0000 House of Lords
-OL,6,     FThe debate on a committee report
-OL,7,     Fon the rule of law in the UK, on
-OL,8,     FThursday 9 July.
-OL,9,G0130 House of Commons
-OL,10,     FCoverage of questions to Emma
-OL,11,     FReynolds on Thursday 9 July.
-OL,12,G0220 House of Commons
-OL,13,     FCoverage of questions to Ellie
-OL,14,     FReeves on Thursday 9 July.
-OL,15,G0245 House of Commons
-OL,16,     FQuestions to Alan Campbell, the
-OL,17,     Fleader of the Commons, on Thursday
-OL,18,     F9 July.
-OL,19,G0345 House of Commons
-OL,20,     FHighlights of proceedings in the
-OL,21,     FHouse of Commons from Thursday 9
-OL,22,     FJuly.
+OL,5,G0220 House of Commons
+OL,6,     FCoverage of questions to Ellie
+OL,7,     FReeves on Thursday 9 July.
+OL,8,G0245 House of Commons
+OL,9,     FQuestions to Alan Campbell, the
+OL,10,     Fleader of the Commons, on Thursday
+OL,11,     F9 July.
+OL,12,G0345 House of Commons
+OL,13,     FHighlights of proceedings in the
+OL,14,     FHouse of Commons from Thursday 9
+OL,15,     FJuly.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,208,200,140,260,0,100@
