@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613905
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613905
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613905
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,W{$~k4{$k4~sjw=        G     R`pG3/14
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -75,7 +75,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613905
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G4/14
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -100,7 +100,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613905
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G5/14
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -118,7 +118,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613905
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G6/14
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -140,7 +140,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613905
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}0G7/14
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -165,7 +165,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613905
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,W|4|h4|||h||4|||h||4|4|            G8/14
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -190,28 +190,27 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613905
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,V7c#####5Ww;js%7+ j#57kjs1         G9/14
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CThursday                 G1/2
-OL,5,G1400 Wimbledon
-OL,6,     FLive coverage of the Championships
-OL,7,     Fat the All England Lawn Tennis
-OL,8,     FClub at Wimbledon.
-OL,9,G1800 BBC News at Six
-OL,10,     FThe latest national and
-OL,11,     Finternational news from the BBC.
-OL,12,G1830 BBC London
-OL,13,     FThe latest news, sport and weather
-OL,14,     Ffrom London.
-OL,15,G1900 Wimbledon
-OL,16,     FLive coverage of the Championships
-OL,17,     Fat the All England Lawn Tennis
-OL,18,     FClub at Wimbledon.
-OL,19,G2100 Who Do You Think You Are?
-OL,20,     FRuth Madeley unearths a family
-OL,21,     Fsecret and discovers the identity
-OL,22,     Fof a lost ancestor.
+OL,5,G1800 BBC News at Six
+OL,6,     FThe latest national and
+OL,7,     Finternational news from the BBC.
+OL,8,G1830 BBC London
+OL,9,     FThe latest news, sport and weather
+OL,10,     Ffrom London.
+OL,11,G1900 Wimbledon
+OL,12,     FLive coverage of the Championships
+OL,13,     Fat the All England Lawn Tennis
+OL,14,     FClub at Wimbledon.
+OL,15,G2100 Who Do You Think You Are?
+OL,16,     FRuth Madeley unearths a family
+OL,17,     Fsecret and discovers the identity
+OL,18,     Fof a lost ancestor.
+OL,19,G2200 BBC News at Ten
+OL,20,     FThe latest national and
+OL,21,     Finternational news from the BBC.
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,120,200,140,260,0,100
@@ -219,7 +218,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613906
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5      G10/14
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/3
@@ -245,26 +244,25 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613906
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,V7c#####5W5#7!5j "5               G11/14
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CThursday                 G1/3
-OL,5,G1700 The Chase
-OL,6,     FBradley Walsh hosts as all that
-OL,7,     Fstands between Cedric from London,
-OL,8,     FKeith from the Isle of Man, Pamela
-OL,9,     Ffrom Lowestoft, Lyn from Fareham
-OL,10,     Fand thousands of pounds is a
-OL,11,     FChaser.
-OL,12,G1800 ITV News London
-OL,13,G1830 ITV Evening News
-OL,14,G1855 Who Wants to Be a...
-OL,15,     F...Millionaire? There's drama,
-OL,16,     Fnail-biting tension, and Jeremy
-OL,17,     FClarkson on hand to give away one
-OL,18,     Fmillion pounds - find out if
-OL,19,     Fanyone has got what it takes to
-OL,20,     Fwin it.
+OL,5,G1800 ITV News London
+OL,6,G1830 ITV Evening News
+OL,7,G1855 Who Wants to Be a...
+OL,8,     F...Millionaire? There's drama,
+OL,9,     Fnail-biting tension, and Jeremy
+OL,10,     FClarkson on hand to give away one
+OL,11,     Fmillion pounds - find out if
+OL,12,     Fanyone has got what it takes to
+OL,13,     Fwin it.
+OL,14,G2000 FIFA WC2026: France v Morocco
+OL,15,     FFrance take on Morocco in the
+OL,16,     Fquarter-finals of the 2026 FIFA
+OL,17,     FWorld Cup with Mark Pougatch
+OL,18,     Falongside Roy Keane, Ian Wright
+OL,19,     Fand Patrick Vieira.
 OL,23,VpppppppppppppppppppFITV 1 regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,120,200,140,260,0,100
@@ -272,28 +270,28 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613906
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4   G12/14
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
-OL,3,Vupppppp5CThursday                 G1/7
-OL,5,G1700 Chateau DIY
-OL,6,     FChris and Jolyon rush to complete
-OL,7,     Fa guest room renovation before
-OL,8,     Ftheir friends come to stay. And
-OL,9,     FPaul and Debbie are feeling boxed
-OL,10,     Fin as they fit their turret
-OL,11,     Fensuite.
-OL,12,G1800 Four in a Bed
-OL,13,     FThe week's final hosts, Helen and
-OL,14,     FCarl, have their work cut out to
-OL,15,     Fimpress at their Nottinghamshire
-OL,16,     Fglampsite after ruffling feathers
-OL,17,     Fwith their feedback all week.
-OL,18,G1830 Come Dine with Me
-OL,19,     FIn Glasgow, will Garry's exclusive
-OL,20,     FIbiza beach club evening be filled
-OL,21,     Fwith more disagreeing than
-OL,22,     FVIP-ing? (Ep4/5)
+OL,3,Vupppppp5CThursday                 G1/6
+OL,5,G1800 Four in a Bed
+OL,6,     FThe week's final hosts, Helen and
+OL,7,     FCarl, have their work cut out to
+OL,8,     Fimpress at their Nottinghamshire
+OL,9,     Fglampsite after ruffling feathers
+OL,10,     Fwith their feedback all week.
+OL,11,G1830 Come Dine with Me
+OL,12,     FIn Glasgow, will Garry's exclusive
+OL,13,     FIbiza beach club evening be filled
+OL,14,     Fwith more disagreeing than
+OL,15,     FVIP-ing? (Ep4/5)
+OL,16,G1900 Channel 4 News
+OL,17,G2000 George Clarke's Remarkable...
+OL,18,     F...Renovations: James has had a
+OL,19,     F15-year love affair with a former
+OL,20,     Fglassworks in Brighton. Will his
+OL,21,     Fgrand restoration live up to his
+OL,22,     Funcompromising vision?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,120,200,140,260,0,100
@@ -301,26 +299,25 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613906
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,V7c#####5Wg3                      G13/14
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/6
-OL,5,G1700 5 News with Dan Walker
-OL,6,G1800 Shetland: Scotland's Wondrous
-OL,7,G     Isles
-OL,8,     FViking outfits and a replica
-OL,9,     Fgalley ship are among requirements
-OL,10,     Ffor Scalloway's annual fire
-OL,11,     Ffestival celebrating Shetlanders'
-OL,12,     Fheritage. Plus, a pod of orcas are
-OL,13,     Fspotted. (Ep3)
-OL,14,G1900 Tour de France 2026
-OL,15,     FRebecca Charlton presents Stage 6
-OL,16,     Fhighlights. The first major
-OL,17,     Fmountain showdown of the 2026 race
-OL,18,     Ftakes the riders from Pau to the
-OL,19,     Fspectacular summit finish at
-OL,20,     FGavarnie-Gedre in the Pyrenees.
+OL,5,G1800 Shetland: Scotland's Wondrous
+OL,6,G     Isles
+OL,7,     FViking outfits and a replica
+OL,8,     Fgalley ship are among requirements
+OL,9,     Ffor Scalloway's annual fire
+OL,10,     Ffestival celebrating Shetlanders'
+OL,11,     Fheritage. Plus, a pod of orcas are
+OL,12,     Fspotted. (Ep3)
+OL,13,G1900 Tour de France 2026
+OL,14,     FRebecca Charlton presents Stage 6
+OL,15,     Fhighlights. The first major
+OL,16,     Fmountain showdown of the 2026 race
+OL,17,     Ftakes the riders from Pau to the
+OL,18,     Fspectacular summit finish at
+OL,19,     FGavarnie-Gedre in the Pyrenees.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,120,200,140,260,0,100
@@ -328,28 +325,28 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783613906
+OL,0,        ECIMSBWebfax 1   F119A1783617584
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+jG14/14
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
-OL,3,Vupppppp5CThursday                 G1/6
-OL,5,G1635 A Hill in Korea
-OL,6,     F1956. War. Directed by Julian
-OL,7,     FAmyes. Stars George Baker, Stanley
-OL,8,     FBaker & Michael Caine in his first
-OL,9,     Fcredited film role. In the Korean
-OL,10,     Fwar, British soldiers try to fight
-OL,11,     Ftheir way back to safety.
-OL,12,G1815 Cinebox Memories
-OL,13,     FJoin the amazing Vince Taylor as
-OL,14,     Fhe performs the entrancing hit
-OL,15,     FTwenty Flight Rock.
-OL,16,G1820 Strange But True?
-OL,17,     FGulf Breeze UFO Incident. 1996. On
-OL,18,     FNovember 11th 1987, a new storm
-OL,19,     Fhit the town of Gulf Breeze which
-OL,20,     Fchanged the lives of some of the
-OL,21,     Fresidents forever. Michael Aspel
-OL,22,     Fexplores the unusual story.
+OL,3,Vupppppp5CThursday                 G1/5
+OL,5,G1815 Cinebox Memories
+OL,6,     FJoin the amazing Vince Taylor as
+OL,7,     Fhe performs the entrancing hit
+OL,8,     FTwenty Flight Rock.
+OL,9,G1820 Strange But True?
+OL,10,     FGulf Breeze UFO Incident. 1996. On
+OL,11,     FNovember 11th 1987, a new storm
+OL,12,     Fhit the town of Gulf Breeze which
+OL,13,     Fchanged the lives of some of the
+OL,14,     Fresidents forever. Michael Aspel
+OL,15,     Fexplores the unusual story.
+OL,16,G1855 The Brothers
+OL,17,     FHijack. 1974. Stars Jonathan
+OL,18,     FNewth, Patrick O'Connell & Derek
+OL,19,     FBenfield. Ted and Bill travel to
+OL,20,     Fthe continent for their first
+OL,21,     Ftranscontinental shipment, unaware
+OL,22,     Fthat they are being followed.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,120,200,140,260,0,100
