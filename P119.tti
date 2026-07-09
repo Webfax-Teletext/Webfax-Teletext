@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/15
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/15
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,7 +50,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,W{$~k4{$k4~sjw=        G     R`pG3/15
 OL,2,W/.!+.!/*%/.!+,*%/T(,,,,,,,,,,,,Rj7T(,
 OL,3,CRegional news INDEX       G R`||7
@@ -75,7 +75,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,Woz5~k4{$z%~s1z5jw=hw1 Rotpx||0G4/15
 OL,2,W,.!+.!/*%/*%,.!/*%/*%/"-$Rl0T,,,
 OL,3,CRegional news INDEX      Rj}$
@@ -93,7 +93,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,W~+$z5~{4~k4~k4~sj5 ISLANDSRa<$   G5/15
 OL,2,W+.!/*%/*%/*%/*%+,"-$ R xtT(,,,,,,,,,,,,
 OL,3,CRegional news INDEXR x% 4    `0 p
@@ -118,7 +118,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,W~k4j5 hw1~k4~c1 hw}h7}j7}Rjtpp G6/15
 OL,2,W/*%+.-' "-$/*%+.!+,*%/*%/*-'R"`4T,,,,
 OL,3,CRegional news INDEX          R~4
@@ -136,7 +136,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,W h7}h7}j7}h7}h7}       G  R`xu  G7/15
 OL,2,W+,"-'*%/*-'"-'*%/T(,,,,,Rj|~}~4T,,
 OL,3,CRegional news INDEX     Rh/
@@ -161,7 +161,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,W~k4~s hw1~k4~c1 hw}h7}j7}    Rx}0G8/15
 OL,2,W/*%+, "-$/*%+.!+,*%/*%/*-'T(,$Rz}T(,,,
 OL,3,CRegional news INDEX         R`~
@@ -186,7 +186,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,W|4|h4|||h||4|||h||4|4|            G9/15
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -211,26 +211,27 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,V7c#####5Ww;js%7+ j#57kjs1        G10/15
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CThursday                 G1/3
-OL,5,G1300 BBC News at One
+OL,3,Vupppppp5CThursday                 G1/2
+OL,5,G1345 BBC News at One
 OL,6,     FThe latest national and
 OL,7,     Finternational news from the BBC.
-OL,8,G1335 BBC London
-OL,9,     FThe latest news, sport and weather
-OL,10,     Ffrom London.
-OL,11,G1345 BBC News at One
-OL,12,     FThe latest national and
-OL,13,     Finternational news from the BBC.
-OL,14,G1400 Wimbledon
-OL,15,     FLive coverage of the Championships
-OL,16,     Fat the All England Lawn Tennis
-OL,17,     FClub at Wimbledon.
-OL,18,G1800 BBC News at Six
-OL,19,     FThe latest national and
-OL,20,     Finternational news from the BBC.
+OL,8,G1400 Wimbledon
+OL,9,     FLive coverage of the Championships
+OL,10,     Fat the All England Lawn Tennis
+OL,11,     FClub at Wimbledon.
+OL,12,G1800 BBC News at Six
+OL,13,     FThe latest national and
+OL,14,     Finternational news from the BBC.
+OL,15,G1830 BBC London
+OL,16,     FThe latest news, sport and weather
+OL,17,     Ffrom London.
+OL,18,G1900 Wimbledon
+OL,19,     FLive coverage of the Championships
+OL,20,     Fat the All England Lawn Tennis
+OL,21,     FClub at Wimbledon.
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,120,200,140,260,0,100
@@ -238,7 +239,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5      G11/15
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/4
@@ -264,23 +265,28 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,V7c#####5W5#7!5j "5               G12/15
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CThursday                 G1/4
-OL,5,G1300 ITV Lunchtime News
-OL,6,G1320 ITV News London
-OL,7,G1330 ITV Racing: Live from Newmarket
-OL,8,     FEd Chamberlin and Francesca Cumani
-OL,9,     Fpresent racing from Newmarket and
-OL,10,     FDoncaster. Today's feature meeting
-OL,11,     Fis the opening day of the July
-OL,12,     Ffestival at Newmarket.
-OL,13,G1600 Tipping Point
-OL,14,     FBen Shephard hosts the quiz show
-OL,15,     Fin which three players take on an
-OL,16,     Fextraordinary machine in the hope
-OL,17,     Fof winning a cash jackpot.
+OL,5,G1330 ITV Racing: Live from Newmarket
+OL,6,     FEd Chamberlin and Francesca Cumani
+OL,7,     Fpresent racing from Newmarket and
+OL,8,     FDoncaster. Today's feature meeting
+OL,9,     Fis the opening day of the July
+OL,10,     Ffestival at Newmarket.
+OL,11,G1600 Tipping Point
+OL,12,     FBen Shephard hosts the quiz show
+OL,13,     Fin which three players take on an
+OL,14,     Fextraordinary machine in the hope
+OL,15,     Fof winning a cash jackpot.
+OL,16,G1700 The Chase
+OL,17,     FBradley Walsh hosts as all that
+OL,18,     Fstands between Cedric from London,
+OL,19,     FKeith from the Isle of Man, Pamela
+OL,20,     Ffrom Lowestoft, Lyn from Fareham
+OL,21,     Fand thousands of pounds is a
+OL,22,     FChaser.
 OL,23,VpppppppppppppppppppFITV 1 regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,120,200,140,260,0,100
@@ -288,7 +294,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4   G13/15
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/8
@@ -314,7 +320,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,V7c#####5Wg3                      G14/15
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/8
@@ -341,24 +347,25 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1783599517
+OL,0,        ECIMSBWebfax 1   F119A1783601296
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+jG15/15
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CThursday                 G1/7
-OL,5,G1305 The Adventures of Sir Lancelot
-OL,6,     FWitches Brew. 1957. Stars William
-OL,7,     FRussell, Cyril Smith & Ronald
-OL,8,     FLeigh-Hunt. A woman with mystical
-OL,9,     Fpowers convinces King Bors she is
-OL,10,     Fworking evil. Merlin is enlisted
-OL,11,     Fagainst these powers.
-OL,12,G1335 Captain Pirate
-OL,13,     F1952. Adventure. Directed by Ralph
-OL,14,     FMurphy. Stars Louis Hayward,
-OL,15,     FPatricia Medina & John Sutton. A
-OL,16,     Fretired buccaneer is forced back
-OL,17,     Fonto the high seas to escape
-OL,18,     Fexecution and clear his good name.
+OL,5,G1335 Captain Pirate
+OL,6,     F1952. Adventure. Directed by Ralph
+OL,7,     FMurphy. Stars Louis Hayward,
+OL,8,     FPatricia Medina & John Sutton. A
+OL,9,     Fretired buccaneer is forced back
+OL,10,     Fonto the high seas to escape
+OL,11,     Fexecution and clear his good name.
+OL,12,G1520 Serena
+OL,13,     F1962. Drama. Directed by Peter
+OL,14,     FMaxwell. Stars Patrick Holt, Emrys
+OL,15,     FJones & Honor Blackman. An
+OL,16,     Finspector strives to solve the
+OL,17,     Fmystery of an artist's dead wife.
+OL,18,     FThe artist becomes the main
+OL,19,     Fsuspect.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,120,200,140,260,0,100
