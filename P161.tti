@@ -1,27 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1783531113
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1783574345
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FPlenty of
-OL,6,Fwarm evening sunshine across the
-OL,7,Fcountry. However, cloud and patchy
-OL,8,Fdrizzle will persist across northwest
-OL,9,FScotland. Dry overnight with prolonged
-OL,10,Fclear periods. Some mist and fog
-OL,11,Fpatches developing, mainly in the
-OL,12,Fwest. A warm night for many.
-OL,13,
-OL,14,CThursday:FEarly mist and fog soon
-OL,15,Fclearing. England, Wales and eastern
-OL,16,FScotland experiencing another hot day
-OL,17,Fwith hazy sunshine and light winds.
-OL,18,FCloudier for Northern Ireland and
-OL,19,Fnorthwest Scotland.
+OL,5,CToday:FEarly low cloud mostly clearing
+OL,6,Fbut patches may linger near western
+OL,7,Fcoasts, and generally remaining
+OL,8,Fcloudier and breezier for northwest
+OL,9,FScotland with patchy rain. Elsewhere,
+OL,10,Fa hot day with prolonged periods of
+OL,11,Fsunshine, albeit hazy at times.
+OL,12,
+OL,13,CTonight:FCloud and rain remains across
+OL,14,Fnorthwest Scotland. Otherwise, dry and
+OL,15,Flargely clear, though low cloud and
+OL,16,Ffog pushing inland again into parts of
+OL,17,Fthe west. A warm night for many.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1783574345
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FRain in the northwest may turn
+OL,6,Fheavy for a time. The small chance of
+OL,7,Fa shower developing elsewhere, but
+OL,8,Fmany once again staying dry and
+OL,9,Fpredominantly sunny. Another hot day.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
