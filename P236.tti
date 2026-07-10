@@ -2,7 +2,7 @@ PN,23601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1783626583
+OL,0,        ECIMSBWebfax 1   F236A1783642712
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G1/9
@@ -31,7 +31,7 @@ PN,23602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1783626583
+OL,0,        ECIMSBWebfax 1   F236A1783642712
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G2/9
@@ -47,7 +47,7 @@ OL,13,     FHockings.
 OL,14,G1300 BBC News at One
 OL,15,     FThe latest national and
 OL,16,     Finternational news from the BBC.
-OL,17,G1400 BBC News Now
+OL,17,G1330 BBC News Now
 OL,18,     FAll the big stories, live as they
 OL,19,     Fhappen, presented by Lucy
 OL,20,     FHockings.
@@ -58,22 +58,22 @@ PN,23603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1783626583
+OL,0,        ECIMSBWebfax 1   F236A1783642712
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G3/9
-OL,5,G1430 Business Today - NYSE Opening Bell
-OL,6,     FThe latest business news from New
-OL,7,     FYork and around the world.
-OL,8,G1445 BBC News Now
-OL,9,     FAll the big stories, live as they
-OL,10,     Fhappen, presented by Lucy
-OL,11,     FHockings.
-OL,12,G1500 Verified Live
-OL,13,     FMatthew Amroliwala presents all
-OL,14,     Fthe latest global and UK news,
-OL,15,     Flive from London.
-OL,16,G1530 Verified Live
+OL,5,G1400 BBC News Now
+OL,6,     FAll the big stories, live as they
+OL,7,     Fhappen, presented by Lucy
+OL,8,     FHockings.
+OL,9,G1430 Business Today - NYSE Opening Bell
+OL,10,     FThe latest business news from New
+OL,11,     FYork and around the world.
+OL,12,G1445 BBC News Now
+OL,13,     FAll the big stories, live as they
+OL,14,     Fhappen, presented by Lucy
+OL,15,     FHockings.
+OL,16,G1500 Verified Live
 OL,17,     FMatthew Amroliwala presents all
 OL,18,     Fthe latest global and UK news,
 OL,19,     Flive from London.
@@ -84,26 +84,27 @@ PN,23604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1783626583
+OL,0,        ECIMSBWebfax 1   F236A1783642712
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G4/9
-OL,5,G1600 Verified Live
+OL,5,G1530 Verified Live
 OL,6,     FMatthew Amroliwala presents all
 OL,7,     Fthe latest global and UK news,
 OL,8,     Flive from London.
-OL,9,G1630 Verified Live
+OL,9,G1600 Verified Live
 OL,10,     FMatthew Amroliwala presents all
 OL,11,     Fthe latest global and UK news,
 OL,12,     Flive from London.
-OL,13,G1700 Verified Live
+OL,13,G1630 Verified Live
 OL,14,     FMatthew Amroliwala presents all
 OL,15,     Fthe latest global and UK news,
 OL,16,     Flive from London.
-OL,17,G1730 BBC News
-OL,18,G1800 BBC News at Six
-OL,19,     FThe latest national and
-OL,20,     Finternational news from the BBC.
+OL,17,G1700 Verified Live
+OL,18,     FMatthew Amroliwala presents all
+OL,19,     Fthe latest global and UK news,
+OL,20,     Flive from London.
+OL,21,G1730 BBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,0,100
@@ -111,26 +112,25 @@ PN,23605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1783626583
+OL,0,        ECIMSBWebfax 1   F236A1783642712
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G5/9
-OL,5,G1830 The World Today with Maryam
-OL,6,G     Moshiri
-OL,7,     FWatch the best of the BBC's
-OL,8,     Fjournalism from around the world.
-OL,9,G1900 The World Today with Maryam
-OL,10,G     Moshiri
-OL,11,     FWatch the best of the BBC's
-OL,12,     Fjournalism from around the world.
-OL,13,G1930 The World Today with Maryam
-OL,14,G     Moshiri
-OL,15,     FWatch the best of the BBC's
-OL,16,     Fjournalism from around the world.
-OL,17,G2000 The Context USA
-OL,18,     FSpecial coverage from Washington
-OL,19,     FDC and London, focusing on
-OL,20,     FPresident Trump's second term.
+OL,5,G1800 BBC News at Six
+OL,6,     FThe latest national and
+OL,7,     Finternational news from the BBC.
+OL,8,G1830 The World Today with Maryam
+OL,9,G     Moshiri
+OL,10,     FWatch the best of the BBC's
+OL,11,     Fjournalism from around the world.
+OL,12,G1900 The World Today with Maryam
+OL,13,G     Moshiri
+OL,14,     FWatch the best of the BBC's
+OL,15,     Fjournalism from around the world.
+OL,16,G1930 The World Today with Maryam
+OL,17,G     Moshiri
+OL,18,     FWatch the best of the BBC's
+OL,19,     Fjournalism from around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,0,100
@@ -138,27 +138,26 @@ PN,23606
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1783626583
+OL,0,        ECIMSBWebfax 1   F236A1783642712
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G6/9
-OL,5,G2030 The Context USA
+OL,5,G2000 The Context USA
 OL,6,     FSpecial coverage from Washington
 OL,7,     FDC and London, focusing on
 OL,8,     FPresident Trump's second term.
-OL,9,G2100 The Context
-OL,10,     FA regular panel of guests discuss
-OL,11,     Fthe biggest international stories
-OL,12,     Fof the day.
-OL,13,G2130 The Context
+OL,9,G2030 The Context USA
+OL,10,     FSpecial coverage from Washington
+OL,11,     FDC and London, focusing on
+OL,12,     FPresident Trump's second term.
+OL,13,G2100 The Context
 OL,14,     FA regular panel of guests discuss
 OL,15,     Fthe biggest international stories
 OL,16,     Fof the day.
-OL,17,G2200 BBC World News America
-OL,18,     FThe BBC presents in-depth reports
-OL,19,     Fon the major international and US
-OL,20,     Fnews of the day.
-OL,21,G2230 Newsnight
+OL,17,G2130 The Context
+OL,18,     FA regular panel of guests discuss
+OL,19,     Fthe biggest international stories
+OL,20,     Fof the day.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,0,100
@@ -166,28 +165,28 @@ PN,23607
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1783626583
+OL,0,        ECIMSBWebfax 1   F236A1783642712
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G7/9
-OL,5,G2300 BBC World News America
+OL,5,G2200 BBC World News America
 OL,6,     FThe BBC presents in-depth reports
 OL,7,     Fon the major international and US
 OL,8,     Fnews of the day.
-OL,9,G2330 The President's Path
-OL,10,     FA weekly discussion on the US
-OL,11,     Fpresidency.
-OL,12,G2345 BBC News
-OL,13,G0000 BBC News
-OL,14,G0030 Talking Business
-OL,15,     FExamining the business stories and
-OL,16,     Feconomic trends that are
-OL,17,     Fre-shaping our world.
-OL,18,G0100 BBC News
-OL,19,G0130 Tech Now
-OL,20,     FAdrienne Murray has rare access to
-OL,21,     FMicrosoft's Quantum Lab in
-OL,22,     FDenmark.
+OL,9,G2230 Newsnight
+OL,10,G2300 BBC World News America
+OL,11,     FThe BBC presents in-depth reports
+OL,12,     Fon the major international and US
+OL,13,     Fnews of the day.
+OL,14,G2330 The President's Path
+OL,15,     FA weekly discussion on the US
+OL,16,     Fpresidency.
+OL,17,G2345 BBC News
+OL,18,G0000 BBC News
+OL,19,G0030 Talking Business
+OL,20,     FExamining the business stories and
+OL,21,     Feconomic trends that are
+OL,22,     Fre-shaping our world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,0,100
@@ -195,26 +194,26 @@ PN,23608
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1783626583
+OL,0,        ECIMSBWebfax 1   F236A1783642712
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G8/9
-OL,5,G0200 BBC News
-OL,6,G0230 China's Greatest Treasures
-OL,7,     FThe dragon is the ultimate symbol
-OL,8,     Fof China; people call themselves
-OL,9,     Fits descendants.
-OL,10,G0300 BBC News
-OL,11,G0330 What Happened at...?
-OL,12,     FJordan Dunbar explores how the
-OL,13,     FBattle of the Somme affects people
-OL,14,     Fand communities today.
-OL,15,G0400 BBC News
-OL,16,G0430 The Media Show
-OL,17,     FFarage accuses the media of
-OL,18,     Ftargeting him amid scrutiny of his
-OL,19,     Ffinancial interests.
-OL,20,G0500 BBC News
+OL,5,G0100 BBC News
+OL,6,G0130 Tech Now
+OL,7,     FAdrienne Murray has rare access to
+OL,8,     FMicrosoft's Quantum Lab in
+OL,9,     FDenmark.
+OL,10,G0200 BBC News
+OL,11,G0230 China's Greatest Treasures
+OL,12,     FThe dragon is the ultimate symbol
+OL,13,     Fof China; people call themselves
+OL,14,     Fits descendants.
+OL,15,G0300 BBC News
+OL,16,G0330 What Happened at...?
+OL,17,     FJordan Dunbar explores how the
+OL,18,     FBattle of the Somme affects people
+OL,19,     Fand communities today.
+OL,20,G0400 BBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,0,100
@@ -222,14 +221,19 @@ PN,23609
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1783626583
+OL,0,        ECIMSBWebfax 1   F236A1783642712
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G9/9
-OL,5,G0530 The Travel Show
-OL,6,     FAs the Zoological Society of
-OL,7,     FLondon turns 200, Roma Wells asks:
-OL,8,     Fwhat are zoos for?
+OL,5,G0430 The Media Show
+OL,6,     FFarage accuses the media of
+OL,7,     Ftargeting him amid scrutiny of his
+OL,8,     Ffinancial interests.
+OL,9,G0500 BBC News
+OL,10,G0530 The Travel Show
+OL,11,     FAs the Zoological Society of
+OL,12,     FLondon turns 200, Roma Wells asks:
+OL,13,     Fwhat are zoos for?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,0,100@
