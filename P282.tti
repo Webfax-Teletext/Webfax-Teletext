@@ -2,20 +2,28 @@ PN,28201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1783660804
+OL,0,        ECIMSBWebfax 1   F282A1783675170
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CFriday                   G1/7
-OL,5,G0600 Good Morning Britain
-OL,6,G1000 This Morning
-OL,7,     FDaily magazine, featuring a mix of
-OL,8,     Fcelebrity chat, showbusiness news,
-OL,9,     Flifestyle features, topical
-OL,10,     Fdiscussion, health and beauty
-OL,11,     Fadvice and more
-OL,12,G1300 ITV Lunchtime News; Weather
-OL,13,G1320 STV News; Weather
-OL,14,G1329 STV Pollen Count
+OL,3,Vupppppp5CFriday                   G1/6
+OL,5,G1000 This Morning
+OL,6,     FDaily magazine, featuring a mix of
+OL,7,     Fcelebrity chat, showbusiness news,
+OL,8,     Flifestyle features, topical
+OL,9,     Fdiscussion, health and beauty
+OL,10,     Fadvice and more
+OL,11,G1300 ITV Lunchtime News; Weather
+OL,12,G1320 STV News; Weather
+OL,13,G1329 STV Pollen Count
+OL,14,G1330 STV Racing: Live from Newmarket
+OL,15,     FEd Chamberlin and Francesca Cumani
+OL,16,     Fpresent coverage of day two of the
+OL,17,     FJuly Festival, headlined by the
+OL,18,     FFalmouth Stakes, plus racing from
+OL,19,     FYork. With analysis from Jason
+OL,20,     FWeaver, reports by Matt Chapman
+OL,21,     Fand Megan Nicholls, and commentary
+OL,22,     Ffrom Richard Hoiles
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
@@ -23,20 +31,24 @@ PN,28202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1783660804
+OL,0,        ECIMSBWebfax 1   F282A1783675170
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CFriday                   G2/7
-OL,5,G1330 STV Racing: Live from Newmarket
-OL,6,     FEd Chamberlin and Francesca Cumani
-OL,7,     Fpresent coverage of day two of the
-OL,8,     FJuly Festival, headlined by the
-OL,9,     FFalmouth Stakes, plus racing from
-OL,10,     FYork. With analysis from Jason
-OL,11,     FWeaver, reports by Matt Chapman
-OL,12,     Fand Megan Nicholls, and commentary
-OL,13,     Ffrom Richard Hoiles
-OL,14,G1559 STV Weather North
+OL,3,Vupppppp5CFriday                   G2/6
+OL,5,G1559 STV Weather North
+OL,6,G1600 Tipping Point
+OL,7,     FBen Shephard hosts the quiz in
+OL,8,     Fwhich contestants answer questions
+OL,9,     Fto win turns on an arcade-style
+OL,10,     Fmachine. Dropping tokens down a
+OL,11,     Fchoice of four chutes, they hope
+OL,12,     Fto knock piles of them off a
+OL,13,     Fmoving shelf - and the more they
+OL,14,     Fcollect, the greater the prize
+OL,15,     Ffund. The player who has won the
+OL,16,     Fleast amount is then eliminated,
+OL,17,     Fand the last one standing competes
+OL,18,     Ffor a #10,000 jackpot
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
@@ -44,34 +56,10 @@ PN,28203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1783660804
+OL,0,        ECIMSBWebfax 1   F282A1783675170
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CFriday                   G3/7
-OL,5,G1600 Tipping Point
-OL,6,     FBen Shephard hosts the quiz in
-OL,7,     Fwhich contestants answer questions
-OL,8,     Fto win turns on an arcade-style
-OL,9,     Fmachine. Dropping tokens down a
-OL,10,     Fchoice of four chutes, they hope
-OL,11,     Fto knock piles of them off a
-OL,12,     Fmoving shelf - and the more they
-OL,13,     Fcollect, the greater the prize
-OL,14,     Ffund. The player who has won the
-OL,15,     Fleast amount is then eliminated,
-OL,16,     Fand the last one standing competes
-OL,17,     Ffor a #10,000 jackpot
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page  BReg TV CClean Feed  FNat TV
-FL,283,260,140,200,0,100
-PN,28204
-SC,0004
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1783660804
-OL,1,V7c#####5Wws"k#j 5
-OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CFriday                   G4/7
+OL,3,Vupppppp5CFriday                   G3/6
 OL,5,G1700 The Chase
 OL,6,     FBradley Walsh presents as
 OL,7,     FCharlotte from Didsbury, Nilpa
@@ -89,14 +77,14 @@ OL,18,G1830 ITV Evening News; Weather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
-PN,28205
-SC,0005
+PN,28204
+SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1783660804
+OL,0,        ECIMSBWebfax 1   F282A1783675170
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CFriday                   G5/7
+OL,3,Vupppppp5CFriday                   G4/6
 OL,5,G1930 Bradley & Barney Walsh: Breaking
 OL,6,G     Dad
 OL,7,     FBradley and Barney arrive in
@@ -117,14 +105,14 @@ OL,21,     Ffor his dad
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
-PN,28206
-SC,0006
+PN,28205
+SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1783660804
+OL,0,        ECIMSBWebfax 1   F282A1783675170
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CFriday                   G6/7
+OL,3,Vupppppp5CFriday                   G5/6
 OL,5,G2000 Emmerdale
 OL,6,     FLewis and Nicola are shocked to
 OL,7,     Ffind the cafe has been ransacked,
@@ -146,14 +134,14 @@ OL,22,G0105 Shop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
-PN,28207
-SC,0007
+PN,28206
+SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1783660804
+OL,0,        ECIMSBWebfax 1   F282A1783675170
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CFriday                   G7/7
+OL,3,Vupppppp5CFriday                   G6/6
 OL,5,G0300 All Elite Wrestling: Dynamite
 OL,6,     FHard-hitting action from the world
 OL,7,     Fof All Elite Wrestling - the
