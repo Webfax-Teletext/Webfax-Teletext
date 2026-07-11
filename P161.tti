@@ -1,42 +1,25 @@
-PN,16101
-SC,0001
+PN,16100
+SC,0000
 CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F161A1783745304
-OL,1,Wj5hw1~{4k7juhw1{$             G1/2
+PS,8008
+OL,0,        ECIMSBWebfax 1   F161A1783788475
+OL,1,Wj5hw1~{4k7juhw1{$
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CToday:FRather cloudy across Scotland,
-OL,6,Fwith showery rain developing at times.
-OL,7,FGenerally sunny elsewhere, but the
-OL,8,Frisk of low cloud along eastern coasts
-OL,9,Fof England. Breezy in the south. Hot
-OL,10,Fin the west, cooler in the east.
-OL,11,
-OL,12,CTonight:FPatchy rain easing across
-OL,13,FScotland. Low cloud becoming more
-OL,14,Fextensive across central and eastern
-OL,15,Fareas, with clear spells remaining in
-OL,16,Fthe west. A warm night, but windy in
-OL,17,Fthe south.
-OL,23,QppppppppppppppppppppGSource: Met Office
-OL,24,ANext Page  BWeather  CReg News  FReg TV
-FL,162,160,301,260,100,100
-PN,16102
-SC,0002
-CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F161A1783745304
-OL,1,Wj5hw1~{4k7juhw1{$             G2/2
-OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
-OL,3,GUK weather for today and tomorrow
-OL,4,
-OL,5,CSunday:FLow cloud will quickly burn
-OL,6,Fback to the coasts to leave plenty of
-OL,7,Fsunshine, though it may tend to remain
-OL,8,Fcloudier across Scotland. Windy in the
-OL,9,Fsouth. Very warm.
+OL,5,CThis Evening and Tonight:FPatchy rain
+OL,6,Feasing overnight across Scotland.
+OL,7,FOtherwise, low cloud becoming more
+OL,8,Fextensive across central and eastern
+OL,9,Fareas, with clear spells remaining in
+OL,10,Fthe west. A warm night, but windy in
+OL,11,Fthe south.
+OL,12,
+OL,13,CSunday:FLow cloud will quickly burn
+OL,14,Fback to the coasts to leave plenty of
+OL,15,Fsunshine, though it may tend to remain
+OL,16,Fcloudier across Scotland. Windy in the
+OL,17,Fsouth. Very warm.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
