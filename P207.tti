@@ -2,22 +2,22 @@ PN,20701
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F207A1783936266
+OL,0,        ECIMSBWebfax 1   F207A1783938088
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G1/4
-OL,5,G1025 Prime Minister's Questions
-OL,6,     FCoverage of questions to the
-OL,7,     Fdeputy prime minister David Lammy,
-OL,8,     Fon Wednesday 8 July.
-OL,9,G1100 Select Committees
-OL,10,     FJoint committee on the management
-OL,11,     Fof the civil service pension
-OL,12,     Fscheme by Capita.
-OL,13,G1430 House of Commons
-OL,14,     FCoverage of questions to Shabana
-OL,15,     FMahmood on Monday 13 July.
-OL,16,G1530 House of Commons
+OL,3,Vupppppp5CMonday                   G1/3
+OL,5,G1100 Select Committees
+OL,6,     FJoint committee on the management
+OL,7,     Fof the civil service pension
+OL,8,     Fscheme by Capita.
+OL,9,G1430 House of Commons
+OL,10,     FCoverage of questions to Shabana
+OL,11,     FMahmood on Monday 13 July.
+OL,12,G1530 House of Commons
+OL,13,     FCoverage of the day's proceedings
+OL,14,     Fin the House of Commons on Monday
+OL,15,     F13 July.
+OL,16,G1630 House of Commons
 OL,17,     FCoverage of the day's proceedings
 OL,18,     Fin the House of Commons on Monday
 OL,19,     F13 July.
@@ -28,26 +28,26 @@ PN,20702
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F207A1783936266
+OL,0,        ECIMSBWebfax 1   F207A1783938088
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G2/4
-OL,5,G1630 House of Commons
+OL,3,Vupppppp5CMonday                   G2/3
+OL,5,G1730 House of Commons
 OL,6,     FCoverage of the day's proceedings
 OL,7,     Fin the House of Commons on Monday
 OL,8,     F13 July.
-OL,9,G1730 House of Commons
+OL,9,G1830 House of Commons
 OL,10,     FCoverage of the day's proceedings
 OL,11,     Fin the House of Commons on Monday
 OL,12,     F13 July.
-OL,13,G1830 House of Commons
+OL,13,G1930 House of Commons
 OL,14,     FCoverage of the day's proceedings
 OL,15,     Fin the House of Commons on Monday
 OL,16,     F13 July.
-OL,17,G1930 House of Commons
-OL,18,     FCoverage of the day's proceedings
-OL,19,     Fin the House of Commons on Monday
-OL,20,     F13 July.
+OL,17,G2230 Lords Questions
+OL,18,     FQuestions in the House of Lords to
+OL,19,     Fgovernment ministers on Monday 13
+OL,20,     FJuly.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,208,200,140,260,0,100
@@ -55,43 +55,28 @@ PN,20703
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F207A1783936266
+OL,0,        ECIMSBWebfax 1   F207A1783938088
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G3/4
-OL,5,G2230 Lords Questions
-OL,6,     FQuestions in the House of Lords to
-OL,7,     Fgovernment ministers on Monday 13
-OL,8,     FJuly.
-OL,9,G2315 House of Lords
-OL,10,     FBusiness in the House of Lords on
-OL,11,     FMonday 13 July.
-OL,12,G0015 House of Lords
-OL,13,     FBusiness in the House of Lords on
-OL,14,     FMonday 13 July.
-OL,15,G0115 House of Lords
-OL,16,     FBusiness in the House of Lords on
-OL,17,     FMonday 13 July.
-OL,18,G0215 House of Lords
-OL,19,     FBusiness in the House of Lords on
-OL,20,     FMonday 13 July.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,208,200,140,260,0,100
-PN,20704
-SC,0004
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F207A1783936266
-OL,1,V7c#####5Ww;js%7+ js5w{js%5
-OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
-OL,3,Vupppppp5CMonday                   G4/4
-OL,5,G0315 House of Lords
+OL,3,Vupppppp5CMonday                   G3/3
+OL,5,G2315 House of Lords
 OL,6,     FBusiness in the House of Lords on
 OL,7,     FMonday 13 July.
-OL,8,G0415 House of Lords
+OL,8,G0015 House of Lords
 OL,9,     FBusiness in the House of Lords on
 OL,10,     FMonday 13 July.
+OL,11,G0115 House of Lords
+OL,12,     FBusiness in the House of Lords on
+OL,13,     FMonday 13 July.
+OL,14,G0215 House of Lords
+OL,15,     FBusiness in the House of Lords on
+OL,16,     FMonday 13 July.
+OL,17,G0315 House of Lords
+OL,18,     FBusiness in the House of Lords on
+OL,19,     FMonday 13 July.
+OL,20,G0415 House of Lords
+OL,21,     FBusiness in the House of Lords on
+OL,22,     FMonday 13 July.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,208,200,140,260,0,100@
