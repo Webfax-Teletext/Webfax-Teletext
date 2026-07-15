@@ -1,46 +1,29 @@
-PN,20601
-SC,0001
+PN,20600
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1784081888
+PS,8008
+OL,0,        ECIMSBWebfax 1   F206A1784083665
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CTuesday                  G1/2
-OL,5,G0300 Newsday
-OL,6,     FLive from Singapore, the latest
-OL,7,     Finternational news from the BBC.
-OL,8,G0330 Business Today
-OL,9,     FThe latest business news from
-OL,10,     FSingapore and around the world.
-OL,11,G0345 Asia Specific
-OL,12,     FA 29-year-old American pilot has
-OL,13,     Fbeen shot at a remote airstrip in
-OL,14,     FIndonesia.
-OL,15,G0400 Newsday
-OL,16,     FLive from Singapore, the latest
-OL,17,     Finternational news from the BBC.
-OL,18,G0430 Business Today
-OL,19,     FThe latest business news from
-OL,20,     FSingapore and around the world.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,207,200,140,260,0,100
-PN,20602
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1784081888
-OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
-OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CTuesday                  G2/2
-OL,5,G0445 Asia Specific
+OL,3,Vupppppp5CTuesday
+OL,5,G0345 Asia Specific
 OL,6,     FA 29-year-old American pilot has
 OL,7,     Fbeen shot at a remote airstrip in
 OL,8,     FIndonesia.
-OL,9,G0500 BBC News
-OL,10,G0530 Business Today
-OL,11,     FThe latest business news from
-OL,12,     FLondon and around the world.
+OL,9,G0400 Newsday
+OL,10,     FLive from Singapore, the latest
+OL,11,     Finternational news from the BBC.
+OL,12,G0430 Business Today
+OL,13,     FThe latest business news from
+OL,14,     FSingapore and around the world.
+OL,15,G0445 Asia Specific
+OL,16,     FA 29-year-old American pilot has
+OL,17,     Fbeen shot at a remote airstrip in
+OL,18,     FIndonesia.
+OL,19,G0500 BBC News
+OL,20,G0530 Business Today
+OL,21,     FThe latest business news from
+OL,22,     FLondon and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100@
