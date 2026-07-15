@@ -1,41 +1,27 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1784137704
+PS,8008
+OL,0,        ECIMSBWebfax 1   F201A1784139506
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CWednesday                G1/2
-OL,5,G1830 BBC London
-OL,6,     FThe latest news, sport and weather
-OL,7,     Ffrom London.
-OL,8,G1900 FIFA World Cup 2026
-OL,9,     FLive coverage of the semi-final
-OL,10,     Fbetween England and Argentina at
-OL,11,     Fthe 2026 FIFA World Cup.
-OL,12,G2230 BBC News at Ten
-OL,13,     FThe latest national and
-OL,14,     Finternational news from the BBC.
-OL,15,G2300 BBC London
-OL,16,     FThe latest news, sport and weather
-OL,17,     Ffrom London.
-OL,18,G2310 Rush
-OL,19,     FThe story of the rivalry between
-OL,20,     F1970s F1 champions Niki Lauda and
-OL,21,     FJames Hunt.
-OL,22,G0100 Weather for the Week Ahead
-OL,23,VpppppppppppppppppFBBC One regions: P260
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1784137704
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CWednesday                G2/2
-OL,5,G0105 Joins BBC News
+OL,3,Vupppppp5CWednesday
+OL,5,G1900 FIFA World Cup 2026
+OL,6,     FLive coverage of the semi-final
+OL,7,     Fbetween England and Argentina at
+OL,8,     Fthe 2026 FIFA World Cup.
+OL,9,G2230 BBC News at Ten
+OL,10,     FThe latest national and
+OL,11,     Finternational news from the BBC.
+OL,12,G2300 BBC London
+OL,13,     FThe latest news, sport and weather
+OL,14,     Ffrom London.
+OL,15,G2310 Rush
+OL,16,     FThe story of the rivalry between
+OL,17,     F1970s F1 champions Niki Lauda and
+OL,18,     FJames Hunt.
+OL,19,G0100 Weather for the Week Ahead
+OL,20,G0105 Joins BBC News
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100@
