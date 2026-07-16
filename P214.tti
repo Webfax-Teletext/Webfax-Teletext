@@ -2,24 +2,28 @@ PN,21401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F214A1784229522
+OL,0,        ECIMSBWebfax 1   F214A1784233114
 OL,1,V7c#####5W5#7!5j j#5j 55c;
 OL,2,V5!     5W% % )& *,-*,%%-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/3
-OL,5,G2000 Lingo
-OL,6,     FWorking out words this time are
-OL,7,     Ftwo married couples - Londoners
-OL,8,     FNestor and Andrew, and John and
-OL,9,     FSue from Liverpool - plus sisters
-OL,10,     FMeg and Holly from Bolton and
-OL,11,     FChesterfield.
-OL,12,G2100 Who Wants to Be a...
-OL,13,     F...Millionaire? Jeremy Clarkson
-OL,14,     Fhosts the quiz as the Millionaire
-OL,15,     Fchair, 15 questions and four
-OL,16,     Flifelines are all that stand
-OL,17,     Fbetween six hopeful contestants
-OL,18,     Fand one million pounds.
+OL,5,G2100 Who Wants to Be a...
+OL,6,     F...Millionaire? Jeremy Clarkson
+OL,7,     Fhosts the quiz as the Millionaire
+OL,8,     Fchair, 15 questions and four
+OL,9,     Flifelines are all that stand
+OL,10,     Fbetween six hopeful contestants
+OL,11,     Fand one million pounds.
+OL,12,G2200 Tipping Point
+OL,13,     FBen Shephard hosts the quiz show
+OL,14,     Fin which four players take on an
+OL,15,     Fextraordinary machine in the hope
+OL,16,     Fof winning a cash jackpot.
+OL,17,G2300 Tipping Point
+OL,18,     FBen Shephard hosts the quiz show
+OL,19,     Fin which four players take on an
+OL,20,     Fextraordinary machine in the hope
+OL,21,     Fof winning the 10,000 pound
+OL,22,     Fjackpot.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,215,200,140,260,0,100
@@ -27,27 +31,23 @@ PN,21402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F214A1784229522
+OL,0,        ECIMSBWebfax 1   F214A1784233114
 OL,1,V7c#####5W5#7!5j j#5j 55c;
 OL,2,V5!     5W% % )& *,-*,%%-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G2/3
-OL,5,G2200 Tipping Point
+OL,5,G0000 Tipping Point
 OL,6,     FBen Shephard hosts the quiz show
 OL,7,     Fin which four players take on an
 OL,8,     Fextraordinary machine in the hope
-OL,9,     Fof winning a cash jackpot.
-OL,10,G2300 Tipping Point
-OL,11,     FBen Shephard hosts the quiz show
-OL,12,     Fin which four players take on an
-OL,13,     Fextraordinary machine in the hope
-OL,14,     Fof winning the 10,000 pound
-OL,15,     Fjackpot.
-OL,16,G0000 Tipping Point
-OL,17,     FBen Shephard hosts the quiz show
-OL,18,     Fin which four players take on an
-OL,19,     Fextraordinary machine in the hope
-OL,20,     Fof winning the 10,000 pound
-OL,21,     Fjackpot.
+OL,9,     Fof winning the 10,000 pound
+OL,10,     Fjackpot.
+OL,11,G0055 Tenable
+OL,12,     FThe Eyes Have It: Warwick Davis
+OL,13,     Fhosts as a team of five get their
+OL,14,     Fchance to win a bumper cash prize
+OL,15,     Fby answering Top 10 list
+OL,16,     Fquestions, but can they take home
+OL,17,     F125,000 pounds?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,215,200,140,260,0,100
@@ -55,26 +55,19 @@ PN,21403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F214A1784229522
+OL,0,        ECIMSBWebfax 1   F214A1784233114
 OL,1,V7c#####5W5#7!5j j#5j 55c;
 OL,2,V5!     5W% % )& *,-*,%%-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G3/3
-OL,5,G0055 Tenable
-OL,6,     FThe Eyes Have It: Warwick Davis
-OL,7,     Fhosts as a team of five get their
-OL,8,     Fchance to win a bumper cash prize
-OL,9,     Fby answering Top 10 list
-OL,10,     Fquestions, but can they take home
-OL,11,     F125,000 pounds?
-OL,12,G0150 Riddiculous
-OL,13,     FRanvir Singh hosts the rapid-fire
-OL,14,     Fquiz as contestants Stephanie and
-OL,15,     FJill, Hussein and Alex, and Holly
-OL,16,     Fand Ben take on Riddlemaster Henry
-OL,17,     FLewis in a bid to solve his
-OL,18,     Friddles.
-OL,19,G0235 Unwind with ITV
-OL,20,G0300 Teleshopping
+OL,5,G0150 Riddiculous
+OL,6,     FRanvir Singh hosts the rapid-fire
+OL,7,     Fquiz as contestants Stephanie and
+OL,8,     FJill, Hussein and Alex, and Holly
+OL,9,     Fand Ben take on Riddlemaster Henry
+OL,10,     FLewis in a bid to solve his
+OL,11,     Friddles.
+OL,12,G0235 Unwind with ITV
+OL,13,G0300 Teleshopping
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,215,200,140,260,0,100@
