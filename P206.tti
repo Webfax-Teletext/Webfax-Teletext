@@ -2,27 +2,28 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1784240301
+OL,0,        ECIMSBWebfax 1   F206A1784247520
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CThursday                 G1/3
-OL,5,G2300 BBC World News America
-OL,6,     FThe BBC presents in-depth reports
-OL,7,     Fon the major international and US
-OL,8,     Fnews of the day.
-OL,9,G0000 BBC News
-OL,10,G0030 Newscast
-OL,11,     FAdam chats to Andrew Marr as Andy
-OL,12,     FBurnham prepares to takeover as PM
-OL,13,G0100 BBC News
-OL,14,G0130 The Media Show
-OL,15,     FFarage accuses the media of
-OL,16,     Ftargeting him amid scrutiny of his
-OL,17,     Ffinancial interests.
-OL,18,G0200 BBC News
-OL,19,G0300 Newsday
-OL,20,     FLive from Singapore, the latest
-OL,21,     Finternational news from the BBC.
+OL,3,Vupppppp5CThursday                 G1/2
+OL,5,G0100 BBC News
+OL,6,G0130 The Media Show
+OL,7,     FFarage accuses the media of
+OL,8,     Ftargeting him amid scrutiny of his
+OL,9,     Ffinancial interests.
+OL,10,G0200 BBC News
+OL,11,G0300 Newsday
+OL,12,     FLive from Singapore, the latest
+OL,13,     Finternational news from the BBC.
+OL,14,G0330 Business Today
+OL,15,     FThe latest business news from
+OL,16,     FSingapore and around the world.
+OL,17,G0345 Newsday
+OL,18,     FLive from Singapore, the latest
+OL,19,     Finternational news from the BBC.
+OL,20,G0400 Newsday
+OL,21,     FLive from Singapore, the latest
+OL,22,     Finternational news from the BBC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -30,40 +31,20 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1784240301
+OL,0,        ECIMSBWebfax 1   F206A1784247520
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CThursday                 G2/3
-OL,5,G0330 Business Today
+OL,3,Vupppppp5CThursday                 G2/2
+OL,5,G0430 Business Today
 OL,6,     FThe latest business news from
 OL,7,     FSingapore and around the world.
-OL,8,G0345 Newsday
+OL,8,G0445 Newsday
 OL,9,     FLive from Singapore, the latest
 OL,10,     Finternational news from the BBC.
-OL,11,G0400 Newsday
-OL,12,     FLive from Singapore, the latest
-OL,13,     Finternational news from the BBC.
-OL,14,G0430 Business Today
-OL,15,     FThe latest business news from
-OL,16,     FSingapore and around the world.
-OL,17,G0445 Newsday
-OL,18,     FLive from Singapore, the latest
-OL,19,     Finternational news from the BBC.
-OL,20,G0500 BBC News
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,207,200,140,260,0,100
-PN,20603
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1784240301
-OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
-OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CThursday                 G3/3
-OL,5,G0530 Business Today
-OL,6,     FThe latest business news from
-OL,7,     FLondon and around the world.
+OL,11,G0500 BBC News
+OL,12,G0530 Business Today
+OL,13,     FThe latest business news from
+OL,14,     FLondon and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100@
