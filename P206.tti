@@ -2,26 +2,28 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1784582313
+OL,0,        ECIMSBWebfax 1   F206A1784584102
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CMonday                   G1/3
-OL,5,G2200 BBC News at Ten
-OL,6,G2230 Newsnight
-OL,7,G2300 BBC World News America
-OL,8,     FThe BBC presents in-depth reports
-OL,9,     Fon the major international and US
-OL,10,     Fnews of the day.
-OL,11,G0000 BBC News
-OL,12,G0030 BBC News
-OL,13,G0100 BBC News
-OL,14,G0130 Talking Business
-OL,15,     FFormer Austrian chancellor on the
-OL,16,     Fcyber threat to Europe's critical
-OL,17,     Finfrastructure.
-OL,18,G0200 Newsday
-OL,19,     FLive from Singapore, the latest
-OL,20,     Finternational news from the BBC.
+OL,5,G2230 Newsnight
+OL,6,G2300 BBC World News America
+OL,7,     FThe BBC presents in-depth reports
+OL,8,     Fon the major international and US
+OL,9,     Fnews of the day.
+OL,10,G0000 BBC News
+OL,11,G0030 BBC News
+OL,12,G0100 BBC News
+OL,13,G0130 Talking Business
+OL,14,     FFormer Austrian chancellor on the
+OL,15,     Fcyber threat to Europe's critical
+OL,16,     Finfrastructure.
+OL,17,G0200 Newsday
+OL,18,     FLive from Singapore, the latest
+OL,19,     Finternational news from the BBC.
+OL,20,G0230 Business Today
+OL,21,     FThe latest business news from
+OL,22,     FSingapore and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -29,28 +31,28 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1784582313
+OL,0,        ECIMSBWebfax 1   F206A1784584102
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CMonday                   G2/3
-OL,5,G0230 Business Today
-OL,6,     FThe latest business news from
-OL,7,     FSingapore and around the world.
-OL,8,G0245 BBC Sport
-OL,9,     FA round-up of the day's sporting
-OL,10,     Faction.
-OL,11,G0300 Newsday
-OL,12,     FLive from Singapore, the latest
-OL,13,     Finternational news from the BBC.
-OL,14,G0330 Business Today
-OL,15,     FThe latest business news from
-OL,16,     FSingapore and around the world.
-OL,17,G0345 BBC Sport
-OL,18,     FA round-up of the day's sporting
-OL,19,     Faction.
-OL,20,G0400 Newsday
-OL,21,     FLive from Singapore, the latest
-OL,22,     Finternational news from the BBC.
+OL,5,G0245 BBC Sport
+OL,6,     FA round-up of the day's sporting
+OL,7,     Faction.
+OL,8,G0300 Newsday
+OL,9,     FLive from Singapore, the latest
+OL,10,     Finternational news from the BBC.
+OL,11,G0330 Business Today
+OL,12,     FThe latest business news from
+OL,13,     FSingapore and around the world.
+OL,14,G0345 BBC Sport
+OL,15,     FA round-up of the day's sporting
+OL,16,     Faction.
+OL,17,G0400 Newsday
+OL,18,     FLive from Singapore, the latest
+OL,19,     Finternational news from the BBC.
+OL,20,G0430 Business Today
+OL,21,     FThe latest business news from
+OL,22,     FSingapore and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -58,20 +60,17 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1784582313
+OL,0,        ECIMSBWebfax 1   F206A1784584102
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CMonday                   G3/3
-OL,5,G0430 Business Today
-OL,6,     FThe latest business news from
-OL,7,     FSingapore and around the world.
-OL,8,G0445 BBC Sport
-OL,9,     FA round-up of the day's sporting
-OL,10,     Faction.
-OL,11,G0500 BBC News
-OL,12,G0530 Business Today
-OL,13,     FThe latest business news from
-OL,14,     FLondon and around the world.
+OL,5,G0445 BBC Sport
+OL,6,     FA round-up of the day's sporting
+OL,7,     Faction.
+OL,8,G0500 BBC News
+OL,9,G0530 Business Today
+OL,10,     FThe latest business news from
+OL,11,     FLondon and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100@
