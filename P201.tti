@@ -1,41 +1,27 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1784578720
+PS,8008
+OL,0,        ECIMSBWebfax 1   F201A1784582313
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CMonday                   G1/2
-OL,5,G2115 I, Jack Wright
-OL,6,     FDCI Morgan closes in on his prime
-OL,7,     Fsuspect.
-OL,8,G2200 BBC News at Ten
-OL,9,     FThe latest national and
-OL,10,     Finternational news from the BBC.
-OL,11,G2235 BBC London
-OL,12,     FThe latest news, sport and weather
-OL,13,     Ffrom London.
-OL,14,G2245 I, Jack Wright
-OL,15,     FSally faces the wrath of Arnaud,
-OL,16,     FRose takes a huge risk, and DCI
-OL,17,     FMorgan makes an arrest.
-OL,18,G2335 Who Do You Think You Are?
-OL,19,     FToby Jones investigates a family
-OL,20,     Frumour of a connection to India on
-OL,21,     Fhis dad's side.
-OL,22,G0035 Weather for the Week Ahead
-OL,23,VpppppppppppppppppFBBC One regions: P260
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1784578720
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CMonday                   G2/2
-OL,5,G0040 Joins BBC News
+OL,3,Vupppppp5CMonday
+OL,5,G2200 BBC News at Ten
+OL,6,     FThe latest national and
+OL,7,     Finternational news from the BBC.
+OL,8,G2235 BBC London
+OL,9,     FThe latest news, sport and weather
+OL,10,     Ffrom London.
+OL,11,G2245 I, Jack Wright
+OL,12,     FSally faces the wrath of Arnaud,
+OL,13,     FRose takes a huge risk, and DCI
+OL,14,     FMorgan makes an arrest.
+OL,15,G2335 Who Do You Think You Are?
+OL,16,     FToby Jones investigates a family
+OL,17,     Frumour of a connection to India on
+OL,18,     Fhis dad's side.
+OL,19,G0035 Weather for the Week Ahead
+OL,20,G0040 Joins BBC News
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100@
