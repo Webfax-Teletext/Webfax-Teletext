@@ -1,13 +1,47 @@
-PN,46200
-SC,0000
+PN,46201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F462A1784585884
+PS,c008
+OL,0,        ECIMSBWebfax 1   F462A1784611153
 OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
 OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
-OL,3,Vupppppp5CMonday
-OL,5,G2315 EuroNews
-OL,6,G0550 EuroNews
+OL,3,Vupppppp5CTuesday                  G1/2
+OL,5,G0550 EuroNews
+OL,6,G0700 Morning Ireland
+OL,7,     FMorning news programme.
+OL,8,G0900 Today with David McCullagh
+OL,9,     FThe Today show live from RTE Radio
+OL,10,     F1.
+OL,11,G1030 Mass
+OL,12,G1100 Latest News and Weather
+OL,13,G1200 Latest News and Weather
+OL,14,G1300 RTE News: One O'clock
+OL,15,G1310 Latest News and Weather
+OL,16,G1500 Latest News and Weather
+OL,17,G1600 Latest News and Weather
+OL,18,G1700 Latest News and Weather
+OL,19,G1740 Nuacht RTE
+OL,20,G1801 RTE News: Six One
+OL,21,G1830 Latest News and Weather
+OL,22,G1900 Latest News and Weather
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,463,200,140,260,0,100
+PN,46202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F462A1784611153
+OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
+OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
+OL,3,Vupppppp5CTuesday                  G2/2
+OL,5,G2000 Latest News and Weather
+OL,6,G2030 Nuacht RTE
+OL,7,G2100 RTE News: Nine O'Clock
+OL,8,G2130 Latest News and Weather
+OL,9,G2300 Nuacht RTE
+OL,10,G2315 EuroNews
+OL,11,G0550 EuroNews
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,463,200,140,260,0,100@
