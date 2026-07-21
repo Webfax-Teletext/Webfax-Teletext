@@ -1,41 +1,27 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1784661517
+PS,8008
+OL,0,        ECIMSBWebfax 1   F201A1784665115
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CTuesday                  G1/2
-OL,5,G2000 The Great British Sewing Bee
-OL,6,     FWeek 2, and it's time to celebrate
-OL,7,     Fprints and colours.
-OL,8,G2100 Murder 24/7
-OL,9,     FA woman is found stabbed at home.
-OL,10,     FDetectives must decide if it was
-OL,11,     Fsuicide or murder.
-OL,12,G2200 BBC News at Ten
-OL,13,     FThe latest national and
-OL,14,     Finternational news from the BBC.
-OL,15,G2230 BBC London
-OL,16,     FThe latest news, sport and weather
-OL,17,     Ffrom London.
-OL,18,G2245 Harriet
-OL,19,     FBiopic of Harriet Tubman, who
-OL,20,     Fescaped slavery and then led
-OL,21,     Fmissions to free many more.
-OL,22,G0040 Weather for the Week Ahead
-OL,23,VpppppppppppppppppFBBC One regions: P260
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1784661517
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CTuesday                  G2/2
-OL,5,G0045 Joins BBC News
+OL,3,Vupppppp5CTuesday
+OL,5,G2100 Murder 24/7
+OL,6,     FA woman is found stabbed at home.
+OL,7,     FDetectives must decide if it was
+OL,8,     Fsuicide or murder.
+OL,9,G2200 BBC News at Ten
+OL,10,     FThe latest national and
+OL,11,     Finternational news from the BBC.
+OL,12,G2230 BBC London
+OL,13,     FThe latest news, sport and weather
+OL,14,     Ffrom London.
+OL,15,G2245 Harriet
+OL,16,     FBiopic of Harriet Tubman, who
+OL,17,     Fescaped slavery and then led
+OL,18,     Fmissions to free many more.
+OL,19,G0040 Weather for the Week Ahead
+OL,20,G0045 Joins BBC News
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100@
