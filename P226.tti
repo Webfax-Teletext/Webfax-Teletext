@@ -2,24 +2,23 @@ PN,22601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F226A1784751516
+OL,0,        ECIMSBWebfax 1   F226A1784755111
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G1/3
-OL,5,G2100 Ambulance: Code Red
-OL,6,     FAfter a woman suffers cardiac
-OL,7,     Farrest while driving, paramedics
-OL,8,     Fmust induce a coma at the roadside
-OL,9,     Fto save her. Meanwhile, a
-OL,10,     F19-year-old suffers critical
-OL,11,     Finjuries in a motorcycle crash.
-OL,12,G2200 Ambulance: Code Red
-OL,13,     FParamedics rush to help a
-OL,14,     F67-year-old HGV driver who has
-OL,15,     Fsuffered a cardiac arrest, and, in
-OL,16,     FHillingdon, a man who has suffered
-OL,17,     Fsevere burns after lighting a
-OL,18,     Fbonfire with petrol.
+OL,5,G2200 Ambulance: Code Red
+OL,6,     FParamedics rush to help a
+OL,7,     F67-year-old HGV driver who has
+OL,8,     Fsuffered a cardiac arrest, and, in
+OL,9,     FHillingdon, a man who has suffered
+OL,10,     Fsevere burns after lighting a
+OL,11,     Fbonfire with petrol.
+OL,12,G2300 Skin A&E
+OL,13,     FDr Dev Shah treats a Nottingham
+OL,14,     FForest fan with a large head cyst,
+OL,15,     Fand Dr Toby Nelson deals with a
+OL,16,     Fseries of mini lipomas that look
+OL,17,     Flike a string of pearls.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,227,200,140,260,0,100
@@ -27,27 +26,27 @@ PN,22602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F226A1784751516
+OL,0,        ECIMSBWebfax 1   F226A1784755111
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G2/3
-OL,5,G2300 Skin A&E
-OL,6,     FDr Dev Shah treats a Nottingham
-OL,7,     FForest fan with a large head cyst,
-OL,8,     Fand Dr Toby Nelson deals with a
-OL,9,     Fseries of mini lipomas that look
-OL,10,     Flike a string of pearls.
-OL,11,G0000 Killer at the Crime Scene
-OL,12,     FWhen 82-year-old Mohammed Saleem
-OL,13,     Fis fatally stabbed in Birmingham
-OL,14,     Fand a series of explosions targets
-OL,15,     Fmosques in the West Midlands,
-OL,16,     Fcounter terrorism uncovers a
-OL,17,     Fhate-fueled campaign.
-OL,18,G0100 Police Interceptors
-OL,19,     FA runaway driver escapes the car
-OL,20,     Fwhile still on the move, leaving
-OL,21,     FKev to chase him down on foot.
+OL,5,G0000 Killer at the Crime Scene
+OL,6,     FWhen 82-year-old Mohammed Saleem
+OL,7,     Fis fatally stabbed in Birmingham
+OL,8,     Fand a series of explosions targets
+OL,9,     Fmosques in the West Midlands,
+OL,10,     Fcounter terrorism uncovers a
+OL,11,     Fhate-fueled campaign.
+OL,12,G0100 Police Interceptors
+OL,13,     FA runaway driver escapes the car
+OL,14,     Fwhile still on the move, leaving
+OL,15,     FKev to chase him down on foot.
+OL,16,G0200 Police Interceptors
+OL,17,     FReality series following
+OL,18,     Fhigh-speed police intercept units
+OL,19,     Fin West Yorkshire. Nick and Joe
+OL,20,     Fpursue helmetless motorbike riders
+OL,21,     Funtil one takes a ten-foot drop.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,227,200,140,260,0,100
@@ -55,25 +54,19 @@ PN,22603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F226A1784751516
+OL,0,        ECIMSBWebfax 1   F226A1784755111
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday                G3/3
-OL,5,G0200 Police Interceptors
-OL,6,     FReality series following
-OL,7,     Fhigh-speed police intercept units
-OL,8,     Fin West Yorkshire. Nick and Joe
-OL,9,     Fpursue helmetless motorbike riders
-OL,10,     Funtil one takes a ten-foot drop.
-OL,11,G0245 Police Interceptors
-OL,12,     FAn epic cross-country manhunt ends
-OL,13,     Fin three arrests and the seizure
-OL,14,     Fof a van.
-OL,15,G0335 Home and Away
-OL,16,     FRemi's at a crossroads. Sonny
-OL,17,     Ffeels cornered. Lacey runs a tight
-OL,18,     Fship.
-OL,19,G0400 Teleshopping
+OL,5,G0245 Police Interceptors
+OL,6,     FAn epic cross-country manhunt ends
+OL,7,     Fin three arrests and the seizure
+OL,8,     Fof a van.
+OL,9,G0335 Home and Away
+OL,10,     FRemi's at a crossroads. Sonny
+OL,11,     Ffeels cornered. Lacey runs a tight
+OL,12,     Fship.
+OL,13,G0400 Teleshopping
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,227,200,140,260,0,100@
