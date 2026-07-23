@@ -1,27 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1784751303
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1784782076
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FNorthern and
-OL,6,Feastern Scotland, the north of
-OL,7,FNorthern Ireland, along with eastern
-OL,8,Fparts of England will see areas of
-OL,9,Fcloud and patchy rain overnight. Dry
-OL,10,Felsewhere with clear spells and some
-OL,11,Fmist or fog patches. Rather warm in
-OL,12,Fmost areas.
-OL,13,
-OL,14,CThursday:FNorthwest Scotland could see
-OL,15,Fsome rain tomorrow, and isolated
-OL,16,Fshowers are possible across the far
-OL,17,Feast and southeast of England. Fine
-OL,18,Felsewhere with some very warm spells
-OL,19,Fof sunshine.
+OL,5,CToday:FCloudy across the north of the
+OL,6,Fcountry with patchy rain in northwest
+OL,7,FScotland. A few isolated showers are
+OL,8,Falso possible across the far east of
+OL,9,FEngland. Fine elsewhere, with hazy
+OL,10,Fsunshine and feeling very warm,
+OL,11,Fparticularly in the south
+OL,12,
+OL,13,CTonight:FPatchy light rain sinking
+OL,14,Fsoutheast across parts of Scotland and
+OL,15,FNorthern Ireland overnight. Otherwise
+OL,16,Fdry, with variable amounts of cloud.
+OL,17,FWarm for many.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1784782076
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FCloudy across the north and
+OL,6,Fwest with outbreaks of light rain or
+OL,7,Fshowers, especially during the
+OL,8,Fafternoon and evening. Dry elsewhere
+OL,9,Fwith very warm sunshine, locally hot
+OL,10,Fin the south.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
