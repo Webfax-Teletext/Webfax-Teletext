@@ -2,10 +2,10 @@ PN,25601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F256A1784783956
+OL,0,        ECIMSBWebfax 1   F256A1784870355
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CFriday                   G1/10
+OL,3,Vupppppp5CSaturday                 G1/10
 OL,5,G0600 Teleshopping
 OL,6,G0700 Shop: Must Have Ideas
 OL,7,     FDiscover the very latest
@@ -15,11 +15,10 @@ OL,10,G0730 eFOLDi Mobility Scooters
 OL,11,     FAward winning eFOLDi lightweight
 OL,12,     Felectric folding mobility
 OL,13,     Fscooters.
-OL,14,G0800 Bargain-Loving Brits in the Sun
-OL,15,     FWe meet up again with Cockney
-OL,16,     Fcheesemongers Deb and Dave, who
-OL,17,     Fbring a taste of Britain to their
-OL,18,     Fcustomers on the Costa Blanca.
+OL,14,G0800 Friends
+OL,15,G0830 Friends
+OL,16,G0900 Friends
+OL,17,G0930 Friends
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,257,200,140,260,0,100
@@ -27,23 +26,24 @@ PN,25602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F256A1784783956
+OL,0,        ECIMSBWebfax 1   F256A1784870355
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CFriday                   G2/10
-OL,5,G0900 Bargain-Loving Brits in the Sun
-OL,6,     FWe meet up with Tony and Claire as
-OL,7,     Fthey enjoy a carefree day in the
-OL,8,     FSpanish sun. With gold and some
-OL,9,     Flunch at the 19th hole, threatened
-OL,10,     Fonly by Tony's proud boasting.
-OL,11,G1000 Nightmare Tenants, Slum Landlords
-OL,12,     FDocumentary series. In Bristol,
-OL,13,     FJon's dream of turning a former
-OL,14,     Ftram staion into flats was
-OL,15,     Fderailed by squatters, has he
-OL,16,     Fmanaged to get things back on
-OL,17,     Ftrack?
+OL,3,Vupppppp5CSaturday                 G2/10
+OL,5,G1000 Car Pound Cops
+OL,6,     FIn Northamptonshire we join
+OL,7,     FSpecial Constable Ellison on
+OL,8,     FOperation Jaguar, a countrywide
+OL,9,     Foperation to target moving traffic
+OL,10,     Foffences using ANPR cameras.
+OL,11,     F(Ep15)
+OL,12,G1030 Shoplifters: Caught Red Handed
+OL,13,     FThe fight against the rise of
+OL,14,     Fshoplifting. In London's West End
+OL,15,     Fundercover officers pursue a known
+OL,16,     F"dipper", and in Birmingham a
+OL,17,     Fstolen bank card scam becomes
+OL,18,     Fthreatening. (Ep1)
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,257,200,140,260,0,100
@@ -51,24 +51,24 @@ PN,25603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F256A1784783956
+OL,0,        ECIMSBWebfax 1   F256A1784870355
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CFriday                   G3/10
-OL,5,G1100 Traffic Cops
-OL,6,     FWith North Yorkshire's roads a big
-OL,7,     Fdraw for bikers, policing them is
-OL,8,     Fa top priority. A 70-year-old
-OL,9,     Fbiker crashes down an embankment
-OL,10,     Fbut is spared serious injury
-OL,11,     Fthanks to a gadget.
-OL,12,G1200 Traffic Cops
-OL,13,     FOfficers give high-speed pursuit
-OL,14,     Fto a van with cloned plates which
-OL,15,     Fsmashes through traffic near
-OL,16,     FLeeds, and on the A1 a driver
-OL,17,     Fclaims a mechanical fault caused
-OL,18,     Fhim to crash.
+OL,3,Vupppppp5CSaturday                 G3/10
+OL,5,G1130 Shoplifters: Caught Red Handed
+OL,6,     FIn Coventry, a prolific shoplifter
+OL,7,     Fis caught, and claims he steals
+OL,8,     Fout of necessity. At a QD store
+OL,9,     Fsomeone thinks they can get away
+OL,10,     Fwith not paying for their
+OL,11,     FChristmas shopping. (Ep2)
+OL,12,G1230 Nightmare Tenants, Slum Landlords
+OL,13,     FDocumentary series. Landlords fall
+OL,14,     Ffoul of two young tenants who are
+OL,15,     Fusing their rental property as a
+OL,16,     Ffilm set. But the tenants have
+OL,17,     Fstopped paying the rent and won't
+OL,18,     Fleave.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,257,200,140,260,0,100
@@ -76,28 +76,23 @@ PN,25604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F256A1784783956
+OL,0,        ECIMSBWebfax 1   F256A1784870355
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CFriday                   G4/10
-OL,5,G1300 Traffic Cops
-OL,6,     FIn North Yorkshire, more than
-OL,7,     F1,000 drink drivers are arrested
-OL,8,     Fevery year. On one busy road,
-OL,9,     Fofficers search for a car
-OL,10,     Freportedly swerving on a dual
-OL,11,     Fcarriageway, and set a trap.
-OL,12,G1400 Police Interceptors
-OL,13,     FA dangerous driver who's breached
-OL,14,     Fhis restraining order leads the
-OL,15,     Finterceptors on the pursuit to end
-OL,16,     Fall pursuits.
-OL,17,G1500 Police Interceptors
-OL,18,     FFirst up in this action-packed
-OL,19,     Fepisode, after a tram-stop robbery
-OL,20,     Fin Bulwell, the Interceptors are
-OL,21,     Fon the hunt for two suspects
-OL,22,     Fallegedly armed with a gun.
+OL,3,Vupppppp5CSaturday                 G4/10
+OL,5,G1330 Nightmare Tenants, Slum Landlords
+OL,6,     FDocumentary series. Landlords fall
+OL,7,     Ffoul of two young tenants who are
+OL,8,     Fusing their rental property as a
+OL,9,     Ffilm set. Eviction lawyer Chris
+OL,10,     Freceives a shock at an abandoned
+OL,11,     Fprintworks.
+OL,12,G1435 Nightmare Tenants, Slum Landlords
+OL,13,     FDocumentary series. After offering
+OL,14,     Fa former tenant the use of a spare
+OL,15,     Froom until she gets back on her
+OL,16,     Ffeet, a landlord then struggles to
+OL,17,     Fevict her, and her partner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,257,200,140,260,0,100
@@ -105,28 +100,22 @@ PN,25605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F256A1784783956
+OL,0,        ECIMSBWebfax 1   F256A1784870355
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CFriday                   G5/10
-OL,5,G1600 Police Interceptors
-OL,6,     FThe high-octane documentary
-OL,7,     Fseries. When interceptors pursue a
-OL,8,     Fvehicle with obscured number
-OL,9,     Fplates, it charges off the wrong
-OL,10,     Fway down the A46. Plus carjacking
-OL,11,     Fat knife point.
-OL,12,G1700 Shoplifters: Caught Red Handed
-OL,13,     FTM Eye's teams are making an
-OL,14,     Fimpact in Ealing - if stolen goods
-OL,15,     Fare valued at over #2000, the team
-OL,16,     Fwill push for a prosecution. And
-OL,17,     Fin Newton Abbott a toy store is
-OL,18,     Ftargeted. (Ep5)
-OL,19,G1800 Home and Away
-OL,20,     FDavid confides in Amelia. Beau
-OL,21,     Fwants Harper all to himself.
-OL,22,     FRichie makes a tough decision.
+OL,3,Vupppppp5CSaturday                 G5/10
+OL,5,G1535 Nightmare Tenants, Slum Landlords
+OL,6,     FDocumentary series. A doctor needs
+OL,7,     Fto evict a defaulting tenant from
+OL,8,     Fhis old family home. Over 30 men
+OL,9,     Ffound living in an unsafe house
+OL,10,     Frefuse to name the landlord.
+OL,11,G1635 Nightmare Tenants, Slum Landlords
+OL,12,     FDocumentary series. When they
+OL,13,     Frespond to an alarm at a
+OL,14,     Flaundrette, firefighters discover
+OL,15,     Fseveral people living illegally on
+OL,16,     Fthe premises.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,257,200,140,260,0,100
@@ -134,27 +123,25 @@ PN,25606
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F256A1784783956
+OL,0,        ECIMSBWebfax 1   F256A1784870355
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CFriday                   G6/10
-OL,5,G1830 Home and Away
-OL,6,     FJohn feels the pressure. Abigail
-OL,7,     Fgets an ultimatum. Beau turns on
-OL,8,     Fthe charm.
-OL,9,G1900 GPs: Behind Closed Doors
-OL,10,     FFrom Peterborough. After returning
-OL,11,     Ffrom pilgrimage, Mohammed has pain
-OL,12,     Fin his leg. Debbie Harris needs to
-OL,13,     Frule out a blood clot or Deep Vein
-OL,14,     FThrombosis, which could be
-OL,15,     Flife-threatening.
-OL,16,G2000 Casualty 24/7: Every Second Counts
-OL,17,     FA fire alarm begins evacuation
-OL,18,     Fefforts; a man with potential
-OL,19,     Fspine injuries is given pain
-OL,20,     Frelief while waiting for scan
-OL,21,     Fresults.
+OL,3,Vupppppp5CSaturday                 G6/10
+OL,5,G1735 Nightmare Tenants, Slum Landlords
+OL,6,     FDocumentary series. A furious
+OL,7,     Flandlord discovers his tenant has
+OL,8,     Fbeen sub-letting his London flat,
+OL,9,     Fand squatters with a baby are
+OL,10,     Fgiven two weeks to find somewhere
+OL,11,     Fnew to live.
+OL,12,G1835 Second Best Exotic Marigold Hotel
+OL,13,     FStarring Judi Dench, Dev Patel and
+OL,14,     FMaggie Smith. As the Best Exotic
+OL,15,     FMarigold Hotel only has a single
+OL,16,     Fremaining vacancy, Sonny pursues
+OL,17,     Fhis expansionist dream of opening
+OL,18,     Fa second hotel. (2015)
+OL,19,G1935 Entertainment News on 5
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,257,200,140,260,0,100
@@ -162,24 +149,25 @@ PN,25607
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F256A1784783956
+OL,0,        ECIMSBWebfax 1   F256A1784870355
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CFriday                   G7/10
-OL,5,G2100 999: Critical Condition
-OL,6,     FJohn has been stabbed and is
-OL,7,     Frushed for emergency surgery. Teen
-OL,8,     Ffootballer Adam has lost all
-OL,9,     Fsensation below his waist, so
-OL,10,     Fundergoes an MRI scan while his
-OL,11,     Fparents wait anxiously.
-OL,12,G2200 A&E After Dark
-OL,13,     FAfter being run over by a car, Sue
-OL,14,     Farrives with spinal and head
-OL,15,     Finjuries. Ethan starts to show
-OL,16,     Fsigns of severe memory loss after
-OL,17,     Fbanging his head at the skate
-OL,18,     Fpark.
+OL,3,Vupppppp5CSaturday                 G7/10
+OL,5,G1940 Second Best Exotic Marigold Hotel
+OL,6,     FStarring Judi Dench, Dev Patel and
+OL,7,     FMaggie Smith. As the Best Exotic
+OL,8,     FMarigold Hotel only has a single
+OL,9,     Fremaining vacancy, Sonny pursues
+OL,10,     Fhis expansionist dream of opening
+OL,11,     Fa second hotel. (2015)
+OL,12,G2100 Crocodile Dundee
+OL,13,     FHit action comedy starring Paul
+OL,14,     FHogan. A reporter meets eccentric
+OL,15,     Fpoacher Mick 'Crocodile' Dundee in
+OL,16,     FAustralia, inviting him to New
+OL,17,     FYork, where he tackles the
+OL,18,     Fcomplexities of city life. (1986)
+OL,19,G2205 Entertainment News on 5
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,257,200,140,260,0,100
@@ -187,24 +175,23 @@ PN,25608
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F256A1784783956
+OL,0,        ECIMSBWebfax 1   F256A1784870355
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CFriday                   G8/10
-OL,5,G2300 Trauma Room One
-OL,6,     FA neurosurgeon has just 24 hours
-OL,7,     Fto stop 21-year-old Caitlin from
-OL,8,     Fgoing blind, Toni's life is in
-OL,9,     Fdanger due to a brain cyst, and
-OL,10,     FSteven faces surgery on a massive
-OL,11,     Fdeformity in his spine. (Ep4)
-OL,12,G0000 Skin A&E
-OL,13,     FTwenty-six-year-old Curtis has a
-OL,14,     Fcondition that's been troubling
-OL,15,     Fhim since he was ten. Plus, an
-OL,16,     Foperation to remove a facial cyst
-OL,17,     Fthat's lying close to the temporal
-OL,18,     Fnerve.
+OL,3,Vupppppp5CSaturday                 G8/10
+OL,5,G2210 Crocodile Dundee
+OL,6,     FHit action comedy starring Paul
+OL,7,     FHogan. A reporter meets eccentric
+OL,8,     Fpoacher Mick 'Crocodile' Dundee in
+OL,9,     FAustralia, inviting him to New
+OL,10,     FYork, where he tackles the
+OL,11,     Fcomplexities of city life. (1986)
+OL,12,G2255 Piers Morgan: Uncensored
+OL,13,     FThe bold, opinion-led news and
+OL,14,     Fdebate show hosted by Piers
+OL,15,     FMorgan. Piers blends journalism,
+OL,16,     Fdebates and cultural commentary
+OL,17,     Fthat's unapologetically direct.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,257,200,140,260,0,100
@@ -212,27 +199,28 @@ PN,25609
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F256A1784783956
+OL,0,        ECIMSBWebfax 1   F256A1784870355
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CFriday                   G9/10
-OL,5,G0100 Nightmare Tenants, Slum Landlords
-OL,6,     FDocumentary series. Updates
-OL,7,     Finclude the Essex landlady who
-OL,8,     Fdiscovered that her tenant had
-OL,9,     Fmoved in her boyfriend but was in
-OL,10,     Fprison herself for GBH.
-OL,11,G0200 Casualty 24/7: Every Second Counts
-OL,12,     FBarnsley Casualty is facing one of
-OL,13,     Fits toughest shifts to date. With
-OL,14,     Fno children's beds available
-OL,15,     Facross the whole of Yorkshire, and
-OL,16,     Fa department filling up with
-OL,17,     Fchildren.
-OL,18,G0245 Scam City: Don't Get Caught Out!
-OL,19,     FMarrakech can be maze-like without
-OL,20,     Fa guide, however are the guides as
-OL,21,     Fgenuine as they seem?
+OL,3,Vupppppp5CSaturday                 G9/10
+OL,5,G0025 X-Rated: Diary of a Stripper
+OL,6,     FExploring the world of male and
+OL,7,     Ffemale strippers from social media
+OL,8,     Fperformances to arena tours,
+OL,9,     Fincluding a look at striptease
+OL,10,     Fclasses and the CCTV used on club
+OL,11,     Fpremises.
+OL,12,G0125 Adults Only: Sexual Healing
+OL,13,     FExploring the world of the sex
+OL,14,     Ftherapists helping to cure Britain
+OL,15,     Fof its bad sex habits.
+OL,16,G0220 Killer at the Crime Scene
+OL,17,     FWhen 82-year-old Mohammed Saleem
+OL,18,     Fis fatally stabbed in Birmingham
+OL,19,     Fand a series of explosions targets
+OL,20,     Fmosques in the West Midlands,
+OL,21,     Fcounter terrorism uncovers a
+OL,22,     Fhate-fueled campaign.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,257,200,140,260,0,100
@@ -240,15 +228,18 @@ PN,25610
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F256A1784783956
+OL,0,        ECIMSBWebfax 1   F256A1784870355
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
-OL,3,Vupppppp5CFriday                  G10/10
-OL,5,G0335 Home and Away
-OL,6,     FHarper struggles with Archie's
-OL,7,     Fabsence. Eden gives Lacey some
-OL,8,     Fperspective. Has Abigail moved on?
-OL,9,G0400 Teleshopping
+OL,3,Vupppppp5CSaturday                G10/10
+OL,5,G0310 Shoplifters: Caught Red Handed
+OL,6,     FUndercover detective Steve tails
+OL,7,     Ftwo suspects who previously evaded
+OL,8,     Fcapture, and later deals with a
+OL,9,     Fwoman suspected of stealing
+OL,10,     Fthousands of pounds' worth of
+OL,11,     Fperfume. (Ep3)
+OL,12,G0400 Teleshopping
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,257,200,140,260,0,100@
