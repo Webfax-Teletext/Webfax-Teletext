@@ -1,41 +1,24 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1785446324
+PS,8008
+OL,0,        ECIMSBWebfax 1   F201A1785448100
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CThursday                 G1/2
-OL,5,G2200 BBC News at Ten
-OL,6,     FThe latest national and
-OL,7,     Finternational news from the BBC.
-OL,8,G2230 BBC London
-OL,9,     FThe latest news, sport and weather
-OL,10,     Ffrom London.
-OL,11,G2240 Murder 24/7
-OL,12,     FPolice hunt suspects at large,
-OL,13,     Fafter the murder of delivery
-OL,14,     Fdriver Aurman Singh.
-OL,15,G2340 Murder 24/7
-OL,16,     FA man calls 999 to confess he has
-OL,17,     Fkilled his ex-partner.
-OL,18,G0035 Alan Carr's Picture Slam
-OL,19,     FQuickfire picture quizzing for
-OL,20,     Fteams from Bury St Edmunds, Combe
-OL,21,     FMartin and Staffordshire.
-OL,22,G0120 Weather for the Week Ahead
-OL,23,VpppppppppppppppppFBBC One regions: P260
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1785446324
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CThursday                 G2/2
-OL,5,G0125 Joins BBC News
+OL,3,Vupppppp5CThursday
+OL,5,G2240 Murder 24/7
+OL,6,     FPolice hunt suspects at large,
+OL,7,     Fafter the murder of delivery
+OL,8,     Fdriver Aurman Singh.
+OL,9,G2340 Murder 24/7
+OL,10,     FA man calls 999 to confess he has
+OL,11,     Fkilled his ex-partner.
+OL,12,G0035 Alan Carr's Picture Slam
+OL,13,     FQuickfire picture quizzing for
+OL,14,     Fteams from Bury St Edmunds, Combe
+OL,15,     FMartin and Staffordshire.
+OL,16,G0120 Weather for the Week Ahead
+OL,17,G0125 Joins BBC News
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100@
