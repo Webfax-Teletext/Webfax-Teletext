@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 1   F1fcA1785365285
+OL,0,        ECIMSBWebfax 1   F1fcA1785382443
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1785365284;
-OL,10,GService: Webfax 1 - 34059 1bd20223e3f
-OL,11,FLast Update: 29/07/2026 23:48:04  G1/2
-OL,13,AbbcNewsLive                G29/07-17:37
-OL,14,CbbcSport/Horse Racing      G27/07-14:41
-OL,15,Ccharts/singles             G25/07-18:32
-OL,16,Cgeneric/championship       G22/07-21:15
-OL,17,Cgeneric/f1                 G26/07-16:42
-OL,18,Cgeneric/league-one         G22/07-21:15
-OL,19,Cgeneric/league-two         G22/07-21:15
-OL,20,Ageneric/lottery            G22/07-21:15
-OL,21,Cgeneric/prem_league        G22/07-21:15
-OL,22,Ageneric/tube_status        G22/07-21:15
-OL,23,Cgeneric/weather_warnings   G22/07-21:15
+OL,25,1785382441;
+OL,10,GService: Webfax 1 - 34060 1a977f1ec70
+OL,11,FLast Update: 30/07/2026 04:34:01  G1/7
+OL,13,AbbcNews/Business           G30/07-04:32
+OL,14,AbbcNews/Entertainment      G30/07-04:33
+OL,15,AbbcNews/Politics           G30/07-04:32
+OL,16,AbbcNews/Technology         G30/07-04:32
+OL,17,AbbcNewsLive                G30/07-04:32
+OL,18,AbbcSport/Cricket           G30/07-04:33
+OL,19,AbbcSport/Football          G30/07-04:33
+OL,20,AbbcSport/Football Gossip   G30/07-04:33
+OL,21,AbbcSport/Formula 1         G30/07-04:33
+OL,22,AbbcSport/Golf              G30/07-04:33
+OL,23,AbbcSport/Horse Racing      G30/07-04:33
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 1   F1fcA1785365285
+OL,0,        ECIMSBWebfax 1   F1fcA1785382443
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,16 +42,154 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1785365284;
-OL,10,GService: Webfax 1 - 34059 1bd20223e3f
-OL,11,FLast Update: 29/07/2026 23:48:04  G2/2
-OL,13,AitvSport/border            G22/07-21:15
-OL,14,AitvSport/calendar          G22/07-21:15
-OL,15,CitvSport/central           G22/07-21:15
-OL,16,CitvSport/granada           G27/07-07:48
-OL,17,CitvSport/london            G22/07-21:15
-OL,18,AitvSport/meridian          G22/07-21:15
-OL,19,CitvSport/tyne-tees         G22/07-21:15
-OL,20,CitvSport/utv               G27/07-19:48
-OL,21,AitvSport/westcountry       G22/07-21:15
-OL,22,CiNMS/comments.json         G23/07-01:25
+OL,25,1785382441;
+OL,10,GService: Webfax 1 - 34060 1a977f1ec70
+OL,11,FLast Update: 30/07/2026 04:34:01  G2/7
+OL,13,AbbcSport/Tennis            G30/07-04:33
+OL,14,AbbcSportFixtures/          G30/07-04:33
+OL,15,Abbc_news_papers            G30/07-04:33
+OL,16,AceefaxBusiness             G30/07-04:33
+OL,17,AceefaxNews                 G30/07-04:32
+OL,18,Acharts/singles             G30/07-04:33
+OL,19,Ageneric/championship       G30/07-04:33
+OL,20,Ageneric/f1                 G30/07-04:33
+OL,21,Ageneric/horse_racing       G30/07-04:33
+OL,22,Ageneric/league-one         G30/07-04:33
+OL,23,Ageneric/league-two         G30/07-04:34
+PN,1fc03
+SC,0003
+PS,c018
+OL,0,        ECIMSBWebfax 1   F1fcA1785382443
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1785382441;
+OL,10,GService: Webfax 1 - 34060 1a977f1ec70
+OL,11,FLast Update: 30/07/2026 04:34:01  G3/7
+OL,13,Ageneric/lottery            G30/07-04:33
+OL,14,Ageneric/pollen_forecast    G30/07-04:33
+OL,15,Ageneric/prem_league        G30/07-04:33
+OL,16,Ageneric/tube_status        G30/07-04:33
+OL,17,Ageneric/weather_warnings   G30/07-04:33
+OL,18,AitvNews/border             G30/07-04:33
+OL,19,AitvNews/calendar           G30/07-04:33
+OL,20,AitvNews/central            G30/07-04:33
+OL,21,AitvNews/channel            G30/07-04:33
+OL,22,AitvNews/granada            G30/07-04:33
+OL,23,AitvNews/london             G30/07-04:33
+PN,1fc04
+SC,0004
+PS,c018
+OL,0,        ECIMSBWebfax 1   F1fcA1785382443
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1785382441;
+OL,10,GService: Webfax 1 - 34060 1a977f1ec70
+OL,11,FLast Update: 30/07/2026 04:34:01  G4/7
+OL,13,AitvNews/meridian           G30/07-04:33
+OL,14,AitvNews/national           G30/07-04:33
+OL,15,AitvNews/tyne-tees          G30/07-04:33
+OL,16,AitvNews/utv                G30/07-04:34
+OL,17,AitvNews/wales              G30/07-04:34
+OL,18,AitvNews/westcountry        G30/07-04:34
+OL,19,AitvSport/border            G30/07-04:32
+OL,20,AitvSport/calendar          G30/07-04:33
+OL,21,AitvSport/central           G30/07-04:33
+OL,22,AitvSport/channel           G30/07-04:33
+OL,23,AitvSport/granada           G30/07-04:33
+PN,1fc05
+SC,0005
+PS,c018
+OL,0,        ECIMSBWebfax 1   F1fcA1785382443
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1785382441;
+OL,10,GService: Webfax 1 - 34060 1a977f1ec70
+OL,11,FLast Update: 30/07/2026 04:34:01  G5/7
+OL,13,AitvSport/london            G30/07-04:33
+OL,14,AitvSport/meridian          G30/07-04:33
+OL,15,AitvSport/national          G30/07-04:32
+OL,16,AitvSport/tyne-tees         G30/07-04:33
+OL,17,AitvSport/utv               G30/07-04:33
+OL,18,AitvSport/wales             G30/07-04:33
+OL,19,AitvSport/westcountry       G30/07-04:33
+OL,20,Amet_weather/Central, TaysidG30/07-04:33
+OL,21,Amet_weather/Dumfries, GalloG30/07-04:33
+OL,22,Amet_weather/East           G30/07-04:33
+OL,23,Amet_weather/East Midlands  G30/07-04:33
+PN,1fc06
+SC,0006
+PS,c018
+OL,0,        ECIMSBWebfax 1   F1fcA1785382443
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1785382441;
+OL,10,GService: Webfax 1 - 34060 1a977f1ec70
+OL,11,FLast Update: 30/07/2026 04:34:01  G6/7
+OL,13,Amet_weather/Grampian       G30/07-04:33
+OL,14,Amet_weather/Highlands & EilG30/07-04:33
+OL,15,Amet_weather/London & South G30/07-04:33
+OL,16,Amet_weather/North East     G30/07-04:32
+OL,17,Amet_weather/North West     G30/07-04:33
+OL,18,Amet_weather/Northern IrelanG30/07-04:33
+OL,19,Amet_weather/Orkney & ShetlaG30/07-04:33
+OL,20,Amet_weather/South West     G30/07-04:33
+OL,21,Amet_weather/Strathclyde    G30/07-04:33
+OL,22,Amet_weather/Wales          G30/07-04:33
+OL,23,Amet_weather/West Midlands  G30/07-04:33
+PN,1fc07
+SC,0007
+PS,c018
+OL,0,        ECIMSBWebfax 1   F1fcA1785382443
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1785382441;
+OL,10,GService: Webfax 1 - 34060 1a977f1ec70
+OL,11,FLast Update: 30/07/2026 04:34:01  G7/7
+OL,13,Amet_weather/Yorkshire & HumG30/07-04:33
+OL,14,Amet_weather/national_forecaG30/07-04:32
+OL,15,Atv_listings                G30/07-04:33
