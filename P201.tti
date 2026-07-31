@@ -1,42 +1,25 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1785532706
+PS,8008
+OL,0,        ECIMSBWebfax 1   F201A1785534490
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CFriday                   G1/2
-OL,5,G2200 BBC News at Ten
-OL,6,     FThe latest national and
-OL,7,     Finternational news from the BBC.
-OL,8,G2230 BBC London
-OL,9,     FThe latest news, sport and weather
-OL,10,     Ffrom London.
-OL,11,G2240 Austin
-OL,12,     FAustin follows a romcom manual to
-OL,13,     Fwoo Haley. Ingrid flirts with Big
-OL,14,     FBear.
-OL,15,G2305 Austin
-OL,16,     FAll roads lead to Thunder Thursday
-OL,17,     Fand one gloriously chaotic
-OL,18,     FCanberra bus ride.
-OL,19,G2335 Scent of a Woman
-OL,20,     FCollege student Charlie Simms
-OL,21,     Ftakes a job watching over a blind
-OL,22,     Farmy veteran.
-OL,23,VpppppppppppppppppFBBC One regions: P260
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1785532706
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CFriday                   G2/2
-OL,5,G0205 Weather for the Week Ahead
-OL,6,G0210 Joins BBC News
+OL,3,Vupppppp5CFriday
+OL,5,G2240 Austin
+OL,6,     FAustin follows a romcom manual to
+OL,7,     Fwoo Haley. Ingrid flirts with Big
+OL,8,     FBear.
+OL,9,G2305 Austin
+OL,10,     FAll roads lead to Thunder Thursday
+OL,11,     Fand one gloriously chaotic
+OL,12,     FCanberra bus ride.
+OL,13,G2335 Scent of a Woman
+OL,14,     FCollege student Charlie Simms
+OL,15,     Ftakes a job watching over a blind
+OL,16,     Farmy veteran.
+OL,17,G0205 Weather for the Week Ahead
+OL,18,G0210 Joins BBC News
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100@
