@@ -2,18 +2,24 @@ PN,28101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785489515
+OL,0,        ECIMSBWebfax 1   F281A1785500323
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CFriday                   G1/10
-OL,5,G1000 This Morning
-OL,6,     FDaily magazine, featuring a mix of
-OL,7,     Fcelebrity chat, showbusiness news,
-OL,8,     Flifestyle features, topical
-OL,9,     Fdiscussion, health and beauty
-OL,10,     Fadvice and more
-OL,11,G1300 ITV Lunchtime News; Weather
-OL,12,G1320 STV News; Weather
+OL,3,Vupppppp5CFriday                   G1/9
+OL,5,G1300 ITV Lunchtime News; Weather
+OL,6,G1320 STV News; Weather
+OL,7,G1330 STV Racing: Glorious Goodwood
+OL,8,     FEd Chamberlin and Francesca Cumani
+OL,9,     Fpresent coverage of day four of
+OL,10,     Fthe meeting, including feature
+OL,11,     Frace the Qatar King George Stakes,
+OL,12,     Fand four more supporting races.
+OL,13,     FWith analysis from Jason Weaver
+OL,14,     Fand Hayley Turner, reports by
+OL,15,     FRishi Persad, Sally Ann Grassick,
+OL,16,     Fand Luke Harvey, and commentary by
+OL,17,     FMark Johnson
+OL,18,G1629 STV Weather Central
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
@@ -21,33 +27,10 @@ PN,28102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785489515
+OL,0,        ECIMSBWebfax 1   F281A1785500323
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CFriday                   G2/10
-OL,5,G1330 STV Racing: Glorious Goodwood
-OL,6,     FEd Chamberlin and Francesca Cumani
-OL,7,     Fpresent coverage of day four of
-OL,8,     Fthe meeting, including feature
-OL,9,     Frace the Qatar King George Stakes,
-OL,10,     Fand four more supporting races.
-OL,11,     FWith analysis from Jason Weaver
-OL,12,     Fand Hayley Turner, reports by
-OL,13,     FRishi Persad, Sally Ann Grassick,
-OL,14,     Fand Luke Harvey, and commentary by
-OL,15,     FMark Johnson
-OL,16,G1629 STV Weather Central
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page  BReg TV CClean Feed  FNat TV
-FL,282,260,140,200,0,100
-PN,28103
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785489515
-OL,1,V7c#####5Wws"k#j 5
-OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CFriday                   G3/10
+OL,3,Vupppppp5CFriday                   G2/9
 OL,5,G1630 Tipping Point: Best Ever Finals
 OL,6,     FCompilation of some of the most
 OL,7,     Fdramatic endgames from the
@@ -69,14 +52,14 @@ OL,22,G1830 ITV Evening News; Weather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
-PN,28104
-SC,0004
+PN,28103
+SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785489515
+OL,0,        ECIMSBWebfax 1   F281A1785500323
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CFriday                   G4/10
+OL,3,Vupppppp5CFriday                   G3/9
 OL,5,G1900 The STV Radio Football Takeover
 OL,6,     FEwen Cameron, Ronnie Charters and
 OL,7,     FCallum Bell tackle the biggest
@@ -97,14 +80,14 @@ OL,21,     Fwith Jimmy is becoming stale
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
-PN,28105
-SC,0005
+PN,28104
+SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785489515
+OL,0,        ECIMSBWebfax 1   F281A1785500323
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CFriday                   G5/10
+OL,3,Vupppppp5CFriday                   G4/9
 OL,5,G2030 Coronation Street
 OL,6,     FCassie runs out of second chances
 OL,7,     Fwith Steve and Tyrone, Betsy
@@ -124,14 +107,14 @@ OL,20,     Fverdict comes in
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
-PN,28106
-SC,0006
+PN,28105
+SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785489515
+OL,0,        ECIMSBWebfax 1   F281A1785500323
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CFriday                   G6/10
+OL,3,Vupppppp5CFriday                   G5/9
 OL,5,G2205 The Twisted Tale of Amanda Knox
 OL,6,     FAfter the verdict, Amanda falls
 OL,7,     Finto a depression, resigning
@@ -146,14 +129,14 @@ OL,15,G2340 STV News; Weather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
-PN,28107
-SC,0007
+PN,28106
+SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785489515
+OL,0,        ECIMSBWebfax 1   F281A1785500323
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CFriday                   G7/10
+OL,3,Vupppppp5CFriday                   G6/9
 OL,5,G2355 Inside the Langham: Britain's
 OL,6,G     First Grand Hotel
 OL,7,     FWedding planner Meri pulls out all
@@ -170,14 +153,14 @@ OL,17,G0030 Shop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
-PN,28108
-SC,0008
+PN,28107
+SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785489515
+OL,0,        ECIMSBWebfax 1   F281A1785500323
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CFriday                   G8/10
+OL,3,Vupppppp5CFriday                   G7/9
 OL,5,G0300 Force of Nature
 OL,6,     FAndrew Lincoln narrates a look at
 OL,7,     Fanimals' battle for survival as
@@ -193,14 +176,14 @@ OL,16,     Fsea ice it relies on
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
-PN,28109
-SC,0009
+PN,28108
+SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785489515
+OL,0,        ECIMSBWebfax 1   F281A1785500323
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CFriday                   G9/10
+OL,3,Vupppppp5CFriday                   G8/9
 OL,5,G0350 Long Lost Family
 OL,6,     FPaula's baby's father disappeared
 OL,7,     Fwhen she discovered she was
@@ -222,14 +205,14 @@ OL,22,     Fto find her ever since
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
-PN,28110
-SC,0010
+PN,28109
+SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785489515
+OL,0,        ECIMSBWebfax 1   F281A1785500323
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CFriday                  G10/10
+OL,3,Vupppppp5CFriday                   G9/9
 OL,5,G0445 Unwind with STV
 OL,6,     FDaily escape designed to calm the
 OL,7,     Fmind and encourage relaxation and
