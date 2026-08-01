@@ -1,24 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1785514721
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1785559663
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FShowers in
-OL,6,Fthe north easing and becoming confined
-OL,7,Fto western areas. Mostly dry with
-OL,8,Fclear spells elsewhere, with some
-OL,9,Fshowers in East Anglia. Cooler
-OL,10,Fovernight in the southeast.
-OL,11,
-OL,12,CSaturday:FMostly dry with sunny
-OL,13,Fspells. Showers affecting the far
-OL,14,Fnorth, gradually easing into the
-OL,15,Fafternoon. Rather cool in the north,
-OL,16,Flocally warm in the south
+OL,5,CToday:FAfter a fresh start, it'll be
+OL,6,Fmostly dry with sunny spells. Showers
+OL,7,Faffecting the far north, these
+OL,8,Fgradually easing into the afternoon
+OL,9,Facross Scotland. Rather cool in the
+OL,10,Fnorth, warm in the sunshine in the
+OL,11,Fsouth.
+OL,12,
+OL,13,CTonight:FAny showers across Scotland
+OL,14,Feasing tonight, leaving many with a
+OL,15,Fdry night and clear spells. Feeling
+OL,16,Fcool in the countryside with
+OL,17,Ftemperatures down in the low single
+OL,18,Ffigures.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1785559663
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FA few showers in Scotland,
+OL,6,Fotherwise fine and dry with plenty of
+OL,7,Fhazy sunshine in the south. Very warm
+OL,8,Fhere, with cloud thickening in the
+OL,9,Fwest later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
