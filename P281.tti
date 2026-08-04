@@ -2,19 +2,25 @@ PN,28101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785860315
+OL,0,        ECIMSBWebfax 1   F281A1785863931
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
 OL,3,Vupppppp5CTuesday                  G1/4
-OL,5,G1700 The Chase
-OL,6,     FCan Ellen from Welwyn Garden City,
-OL,7,     FSonal from Northampton, Gerard
-OL,8,     Ffrom Liverpool and Trevor from
-OL,9,     FEast Yorkshire come together as a
-OL,10,     Fteam and take down one of the
-OL,11,     FChasers? Bradley Walsh hosts
-OL,12,G1800 STV News; Weather
-OL,13,G1830 ITV Evening News; Weather
+OL,5,G1800 STV News; Weather
+OL,6,G1830 ITV Evening News; Weather
+OL,7,G1930 Inside the Langham: Britain's
+OL,8,G     First Grand Hotel
+OL,9,     FThe hostelry's CEO arrives in
+OL,10,     FLondon from head office in Hong
+OL,11,     FKong to inspect one of the hotel's
+OL,12,     Fmost ambitious renovations yet, a
+OL,13,     Fvast new terrace added to one of
+OL,14,     Fits most exclusive suites.
+OL,15,     FMeanwhile, head bartender Giulia
+OL,16,     Fteams up with executive chef
+OL,17,     FBerwyn to spice up the menu in the
+OL,18,     Fworld-famous Artesian bar. Maureen
+OL,19,     FLipman narrates
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
@@ -22,28 +28,22 @@ PN,28102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785860315
+OL,0,        ECIMSBWebfax 1   F281A1785863931
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
 OL,3,Vupppppp5CTuesday                  G2/4
-OL,5,G1930 Inside the Langham: Britain's
-OL,6,G     First Grand Hotel
-OL,7,     FThe hostelry's CEO arrives in
-OL,8,     FLondon from head office in Hong
-OL,9,     FKong to inspect one of the hotel's
-OL,10,     Fmost ambitious renovations yet, a
-OL,11,     Fvast new terrace added to one of
-OL,12,     Fits most exclusive suites.
-OL,13,     FMeanwhile, head bartender Giulia
-OL,14,     Fteams up with executive chef
-OL,15,     FBerwyn to spice up the menu in the
-OL,16,     Fworld-famous Artesian bar. Maureen
-OL,17,     FLipman narrates
-OL,18,G2000 Emmerdale
-OL,19,     FCain's emotional as he decides now
-OL,20,     Fis the time. Noah is pensive about
-OL,21,     Fbreaking news to his mum Charity.
-OL,22,     FNicola makes a worrying discovery.
+OL,5,G2000 Emmerdale
+OL,6,     FCain's emotional as he decides now
+OL,7,     Fis the time. Noah is pensive about
+OL,8,     Fbreaking news to his mum Charity.
+OL,9,     FNicola makes a worrying discovery.
+OL,10,G2030 Coronation Street
+OL,11,     FDylan ends up unconscious after a
+OL,12,     Fconfrontation with Brody, Ross
+OL,13,     Fchanges his story regarding
+OL,14,     FCassie's departure, and Ronnie
+OL,15,     Fconfides in James that his holiday
+OL,16,     Fwith Debbie was challenging
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
@@ -51,28 +51,23 @@ PN,28103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785860315
+OL,0,        ECIMSBWebfax 1   F281A1785863931
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
 OL,3,Vupppppp5CTuesday                  G3/4
-OL,5,G2030 Coronation Street
-OL,6,     FDylan ends up unconscious after a
-OL,7,     Fconfrontation with Brody, Ross
-OL,8,     Fchanges his story regarding
-OL,9,     FCassie's departure, and Ronnie
-OL,10,     Fconfides in James that his holiday
-OL,11,     Fwith Debbie was challenging
-OL,12,G2100 Cold Case Forensics: A Death on
-OL,13,G     the Nile
-OL,14,     FForensic scientist Dr Angela
-OL,15,     FGallop and her team investigate
-OL,16,     Fthe mysterious, sudden death of a
-OL,17,     FBritish solicitor while on a
-OL,18,     Fromantic holiday in Egypt. Can she
-OL,19,     Funlock the secrets of the case to
-OL,20,     Fprove Cheryl Lewis was murdered?
-OL,21,     FNicola Walker narrates
-OL,22,G2200 ITV News at Ten; Weather
+OL,5,G2100 Cold Case Forensics: A Death on
+OL,6,G     the Nile
+OL,7,     FForensic scientist Dr Angela
+OL,8,     FGallop and her team investigate
+OL,9,     Fthe mysterious, sudden death of a
+OL,10,     FBritish solicitor while on a
+OL,11,     Fromantic holiday in Egypt. Can she
+OL,12,     Funlock the secrets of the case to
+OL,13,     Fprove Cheryl Lewis was murdered?
+OL,14,     FNicola Walker narrates
+OL,15,G2200 ITV News at Ten; Weather
+OL,16,G2230 STV News; Weather
+OL,17,G0110 Shop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
@@ -80,28 +75,26 @@ PN,28104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1785860315
+OL,0,        ECIMSBWebfax 1   F281A1785863931
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
 OL,3,Vupppppp5CTuesday                  G4/4
-OL,5,G2230 STV News; Weather
-OL,6,G0110 Shop on TV
-OL,7,G0300 The Summit
-OL,8,     FThe fallout from the brutal bridge
-OL,9,     Fchop, which saw the mountain claim
-OL,10,     Fits first victim, is still
-OL,11,     Fsimmering as construction manager
-OL,12,     FDockers is singled out as a
-OL,13,     Fgame-player and not to be trusted.
-OL,14,     FAfter the group endure a gruelling
-OL,15,     Feight-hour uphill hike weighed
-OL,16,     Fdown by prize money, the
-OL,17,     FMountain's Keeper presents them
-OL,18,     Fwith a difficult dilemma. Ben
-OL,19,     FShephard presents
-OL,20,G0350 Night Vision
-OL,21,     FNews, sport and weather from
-OL,22,     Facross Scotland
+OL,5,G0300 The Summit
+OL,6,     FThe fallout from the brutal bridge
+OL,7,     Fchop, which saw the mountain claim
+OL,8,     Fits first victim, is still
+OL,9,     Fsimmering as construction manager
+OL,10,     FDockers is singled out as a
+OL,11,     Fgame-player and not to be trusted.
+OL,12,     FAfter the group endure a gruelling
+OL,13,     Feight-hour uphill hike weighed
+OL,14,     Fdown by prize money, the
+OL,15,     FMountain's Keeper presents them
+OL,16,     Fwith a difficult dilemma. Ben
+OL,17,     FShephard presents
+OL,18,G0350 Night Vision
+OL,19,     FNews, sport and weather from
+OL,20,     Facross Scotland
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100@
