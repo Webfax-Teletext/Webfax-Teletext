@@ -1,42 +1,25 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1786051105
+PS,8008
+OL,0,        ECIMSBWebfax 1   F201A1786052895
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CThursday                 G1/2
-OL,5,G2200 BBC News at Ten
-OL,6,     FThe latest national and
-OL,7,     Finternational news from the BBC.
-OL,8,G2230 BBC London
-OL,9,     FThe latest news, sport and weather
-OL,10,     Ffrom London.
-OL,11,G2240 Murder 24/7
-OL,12,     FA man is found beaten to death in
-OL,13,     Fhis flat, and a disturbing
-OL,14,     Fdiscovery awaits detectives.
-OL,15,G2340 Murder 24/7
-OL,16,     FEvidence mounts against Jonathan,
-OL,17,     Fand a serious domestic assault
-OL,18,     Fcase unfolds in Telford.
-OL,19,G0040 Alan Carr's Picture Slam
-OL,20,     FQuickfire picture quizzing for
-OL,21,     Fteams from Birmingham, Lancashire
-OL,22,     Fand Cardiff.
-OL,23,VpppppppppppppppppFBBC One regions: P260
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1786051105
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CThursday                 G2/2
-OL,5,G0125 Weather for the Week Ahead
-OL,6,G0130 Joins BBC News
+OL,3,Vupppppp5CThursday
+OL,5,G2240 Murder 24/7
+OL,6,     FA man is found beaten to death in
+OL,7,     Fhis flat, and a disturbing
+OL,8,     Fdiscovery awaits detectives.
+OL,9,G2340 Murder 24/7
+OL,10,     FEvidence mounts against Jonathan,
+OL,11,     Fand a serious domestic assault
+OL,12,     Fcase unfolds in Telford.
+OL,13,G0040 Alan Carr's Picture Slam
+OL,14,     FQuickfire picture quizzing for
+OL,15,     Fteams from Birmingham, Lancashire
+OL,16,     Fand Cardiff.
+OL,17,G0125 Weather for the Week Ahead
+OL,18,G0130 Joins BBC News
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100
