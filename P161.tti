@@ -1,27 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1786119514
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1786162661
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FA fine
-OL,6,Fevening for most, though rain will
-OL,7,Fcontinue across northern Scotland.
-OL,8,FOvernight, cloud and patchy rain may
-OL,9,Falso spread into parts of Northern
-OL,10,FIreland. Dry elsewhere, with clear
-OL,11,Fskies allowing it to turn chilly in
-OL,12,Fthe countryside.
-OL,13,
-OL,14,CSaturday:FNorthern Ireland and much of
-OL,15,FScotland will remain cloudy, with
-OL,16,Foutbreaks of heavy rain through the
-OL,17,Fday. Dry for England and Wales, with
-OL,18,Fsunny spells. Warm here, with light
-OL,19,Fwinds.
+OL,5,CToday:FDry with sunny spells across
+OL,6,FEngland and Wales, though a few
+OL,7,Fshowers may reach the far southwest
+OL,8,Flater. Cloudier in Scotland and
+OL,9,FNorthern Ireland with outbreaks of
+OL,10,Frain, heavy at times in the west.
+OL,11,FWindy in the north.
+OL,12,
+OL,13,CTonight:FRain across Scotland and
+OL,14,FNorthern Ireland will spread slowly
+OL,15,Fsouth, perhaps reaching northern
+OL,16,FEngland later. Elsewhere, mostly dry
+OL,17,Fwith variable cloud and isolated
+OL,18,Fsouthwest showers. A warm night for
+OL,19,Fmany.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1786162661
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FRain in the north will drift
+OL,6,Fsoutheastwards with some heavy spells.
+OL,7,FElsewhere, sunny or clear spells and
+OL,8,Fmostly dry, though isolated showers
+OL,9,Fpossible in the southeast. Feeling hot
+OL,10,Fonce again.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
