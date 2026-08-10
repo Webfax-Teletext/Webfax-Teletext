@@ -2,22 +2,28 @@ PN,28201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1786339154
+OL,0,        ECIMSBWebfax 1   F282A1786353512
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CMonday                   G1/10
-OL,5,G0600 Good Morning Britain
-OL,6,G1000 This Morning
-OL,7,     FA mix of celebrity chat, lifestyle
-OL,8,     Ffeatures, advice and competitions
-OL,9,G1330 ITV Lunchtime News; Weather
-OL,10,G1355 STV News; Weather
-OL,11,G1400 Dickinson's Real Deal
-OL,12,     FThe Duke is in Blackburn, where
-OL,13,     FMatt Taylor comes across an
-OL,14,     Funlikely duet, Alys Dobbie sizes
-OL,15,     Fup a vintage dress, and Tim
-OL,16,     FHogarth coins it in.
+OL,3,Vupppppp5CMonday                   G1/9
+OL,5,G1000 This Morning
+OL,6,     FA mix of celebrity chat, lifestyle
+OL,7,     Ffeatures, advice and competitions
+OL,8,G1330 ITV Lunchtime News; Weather
+OL,9,G1355 STV News; Weather
+OL,10,G1400 Dickinson's Real Deal
+OL,11,     FThe Duke is in Blackburn, where
+OL,12,     FMatt Taylor comes across an
+OL,13,     Funlikely duet, Alys Dobbie sizes
+OL,14,     Fup a vintage dress, and Tim
+OL,15,     FHogarth coins it in.
+OL,16,G1500 Deal or No Deal
+OL,17,     FStephen Mulhern hosts the game
+OL,18,     Fshow as contestant Leon tries to
+OL,19,     Fopen the 22 red boxes in the right
+OL,20,     Forder, taking on the infamous
+OL,21,     FBanker for the chance to win a
+OL,22,     Flife-changing cash prize
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
@@ -25,18 +31,24 @@ PN,28202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1786339154
+OL,0,        ECIMSBWebfax 1   F282A1786353512
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CMonday                   G2/10
-OL,5,G1500 Deal or No Deal
-OL,6,     FStephen Mulhern hosts the game
-OL,7,     Fshow as contestant Leon tries to
-OL,8,     Fopen the 22 red boxes in the right
-OL,9,     Forder, taking on the infamous
-OL,10,     FBanker for the chance to win a
-OL,11,     Flife-changing cash prize
-OL,12,G1559 STV Weather North
+OL,3,Vupppppp5CMonday                   G2/9
+OL,5,G1559 STV Weather North
+OL,6,G1600 Tipping Point
+OL,7,     FBen Shephard hosts the quiz in
+OL,8,     Fwhich contestants answer questions
+OL,9,     Fto win turns on an arcade-style
+OL,10,     Fmachine. Dropping tokens down a
+OL,11,     Fchoice of four chutes, they hope
+OL,12,     Fto knock piles of them off a
+OL,13,     Fmoving shelf - and the more they
+OL,14,     Fcollect, the greater the prize
+OL,15,     Ffund. The player who has won the
+OL,16,     Fleast amount is then eliminated,
+OL,17,     Fand the last one standing competes
+OL,18,     Ffor a #10,000 jackpot
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
@@ -44,34 +56,10 @@ PN,28203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1786339154
+OL,0,        ECIMSBWebfax 1   F282A1786353512
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CMonday                   G3/10
-OL,5,G1600 Tipping Point
-OL,6,     FBen Shephard hosts the quiz in
-OL,7,     Fwhich contestants answer questions
-OL,8,     Fto win turns on an arcade-style
-OL,9,     Fmachine. Dropping tokens down a
-OL,10,     Fchoice of four chutes, they hope
-OL,11,     Fto knock piles of them off a
-OL,12,     Fmoving shelf - and the more they
-OL,13,     Fcollect, the greater the prize
-OL,14,     Ffund. The player who has won the
-OL,15,     Fleast amount is then eliminated,
-OL,16,     Fand the last one standing competes
-OL,17,     Ffor a #10,000 jackpot
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page  BReg TV CClean Feed  FNat TV
-FL,283,260,140,200,0,100
-PN,28204
-SC,0004
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1786339154
-OL,1,V7c#####5Wws"k#j 5
-OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CMonday                   G4/10
+OL,3,Vupppppp5CMonday                   G3/9
 OL,5,G1700 The Chase
 OL,6,     FBradley Walsh presents as Sandra,
 OL,7,     FSean, Jo, Deirdre pit their wits
@@ -89,14 +77,14 @@ OL,18,G1830 ITV Evening News; Weather
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
-PN,28205
-SC,0005
+PN,28204
+SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1786339154
+OL,0,        ECIMSBWebfax 1   F282A1786353512
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CMonday                   G5/10
+OL,3,Vupppppp5CMonday                   G4/9
 OL,5,G1930 Fletchers' Family Farm
 OL,6,     FThe Fletchers focus on
 OL,7,     Fdiversification at the farm as
@@ -116,14 +104,14 @@ OL,20,     Fstruggling to bond with her
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
-PN,28206
-SC,0006
+PN,28205
+SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1786339154
+OL,0,        ECIMSBWebfax 1   F282A1786353512
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CMonday                   G6/10
+OL,3,Vupppppp5CMonday                   G5/9
 OL,5,G2000 Emmerdale
 OL,6,     FA villager's life is turned upside
 OL,7,     Fdown, while Charity clings to her
@@ -138,14 +126,14 @@ OL,15,     Fsake of his career
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
-PN,28207
-SC,0007
+PN,28206
+SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1786339154
+OL,0,        ECIMSBWebfax 1   F282A1786353512
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CMonday                   G7/10
+OL,3,Vupppppp5CMonday                   G6/9
 OL,5,G2100 Long Lost Family: Born Without
 OL,6,G     Trace
 OL,7,     FWhen a box containing a newborn
@@ -167,14 +155,14 @@ OL,22,     FNicky Campbell host
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
-PN,28208
-SC,0008
+PN,28207
+SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1786339154
+OL,0,        ECIMSBWebfax 1   F282A1786353512
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CMonday                   G8/10
+OL,3,Vupppppp5CMonday                   G7/9
 OL,5,G2200 ITV News at Ten; Weather
 OL,6,G2230 STV News; Weather
 OL,7,G2245 Cold Case Forensics: A Death on
@@ -190,14 +178,14 @@ OL,16,     FNicola Walker narrates
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
-PN,28209
-SC,0009
+PN,28208
+SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1786339154
+OL,0,        ECIMSBWebfax 1   F282A1786353512
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CMonday                   G9/10
+OL,3,Vupppppp5CMonday                   G8/9
 OL,5,G2345 Love & Death
 OL,6,     FCandy retains Don Crowder as her
 OL,7,     Fattorney after detectives
@@ -210,14 +198,14 @@ OL,13,G0035 Shop on TV
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,283,260,140,200,0,100
-PN,28210
-SC,0010
+PN,28209
+SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F282A1786339154
+OL,0,        ECIMSBWebfax 1   F282A1786353512
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,,,$FNORTH
-OL,3,Vupppppp5CMonday                  G10/10
+OL,3,Vupppppp5CMonday                   G9/9
 OL,5,G0300 The Staircase
 OL,6,     FIn 2003, tensions rise and old
 OL,7,     Fwounds reopen as the Petersons'
