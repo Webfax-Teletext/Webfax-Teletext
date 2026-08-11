@@ -1,41 +1,27 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1786474113
+PS,8008
+OL,0,        ECIMSBWebfax 1   F201A1786475919
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CTuesday                  G1/2
-OL,5,G1930 EastEnders
-OL,6,     FMax finds himself on the receiving
-OL,7,     Fend of Cindy's wrath.
-OL,8,G2000 European Athletics Championships
-OL,9,     FThe fastest men on the continent
-OL,10,     Ftake to the stage in the 100m
-OL,11,     Ffinal in Birmingham.
-OL,12,G2200 BBC News at Ten
-OL,13,     FThe latest national and
-OL,14,     Finternational news from the BBC.
-OL,15,G2230 BBC London
-OL,16,     FThe latest news, sport and weather
-OL,17,     Ffrom London.
-OL,18,G2240 The Boys in the Boat
-OL,19,     FThe University of Washington's
-OL,20,     Frowing team compete at the 1936
-OL,21,     FOlympics in Berlin.
-OL,22,G0035 Weather for the Week Ahead
-OL,23,VpppppppppppppppppFBBC One regions: P260
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1786474113
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CTuesday                  G2/2
-OL,5,G0040 Joins BBC News
+OL,3,Vupppppp5CTuesday
+OL,5,G2000 European Athletics Championships
+OL,6,     FThe fastest men on the continent
+OL,7,     Ftake to the stage in the 100m
+OL,8,     Ffinal in Birmingham.
+OL,9,G2200 BBC News at Ten
+OL,10,     FThe latest national and
+OL,11,     Finternational news from the BBC.
+OL,12,G2230 BBC London
+OL,13,     FThe latest news, sport and weather
+OL,14,     Ffrom London.
+OL,15,G2240 The Boys in the Boat
+OL,16,     FThe University of Washington's
+OL,17,     Frowing team compete at the 1936
+OL,18,     FOlympics in Berlin.
+OL,19,G0035 Weather for the Week Ahead
+OL,20,G0040 Joins BBC News
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100
