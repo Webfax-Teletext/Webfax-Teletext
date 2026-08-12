@@ -1,14 +1,190 @@
-PN,20600
-SC,0000
+PN,20601
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F206A1786510069
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1786511967
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
-OL,3,Vupppppp5CTuesday
-OL,5,G0530 Business Today
+OL,3,Vupppppp5CWednesday                G1/7
+OL,5,G0700 BBC News
+OL,6,G0730 Business Today
+OL,7,     FThe latest business news from
+OL,8,     FLondon and around the world.
+OL,9,G0800 BBC News
+OL,10,G0830 BBC News
+OL,11,G0900 BBC News
+OL,12,G0930 BBC News
+OL,13,G1000 BBC News
+OL,14,G1030 BBC News
+OL,15,G1100 BBC News
+OL,16,G1130 Business Today
+OL,17,     FThe latest business news from
+OL,18,     FLondon and around the world.
+OL,19,G1145 BBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20602
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1786511967
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CWednesday                G2/7
+OL,5,G1200 BBC News Now
+OL,6,     FAll the big stories, live as they
+OL,7,     Fhappen, presented by Lucy
+OL,8,     FHockings.
+OL,9,G1230 BBC News Now
+OL,10,     FAll the big stories, live as they
+OL,11,     Fhappen, presented by Lucy
+OL,12,     FHockings.
+OL,13,G1300 BBC News Now
+OL,14,     FAll the big stories, live as they
+OL,15,     Fhappen, presented by Lucy
+OL,16,     FHockings.
+OL,17,G1330 BBC News Now
+OL,18,     FAll the big stories, live as they
+OL,19,     Fhappen, presented by Lucy
+OL,20,     FHockings.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20603
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1786511967
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CWednesday                G3/7
+OL,5,G1400 BBC News Now
+OL,6,     FAll the big stories, live as they
+OL,7,     Fhappen, presented by Lucy
+OL,8,     FHockings.
+OL,9,G1430 Business Today - NYSE Opening Bell
+OL,10,     FThe latest business news from New
+OL,11,     FYork and around the world.
+OL,12,G1445 BBC News Now
+OL,13,     FAll the big stories, live as they
+OL,14,     Fhappen, presented by Lucy
+OL,15,     FHockings.
+OL,16,G1500 BBC News
+OL,17,G1600 BBC News
+OL,18,G1630 Business Today
+OL,19,     FThe latest business news from
+OL,20,     FLondon and around the world.
+OL,21,G1645 BBC News
+OL,22,G1700 BBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20604
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1786511967
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CWednesday                G4/7
+OL,5,G1800 BBC News
+OL,6,G1900 BBC News
+OL,7,G2000 The Context USA
+OL,8,     FSpecial coverage from Washington
+OL,9,     FDC and London, focusing on
+OL,10,     FPresident Trump's second term.
+OL,11,G2030 The Context USA
+OL,12,     FSpecial coverage from Washington
+OL,13,     FDC and London, focusing on
+OL,14,     FPresident Trump's second term.
+OL,15,G2100 The Context
+OL,16,     FA regular panel of guests discuss
+OL,17,     Fthe biggest international stories
+OL,18,     Fof the day.
+OL,19,G2130 The Context
+OL,20,     FA regular panel of guests discuss
+OL,21,     Fthe biggest international stories
+OL,22,     Fof the day.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20605
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1786511967
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CWednesday                G5/7
+OL,5,G2200 BBC News at Ten
+OL,6,G2230 Newsnight
+OL,7,G2300 BBC World News America
+OL,8,     FThe BBC presents in-depth reports
+OL,9,     Fon the major international and US
+OL,10,     Fnews of the day.
+OL,11,G0000 BBC News
+OL,12,G0030 Talking Business
+OL,13,     FCan oil really save Venezuela's
+OL,14,     Feconomy?
+OL,15,G0100 BBC News
+OL,16,G0130 AI Decoded
+OL,17,     FAI Decoded explores how artificial
+OL,18,     Fintelligence is reshaping the
+OL,19,     Ffuture of work.
+OL,20,G0200 Newsday
+OL,21,     FLive from Singapore, the latest
+OL,22,     Finternational news from the BBC.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20606
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1786511967
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CWednesday                G6/7
+OL,5,G0230 Business Today
 OL,6,     FThe latest business news from
-OL,7,     FLondon and around the world.
+OL,7,     FSingapore and around the world.
+OL,8,G0245 BBC Sport
+OL,9,     FA round-up of the day's sporting
+OL,10,     Faction.
+OL,11,G0300 Newsday
+OL,12,     FLive from Singapore, the latest
+OL,13,     Finternational news from the BBC.
+OL,14,G0330 Business Today
+OL,15,     FThe latest business news from
+OL,16,     FSingapore and around the world.
+OL,17,G0345 BBC Sport
+OL,18,     FA round-up of the day's sporting
+OL,19,     Faction.
+OL,20,G0400 Newsday
+OL,21,     FLive from Singapore, the latest
+OL,22,     Finternational news from the BBC.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20607
+SC,0007
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1786511967
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CWednesday                G7/7
+OL,5,G0430 Business Today
+OL,6,     FThe latest business news from
+OL,7,     FSingapore and around the world.
+OL,8,G0445 BBC Sport
+OL,9,     FA round-up of the day's sporting
+OL,10,     Faction.
+OL,11,G0500 BBC News
+OL,12,G0530 Business Today
+OL,13,     FThe latest business news from
+OL,14,     FLondon and around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
