@@ -1,26 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1786461508
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1786506479
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FOutbreaks of
-OL,6,Frain will continue in the far
-OL,7,Fnorthwest, but a dry night elsewhere
-OL,8,Fwith clear skies. Staying mild perhaps
-OL,9,Fwith a few mist patches developing by
-OL,10,Fdawn. Winds becoming rather gusty
-OL,11,Facross northeast England for a time.
+OL,5,CToday:FCloudy with outbreaks of rain
+OL,6,Fin the northwest. Elsewhere, largely
+OL,7,Fdry and sunny. Warm in Scotland and
+OL,8,FNorthern Ireland, but very warm to hot
+OL,9,Facross much of England and Wales, with
+OL,10,Flocally very hot conditions in the
+OL,11,Fwest and southwest.
 OL,12,
-OL,13,CWednesday:FCloudy in western Scotland
-OL,14,Fand western parts of Northern Ireland
-OL,15,Fwith showers, turning heavy at times.
-OL,16,FA dry and sunny day elsewhere with hot
-OL,17,Fsunshine, particularly across England
-OL,18,Fand Wales.
+OL,13,CTonight:FCloudier remains in the
+OL,14,Fnorthwest with some patchy rain. Dry
+OL,15,Felsewhere with long clear spells. Warm
+OL,16,Fto very warm across parts of central
+OL,17,Fand southern areas.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1786506479
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CThursday:FVery warm becoming hot or
+OL,6,Fvery hot across much of England and
+OL,7,FWales. Chance of an isolated evening
+OL,8,Fshower in the northeast. Heavier
+OL,9,Fshowers for Northern Ireland and
+OL,10,FScotland later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
