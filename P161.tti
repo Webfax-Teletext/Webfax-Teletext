@@ -1,26 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1786549694
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1786594668
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRather
-OL,6,Fcloudy across the far north and
-OL,7,Fnorthwest overnight, with some
-OL,8,Foutbreaks of rain or showers. Dry
-OL,9,Felsewhere with long clear periods, but
-OL,10,Fremaining warm if not very warm in
-OL,11,Fsome central and southern areas.
+OL,5,CToday:FA dry, sunny and very hot day
+OL,6,Facross many parts of England and
+OL,7,FWales. Humidity levels will also be
+OL,8,Fhigh for some. Cloudier across
+OL,9,FScotland and Northern Ireland with
+OL,10,Fshowers, possibly heavy and thundery
+OL,11,Fduring the afternoon and evening.
 OL,12,
-OL,13,CThursday:FA dry, sunny and very hot
-OL,14,Fday across many parts of England and
-OL,15,FWales. Cloudier across Scotland and
-OL,16,FNorthern Ireland with showers,
-OL,17,Fpossibly heavy and thundery come the
-OL,18,Fafternoon.
+OL,13,CTonight:FCloudy with showers continues
+OL,14,Facross Northern Ireland and Scotland,
+OL,15,Flocally heavy with isolated
+OL,16,Fthunderstorms, spreading southeast.
+OL,17,FElsewhere, warm overnight with clear
+OL,18,Fspells. Low cloud and coastal fog may
+OL,19,Fdevelop southwest.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1786594668
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FStaying hot across much of
+OL,6,FEngland and Wales before a weak cold
+OL,7,Ffront brings cooler, cloudier weather
+OL,8,Fin from the west. Isolated afternoon
+OL,9,Fthunderstorms are possible in the
+OL,10,Fsoutheast.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
