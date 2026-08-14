@@ -2,28 +2,26 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1786738790
+OL,0,        ECIMSBWebfax 1   F206A1786740471
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G1/3
-OL,5,G2100 The Context
+OL,5,G2130 The Context
 OL,6,     FA regular panel of guests discuss
 OL,7,     Fthe biggest international stories
 OL,8,     Fof the day.
-OL,9,G2130 The Context
-OL,10,     FA regular panel of guests discuss
-OL,11,     Fthe biggest international stories
-OL,12,     Fof the day.
-OL,13,G2200 BBC News at Ten
-OL,14,G2230 Newsnight
-OL,15,G2300 BBC World News America
-OL,16,     FThe BBC presents in-depth reports
-OL,17,     Fon the major international and US
-OL,18,     Fnews of the day.
-OL,19,G2330 The President's Path
-OL,20,     FArtificial intelligence data
-OL,21,     Fcentres take centre stage in the
-OL,22,     FUS political debate.
+OL,9,G2200 BBC News at Ten
+OL,10,G2230 Newsnight
+OL,11,G2300 BBC World News America
+OL,12,     FThe BBC presents in-depth reports
+OL,13,     Fon the major international and US
+OL,14,     Fnews of the day.
+OL,15,G2330 The President's Path
+OL,16,     FArtificial intelligence data
+OL,17,     Fcentres take centre stage in the
+OL,18,     FUS political debate.
+OL,19,G2345 BBC News
+OL,20,G0000 BBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -31,26 +29,28 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1786738790
+OL,0,        ECIMSBWebfax 1   F206A1786740471
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G2/3
-OL,5,G2345 BBC News
-OL,6,G0000 BBC News
-OL,7,G0030 Talking Business
-OL,8,     FBen Thompson looks at the factors
-OL,9,     Fbehind rising food prices.
-OL,10,G0100 BBC News
-OL,11,G0130 Tech Now
-OL,12,     FAdrienne Murray meets the team
-OL,13,     Fusing tech to preserve a historic
-OL,14,     Fwarship in Sweden.
-OL,15,G0200 BBC News
-OL,16,G0230 World's Ultimate Adventures
-OL,17,     FChef Julie Lin's Turkish adventure
-OL,18,     Fblends food and history in the
-OL,19,     Fcountry's south east.
-OL,20,G0300 BBC News
+OL,5,G0030 Talking Business
+OL,6,     FBen Thompson looks at the factors
+OL,7,     Fbehind rising food prices.
+OL,8,G0100 BBC News
+OL,9,G0130 Tech Now
+OL,10,     FAdrienne Murray meets the team
+OL,11,     Fusing tech to preserve a historic
+OL,12,     Fwarship in Sweden.
+OL,13,G0200 BBC News
+OL,14,G0230 World's Ultimate Adventures
+OL,15,     FChef Julie Lin's Turkish adventure
+OL,16,     Fblends food and history in the
+OL,17,     Fcountry's south east.
+OL,18,G0300 BBC News
+OL,19,G0330 Inside China's EV Revolution
+OL,20,     FHow China transformed into the
+OL,21,     Fworld's leading manufacturer of
+OL,22,     Felectric vehicles.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -58,23 +58,19 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1786738790
+OL,0,        ECIMSBWebfax 1   F206A1786740471
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday                   G3/3
-OL,5,G0330 Inside China's EV Revolution
-OL,6,     FHow China transformed into the
-OL,7,     Fworld's leading manufacturer of
-OL,8,     Felectric vehicles.
-OL,9,G0400 BBC News
-OL,10,G0430 The Media Show
-OL,11,     FJames May on building a YouTube
-OL,12,     Faudience after television success.
-OL,13,G0500 BBC News
-OL,14,G0530 The Travel Show
-OL,15,     FDwayne Fields travels America,
-OL,16,     Fexploring how the pursuit of
-OL,17,     Fhappiness is being lived today
+OL,5,G0400 BBC News
+OL,6,G0430 The Media Show
+OL,7,     FJames May on building a YouTube
+OL,8,     Faudience after television success.
+OL,9,G0500 BBC News
+OL,10,G0530 The Travel Show
+OL,11,     FDwayne Fields travels America,
+OL,12,     Fexploring how the pursuit of
+OL,13,     Fhappiness is being lived today
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
