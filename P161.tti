@@ -1,28 +1,46 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1786639677
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1786682865
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy with
-OL,6,Fshowers across Northern Ireland and
-OL,7,FScotland, locally heavy with isolated
-OL,8,Fthunderstorms, spreading
-OL,9,Fsoutheastwards. Elsewhere, a hot and
-OL,10,Fsunny evening then staying warm
-OL,11,Fovernight with clear spells. Low cloud
-OL,12,Fand coastal fog may develop towards
-OL,13,Fthe southwest.
-OL,14,
-OL,15,CFriday:FStaying hot across much of
-OL,16,FEngland and Wales before a weak cold
-OL,17,Ffront brings cooler, cloudier weather
-OL,18,Fin from the northwest. Isolated
-OL,19,Fafternoon thunderstorms are possible
-OL,20,Fin the east later.
+OL,5,CToday:FHot and sunny in the southeast.
+OL,6,FIncreasingly humid for Wales and
+OL,7,Fwestern/northern England with variable
+OL,8,Fcloud and possible afternoon
+OL,9,Fthunderstorms. Fresher, albeit rather
+OL,10,Fcloudy, conditions for Northern
+OL,11,FIreland and Scotland after early heavy
+OL,12,Fand thundery rain clears the east.
+OL,13,
+OL,14,CTonight:FThunderstorms pushing
+OL,15,Feastwards overnight, with heavy
+OL,16,Fdownpours particularly possible over
+OL,17,Feastern England. Warm and muggy in the
+OL,18,Fsoutheast, but fresher than recent
+OL,19,Fnights elsewhere. A few showers for
+OL,20,Fnorthern Scotland.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1786682865
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FStill very warm and humid
+OL,6,Ffor southeast England as heavy showers
+OL,7,Fand thunderstorms clear. Widely fine
+OL,8,Felsewhere with sunny spells and nearer
+OL,9,Faverage temperatures, though showers
+OL,10,Fcontinuing for northern Scotland.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
