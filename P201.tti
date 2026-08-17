@@ -1,41 +1,27 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1786997938
+PS,8008
+OL,0,        ECIMSBWebfax 1   F201A1787001512
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CMonday                   G1/2
-OL,5,G2100 Death in Paradise
-OL,6,     FA reggae rap artist is shot dead
-OL,7,     Fat a soundcheck for a concert.
-OL,8,G2200 BBC News at Ten
-OL,9,     FThe latest national and
-OL,10,     Finternational news from the BBC.
-OL,11,G2230 BBC London
-OL,12,     FThe latest news, sport and weather
-OL,13,     Ffrom London.
-OL,14,G2240 Have I Got News for You
-OL,15,     FDavid Tennant is the host, with
-OL,16,     Fguest panellists Miles Jupp and
-OL,17,     FCathy Newman.
-OL,18,G2310 Mission: Impossible III
-OL,19,     FEthan Hunt gets vengeful against
-OL,20,     Funcompromising Owen Davian,
-OL,21,     Fchasing a mystery device.
-OL,22,G0105 Weather for the Week Ahead
-OL,23,VpppppppppppppppppFBBC One regions: P260
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1786997938
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CMonday                   G2/2
-OL,5,G0110 Joins BBC News
+OL,3,Vupppppp5CMonday
+OL,5,G2200 BBC News at Ten
+OL,6,     FThe latest national and
+OL,7,     Finternational news from the BBC.
+OL,8,G2230 BBC London
+OL,9,     FThe latest news, sport and weather
+OL,10,     Ffrom London.
+OL,11,G2240 Have I Got News for You
+OL,12,     FDavid Tennant is the host, with
+OL,13,     Fguest panellists Miles Jupp and
+OL,14,     FCathy Newman.
+OL,15,G2310 Mission: Impossible III
+OL,16,     FEthan Hunt gets vengeful against
+OL,17,     Funcompromising Owen Davian,
+OL,18,     Fchasing a mystery device.
+OL,19,G0105 Weather for the Week Ahead
+OL,20,G0110 Joins BBC News
 OL,23,VpppppppppppppppppFBBC One regions: P260
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100
