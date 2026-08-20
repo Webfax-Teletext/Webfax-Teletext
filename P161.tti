@@ -1,27 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1787161719
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1787198125
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FA mix of
-OL,6,Fclear spells and showers overnight,
-OL,7,Fthe showers heaviest and most
-OL,8,Fwidespread across northern England and
-OL,9,Fnorth Wales with the potential for
-OL,10,Fthunderstorms. Chilly in some rural
-OL,11,Fparts of Scotland, milder further
-OL,12,Fsouth.
-OL,13,
-OL,14,CThursday:FSunny spells and scattered
-OL,15,Fshowers. The focus for the heaviest
-OL,16,Fshowers will transfer to other areas
-OL,17,Fof England and Wales, with thunder
-OL,18,Fagain possible. Feeling cool in the
-OL,19,Fnortherly breeze.
+OL,5,CToday:FFREQUENT SHOWERS ARE EXPECTED,
+OL,6,FSOME BEING HEAVY AND THUNDERY WITH A
+OL,7,FRISK OF HAIL. THE MOST INTENSE SHOWERS
+OL,8,FARE LIKELY ACROSS PARTS OF ENGLAND AND
+OL,9,FWALES, ESPECIALLY NORTHERN AND CENTRAL
+OL,10,FAREAS. MORE ISOLATED ELSEWHERE AND
+OL,11,FFEELING COOLER THAN OF LATE.
+OL,12,
+OL,13,CTonight:FShowers will mostly fade
+OL,14,Fovernight, though some may persist
+OL,15,Fnear windward coasts. Elsewhere,
+OL,16,Fvariable cloud and clear spells are
+OL,17,Fexpected. Temperatures will be cooler
+OL,18,Fthan recent nights across many areas.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1787198125
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FEarly showers in Northern
+OL,6,FIreland will fade, leaving many
+OL,7,Fnorthern areas dry with sunny spells.
+OL,8,FElsewhere, showers will develop, some
+OL,9,Fheavy and thundery. Temperatures near
+OL,10,Faverage to cool.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
