@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W|4|h4|||h||4|||h||4|4|            G1/41
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W|4|h4|||h||4|||h||4|4|            G2/41
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -50,16 +50,16 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws            G3/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,GUK AND WORLDAfrom BBC News
 OL,5,G302FPrince Harry and Meghan moving back
 OL,6,Fto UK later this monthA19-Aug
 OL,7,G
-OL,8,G303FGCSE pass rate falls slightly as
-OL,9,Ftop grades edge up across England,
-OL,10,FWales and Northern IrelandA20-Aug
+OL,8,G303FGCSE grade gap between boys and
+OL,9,Fgirls shrinks to lowest since 2000, as
+OL,10,Fstudents open their resultsA20-Aug
 OL,11,G
 OL,12,G304FPeople smuggler exposed by BBC
 OL,13,Finvestigation arrested and charged
@@ -79,7 +79,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws            G4/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,APrince Harry and Meghan moving back to
@@ -105,7 +105,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws            G5/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,APrince Harry and Meghan moving back to
@@ -122,25 +122,25 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws            G6/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AGCSE pass rate falls slightly as top
-OL,4,Agrades edge up across England, Wales
-OL,5,Aand Northern Ireland
+OL,3,AGCSE grade gap between boys and girls
+OL,4,Ashrinks to lowest since 2000, as
+OL,5,Astudents open their results
 OL,6,
 OL,7,FThe GCSE overall pass rate has fallen
 OL,8,Fslightly for the fifth year in a row -
 OL,9,Fbut top grades have edged up across
 OL,10,FEngland, Wales and Northern Ireland
-OL,12,FHundreds of thousands of students are
-OL,13,Fopening their GCSE, BTec and Cambridge
-OL,14,FNationals results - you can watch live
-OL,15,Fat the top of the page
-OL,17,FThe gap between the pass rates for boys
-OL,18,Fand girls across all three nations has
-OL,19,Fnarrowed again, to its lowest point
-OL,20,Fsince 2000
+OL,12,FThe gap between the pass rates for boys
+OL,13,Fand girls across all three nations has
+OL,14,Fnarrowed again, to its lowest point
+OL,15,Fsince 2000
+OL,17,FHundreds of thousands of students are
+OL,18,Fopening their GCSE, BTec and Cambridge
+OL,19,FNationals results - you can watch live
+OL,20,Fat the top of the page
 OL,23,APub: 20-AugQppppppppppppppppppppppG1/2
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,304,300,200,140,0,100
@@ -148,24 +148,26 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws            G7/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AGCSE pass rate falls slightly as top
-OL,4,Agrades edge up across England, Wales
-OL,5,Aand Northern Ireland
+OL,3,AGCSE grade gap between boys and girls
+OL,4,Ashrinks to lowest since 2000, as
+OL,5,Astudents open their results
 OL,6,
 OL,7,FFrom 11:00 BST, some pupils in England
 OL,8,Fcan check their grades via an app for
 OL,9,Fthe first time
 OL,11,FAt one school in Derby, it's confetti,
 OL,12,Fcheers and happy tears as students
-OL,13,Freceive their results, while
-OL,14,F16-year-old Sophie "can't believe"
-OL,15,Fshe's passed her English language exam
-OL,17,FStudents in Scotland have already
-OL,18,Freceived their results, with the pass
-OL,19,Frate up slightly on last year
+OL,13,Freceive their results, while aspiring
+OL,14,Fdancer Finn "can't believe" he's
+OL,15,F"passed everything"
+OL,17,FNot everyone getting their grades is a
+OL,18,Fteenager, as 52-year-old grandmother
+OL,19,FWynne is "shocked" but "very happy" to
+OL,20,Fhave passed her maths exam at the fifth
+OL,21,Fattempt
 OL,23,APub: 20-AugQppppppppppppppppppppppG2/2
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,304,300,200,140,0,100
@@ -173,7 +175,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws            G8/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,APeople smuggler exposed by BBC
@@ -197,7 +199,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws            G9/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,APeople smuggler exposed by BBC
@@ -215,7 +217,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws           G10/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AFounder of collapsed Chinese property
@@ -242,7 +244,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws           G11/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AFounder of collapsed Chinese property
@@ -260,7 +262,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws           G12/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ATrump vows tougher economic measures on
@@ -284,7 +286,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws           G13/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ATrump vows tougher economic measures on
@@ -306,7 +308,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws           G14/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AMushroom killer must stay in jail
@@ -334,7 +336,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs15j 5ws           G15/41
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AMushroom killer must stay in jail
@@ -352,7 +354,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q5 7575747575x0w1w1 w17G16/41
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -381,7 +383,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Qws js17kjc15 js57kj#4 G17/41
 OL,2,W//%*// //%Q,. *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -410,7 +412,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q555pjsjjj js17kjc15 jsG18/41
 OL,2,W//%*// //%Q--% (.*.. *,$%**,%-,* %%**,!
 OL,3,GMAIN STORIESAfrom BBC News
@@ -423,9 +425,9 @@ OL,10,G
 OL,11,G343FStudents across South West
 OL,12,Freceiving GCSE resultsA20-Aug
 OL,13,G
-OL,14,G344FGCSE pass rate falls slightly as
-OL,15,Ftop grades edge up across England,
-OL,16,FWales and Northern IrelandA20-Aug
+OL,14,G344FGCSE grade gap between boys and
+OL,15,Fgirls shrinks to lowest since 2000, as
+OL,16,Fstudents open their resultsA20-Aug
 OL,17,G
 OL,18,G345FChildhood 'taken from me' through
 OL,19,Ffake illnessesA20-Aug
@@ -439,7 +441,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4 G19/41
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(W)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -468,7 +470,7 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4 G20/41
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(E)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -497,7 +499,7 @@ PN,11921
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Qws js17kjc15 js57kj#4 G21/41
 OL,2,W//%*// //%Q-, *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -526,7 +528,7 @@ PN,11922
 SC,0022
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Quzj#5w;jp%p05 jj#57+  G22/41
 OL,2,W//%*// //%Q,.*,%%** %  -,** %-. (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -555,28 +557,28 @@ PN,11923
 SC,0023
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kjs1 wsj#57sj  w{j#57G23/41
 OL,2,W//%*// //%Q%**,$ -,* %-.*,$%** %-& (,,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G391FTip toy donation point to gather
-OL,6,FChristmas giftsA20-Aug
+OL,5,G391FCall for cap on private profit for
+OL,6,Fpublic servicesA20-Aug
 OL,7,G
-OL,8,G392FHotel demolition begins as asbestos
-OL,9,FremovedA19-Aug
+OL,8,G392FTip toy donation point to gather
+OL,9,FChristmas giftsA20-Aug
 OL,10,G
-OL,11,G393FThunderstorm warnings issued for
-OL,12,Fparts of UK with flash flooding
-OL,13,FexpectedA19-Aug
-OL,14,G
-OL,15,G394FPM visit sparks optimism for A1
-OL,16,Fdualling schemeA20-Aug
-OL,17,G
-OL,18,G395FNewly restored pier shut after
-OL,19,Fvandal attackA20-Aug
-OL,20,G
-OL,21,F
-OL,22,F
+OL,11,G393FHotel demolition begins as asbestos
+OL,12,FremovedA19-Aug
+OL,13,G
+OL,14,G394FPM visit sparks optimism for A1
+OL,15,Fdualling schemeA20-Aug
+OL,16,G
+OL,17,G395FNewly restored pier shut after
+OL,18,Fvandal attackA20-Aug
+OL,19,G
+OL,20,G396FLate Night Levy could be dropped by
+OL,21,FcouncilA19-Aug
+OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext PageB Reg NewsC Nat TVF Clean Feed
 FL,391,301,260,140,0,100
@@ -584,7 +586,7 @@ PN,11924
 SC,0024
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kG24/41
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -613,7 +615,7 @@ PN,11925
 SC,0025
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7k jjs%wsj  w{j#57i   G25/41
 OL,2,W//%*// //%Q%* ** %-,*,$%** %-& (,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -642,7 +644,7 @@ PN,11926
 SC,0026
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Qwsj#%7k"k#j  w{j#57i  G26/41
 OL,2,W//%*// //%Q,.*,%-. * *,$%** %-& (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -671,7 +673,7 @@ PN,11927
 SC,0027
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q5j 5w{j  wsjs1        G27/41
 OL,2,W//%*// //%Q-.,%%**,$-,(,% ,,,,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -686,12 +688,12 @@ OL,12,G
 OL,13,G433FBudget pressures could mean further
 OL,14,Fcouncil tax rises, leaders warnA20-Aug
 OL,15,G
-OL,16,G434FMarried councillors lose positions
-OL,17,Fafter not turning up to work for six
-OL,18,FmonthsA19-Aug
-OL,19,G
-OL,20,G435FFourth person charged after teen
-OL,21,Fkilled in crashA19-Aug
+OL,16,G434FSuffragette Christmas card from
+OL,17,F1910 valued at #2,500A20-Aug
+OL,18,G
+OL,19,G435FMarried councillors lose positions
+OL,20,Fafter not turning up to work for six
+OL,21,FmonthsA19-Aug
 OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext PageB Reg NewsC Nat TVF Clean Feed
@@ -700,7 +702,7 @@ PN,11928
 SC,0028
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q7+jp5w{j#57kjs15  jjs1G28/41
 OL,2,W//%*// //%Q-.* %%** %%**,$-, *(,% ,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -729,7 +731,7 @@ PN,11929
 SC,0029
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W5j 5Q5wsj  ws jkjs j#7kjs57G29/41
 OL,2,W//%*// //%Q%,.*,$-, *.*  * %** %%* (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -758,7 +760,7 @@ PN,11930
 SC,0030
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,W|4|h4|||h||4|||h||4|4|           G30/41
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -783,7 +785,7 @@ PN,11931
 SC,0031
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,V7c#####5Ww;js%7+ j#57kjs1        G31/41
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CThursday                 G1/5
@@ -812,7 +814,7 @@ PN,11932
 SC,0032
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5      G32/41
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/4
@@ -840,7 +842,7 @@ PN,11933
 SC,0033
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,V7c#####5W5#7!5j "5               G33/41
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CThursday                 G1/5
@@ -867,7 +869,7 @@ PN,11934
 SC,0034
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4   G34/41
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/9
@@ -893,7 +895,7 @@ PN,11935
 SC,0035
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,V7c#####5Wg3                      G35/41
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/8
@@ -922,7 +924,7 @@ PN,11936
 SC,0036
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+jG36/41
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CThursday                 G1/8
@@ -948,7 +950,7 @@ PN,11937
 SC,0037
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,V7c#####5Ww;js15j 557kj#4 #7!5j   G37/41
 OL,2,V5!     5W%**,$-.,%%%**,!  % )&V(,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/9
@@ -976,7 +978,7 @@ PN,11938
 SC,0038
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,V7c#####5Ww;"k#js1 7kj#5ws        G38/41
 OL,2,V5!     5W%* * *,$ -.* %-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/7
@@ -1004,7 +1006,7 @@ PN,11939
 SC,0039
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,V7c#####5Ww;"k#js1 s{             G39/41
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/4
@@ -1032,7 +1034,7 @@ PN,11940
 SC,0040
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,V7c#####5W#7!7c jp4               G40/41
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/11
@@ -1061,7 +1063,7 @@ PN,11941
 SC,0041
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F119A1787219286
+OL,0,        ECIMSBWebfax 1   F119A1787219742
 OL,1,V7c#####5W5jj#7k j#57kjs1         G41/41
 OL,2,V5!     5W)&* %* *,%%**,$V,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday                 G1/6
