@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,28 +24,28 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,GUK AND WORLDAfrom BBC News
 OL,5,G302FMurder probe as two people dead in
 OL,6,Fhouse fireA26-Aug
 OL,7,G
-OL,8,G303FPrince Harry and Meghan due to
-OL,9,Farrive in UK todayA26-Aug
+OL,8,G303FPrince Harry and Meghan to arrive
+OL,9,Fin UK todayA26-Aug
 OL,10,G
-OL,11,G304FHousehold energy bills to hit
-OL,12,Fthree-year high as Ofgem announces 4%
-OL,13,Frise from OctoberA25-Aug
-OL,14,G
-OL,15,G305FDad of woman who took her own life
-OL,16,Fsays Treasury failed in its duty of
-OL,17,FcareA26-Aug
-OL,18,G
-OL,19,G306FYellow warnings remain in force as
-OL,20,Frain and thunderstorms hit parts of UK
-OL,21,A25-Aug
-OL,22,G
+OL,11,G304FEx-chief constable investigated
+OL,12,Fover Israeli fan banA26-Aug
+OL,13,G
+OL,14,G305FDad of woman who took her own life
+OL,15,Fsays Treasury failed in its duty of
+OL,16,FcareA26-Aug
+OL,17,G
+OL,18,G306FYellow warnings remain in force as
+OL,19,Frain and thunderstorms hit parts of UK
+OL,20,A25-Aug
+OL,21,G
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/40
 OL,24,AFirst NewsB Reg NewsCNat TVF Clean Feed
 FL,302,301,200,140,0,100
@@ -53,7 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AMurder probe as two people dead in
@@ -62,14 +62,17 @@ OL,5,
 OL,6,FA murder investigation has been
 OL,7,Flaunched after two people died in a
 OL,8,Fhouse fire.
-OL,10,FCleveland Police officers were called
-OL,11,Fto the property in Grangetown,
-OL,12,FMiddlesbrough, during the early hours
-OL,13,Fof the morning.
-OL,15,FThe force said it was investigating
-OL,16,Fwhat had happened but was "keeping an
-OL,17,Fopen mind and cannot rule out any links
-OL,18,Fto wider organised crime at this time".
+OL,10,FThe blaze in Grangetown, Middlesbrough,
+OL,11,Fbroke out just before 05:30 BST and
+OL,12,Falso left a woman in hospital in a
+OL,13,Fcritical condition, alongside a further
+OL,14,Fthree people who suffered non-life
+OL,15,Fthreatening injuries.
+OL,17,FCleveland Police said it was
+OL,18,Finvestigating what had happened but was
+OL,19,F"keeping an open mind and cannot rule
+OL,20,Fout any links to wider organised crime
+OL,21,Fat this time".
 OL,23,APub: 26-AugQppppppppppppppppppppppG3/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -77,16 +80,16 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AMurder probe as two people dead in
 OL,4,Ahouse fire
 OL,5,
-OL,6,FA woman is in hospital in a critical
-OL,7,Fcondition, alongside a further three
-OL,8,Fpeople who suffered non-life
-OL,9,Fthreatening injuries.
+OL,6,FThe fire happened about two miles from
+OL,7,Fthe A66 crash that killed five young
+OL,8,Fmen and two police officers on Saturday
+OL,9,Fmorning.
 OL,23,APub: 26-AugQppppppppppppppppppppppG4/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -94,24 +97,22 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,APrince Harry and Meghan due to arrive
-OL,4,Ain UK today
+OL,3,APrince Harry and Meghan to arrive in UK
+OL,4,Atoday
 OL,5,
 OL,6,FThe Duke and Duchess of Sussex are
 OL,7,Farriving back in the UK today, BBC News
 OL,8,Funderstands.
-OL,10,FPrince Harry, Meghan and their two
-OL,11,Fchildren are believed to be flying into
-OL,12,Fthe country privately from California.
-OL,14,FA spokesman for the Duke and Duchess of
-OL,15,FSussex said "this is not something we
-OL,16,Fwould comment on".
-OL,18,FThey will not return to official duties
-OL,19,Fbut will live in Britain as private
-OL,20,Fcitizens and non-working royals.
+OL,10,FPrince Harry, Meghan and their children
+OL,11,FArchie and Lilibet are believed to be
+OL,12,Fflying into the country privately from
+OL,13,FCalifornia.
+OL,15,FA spokesman for the Duke and Duchess of
+OL,16,FSussex said "this is not something we
+OL,17,Fwould comment on".
 OL,23,APub: 26-AugQppppppppppppppppppppppG5/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,304,300,200,140,0,100
@@ -119,54 +120,73 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AHousehold energy bills to hit
-OL,4,Athree-year high as Ofgem announces 4%
-OL,5,Arise from October
-OL,6,
-OL,7,FEnergy prices for millions of
-OL,8,Fhouseholds will rise to the highest
-OL,9,Flevel for three years, under regulator
-OL,10,FOfgem's price cap.
-OL,12,FOfgem said the price cap will increase
-OL,13,Fby 4% on 1 October, driven by higher
-OL,14,Fwholesale gas prices due to the Iran
-OL,15,Fwar.
-OL,17,FA household using a typical amount of
-OL,18,Fgas and electricity will pay #60 a year
-OL,19,Fmore, but more than a third of
-OL,20,Fhouseholds are on fixed tariffs so
-OL,21,Ftheir prices will not change.
-OL,23,APub: 25-AugQppppppppppppppppppppppG6/40
+OL,3,APrince Harry and Meghan to arrive in UK
+OL,4,Atoday
+OL,5,
+OL,6,FLast week, it was reported that the
+OL,7,Fcouple would be relocating to the UK in
+OL,8,FAugust. They will not return to
+OL,9,Fofficial duties but will live in
+OL,10,FBritain as non-working royals.
+OL,23,APub: 26-AugQppppppppppppppppppppppG6/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
-FL,305,300,200,140,0,100
+FL,304,300,200,140,0,100
 PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AHousehold energy bills to hit
-OL,4,Athree-year high as Ofgem announces 4%
-OL,5,Arise from October
-OL,6,
-OL,7,FThe government said its cut to VAT on
-OL,8,Felectricity bills will save households
-OL,9,F#45 and it was doing more to address
-OL,10,Fcost of living pressures, but
-OL,11,Fopposition parties said Labour was not
-OL,12,Fdoing enough.
-OL,23,APub: 25-AugQppppppppppppppppppppppG7/40
+OL,3,AEx-chief constable investigated over
+OL,4,AIsraeli fan ban
+OL,5,
+OL,6,FThe former chief constable of West
+OL,7,FMidlands Police is being investigated
+OL,8,Fby the police watchdog for gross
+OL,9,Fmisconduct over the banning of Israeli
+OL,10,FMaccabi Tel Aviv fans from a match
+OL,11,Fagainst Aston Villa.
+OL,13,FThe Independent Office for Police
+OL,14,FConduct (IOPC) has given notice that it
+OL,15,Fis investigating Craig Guildford, as
+OL,16,Fwell as three police officers and a
+OL,17,Fstaff member.
+OL,23,APub: 26-AugQppppppppppppppppppppppG7/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
 PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
+OL,1,W5j 5Q7kjs15j 5ws
+OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
+OL,3,AEx-chief constable investigated over
+OL,4,AIsraeli fan ban
+OL,5,
+OL,6,FThe IOPC launched an independent
+OL,7,Finvestigation in January to examine the
+OL,8,Finvolvement of West Midlands Police
+OL,9,Fofficers in the planning and
+OL,10,Fpreparation of the match at Villa Park
+OL,11,Fon 6 November 2025.
+OL,13,FThe ban attracted national and
+OL,14,Finternational debate, with the
+OL,15,Fgovernment saying it would do
+OL,16,Feverything in its power to have it
+OL,17,Foverturned.
+OL,23,APub: 26-AugQppppppppppppppppppppppG8/40
+OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
+FL,305,300,200,140,0,100
+PN,11909
+SC,0009
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,A'Glam, funny, kind': World remembers
@@ -186,14 +206,14 @@ OL,18,FSwift, while Sir Paul McCartney calls
 OL,19,Fher a "bubbly" character whose singing
 OL,20,Fand songwriting were "unrivalled in the
 OL,21,Fworld of country music"
-OL,23,APub: 26-AugQppppppppppppppppppppppG8/40
+OL,23,APub: 26-AugQppppppppppppppppppppppG9/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,313,300,200,140,0,100
-PN,11909
-SC,0009
+PN,11910
+SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,A'Glam, funny, kind': World remembers
@@ -210,14 +230,14 @@ OL,14,Fdevoted decades of her life to
 OL,15,Fcharitable causes, particularly child
 OL,16,Fliteracy with millions gaining access
 OL,17,Fto free books across five countries
-OL,23,APub: 26-AugQppppppppppppppppppppppG9/40
+OL,23,APub: 26-AugQpppppppppppppppppppppG10/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,313,300,200,140,0,100
-PN,11910
-SC,0010
+PN,11911
+SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,A'Glam, funny, kind': World remembers
@@ -229,58 +249,31 @@ OL,8,Fbusiness, even offering a signature
 OL,9,Fcoffee brand called Cup of Ambition, in
 OL,10,Fa nod to her Grammy-winning single 9 to
 OL,11,F5
-OL,23,APub: 26-AugQpppppppppppppppppppppG10/40
-OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
-FL,313,300,200,140,0,100
-PN,11911
-SC,0011
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
-OL,1,W5j 5Q7kjs15j 5ws
-OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,APakistani PM suspends top health
-OL,4,Aofficial after 14 newborn babies killed
-OL,5,Ain hospital fire
-OL,6,
-OL,7,FPakistani Prime Minister Shehbaz Sharif
-OL,8,Fhas suspended a top health official
-OL,9,Fafter 14 newborn babies died in a fire
-OL,10,Fat an Islamabad hospital's maternity
-OL,11,Funit
-OL,13,FThe fire broke out in an
-OL,14,Fair-conditioning unit in PIMS hospital,
-OL,15,Fand was quickly ignited by oxygen
-OL,16,Fconnections, a spokesperson tells BBC
-OL,17,FUrdu
-OL,19,FOf the 15 babies who were in the ward
-OL,20,Fat the time, one newborn has been
-OL,21,Frescued, a hospital spokesperson tells
-OL,22,Fthe BBC
 OL,23,APub: 26-AugQpppppppppppppppppppppG11/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
-FL,314,300,200,140,0,100
+FL,313,300,200,140,0,100
 PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,APakistani PM suspends top health
-OL,4,Aofficial after 14 newborn babies killed
-OL,5,Ain hospital fire
-OL,6,
-OL,7,FAn investigation into the fire is under
-OL,8,Fway, with a committee ordered to report
-OL,9,Fwithin 24 hours
-OL,11,FThe father of a victim has criticised
-OL,12,Fthe safety measures in place at the
-OL,13,Fhospital, saying only one door was open
-OL,14,Ffor visitors
-OL,16,FThe hospital's executive director tells
-OL,17,Fthe BBC the door to the maternity ward
-OL,18,Fwas not locked, but it was manned
+OL,3,AAt least 14 babies die in Pakistan
+OL,4,Ahospital fire
+OL,5,
+OL,6,FAt least 14 newborn babies have died in
+OL,7,Fa fire on a hospital ward in Pakistan's
+OL,8,Fcapital Islamabad.
+OL,10,FThe fire broke out on the third floor
+OL,11,Fof the mother and child unit of the
+OL,12,FPakistan Institute of Medical Sciences
+OL,13,F(PIMS) hospital, one of the main
+OL,14,Fstate-run hospitals in the city, on
+OL,15,FWednesday morning.
+OL,17,FAn air conditioning unit caught fire, a
+OL,18,Fspokesman for the hospital told the
+OL,19,FBBC.
 OL,23,APub: 26-AugQpppppppppppppppppppppG12/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,314,300,200,140,0,100
@@ -288,18 +281,15 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,APakistani PM suspends top health
-OL,4,Aofficial after 14 newborn babies killed
-OL,5,Ain hospital fire
-OL,6,
-OL,7,FFamilies have gathered outside the
-OL,8,Fhospital - many in tears, says our
-OL,9,Fcorrespondent who is on the scene. One
-OL,10,Fman tells the BBC his three-day-old
-OL,11,Fbaby has died
+OL,3,AAt least 14 babies die in Pakistan
+OL,4,Ahospital fire
+OL,5,
+OL,6,FThere were 15 babies in the ward when
+OL,7,Fthe fire broke out, a hospital
+OL,8,Fspokesman said. One baby was rescued.
 OL,23,APub: 26-AugQpppppppppppppppppppppG13/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,314,300,200,140,0,100
@@ -307,56 +297,55 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ASeventeen dead and hundreds unaccounted
-OL,4,Afor as flash flood hits Nepal-Tibet
-OL,5,Aborder
+OL,3,ACanada announces 'dollar-for-dollar'
+OL,4,Aretaliatory tariffs on US as high as
+OL,5,A50%
 OL,6,
-OL,7,FAt least 17 people have been killed and
-OL,8,Fnearly 400 others are unaccounted for
-OL,9,Fafter a flash flood and mudslide along
-OL,10,Fthe Nepal-Tibet border washed away
-OL,11,Fvillages and damaged roads and
-OL,12,Finfrastructure.
-OL,14,FThe flood hit early on Wednesday in
-OL,15,FRasuwa, just north of Nepal's capital
-OL,16,FKathmandu, with preliminary information
-OL,17,Fsuggesting it was caused by an
-OL,18,Fearthquake triggering an avalanche with
-OL,19,Fmelted snow pouring into the Bhote
-OL,20,FKoshi river.
-OL,23,APub: 26-AugQpppppppppppppppppppppG14/40
+OL,7,FCanada has announced counter-tariffs as
+OL,8,Fhigh as 50% on a range of US goods in
+OL,9,Fretaliation to the latest wave of
+OL,10,Flevies on Canadian imports imposed by
+OL,11,FPresident Donald Trump last weekend.
+OL,13,FThe Canadian tariffs will apply to
+OL,14,Fnearly C$28bn ($20bn; #15bn) worth of
+OL,15,FAmerican products, ranging from steel
+OL,16,Fto furniture, fresh tuna and cotton
+OL,17,FT-shirts, officials announced on
+OL,18,FTuesday.
+OL,23,APub: 25-AugQpppppppppppppppppppppG14/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,315,300,200,140,0,100
 PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ASeventeen dead and hundreds unaccounted
-OL,4,Afor as flash flood hits Nepal-Tibet
-OL,5,Aborder
+OL,3,ACanada announces 'dollar-for-dollar'
+OL,4,Aretaliatory tariffs on US as high as
+OL,5,A50%
 OL,6,
-OL,7,FSearch operations are under way on both
-OL,8,Fsides of the border between Tibet and
-OL,9,FNepal and 12 people have been rescued
-OL,10,Fso far.
-OL,12,FState media in China, which controls
-OL,13,FTibet, say there are significant
-OL,14,Fcasualties and Nepalese officials said
-OL,15,Fthey anticipate "huge scale loss".
-OL,23,APub: 26-AugQpppppppppppppppppppppG15/40
+OL,7,FThe list of targeted products is
+OL,8,Fdesigned to match Canadian goods hit by
+OL,9,Fthe US. The Canadian levies are set to
+OL,10,Fcome into effect on 8 September.
+OL,12,FIt is the latest escalation after
+OL,13,FUS-Canada trade talks collapsed late
+OL,14,Flast week, with each side accusing the
+OL,15,Fother of making last-minute demands
+OL,16,Fthat were unreasonable.
+OL,23,APub: 25-AugQpppppppppppppppppppppG15/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,315,300,200,140,0,100
 PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q5 7575747575x0w1w1 w17571
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -385,7 +374,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q,. *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -395,11 +384,11 @@ OL,7,G
 OL,8,G332FClub wants M4 weekend closure for
 OL,9,Fpower work movedA26-Aug
 OL,10,G
-OL,11,G333FSummer heatwave of 1976 was 'like a
-OL,12,Fwar zone'A26-Aug
+OL,11,G333F'Serious situation' as E. coli
+OL,12,Fspikes in two riversA26-Aug
 OL,13,G
-OL,14,G334FFacial recognition deployed in town
-OL,15,Ffor first timeA26-Aug
+OL,14,G334FSummer heatwave of 1976 was 'like a
+OL,15,Fwar zone'A26-Aug
 OL,16,G
 OL,17,G335FMan bailed over rape of girl,14, in
 OL,18,Fwooded areaA26-Aug
@@ -414,7 +403,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q555pjsjjj js17kjc15 js57kj#4
 OL,2,W//%*// //%Q--% (.*.. *,$%**,%-,* %%**,!
 OL,3,GMAIN STORIESAfrom BBC News
@@ -443,7 +432,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(W)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -451,8 +440,8 @@ OL,5,G351F'That shock, it lives with me' -
 OL,6,FWomen speak out after spate of masked
 OL,7,FrobberiesA26-Aug
 OL,8,G
-OL,9,G352FMum's perforated bowel ordeal after
-OL,10,Fscan errorA26-Aug
+OL,9,G352FMotorcyclist dies after crash with
+OL,10,Fparked carA26-Aug
 OL,11,G
 OL,12,G353FCampaigners to fight plans for 700
 OL,13,Fhouses on greenbeltA26-Aug
@@ -472,7 +461,7 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(E)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -501,7 +490,7 @@ PN,11921
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-, *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -530,7 +519,7 @@ PN,11922
 SC,0022
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Quzj#5w;jp%p05 jj#57+
 OL,2,W//%*// //%Q,.*,%%** %  -,** %-. (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -559,7 +548,7 @@ PN,11923
 SC,0023
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kjs1 wsj#57sj  w{j#57i
 OL,2,W//%*// //%Q%**,$ -,* %-.*,$%** %-& (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -572,14 +561,14 @@ OL,10,G
 OL,11,G393FProposals for theatre, hotel and
 OL,12,Fthousands of homesA26-Aug
 OL,13,G
-OL,14,G394FTribute to teenager killed in bike
-OL,15,FcrashA26-Aug
+OL,14,G394FBurglar targeted couple at home
+OL,15,Fafter bus stop rowA26-Aug
 OL,16,G
-OL,17,G395FMajor donors help Rothbury Estate
-OL,18,Fbid move closerA26-Aug
+OL,17,G395FTribute to teenager killed in bike
+OL,18,FcrashA26-Aug
 OL,19,G
-OL,20,G396FTeenager dies in motorcycle crash
-OL,21,A25-Aug
+OL,20,G396FMajor donors help Rothbury Estate
+OL,21,Fbid move closerA26-Aug
 OL,22,G
 OL,23,QpppppppppppppppppppppppppppppppppG23/40
 OL,24,ANext PageB Reg NewsC Nat TVF Clean Feed
@@ -588,7 +577,7 @@ PN,11924
 SC,0024
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -617,7 +606,7 @@ PN,11925
 SC,0025
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7k jjs%wsj  w{j#57i
 OL,2,W//%*// //%Q%* ** %-,*,$%** %-& (,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -635,10 +624,10 @@ OL,15,G
 OL,16,G414F#100 heating oil payments to start
 OL,17,Fin SeptemberA26-Aug
 OL,18,G
-OL,19,G415FTrusts pay #200k each to
-OL,20,Fconsultants to reduce care package
-OL,21,FcostsA26-Aug
-OL,22,G
+OL,19,G415FPolice officers hurt after patrol
+OL,20,Fcar rammed repeatedlyA26-Aug
+OL,21,G
+OL,22,F
 OL,23,QpppppppppppppppppppppppppppppppppG25/40
 OL,24,ANext PageB Reg NewsC Nat TVF Clean Feed
 FL,411,301,200,140,0,100
@@ -646,7 +635,7 @@ PN,11926
 SC,0026
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Qwsj#%7k"k#j  w{j#57i
 OL,2,W//%*// //%Q,.*,%-. * *,$%** %-& (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -661,12 +650,12 @@ OL,12,G423FFires still burn in charred
 OL,13,Flandscape as focus turns to wildfire
 OL,14,FpreventionA25-Aug
 OL,15,G
-OL,16,G424FMan charged over van murder bid on
-OL,17,Ftwo police officersA26-Aug
-OL,18,G
-OL,19,G425FCalls for GPS monitoring of
-OL,20,Fdomestic abuse suspects after murder
-OL,21,A25-Aug
+OL,16,G424F'It's a big step up': Behind the
+OL,17,Fscenes as Netflix hit Dept Q returns to
+OL,18,FEdinburghA25-Aug
+OL,19,G
+OL,20,G425FFatal crash driver handed community
+OL,21,Fpayback orderA26-Aug
 OL,22,G
 OL,23,QpppppppppppppppppppppppppppppppppG26/40
 OL,24,ANext PageB Reg NewsC Nat TVF Clean Feed
@@ -675,7 +664,7 @@ PN,11927
 SC,0027
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q5j 5w{j  wsjs1
 OL,2,W//%*// //%Q-.,%%**,$-,(,% ,,,,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -704,15 +693,15 @@ PN,11928
 SC,0028
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q7+jp5w{j#57kjs15  jjs1
 OL,2,W//%*// //%Q-.* %%** %%**,$-, *(,% ,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G441FChannel Islands facing 'hottest
 OL,6,Fever summer'A26-Aug
 OL,7,G
-OL,8,G442FLatest stage of #11m ring main
-OL,9,Fproject to startA26-Aug
+OL,8,G442FSports leaders raise leisure centre
+OL,9,FfearsA26-Aug
 OL,10,G
 OL,11,G443F'Very close call' as fire nearly
 OL,12,Fhits water plantA26-Aug
@@ -733,7 +722,7 @@ PN,11929
 SC,0029
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,W5j 5Q5wsj  ws jkjs j#7kjs57k
 OL,2,W//%*// //%Q%,.*,$-, *.*  * %** %%* (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -762,7 +751,7 @@ PN,11930
 SC,0030
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CWednesday
@@ -790,7 +779,7 @@ PN,11931
 SC,0031
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -818,7 +807,7 @@ PN,11932
 SC,0032
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CWednesday
@@ -845,7 +834,7 @@ PN,11933
 SC,0033
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -871,7 +860,7 @@ PN,11934
 SC,0034
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -898,7 +887,7 @@ PN,11935
 SC,0035
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+js1
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CWednesday
@@ -924,7 +913,7 @@ PN,11936
 SC,0036
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,V7c#####5Ww;js15j 557kj#4 #7!5j
 OL,2,V5!     5W%**,$-.,%%%**,!  % )&V(,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -952,7 +941,7 @@ PN,11937
 SC,0037
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,V7c#####5Ww;"k#js1 7kj#5ws
 OL,2,V5!     5W%* * *,$ -.* %-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -977,7 +966,7 @@ PN,11938
 SC,0038
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -1004,7 +993,7 @@ PN,11939
 SC,0039
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -1028,7 +1017,7 @@ PN,11940
 SC,0040
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1787744885
+OL,0,        ECIMSBWebfax 1   F119A1787745360
 OL,1,V7c#####5W5jj#7k j#57kjs1
 OL,2,V5!     5W)&* %* *,%%**,$V,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
