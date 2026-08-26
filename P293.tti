@@ -2,26 +2,24 @@ PN,29301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F293A1787735895
+OL,0,        ECIMSBWebfax 1   F293A1787748504
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,$FMERIDIAN (E)
 OL,3,Vupppppp5CWednesday
-OL,5,G1000 This Morning
-OL,6,     FMagazine show with news and
-OL,7,     Ftopical items, celebrity guests,
-OL,8,     Fexpert advice, real-life stories,
-OL,9,     Fcompetitions and a mix of cookery,
-OL,10,     Fhealth, beauty, lifestyle and
-OL,11,     Fmore.
-OL,12,G1330 ITV Lunchtime News
-OL,13,G1355 ITV News Meridian
-OL,14,G1400 Dickinson's Real Deal
-OL,15,     FAs The Duke arrives in Blackburn,
-OL,16,     FAlys Dobbie meets a
-OL,17,     Ftime-travelling fan, Matt Taylor
-OL,18,     Fhopes a big deal won't go up in
-OL,19,     Fsmoke, and things heat up for
-OL,20,     FKaren Dalmeny.
+OL,5,G1330 ITV Lunchtime News
+OL,6,G1355 ITV News Meridian
+OL,7,G1400 Dickinson's Real Deal
+OL,8,     FAs The Duke arrives in Blackburn,
+OL,9,     FAlys Dobbie meets a
+OL,10,     Ftime-travelling fan, Matt Taylor
+OL,11,     Fhopes a big deal won't go up in
+OL,12,     Fsmoke, and things heat up for
+OL,13,     FKaren Dalmeny.
+OL,14,G1500 Deal or No Deal
+OL,15,     FJoin Stephen Mulhern as Richard
+OL,16,     Fsteps up to play his game against
+OL,17,     Fthe Banker and tries to take home
+OL,18,     Fa huge cash prize.
 OL,23,VppppppppppppppppppppppppppppppppppG1/6
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,294,260,140,200,0,100
@@ -29,28 +27,24 @@ PN,29302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F293A1787735895
+OL,0,        ECIMSBWebfax 1   F293A1787748504
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,$FMERIDIAN (E)
 OL,3,Vupppppp5CWednesday
-OL,5,G1500 Deal or No Deal
-OL,6,     FJoin Stephen Mulhern as Richard
-OL,7,     Fsteps up to play his game against
-OL,8,     Fthe Banker and tries to take home
-OL,9,     Fa huge cash prize.
-OL,10,G1600 Tipping Point
-OL,11,     FBen Shephard hosts the quiz show
-OL,12,     Fin which three players take on an
-OL,13,     Fextraordinary machine in the hope
-OL,14,     Fof winning a cash jackpot.
-OL,15,G1700 The Chase
-OL,16,     FBradley Walsh guides Sarah from
-OL,17,     FBraintree, Arash originally from
-OL,18,     FKidderminster, Suzanne from
-OL,19,     FNottingham and James from
-OL,20,     FBurton-on-Trent as they face a
-OL,21,     FChaser in a battle of wits.
-OL,22,G1800 ITV News Meridian
+OL,5,G1600 Tipping Point
+OL,6,     FBen Shephard hosts the quiz show
+OL,7,     Fin which three players take on an
+OL,8,     Fextraordinary machine in the hope
+OL,9,     Fof winning a cash jackpot.
+OL,10,G1700 The Chase
+OL,11,     FBradley Walsh guides Sarah from
+OL,12,     FBraintree, Arash originally from
+OL,13,     FKidderminster, Suzanne from
+OL,14,     FNottingham and James from
+OL,15,     FBurton-on-Trent as they face a
+OL,16,     FChaser in a battle of wits.
+OL,17,G1800 ITV News Meridian
+OL,18,G1830 ITV Evening News
 OL,23,VppppppppppppppppppppppppppppppppppG2/6
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,294,260,140,200,0,100
@@ -58,22 +52,28 @@ PN,29303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F293A1787735895
+OL,0,        ECIMSBWebfax 1   F293A1787748504
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,$FMERIDIAN (E)
 OL,3,Vupppppp5CWednesday
-OL,5,G1830 ITV Evening News
-OL,6,G1930 Celebrity Lingo
-OL,7,     FAdil Ray hosts the game of words
-OL,8,     Fas sports stars Judy Murray and
-OL,9,     FMark Pougatch try to go the
-OL,10,     Fdistance against Morning Live's
-OL,11,     FHelen Skelton and Rav Wilding and
-OL,12,     Fwin big for charity.
-OL,13,G2000 Emmerdale
-OL,14,     FCaleb is triumphant. Dawn has a
-OL,15,     Fbig decision to make. Graham is in
-OL,16,     Fa tricky position.
+OL,5,G1930 Celebrity Lingo
+OL,6,     FAdil Ray hosts the game of words
+OL,7,     Fas sports stars Judy Murray and
+OL,8,     FMark Pougatch try to go the
+OL,9,     Fdistance against Morning Live's
+OL,10,     FHelen Skelton and Rav Wilding and
+OL,11,     Fwin big for charity.
+OL,12,G2000 Emmerdale
+OL,13,     FCaleb is triumphant. Dawn has a
+OL,14,     Fbig decision to make. Graham is in
+OL,15,     Fa tricky position.
+OL,16,G2030 Coronation Street
+OL,17,     FLucy uses a therapy session to
+OL,18,     Fvoice contempt for the Metcalfes,
+OL,19,     FMaggie's words dampen Brian's
+OL,20,     Fardour, Ollie comes to Christina's
+OL,21,     Faid, and Bethany spots blood on
+OL,22,     FKit's shirt.
 OL,23,VppppppppppppppppppppppppppppppppppG3/6
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,294,260,140,200,0,100
@@ -81,26 +81,28 @@ PN,29304
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F293A1787735895
+OL,0,        ECIMSBWebfax 1   F293A1787748504
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,$FMERIDIAN (E)
 OL,3,Vupppppp5CWednesday
-OL,5,G2030 Coronation Street
-OL,6,     FLucy uses a therapy session to
-OL,7,     Fvoice contempt for the Metcalfes,
-OL,8,     FMaggie's words dampen Brian's
-OL,9,     Fardour, Ollie comes to Christina's
-OL,10,     Faid, and Bethany spots blood on
-OL,11,     FKit's shirt.
-OL,12,G2100 Professor T
-OL,13,     FSeptember Gardens: Crime drama.
-OL,14,     FJasper is at the centre of a crime
-OL,15,     Fscene when a woman is bludgeoned
-OL,16,     Fto death, but his meddling in the
-OL,17,     Finvestigation is the last straw
-OL,18,     Ffor Dan.
-OL,19,G2200 ITV News at Ten
-OL,20,G2230 ITV News Meridian
+OL,5,G2100 Professor T
+OL,6,     FSeptember Gardens: Crime drama.
+OL,7,     FJasper is at the centre of a crime
+OL,8,     Fscene when a woman is bludgeoned
+OL,9,     Fto death, but his meddling in the
+OL,10,     Finvestigation is the last straw
+OL,11,     Ffor Dan.
+OL,12,G2200 ITV News at Ten
+OL,13,G2230 ITV News Meridian
+OL,14,G2245 Spectre
+OL,15,     FBond film starring Daniel Craig
+OL,16,     Fand Christoph Waltz, 2015. 007
+OL,17,     Freceives a cryptic message that
+OL,18,     Fsets him on the trail of a
+OL,19,     Fclandestine criminal organisation
+OL,20,     Fcalled SPECTRE.
+OL,21,G0110 Shop on TV
+OL,22,     FTeleshopping.
 OL,23,VppppppppppppppppppppppppppppppppppG4/6
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,294,260,140,200,0,100
@@ -108,26 +110,25 @@ PN,29305
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F293A1787735895
+OL,0,        ECIMSBWebfax 1   F293A1787748504
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,$FMERIDIAN (E)
 OL,3,Vupppppp5CWednesday
-OL,5,G2245 Spectre
-OL,6,     FBond film starring Daniel Craig
-OL,7,     Fand Christoph Waltz, 2015. 007
-OL,8,     Freceives a cryptic message that
-OL,9,     Fsets him on the trail of a
-OL,10,     Fclandestine criminal organisation
-OL,11,     Fcalled SPECTRE.
-OL,12,G0110 Shop on TV
-OL,13,     FTeleshopping.
-OL,14,G0300 Love and Death
-OL,15,     FSsssshh: The conclusion of the
-OL,16,     Fcrime drama series. Candy
-OL,17,     Ftestifies that she feared for her
-OL,18,     Flife in spite of Don's concerns,
-OL,19,     Fbut Pat has a warning for them
-OL,20,     Fbefore the jury's verdict.
+OL,5,G0300 Love and Death
+OL,6,     FSsssshh: The conclusion of the
+OL,7,     Fcrime drama series. Candy
+OL,8,     Ftestifies that she feared for her
+OL,9,     Flife in spite of Don's concerns,
+OL,10,     Fbut Pat has a warning for them
+OL,11,     Fbefore the jury's verdict.
+OL,12,G0400 Inside The Langham:...
+OL,13,     F...Britain's First Grand Hotel.
+OL,14,     FThere is stress when a special
+OL,15,     Fbirthday party is oversubscribed
+OL,16,     Fand executive pastry chef Andrew
+OL,17,     Fgets its showpiece cake stuck in a
+OL,18,     Fdoor.
+OL,19,G0420 Unwind with ITV
 OL,23,VppppppppppppppppppppppppppppppppppG5/6
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,294,260,140,200,0,100
@@ -135,25 +136,17 @@ PN,29306
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F293A1787735895
+OL,0,        ECIMSBWebfax 1   F293A1787748504
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,$FMERIDIAN (E)
 OL,3,Vupppppp5CWednesday
-OL,5,G0400 Inside The Langham:...
-OL,6,     F...Britain's First Grand Hotel.
-OL,7,     FThere is stress when a special
-OL,8,     Fbirthday party is oversubscribed
-OL,9,     Fand executive pastry chef Andrew
-OL,10,     Fgets its showpiece cake stuck in a
-OL,11,     Fdoor.
-OL,12,G0420 Unwind with ITV
-OL,13,G0535 Tom Kerridge Cooks Italy
-OL,14,     FLemons & Blood Oranges: Tom is in
-OL,15,     FSicily discovering the secrets
-OL,16,     Fbehind lemons, and uncovers how
-OL,17,     FMount Etna impacts blood oranges
-OL,18,     Fbefore cooking up delicious dishes
-OL,19,     Fcelebrating them.
+OL,5,G0535 Tom Kerridge Cooks Italy
+OL,6,     FLemons & Blood Oranges: Tom is in
+OL,7,     FSicily discovering the secrets
+OL,8,     Fbehind lemons, and uncovers how
+OL,9,     FMount Etna impacts blood oranges
+OL,10,     Fbefore cooking up delicious dishes
+OL,11,     Fcelebrating them.
 OL,23,VppppppppppppppppppppppppppppppppppG6/6
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,294,260,140,200,0,100
