@@ -2,28 +2,26 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1788007679
+OL,0,        ECIMSBWebfax 1   F206A1788009486
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday
-OL,5,G1330 Talking Movies
-OL,6,     FA review of Hollywood's summer
-OL,7,     Fmovie season.
-OL,8,G1400 BBC News
-OL,9,G1430 The Climate Question
-OL,10,     FDo rising temperatures and
-OL,11,     Fdeforestation make diseases like
-OL,12,     FEbola more likely to spread?
-OL,13,G1500 BBC News
-OL,14,G1530 BBC News
-OL,15,G1600 BBC News
-OL,16,G1630 Talking Movies
-OL,17,     FA review of Hollywood's summer
-OL,18,     Fmovie season.
-OL,19,G1700 BBC News
-OL,20,G1800 BBC News
-OL,21,G1830 BBC News
-OL,22,G1900 BBC News
+OL,5,G1400 BBC News
+OL,6,G1430 The Climate Question
+OL,7,     FDo rising temperatures and
+OL,8,     Fdeforestation make diseases like
+OL,9,     FEbola more likely to spread?
+OL,10,G1500 BBC News
+OL,11,G1600 BBC News
+OL,12,G1630 Talking Movies
+OL,13,     FA review of Hollywood's summer
+OL,14,     Fmovie season.
+OL,15,G1700 BBC News
+OL,16,G1800 BBC News
+OL,17,G1830 BBC News
+OL,18,G1900 BBC News
+OL,19,G1930 BBC News
+OL,20,G2000 BBC News
 OL,23,VppppppppppppppppppppppppppppppppppG1/4
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -31,28 +29,27 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1788007679
+OL,0,        ECIMSBWebfax 1   F206A1788009486
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday
-OL,5,G1930 BBC News
-OL,6,G2000 BBC News
-OL,7,G2030 Global Eye
-OL,8,     FMahjooba Nowrouzi on the
-OL,9,     Fchallenges of reporting from
-OL,10,     FAfghanistan.
-OL,11,G2100 BBC News
-OL,12,G2200 BBC News
-OL,13,G2300 BBC News
-OL,14,G2330 Talking Business
-OL,15,     FWater has been a flashpoint in the
-OL,16,     FMiddle East and worldwide demand
-OL,17,     Fis outstripping supply
-OL,18,G0000 BBC News
-OL,19,G0030 The Road to Hope with Fergal Keane
-OL,20,     FFergal Keane has spent 40 years
-OL,21,     Fseeing the worst of humanity. So
-OL,22,     Fwhy is he full of hope?
+OL,5,G2030 Global Eye
+OL,6,     FMahjooba Nowrouzi on the
+OL,7,     Fchallenges of reporting from
+OL,8,     FAfghanistan.
+OL,9,G2100 BBC News
+OL,10,G2200 BBC News
+OL,11,G2300 BBC News
+OL,12,G2330 Talking Business
+OL,13,     FWater has been a flashpoint in the
+OL,14,     FMiddle East and worldwide demand
+OL,15,     Fis outstripping supply
+OL,16,G0000 BBC News
+OL,17,G0030 The Road to Hope with Fergal Keane
+OL,18,     FFergal Keane has spent 40 years
+OL,19,     Fseeing the worst of humanity. So
+OL,20,     Fwhy is he full of hope?
+OL,21,G0100 BBC News
 OL,23,VppppppppppppppppppppppppppppppppppG2/4
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -60,25 +57,28 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1788007679
+OL,0,        ECIMSBWebfax 1   F206A1788009486
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday
-OL,5,G0100 BBC News
-OL,6,G0130 Talking Business
-OL,7,     FIs the space economy the next gold
-OL,8,     Frush?
-OL,9,G0200 BBC News
-OL,10,G0230 The Travel Show
-OL,11,     FAs the Zoological Society of
-OL,12,     FLondon turns 200, Roma Wells asks:
-OL,13,     Fwhat are zoos for?
-OL,14,G0300 BBC News
-OL,15,G0330 The Climate Question
-OL,16,     FDo rising temperatures and
-OL,17,     Fdeforestation make diseases like
-OL,18,     FEbola more likely to spread?
-OL,19,G0400 BBC News
+OL,5,G0130 Talking Business
+OL,6,     FIs the space economy the next gold
+OL,7,     Frush?
+OL,8,G0200 BBC News
+OL,9,G0230 The Travel Show
+OL,10,     FAs the Zoological Society of
+OL,11,     FLondon turns 200, Roma Wells asks:
+OL,12,     Fwhat are zoos for?
+OL,13,G0300 BBC News
+OL,14,G0330 The Climate Question
+OL,15,     FDo rising temperatures and
+OL,16,     Fdeforestation make diseases like
+OL,17,     FEbola more likely to spread?
+OL,18,G0400 BBC News
+OL,19,G0430 Global Eye
+OL,20,     FMahjooba Nowrouzi on the
+OL,21,     Fchallenges of reporting from
+OL,22,     FAfghanistan.
 OL,23,VppppppppppppppppppppppppppppppppppG3/4
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -86,19 +86,15 @@ PN,20604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1788007679
+OL,0,        ECIMSBWebfax 1   F206A1788009486
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday
-OL,5,G0430 Global Eye
-OL,6,     FMahjooba Nowrouzi on the
-OL,7,     Fchallenges of reporting from
-OL,8,     FAfghanistan.
-OL,9,G0500 BBC News
-OL,10,G0530 Streets of Gold: Mumbai
-OL,11,     FJimmy Mistry, a Parsi business
-OL,12,     Ftycoon, designed his own
-OL,13,     Fskyscraper.
+OL,5,G0500 BBC News
+OL,6,G0530 Streets of Gold: Mumbai
+OL,7,     FJimmy Mistry, a Parsi business
+OL,8,     Ftycoon, designed his own
+OL,9,     Fskyscraper.
 OL,23,VppppppppppppppppppppppppppppppppppG4/4
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
