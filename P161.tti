@@ -1,27 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1788015335
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1788067146
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FHeavy rain
-OL,6,Fand thunderstorms will clear from
-OL,7,Fcentral and eastern areas this
-OL,8,Fevening. Rain will also develop over
-OL,9,FNorthern Ireland, moving into southern
-OL,10,FScotland during the early hours. Clear
-OL,11,Fspells elsewhere overnight, with a
-OL,12,Fscattering of showers. A mild night.
+OL,5,CToday:FOutbreaks of rain affect parts
+OL,6,Fof Scotland and northern England at
+OL,7,Ffirst. A band of heavy, showery rain
+OL,8,Fthen spreads eastwards, with blustery
+OL,9,Fshowers and thunderstorms developing
+OL,10,Fmore widely during the afternoon.
+OL,11,FSoutheast England stays mostly dry.
+OL,12,FBlustery at times.
 OL,13,
-OL,14,CSunday:FA bright start, though rain
-OL,15,Fwill move northeastwards across
-OL,16,FScotland during the morning. For most
-OL,17,Fit will be a day of sunshine and
-OL,18,Fshowers, these heavy with hail and
-OL,19,Fthunder.
+OL,14,CTonight:FBands of heavy showers with a
+OL,15,Frisk of hail and thunder move
+OL,16,Fnortheastwards. Many areas becoming
+OL,17,Fdry by dawn, although some showers
+OL,18,Flinger in the west. Temperatures
+OL,19,Fremaining above average.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1788067146
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CMonday:FA cloudy start with outbreaks
+OL,6,Fof rain and showers, this heaviest
+OL,7,Facross the north, with a risk of
+OL,8,Fthunder. Turning drier and brighter
+OL,9,Fthrough the afternoon. Breezy. Average
+OL,10,Ftemperatures.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
