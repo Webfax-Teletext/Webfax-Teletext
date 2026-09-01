@@ -2,26 +2,28 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1788301081
+OL,0,        ECIMSBWebfax 1   F206A1788304686
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
-OL,5,G2300 BBC World News America
-OL,6,     FThe BBC presents in-depth reports
-OL,7,     Fon the major international and US
-OL,8,     Fnews of the day.
-OL,9,G0000 BBC News
-OL,10,G0030 Newscast
-OL,11,     FLighthearted discussion of the
-OL,12,     Fday's news.
-OL,13,G0100 BBC News
-OL,14,G0130 The Road to Hope with Fergal Keane
-OL,15,     FFergal Keane has spent 40 years
-OL,16,     Fseeing the worst of humanity. So
-OL,17,     Fwhy is he full of hope?
-OL,18,G0200 Newsday
-OL,19,     FLive from Singapore, the latest
-OL,20,     Finternational news from the BBC.
+OL,5,G0000 BBC News
+OL,6,G0030 Newscast
+OL,7,     FLighthearted discussion of the
+OL,8,     Fday's news.
+OL,9,G0100 BBC News
+OL,10,G0130 The Road to Hope with Fergal Keane
+OL,11,     FFergal Keane has spent 40 years
+OL,12,     Fseeing the worst of humanity. So
+OL,13,     Fwhy is he full of hope?
+OL,14,G0200 Newsday
+OL,15,     FLive from Singapore, the latest
+OL,16,     Finternational news from the BBC.
+OL,17,G0230 Business Today
+OL,18,     FThe latest business news from
+OL,19,     FSingapore and around the world.
+OL,20,G0245 BBC Sport
+OL,21,     FA round-up of the day's sporting
+OL,22,     Faction.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -29,26 +31,26 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1788301081
+OL,0,        ECIMSBWebfax 1   F206A1788304686
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
-OL,5,G0230 Business Today
-OL,6,     FThe latest business news from
-OL,7,     FSingapore and around the world.
-OL,8,G0245 BBC Sport
-OL,9,     FA round-up of the day's sporting
-OL,10,     Faction.
-OL,11,G0300 Newsday
-OL,12,     FLive from Singapore, the latest
-OL,13,     Finternational news from the BBC.
-OL,14,G0330 Business Today
-OL,15,     FThe latest business news from
-OL,16,     FSingapore and around the world.
-OL,17,G0345 Asia Specific
-OL,18,     FAI is driving a data centre boom
-OL,19,     Facross Asia, but is it costing
-OL,20,     Fcommunities?
+OL,5,G0300 Newsday
+OL,6,     FLive from Singapore, the latest
+OL,7,     Finternational news from the BBC.
+OL,8,G0330 Business Today
+OL,9,     FThe latest business news from
+OL,10,     FSingapore and around the world.
+OL,11,G0345 Asia Specific
+OL,12,     FAI is driving a data centre boom
+OL,13,     Facross Asia, but is it costing
+OL,14,     Fcommunities?
+OL,15,G0400 Newsday
+OL,16,     FLive from Singapore, the latest
+OL,17,     Finternational news from the BBC.
+OL,18,G0430 Business Today
+OL,19,     FThe latest business news from
+OL,20,     FSingapore and around the world.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -56,24 +58,18 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1788301081
+OL,0,        ECIMSBWebfax 1   F206A1788304686
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
-OL,5,G0400 Newsday
-OL,6,     FLive from Singapore, the latest
-OL,7,     Finternational news from the BBC.
-OL,8,G0430 Business Today
-OL,9,     FThe latest business news from
-OL,10,     FSingapore and around the world.
-OL,11,G0445 Asia Specific
-OL,12,     FAI is driving a data centre boom
-OL,13,     Facross Asia, but is it costing
-OL,14,     Fcommunities?
-OL,15,G0500 BBC News
-OL,16,G0530 Business Today
-OL,17,     FThe latest business news from
-OL,18,     FLondon and around the world.
+OL,5,G0445 Asia Specific
+OL,6,     FAI is driving a data centre boom
+OL,7,     Facross Asia, but is it costing
+OL,8,     Fcommunities?
+OL,9,G0500 BBC News
+OL,10,G0530 Business Today
+OL,11,     FThe latest business news from
+OL,12,     FLondon and around the world.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
