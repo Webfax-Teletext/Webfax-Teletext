@@ -1,26 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1788193149
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1788236285
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FShowers
-OL,6,Facross England and Wales tending to
-OL,7,Fease away this evening, to leave a
-OL,8,Flargely dry and clear night. Scotland
-OL,9,Fand Northern Ireland though will see
-OL,10,Ffurther cloud and some outbreaks of
-OL,11,Frain. A mild night to come for most.
+OL,5,CToday:FApart from a few showers, much
+OL,6,Fof England and Wales will be dry with
+OL,7,Fsunny spells. Cloudier conditions
+OL,8,Ffurther north, with a band of rain
+OL,9,Fmoving southwards through the day and
+OL,10,Freaching northern England by evening.
+OL,11,FTemperatures near average.
 OL,12,
-OL,13,CTuesday:FApart from a few showers many
-OL,14,Fsouthern areas will be dry with sunny
-OL,15,Fspells. Cloudier further north with a
-OL,16,Fband of rain moving southwards
-OL,17,Fthroughout the day. Temperatures near
-OL,18,Faverage.
+OL,13,CTonight:FCloud across northern England
+OL,14,Fwill continue to sink south overnight.
+OL,15,FDry with clear spells elsewhere.
+OL,16,FOutbreaks of rain will push into
+OL,17,FNorthern Ireland and western Scotland
+OL,18,Flater in the night.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1788236285
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CWednesday:FShowers or longer spells of
+OL,6,Frain will move eastwards across many
+OL,7,Fcentral areas during the day. It will
+OL,8,Fremain dry but cloudy in the far north
+OL,9,Fand far southeast.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
