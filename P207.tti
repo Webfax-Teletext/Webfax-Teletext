@@ -1,8 +1,8 @@
-PN,20700
-SC,0000
+PN,20701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F207A1788389300
+PS,c008
+OL,0,        ECIMSBWebfax 1   F207A1788391082
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -10,18 +10,37 @@ OL,5,G2330 House of Lords
 OL,6,     FA statement in the House of Lords
 OL,7,     Fon the government's priorities on
 OL,8,     FWednesday 2 September.
-OL,9,G0015 House of Lords
+OL,9,G0030 House of Lords
 OL,10,     FThe debate on the committee stage
 OL,11,     Fof the Armed Forces Bill, on
 OL,12,     FWednesday 2 September.
-OL,13,G0215 House of Lords
+OL,13,G0255 House of Lords
 OL,14,     FThe debate on the committee stage
 OL,15,     Fof the Armed Forces Bill, on
 OL,16,     FWednesday 2 September.
-OL,17,G0415 House of Lords
-OL,18,     FThe debate on the committee stage
-OL,19,     Fof the Armed Forces Bill, on
+OL,17,G0440 House of Lords
+OL,18,     FThe debate on plant health and the
+OL,19,     FWindsor Framework Regulations on
 OL,20,     FWednesday 2 September.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,208,200,140,260,0,100
+PN,20702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F207A1788391082
+OL,1,V7c#####5Ww;js%7+ js5w{js%5
+OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
+OL,3,Vupppppp5CWednesday
+OL,5,G0530 Scottish Parliament
+OL,6,     FGeneral questions to ministers in
+OL,7,     Fthe Scottish government, from
+OL,8,     FTuesday 1 September.
+OL,9,G0550 House of Commons
+OL,10,     FDebate on the impact of strategic
+OL,11,     Flawsuits against public
+OL,12,     Fparticipation (SLAPPs).
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,208,200,140,260,0,100
