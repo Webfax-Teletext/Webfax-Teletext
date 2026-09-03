@@ -1,28 +1,46 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1788367673
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1788411325
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FOutbreaks of
-OL,6,Frain will move northeastwards across
-OL,7,Fthe northern half of the UK overnight,
-OL,8,Fstill affecting the Northern Isles
-OL,9,Flater. Clear spells and patchy light
-OL,10,Frain elsewhere, with some hill fog.
-OL,11,FBreezy, but warm and humid, especially
-OL,12,Fin the south.
-OL,13,
-OL,14,CThursday:FEarly rain clearing, and
-OL,15,Fcloud lifting to give some sunshine.
-OL,16,FHowever, further rain arriving in the
-OL,17,Fnorthwest, some heavy. Isolated
-OL,18,Fafternoon showers southern England.
-OL,19,FBreezy, but notably warm southeast
-OL,20,FEngland.
+OL,5,CToday:FSouthern England starts the day
+OL,6,Fcloudy with patchy drizzle. Elsewhere,
+OL,7,Flargely dry with sunny spells. Later,
+OL,8,Frain spreads into Northern Ireland,
+OL,9,Fsouthern Scotland and northern
+OL,10,FEngland, with blustery showers and
+OL,11,Fpossible thunderstorms in northwest
+OL,12,FScotland. Very warm southeast, average
+OL,13,Felsewhere.
+OL,14,
+OL,15,CTonight:FHeavy rain continues to
+OL,16,Faffect central areas before slowly
+OL,17,Fshifting towards the southeast later.
+OL,18,FClearer spells developing in the north
+OL,19,Fwith blustery showers for much of
+OL,20,Fwestern Scotland. Mild.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1788411325
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FRain clears the southeast
+OL,6,Fthrough the morning, leaving a mostly
+OL,7,Fdry day with bright spells. Blustery
+OL,8,Fshowers affect northern areas, easing
+OL,9,Flater. Strong winds in the north.
+OL,10,FTemperatures near normal.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
