@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,GUK AND WORLDAfrom BBC News
@@ -36,16 +36,16 @@ OL,9,G303FControversial Jackdaw gas field set
 OL,10,Fto be approved in weeks, sources say
 OL,11,A03-Sep
 OL,12,G
-OL,13,G304FSchools to close early for A66
-OL,14,Fcrash funeralA03-Sep
-OL,15,G
-OL,16,G305FReform UK promises #80bn cuts to
-OL,17,Fpublic spendingA03-Sep
-OL,18,G
-OL,19,G306FBritish army told to stop
-OL,20,Fnon-essential training exercises to
-OL,21,Fsave moneyA03-Sep
-OL,22,G
+OL,13,G304FBritish army told to stop
+OL,14,Fnon-essential training exercises to
+OL,15,Fsave moneyA03-Sep
+OL,16,G
+OL,17,G305FTrump hints US would not back UK
+OL,18,Fover Falkland Islands due to lack of
+OL,19,FIran war supportA03-Sep
+OL,20,G
+OL,21,F
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/39
 OL,24,AFirst NewsB Reg NewsCNat TVF Clean Feed
 FL,302,301,200,140,0,100
@@ -53,7 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AFarage senior aide filmed suggesting
@@ -79,7 +79,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AFarage senior aide filmed suggesting
@@ -95,7 +95,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AControversial Jackdaw gas field set to
@@ -117,7 +117,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AControversial Jackdaw gas field set to
@@ -142,21 +142,25 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ASchools to close early for A66 crash
-OL,4,Afuneral
+OL,3,ABritish army told to stop non-essential
+OL,4,Atraining exercises to save money
 OL,5,
-OL,6,FFour schools have said they will close
-OL,7,Fearly on Friday amid safety concerns
-OL,8,Fover a funeral linked to a crash which
-OL,9,Fkilled seven people.
-OL,11,FIt is understood the funeral of Jakub
-OL,12,FMatusiak, 23, one of five young men
-OL,13,Fkilled in the head-on collision with a
-OL,14,Fmarked police car on the A66, is due to
-OL,15,Ftake place in Middlesbrough.
+OL,6,FThe Army has been told to stop
+OL,7,F"non-essential" training exercises to
+OL,8,Fsave money, according to a defence
+OL,9,Fsource.
+OL,11,FIt will continue to train soldiers
+OL,12,Fpreparing to be deployed or on
+OL,13,Fdeployments - such as units sent to
+OL,14,FEstonia, the Falklands or Cyprus.
+OL,16,FBut units back in the UK and who are
+OL,17,Fnot preparing for a specific deployment
+OL,18,Fhave been told to cut back on
+OL,19,Fcollective training exercises due to
+OL,20,Ffinancial pressures.
 OL,23,APub: 03-SepQppppppppppppppppppppppG7/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
@@ -164,23 +168,15 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ASchools to close early for A66 crash
-OL,4,Afuneral
+OL,3,ABritish army told to stop non-essential
+OL,4,Atraining exercises to save money
 OL,5,
-OL,6,FThe crash happened near South Bank on
-OL,7,F22 August when a Volkswagen Passat
-OL,8,Ftravelled the wrong way on the dual
-OL,9,Fcarriageway and hit a police car. Two
-OL,10,Fpolice officers in the vehicle, PC
-OL,11,FMatthew Blades, 37, and PC Tom Clough,
-OL,12,F38, were also killed.
-OL,14,FHead teachers warned parents large
-OL,15,Fcrowds were expected to gather in the
-OL,16,FSouth Bank area for the funeral, with
-OL,17,Ftraffic disruption likely.
+OL,6,FIt comes as Prime Minister Andy Burnham
+OL,7,Ffaces pressure to increase spending on
+OL,8,Fdefence.
 OL,23,APub: 03-SepQppppppppppppppppppppppG8/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
@@ -188,7 +184,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AUS investigating if missile hit Iran
@@ -213,7 +209,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AUS investigating if missile hit Iran
@@ -235,7 +231,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AUN warns of 'supersized' El Nino as
@@ -262,7 +258,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AUN warns of 'supersized' El Nino as
@@ -279,7 +275,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ATransplanted pig kidney works in US
@@ -303,7 +299,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ATransplanted pig kidney works in US
@@ -320,7 +316,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q5 7575747575x0w1w1 w17571
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -349,7 +345,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q,. *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -378,7 +374,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q555pjsjjj js17kjc15 js57kj#4
 OL,2,W//%*// //%Q--% (.*.. *,$%**,%-,* %%**,!
 OL,3,GMAIN STORIESAfrom BBC News
@@ -407,7 +403,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(W)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -436,7 +432,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(E)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -465,7 +461,7 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-, *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -494,7 +490,7 @@ PN,11921
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Quzj#5w;jp%p05 jj#57+
 OL,2,W//%*// //%Q,.*,%%** %  -,** %-. (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -523,7 +519,7 @@ PN,11922
 SC,0022
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kjs1 wsj#57sj  w{j#57i
 OL,2,W//%*// //%Q%**,$ -,* %-.*,$%** %-& (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -552,7 +548,7 @@ PN,11923
 SC,0023
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -581,7 +577,7 @@ PN,11924
 SC,0024
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7k jjs%wsj  w{j#57i
 OL,2,W//%*// //%Q%* ** %-,*,$%** %-& (,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -610,7 +606,7 @@ PN,11925
 SC,0025
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Qwsj#%7k"k#j  w{j#57i
 OL,2,W//%*// //%Q,.*,%-. * *,$%** %-& (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -639,7 +635,7 @@ PN,11926
 SC,0026
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q5j 5w{j  wsjs1
 OL,2,W//%*// //%Q-.,%%**,$-,(,% ,,,,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -668,7 +664,7 @@ PN,11927
 SC,0027
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q7+jp5w{j#57kjs15  jjs1
 OL,2,W//%*// //%Q-.* %%** %%**,$-, *(,% ,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -697,7 +693,7 @@ PN,11928
 SC,0028
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,W5j 5Q5wsj  ws jkjs j#7kjs57k
 OL,2,W//%*// //%Q%,.*,$-, *.*  * %** %%* (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -726,7 +722,7 @@ PN,11929
 SC,0029
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CThursday
@@ -738,7 +734,7 @@ PN,11930
 SC,0030
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -757,7 +753,7 @@ PN,11931
 SC,0031
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CThursday
@@ -784,7 +780,7 @@ PN,11932
 SC,0032
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -808,7 +804,7 @@ PN,11933
 SC,0033
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -835,7 +831,7 @@ PN,11934
 SC,0034
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+js1
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CThursday
@@ -860,7 +856,7 @@ PN,11935
 SC,0035
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,V7c#####5Ww;js15j 557kj#4 #7!5j
 OL,2,V5!     5W%**,$-.,%%%**,!  % )&V(,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -889,7 +885,7 @@ PN,11936
 SC,0036
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,V7c#####5Ww;"k#js1 7kj#5ws
 OL,2,V5!     5W%* * *,$ -.* %-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -907,7 +903,7 @@ PN,11937
 SC,0037
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -924,7 +920,7 @@ PN,11938
 SC,0038
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -953,7 +949,7 @@ PN,11939
 SC,0039
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1788482874
+OL,0,        ECIMSBWebfax 1   F119A1788483338
 OL,1,V7c#####5W5jj#7k j#57kjs1
 OL,2,V5!     5W)&* %* *,%%**,$V,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
