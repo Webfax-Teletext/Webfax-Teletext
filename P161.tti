@@ -1,28 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1788455934
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1788491881
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRain, some
-OL,6,Fheavy, will move southeastwards
-OL,7,Fovernight from Northern Ireland and
-OL,8,Fsouthern Scotland to affect northern
-OL,9,FEngland, Wales and later central and
-OL,10,Fsouthwestern parts of England. Clearer
-OL,11,Ffurther north with blustery showers.
-OL,12,FDrier, but increasingly cloudy and
-OL,13,Fhumid further southeast.
-OL,14,
-OL,15,CFriday:FA weakening band of rain, with
-OL,16,Fbrisk winds will clear southeastwards
-OL,17,Ffrom southern England and Wales,
-OL,18,Fleaving a brighter, fresher day here.
-OL,19,FVery blustery further north, with
-OL,20,Fsunshine and showers.
+OL,5,CToday:FEarly cloud and rain clears the
+OL,6,Fsoutheast through the morning.
+OL,7,FOtherwise, sunny spells and scattered
+OL,8,Fshowers, with heavier, longer-lasting
+OL,9,Fshowers in Scotland. Strong winds
+OL,10,Facross the northern half of the UK and
+OL,11,Fhigh ground. Cooler and fresher than
+OL,12,Fprevious days.
+OL,13,
+OL,14,CTonight:FShowers affect northern and
+OL,15,Fnorthwestern areas. Elsewhere remains
+OL,16,Fmostly dry with long clear spells.
+OL,17,FCooler than the previous night, with
+OL,18,Fwinds gradually easing, especially
+OL,19,Facross southern areas.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1788491881
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FMostly dry with sunny
+OL,6,Fspells. A few showers affect the
+OL,7,Fnorthwest, with thicker cloud and rain
+OL,8,Flater. Breezy at first in the far
+OL,9,Fnorth before easing. Temperatures near
+OL,10,Faverage.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
