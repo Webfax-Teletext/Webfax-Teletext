@@ -2,7 +2,7 @@ PN,23601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1788758356
+OL,0,        ECIMSBWebfax 1   F236A1788772699
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -31,7 +31,7 @@ PN,23602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1788758356
+OL,0,        ECIMSBWebfax 1   F236A1788772699
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -58,7 +58,7 @@ PN,23603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1788758356
+OL,0,        ECIMSBWebfax 1   F236A1788772699
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -84,7 +84,7 @@ PN,23604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1788758356
+OL,0,        ECIMSBWebfax 1   F236A1788772699
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -111,7 +111,7 @@ PN,23605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1788758356
+OL,0,        ECIMSBWebfax 1   F236A1788772699
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -137,7 +137,7 @@ PN,23606
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1788758356
+OL,0,        ECIMSBWebfax 1   F236A1788772699
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -166,7 +166,7 @@ PN,23607
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1788758356
+OL,0,        ECIMSBWebfax 1   F236A1788772699
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -193,7 +193,7 @@ PN,23608
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1788758356
+OL,0,        ECIMSBWebfax 1   F236A1788772699
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -210,9 +210,11 @@ OL,14,G0330 Business Today
 OL,15,     FThe latest business news from
 OL,16,     FSingapore and around the world.
 OL,17,G0345 Asia Specific
-OL,18,     FInsights and conversations on the
-OL,19,     Fstories shaping Asia Pacific.
-OL,20,     FHosted by Mariko Oi.
+OL,18,     FCan haze wafting across borders in
+OL,19,     FSouth East Asia be stopped?
+OL,20,G0400 Newsday
+OL,21,     FLive from Singapore, the latest
+OL,22,     Finternational news from the BBC.
 OL,23,VppppppppppppppppppppppppppppppppppG8/9
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,0,100
@@ -220,24 +222,20 @@ PN,23609
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F236A1788758356
+OL,0,        ECIMSBWebfax 1   F236A1788772699
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CTuesday
-OL,5,G0400 Newsday
-OL,6,     FLive from Singapore, the latest
-OL,7,     Finternational news from the BBC.
-OL,8,G0430 Business Today
-OL,9,     FThe latest business news from
-OL,10,     FSingapore and around the world.
-OL,11,G0445 Asia Specific
-OL,12,     FInsights and conversations on the
-OL,13,     Fstories shaping Asia Pacific.
-OL,14,     FHosted by Mariko Oi.
-OL,15,G0500 BBC News
-OL,16,G0530 Business Today
-OL,17,     FThe latest business news from
-OL,18,     FLondon and around the world.
+OL,5,G0430 Business Today
+OL,6,     FThe latest business news from
+OL,7,     FSingapore and around the world.
+OL,8,G0445 Asia Specific
+OL,9,     FCan haze wafting across borders in
+OL,10,     FSouth East Asia be stopped?
+OL,11,G0500 BBC News
+OL,12,G0530 Business Today
+OL,13,     FThe latest business news from
+OL,14,     FLondon and around the world.
 OL,23,VppppppppppppppppppppppppppppppppppG9/9
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,237,200,140,260,0,100
