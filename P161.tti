@@ -1,26 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1788884320
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1788929258
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FBlustery
-OL,6,Fshowers will affect northern and some
-OL,7,Fwestern areas this evening. Both the
-OL,8,Fshowers and gusty winds will generally
-OL,9,Fease overnight, though North Sea
-OL,10,Fcoasts could also catch a shower
-OL,11,Flater. Elsewhere clear spells, and
-OL,12,Fturning chilly in rural areas.
-OL,13,
-OL,14,CWednesday:FThe odd shower will affect
-OL,15,Fthe far west of the UK and some North
-OL,16,FSea coasts on Wednesday, especially
-OL,17,Fduring the morning. Otherwise it looks
-OL,18,Ffine with some sunny spells.
+OL,5,CToday:FScattered showers gradually
+OL,6,Ffading leaving a largely dry and
+OL,7,Fbright day across the UK, with the
+OL,8,Fsunniest skies in Scotland. Breezy
+OL,9,Falong North Sea coasts but tending to
+OL,10,Fease later. Temperatures near or
+OL,11,Fperhaps a little below average.
+OL,12,
+OL,13,CTonight:FA largely dry and clear
+OL,14,Fnight, but cloud and rain will reach
+OL,15,Fthe far west later on in the night.
+OL,16,FFeeling chilly, especially in the
+OL,17,Fcountryside.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1788929258
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CThursday:FCloud and rain will spread
+OL,6,Ferratically eastwards throughout the
+OL,7,Fday. Rain turning heavier at times,
+OL,8,Fparticularly in the north, with the
+OL,9,Fsoutheast likely remaining dry until
+OL,10,Fafter dark.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
