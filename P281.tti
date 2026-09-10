@@ -1,17 +1,238 @@
-PN,28100
-SC,0000
+PN,28101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F281A1789013874
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1789017550
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CWednesday
-OL,5,G0505 Dickinson's Real Deal
-OL,6,     FIn Grimsby, the Duke discovers a
-OL,7,     Frock 'n' roll legend, Debbie
-OL,8,     FSerpell relives her childhood and
-OL,9,     FKaren Dalmeny has a secret
-OL,10,     Fadmirer.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,Vupppppp5CThursday
+OL,5,G0600 Good Morning Britain
+OL,6,G0930 Lorraine
+OL,7,     FEarly morning chat show presented
+OL,8,     Fby Lorraine Kelly, with celebrity
+OL,9,     Finterviews, entertainment news,
+OL,10,     Fcooking tips, fashion features and
+OL,11,     Fmusical guests.
+OL,12,G1000 This Morning
+OL,13,     FDaily magazine, featuring a mix of
+OL,14,     Fcelebrity chat, showbusiness news,
+OL,15,     Flifestyle features, topical
+OL,16,     Fdiscussion, health and beauty
+OL,17,     Fadvice and more
+OL,18,G1230 ITV Lunchtime News; Weather
+OL,19,G1250 STV News; Weather
+OL,23,VppppppppppppppppppppppppppppppppppG1/10
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1789017550
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G1300 STV Racing: Live from Doncaster
+OL,6,     FEd Chamberlin and Francesca Cumani
+OL,7,     Fpresent coverage of day one of the
+OL,8,     FSt Leger Festival, including the
+OL,9,     FMay Hill Stakes and the Park Hill
+OL,10,     FStakes. With analysis from Jason
+OL,11,     FWeaver and Leonna Mayor, reports
+OL,12,     Ffrom Oli Bell, Matt Chapman. and
+OL,13,     FLuke Harvey, and commentary by
+OL,14,     FRichard Hoiles
+OL,15,G1559 STV Weather Central
+OL,23,VppppppppppppppppppppppppppppppppppG2/10
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28103
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1789017550
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G1600 Tipping Point
+OL,6,     FBen Shephard hosts the quiz in
+OL,7,     Fwhich contestants answer questions
+OL,8,     Fto win turns on an arcade-style
+OL,9,     Fmachine. Dropping tokens down a
+OL,10,     Fchoice of four chutes, they hope
+OL,11,     Fto knock piles of them off a
+OL,12,     Fmoving shelf - and the more they
+OL,13,     Fcollect, the greater the prize
+OL,14,     Ffund. The player who has won the
+OL,15,     Fleast amount is then eliminated,
+OL,16,     Fand the last one standing competes
+OL,17,     Ffor a #10,000 jackpot
+OL,23,VppppppppppppppppppppppppppppppppppG3/10
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28104
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1789017550
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G1700 The Chase
+OL,6,     FBradley Walsh presents as James,
+OL,7,     FAimee, Liz and Sab pit their wits
+OL,8,     Fagainst one of the ruthless
+OL,9,     FChasers in the hope of winning a
+OL,10,     Fpotential prize pot worth
+OL,11,     Fthousands of pounds. They work as
+OL,12,     Fa team and play strategically to
+OL,13,     Fanswer general knowledge questions
+OL,14,     Fagainst the clock and race down
+OL,15,     Fthe game board to the exit without
+OL,16,     Fbeing caught
+OL,17,G1800 STV News at Six and Weather
+OL,18,     FIncluding regional weather
+OL,19,     Fforecast
+OL,20,G1830 ITV Evening News; Weather
+OL,23,VppppppppppppppppppppppppppppppppppG4/10
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28105
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1789017550
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G1930 Millionaire Hot Seat
+OL,6,     FJeremy Clarkson hosts the quiz
+OL,7,     Fwhere each episode sees six
+OL,8,     Fhopefuls compete for #1 million.
+OL,9,     FHowever, only one player can take
+OL,10,     Ftheir place in the Hot Seat at a
+OL,11,     Ftime and answer multiple-choice
+OL,12,     Fquestions to work their way up the
+OL,13,     FMoney Ladder
+OL,14,G2000 Emmerdale
+OL,15,     FCharity assigns a specific task to
+OL,16,     FMack, while Nicola's search
+OL,17,     Funcovers deeper financial ruin and
+OL,18,     FJoe makes a decision about his
+OL,19,     Fson's future
+OL,23,VppppppppppppppppppppppppppppppppppG5/10
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28106
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1789017550
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G2030 Coronation Street
+OL,6,     FBethany questions Jodie's motive
+OL,7,     Ffor visiting Sarah, Lucy explains
+OL,8,     Fher change of heart, Todd urges
+OL,9,     FKit to share his worries with his
+OL,10,     Ffamily, and Carla helps Betsy with
+OL,11,     Fher application
+OL,23,VppppppppppppppppppppppppppppppppppG6/10
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28107
+SC,0007
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1789017550
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G2100 Long Lost Family
+OL,6,     FTwo people search for the sisters
+OL,7,     Ftheir mothers never wanted to
+OL,8,     Fplace for adoption. Before
+OL,9,     FMichael's mother passed away, she
+OL,10,     Fasked him to find the daughter she
+OL,11,     Fplaced for adoption as a baby.
+OL,12,     FMichael believes he matched with
+OL,13,     Fher on a DNA website and is
+OL,14,     Fdesperate to find her. Years
+OL,15,     Fearlier, Melissa's mother told her
+OL,16,     Fabout an older sister who had been
+OL,17,     Fadopted as a baby. Now, with her
+OL,18,     Fmother's early onset dementia
+OL,19,     Fdiagnosis, Melissa is in a race
+OL,20,     Fagainst time to find her sister
+OL,21,     Fbefore it's too late. Davina
+OL,22,     FMcCall and Nicky Campbell present
+OL,23,VppppppppppppppppppppppppppppppppppG7/10
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28108
+SC,0008
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1789017550
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G2200 ITV News at Ten; Weather
+OL,6,G2230 STV News; Weather
+OL,7,G0105 Shop on TV
+OL,23,VppppppppppppppppppppppppppppppppppG8/10
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28109
+SC,0009
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1789017550
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G0300 The Chase Around the World
+OL,6,     FThe teams land in Barcelona to
+OL,7,     Ftake on the Vixen and the Menace,
+OL,8,     Fwho have set a series of quiz
+OL,9,     Fquestions that the teams must
+OL,10,     Fsolve to navigate across the city
+OL,11,     Fand find Bradley Walsh at the
+OL,12,     Ffinish line. Competition is fierce
+OL,13,     Fas teams do not want to finish
+OL,14,     Flast. If they do they face a
+OL,15,     Fhead-to-head showdown with the
+OL,16,     FChasers. The final pair will need
+OL,17,     Fto beat them to join the other
+OL,18,     Fteams and head onto the next city.
+OL,19,     FLose and it's the first flight
+OL,20,     Fhome
+OL,23,VppppppppppppppppppppppppppppppppppG9/10
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28110
+SC,0010
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1789017551
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G0355 Unwind with STV
+OL,6,     FDaily escape designed to calm the
+OL,7,     Fmind and encourage relaxation and
+OL,8,     Freflection
+OL,9,G0510 Dickinson's Real Deal
+OL,10,     FDavid and his dealers visit
+OL,11,     FTelford and set up shop in the
+OL,12,     FInternational Centre. Mark Stevens
+OL,13,     Fand Alison Chapman strike gold,
+OL,14,     Fand a furry ferret comes along to
+OL,15,     Fsweeten a deal. Stewart Hofgartner
+OL,16,     Fis keen on some gentlemen's travel
+OL,17,     Faccessories and not so keen on a
+OL,18,     Fdolly duo
+OL,23,VpppppppppppppppppppppppppppppppppG10/10
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
