@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,28 +24,28 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,GUK AND WORLDAfrom BBC News
-OL,5,G302FEngland's mayors to get power to
-OL,6,Fimpose tourist taxA10-Sep
+OL,5,G302FLabour mayors in England vow to cap
+OL,6,Ftourist tax at 5%A10-Sep
 OL,7,G
-OL,8,G303F'When England changed forever':
-OL,9,FBayeux Tapestry and its most famous
-OL,10,Fscene wow London viewersA10-Sep
+OL,8,G303FUse all powers necessary on
+OL,9,Fanti-migrant protests, home secretary
+OL,10,Ftells policeA10-Sep
 OL,11,G
-OL,12,G304FCatherine joins William as he says
-OL,13,Fsport can save lives from suicide
-OL,14,A09-Sep
+OL,12,G304F'When England changed forever':
+OL,13,FBayeux Tapestry and its most famous
+OL,14,Fscene wow London viewersA10-Sep
 OL,15,G
-OL,16,G305FFour hurt and seven arrested in
-OL,17,FBromley stabbingA10-Sep
-OL,18,G
-OL,19,G306FPolice and army mourn officer
-OL,20,Fkilled in crashA10-Sep
-OL,21,G
-OL,22,F
+OL,16,G305FCatherine joins William as he says
+OL,17,Fsport can save lives from suicide
+OL,18,A09-Sep
+OL,19,G
+OL,20,G306FFour hurt and seven arrested in
+OL,21,FBromley stabbingA10-Sep
+OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG2/39
 OL,24,AFirst NewsB Reg NewsCNat TVF Clean Feed
 FL,302,301,200,140,0,100
@@ -53,26 +53,23 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AEngland's mayors to get power to impose
-OL,4,Atourist tax
+OL,3,ALabour mayors in England vow to cap
+OL,4,Atourist tax at 5%
 OL,5,
-OL,6,FMayors in England will be given the
-OL,7,Fpower to impose a new fee on visitors'
-OL,8,Fovernight stays, in a move the
-OL,9,Fgovernment says will mean more money
-OL,10,Fcan be invested into local areas.
-OL,12,FUnder the plans, local leaders will be
-OL,13,Fable to bring in an uncapped levy,
+OL,6,FLabour's regional mayors in England
+OL,7,Fhave pledged to cap a new fee on
+OL,8,Fvisitors' overnight stays at 5%, after
+OL,9,Fhospitality bosses warned it could put
+OL,10,Fjobs at risk.
+OL,12,FLocal leaders are set to gain new
+OL,13,Fpowers to charge an uncapped levy,
 OL,14,Fdubbed a "tourist tax", as a percentage
 OL,15,Fof the cost of hotels, bed and
 OL,16,Fbreakfasts and other types of
-OL,17,Faccommodation rather than a flat fee.
-OL,19,FHospitality leaders have warned it will
-OL,20,Fput jobs at risk and hit families in
-OL,21,Fthe pocket.
+OL,17,Faccommodation.
 OL,23,APub: 10-SepQppppppppppppppppppppppG3/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -80,18 +77,21 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AEngland's mayors to get power to impose
-OL,4,Atourist tax
+OL,3,ALabour mayors in England vow to cap
+OL,4,Atourist tax at 5%
 OL,5,
-OL,6,FBut the government said it would
-OL,7,Fprotect budget holidays "by making sure
-OL,8,Flow-cost accommodation always pays
-OL,9,Flowest levy" and said the extra cash
-OL,10,Fcould be invested in high streets and
-OL,11,Flocal transport.
+OL,6,FBut the Labour mayors in 10 city
+OL,7,Fregions said they would voluntarily
+OL,8,Flimit the charge if they do apply it,
+OL,9,Fadding that they had listened to
+OL,10,Fconcerns over costs.
+OL,12,FReform UK's two regional mayors and the
+OL,13,Ftwo Conservative ones are likely to
+OL,14,Foppose any levy given criticism from
+OL,15,Ftheir national parties of the policy.
 OL,23,APub: 10-SepQppppppppppppppppppppppG4/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -99,7 +99,57 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
+OL,1,W5j 5Q7kjs15j 5ws
+OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
+OL,3,AUse all powers necessary on
+OL,4,Aanti-migrant protests, home secretary
+OL,5,Atells police
+OL,6,
+OL,7,FHome Secretary Shabana Mahmood has told
+OL,8,Fpolice chiefs that lessons must be
+OL,9,Flearned from how they handled last
+OL,10,Fweekend's anti-migrant protests in
+OL,11,FDover and Portsmouth - saying she
+OL,12,Fexpects officers to use all powers
+OL,13,Fnecessary.
+OL,15,FIn a meeting on Thursday she asked for
+OL,16,Freassurance that plans were in place
+OL,17,Ffor the police to move quickly and
+OL,18,Feffectively in dealing with far-right
+OL,19,Fgroups seeking to intimidate
+OL,20,Fcommunities.
+OL,23,APub: 10-SepQppppppppppppppppppppppG5/39
+OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
+FL,304,300,200,140,0,100
+PN,11906
+SC,0006
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 1   F119A1789061158
+OL,1,W5j 5Q7kjs15j 5ws
+OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
+OL,3,AUse all powers necessary on
+OL,4,Aanti-migrant protests, home secretary
+OL,5,Atells police
+OL,6,
+OL,7,FIt comes after masked activists brought
+OL,8,FDover to a standstill on Saturday and
+OL,9,Fin a protest on Sunday in Portsmouth
+OL,10,Fabout 200 people tried to block
+OL,11,Fmigrants being driven away for
+OL,12,Fprocessing.
+OL,14,FIn a summary of the meeting, the Home
+OL,15,FOffice said the protests brought
+OL,16,F"unacceptable disorder".
+OL,23,APub: 10-SepQppppppppppppppppppppppG6/39
+OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
+FL,304,300,200,140,0,100
+PN,11907
+SC,0007
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,A'When England changed forever': Bayeux
@@ -119,14 +169,14 @@ OL,18,F"out of reach" because of its cost and
 OL,19,FLondon location - and one man describes
 OL,20,Fthe "extreme queuing" to view the
 OL,21,Fexhibit
-OL,23,APub: 10-SepQppppppppppppppppppppppG5/39
+OL,23,APub: 10-SepQppppppppppppppppppppppG7/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
-FL,304,300,200,140,0,100
-PN,11906
-SC,0006
+FL,305,300,200,140,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,A'When England changed forever': Bayeux
@@ -135,124 +185,81 @@ OL,5,ALondon viewers
 OL,6,
 OL,7,FWant the best viewing experience? Get
 OL,8,Fup close and keep an eye on the birds.
-OL,9,FIf you missed tickets this time,
-OL,10,Fthere's still hope
-OL,12,FFifty-eight scenes, 737 animals, 620
-OL,13,Fmen, six women, and five (or maybe six)
-OL,14,Fhuman penises - the Bayeux Tapestry in
-OL,15,Fnumbers
-OL,23,APub: 10-SepQppppppppppppppppppppppG6/39
-OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
-FL,304,300,200,140,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
-OL,1,W5j 5Q7kjs15j 5ws
-OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ACatherine joins William as he says
-OL,4,Asport can save lives from suicide
-OL,5,
-OL,6,FThe Princess of Wales has made a
-OL,7,Fsurprise appearance alongside her
-OL,8,Fhusband the Prince of Wales, as he gave
-OL,9,Fan impassioned call to the sports
-OL,10,Fsector to help prevent suicides.
-OL,12,F"Sport can help save lives," Prince
-OL,13,FWilliam told sports players, mental
-OL,14,Fhealth charities and sports industry
-OL,15,Ffigures at Everton's football ground in
-OL,16,FLiverpool.
-OL,18,FHe was launching a project that wants
-OL,19,Fto use sport to help open conversations
-OL,20,Fand end the stigma surrounding mental
-OL,21,Fhealth.
-OL,23,APub: 09-SepQppppppppppppppppppppppG7/39
-OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
-FL,305,300,200,140,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
-OL,1,W5j 5Q7kjs15j 5ws
-OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ACatherine joins William as he says
-OL,4,Asport can save lives from suicide
-OL,5,
-OL,6,F"Sport has the ability to reach people
-OL,7,Fwho may never walk through the door of
-OL,8,Fa mental healthcare service," he said.
-OL,23,APub: 09-SepQppppppppppppppppppppppG8/39
+OL,9,FHere's everything else you need to know
+OL,11,FFifty-eight scenes, 737 animals, 620
+OL,12,Fmen, six women, and five (or maybe six)
+OL,13,Fhuman penises - the Bayeux Tapestry in
+OL,14,Fnumbers
+OL,23,APub: 10-SepQppppppppppppppppppppppG8/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
 PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AIran war won't end until after crucial
-OL,4,ANovember elections, says Trump
-OL,5,
-OL,6,FUS President Donald Trump has said he
-OL,7,Fdoes not think the Iran war will end
-OL,8,Funtil after November's midterm
-OL,9,Felections, adding that oil prices will
-OL,10,Fnot come down until then.
-OL,12,F"I think the war's going to end
-OL,13,Fimmediately after the election because
-OL,14,Fthey can't hold out any longer," Trump
-OL,15,Fsaid of Iran's leaders on Wednesday.
-OL,23,APub: 09-SepQppppppppppppppppppppppG9/39
+OL,3,APilot warned Amazon cargo plane going
+OL,4,Atoo fast before deadly crash, data
+OL,5,Ashows
+OL,6,
+OL,7,FA pilot onboard an Amazon cargo plane
+OL,8,Fthat crashed in Miami, Florida, on
+OL,9,FSunday noted it was going too fast
+OL,10,Fbefore it overshot a runway, crashed
+OL,11,Finto other vehicles and burst into
+OL,12,Fflames, new flight data shows.
+OL,14,FThe investigation update from the US
+OL,15,FNational Transportation Safety Board
+OL,16,F(NTSB) said one pilot warned the other
+OL,17,Fin the cockpit multiple times about
+OL,18,F"the aircraft's excessive speed" but
+OL,19,Fnoted "there was but not a consistent
+OL,20,Fverbal response", even as an altitude
+OL,21,Falarm sounded.
+OL,23,APub: 10-SepQppppppppppppppppppppppG9/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,313,300,200,140,0,100
 PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AIran war won't end until after crucial
-OL,4,ANovember elections, says Trump
-OL,5,
-OL,6,FHe made the comments as he headed to
-OL,7,FTexas for the Republican Party's first
-OL,8,Fmidterm election convention ` and
-OL,9,Frepeated them there, arguing that
-OL,10,Fshort-term economic pain was worth it
-OL,11,Fto prevent Iran from developing nuclear
-OL,12,Fweapons.
-OL,14,FTrump is facing falling polling numbers
-OL,15,Fand pressure from within his party to
-OL,16,Fend the war, which began when the US
-OL,17,Fand Israel attacked Iran in February.
-OL,23,APub: 09-SepQpppppppppppppppppppppG10/39
+OL,3,APilot warned Amazon cargo plane going
+OL,4,Atoo fast before deadly crash, data
+OL,5,Ashows
+OL,6,
+OL,7,FThe Boeing 767-300's landing speed was
+OL,8,F158 knots (292km/h), which experts have
+OL,9,Fnoted was on the high end.
+OL,11,FThe NTSB is leading the investigation
+OL,12,Finto the crash that killed five people
+OL,13,Fand injured five more.
+OL,23,APub: 10-SepQpppppppppppppppppppppG10/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,313,300,200,140,0,100
 PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AFive dead and 86 missing as
-OL,4,A'heartbreaking' fire breaks out on
-OL,5,APhilippines ferry
-OL,6,
-OL,7,FAt least five people have died and 86
-OL,8,Fare missing after a fire broke out on a
-OL,9,Fferry in the Philippines, the country's
-OL,10,Fcoastguard said.
-OL,12,FThe MV June Aster, which set off from
-OL,13,FManila ferrying 117 passengers and 17
-OL,14,Fcrew members, was nearing its
-OL,15,Fdestination at the tourist hotspot of
-OL,16,FCoron when it caught fire.
+OL,3,ATrump says every adult American will
+OL,4,Aget $5,000 if Republicans win midterms
+OL,5,
+OL,6,FUS President Donald Trump says he would
+OL,7,Foffer every adult American a $5,000
+OL,8,F(#3,700) payout if Republicans win both
+OL,9,Fchambers of Congress in November's
+OL,10,Fmidterm elections ` a plan that would
+OL,11,Fcost more than a trillion dollars.
+OL,13,FThe offer was made in a speech at the
+OL,14,Fparty's first-ever convention in the
+OL,15,Fmiddle of a US presidential term.
 OL,23,APub: 10-SepQpppppppppppppppppppppG11/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,314,300,200,140,0,100
@@ -260,24 +267,22 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AFive dead and 86 missing as
-OL,4,A'heartbreaking' fire breaks out on
-OL,5,APhilippines ferry
-OL,6,
-OL,7,FThe blaze, which erupted at 18:45 local
-OL,8,Ftime (10:45 GMT) Wednesday, was still
-OL,9,Fburning as of 11:00 on Thursday. The
-OL,10,Fstrong currents and thick smoke were a
-OL,11,Fchallenge to those working to
-OL,12,Fextinguish it, the coastguard said.
-OL,14,FA survivor said he floated in the sea
-OL,15,Ffor two hours before he got rescued.
-OL,16,F"It was cold. If the rescue had been
-OL,17,Fdelayed, I would definitely have died,"
-OL,18,FRoland Lerma told the BBC.
+OL,3,ATrump says every adult American will
+OL,4,Aget $5,000 if Republicans win midterms
+OL,5,
+OL,6,FHe gave no details on how it would work
+OL,7,For be funded ` saying only that the
+OL,8,Fmoney would have to be spent in the US.
+OL,9,FVice-President JD Vance has linked the
+OL,10,Fplan to the revenue that Trump has
+OL,11,Fraised from US tariffs on imported
+OL,12,Fgoods.
+OL,14,FDemocrats labelled it an "empty
+OL,15,Fpromise" and others questioned whether
+OL,16,Fsuch a pledge was legal or feasible.
 OL,23,APub: 10-SepQpppppppppppppppppppppG12/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,314,300,200,140,0,100
@@ -285,23 +290,25 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ARoyal family rift after popular TV news
-OL,4,Apresenter chosen to succeed Ugandan
-OL,5,Aking
+OL,3,AIsrael's Netanyahu to sue newspaper
+OL,4,Aover claim UAE warned him of 7 October
+OL,5,Aattack
 OL,6,
-OL,7,FA bitter succession dispute has erupted
-OL,8,Fin one of Uganda's traditional
-OL,9,Fkingdoms, days before the burial of its
-OL,10,Flate king, who until his death had been
-OL,11,Fthe world's youngest reigning monarch.
-OL,13,FKing Oyo Nyimba Kabamba Iguru Rukidi
-OL,14,FIV, who ruled the Tooro Kingdom for
-OL,15,Fmore than three decades, was undergoing
-OL,16,Fcancer treatment in the US when he died
-OL,17,Flast month aged 34.
+OL,7,FIsrael's Prime Minister Benjamin
+OL,8,FNetanyahu has told lawyers to begin
+OL,9,Fdefamation proceedings against an
+OL,10,FIsraeli newspaper over reports that the
+OL,11,Fleader of the United Arab Emirates
+OL,12,Fwarned him that Hamas was planning an
+OL,13,Foperation just days before the 7
+OL,14,FOctober 2023 attacks.
+OL,16,FAccording to book extracts published by
+OL,17,FHaaretz, UAE President Sheikh Mohammed
+OL,18,Fbin Zayed Al Nahyan had a phone call
+OL,19,Fwith Netanyahu that September.
 OL,23,APub: 10-SepQpppppppppppppppppppppG13/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,315,300,200,140,0,100
@@ -309,23 +316,22 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ARoyal family rift after popular TV news
-OL,4,Apresenter chosen to succeed Ugandan
-OL,5,Aking
+OL,3,AIsrael's Netanyahu to sue newspaper
+OL,4,Aover claim UAE warned him of 7 October
+OL,5,Aattack
 OL,6,
-OL,7,FRoyal clan elders have named popular TV
-OL,8,Fnews presenter Prince Edward Rukidi
-OL,9,FKijanangoma, 56, as the next monarch,
-OL,10,Fbut this has been rejected by Oyo's
-OL,11,Fclose family.
-OL,13,FHis sister, Princess Ruth Komuntale,
-OL,14,Fsaid the late king had left a will
-OL,15,Fwritten in 2022 naming his young son,
-OL,16,Fwhose identity has never been
-OL,17,Fdisclosed, as his successor.
+OL,7,FThe report said Netanyahu was warned
+OL,8,Fthat the then-Hamas chief in Gaza,
+OL,9,FYahya Sinwar, was planning a major
+OL,10,Foperation.
+OL,12,FNetanyahu's office said "no warning was
+OL,13,Fgiven to the prime minister from the
+OL,14,FUnited Arab Emirates before 7 October",
+OL,15,Fcalling the report part of a "sinister
+OL,16,Fplot".
 OL,23,APub: 10-SepQpppppppppppppppppppppG14/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,315,300,200,140,0,100
@@ -333,7 +339,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q5 7575747575x0w1w1 w17571
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -352,8 +358,8 @@ OL,16,G
 OL,17,G325FE-bike crime crackdown leads to 187
 OL,18,FarrestsA10-Sep
 OL,19,G
-OL,20,G326FCouncil ordered to disclose 24,000
-OL,21,FSara Sharif filesA10-Sep
+OL,20,G326FCouncil told to disclose 24,000
+OL,21,Fpages of Sara Sharif filesA10-Sep
 OL,22,G
 OL,23,QpppppppppppppppppppppppppppppppppG15/39
 OL,24,ANext PageB Reg NewsC Nat TVF Clean Feed
@@ -362,7 +368,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q,. *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -372,11 +378,11 @@ OL,7,G
 OL,8,G332FCannabis farmers use former BHS
 OL,9,Fstore for #1.3m cropA10-Sep
 OL,10,G
-OL,11,G333FDeveloper unveils plan to demolish
-OL,12,FSandbanks hotelA10-Sep
+OL,11,G333F'Violent' man who strangled women
+OL,12,Fin hotels jailedA10-Sep
 OL,13,G
-OL,14,G334FTip closed after suspected
-OL,15,Fexplosive foundA10-Sep
+OL,14,G334FDeveloper unveils plan to demolish
+OL,15,FSandbanks hotelA10-Sep
 OL,16,G
 OL,17,G335FProtesters warned over RNLI
 OL,18,Fdisruption riskA10-Sep
@@ -391,7 +397,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q555pjsjjj js17kjc15 js57kj#4
 OL,2,W//%*// //%Q--% (.*.. *,$%**,%-,* %%**,!
 OL,3,GMAIN STORIESAfrom BBC News
@@ -420,7 +426,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(W)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -449,7 +455,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(E)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -478,7 +484,7 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-, *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -507,15 +513,15 @@ PN,11921
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Quzj#5w;jp%p05 jj#57+
 OL,2,W//%*// //%Q,.*,%%** %  -,** %-. (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G381FDisappointment over stalled free
 OL,6,Fparking planA10-Sep
 OL,7,G
-OL,8,G382FEngland's mayors to get power to
-OL,9,Fimpose tourist taxA10-Sep
+OL,8,G382FLabour mayors in England vow to cap
+OL,9,Ftourist tax at 5%A10-Sep
 OL,10,G
 OL,11,G383FDriver arrested after motorcyclist
 OL,12,Fdies in crashA10-Sep
@@ -536,7 +542,7 @@ PN,11922
 SC,0022
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kjs1 wsj#57sj  w{j#57i
 OL,2,W//%*// //%Q%**,$ -,* %-.*,$%** %-& (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -565,7 +571,7 @@ PN,11923
 SC,0023
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -594,7 +600,7 @@ PN,11924
 SC,0024
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7k jjs%wsj  w{j#57i
 OL,2,W//%*// //%Q%* ** %-,*,$%** %-& (,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -623,7 +629,7 @@ PN,11925
 SC,0025
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Qwsj#%7k"k#j  w{j#57i
 OL,2,W//%*// //%Q,.*,%-. * *,$%** %-& (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -652,7 +658,7 @@ PN,11926
 SC,0026
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q5j 5w{j  wsjs1
 OL,2,W//%*// //%Q-.,%%**,$-,(,% ,,,,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -681,7 +687,7 @@ PN,11927
 SC,0027
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q7+jp5w{j#57kjs15  jjs1
 OL,2,W//%*// //%Q-.* %%** %%**,$-, *(,% ,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -710,7 +716,7 @@ PN,11928
 SC,0028
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,W5j 5Q5wsj  ws jkjs j#7kjs57k
 OL,2,W//%*// //%Q%,.*,$-, *.*  * %** %%* (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -739,7 +745,7 @@ PN,11929
 SC,0029
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CThursday
@@ -767,7 +773,7 @@ PN,11930
 SC,0030
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -794,7 +800,7 @@ PN,11931
 SC,0031
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CThursday
@@ -820,7 +826,7 @@ PN,11932
 SC,0032
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -846,7 +852,7 @@ PN,11933
 SC,0033
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -872,7 +878,7 @@ PN,11934
 SC,0034
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+js1
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CThursday
@@ -901,7 +907,7 @@ PN,11935
 SC,0035
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,V7c#####5Ww;js15j 557kj#4 #7!5j
 OL,2,V5!     5W%**,$-.,%%%**,!  % )&V(,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -929,7 +935,7 @@ PN,11936
 SC,0036
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,V7c#####5Ww;"k#js1 7kj#5ws
 OL,2,V5!     5W%* * *,$ -.* %-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -958,7 +964,7 @@ PN,11937
 SC,0037
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -987,7 +993,7 @@ PN,11938
 SC,0038
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
@@ -1013,7 +1019,7 @@ PN,11939
 SC,0039
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1789060719
+OL,0,        ECIMSBWebfax 1   F119A1789061158
 OL,1,V7c#####5W5jj#7k j#57kjs1
 OL,2,V5!     5W)&* %* *,%%**,$V,,,,,,,,,,,,,,
 OL,3,Vupppppp5CThursday
