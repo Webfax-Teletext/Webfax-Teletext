@@ -2,7 +2,7 @@ PN,48601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F486A1789501730
+OL,0,        ECIMSBWebfax 1   F486A1789503551
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -10,7 +10,7 @@ OL,5,G0600 EuroNews
 OL,6,G0750 news2day
 OL,7,G0800 Total Football
 OL,8,G0830 Junior Bake Off
-OL,9,G0910 Peek Zoo
+OL,9,G0910 Peek Zoo (As Gaeilge)
 OL,10,G0915 Peppa Muc
 OL,11,G0920 Peppa Muc
 OL,12,G0925 Peppa Muc
@@ -22,8 +22,8 @@ OL,17,G1005 Tomas agus a Chairde
 OL,18,G1015 Dizzy Deliveries
 OL,19,G1030 Bellie and Whizz 'Minding Me'
 OL,20,G1040 Let's Find Out
-OL,21,G1055 Maddie & Triggs
-OL,22,G1100 Maddie & Triggs
+OL,21,G1055 Maddie + Triggs
+OL,22,G1100 Maddie + Triggs
 OL,23,VppppppppppppppppppppppppppppppppppG1/7
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,487,200,140,260,0,100
@@ -31,7 +31,7 @@ PN,48602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F486A1789501730
+OL,0,        ECIMSBWebfax 1   F486A1789503551
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -47,7 +47,7 @@ OL,13,G1320 Deadly 60
 OL,14,G1350 Pablo Next Level
 OL,15,G1405 The Strange Chores
 OL,16,G1420 Storybud
-OL,17,G1425 A Kind of Spark
+OL,17,G1425 A Kind Of Spark
 OL,18,G1455 Pickle Storm
 OL,19,G1520 Malory Towers
 OL,20,G1550 Total Football
@@ -60,7 +60,7 @@ PN,48603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F486A1789501730
+OL,0,        ECIMSBWebfax 1   F486A1789503551
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -69,17 +69,16 @@ OL,6,     FThe young genius tries to build a
 OL,7,     Fnuclear reactor to power the
 OL,8,     Fneighbourhood. Georgie is
 OL,9,     Fheartbroken when he learns that
-OL,10,     FVeronica has a boyfriend
-OL,11,G1730 The Big Bang Theory
-OL,12,     FLeonard and Penny attempt to prove
-OL,13,     FSheldon wrong when he claims that
-OL,14,     Fhe and Amy have a superior
-OL,15,     Frelationship, and Howard is asked
-OL,16,     Fto throw the first pitch at a
-OL,17,     Fbaseball game
-OL,18,G1800 Shortland Street
-OL,19,     FMaeve clings to hope, and Logan
-OL,20,     Fgets a surprise
+OL,10,     FVeronica has a boyfriend.
+OL,11,G1730 Big Bang Theory
+OL,12,     FThe First Pitch Insufficiency:
+OL,13,     FLeonard and Penny attempt to prove
+OL,14,     FSheldon wrong when he claims that
+OL,15,     Fhe and Amy have a superior
+OL,16,     Frelationship.
+OL,17,G1800 Shortland Street
+OL,18,     FMaeve clings to hope. Logan gets a
+OL,19,     Fsurprise.
 OL,23,VppppppppppppppppppppppppppppppppppG3/7
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,487,200,140,260,0,100
@@ -87,24 +86,28 @@ PN,48604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F486A1789501730
+OL,0,        ECIMSBWebfax 1   F486A1789503551
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
 OL,5,G1830 Home and Away
-OL,6,     FAlf refuses to budge, Dana makes a
-OL,7,     Fbig decision, and Tane confronts
-OL,8,     FSonny
-OL,9,G1900 The Future of Nature
-OL,10,     FGlimpse into grasslands where the
-OL,11,     Fbiggest animal numbers are found,
-OL,12,     Fand see how animal life helps to
-OL,13,     Fdraw down carbon
-OL,14,G2000 Highclere: Behind Closed Doors
-OL,15,     FWhile the fictitious Downton Abbey
-OL,16,     Fcelebrated Christmas in style,
-OL,17,     Fthis year at Highclere is going to
-OL,18,     Fbe special
+OL,6,     FLevi runs through Eden's evolving
+OL,7,     Faplastic anemia case with Abigail.
+OL,8,     FThe symptoms returned quicker than
+OL,9,     Fexpected after her blood
+OL,10,     Ftransfusion, likely due to an
+OL,11,     Fimmune reaction.
+OL,12,G1900 The Future of Nature
+OL,13,     FGrasslands: Glimpse into
+OL,14,     Fgrasslands where the biggest
+OL,15,     Fanimal numbers are found, and see
+OL,16,     Fhow animal life helps to drawdown
+OL,17,     Fcarbon.
+OL,18,G2000 Highclere: Behind Closed Doors
+OL,19,     FWhile the fictitious Downton Abbey
+OL,20,     Fcelebrated Christmas in style,
+OL,21,     Fthis year at Highclere is going to
+OL,22,     Fbe special.
 OL,23,VppppppppppppppppppppppppppppppppppG4/7
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,487,200,140,260,0,100
@@ -112,7 +115,7 @@ PN,48605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F486A1789501730
+OL,0,        ECIMSBWebfax 1   F486A1789503551
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -122,13 +125,14 @@ OL,7,     FFaye Shortt dissect the rivalries,
 OL,8,     Fscandals, and jaw-dropping moments
 OL,9,     Fwhile the latest to leave the
 OL,10,     Fcastle share the highs and lows of
-OL,11,     Flife inside
+OL,11,     Flife inside.
 OL,12,G2130 The Lady
-OL,13,     FJane Andrews secures a job as a
-OL,14,     Froyal aide to Sarah, Duchess of
-OL,15,     FYork, and the two form a bond.
-OL,16,     FFact-based drama, starring Mia
-OL,17,     FMcKenna-Bruce and Natalie Dormer
+OL,13,     FJane Andrews' life changes
+OL,14,     Fovernight when she lands her dream
+OL,15,     Fjob in Buckingham Palace. At first
+OL,16,     Fout of her depth, Jane soon starts
+OL,17,     Fto form a close bond with the
+OL,18,     FDuchess of York.
 OL,23,VppppppppppppppppppppppppppppppppppG5/7
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,487,200,140,260,0,100
@@ -136,28 +140,27 @@ PN,48606
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F486A1789501730
+OL,0,        ECIMSBWebfax 1   F486A1789503551
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
 OL,5,G2230 The Lady
-OL,6,     FJane's composure starts to
-OL,7,     Ffracture and puts her position
-OL,8,     Fwith the duchess at risk, but a
-OL,9,     Flifeline appears in the shape of
-OL,10,     Fthe charismatic Tommy Cressman
+OL,6,     FWith Jane's fairytale under
+OL,7,     Fthreat, a lifeline appears in the
+OL,8,     Fshape of charismatic Tommy
+OL,9,     FCressman. Could he be her happy
+OL,10,     Fending?
 OL,11,G2330 Marie Antoinette
-OL,12,     FA high-profile arrest and the leak
-OL,13,     Fof the king's new tax plan risks
-OL,14,     Fthe royal couple's reputation,
-OL,15,     Fdelighting their enemies, both
-OL,16,     Frivals and republicans
+OL,12,     FWhen Marie Antoinette is
+OL,13,     Fimplicated in the theft of the
+OL,14,     Fdiamond necklace, she is
+OL,15,     Fdetermined to prove her innocence
+OL,16,     Fand punish those responsible.
 OL,17,G0030 NCIS
-OL,18,     FMembers of the Naval Criminal
-OL,19,     FInvestigative Service search for a
-OL,20,     Fmissing undercover agent in the
-OL,21,     Fmidst of an active hostage
-OL,22,     Fsituation
+OL,18,     FEmpty Nest: NCIS searches for a
+OL,19,     Fmissing undercover agent in the
+OL,20,     Fmidst of an active hostage
+OL,21,     Fsituation.
 OL,23,VppppppppppppppppppppppppppppppppppG6/7
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,487,200,140,260,0,100
@@ -165,17 +168,15 @@ PN,48607
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F486A1789501730
+OL,0,        ECIMSBWebfax 1   F486A1789503551
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
 OL,5,G0125 Grey's Anatomy
 OL,6,     FAmelia and Simone attempt to
 OL,7,     Fperform a high-stakes and
-OL,8,     Fgroundbreaking brain surgery,
-OL,9,     Fwhile Teddy and Bailey attend a
-OL,10,     Fmedical conference
-OL,11,G0215 EuroNews
+OL,8,     Fgroundbreaking brain surgery.
+OL,9,G0215 EuroNews
 OL,23,VppppppppppppppppppppppppppppppppppG7/7
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,487,200,140,260,0,100

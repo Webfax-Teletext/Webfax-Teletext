@@ -1,44 +1,23 @@
-PN,46201
-SC,0001
+PN,46200
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F462A1789501731
+PS,8008
+OL,0,        ECIMSBWebfax 1   F462A1789503551
 OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
 OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
 OL,3,Vupppppp5CTuesday
-OL,5,G2030 Nuacht
-OL,6,     FThe latest news headlines
-OL,7,G2100 RTE News: Nine O'Clock and Weather
-OL,8,     FThe latest national and
-OL,9,     Finternational news
-OL,10,G2135 Prime Time
-OL,11,     FIn-depth analysis of current
-OL,12,     Faffairs and topical reports
-OL,13,G2210 Latest News and Weather
-OL,14,G2300 7 La
-OL,15,     FPolitics and the economy, plus
-OL,16,     Fregional, national and
-OL,17,     Finternational affairs, and a
-OL,18,     Fdebate on the major issues of the
-OL,19,     Fday with a panel of analysts,
-OL,20,     Fexperts and political pundits
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,463,200,140,260,0,100
-PN,46202
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F462A1789501731
-OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
-OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
-OL,3,Vupppppp5CTuesday
-OL,5,G2325 Prime Time
-OL,6,     FIn-depth analysis of current
-OL,7,     Faffairs and topical reports
-OL,8,G0000 Nuacht
-OL,9,     FThe latest news headlines
-OL,10,G0025 EuroNews
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G2100 RTE News: Nine O'Clock
+OL,6,G2130 Latest News and Weather
+OL,7,G2205 The Late Debate
+OL,8,     FLive debate with the news and
+OL,9,     Fpolitical stories of the day.
+OL,10,     FPresented by Cormac O hEadhra.
+OL,11,G2300 Seacht La
+OL,12,     FSeacht La
+OL,13,G2325 Prime Time
+OL,14,     FAn in-depth analysis of current
+OL,15,     Fissues and topical reports.
+OL,16,G0000 EuroNews
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,463,200,140,260,0,100

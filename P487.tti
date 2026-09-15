@@ -2,28 +2,27 @@ PN,48701
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F487A1789501731
+OL,0,        ECIMSBWebfax 1   F487A1789503551
 OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
 OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
 OL,3,Vupppppp5CWednesday
-OL,5,G0025 EuroNews
-OL,6,G0700 Live: Morning Ireland
-OL,7,     FNews, business, sports, travel and
-OL,8,     Fa review of the morning's papers
-OL,9,G0900 Today with David McCullagh
-OL,10,G1030 Mass
-OL,11,G1100 Latest News and Weather
-OL,12,G1200 Latest News and Weather
-OL,13,G1300 RTE News: One O'Clock and Weather
-OL,14,     FNational and international news
+OL,5,G0600 EuroNews
+OL,6,G0700 Morning Ireland
+OL,7,     FMorning news programme.
+OL,8,G0900 Today with David McCullagh
+OL,9,     FThe Today show live from RTE Radio
+OL,10,     F1.
+OL,11,G1030 Mass
+OL,12,G1100 Latest News and Weather
+OL,13,G1200 Latest News and Weather
+OL,14,G1300 RTE News: One O'clock
 OL,15,G1330 Latest News and Weather
 OL,16,G1400 Leaders' Questions
-OL,17,     FLive coverage of Question Time in
-OL,18,     Fthe Dail and the latest reactions
-OL,19,     Fto political developments
-OL,20,G1435 Latest News and Weather
-OL,21,G1500 Latest News and Weather
-OL,22,G1600 Latest News and Weather
+OL,17,     FCoverage of Question Time in the
+OL,18,     FDail.
+OL,19,G1435 Latest News and Weather
+OL,20,G1500 Latest News and Weather
+OL,21,G1600 Latest News and Weather
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,488,200,140,260,0,100
@@ -31,28 +30,24 @@ PN,48702
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F487A1789501731
+OL,0,        ECIMSBWebfax 1   F487A1789503551
 OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
 OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
 OL,3,Vupppppp5CWednesday
 OL,5,G1620 news2day
 OL,6,     FDomestic and international news
 OL,7,     Fitems of interest to younger
-OL,8,     Fviewers
+OL,8,     Fviewers.
 OL,9,G1630 Latest News and Weather
-OL,10,G1700 Nuacht
-OL,11,     FThe latest news headlines
-OL,12,G1710 Latest News and Weather
-OL,13,G1740 Nuacht
-OL,14,     FThe latest news headlines
-OL,15,G1755 RTE News
-OL,16,G1801 RTE News: Six One and Weather
-OL,17,     FThe latest national and
-OL,18,     Finternational headlines
-OL,19,G1900 Latest News and Weather
-OL,20,G2000 Latest News and Weather
-OL,21,G2030 Nuacht
-OL,22,     FThe latest news headlines
+OL,10,G1700 Nuacht RTE
+OL,11,G1710 Latest News and Weather
+OL,12,G1740 Nuacht RTE
+OL,13,G1755 RTE News with Signing
+OL,14,G1801 RTE News: Six One
+OL,15,G1900 Latest News and Weather
+OL,16,G2000 Latest News and Weather
+OL,17,G2030 Nuacht RTE
+OL,18,G2100 RTE News: Nine O'Clock
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,488,200,140,260,0,100
@@ -60,17 +55,17 @@ PN,48703
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F487A1789501731
+OL,0,        ECIMSBWebfax 1   F487A1789503551
 OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
 OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
 OL,3,Vupppppp5CWednesday
-OL,5,G2100 RTE News: Nine O'Clock and Weather
-OL,6,     FThe latest national and
-OL,7,     Finternational news
-OL,8,G2130 Latest News and Weather
-OL,9,G2200 Latest News and Weather
-OL,10,G2300 Nuacht
-OL,11,     FThe latest news headlines
+OL,5,G2130 RTE Investigates
+OL,6,     FAcross three decades, Irish
+OL,7,     Fsociety has been shaken by
+OL,8,     Fpolicing scandals. Reform was
+OL,9,     Fpromised, but did it happen?
+OL,10,G2250 Latest News and Weather
+OL,11,G2300 Nuacht RTE
 OL,12,G2325 EuroNews
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
