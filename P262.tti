@@ -2,7 +2,7 @@ PN,26201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F262A1789489116
+OL,0,        ECIMSBWebfax 1   F262A1789490872
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,$ SCOTLAND
 OL,3,Vupppppp5CTuesday
@@ -31,7 +31,7 @@ PN,26202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F262A1789489116
+OL,0,        ECIMSBWebfax 1   F262A1789490872
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,$ SCOTLAND
 OL,3,Vupppppp5CTuesday
@@ -43,10 +43,10 @@ OL,9,G2200 BBC News at Ten
 OL,10,     FThe latest national and
 OL,11,     Finternational news from the BBC.
 OL,12,G2230 Reporting Scotland
-OL,13,G2240 Sportscene: Premiership Highlights
+OL,13,G2245 Sportscene: Premiership Highlights
 OL,14,     FAction and reaction from the
 OL,15,     FScottish Premiership.
-OL,16,G2325 Scotcast
+OL,16,G2330 Scotcast
 OL,17,     FWhat is going on with the data
 OL,18,     Fcentres debate, and can we get
 OL,19,     Fcontrol of AI growth?
@@ -57,16 +57,16 @@ PN,26203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F262A1789489116
+OL,0,        ECIMSBWebfax 1   F262A1789490872
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,$ SCOTLAND
 OL,3,Vupppppp5CTuesday
-OL,5,G2355 Sicario
+OL,5,G0000 Sicario
 OL,6,     FFBI special agent Kate Macer is
 OL,7,     Frecruited to help flush out a
 OL,8,     Fcartel drug lord.
-OL,9,G0150 Weather for the Week Ahead
-OL,10,G0155 Joins BBC News
+OL,9,G0155 Weather for the Week Ahead
+OL,10,G0200 Joins BBC News
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,263,260,140,200,0,100
