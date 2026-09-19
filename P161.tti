@@ -1,25 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1789748867
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1789793453
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy
-OL,6,Facross many central and southern areas
-OL,7,Fwith outbreaks of rain or drizzle at
-OL,8,Ftimes. Clear spells following across
-OL,9,Fmany northern areas, with blustery
-OL,10,Fshowers in the far northwest.
-OL,11,
-OL,12,CSaturday:FCloud and patchy rain or
-OL,13,Fdrizzle linger across southern England
-OL,14,Fand Wales, though brighter in the
-OL,15,Feast. Elsewhere, sunny spells and
-OL,16,Fblustery showers. Windy across
-OL,17,Fnorthern areas.
+OL,5,CToday:FA cloudy start in the south
+OL,6,Fwith outbreaks of rain. Staying
+OL,7,Flargely cloudy in southern England and
+OL,8,FWales with rain at times. Sunny spells
+OL,9,Felsewhere and showers across Scotland.
+OL,10,FAnother windy day but feeling warm in
+OL,11,Fany sunshine.
+OL,12,
+OL,13,CTonight:FStaying cloudy and mild in
+OL,14,Fthe south tonight with a few outbreaks
+OL,15,Fof rain possible. A fresher feel in
+OL,16,Fthe north with clear spells. Winds
+OL,17,Feasing.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1789793453
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FRain clears to the south by
+OL,6,Fmorning, leaving a drier and brighter
+OL,7,Fday with lighter winds. A few showers
+OL,8,Fcontinue in Scotland. Feeling pleasant
+OL,9,Fin the sunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
