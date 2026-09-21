@@ -1,41 +1,25 @@
-PN,27101
-SC,0001
+PN,27100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F271A1790025506
+PS,8008
+OL,0,        ECIMSBWebfax 1   F271A1790027288
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,$FNE/CUMBRIA
 OL,3,Vupppppp5CMonday
-OL,5,G2200 BBC News at Ten
-OL,6,     FThe latest national and
-OL,7,     Finternational news from the BBC.
-OL,8,G2230 Look North (North East and
-OL,9,G     Cumbria)
-OL,10,G2240 Have I Got News for You
-OL,11,     FVictoria Coren Mitchell is the
-OL,12,     Fhost, with guest panellists Sheila
-OL,13,     FHancock and Miles Jupp.
-OL,14,G2310 The Crime I Can't Forget
-OL,15,     FDetectives investigate a fatal
-OL,16,     Ffire that claims the lives of a
-OL,17,     Fmother and her baby.
-OL,18,G0000 Wisdom of the Crowd
-OL,19,     FJohn Bishop hosts as players take
-OL,20,     Fon the audience to win up to
-OL,21,     F#30,000.
-OL,22,G0045 Weather for the Week Ahead
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page  BReg TV CClean Feed  FNat TV
-FL,272,260,140,200,0,100
-PN,27102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F271A1790025506
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,$FNE/CUMBRIA
-OL,3,Vupppppp5CMonday
-OL,5,G0050 Joins BBC News
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G2240 Have I Got News for You
+OL,6,     FVictoria Coren Mitchell is the
+OL,7,     Fhost, with guest panellists Sheila
+OL,8,     FHancock and Miles Jupp.
+OL,9,G2310 The Crime I Can't Forget
+OL,10,     FDetectives investigate a fatal
+OL,11,     Ffire that claims the lives of a
+OL,12,     Fmother and her baby.
+OL,13,G0000 Wisdom of the Crowd
+OL,14,     FJohn Bishop hosts as players take
+OL,15,     Fon the audience to win up to
+OL,16,     F#30,000.
+OL,17,G0045 Weather for the Week Ahead
+OL,18,G0050 Joins BBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,272,260,140,200,0,100

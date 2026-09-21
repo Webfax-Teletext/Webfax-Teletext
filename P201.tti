@@ -1,42 +1,25 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1790025507
+PS,8008
+OL,0,        ECIMSBWebfax 1   F201A1790027289
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CMonday
-OL,5,G2200 BBC News at Ten
-OL,6,     FThe latest national and
-OL,7,     Finternational news from the BBC.
-OL,8,G2230 BBC London
-OL,9,     FThe latest news, sport and weather
-OL,10,     Ffrom London.
-OL,11,G2240 Have I Got News for You
-OL,12,     FVictoria Coren Mitchell is the
-OL,13,     Fhost, with guest panellists Sheila
-OL,14,     FHancock and Miles Jupp.
-OL,15,G2310 The Crime I Can't Forget
-OL,16,     FDetectives investigate a fatal
-OL,17,     Ffire that claims the lives of a
-OL,18,     Fmother and her baby.
-OL,19,G0000 Wisdom of the Crowd
-OL,20,     FJohn Bishop hosts as players take
-OL,21,     Fon the audience to win up to
-OL,22,     F#30,000.
-OL,23,FBBC One regions: P260VppppppppppppG1/2
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1790025507
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CMonday
-OL,5,G0045 Weather for the Week Ahead
-OL,6,G0050 Joins BBC News
-OL,23,FBBC One regions: P260VppppppppppppG2/2
+OL,5,G2240 Have I Got News for You
+OL,6,     FVictoria Coren Mitchell is the
+OL,7,     Fhost, with guest panellists Sheila
+OL,8,     FHancock and Miles Jupp.
+OL,9,G2310 The Crime I Can't Forget
+OL,10,     FDetectives investigate a fatal
+OL,11,     Ffire that claims the lives of a
+OL,12,     Fmother and her baby.
+OL,13,G0000 Wisdom of the Crowd
+OL,14,     FJohn Bishop hosts as players take
+OL,15,     Fon the audience to win up to
+OL,16,     F#30,000.
+OL,17,G0045 Weather for the Week Ahead
+OL,18,G0050 Joins BBC News
+OL,23,FBBC One regions: P260Vppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100
