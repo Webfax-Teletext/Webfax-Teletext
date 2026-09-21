@@ -2,26 +2,27 @@ PN,46401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F464A1790027289
+OL,0,        ECIMSBWebfax 1   F464A1790034483
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CMonday
-OL,5,G2230 Scannan: The Burial
-OL,6,     FScannan: The Burial
-OL,7,G0043 An Aimsir Laithreach
-OL,8,     FAimsir reigiunach agus naisiunta.
-OL,9,     F(National and regional weather.)
-OL,10,G0045 Call My Agent!
-OL,11,     FTa se in am do na tuairisci
-OL,12,     Fdeireadh bliana agus ta an
-OL,13,     Fghniomhaireacht i gcruachas!
-OL,14,     F(End-of-year reports are coming
-OL,15,     Fand the agency is in turmoil!)
-OL,16,G0200 Nuacht TG4
-OL,17,     FMorimeachtai an lae o Aonad
-OL,18,     FNuachta TG4. (The day's main news
-OL,19,     Fstories from a regional, national
-OL,20,     Fand international perspective.)
+OL,5,G0045 Call My Agent!
+OL,6,     FTa se in am do na tuairisci
+OL,7,     Fdeireadh bliana agus ta an
+OL,8,     Fghniomhaireacht i gcruachas!
+OL,9,     F(End-of-year reports are coming
+OL,10,     Fand the agency is in turmoil!)
+OL,11,G0200 Nuacht TG4
+OL,12,     FMorimeachtai an lae o Aonad
+OL,13,     FNuachta TG4. (The day's main news
+OL,14,     Fstories from a regional, national
+OL,15,     Fand international perspective.)
+OL,16,G0230 Laochra Gael
+OL,17,     FIs e Anthony Molloy, peileadoir
+OL,18,     Fmor Dhun na nGall, a bheidh faoi
+OL,19,     Fchaibidil. (Laochra Gael continues
+OL,20,     Fwith the story of Donegal
+OL,21,     Ffootballer, Anthony Molloy.)
 OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,466,200,140,260,0,100
@@ -29,25 +30,19 @@ PN,46402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F464A1790027289
+OL,0,        ECIMSBWebfax 1   F464A1790034483
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CMonday
-OL,5,G0230 Laochra Gael
-OL,6,     FIs e Anthony Molloy, peileadoir
-OL,7,     Fmor Dhun na nGall, a bheidh faoi
-OL,8,     Fchaibidil. (Laochra Gael continues
-OL,9,     Fwith the story of Donegal
-OL,10,     Ffootballer, Anthony Molloy.)
-OL,11,G0330 GAA 2026
-OL,12,     FGAA 2026
-OL,13,G0425 Mo Thir Mo Thuairim
-OL,14,     FMo Thir Mo Thuairim
-OL,15,G0450 France 24
-OL,16,     FCaineal nuachta 24 uair an chloig
-OL,17,     Fna Fraince ata i France 24.
-OL,18,     F(FRANCE 24 is France's 24 hour
-OL,19,     Finternational news channel.)
+OL,5,G0330 GAA 2026
+OL,6,     FGAA 2026
+OL,7,G0425 Mo Thir Mo Thuairim
+OL,8,     FMo Thir Mo Thuairim
+OL,9,G0450 France 24
+OL,10,     FCaineal nuachta 24 uair an chloig
+OL,11,     Fna Fraince ata i France 24.
+OL,12,     F(FRANCE 24 is France's 24 hour
+OL,13,     Finternational news channel.)
 OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,466,200,140,260,0,100
