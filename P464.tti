@@ -2,23 +2,27 @@ PN,46401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F464A1790016496
+OL,0,        ECIMSBWebfax 1   F464A1790020096
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CMonday
-OL,5,G1930 GAA 2026
-OL,6,     FGAA 2026
-OL,7,G2030 Trasna na dTonnta
-OL,8,     FTrasna na dTonnta
-OL,9,G2100 Eire & Taisteal
-OL,10,     FEire & Taisteal
-OL,11,G2200 Mo Thir Mo Thuairim
-OL,12,     FMo Thir Mo Thuairim
-OL,13,G2230 Scannan: The Burial
-OL,14,     FScannan: The Burial
-OL,15,G0043 An Aimsir Laithreach
-OL,16,     FAimsir reigiunach agus naisiunta.
-OL,17,     F(National and regional weather.)
+OL,5,G2030 Trasna na dTonnta
+OL,6,     FTrasna na dTonnta
+OL,7,G2100 Eire & Taisteal
+OL,8,     FEire & Taisteal
+OL,9,G2200 Mo Thir Mo Thuairim
+OL,10,     FMo Thir Mo Thuairim
+OL,11,G2230 Scannan: The Burial
+OL,12,     FScannan: The Burial
+OL,13,G0043 An Aimsir Laithreach
+OL,14,     FAimsir reigiunach agus naisiunta.
+OL,15,     F(National and regional weather.)
+OL,16,G0045 Call My Agent!
+OL,17,     FTa se in am do na tuairisci
+OL,18,     Fdeireadh bliana agus ta an
+OL,19,     Fghniomhaireacht i gcruachas!
+OL,20,     F(End-of-year reports are coming
+OL,21,     Fand the agency is in turmoil!)
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,466,200,140,260,0,100
@@ -26,27 +30,25 @@ PN,46402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F464A1790016496
+OL,0,        ECIMSBWebfax 1   F464A1790020096
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CMonday
-OL,5,G0045 Call My Agent!
-OL,6,     FTa se in am do na tuairisci
-OL,7,     Fdeireadh bliana agus ta an
-OL,8,     Fghniomhaireacht i gcruachas!
-OL,9,     F(End-of-year reports are coming
-OL,10,     Fand the agency is in turmoil!)
-OL,11,G0200 Nuacht TG4
-OL,12,     FMorimeachtai an lae o Aonad
-OL,13,     FNuachta TG4. (The day's main news
-OL,14,     Fstories from a regional, national
-OL,15,     Fand international perspective.)
-OL,16,G0230 Laochra Gael
-OL,17,     FIs e Anthony Molloy, peileadoir
-OL,18,     Fmor Dhun na nGall, a bheidh faoi
-OL,19,     Fchaibidil. (Laochra Gael continues
-OL,20,     Fwith the story of Donegal
-OL,21,     Ffootballer, Anthony Molloy.)
+OL,5,G0200 Nuacht TG4
+OL,6,     FMorimeachtai an lae o Aonad
+OL,7,     FNuachta TG4. (The day's main news
+OL,8,     Fstories from a regional, national
+OL,9,     Fand international perspective.)
+OL,10,G0230 Laochra Gael
+OL,11,     FIs e Anthony Molloy, peileadoir
+OL,12,     Fmor Dhun na nGall, a bheidh faoi
+OL,13,     Fchaibidil. (Laochra Gael continues
+OL,14,     Fwith the story of Donegal
+OL,15,     Ffootballer, Anthony Molloy.)
+OL,16,G0330 GAA 2026
+OL,17,     FGAA 2026
+OL,18,G0425 Mo Thir Mo Thuairim
+OL,19,     FMo Thir Mo Thuairim
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,466,200,140,260,0,100
@@ -54,19 +56,15 @@ PN,46403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F464A1790016496
+OL,0,        ECIMSBWebfax 1   F464A1790020096
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CMonday
-OL,5,G0330 GAA 2026
-OL,6,     FGAA 2026
-OL,7,G0425 Mo Thir Mo Thuairim
-OL,8,     FMo Thir Mo Thuairim
-OL,9,G0450 France 24
-OL,10,     FCaineal nuachta 24 uair an chloig
-OL,11,     Fna Fraince ata i France 24.
-OL,12,     F(FRANCE 24 is France's 24 hour
-OL,13,     Finternational news channel.)
+OL,5,G0450 France 24
+OL,6,     FCaineal nuachta 24 uair an chloig
+OL,7,     Fna Fraince ata i France 24.
+OL,8,     F(FRANCE 24 is France's 24 hour
+OL,9,     Finternational news channel.)
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,466,200,140,260,0,100
