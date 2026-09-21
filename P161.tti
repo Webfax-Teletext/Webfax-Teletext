@@ -1,41 +1,25 @@
-PN,16101
-SC,0001
+PN,16100
+SC,0000
 CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F161A1789964732
-OL,1,Wj5hw1~{4k7juhw1{$             G1/2
+PS,8008
+OL,0,        ECIMSBWebfax 1   F161A1790009265
+OL,1,Wj5hw1~{4k7juhw1{$
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CToday:FDry, warm and sunny in the
-OL,6,Fsouth with light winds. Cloud
-OL,7,Fthickening in the north and west, with
-OL,8,Fpatchy light rain possible at times.
-OL,9,FFeeling warm where the sunshine
-OL,10,Fdevelops.
-OL,11,
-OL,12,CTonight:FStaying cloudy in the north
-OL,13,Fand west with patchy drizzle possible
-OL,14,Fwhere the cloud thickens. Clear spells
-OL,15,Felsewhere with mist and fog patches
-OL,16,Fpossible.
-OL,23,QppppppppppppppppppppGSource: Met Office
-OL,24,ANext Page  BWeather  CReg News  FReg TV
-FL,162,160,301,260,100,100
-PN,16102
-SC,0002
-CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F161A1789964732
-OL,1,Wj5hw1~{4k7juhw1{$             G2/2
-OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
-OL,3,GUK weather for today and tomorrow
-OL,4,
-OL,5,CTuesday:FCloudy for many with a few
-OL,6,Fbright spells at times. Rain moving
-OL,7,Finto northwest Scotland and Northern
-OL,8,FIreland through the day. Rather sunny
-OL,9,Fand warm in the southeast.
+OL,5,CThis Evening and Tonight:FStaying
+OL,6,Fcloudy in the north and west with
+OL,7,Fpatchy drizzle possible where the
+OL,8,Fcloud thickens. Dry elsewhere with
+OL,9,Fclear breaks in the south and east.
+OL,10,FThese leading to a risk of some mist
+OL,11,Fand fog patches developing by dawn.
+OL,12,
+OL,13,CTuesday:FCloudy for many with a few
+OL,14,Fbright spells at times. Rain moving
+OL,15,Finto northwest Scotland and Northern
+OL,16,FIreland through the day. Rather sunny
+OL,17,Fand warm in the southeast.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
