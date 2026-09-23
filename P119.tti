@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,GUK AND WORLDAfrom BBC News
@@ -35,17 +35,17 @@ OL,8,G
 OL,9,G303FHome secretary hits out at
 OL,10,F'unacceptable' migrant landingsA23-Sep
 OL,11,G
-OL,12,G304FTwo pilots eject and parachute out
-OL,13,Fof RAF plane before crashA23-Sep
-OL,14,G
-OL,15,G305FUK to review Chagos Islands deal
-OL,16,Fover lack of US support, Streeting
-OL,17,Ftells BBCA23-Sep
-OL,18,G
-OL,19,G306FFamily tribute to 'devoted' mum and
-OL,20,F'precious' children who died in fire
-OL,21,A23-Sep
-OL,22,G
+OL,12,G304FRAF pauses fighter jet training
+OL,13,Fafter two pilots eject from plane
+OL,14,Fbefore crashA23-Sep
+OL,15,G
+OL,16,G305FUK to review Chagos Islands deal
+OL,17,Fover lack of US support, Streeting
+OL,18,Ftells BBCA23-Sep
+OL,19,G
+OL,20,F
+OL,21,F
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/39
 OL,24,AFirst NewsB Reg NewsCNat TVF Clean Feed
 FL,302,301,200,140,0,100
@@ -53,7 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AUK military jamming other nations'
@@ -81,7 +81,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AUK military jamming other nations'
@@ -99,7 +99,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AHome secretary hits out at
@@ -125,7 +125,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AHome secretary hits out at
@@ -144,26 +144,25 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ATwo pilots eject and parachute out of
-OL,4,ARAF plane before crash
-OL,5,
-OL,6,FTwo pilots ejected and parachuted out
-OL,7,Fof their plane before the RAF training
-OL,8,Faircraft crashed and burst into flames,
-OL,9,Fappearing to narrowly miss homes.
-OL,11,FNorth Wales Police said the pilots of
-OL,12,Fthe RAF Hawk T2 aircraft were being
-OL,13,Ftreated for minor injuries following
-OL,14,Fthe incident in the Pencarnisiog area
-OL,15,Fof Anglesey.
-OL,17,FThe force said helicopters from the
-OL,18,FCoastguard and the Wales Air Ambulance
-OL,19,Fwere sent to the scene close to RAF
-OL,20,FValley on the island. The pilots have
-OL,21,Fbeen taken to Birmingham for treatment.
+OL,3,ARAF pauses fighter jet training after
+OL,4,Atwo pilots eject from plane before
+OL,5,Acrash
+OL,6,
+OL,7,FHigh-speed Hawk fighter jet training
+OL,8,Fhas been "temporarily" paused as a
+OL,9,F"precautionary measure", the RAF has
+OL,10,Fsaid, after two of its pilots ejected
+OL,11,Fand parachuted out of their plane
+OL,12,Fmoments before it crashed and burst
+OL,13,Finto flames.
+OL,15,FNorth Wales Police said the pilots of
+OL,16,Fthe RAF Hawk T2 aircraft were being
+OL,17,Ftreated for minor injuries following
+OL,18,Fthe incident in the Pencarnisiog area
+OL,19,Fof Anglesey.
 OL,23,APub: 23-SepQppppppppppppppppppppppG7/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
@@ -171,14 +170,20 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ATwo pilots eject and parachute out of
-OL,4,ARAF plane before crash
-OL,5,
-OL,6,FA spokesperson for the RAF said it is
-OL,7,Fcurrently investigating the crash.
+OL,3,ARAF pauses fighter jet training after
+OL,4,Atwo pilots eject from plane before
+OL,5,Acrash
+OL,6,
+OL,7,FThe force said helicopters from the
+OL,8,FCoastguard and the Wales Air Ambulance
+OL,9,Fwere sent to the scene close to RAF
+OL,10,FValley on the island. The pilots have
+OL,11,Fbeen taken to Birmingham for treatment.
+OL,13,FA spokesperson for the RAF said it was
+OL,14,Finvestigating the crash.
 OL,23,APub: 23-SepQppppppppppppppppppppppG8/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
@@ -186,7 +191,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AEthiopia and Tigray accuse each of
@@ -212,7 +217,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AEthiopia and Tigray accuse each of
@@ -234,7 +239,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AWhite House rolling out red carpet for
@@ -260,7 +265,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AWhite House rolling out red carpet for
@@ -276,7 +281,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ADramatic eviction of woman aged 87
@@ -303,7 +308,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ADramatic eviction of woman aged 87
@@ -321,7 +326,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q5 7575747575x0w1w1 w17571
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -350,7 +355,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q,. *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -379,15 +384,15 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q555pjsjjj js17kjc15 js57kj#4
 OL,2,W//%*// //%Q--% (.*.. *,$%**,%-,* %%**,!
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G341FMan died of cardiac arrest on
-OL,6,Fflight, inquest toldA23-Sep
+OL,5,G341FAnimal welfare campaigner died of
+OL,6,Fthyroid cancerA23-Sep
 OL,7,G
-OL,8,G342FCommunity condemn AI mural as
-OL,9,F'insult' to artistsA23-Sep
+OL,8,G342FMan died of cardiac arrest on
+OL,9,Fflight, inquest toldA23-Sep
 OL,10,G
 OL,11,G343FCordon lifted after WW2 bomb
 OL,12,Fremoved from docksA23-Sep
@@ -408,7 +413,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(W)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -437,7 +442,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(E)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -466,7 +471,7 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-, *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -495,7 +500,7 @@ PN,11921
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Quzj#5w;jp%p05 jj#57+
 OL,2,W//%*// //%Q,.*,%%** %  -,** %-. (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -524,7 +529,7 @@ PN,11922
 SC,0022
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kjs1 wsj#57sj  w{j#57i
 OL,2,W//%*// //%Q%**,$ -,* %-.*,$%** %-& (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -537,14 +542,14 @@ OL,10,G
 OL,11,G393FAir ambulance 'on a knife edge'
 OL,12,Fafter busy summerA23-Sep
 OL,13,G
-OL,14,G394FPsychiatric patient killer not
-OL,15,Fdeemed violent, inquest hearsA23-Sep
+OL,14,G394FCouncil's nursery closures decision
+OL,15,F'devastating'A23-Sep
 OL,16,G
-OL,17,G395FMan who giggled while groping girl
-OL,18,FjailedA23-Sep
+OL,17,G395FPsychiatric patient killer not
+OL,18,Fdeemed violent, inquest hearsA23-Sep
 OL,19,G
-OL,20,G396FRobber banned from city centre
-OL,21,Fafter latest spreeA23-Sep
+OL,20,G396FMan who giggled while groping girl
+OL,21,FjailedA23-Sep
 OL,22,G
 OL,23,QpppppppppppppppppppppppppppppppppG22/39
 OL,24,ANext PageB Reg NewsC Nat TVF Clean Feed
@@ -553,7 +558,7 @@ PN,11923
 SC,0023
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -582,7 +587,7 @@ PN,11924
 SC,0024
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7k jjs%wsj  w{j#57i
 OL,2,W//%*// //%Q%* ** %-,*,$%** %-& (,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -611,7 +616,7 @@ PN,11925
 SC,0025
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Qwsj#%7k"k#j  w{j#57i
 OL,2,W//%*// //%Q,.*,%-. * *,$%** %-& (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -640,28 +645,28 @@ PN,11926
 SC,0026
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q5j 5w{j  wsjs1
 OL,2,W//%*// //%Q-.,%%**,$-,(,% ,,,,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G431FTwo pilots eject and parachute out
-OL,6,Fof RAF plane before crashA23-Sep
-OL,7,G
-OL,8,G432FAdmiral insurance firm to cut 500
-OL,9,Fjobs in the UKA23-Sep
-OL,10,G
-OL,11,G433FCharlotte Church accuses Ed Sheeran
-OL,12,Fof choosing 'capitalism over doing the
-OL,13,Fright thing'A23-Sep
-OL,14,G
-OL,15,G434FReform Wales deputy criticises
-OL,16,Fcolleague for claiming he had most
-OL,17,Fsupport to be leaderA23-Sep
-OL,18,G
-OL,19,G435FStudent who accidentally overdosed
-OL,20,Fon paracetamol learns to walk and talk
-OL,21,FagainA22-Sep
-OL,22,G
+OL,5,G431FRAF pauses fighter jet training
+OL,6,Fafter two pilots eject from plane
+OL,7,Fbefore crashA23-Sep
+OL,8,G
+OL,9,G432FAdmiral insurance firm to cut 500
+OL,10,Fjobs in the UKA23-Sep
+OL,11,G
+OL,12,G433FCharlotte Church accuses Ed Sheeran
+OL,13,Fof choosing 'capitalism over doing the
+OL,14,Fright thing'A23-Sep
+OL,15,G
+OL,16,G434FReform Wales deputy criticises
+OL,17,Fcolleague for claiming he had most
+OL,18,Fsupport to be leaderA23-Sep
+OL,19,G
+OL,20,F
+OL,21,F
+OL,22,F
 OL,23,QpppppppppppppppppppppppppppppppppG26/39
 OL,24,ANext PageB Reg NewsC Nat TVF Clean Feed
 FL,431,301,200,140,0,100
@@ -669,7 +674,7 @@ PN,11927
 SC,0027
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q7+jp5w{j#57kjs15  jjs1
 OL,2,W//%*// //%Q-.* %%** %%**,$-, *(,% ,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -698,7 +703,7 @@ PN,11928
 SC,0028
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,W5j 5Q5wsj  ws jkjs j#7kjs57k
 OL,2,W//%*// //%Q%,.*,$-, *.*  * %** %%* (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -727,7 +732,7 @@ PN,11929
 SC,0029
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CWednesday
@@ -756,7 +761,7 @@ PN,11930
 SC,0030
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -785,7 +790,7 @@ PN,11931
 SC,0031
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CWednesday
@@ -808,7 +813,7 @@ PN,11932
 SC,0032
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -835,7 +840,7 @@ PN,11933
 SC,0033
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -860,7 +865,7 @@ PN,11934
 SC,0034
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+js1
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CWednesday
@@ -886,7 +891,7 @@ PN,11935
 SC,0035
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,V7c#####5Ww;js15j 557kj#4 #7!5j
 OL,2,V5!     5W%**,$-.,%%%**,!  % )&V(,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -914,7 +919,7 @@ PN,11936
 SC,0036
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,V7c#####5Ww;"k#js1 7kj#5ws
 OL,2,V5!     5W%* * *,$ -.* %-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -938,7 +943,7 @@ PN,11937
 SC,0037
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -962,7 +967,7 @@ PN,11938
 SC,0038
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -987,7 +992,7 @@ PN,11939
 SC,0039
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790189302
+OL,0,        ECIMSBWebfax 1   F119A1790189741
 OL,1,V7c#####5W5jj#7k j#57kjs1
 OL,2,V5!     5W)&* %* *,%%**,$V,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
