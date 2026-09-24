@@ -2,24 +2,28 @@ PN,28101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1790270320
+OL,0,        ECIMSBWebfax 1   F281A1790272104
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
 OL,3,Vupppppp5CThursday
-OL,5,G1800 STV News at Six and Weather
-OL,6,     FIncluding regional weather
-OL,7,     Fforecast
-OL,8,G1830 ITV Evening News; Weather
-OL,9,G1930 What's on Scotland
-OL,10,     FMovie news, chat about favourite
-OL,11,     FTV programmes, and music. Plus,
-OL,12,     Fcatch-ups with some of the biggest
-OL,13,     Fnames in worldwide entertainment
-OL,14,G2000 Emmerdale
-OL,15,     FLewis stresses over his future
-OL,16,     Fwith Vinny, while Kev is worried
-OL,17,     Fabout Nicola, but he keeps his
-OL,18,     Fsecret, fearing the reaction
+OL,5,G1830 ITV Evening News; Weather
+OL,6,G1930 What's on Scotland
+OL,7,     FMovie news, chat about favourite
+OL,8,     FTV programmes, and music. Plus,
+OL,9,     Fcatch-ups with some of the biggest
+OL,10,     Fnames in worldwide entertainment
+OL,11,G2000 Emmerdale
+OL,12,     FLewis stresses over his future
+OL,13,     Fwith Vinny. Kev is worried about
+OL,14,     FNicola. Kev keeps his secret,
+OL,15,     Ffearing the reaction.
+OL,16,G2030 Coronation Street
+OL,17,     FGlenda walks out when ailing Eva
+OL,18,     Fbecomes too demanding, George
+OL,19,     Flistens to Christina without
+OL,20,     Fjudgement, Ronnie asks Carl to
+OL,21,     Fmove out, and Sam gets desperate
+OL,22,     Fto retrieve his phone
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
@@ -27,28 +31,22 @@ PN,28102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1790270320
+OL,0,        ECIMSBWebfax 1   F281A1790272104
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
 OL,3,Vupppppp5CThursday
-OL,5,G2030 Coronation Street
-OL,6,     FGlenda walks out when ailing Eva
-OL,7,     Fbecomes too demanding, George
-OL,8,     Flistens to Christina without
-OL,9,     Fjudgement, Ronnie asks Carl to
-OL,10,     Fmove out, and Sam gets desperate
-OL,11,     Fto retrieve his phone
-OL,12,G2100 Professor T
-OL,13,     FAs Jasper wrestles with his
-OL,14,     Ffeelings for Helena in the run-up
-OL,15,     Fto Wilfred and Zelda's wedding,
-OL,16,     FDan is stunned by a new case where
-OL,17,     Fhe sees a dying man admit that he
-OL,18,     Fkilled someone. Dan and Chloe try
-OL,19,     Fto track down the victim, but
-OL,20,     FMaiya thinks that they are going
-OL,21,     Fon a wild goose chase
-OL,22,G2200 ITV News at Ten; Weather
+OL,5,G2100 Professor T
+OL,6,     FAs Jasper wrestles with his
+OL,7,     Ffeelings for Helena in the run-up
+OL,8,     Fto Wilfred and Zelda's wedding,
+OL,9,     FDan is stunned by a new case where
+OL,10,     Fhe sees a dying man admit that he
+OL,11,     Fkilled someone. Dan and Chloe try
+OL,12,     Fto track down the victim, but
+OL,13,     FMaiya thinks that they are going
+OL,14,     Fon a wild goose chase
+OL,15,G2200 ITV News at Ten; Weather
+OL,16,G2230 STV News; Weather
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
@@ -56,23 +54,22 @@ PN,28103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1790270320
+OL,0,        ECIMSBWebfax 1   F281A1790272104
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
 OL,3,Vupppppp5CThursday
-OL,5,G2230 STV News; Weather
-OL,6,G2245 Should I Ask AI? Tonight
-OL,7,     FArtificial intelligence promises
-OL,8,     Fto save time, money and stress,
-OL,9,     Fbut can it really make everyday
-OL,10,     Flife easier and what are the
-OL,11,     Frisks? Geraint Vincent puts AI to
-OL,12,     Fthe test, exploring the practical
-OL,13,     Fways ordinary people are using it,
-OL,14,     Fcomparing the most popular tools
-OL,15,     Fand investigating where AI works
-OL,16,     Fbest
-OL,17,G0100 Shop on TV
+OL,5,G2245 Should I Ask AI? Tonight
+OL,6,     FArtificial intelligence promises
+OL,7,     Fto save time, money and stress,
+OL,8,     Fbut can it really make everyday
+OL,9,     Flife easier and what are the
+OL,10,     Frisks? Geraint Vincent puts AI to
+OL,11,     Fthe test, exploring the practical
+OL,12,     Fways ordinary people are using it,
+OL,13,     Fcomparing the most popular tools
+OL,14,     Fand investigating where AI works
+OL,15,     Fbest
+OL,16,G0100 Shop on TV
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
@@ -80,7 +77,7 @@ PN,28104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1790270320
+OL,0,        ECIMSBWebfax 1   F281A1790272104
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
 OL,3,Vupppppp5CThursday
@@ -107,7 +104,7 @@ PN,28105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F281A1790270320
+OL,0,        ECIMSBWebfax 1   F281A1790272104
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
 OL,3,Vupppppp5CThursday
