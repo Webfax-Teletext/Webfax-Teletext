@@ -1,24 +1,41 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1790349498
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1790393123
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FPatchy rain
-OL,6,Fwill sink southeastwards across
-OL,7,FEngland and Wales overnight. Heavy and
-OL,8,Fblustery showers are likely in the far
-OL,9,Fnorth and northwest. Clear spells,
-OL,10,Fpatchy fog and grass frost elsewhere.
+OL,5,CToday:FSunny spells and scattered
+OL,6,Fshowers across the north on Saturday
+OL,7,Fwith brisk winds. A drier day further
+OL,8,Fsouth with plenty of sunny spells,
+OL,9,Falthough feeling fresher than recent
+OL,10,Fdays.
 OL,11,
-OL,12,CSaturday:FMost southern and eastern
-OL,13,Fareas will have a fine day on Saturday
-OL,14,Fwith some sunshine. Cloudier in the
-OL,15,Fnorth and west with scattered showers,
-OL,16,Fthese blustery in the northwest.
+OL,12,CTonight:FWindy in the northwest
+OL,13,Fovernight with further showery
+OL,14,Foutbreaks of rain. Drier elsewhere
+OL,15,Fwith clear spells and a few mist and
+OL,16,Ffog patches. Chilly.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1790393123
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FA largely dry and cloudy start
+OL,6,Fon Sunday, and turning increasingly
+OL,7,Fwindy. Heavy rain moves in from the
+OL,8,Fwest, but warm sunny spells develop in
+OL,9,Fthe east.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
