@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,GUK AND WORLDAfrom BBC News
@@ -42,9 +42,9 @@ OL,15,G
 OL,16,G305FMet to re-examine CCTV from Jill
 OL,17,FDando murder caseA26-Sep
 OL,18,G
-OL,19,G306FJudge asks Orange Order to postpone
-OL,20,FDrumcree parade as she urges parties to
-OL,21,F'step back from the abyss'A25-Sep
+OL,19,G306FHigh Court issues injunction to
+OL,20,Fstop Orange Order Drumcree parade
+OL,21,A25-Sep
 OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG2/39
 OL,24,AFirst NewsB Reg NewsCNat TVF Clean Feed
@@ -53,7 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AHeathrow Airport warns third runway
@@ -80,7 +80,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AHeathrow Airport warns third runway
@@ -98,7 +98,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ABritish national among six dead in
@@ -125,7 +125,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ABritish national among six dead in
@@ -143,7 +143,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,A'No turning back' in independence
@@ -151,7 +151,7 @@ OL,4,Ajourney, says first minister at rally
 OL,5,
 OL,6,FWales' first minister has said there is
 OL,7,F"no turning back" on the journey to
-OL,8,Findepence for the country, as he
+OL,8,Findependence for the country, as he
 OL,9,Fattended a rally on Saturday.
 OL,11,FIn a speech addressing the crowd
 OL,12,Fgathered in Aberystwyth, Ceredigion,
@@ -170,7 +170,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,A'No turning back' in independence
@@ -185,23 +185,26 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AHuge crowds greet Pope in Paris for
-OL,4,Aopen-air Mass
-OL,5,
-OL,6,FHundreds of thousands of people have
-OL,7,Fgreeted Pope Leo XIV in the centre of
-OL,8,FParis for a giant open-air Mass.
-OL,10,FCrowds cheered as the pontiff moved
-OL,11,Fdown the Champs-Elysees Avenue beneath
-OL,12,Fthe Arc de Triomphe, waving to crowds
-OL,13,Ffrom his popemobile.
-OL,15,FThe head of the Catholic Church blessed
-OL,16,Fseveral babies as he stopped at
-OL,17,Fdifferent stages along the avenue as
-OL,18,Fchants of "Leo, Leo" rang out.
+OL,3,APope praises 'energy and commitment' of
+OL,4,Ayoung people as huge crowds join
+OL,5,Aopen-air Mass in Paris
+OL,6,
+OL,7,FPope Leo XIV praised the "enthusiasm,
+OL,8,Fenergy and commitment" young people
+OL,9,Fbring to the Catholic Church as thick
+OL,10,Fcrowds attended an open-air Mass in
+OL,11,FParis.
+OL,13,FAn estimated 700,000 people had
+OL,14,Fgathered for the Mass celebrated by the
+OL,15,FPope from a special altar on the Place
+OL,16,Fde la Concorde, on the second day of
+OL,17,Fhis four-day visit to France.
+OL,19,FIt began after the Pope rode down the
+OL,20,FChamps-Elysees Avenue waving to crowds
+OL,21,Ffrom his open-topped popemobile.
 OL,23,APub: 26-SepQppppppppppppppppppppppG9/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,313,300,200,140,0,100
@@ -209,18 +212,16 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AHuge crowds greet Pope in Paris for
-OL,4,Aopen-air Mass
-OL,5,
-OL,6,FMore than half a million people are
-OL,7,Fexpected to attend the event in the
-OL,8,Fheart of the French capital on Saturday
-OL,9,Fand a special altar has been built on
-OL,10,Fthe Place de la Concorde for the
-OL,11,Fceremony.
+OL,3,APope praises 'energy and commitment' of
+OL,4,Ayoung people as huge crowds join
+OL,5,Aopen-air Mass in Paris
+OL,6,
+OL,7,FMany senior politicians attended the
+OL,8,FMass. On Friday, Leo met French
+OL,9,FPresident Emmanuel Macron.
 OL,23,APub: 26-SepQpppppppppppppppppppppG10/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,313,300,200,140,0,100
@@ -228,7 +229,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ASecurity lapses at Utah campus where
@@ -252,7 +253,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ASecurity lapses at Utah campus where
@@ -275,7 +276,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ABangkok roads submerged as flood
@@ -302,7 +303,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ABangkok roads submerged as flood
@@ -318,7 +319,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q5 7575747575x0w1w1 w17571
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -347,7 +348,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q,. *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -376,7 +377,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q555pjsjjj js17kjc15 js57kj#4
 OL,2,W//%*// //%Q--% (.*.. *,$%**,%-,* %%**,!
 OL,3,GMAIN STORIESAfrom BBC News
@@ -405,7 +406,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(W)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -419,8 +420,8 @@ OL,11,G
 OL,12,G353FIndie and punk music made me feel I
 OL,13,Fwas betraying my raceA25-Sep
 OL,14,G
-OL,15,G354FE-motorbikes seized by police sold
-OL,16,Fon at auction, BBC findsA25-Sep
+OL,15,G354FStories to make you smile from
+OL,16,Facross the West MidlandsA26-Sep
 OL,17,G
 OL,18,G355FBus operator commits to
 OL,19,Fgovernment's #2 bus capA26-Sep
@@ -434,7 +435,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(E)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -447,11 +448,11 @@ OL,10,G
 OL,11,G363F'Agony aunt' with months to live
 OL,12,Ftackles bucket listA26-Sep
 OL,13,G
-OL,14,G364FWater 'deliberately' drained from
-OL,15,Fpart of canalA26-Sep
+OL,14,G364FCattle market's #12m revamp to get
+OL,15,Funder wayA26-Sep
 OL,16,G
-OL,17,G365FMotorcyclist dies and pedestrian
-OL,18,Finjured after crashA25-Sep
+OL,17,G365FWater 'deliberately' drained from
+OL,18,Fpart of canalA26-Sep
 OL,19,G
 OL,20,G366FDinner lady reflects on 48 years of
 OL,21,Fmeals and memoriesA26-Sep
@@ -463,7 +464,7 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-, *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -492,7 +493,7 @@ PN,11921
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Quzj#5w;jp%p05 jj#57+
 OL,2,W//%*// //%Q,.*,%%** %  -,** %-. (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -521,7 +522,7 @@ PN,11922
 SC,0022
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kjs1 wsj#57sj  w{j#57i
 OL,2,W//%*// //%Q%**,$ -,* %-.*,$%** %-& (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -550,7 +551,7 @@ PN,11923
 SC,0023
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -579,13 +580,13 @@ PN,11924
 SC,0024
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7k jjs%wsj  w{j#57i
 OL,2,W//%*// //%Q%* ** %-,*,$%** %-& (,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G411FJudge asks Orange Order to postpone
-OL,6,FDrumcree parade as she urges parties to
-OL,7,F'step back from the abyss'A25-Sep
+OL,5,G411FHigh Court issues injunction to
+OL,6,Fstop Orange Order Drumcree parade
+OL,7,A25-Sep
 OL,8,G
 OL,9,G412FBurrows offers to work with fellow
 OL,10,Funionists in Westminster pollA26-Sep
@@ -608,7 +609,7 @@ PN,11925
 SC,0025
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Qwsj#%7k"k#j  w{j#57i
 OL,2,W//%*// //%Q,.*,%-. * *,$%** %-& (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -637,7 +638,7 @@ PN,11926
 SC,0026
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q5j 5w{j  wsjs1
 OL,2,W//%*// //%Q-.,%%**,$-,(,% ,,,,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -666,7 +667,7 @@ PN,11927
 SC,0027
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q7+jp5w{j#57kjs15  jjs1
 OL,2,W//%*// //%Q-.* %%** %%**,$-, *(,% ,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -695,7 +696,7 @@ PN,11928
 SC,0028
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,W5j 5Q5wsj  ws jkjs j#7kjs57k
 OL,2,W//%*// //%Q%,.*,$-, *.*  * %** %%* (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -724,7 +725,7 @@ PN,11929
 SC,0029
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CSaturday
@@ -753,7 +754,7 @@ PN,11930
 SC,0030
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -781,7 +782,7 @@ PN,11931
 SC,0031
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CSaturday
@@ -809,7 +810,7 @@ PN,11932
 SC,0032
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -834,7 +835,7 @@ PN,11933
 SC,0033
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -862,7 +863,7 @@ PN,11934
 SC,0034
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+js1
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CSaturday
@@ -887,7 +888,7 @@ PN,11935
 SC,0035
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,V7c#####5Ww;js15j 557kj#4 #7!5j
 OL,2,V5!     5W%**,$-.,%%%**,!  % )&V(,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -914,7 +915,7 @@ PN,11936
 SC,0036
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,V7c#####5Ww;"k#js1 7kj#5ws
 OL,2,V5!     5W%* * *,$ -.* %-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -943,7 +944,7 @@ PN,11937
 SC,0037
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -971,7 +972,7 @@ PN,11938
 SC,0038
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -996,7 +997,7 @@ PN,11939
 SC,0039
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1790443095
+OL,0,        ECIMSBWebfax 1   F119A1790443535
 OL,1,V7c#####5W5jj#7k j#57kjs1
 OL,2,V5!     5W)&* %* *,%%**,$V,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
