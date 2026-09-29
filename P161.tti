@@ -1,27 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1790610957
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1790655470
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FMany parts
-OL,6,Fdry with clear spells allowing it to
-OL,7,Fturn chilly across northern parts.
-OL,8,FRisk of some heavy rain initially in
-OL,9,Fthe far southeast, then more
-OL,10,Fwidespread cloud and patchy rain
-OL,11,Fmoving north across southern England
-OL,12,Fand Wales later.
-OL,13,
-OL,14,CTuesday:FCloud and patchy drizzle will
-OL,15,Fquickly spread northwards tomorrow
-OL,16,Fwith winds continuing to freshen in
-OL,17,Fthe west. Very warm in the south come
-OL,18,Fthe afternoon with sunny spells
-OL,19,Fdeveloping.
+OL,5,CToday:FGrey skies at first for many
+OL,6,Fareas with outbreaks of drizzle. Skies
+OL,7,Fbrightening in the south this
+OL,8,Fafternoon and turning rather warm.
+OL,9,FWinds strengthening with gales in the
+OL,10,Fwest by the afternoon. Heavy rain in
+OL,11,Fthe west later.
+OL,12,
+OL,13,CTonight:FHeavy rain moves east across
+OL,14,Fthe UK overnight. Coastal gales
+OL,15,Fcontinue in the west, but gradually
+OL,16,Fease in the early hours. Patchy rain
+OL,17,Fin the south and rather mild.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1790655470
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CWednesday:FRain moves east in the
+OL,6,Fmorning, clearing in the afternoon.
+OL,7,FSunny spells and heavy showers follow
+OL,8,Fin the west. Windy but rather warm in
+OL,9,Fthe east.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
