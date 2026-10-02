@@ -2,28 +2,26 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1790972316
+OL,0,        ECIMSBWebfax 1   F206A1790974073
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday
-OL,5,G2100 The Context
+OL,5,G2130 The Context
 OL,6,     FA regular panel of guests discuss
 OL,7,     Fthe biggest international stories
 OL,8,     Fof the day.
-OL,9,G2130 The Context
-OL,10,     FA regular panel of guests discuss
-OL,11,     Fthe biggest international stories
-OL,12,     Fof the day.
-OL,13,G2200 BBC News at Ten
-OL,14,G2230 Newsnight
-OL,15,G2300 BBC World News America
-OL,16,     FThe BBC presents in-depth reports
-OL,17,     Fon the major international and US
-OL,18,     Fnews of the day.
-OL,19,G2330 The President's Path
-OL,20,     FLeading up to the midterms,
-OL,21,     FRepublicans weigh whether Trump's
-OL,22,     Fbacking can help them win.
+OL,9,G2200 BBC News at Ten
+OL,10,G2230 Newsnight
+OL,11,G2300 BBC World News America
+OL,12,     FThe BBC presents in-depth reports
+OL,13,     Fon the major international and US
+OL,14,     Fnews of the day.
+OL,15,G2330 The President's Path
+OL,16,     FLeading up to the midterms,
+OL,17,     FRepublicans weigh whether Trump's
+OL,18,     Fbacking can help them win.
+OL,19,G2345 BBC News
+OL,20,G0000 BBC News
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -31,27 +29,28 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1790972316
+OL,0,        ECIMSBWebfax 1   F206A1790974073
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday
-OL,5,G2345 BBC News
-OL,6,G0000 BBC News
-OL,7,G0030 Talking Business
-OL,8,     FRamzan Karmali asks why there are
-OL,9,     Fso few women in the artificial
-OL,10,     Fintelligence industry.
-OL,11,G0100 BBC News
-OL,12,G0130 Tech Now
-OL,13,     FAlasdair Keane heads to the
-OL,14,     FPokemon World Championships in San
-OL,15,     FFrancisco.
-OL,16,G0200 BBC News
-OL,17,G0230 Clive Myrie's African Adventure
-OL,18,     FClive tries the South African
-OL,19,     Fcar-spinning craze and meets
-OL,20,     FNelson Mandela's granddaughter.
-OL,21,G0300 BBC News
+OL,5,G0030 Talking Business
+OL,6,     FRamzan Karmali asks why there are
+OL,7,     Fso few women in the artificial
+OL,8,     Fintelligence industry.
+OL,9,G0100 BBC News
+OL,10,G0130 Tech Now
+OL,11,     FAlasdair Keane heads to the
+OL,12,     FPokemon World Championships in San
+OL,13,     FFrancisco.
+OL,14,G0200 BBC News
+OL,15,G0230 Clive Myrie's African Adventure
+OL,16,     FClive tries the South African
+OL,17,     Fcar-spinning craze and meets
+OL,18,     FNelson Mandela's granddaughter.
+OL,19,G0300 BBC News
+OL,20,G0330 Global Eye
+OL,21,     FAnna Holligan reports from Malta.
+OL,22,G0400 BBC News
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -59,22 +58,19 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1790972316
+OL,0,        ECIMSBWebfax 1   F206A1790974073
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday
-OL,5,G0330 Global Eye
-OL,6,     FAnna Holligan reports from Malta.
-OL,7,G0400 BBC News
-OL,8,G0430 The Media Show
-OL,9,     FHow the Man City story developed
-OL,10,     Fover time and the media's role in
-OL,11,     Freporting it.
-OL,12,G0500 BBC News
-OL,13,G0530 The Travel Show
-OL,14,     FAdaptive athlete Ollie Thorn
-OL,15,     Fattempts to become the first
-OL,16,     Fperson to handcycle to Everest.
+OL,5,G0430 The Media Show
+OL,6,     FHow the Man City story developed
+OL,7,     Fover time and the media's role in
+OL,8,     Freporting it.
+OL,9,G0500 BBC News
+OL,10,G0530 The Travel Show
+OL,11,     FAdaptive athlete Ollie Thorn
+OL,12,     Fattempts to become the first
+OL,13,     Fperson to handcycle to Everest.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
