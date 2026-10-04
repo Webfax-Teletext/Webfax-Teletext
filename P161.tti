@@ -1,26 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1791044288
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1791087473
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy in
-OL,6,Fthe far south at first, but skies
-OL,7,Fgradually clearing. Clear skies for
-OL,8,Fmany and turning chilly with fog
-OL,9,Fforming in eastern England. Turning
-OL,10,Fcloudier in Scotland and Northern
-OL,11,FIreland with outbreaks of rain and
-OL,12,Fbrisk winds.
-OL,13,
-OL,14,CSunday:FAfter a chilly, locally foggy
-OL,15,Fstart, much of England and Wales
-OL,16,Fenjoys warm sunny spells. Further
-OL,17,Fnorth, cloud, rain and fresh winds
-OL,18,Fspread across the north.
+OL,5,CToday:FCloudy across much of Scotland
+OL,6,Fand Northern Ireland with outbreaks of
+OL,7,Frain, turning heavy and persistent
+OL,8,Facross western Scotland. Dry elsewhere
+OL,9,Fwith plenty of sunshine in the south
+OL,10,Fonce early fog clears mid to late
+OL,11,Fmorning. Feeling warm in sunshine.
+OL,12,
+OL,13,CTonight:FCloud, outbreaks of rain and
+OL,14,Fbrisk winds across Scotland and
+OL,15,FNorthern Ireland will sink southwards
+OL,16,Finto northern England and Wales. Clear
+OL,17,Fspells elsewhere leading to some fog
+OL,18,Fforming by dawn.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1791087473
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CMonday:FDry with sunny spells in the
+OL,6,Fsouth and east, once any fog clears.
+OL,7,FCloudier elsewhere with some patchy
+OL,8,Frain, heaviest and most persistent on
+OL,9,Fnorthwestern upslopes.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
