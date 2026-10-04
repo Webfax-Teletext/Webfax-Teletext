@@ -1,43 +1,26 @@
-PN,16101
-SC,0001
+PN,16100
+SC,0000
 CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F161A1791087473
-OL,1,Wj5hw1~{4k7juhw1{$             G1/2
+PS,8008
+OL,0,        ECIMSBWebfax 1   F161A1791127089
+OL,1,Wj5hw1~{4k7juhw1{$
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CToday:FCloudy across much of Scotland
-OL,6,Fand Northern Ireland with outbreaks of
-OL,7,Frain, turning heavy and persistent
-OL,8,Facross western Scotland. Dry elsewhere
-OL,9,Fwith plenty of sunshine in the south
-OL,10,Fonce early fog clears mid to late
-OL,11,Fmorning. Feeling warm in sunshine.
-OL,12,
-OL,13,CTonight:FCloud, outbreaks of rain and
-OL,14,Fbrisk winds across Scotland and
-OL,15,FNorthern Ireland will sink southwards
-OL,16,Finto northern England and Wales. Clear
-OL,17,Fspells elsewhere leading to some fog
-OL,18,Fforming by dawn.
-OL,23,QppppppppppppppppppppGSource: Met Office
-OL,24,ANext Page  BWeather  CReg News  FReg TV
-FL,162,160,301,260,100,100
-PN,16102
-SC,0002
-CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F161A1791087473
-OL,1,Wj5hw1~{4k7juhw1{$             G2/2
-OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
-OL,3,GUK weather for today and tomorrow
-OL,4,
-OL,5,CMonday:FDry with sunny spells in the
-OL,6,Fsouth and east, once any fog clears.
-OL,7,FCloudier elsewhere with some patchy
-OL,8,Frain, heaviest and most persistent on
-OL,9,Fnorthwestern upslopes.
+OL,5,CThis Evening and Tonight:FCloud,
+OL,6,Foutbreaks of rain and brisk winds
+OL,7,Facross Scotland and Northern Ireland
+OL,8,Fwill sink southwards into northern
+OL,9,FEngland and Wales through the evening
+OL,10,Fand overnight. Clear spells elsewhere
+OL,11,Fleading to some mist and fog forming
+OL,12,Fby dawn.
+OL,13,
+OL,14,CMonday:FDry with sunny spells in the
+OL,15,Fsouth and east, once any fog clears.
+OL,16,FCloudier elsewhere with some patchy
+OL,17,Frain, heaviest and most persistent on
+OL,18,Fnorthwestern upslopes.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
