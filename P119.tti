@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,28 +24,28 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,GUK AND WORLDAfrom BBC News
-OL,5,G302FTories pledge to scrap #100,000
-OL,6,Fchildcare 'cliff edge'A03-Oct
+OL,5,G302FBurnham scraps controversial plans
+OL,6,Fto curb jury trialsA04-Oct
 OL,7,G
-OL,8,G303FMan shot dead as families gather
-OL,9,Ffor memorialA03-Oct
+OL,8,G303FTories pledge to remove #100,000
+OL,9,Fchildcare 'cliff edge'A03-Oct
 OL,10,G
-OL,11,G304FUK-Iranian dual national arrested
-OL,12,Fover RAF Fairford released on bail
-OL,13,A03-Oct
-OL,14,G
-OL,15,G305FHomemade bomb part of alleged plot
-OL,16,Fon Manchester's Jewish community, court
-OL,17,FtoldA03-Oct
-OL,18,G
-OL,19,G306FHuge crowds turn out in support of
-OL,20,Fresidents over Drumcree parade dispute
-OL,21,A03-Oct
-OL,22,G
+OL,11,G304FMan shot dead as families gather
+OL,12,Ffor memorialA03-Oct
+OL,13,G
+OL,14,G305FUK-Iranian dual national arrested
+OL,15,Fover RAF Fairford released on bail
+OL,16,A03-Oct
+OL,17,G
+OL,18,G306FHomemade bomb part of alleged plot
+OL,19,Fon Manchester's Jewish community, court
+OL,20,FtoldA03-Oct
+OL,21,G
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/39
 OL,24,AFirst NewsB Reg NewsCNat TVF Clean Feed
 FL,302,301,200,140,0,100
@@ -53,10 +53,57 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ATories pledge to scrap #100,000
+OL,3,ABurnham scraps controversial plans to
+OL,4,Acurb jury trials
+OL,5,
+OL,6,FPrime Minister Andy Burnham has
+OL,7,Fscrapped controversial plans to curb
+OL,8,Fsome jury trials.
+OL,10,FSir Keir Starmer's government had
+OL,11,Fintroduced proposals to allow judges to
+OL,12,Fmake the sole decision on cases that
+OL,13,Fwould lead to a sentence of less than
+OL,14,Fthree years.
+OL,16,FThe Ministry of Justice (MoJ) said only
+OL,17,Fcomplex fraud and financial offences
+OL,18,Fwould be judge-alone - and it proposes
+OL,19,Fthat thousands of medium-level crimes
+OL,20,Fshould stay with volunteer magistrates,
+OL,21,Fwho sit without a jury.
+OL,23,APub: 04-OctQppppppppppppppppppppppG3/39
+OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
+FL,303,300,200,140,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 1   F119A1791084331
+OL,1,W5j 5Q7kjs15j 5ws
+OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
+OL,3,ABurnham scraps controversial plans to
+OL,4,Acurb jury trials
+OL,5,
+OL,6,FJustice Secretary Alex Norris said he
+OL,7,Fhad changed course came after hearing
+OL,8,Fthe "strength of feeling". Criminal
+OL,9,Flawyers have welcomed the decision and
+OL,10,Fthe Conservatives say it is a "major
+OL,11,Fvictory" for those who fought to defend
+OL,12,Ftrial by jury.
+OL,23,APub: 04-OctQppppppppppppppppppppppG4/39
+OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
+FL,303,300,200,140,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 1   F119A1791084331
+OL,1,W5j 5Q7kjs15j 5ws
+OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
+OL,3,ATories pledge to remove #100,000
 OL,4,Achildcare 'cliff edge'
 OL,5,
 OL,6,FThe Conservatives have promised to
@@ -74,30 +121,30 @@ OL,19,Fwork harder don't get punished for
 OL,20,Fdoing so," Conservative leader Kemi
 OL,21,FBadenoch told the BBC's Sunday with
 OL,22,FLaura Kuenssberg programme.
-OL,23,APub: 03-OctQppppppppppppppppppppppG3/39
+OL,23,APub: 03-OctQppppppppppppppppppppppG5/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
-FL,303,300,200,140,0,100
-PN,11904
-SC,0004
+FL,304,300,200,140,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ATories pledge to scrap #100,000
+OL,3,ATories pledge to remove #100,000
 OL,4,Achildcare 'cliff edge'
 OL,5,
 OL,6,FThe announcement comes as Conservative
 OL,7,Fmembers gather for the party's annual
 OL,8,Fconference in Birmingham.
-OL,23,APub: 03-OctQppppppppppppppppppppppG4/39
+OL,23,APub: 03-OctQppppppppppppppppppppppG6/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
-FL,303,300,200,140,0,100
-PN,11905
-SC,0005
+FL,304,300,200,140,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AMan shot dead as families gather for
@@ -115,14 +162,14 @@ OL,15,Fmultiple shots had been heard by
 OL,16,Fmembers of the public at the junction
 OL,17,Fof Braybrook Street and Erconwald
 OL,18,FStreet in East Acton.
-OL,23,APub: 03-OctQppppppppppppppppppppppG5/39
+OL,23,APub: 03-OctQppppppppppppppppppppppG7/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
-FL,304,300,200,140,0,100
-PN,11906
-SC,0006
+FL,305,300,200,140,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AMan shot dead as families gather for
@@ -136,49 +183,6 @@ OL,11,FNo arrests have been made and a police
 OL,12,Fcordon remains in place in Braybrook
 OL,13,FStreet. Police are appealing for
 OL,14,Fwitnesses to come forward.
-OL,23,APub: 03-OctQppppppppppppppppppppppG6/39
-OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
-FL,304,300,200,140,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
-OL,1,W5j 5Q7kjs15j 5ws
-OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AUK-Iranian dual national arrested over
-OL,4,ARAF Fairford released on bail
-OL,5,
-OL,6,FA UK-Iranian dual national arrested on
-OL,7,Fsuspicion of preparation of terrorist
-OL,8,Facts in connection with an incident at
-OL,9,FRAF Fairford has been released on bail.
-OL,11,FThe 25-year-old man was arrested in the
-OL,12,FLondon borough of Westminster on
-OL,13,FThursday. Searches of two properties in
-OL,14,Fthe same area have now finished.
-OL,16,FA major incident was declared and
-OL,17,Fdozens of homes were evacuated after
-OL,18,Fpolice were alerted to three
-OL,19,F"suspicious vehicles" near the airbase
-OL,20,Fin Gloucestershire last weekend.
-OL,23,APub: 03-OctQppppppppppppppppppppppG7/39
-OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
-FL,305,300,200,140,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
-OL,1,W5j 5Q7kjs15j 5ws
-OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AUK-Iranian dual national arrested over
-OL,4,ARAF Fairford released on bail
-OL,5,
-OL,6,FFive other men in their twenties were
-OL,7,Farrested and were subsequently released
-OL,8,Fon police bail. All five were UK
-OL,9,Fnationals from London.
 OL,23,APub: 03-OctQppppppppppppppppppppppG8/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
@@ -186,7 +190,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ACornell president says university 'must
@@ -214,7 +218,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ACornell president says university 'must
@@ -234,7 +238,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AFlydubai co-pilot attacked captain with
@@ -258,7 +262,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AFlydubai co-pilot attacked captain with
@@ -280,7 +284,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ARussia hits second major bridge in
@@ -308,7 +312,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ARussia hits second major bridge in
@@ -326,7 +330,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q5 7575747575x0w1w1 w17571
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -355,7 +359,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q,. *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -384,7 +388,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q555pjsjjj js17kjc15 js57kj#4
 OL,2,W//%*// //%Q--% (.*.. *,$%**,%-,* %%**,!
 OL,3,GMAIN STORIESAfrom BBC News
@@ -413,7 +417,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(W)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -442,7 +446,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(E)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -471,7 +475,7 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-, *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -500,7 +504,7 @@ PN,11921
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Quzj#5w;jp%p05 jj#57+
 OL,2,W//%*// //%Q,.*,%%** %  -,** %-. (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -529,7 +533,7 @@ PN,11922
 SC,0022
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kjs1 wsj#57sj  w{j#57i
 OL,2,W//%*// //%Q%**,$ -,* %-.*,$%** %-& (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -558,7 +562,7 @@ PN,11923
 SC,0023
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -587,7 +591,7 @@ PN,11924
 SC,0024
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7k jjs%wsj  w{j#57i
 OL,2,W//%*// //%Q%* ** %-,*,$%** %-& (,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -616,7 +620,7 @@ PN,11925
 SC,0025
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Qwsj#%7k"k#j  w{j#57i
 OL,2,W//%*// //%Q,.*,%-. * *,$%** %-& (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -645,7 +649,7 @@ PN,11926
 SC,0026
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q5j 5w{j  wsjs1
 OL,2,W//%*// //%Q-.,%%**,$-,(,% ,,,,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -674,7 +678,7 @@ PN,11927
 SC,0027
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q7+jp5w{j#57kjs15  jjs1
 OL,2,W//%*// //%Q-.* %%** %%**,$-, *(,% ,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -703,7 +707,7 @@ PN,11928
 SC,0028
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,W5j 5Q5wsj  ws jkjs j#7kjs57k
 OL,2,W//%*// //%Q%,.*,$-, *.*  * %** %%* (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -732,7 +736,7 @@ PN,11929
 SC,0029
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CSaturday
@@ -744,7 +748,7 @@ PN,11930
 SC,0030
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -759,7 +763,7 @@ PN,11931
 SC,0031
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CSaturday
@@ -778,7 +782,7 @@ PN,11932
 SC,0032
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -805,7 +809,7 @@ PN,11933
 SC,0033
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -831,7 +835,7 @@ PN,11934
 SC,0034
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+js1
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CSaturday
@@ -856,7 +860,7 @@ PN,11935
 SC,0035
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,V7c#####5Ww;js15j 557kj#4 #7!5j
 OL,2,V5!     5W%**,$-.,%%%**,!  % )&V(,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -884,7 +888,7 @@ PN,11936
 SC,0036
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,V7c#####5Ww;"k#js1 7kj#5ws
 OL,2,V5!     5W%* * *,$ -.* %-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -896,7 +900,7 @@ PN,11937
 SC,0037
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -908,7 +912,7 @@ PN,11938
 SC,0038
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
@@ -933,7 +937,7 @@ PN,11939
 SC,0039
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1791083875
+OL,0,        ECIMSBWebfax 1   F119A1791084331
 OL,1,V7c#####5W5jj#7k j#57kjs1
 OL,2,V5!     5W)&* %* *,%%**,$V,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSaturday
