@@ -1,27 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1791213952
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1791257149
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FPeriods of
-OL,6,Flight rain and drizzle in Northern
-OL,7,FIreland, northern England and some
-OL,8,Fother western areas overnight and
-OL,9,Fremaining mild here. Chilly in
-OL,10,Fsouthern England with fog and low
-OL,11,Fcloud developing. Breezy with
-OL,12,Fscattered showers in the far north.
-OL,13,
-OL,14,CTuesday:FFog in the south slowly
-OL,15,Fclearing with warm sunny spells
-OL,16,Fdeveloping. Cloudier through the
-OL,17,Fcentral slice of the UK with showers
-OL,18,Fpossible. Sunny spells and showers in
-OL,19,Fnorthern Scotland.
+OL,5,CToday:FSunny spells and scattered
+OL,6,Fshowers today across Scotland, and
+OL,7,Ffeeling cool here. Cloudy across
+OL,8,Fnorthern England Wales and the
+OL,9,FMidlands with showery outbreaks of
+OL,10,Frain. Warm sunny spells in the
+OL,11,Fsoutheast.
+OL,12,
+OL,13,CTonight:FRain gradually spreading
+OL,14,Facross England and Wales tonight,
+OL,15,Fturning heavy at times. Chilly in
+OL,16,FScotland and Northern Ireland with a
+OL,17,Fpatchy frost possible.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1791257149
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CWednesday:FHeavy rain will slowly move
+OL,6,Feast across England and Wales on
+OL,7,FWednesday. Sunny spells and scattered
+OL,8,Fshowers in Northern Ireland and
+OL,9,FScotland. Turning cooler across the UK.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
