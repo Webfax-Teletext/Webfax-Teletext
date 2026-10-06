@@ -2,7 +2,7 @@ PN,23701
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F237A1791263968
+OL,0,        ECIMSBWebfax 1   F237A1791299909
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -10,16 +10,16 @@ OL,5,G0530 Senedd Cymru - Welsh Parliament
 OL,6,     FCoverage of proceedings in the
 OL,7,     FSenedd, the Welsh Parliament, on
 OL,8,     FTuesday 6 October.
-OL,9,G1000 Select Committees
-OL,10,     FRecorded coverage of select
-OL,11,     Fcommittee proceedings.
-OL,12,G1400 Scottish Parliament
-OL,13,     FCoverage of the day's proceedings
-OL,14,     Fin the Scottish Parliament on
-OL,15,     FWednesday 7 October.
-OL,16,G1730 Senedd Cymru - Welsh Parliament
-OL,17,     FCoverage of proceedings in the
-OL,18,     FSenedd, the Welsh Parliament, on
+OL,9,G0535 Senedd Cymru - Welsh Parliament
+OL,10,     FQuestions to the government
+OL,11,     Feffectiveness and constitution
+OL,12,     Fminister Dafydd Trystan Davies.
+OL,13,G1000 Select Committees
+OL,14,     FRecorded coverage of select
+OL,15,     Fcommittee proceedings.
+OL,16,G1400 Scottish Parliament
+OL,17,     FCoverage of the day's proceedings
+OL,18,     Fin the Scottish Parliament on
 OL,19,     FWednesday 7 October.
 OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
@@ -28,18 +28,22 @@ PN,23702
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F237A1791263968
+OL,0,        ECIMSBWebfax 1   F237A1791299909
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
-OL,5,G2300 Scottish Parliament
-OL,6,     FCoverage of the day's proceedings
-OL,7,     Fin the Scottish Parliament on
+OL,5,G1730 Senedd Cymru - Welsh Parliament
+OL,6,     FCoverage of proceedings in the
+OL,7,     FSenedd, the Welsh Parliament, on
 OL,8,     FWednesday 7 October.
-OL,9,G0230 Senedd Cymru - Welsh Parliament
-OL,10,     FCoverage of proceedings in the
-OL,11,     FSenedd, the Welsh Parliament, on
+OL,9,G2300 Scottish Parliament
+OL,10,     FCoverage of the day's proceedings
+OL,11,     Fin the Scottish Parliament on
 OL,12,     FWednesday 7 October.
+OL,13,G0230 Senedd Cymru - Welsh Parliament
+OL,14,     FCoverage of proceedings in the
+OL,15,     FSenedd, the Welsh Parliament, on
+OL,16,     FWednesday 7 October.
 OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,238,200,140,260,0,100
