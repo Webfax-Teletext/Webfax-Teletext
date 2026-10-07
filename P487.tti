@@ -2,11 +2,11 @@ PN,48701
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F487A1791263968
+OL,0,        ECIMSBWebfax 1   F487A1791350370
 OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
 OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
-OL,3,Vupppppp5CWednesday
-OL,5,G2350 EuroNews
+OL,3,Vupppppp5CThursday
+OL,5,G0600 EuroNews
 OL,6,G0700 Morning Ireland
 OL,7,     FMorning news programme.
 OL,8,G0900 Today with David McCullagh
@@ -29,10 +29,10 @@ PN,48702
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F487A1791263968
+OL,0,        ECIMSBWebfax 1   F487A1791350370
 OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
 OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
-OL,3,Vupppppp5CWednesday
+OL,3,Vupppppp5CThursday
 OL,5,G1620 news2day
 OL,6,     FDomestic and international news
 OL,7,     Fitems of interest to younger
@@ -41,12 +41,14 @@ OL,9,G1630 Latest News and Weather
 OL,10,G1700 Nuacht RTE
 OL,11,G1710 Latest News and Weather
 OL,12,G1740 Nuacht RTE
-OL,13,G1755 RTE News with Signing
-OL,14,G1801 RTE News: Six One
-OL,15,G1900 Latest News and Weather
-OL,16,G2000 Latest News and Weather
-OL,17,G2030 Nuacht RTE
-OL,18,G2100 RTE News: Nine O'Clock
+OL,13,G1801 RTE News: Six One
+OL,14,G1900 Latest News and Weather
+OL,15,G2000 Latest News and Weather
+OL,16,G2030 Nuacht RTE
+OL,17,G2100 RTE News: Nine O'Clock
+OL,18,G2135 Prime Time
+OL,19,     FAn in-depth analysis of current
+OL,20,     Fissues and topical reports.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,488,200,140,260,0,100
@@ -54,19 +56,19 @@ PN,48703
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F487A1791263968
+OL,0,        ECIMSBWebfax 1   F487A1791350370
 OL,1,V7c#####5Ww;"k#js1 7kjs15j 5ws
 OL,2,V5!     5W%* * *,$ %**,$-.,%,.V(,,,,,,,,
-OL,3,Vupppppp5CWednesday
-OL,5,G2130 RTE Investigates: Fertility
-OL,6,G     Uncovered
-OL,7,     FForty years on from the first baby
-OL,8,     Fborn in Ireland via IVF, RTE
-OL,9,     FInvestigates examines Ireland's
-OL,10,     Ffertility sector.
-OL,11,G2230 Latest News and Weather
-OL,12,G2300 Nuacht RTE
-OL,13,G2325 EuroNews
+OL,3,Vupppppp5CThursday
+OL,5,G2210 The Late Debate
+OL,6,     FLive debate with the news and
+OL,7,     Fpolitical stories of the day.
+OL,8,     FPresented by Cormac O hEadhra.
+OL,9,G2300 Prime Time
+OL,10,     FAn in-depth analysis of current
+OL,11,     Fissues and topical reports.
+OL,12,G2335 Nuacht RTE
+OL,13,G0000 EuroNews
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,488,200,140,260,0,100
