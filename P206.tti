@@ -1,25 +1,41 @@
-PN,20600
-SC,0000
+PN,20601
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F206A1791501492
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1791503262
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CThursday
-OL,5,G0000 BBC News
-OL,6,G0030 BBC News
-OL,7,G0100 BBC News
-OL,8,G0130 BBC News
-OL,9,G0200 BBC News
-OL,10,G0230 BBC News
-OL,11,G0300 BBC News
-OL,12,G0330 BBC News
-OL,13,G0400 BBC News
-OL,14,G0430 BBC News
-OL,15,G0500 BBC News
-OL,16,G0530 Business Today
-OL,17,     FThe latest business news from
-OL,18,     FLondon and around the world.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,5,G0030 AI Decoded
+OL,6,     FIs Meta's new AI assistant the
+OL,7,     Flatest step in Big Tech's push
+OL,8,     Finto our personal lives?
+OL,9,G0100 BBC News
+OL,10,G0130 Tech Now
+OL,11,     FAlasdair Keane heads to the
+OL,12,     FPokemon World Championships in San
+OL,13,     FFrancisco.
+OL,14,G0200 BBC News
+OL,15,G0230 BBC News
+OL,16,G0300 BBC News
+OL,17,G0330 BBC News
+OL,18,G0400 BBC News
+OL,19,G0430 BBC News
+OL,20,G0500 BBC News
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,207,200,140,260,0,100
+PN,20602
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F206A1791503262
+OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
+OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
+OL,3,Vupppppp5CThursday
+OL,5,G0530 Business Today
+OL,6,     FThe latest business news from
+OL,7,     FLondon and around the world.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
