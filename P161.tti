@@ -1,27 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1791566299
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1791602279
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FSqually rain
-OL,6,Fclearing the southeast this evening.
-OL,7,FClear spells overnight though
-OL,8,Fscattered showers developing, these
-OL,9,Fheaviest and most frequent in the
-OL,10,Fnorthwest where hail and thunder is
-OL,11,Fpossible. Winds easing in the south
-OL,12,Fbut gales developing in the northwest.
-OL,13,
-OL,14,CSaturday:FA changeable day consisting
-OL,15,Fof sunny spells and showers, these
-OL,16,Fisolated and brief in the south but
-OL,17,Fheavier and more frequent further
-OL,18,Fnorth. Windy with coastal gales in the
-OL,19,Fnorth.
+OL,5,CToday:FCool and windy, with frequent
+OL,6,Fblustery showers in the northwest,
+OL,7,Fwith some heavy at times with a risk
+OL,8,Fof hail and thunder. Drier, bright and
+OL,9,Fbreezy further south and east, with
+OL,10,Fmore in the way of sunny spells.
+OL,11,
+OL,12,CTonight:FShowers becoming lighter,
+OL,13,Ffewer and further between overnight,
+OL,14,Fmainly affecting western areas. Drier
+OL,15,Fwith clear spells widely, allowing a
+OL,16,Fcolder night than of late with some
+OL,17,Fmist or fog patches.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1791602279
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FA chilly but fine start for
+OL,6,Fmany, with isolated showers dying away
+OL,7,Fto leave sunny spells. Becoming
+OL,8,Fcloudier from the southwest, with
+OL,9,Fwinds increasing ahead of rain later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
