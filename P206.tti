@@ -2,25 +2,28 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1791654481
+OL,0,        ECIMSBWebfax 1   F206A1791656278
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday
-OL,5,G1830 BBC News
-OL,6,G1900 BBC News
-OL,7,G1930 BBC News
-OL,8,G2000 BBC News
-OL,9,G2030 Newscast
-OL,10,     FLighthearted discussion of the
-OL,11,     Fday's news.
-OL,12,G2100 BBC News
-OL,13,G2200 BBC News
-OL,14,G2300 BBC News
-OL,15,G2330 Talking Business
-OL,16,     FWhat will the energy crisis caused
-OL,17,     Fby wars in Iran and Ukraine mean
-OL,18,     Ffor Europe's economy?
-OL,19,G0000 BBC News
+OL,5,G1900 BBC News
+OL,6,G1930 BBC News
+OL,7,G2000 BBC News
+OL,8,G2030 Newscast
+OL,9,     FLighthearted discussion of the
+OL,10,     Fday's news.
+OL,11,G2100 BBC News
+OL,12,G2200 BBC News
+OL,13,G2300 BBC News
+OL,14,G2330 Talking Business
+OL,15,     FWhat will the energy crisis caused
+OL,16,     Fby wars in Iran and Ukraine mean
+OL,17,     Ffor Europe's economy?
+OL,18,G0000 BBC News
+OL,19,G0030 The Media Show
+OL,20,     FNick Thorpe reports on Hungary's
+OL,21,     Fmedia landscape six months after
+OL,22,     FPeter Magyar's election.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -28,25 +31,26 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1791654481
+OL,0,        ECIMSBWebfax 1   F206A1791656278
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday
-OL,5,G0030 The Media Show
-OL,6,     FNick Thorpe reports on Hungary's
-OL,7,     Fmedia landscape six months after
-OL,8,     FPeter Magyar's election.
-OL,9,G0100 BBC News
-OL,10,G0130 Arts in Motion
-OL,11,     FCountertenor Jakub Jozef
-OL,12,     FOrliEDski: beyond viral moments,
-OL,13,     Fhe's serious about Baroque music.
-OL,14,G0200 BBC News
-OL,15,G0230 Unspun World with John Simpson
-OL,16,     FJohn Simpson explores how Israeli
-OL,17,     Fattitudes have changed since the
-OL,18,     FOctober 7th attacks.
-OL,19,G0300 BBC News
+OL,5,G0100 BBC News
+OL,6,G0130 Arts in Motion
+OL,7,     FCountertenor Jakub Jozef
+OL,8,     FOrliEDski: beyond viral moments,
+OL,9,     Fhe's serious about Baroque music.
+OL,10,G0200 BBC News
+OL,11,G0230 Unspun World with John Simpson
+OL,12,     FJohn Simpson explores how Israeli
+OL,13,     Fattitudes have changed since the
+OL,14,     FOctober 7th attacks.
+OL,15,G0300 BBC News
+OL,16,G0330 AI Decoded
+OL,17,     FResearchers have identified what
+OL,18,     Fthey call a 'pain axis' inside AI
+OL,19,     Fmodels.
+OL,20,G0400 BBC News
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -54,24 +58,19 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1791654481
+OL,0,        ECIMSBWebfax 1   F206A1791656278
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday
-OL,5,G0330 AI Decoded
-OL,6,     FResearchers have identified what
-OL,7,     Fthey call a 'pain axis' inside AI
-OL,8,     Fmodels.
-OL,9,G0400 BBC News
-OL,10,G0430 Global Eye
-OL,11,     FSandra Maksimovic investigates
-OL,12,     FSerbia's growing student-led
-OL,13,     Fmovement against corruption.
-OL,14,G0500 BBC News
-OL,15,G0530 Clive Myrie's African Adventure
-OL,16,     FClive goes into action protecting
-OL,17,     Fthe rhino and enjoys a masterclass
-OL,18,     Fin Zulu art.
+OL,5,G0430 Global Eye
+OL,6,     FSandra Maksimovic investigates
+OL,7,     FSerbia's growing student-led
+OL,8,     Fmovement against corruption.
+OL,9,G0500 BBC News
+OL,10,G0530 Clive Myrie's African Adventure
+OL,11,     FClive goes into action protecting
+OL,12,     Fthe rhino and enjoys a masterclass
+OL,13,     Fin Zulu art.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
