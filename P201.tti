@@ -1,42 +1,27 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1791836310
+PS,8008
+OL,0,        ECIMSBWebfax 1   F201A1791839912
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CMonday
-OL,5,G2100 Time
-OL,6,     FOfficer Bailey hides the truth as
-OL,7,     Fpressure mounts in the young
-OL,8,     Foffender institution.
-OL,9,G2200 BBC News at Ten
-OL,10,     FThe latest national and
-OL,11,     Finternational news from the BBC.
-OL,12,G2230 BBC London
-OL,13,     FThe latest news, sport and weather
-OL,14,     Ffrom London.
-OL,15,G2240 Have I Got News for You
-OL,16,     FAlex Jones hosts, with guest
-OL,17,     Fpanellists Chloe Petts and Tom
-OL,18,     FPeck.
-OL,19,G2310 Misbehaviour
-OL,20,     FAs audiences look forward to the
-OL,21,     FMiss World pageant, certain women
-OL,22,     Fplan to disrupt it.
-OL,23,FBBC One regions: P260VppppppppppppG1/2
-OL,24,ANext Page  BNat TV CClean Feed  FReg TV
-FL,202,200,140,260,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F201A1791836310
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
-OL,3,Vupppppp5CMonday
-OL,5,G0050 Weather for the Week Ahead
-OL,6,G0055 Joins BBC News
-OL,23,FBBC One regions: P260VppppppppppppG2/2
+OL,5,G2200 BBC News at Ten
+OL,6,     FThe latest national and
+OL,7,     Finternational news from the BBC.
+OL,8,G2230 BBC London
+OL,9,     FThe latest news, sport and weather
+OL,10,     Ffrom London.
+OL,11,G2240 Have I Got News for You
+OL,12,     FAlex Jones hosts, with guest
+OL,13,     Fpanellists Chloe Petts and Tom
+OL,14,     FPeck.
+OL,15,G2310 Misbehaviour
+OL,16,     FAs audiences look forward to the
+OL,17,     FMiss World pageant, certain women
+OL,18,     Fplan to disrupt it.
+OL,19,G0050 Weather for the Week Ahead
+OL,20,G0055 Joins BBC News
+OL,23,FBBC One regions: P260Vppppppppppppppppp
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,202,200,140,260,0,100
