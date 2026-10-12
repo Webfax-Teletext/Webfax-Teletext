@@ -1,25 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1791735920
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1791775128
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud and
-OL,6,Frain edge northeast overnight, some
-OL,7,Fheavy bursts and stronger winds mixed
-OL,8,Fin. After a chilly start to the night,
-OL,9,Ftemperatures will lift for many and
-OL,10,Fbecoming very mild in the southwest by
-OL,11,Fdawn.
+OL,5,CToday:FTurning increasingly cloudy
+OL,6,Fthrough the day with outbreaks of
+OL,7,Fdrizzle. Some brighter spells possible
+OL,8,Fto the east of high ground. Winds
+OL,9,Fstrengthening through the day with
+OL,10,Fgales possible in the north of
+OL,11,FScotland. Milder than of late.
 OL,12,
-OL,13,CMonday:FCloud, drizzle and outbreaks
-OL,14,Fof rain move slowly east through the
-OL,15,Fday, with extensive low cloud. Breezy
-OL,16,Fand generally mild, while heavier rain
-OL,17,Freaches the northwest later.
+OL,13,CTonight:FGales possible in north
+OL,14,FScotland this evening. Staying cloudy
+OL,15,Fwith drizzly outbreaks across the
+OL,16,Fsouth and east. A spell of heavy rain
+OL,17,Fmoves into the north and west. Mild.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1791775128
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CTuesday:FHeavy rain moves across
+OL,6,FEngland and Wales during the morning
+OL,7,Fwith blustery winds, but turning drier
+OL,8,Fand brighter in the afternoon. Heavy
+OL,9,Fshowers move into the north later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
