@@ -1,8 +1,8 @@
-PN,40800
-SC,0000
+PN,40801
+SC,0001
 CT,3,C
-PS,8008
-OL,0,        ECIMSBWebfax 1   F408A1792045548
+PS,c008
+OL,0,        ECIMSBWebfax 1   F408A1792049149
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GNEWSALong delays as stretch of M60
@@ -19,9 +19,24 @@ OL,14,FIsland, National Highways said.
 OL,16,FGreater Manchester Police were at the
 OL,17,Fscene alongside North West Ambulance
 OL,18,FService and fire crews, it added.
-OL,20,FThree miles (4.8km) of congestion was
-OL,21,Freported on the approach to the
-OL,22,Fclosure.
-OL,23,APub: 15-OctQppppppppppppppppppppppppppp
+OL,23,APub: 15-OctQppppppppppppppppppppppG1/2
+OL,24,ANext PageB NW Eng NewsC Reg TVF Weather
+FL,409,400,260,160,0,100
+PN,40802
+SC,0002
+CT,3,C
+PS,c008
+OL,0,        ECIMSBWebfax 1   F408A1792049149
+OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
+OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
+OL,3,GNEWSALong delays as stretch of M60
+OL,4,Aclosed during police incident
+OL,5,
+OL,6,FIn a statement released after 07:45
+OL,7,FBST, the force said it had been
+OL,8,Fresponding to concerns for a woman's
+OL,9,Fwelfare but she was safe and the road
+OL,10,Fshould open shortly afterwards.
+OL,23,APub: 15-OctQppppppppppppppppppppppG2/2
 OL,24,ANext PageB NW Eng NewsC Reg TVF Weather
 FL,409,400,260,160,0,100
