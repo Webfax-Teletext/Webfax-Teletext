@@ -1,13 +1,13 @@
-PN,32100
-SC,0000
+PN,32101
+SC,0001
 CT,3,C
-PS,8008
-OL,0,        ECIMSBWebfax 1   F321A1792094151
+PS,c008
+OL,0,        ECIMSBWebfax 1   F321A1792095936
 OL,1,W5j 5Q5 7575747575x0w1w1 w17571
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
-OL,3,GNEWSABus and train collide on French
-OL,4,Aside of Channel Tunnel with at least 19
-OL,5,Ahurt
+OL,3,GNEWSABus collides with train stopped on
+OL,4,AFrench side of Channel Tunnel leaving
+OL,5,Aat least 19 hurt
 OL,6,
 OL,7,FAt least 19 people are injured
 OL,8,Ffollowing a crash between a freight
@@ -18,10 +18,26 @@ OL,13,Fthe incident occurred where vehicles
 OL,14,Fwere boarding the Le Shuttle at the
 OL,15,Floading platform for the Eurotunnel
 OL,17,FNo deaths have been reported and no
-OL,18,Flives are in danger, officials say
-OL,20,FEmergency services are at the scene,
-OL,21,Fwith authorities set to provide an
-OL,22,Fupdate later tonight
-OL,23,APub: 15-OctQppppppppppppppppppppppppppp
+OL,18,Flives are in danger, officials say.
+OL,19,FLocal media reports five people have
+OL,20,Fbeen assessed as critical
+OL,23,APub: 15-OctQppppppppppppppppppppppG1/2
+OL,24,ANext PageBLon/SE NewsCReg TVFClean Feed
+FL,322,320,200,140,0,100
+PN,32102
+SC,0002
+CT,3,C
+PS,c008
+OL,0,        ECIMSBWebfax 1   F321A1792095936
+OL,1,W5j 5Q5 7575747575x0w1w1 w17571
+OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
+OL,3,GNEWSABus collides with train stopped on
+OL,4,AFrench side of Channel Tunnel leaving
+OL,5,Aat least 19 hurt
+OL,6,
+OL,7,FEmergency services are at the scene,
+OL,8,Fwith authorities set to provide an
+OL,9,Fupdate later tonight
+OL,23,APub: 15-OctQppppppppppppppppppppppG2/2
 OL,24,ANext PageBLon/SE NewsCReg TVFClean Feed
 FL,322,320,200,140,0,100
