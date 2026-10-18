@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,13 +24,13 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,GUK AND WORLDAfrom BBC News
-OL,5,G302FGreen Party's 'Zionism is racism'
-OL,6,Fmotion will not be overturned, Zack
-OL,7,FPolanski tells KuenssbergA18-Oct
+OL,5,G302FZack Polanski tells Kuenssberg he
+OL,6,Fwill not overturn Green Party's
+OL,7,F'Zionism is racism' motionA18-Oct
 OL,8,G
 OL,9,G303FUrgent plan needed to end 'corridor
 OL,10,Fcare' for children, health secretary
@@ -39,12 +39,12 @@ OL,12,G
 OL,13,G304FPolice officer in hospital after
 OL,14,Fbeing shot in NottinghamA18-Oct
 OL,15,G
-OL,16,G305FSwinney's emotional explanation for
-OL,17,Fhis commitment to independenceA17-Oct
-OL,18,G
-OL,19,G306FReform activist suspended after
-OL,20,Freportedly saying Muslims cannot be
-OL,21,FBritishA17-Oct
+OL,16,G305FReform activist suspended after
+OL,17,Freportedly saying Muslims cannot be
+OL,18,FBritishA17-Oct
+OL,19,G
+OL,20,G306FBoy, 14, stabbed in shopping centre
+OL,21,FattackA18-Oct
 OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG2/37
 OL,24,AFirst NewsB Reg NewsCNat TVF Clean Feed
@@ -53,27 +53,25 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AGreen Party's 'Zionism is racism'
-OL,4,Amotion will not be overturned, Zack
-OL,5,APolanski tells Kuenssberg
+OL,3,AZack Polanski tells Kuenssberg he will
+OL,4,Anot overturn Green Party's 'Zionism is
+OL,5,Aracism' motion
 OL,6,
-OL,7,FHealth Secretary Yvette Cooper says
-OL,8,Fchildren should not be being treated in
-OL,9,Fhospital corridors and that an "urgent
-OL,10,Fplan" is needed to tackle the issue -
-OL,11,Fwatch live above
-OL,13,FSpeaking on Sunday with Laura
-OL,14,FKuenssberg, Cooper says "nobody should
-OL,15,Fbe being treated in corridors" and
-OL,16,Funveils 14 urgent treatment centres to
-OL,17,Ftackle the issue
-OL,19,FGreen Party leader Zack Polanski also
-OL,20,Ffaced questions about his party's
-OL,21,Fdecision to pass a motion declaring
-OL,22,FZionism is a form of racism
+OL,7,FGreen Party leader Zack Polanski he
+OL,8,Fwon't overturn the party's "Zionism is
+OL,9,Fracism" motion
+OL,11,FHe tells Sunday with Laura Kuenssberg
+OL,12,Fhe wants to see it amended "at the
+OL,13,Ffirst available opportunity" but that
+OL,14,Fwon't be until at least 2028
+OL,16,FThe motion defines Zionism as an
+OL,17,Fideology supporting "an
+OL,18,Fethnonationalist Jewish state" and
+OL,19,Fbacks "a single democratic Palestinian
+OL,20,Fstate in all of historic Palestine"
 OL,23,APub: 18-OctQppppppppppppppppppppppG3/37
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -81,21 +79,25 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AGreen Party's 'Zionism is racism'
-OL,4,Amotion will not be overturned, Zack
-OL,5,APolanski tells Kuenssberg
+OL,3,AZack Polanski tells Kuenssberg he will
+OL,4,Anot overturn Green Party's 'Zionism is
+OL,5,Aracism' motion
 OL,6,
-OL,7,FHis appearance follows the party's
-OL,8,Ffailure to clinch the Holborn and St
-OL,9,FPancras by-election and debate over a
-OL,10,Fparty conference motion that declared
-OL,11,FZionism a form of racism
-OL,13,FAlso appearing on the programme is
-OL,14,Fshadow secretary for work and pensions
-OL,15,FHelen Whately
+OL,7,FEarlier, Health Secretary Yvette Cooper
+OL,8,Fsaid children should not be being
+OL,9,Ftreated in hospital corridors and that
+OL,10,Fan "urgent plan" is needed to tackle
+OL,11,Fthe issue - watch live above
+OL,13,FCooper says "nobody should be being
+OL,14,Ftreated in corridors" and unveils 14
+OL,15,Furgent treatment centres to tackle the
+OL,16,Fissue
+OL,18,FAlso appearing on the programme is
+OL,19,Fshadow secretary for work and pensions
+OL,20,FHelen Whately
 OL,23,APub: 18-OctQppppppppppppppppppppppG4/37
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -103,7 +105,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AUrgent plan needed to end 'corridor
@@ -131,7 +133,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AUrgent plan needed to end 'corridor
@@ -148,7 +150,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,APolice officer in hospital after being
@@ -159,13 +161,12 @@ OL,7,Fhospital after being shot in Nottingham
 OL,8,Fcity centre.
 OL,10,FNottinghamshire Police said the officer
 OL,11,Fhad approached two suspects in Angel
-OL,12,FRow shortly before the incident at
-OL,13,F04:50 BST on Sunday.
-OL,15,FThe officer is now being treated for a
-OL,16,Fwound to his foot, the force said.
-OL,18,FDetectives said a firearm was recovered
-OL,19,Fand that two suspects, a man and a
-OL,20,Fwoman, fled the scene.
+OL,12,FRow shortly before 04:50 BST on Sunday.
+OL,14,FThe officer is now being treated for a
+OL,15,Fwound to his foot, the force added.
+OL,17,FDetectives said a firearm was recovered
+OL,18,Fand that two suspects, a man and a
+OL,19,Fwoman, fled the scene.
 OL,23,APub: 18-OctQppppppppppppppppppppppG7/37
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
@@ -173,7 +174,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,APhotos show luxury boat with 50m pool
@@ -198,7 +199,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,APhotos show luxury boat with 50m pool
@@ -216,7 +217,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AA wave of homemade, synthetic drugs
@@ -243,7 +244,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AEuropean diplomats attacked by Israeli
@@ -267,7 +268,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AEuropean diplomats attacked by Israeli
@@ -284,7 +285,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q5 7575747575x0w1w1 w17571
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -313,7 +314,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q,. *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -342,7 +343,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q555pjsjjj js17kjc15 js57kj#4
 OL,2,W//%*// //%Q--% (.*.. *,$%**,%-,* %%**,!
 OL,3,GMAIN STORIESAfrom BBC News
@@ -371,7 +372,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(W)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -400,7 +401,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(E)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -429,7 +430,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-, *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -458,7 +459,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Quzj#5w;jp%p05 jj#57+
 OL,2,W//%*// //%Q,.*,%%** %  -,** %-. (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -487,7 +488,7 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kjs1 wsj#57sj  w{j#57i
 OL,2,W//%*// //%Q%**,$ -,* %-.*,$%** %-& (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -516,7 +517,7 @@ PN,11921
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -545,7 +546,7 @@ PN,11922
 SC,0022
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7k jjs%wsj  w{j#57i
 OL,2,W//%*// //%Q%* ** %-,*,$%** %-& (,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -574,7 +575,7 @@ PN,11923
 SC,0023
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Qwsj#%7k"k#j  w{j#57i
 OL,2,W//%*// //%Q,.*,%-. * *,$%** %-& (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -603,7 +604,7 @@ PN,11924
 SC,0024
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q5j 5w{j  wsjs1
 OL,2,W//%*// //%Q-.,%%**,$-,(,% ,,,,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -632,7 +633,7 @@ PN,11925
 SC,0025
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q7+jp5w{j#57kjs15  jjs1
 OL,2,W//%*// //%Q-.* %%** %%**,$-, *(,% ,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -661,7 +662,7 @@ PN,11926
 SC,0026
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,W5j 5Q5wsj  ws jkjs j#7kjs57k
 OL,2,W//%*// //%Q%,.*,$-, *.*  * %** %%* (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -690,7 +691,7 @@ PN,11927
 SC,0027
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CSunday
@@ -719,7 +720,7 @@ PN,11928
 SC,0028
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CSunday
@@ -746,7 +747,7 @@ PN,11929
 SC,0029
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CSunday
@@ -770,7 +771,7 @@ PN,11930
 SC,0030
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CSunday
@@ -795,7 +796,7 @@ PN,11931
 SC,0031
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSunday
@@ -820,7 +821,7 @@ PN,11932
 SC,0032
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+js1
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CSunday
@@ -845,7 +846,7 @@ PN,11933
 SC,0033
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,V7c#####5Ww;js15j 557kj#4 #7!5j
 OL,2,V5!     5W%**,$-.,%%%**,!  % )&V(,,,,,,,
 OL,3,Vupppppp5CSunday
@@ -873,7 +874,7 @@ PN,11934
 SC,0034
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,V7c#####5Ww;"k#js1 7kj#5ws
 OL,2,V5!     5W%* * *,$ -.* %-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CSunday
@@ -896,7 +897,7 @@ PN,11935
 SC,0035
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSunday
@@ -924,7 +925,7 @@ PN,11936
 SC,0036
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSunday
@@ -947,7 +948,7 @@ PN,11937
 SC,0037
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792315124
+OL,0,        ECIMSBWebfax 1   F119A1792315534
 OL,1,V7c#####5W5jj#7k j#57kjs1
 OL,2,V5!     5W)&* %* *,%%**,$V,,,,,,,,,,,,,,
 OL,3,Vupppppp5CSunday
