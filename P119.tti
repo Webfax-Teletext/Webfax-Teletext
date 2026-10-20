@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,GUK AND WORLDAfrom BBC News
@@ -43,8 +43,8 @@ OL,16,G
 OL,17,G305FUK to deploy jets to defend Saudi
 OL,18,FArabia from Houthi attacksA20-Oct
 OL,19,G
-OL,20,G306FChancellor rejects calls to raise
-OL,21,FCapital Gains Tax in BudgetA20-Oct
+OL,20,G306FPaddy Power cuts 1,400 jobs and
+OL,21,Fblames betting tax risesA20-Oct
 OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG2/40
 OL,24,AFirst NewsB Reg NewsCNat TVF Clean Feed
@@ -53,7 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ACovid inquiry rejects ministers' claims
@@ -68,12 +68,6 @@ OL,12,FBaroness Hallett says the Covid
 OL,13,Fpandemic "totally disrupted" the lives
 OL,14,Fof people in care homes and had a
 OL,15,F"devastating impact"
-OL,17,FHer latest report - on the UK's adult
-OL,18,Fsocial care sector - says care homes
-OL,19,Fseemed "something of an afterthought",
-OL,20,Fand patients were moved there from
-OL,21,Fhospitals with no early guidance to
-OL,22,Fisolate arrivals
 OL,23,APub: 20-OctQppppppppppppppppppppppG3/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -81,23 +75,24 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ACovid inquiry rejects ministers' claims
 OL,4,Aof 'protective ring' around care homes
 OL,5,Aat start of pandemic
 OL,6,
-OL,7,FCare workers had to resort to desperate
-OL,8,Fmeasures to get PPE, with some using
-OL,9,Ffestival waterproof ponchos, painters'
-OL,10,Foveralls and bin bags
-OL,12,FThe government at the time knew the
-OL,13,Fcare sector was "extremely vulnerable"
-OL,14,Fto a pandemic but still failed to act
-OL,15,Funtil it was too late, a campaigner
-OL,16,Ffrom the Covid-19 Bereaved Families for
-OL,17,FJustice says
+OL,7,FHer latest report, on the UK's adult
+OL,8,Fsocial care sector, says care homes
+OL,9,Fseemed "something of an afterthought",
+OL,10,Fand patients were moved there from
+OL,11,Fhospitals with no early guidance to
+OL,12,Fisolate arrivals - read key findings
+OL,13,Ffrom the inquiry
+OL,15,FCare workers had to resort to desperate
+OL,16,Fmeasures to get PPE, with some using
+OL,17,Ffestival waterproof ponchos, painters'
+OL,18,Foveralls and bin bags
 OL,23,APub: 20-OctQppppppppppppppppppppppG4/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -105,21 +100,26 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ACovid inquiry rejects ministers' claims
 OL,4,Aof 'protective ring' around care homes
 OL,5,Aat start of pandemic
 OL,6,
-OL,7,FCurrent Health Secretary Yvette Cooper
-OL,8,Fsays the government will respond to the
-OL,9,Freport's recommendations and says adult
-OL,10,Fsocial care has "for too long been
-OL,11,Fundervalued"
-OL,13,FThere were more than 43,000 deaths
-OL,14,Finvolving Covid in care homes between
-OL,15,FMarch 2020 and July 2022
+OL,7,FThe government at the time knew the
+OL,8,Fcare sector was "extremely vulnerable"
+OL,9,Fto a pandemic but still failed to act
+OL,10,Funtil it was too late, a campaigner for
+OL,11,Fthe families says
+OL,13,FCurrent Health Secretary Yvette Cooper
+OL,14,Fsays the government will respond to the
+OL,15,Freport's recommendations and says adult
+OL,16,Fsocial care has "for too long been
+OL,17,Fundervalued"
+OL,19,FThere were more than 43,000 deaths
+OL,20,Finvolving Covid in care homes between
+OL,21,FMarch 2020 and July 2022
 OL,23,APub: 20-OctQppppppppppppppppppppppG5/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -127,7 +127,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AGoogle Cloud says outage affecting
@@ -154,7 +154,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AGoogle Cloud says outage affecting
@@ -172,7 +172,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AWoman describes alleged assault by
@@ -196,7 +196,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AWoman describes alleged assault by
@@ -214,7 +214,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AMan charged with attack on Australian
@@ -238,7 +238,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AMan charged with attack on Australian
@@ -263,7 +263,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AAlbertans have made 'clear choice' to
@@ -287,7 +287,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AAlbertans have made 'clear choice' to
@@ -309,7 +309,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ASuspect arrested after historic town
@@ -332,7 +332,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ASuspect arrested after historic town
@@ -354,7 +354,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q5 7575747575x0w1w1 w17571
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -383,7 +383,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q,. *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -412,7 +412,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q555pjsjjj js17kjc15 js57kj#4
 OL,2,W//%*// //%Q--% (.*.. *,$%**,%-,* %%**,!
 OL,3,GMAIN STORIESAfrom BBC News
@@ -441,7 +441,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(W)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -470,15 +470,15 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(E)
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G361FMan pleads guilty to murdering
 OL,6,Fmother in stabbingA20-Oct
 OL,7,G
-OL,8,G362FBurnham vows end to 'rip-off
-OL,9,Fparking charges' under new rulesA19-Oct
+OL,8,G362FDriver seriously hurt as van hits
+OL,9,Fstopped car on M1A20-Oct
 OL,10,G
 OL,11,G363FTheatre boss departs after 11 years
 OL,12,Fas CEOA20-Oct
@@ -499,7 +499,7 @@ PN,11921
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-, *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -515,8 +515,8 @@ OL,13,G
 OL,14,G374FWoman bailed as baby death inquiry
 OL,15,FcontinuesA20-Oct
 OL,16,G
-OL,17,G375FNHS trust prosecuted over
-OL,18,Fchildren's sepsis deathsA20-Oct
+OL,17,G375FUber driver cleared of murdering
+OL,18,Fvomiting passengerA20-Oct
 OL,19,G
 OL,20,G376FStem cell donation leads to a
 OL,21,Ffootball friendshipA20-Oct
@@ -528,15 +528,15 @@ PN,11922
 SC,0022
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Quzj#5w;jp%p05 jj#57+
 OL,2,W//%*// //%Q,.*,%%** %  -,** %-. (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G381FNew station puts city at heart of
 OL,6,Fnetwork - mayorA20-Oct
 OL,7,G
-OL,8,G382FOver 11,000 bin collections missed
-OL,9,Fin five monthsA20-Oct
+OL,8,G382FShop loses licence after drugs and
+OL,9,Fweapons foundA20-Oct
 OL,10,G
 OL,11,G383FWoman, 76, seriously hurt after
 OL,12,Fbeing hit by carA20-Oct
@@ -544,11 +544,11 @@ OL,13,G
 OL,14,G384FFamily's tribute to veteran killed
 OL,15,Fin attackA20-Oct
 OL,16,G
-OL,17,G385FBypass work to start after
-OL,18,Fcontractor appointedA20-Oct
+OL,17,G385FVigilante warning as man in van
+OL,18,Fapproaches childrenA19-Oct
 OL,19,G
-OL,20,G386F'Smart glasses let other people see
-OL,21,Ffor me'A20-Oct
+OL,20,G386FBypass work to start after
+OL,21,Fcontractor appointedA20-Oct
 OL,22,G
 OL,23,QpppppppppppppppppppppppppppppppppG22/40
 OL,24,ANext PageB Reg NewsC Nat TVF Clean Feed
@@ -557,7 +557,7 @@ PN,11923
 SC,0023
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kjs1 wsj#57sj  w{j#57i
 OL,2,W//%*// //%Q%**,$ -,* %-.*,$%** %-& (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -586,7 +586,7 @@ PN,11924
 SC,0024
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -615,7 +615,7 @@ PN,11925
 SC,0025
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7k jjs%wsj  w{j#57i
 OL,2,W//%*// //%Q%* ** %-,*,$%** %-& (,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -644,7 +644,7 @@ PN,11926
 SC,0026
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Qwsj#%7k"k#j  w{j#57i
 OL,2,W//%*// //%Q,.*,%-. * *,$%** %-& (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -673,7 +673,7 @@ PN,11927
 SC,0027
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q5j 5w{j  wsjs1
 OL,2,W//%*// //%Q-.,%%**,$-,(,% ,,,,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -684,13 +684,13 @@ OL,8,G432FArmed police swoop as man, 61,
 OL,9,Farrested for murder and woman in car
 OL,10,Fcrash diesA20-Oct
 OL,11,G
-OL,12,G433FMoment giant fin whale's huge mouth
-OL,13,Fengulfs thousands of tonnes of water
-OL,14,A20-Oct
+OL,12,G433FFirst Minister's Questions returns
+OL,13,Fto Senedd ahead of council tax
+OL,14,FannouncementA20-Oct
 OL,15,G
-OL,16,G434F'I started ketamine at 14 and
-OL,17,Fneeded nappies at 22' - the rise of
-OL,18,Fyoung people going to rehabA19-Oct
+OL,16,G434FMoment giant fin whale's huge mouth
+OL,17,Fengulfs thousands of gallons of water
+OL,18,A20-Oct
 OL,19,G
 OL,20,F
 OL,21,F
@@ -702,15 +702,15 @@ PN,11928
 SC,0028
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q7+jp5w{j#57kjs15  jjs1
 OL,2,W//%*// //%Q-.* %%** %%**,$-, *(,% ,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G441FChildren's hub benefits not clear,
 OL,6,Fsays scrutinyA20-Oct
 OL,7,G
-OL,8,G442FFamilies told food waste cut can
-OL,9,Fsave #1k a yearA20-Oct
+OL,8,G442FConcerns raised over declining fish
+OL,9,FnumbersA20-Oct
 OL,10,G
 OL,11,G443FStrong winds could damage trees and
 OL,12,Fdisrupt travelA20-Oct
@@ -731,7 +731,7 @@ PN,11929
 SC,0029
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,W5j 5Q5wsj  ws jkjs j#7kjs57k
 OL,2,W//%*// //%Q%,.*,$-, *.*  * %** %%* (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -760,7 +760,7 @@ PN,11930
 SC,0030
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CTuesday
@@ -789,7 +789,7 @@ PN,11931
 SC,0031
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -818,7 +818,7 @@ PN,11932
 SC,0032
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CTuesday
@@ -847,7 +847,7 @@ PN,11933
 SC,0033
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -873,7 +873,7 @@ PN,11934
 SC,0034
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -897,7 +897,7 @@ PN,11935
 SC,0035
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+js1
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CTuesday
@@ -922,7 +922,7 @@ PN,11936
 SC,0036
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,V7c#####5Ww;js15j 557kj#4 #7!5j
 OL,2,V5!     5W%**,$-.,%%%**,!  % )&V(,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -949,7 +949,7 @@ PN,11937
 SC,0037
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,V7c#####5Ww;"k#js1 7kj#5ws
 OL,2,V5!     5W%* * *,$ -.* %-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -978,7 +978,7 @@ PN,11938
 SC,0038
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500962
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -1006,7 +1006,7 @@ PN,11939
 SC,0039
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500963
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -1030,7 +1030,7 @@ PN,11940
 SC,0040
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792500526
+OL,0,        ECIMSBWebfax 1   F119A1792500963
 OL,1,V7c#####5W5jj#7k j#57kjs1
 OL,2,V5!     5W)&* %* *,%%**,$V,,,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
