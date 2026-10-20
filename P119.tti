@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,GUK AND WORLDAfrom BBC News
@@ -32,20 +32,20 @@ OL,5,G302FGovernment failures allowed Covid
 OL,6,Fto 'spread like wildfire' in care
 OL,7,Fhomes, inquiry saysA20-Oct
 OL,8,G
-OL,9,G303FGoogle Cloud says outage affecting
-OL,10,Fbanks and court video links caused by
-OL,11,F'power event'A20-Oct
+OL,9,G303FBBC Three, BBC Scotland and Radio 4
+OL,10,FExtra broadcast channels to close
+OL,11,A20-Oct
 OL,12,G
-OL,13,G304FWoman describes alleged assault by
-OL,14,FRussell Brand as 'frenzied' and
-OL,15,F'violent'A20-Oct
+OL,13,G304FGoogle Cloud says services are
+OL,14,Frecovering after outage hit banks,
+OL,15,Fbusinesses, and courtsA20-Oct
 OL,16,G
-OL,17,G305FUK to deploy jets to defend Saudi
-OL,18,FArabia from Houthi attacksA20-Oct
-OL,19,G
-OL,20,G306FPaddy Power cuts 1,400 jobs and
-OL,21,Fblames betting tax risesA20-Oct
-OL,22,G
+OL,17,G305FWoman describes alleged assault by
+OL,18,FRussell Brand as 'frenzied' and
+OL,19,F'violent'A20-Oct
+OL,20,G
+OL,21,F
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/40
 OL,24,AFirst NewsB Reg NewsCNat TVF Clean Feed
 FL,302,301,200,140,0,100
@@ -53,21 +53,21 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AGovernment failures allowed Covid to
 OL,4,A'spread like wildfire' in care homes,
 OL,5,Ainquiry says
 OL,6,
-OL,7,FMinisters' claims of there being a
-OL,8,F"protective ring" around care homes at
-OL,9,Fthe start of Covid were unfounded,
-OL,10,Faccording to the Covid inquiry
-OL,12,FBaroness Hallett says the Covid
-OL,13,Fpandemic "totally disrupted" the lives
-OL,14,Fof people in care homes and had a
-OL,15,F"devastating impact"
+OL,7,FGovernment failures created
+OL,8,Fenvironments in care settings in which
+OL,9,FCovid could spread like wildfire, an
+OL,10,Finquiry report says
+OL,12,FMinisters' claims of there being a
+OL,13,F"protective ring" around care homes at
+OL,14,Fthe start of Covid were unfounded, the
+OL,15,Freport says
 OL,23,APub: 20-OctQppppppppppppppppppppppG3/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -75,24 +75,25 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AGovernment failures allowed Covid to
 OL,4,A'spread like wildfire' in care homes,
 OL,5,Ainquiry says
 OL,6,
-OL,7,FHer latest report, on the UK's adult
-OL,8,Fsocial care sector, says care homes
-OL,9,Fseemed "something of an afterthought",
-OL,10,Fand patients were moved there from
-OL,11,Fhospitals with no early guidance to
-OL,12,Fisolate arrivals - read key findings
-OL,13,Ffrom the inquiry
-OL,15,FCare workers had to resort to desperate
-OL,16,Fmeasures to get PPE, with some using
-OL,17,Ffestival waterproof ponchos, painters'
-OL,18,Foveralls and bin bags
+OL,7,FBaroness Hallett says the Covid
+OL,8,Fpandemic "totally disrupted" the lives
+OL,9,Fof people in care homes and had a
+OL,10,F"devastating impact" - there were more
+OL,11,Fthan 43,000 deaths involving Covid in
+OL,12,Fcare homes between March 2020 and July
+OL,13,F2022
+OL,15,FHer latest report, on the UK's adult
+OL,16,Fsocial care sector, says patients were
+OL,17,Fmoved to care homes from hospitals with
+OL,18,Fno early guidance to isolate arrivals -
+OL,19,Fread key findings from the inquiry
 OL,23,APub: 20-OctQppppppppppppppppppppppG4/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -100,26 +101,25 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AGovernment failures allowed Covid to
 OL,4,A'spread like wildfire' in care homes,
 OL,5,Ainquiry says
 OL,6,
-OL,7,FThe government at the time knew the
-OL,8,Fcare sector was "extremely vulnerable"
-OL,9,Fto a pandemic but still failed to act
-OL,10,Funtil it was too late, a campaigner for
-OL,11,Fthe families says
-OL,13,FCurrent Health Secretary Yvette Cooper
-OL,14,Fsays the government will respond to the
-OL,15,Freport's recommendations and says adult
-OL,16,Fsocial care has "for too long been
-OL,17,Fundervalued"
-OL,19,FThere were more than 43,000 deaths
-OL,20,Finvolving Covid in care homes between
-OL,21,FMarch 2020 and July 2022
+OL,7,FCare workers had to resort to desperate
+OL,8,Fmeasures to get PPE, with some using
+OL,9,Ffestival waterproof ponchos, painters'
+OL,10,Foveralls and bin bags
+OL,12,FThe government at the time knew the
+OL,13,Fcare sector was "extremely vulnerable"
+OL,14,Fbut still failed to act until it was
+OL,15,Ftoo late, families say
+OL,17,FPrime Minister Andy Burnham has pledged
+OL,18,Fto use the findings to develop an
+OL,19,F"action plan" in case of a future
+OL,20,Fpandemic
 OL,23,APub: 20-OctQppppppppppppppppppppppG5/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,303,300,200,140,0,100
@@ -127,26 +127,26 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AGoogle Cloud says outage affecting
-OL,4,Abanks and court video links caused by
-OL,5,A'power event'
-OL,6,
-OL,7,FGoogle says an outage in its Cloud
-OL,8,Fservice - which has caused problems for
-OL,9,Fcourts, banks, and other businesses
-OL,10,Fonline - was caused by a "power event"
-OL,12,FOnline bank Revolut, Halifax bank, and
-OL,13,Fdelivery service DPD were among the
-OL,14,Fbusinesses reporting issues
-OL,16,FElsewhere, the courts service said its
-OL,17,Fvideo links were affected - the
-OL,18,FCriminal Bar Association said
-OL,19,Fprosecution and defence barristers in
-OL,20,FEngland and Wales could not "proceed
-OL,21,Fwith trials and other hearings"
+OL,3,ABBC Three, BBC Scotland and Radio 4
+OL,4,AExtra broadcast channels to close
+OL,5,
+OL,6,FThe BBC is to close its BBC Three and
+OL,7,FBBC Scotland television channels in the
+OL,8,Fspring, as the corporation continues to
+OL,9,Fmake #500m of savings over two years.
+OL,11,FBoth services will become online-only,
+OL,12,Fmeaning they will continue to produce
+OL,13,Fand host some content on iPlayer,
+OL,14,Fwithout the need to fill a terrestrial
+OL,15,FTV schedule.
+OL,17,FThe BBC has also announced the closure
+OL,18,Fof Radio 4 Extra, which largely airs
+OL,19,Fspeech programmes from the BBC's
+OL,20,Farchive, including comedy, drama and
+OL,21,Fdocumentaries.
 OL,23,APub: 20-OctQppppppppppppppppppppppG6/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,304,300,200,140,0,100
@@ -154,17 +154,18 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AGoogle Cloud says outage affecting
-OL,4,Abanks and court video links caused by
-OL,5,A'power event'
-OL,6,
-OL,7,FGoogle says it is "seeing the recovery
-OL,8,Fof services" - our tech reporter
-OL,9,Fexplains why Google Cloud is so
-OL,10,Fimportant
+OL,3,ABBC Three, BBC Scotland and Radio 4
+OL,4,AExtra broadcast channels to close
+OL,5,
+OL,6,FBBC director-general Matt Brittin said:
+OL,7,F"We need to make every pound work
+OL,8,Fharder for audiences as we respond to
+OL,9,Fthe immediate cost pressures and
+OL,10,Freinvent the BBC for a changing world.
+OL,11,FWe all know that means tough choices."
 OL,23,APub: 20-OctQppppppppppppppppppppppG7/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,304,300,200,140,0,100
@@ -172,23 +173,26 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AWoman describes alleged assault by
-OL,4,ARussell Brand as 'frenzied' and
-OL,5,A'violent'
+OL,3,AGoogle Cloud says services are
+OL,4,Arecovering after outage hit banks,
+OL,5,Abusinesses, and courts
 OL,6,
-OL,7,FWarning - this report contains graphic
-OL,8,Fcontent
-OL,10,FA woman who claims Russell Brand
-OL,11,Fsexually assaulted her has described
-OL,12,Fthe alleged attack as "frenzied" and
-OL,13,F"violent".
-OL,15,FBrand, 51, faces seven charges in the
-OL,16,Ftrial - three counts of rape, three
-OL,17,Fcharges of sexual assault and one of
-OL,18,Findecent assault.
+OL,7,FGoogle says services are recovering for
+OL,8,F"most workloads" after problems with
+OL,9,Fits Cloud service affected banks, other
+OL,10,Fbusinesses, and courts
+OL,12,FRevolut, Halifax, HSBC, delivery
+OL,13,Fservice DPD, and e-bike service Forest
+OL,14,Fwere among the businesses affected
+OL,16,FElsewhere, the courts service said its
+OL,17,Fvideo links were affected - the
+OL,18,FCriminal Bar Association said earlier
+OL,19,Fthat prosecution and defence barristers
+OL,20,Fin England and Wales could not "proceed
+OL,21,Fwith trials and other hearings"
 OL,23,APub: 20-OctQppppppppppppppppppppppG8/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
@@ -196,17 +200,15 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,AWoman describes alleged assault by
-OL,4,ARussell Brand as 'frenzied' and
-OL,5,A'violent'
+OL,3,AGoogle Cloud says services are
+OL,4,Arecovering after outage hit banks,
+OL,5,Abusinesses, and courts
 OL,6,
-OL,7,FThe allegations, made by six female
-OL,8,Fcomplainants, span a 10-year period
-OL,9,Fbetween 1999 and 2009. He denies the
-OL,10,Fcharges.
+OL,7,FGoogle says the problem was caused by a
+OL,8,F"power event" at a London data centre
 OL,23,APub: 20-OctQppppppppppppppppppppppG9/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
@@ -214,27 +216,25 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ANorth Korea publishes photos of Kim
-OL,4,AJong Un - why do rumours of his death
-OL,5,Akeep coming back?
+OL,3,AMarseille braces for more unrest after
+OL,4,Aprotests give way to 'apocalyptic'
+OL,5,Adisorder
 OL,6,
-OL,7,FKim Jong Un has appeared in North
-OL,8,FKorean state media looking remarkably
-OL,9,Fhealthy for a man rumoured to have died
-OL,10,Ffrom a brain haemorrhage.
-OL,12,FPhotographs published by state
-OL,13,Fnewspaper Rodong Sinmun show the
-OL,14,F42-year-old dictator touring what the
-OL,15,Fpaper said was a clothing and footwear
-OL,16,Fexhibition with his daughter.
-OL,18,FThe images emerged hours after a
-OL,19,FChinese dissident who lives in the US
-OL,20,Fclaimed, without evidence, that Kim had
-OL,21,Fbeen taken to a hospital in Beijing in
-OL,22,Fa coma and had died.
+OL,7,FThunder and lightning have boomed
+OL,8,Facross Marseille following the
+OL,9,Fweekend's mayhem, illuminating the
+OL,10,Fcracked windows and boarded-up doors of
+OL,11,Fhundreds of businesses that were
+OL,12,Fsmashed as protests gave way to
+OL,13,Fdisorder.
+OL,15,FFrance's second city saw some of the
+OL,16,Fworst violence as chaos gripped the
+OL,17,Fcountry on Saturday. Local business
+OL,18,Fleaders say more than 500 premises were
+OL,19,Fdamaged, and the majority looted.
 OL,23,APub: 20-OctQpppppppppppppppppppppG10/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,313,300,200,140,0,100
@@ -242,16 +242,21 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ANorth Korea publishes photos of Kim
-OL,4,AJong Un - why do rumours of his death
-OL,5,Akeep coming back?
+OL,3,AMarseille braces for more unrest after
+OL,4,Aprotests give way to 'apocalyptic'
+OL,5,Adisorder
 OL,6,
-OL,7,FFor those who watch North Korea
-OL,8,Fclosely, this kind of rumour has become
-OL,9,Falmost routine.
+OL,7,FA police union boss told the BBC that
+OL,8,Fthe weekend had been an "apocalyptic"
+OL,9,Fhell for his colleagues. 118 officers
+OL,10,Fwere injured, representing more than a
+OL,11,Ftenth of the national figure.
+OL,13,FSo far, 101 arrests have been made in
+OL,14,Fthe port city, a quarter of them
+OL,15,Fchildren.
 OL,23,APub: 20-OctQpppppppppppppppppppppG11/40
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,313,300,200,140,0,100
@@ -259,7 +264,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AMan charged with attack on Australian
@@ -283,7 +288,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AMan charged with attack on Australian
@@ -308,7 +313,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AAlbertans have made 'clear choice' to
@@ -332,7 +337,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AAlbertans have made 'clear choice' to
@@ -354,15 +359,15 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q5 7575747575x0w1w1 w17571
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G321FHospice care eases pressure on
-OL,6,Ffamilies, mum saysA20-Oct
+OL,5,G321FEvacuated flat residents will not
+OL,6,Fbe home for ChristmasA20-Oct
 OL,7,G
-OL,8,G322FUnseen Only Fools clips add depth,
-OL,9,Ffilmmaker saysA20-Oct
+OL,8,G322FHospice care eases pressure on
+OL,9,Ffamilies, mum saysA20-Oct
 OL,10,G
 OL,11,G323FWestminster council cuts 520 jobs
 OL,12,Fin savings planA20-Oct
@@ -383,7 +388,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q,. *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -412,7 +417,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q555pjsjjj js17kjc15 js57kj#4
 OL,2,W//%*// //%Q--% (.*.. *,$%**,%-,* %%**,!
 OL,3,GMAIN STORIESAfrom BBC News
@@ -422,17 +427,17 @@ OL,7,G
 OL,8,G342FUrban explorers at empty hotel
 OL,9,Fcould be arrestedA20-Oct
 OL,10,G
-OL,11,G343FBand reforms after members lose
-OL,12,Fsons in crashesA20-Oct
+OL,11,G343FRegular spaceplane flights planned
+OL,12,Fin projectA20-Oct
 OL,13,G
-OL,14,G344FRegular spaceplane flights planned
-OL,15,Fin projectA20-Oct
+OL,14,G344FBand reforms after members lose
+OL,15,Fsons in crashesA20-Oct
 OL,16,G
-OL,17,G345FFood aid charity under pressure
-OL,18,Ffrom fuel costsA20-Oct
+OL,17,G345FCouncil leader to stand down after
+OL,18,Fhealth scaresA20-Oct
 OL,19,G
-OL,20,G346FCouncil leader to stand down after
-OL,21,Fhealth scaresA20-Oct
+OL,20,G346FHedgehog without prickles made
+OL,21,Fcharity ambassadorA20-Oct
 OL,22,G
 OL,23,QpppppppppppppppppppppppppppppppppG18/40
 OL,24,ANext PageB Reg NewsC Nat TVF Clean Feed
@@ -441,7 +446,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(W)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -470,15 +475,15 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(E)
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G361FMan pleads guilty to murdering
 OL,6,Fmother in stabbingA20-Oct
 OL,7,G
-OL,8,G362FNine-foot Lara Croft statue returns
-OL,9,Fto cityA20-Oct
+OL,8,G362FSon sentenced over delay in helping
+OL,9,Fmother who diedA20-Oct
 OL,10,G
 OL,11,G363FTheatre boss departs after 11 years
 OL,12,Fas CEOA20-Oct
@@ -499,7 +504,7 @@ PN,11921
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-, *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -528,15 +533,15 @@ PN,11922
 SC,0022
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Quzj#5w;jp%p05 jj#57+
 OL,2,W//%*// //%Q,.*,%%** %  -,** %-. (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G381FNew station puts city at heart of
 OL,6,Fnetwork - mayorA20-Oct
 OL,7,G
-OL,8,G382FShop loses licence after drugs and
-OL,9,Fweapons foundA20-Oct
+OL,8,G382FCannabis 'gardeners' jailed over
+OL,9,Fgrow worth #3mA20-Oct
 OL,10,G
 OL,11,G383FWoman, 76, seriously hurt after
 OL,12,Fbeing hit by carA20-Oct
@@ -557,7 +562,7 @@ PN,11923
 SC,0023
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kjs1 wsj#57sj  w{j#57i
 OL,2,W//%*// //%Q%**,$ -,* %-.*,$%** %-& (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -586,7 +591,7 @@ PN,11924
 SC,0024
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -615,26 +620,26 @@ PN,11925
 SC,0025
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7k jjs%wsj  w{j#57i
 OL,2,W//%*// //%Q%* ** %-,*,$%** %-& (,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G411FPair sentenced for human
 OL,6,Ftrafficking crimesA20-Oct
 OL,7,G
-OL,8,G412FJudge to rule on Drumcree High
-OL,9,FCourt legal challenge next weekA20-Oct
+OL,8,G412FInquest finds no road or vehicle
+OL,9,Fdefects in fatal A5 crashA20-Oct
 OL,10,G
-OL,11,G413FRyanair offered #67m grant for NI
-OL,12,Fengine facilityA20-Oct
+OL,11,G413FJudge to rule on Drumcree High
+OL,12,FCourt legal challenge next weekA20-Oct
 OL,13,G
-OL,14,G414FFirst section of cross-border
-OL,15,Fbridge arrives by bargeA20-Oct
+OL,14,G414FRyanair offered #67m grant for NI
+OL,15,Fengine facilityA20-Oct
 OL,16,G
-OL,17,G415F'Pimping website' inquiry finds
-OL,18,Fhuman trafficking 'hidden in plain
-OL,19,Fsight' onlineA19-Oct
-OL,20,G
+OL,17,G415FFirst section of cross-border
+OL,18,Fbridge arrives by bargeA20-Oct
+OL,19,G
+OL,20,F
 OL,21,F
 OL,22,F
 OL,23,QpppppppppppppppppppppppppppppppppG25/40
@@ -644,7 +649,7 @@ PN,11926
 SC,0026
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Qwsj#%7k"k#j  w{j#57i
 OL,2,W//%*// //%Q,.*,%-. * *,$%** %-& (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -673,7 +678,7 @@ PN,11927
 SC,0027
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q5j 5w{j  wsjs1
 OL,2,W//%*// //%Q-.,%%**,$-,(,% ,,,,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -684,9 +689,9 @@ OL,8,G432FArmed police swoop as man, 61,
 OL,9,Farrested for murder and woman in car
 OL,10,Fcrash diesA20-Oct
 OL,11,G
-OL,12,G433FRhun ap Iorwerth pays tribute in
-OL,13,FSenedd to children hurt in bus crash
-OL,14,A20-Oct
+OL,12,G433FRhun ap Iorwerth tells Senedd he is
+OL,13,F'deeply concerned' about cuts to BBC
+OL,14,FWalesA20-Oct
 OL,15,G
 OL,16,G434FMoment giant fin whale's huge mouth
 OL,17,Fengulfs thousands of gallons of water
@@ -702,7 +707,7 @@ PN,11928
 SC,0028
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q7+jp5w{j#57kjs15  jjs1
 OL,2,W//%*// //%Q-.* %%** %%**,$-, *(,% ,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -731,7 +736,7 @@ PN,11929
 SC,0029
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,W5j 5Q5wsj  ws jkjs j#7kjs57k
 OL,2,W//%*// //%Q%,.*,$-, *.*  * %** %%* (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -760,7 +765,7 @@ PN,11930
 SC,0030
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CTuesday
@@ -789,7 +794,7 @@ PN,11931
 SC,0031
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -815,7 +820,7 @@ PN,11932
 SC,0032
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CTuesday
@@ -842,7 +847,7 @@ PN,11933
 SC,0033
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -868,7 +873,7 @@ PN,11934
 SC,0034
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -893,7 +898,7 @@ PN,11935
 SC,0035
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+js1
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CTuesday
@@ -918,7 +923,7 @@ PN,11936
 SC,0036
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,V7c#####5Ww;js15j 557kj#4 #7!5j
 OL,2,V5!     5W%**,$-.,%%%**,!  % )&V(,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -946,7 +951,7 @@ PN,11937
 SC,0037
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,V7c#####5Ww;"k#js1 7kj#5ws
 OL,2,V5!     5W%* * *,$ -.* %-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -973,7 +978,7 @@ PN,11938
 SC,0038
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -998,7 +1003,7 @@ PN,11939
 SC,0039
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
@@ -1022,7 +1027,7 @@ PN,11940
 SC,0040
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1792504096
+OL,0,        ECIMSBWebfax 1   F119A1792504580
 OL,1,V7c#####5W5jj#7k j#57kjs1
 OL,2,V5!     5W)&* %* *,%%**,$V,,,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
