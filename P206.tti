@@ -2,27 +2,26 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1792615658
+OL,0,        ECIMSBWebfax 1   F206A1792617538
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday
-OL,5,G2130 The Context
-OL,6,     FA regular panel of guests from
-OL,7,     Facross the political spectrum
-OL,8,     Fdiscuss the biggest international
-OL,9,     Fstories of the day.
-OL,10,G2200 BBC News at Ten
-OL,11,G2230 Newsnight
-OL,12,G2300 BBC World News America
-OL,13,     FThe BBC presents in-depth reports
-OL,14,     Fon the major international and US
-OL,15,     Fnews of the day presented from
-OL,16,     FWashington DC.
-OL,17,G0000 BBC News
-OL,18,G0030 Newscast
-OL,19,     FLighthearted discussion of the
-OL,20,     Fday's news.
-OL,21,G0100 BBC News
+OL,5,G2200 BBC News at Ten
+OL,6,G2230 Newsnight
+OL,7,G2300 BBC World News America
+OL,8,     FThe BBC presents in-depth reports
+OL,9,     Fon the major international and US
+OL,10,     Fnews of the day presented from
+OL,11,     FWashington DC.
+OL,12,G0000 BBC News
+OL,13,G0030 Newscast
+OL,14,     FLighthearted discussion of the
+OL,15,     Fday's news.
+OL,16,G0100 BBC News
+OL,17,G0130 AI Decoded
+OL,18,     FShould we accelerate AI
+OL,19,     Fdevelopment or slow down before
+OL,20,     Fthe risks become unmanageable?
 OL,23,VppppppppppppppppppppppppppppppppppG1/4
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -30,26 +29,25 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1792615658
+OL,0,        ECIMSBWebfax 1   F206A1792617538
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday
-OL,5,G0130 AI Decoded
-OL,6,     FShould we accelerate AI
-OL,7,     Fdevelopment or slow down before
-OL,8,     Fthe risks become unmanageable?
-OL,9,G0200 Newsday
-OL,10,     FLive from Singapore, the latest
-OL,11,     Finternational news from the BBC.
-OL,12,G0230 Business Today
-OL,13,     FBringing the latest business news
-OL,14,     Fand up-to-date informed analysis
-OL,15,     Ffrom Singapore and around the
-OL,16,     Fworld.
-OL,17,G0245 BBC Sport
-OL,18,     FA round-up of the day's sporting
-OL,19,     Faction, plus talking points,
-OL,20,     Fanalysis and original journalism.
+OL,5,G0200 Newsday
+OL,6,     FLive from Singapore, the latest
+OL,7,     Finternational news from the BBC.
+OL,8,G0230 Business Today
+OL,9,     FBringing the latest business news
+OL,10,     Fand up-to-date informed analysis
+OL,11,     Ffrom Singapore and around the
+OL,12,     Fworld.
+OL,13,G0245 BBC Sport
+OL,14,     FA round-up of the day's sporting
+OL,15,     Faction, plus talking points,
+OL,16,     Fanalysis and original journalism.
+OL,17,G0300 Newsday
+OL,18,     FLive from Singapore, the latest
+OL,19,     Finternational news from the BBC.
 OL,23,VppppppppppppppppppppppppppppppppppG2/4
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -57,25 +55,27 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1792615658
+OL,0,        ECIMSBWebfax 1   F206A1792617538
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday
-OL,5,G0300 Newsday
-OL,6,     FLive from Singapore, the latest
-OL,7,     Finternational news from the BBC.
-OL,8,G0330 Business Today
-OL,9,     FBringing the latest business news
-OL,10,     Fand up-to-date informed analysis
-OL,11,     Ffrom Singapore and around the
-OL,12,     Fworld.
-OL,13,G0345 BBC Sport
-OL,14,     FA round-up of the day's sporting
-OL,15,     Faction, plus talking points,
-OL,16,     Fanalysis and original journalism.
-OL,17,G0400 Newsday
-OL,18,     FLive from Singapore, the latest
-OL,19,     Finternational news from the BBC.
+OL,5,G0330 Business Today
+OL,6,     FBringing the latest business news
+OL,7,     Fand up-to-date informed analysis
+OL,8,     Ffrom Singapore and around the
+OL,9,     Fworld.
+OL,10,G0345 BBC Sport
+OL,11,     FA round-up of the day's sporting
+OL,12,     Faction, plus talking points,
+OL,13,     Fanalysis and original journalism.
+OL,14,G0400 Newsday
+OL,15,     FLive from Singapore, the latest
+OL,16,     Finternational news from the BBC.
+OL,17,G0430 Business Today
+OL,18,     FBringing the latest business news
+OL,19,     Fand up-to-date informed analysis
+OL,20,     Ffrom Singapore and around the
+OL,21,     Fworld.
 OL,23,VppppppppppppppppppppppppppppppppppG3/4
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -83,24 +83,19 @@ PN,20604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1792615658
+OL,0,        ECIMSBWebfax 1   F206A1792617538
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CWednesday
-OL,5,G0430 Business Today
-OL,6,     FBringing the latest business news
-OL,7,     Fand up-to-date informed analysis
-OL,8,     Ffrom Singapore and around the
-OL,9,     Fworld.
-OL,10,G0445 BBC Sport
-OL,11,     FA round-up of the day's sporting
-OL,12,     Faction, plus talking points,
-OL,13,     Fanalysis and original journalism.
-OL,14,G0500 BBC News
-OL,15,G0530 Business Today
-OL,16,     FBringing the latest business news
-OL,17,     Fand up-to-date informed analysis
-OL,18,     Ffrom London and around the world.
+OL,5,G0445 BBC Sport
+OL,6,     FA round-up of the day's sporting
+OL,7,     Faction, plus talking points,
+OL,8,     Fanalysis and original journalism.
+OL,9,G0500 BBC News
+OL,10,G0530 Business Today
+OL,11,     FBringing the latest business news
+OL,12,     Fand up-to-date informed analysis
+OL,13,     Ffrom London and around the world.
 OL,23,VppppppppppppppppppppppppppppppppppG4/4
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100

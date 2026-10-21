@@ -1,46 +1,28 @@
-PN,26101
-SC,0001
+PN,26100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F261A1792613943
+PS,8008
+OL,0,        ECIMSBWebfax 1   F261A1792617538
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,$ N IRELAND
 OL,3,Vupppppp5CWednesday
-OL,5,G2100 Who Do You Think You Are?
-OL,6,     F1/7. Comedian Josh Widdicombe
-OL,7,     Fembarks on a rollercoaster ride
-OL,8,     Fthrough his extraordinary family
-OL,9,     Fhistory, including a courtier with
-OL,10,     Fvery personal access to King
-OL,11,     FCharles I.
-OL,12,G2200 BBC News and Weather
-OL,13,G2230 BBC Newsline
-OL,14,G2240 Nolan Live
-OL,15,     FHard-hitting debates on the big
-OL,16,     Fissues, plus interviews that will
-OL,17,     Fget you talking.
-OL,18,G2340 MOTD: UEFA Champions League
-OL,19,     FHighlights from the third round of
-OL,20,     Fmatches in the UEFA Champions
-OL,21,     FLeague group stage.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page  BReg TV CClean Feed  FNat TV
-FL,262,260,140,200,0,100
-PN,26102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 1   F261A1792613943
-OL,1,V7c#####5Ww;js%7+ j#57kjs1
-OL,2,V5!     5W-.*,%-. *,%%**,$V,,$ N IRELAND
-OL,3,Vupppppp5CWednesday
-OL,5,G0100 The Celebrity Inner Circle
-OL,6,     F6/8. Dr Amir Khan, Larry Dean,
-OL,7,     FAnna Williamson, Emmanuel Sonubi
-OL,8,     Fand Flavia Cacace are paired with
-OL,9,     Ffive contestants hoping to outwit
-OL,10,     Feach other to win big.
-OL,11,G0145 BBC News
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G2200 BBC News and Weather
+OL,6,G2230 BBC Newsline
+OL,7,G2240 Nolan Live
+OL,8,     FHard-hitting debates on the big
+OL,9,     Fissues, plus interviews that will
+OL,10,     Fget you talking.
+OL,11,G2340 MOTD: UEFA Champions League
+OL,12,     FHighlights from the third round of
+OL,13,     Fmatches in the UEFA Champions
+OL,14,     FLeague group stage.
+OL,15,G0100 The Celebrity Inner Circle
+OL,16,     F6/8. Dr Amir Khan, Larry Dean,
+OL,17,     FAnna Williamson, Emmanuel Sonubi
+OL,18,     Fand Flavia Cacace are paired with
+OL,19,     Ffive contestants hoping to outwit
+OL,20,     Feach other to win big.
+OL,21,G0145 BBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,262,260,140,200,0,100
