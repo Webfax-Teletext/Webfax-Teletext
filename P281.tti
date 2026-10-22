@@ -1,14 +1,261 @@
-PN,28100
-SC,0000
+PN,28101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F281A1792639091
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1792646401
 OL,1,V7c#####5Wws"k#j 5
 OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
-OL,3,Vupppppp5CWednesday
-OL,5,G0350 Night Vision
-OL,6,     FNews, sport and weather from
-OL,7,     Facross Scotland
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,Vupppppp5CThursday
+OL,5,G0600 Good Morning Britain
+OL,6,G0930 Lorraine
+OL,7,     FEarly morning chat show presented
+OL,8,     Fby Lorraine Kelly, with celebrity
+OL,9,     Finterviews, entertainment news,
+OL,10,     Fcooking tips, fashion features and
+OL,11,     Fmusical guests
+OL,12,G1000 This Morning
+OL,13,     FDaily magazine, featuring a mix of
+OL,14,     Fcelebrity chat, showbusiness news,
+OL,15,     Flifestyle features, topical
+OL,16,     Fdiscussion, health and beauty
+OL,17,     Fadvice and more
+OL,23,VppppppppppppppppppppppppppppppppppG1/11
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1792646401
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G1230 Loose Women
+OL,6,     FThe women put the world to rights
+OL,7,     Fonce more, discussing everything
+OL,8,     Ffrom politics to parenting, and
+OL,9,     Finvite a celebrity guest to chat
+OL,10,     Fabout what they are up to - or
+OL,11,     Fanything else that takes their
+OL,12,     Ffancy
+OL,13,G1330 ITV Lunchtime News; Weather
+OL,14,G1355 STV News; Weather
+OL,23,VppppppppppppppppppppppppppppppppppG2/11
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28103
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1792646401
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G1400 Dickinson's Real Deal
+OL,6,     FDavid Dickinson sets up the
+OL,7,     Fdealer's den in Middlesbrough.
+OL,8,     FStewart Hofgartner dips deep into
+OL,9,     Fhis pocket for an ink stand, Mark
+OL,10,     FStevens tries to avoid looking at
+OL,11,     Fsome magic mirrors, while Fay
+OL,12,     FRutter get the chance to take home
+OL,13,     Fa table full of celebrities
+OL,23,VppppppppppppppppppppppppppppppppppG3/11
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28104
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1792646401
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G1500 Lingo
+OL,6,     FNewcastle couple Jack and Chloe,
+OL,7,     FSunny and his wife Sophie from
+OL,8,     FLondon, and mother and son Sally
+OL,9,     Fand Ash from Pontypool in Wales
+OL,10,     Fuse their powers of deduction to
+OL,11,     Fwork out words that appear in the
+OL,12,     FLingo grids and Puzzlewords. The
+OL,13,     Flast remaining duo have the
+OL,14,     Fopportunity to win the money
+OL,15,     Fthey've banked earlier in the show
+OL,16,     Fto potentially double their
+OL,17,     Fwinnings, or leaving with nothing.
+OL,18,     FHosted by Adil Ray
+OL,19,G1559 STV Weather Central
+OL,23,VppppppppppppppppppppppppppppppppppG4/11
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28105
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1792646401
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G1600 Deal or No Deal
+OL,6,     FEllie joins Stephen Mulhern and
+OL,7,     Fgets her chance to open the iconic
+OL,8,     Fred boxes. Will she be swayed by
+OL,9,     Fone of the Banker's offers for her
+OL,10,     Fbox or resist for a shot at the
+OL,11,     Fjackpot?
+OL,12,G1700 The Chase
+OL,13,     FBradley Walsh presides as Mike
+OL,14,     Ffrom Southampton, Kieran from
+OL,15,     FAyrshire, Gaynor from Bourne and
+OL,16,     FZoe from Warrington form a team to
+OL,17,     Fface one of TV's quiz geniuses.
+OL,18,     FCan they outsmart a Chaser and
+OL,19,     Fescape with a massive cash prize?
+OL,20,G1800 STV News at Six and Weather
+OL,21,     FIncluding regional weather
+OL,22,     Fforecast
+OL,23,VppppppppppppppppppppppppppppppppppG5/11
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28106
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1792646401
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G1830 ITV Evening News; Weather
+OL,6,G1930 What's on Scotland
+OL,7,     FCelebrity interviews and the
+OL,8,     Flatest film and TV releases, as
+OL,9,     Fwell as guides to culture, music
+OL,10,     Fand the arts
+OL,23,VppppppppppppppppppppppppppppppppppG6/11
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28107
+SC,0007
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1792646401
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G2000 The Pride of Britain Awards 2026
+OL,6,     FThis year's ceremony from London's
+OL,7,     FGrosvenor House Hotel sees a
+OL,8,     Fstar-studded line up including His
+OL,9,     FMajesty The King, Jude
+OL,10,     FBelllingham, Davina McCall and
+OL,11,     FAlan Carr celebrate the nation's
+OL,12,     Funsung heroes. Hosted by Carol
+OL,13,     FVorderman and Ashley Banjo, expect
+OL,14,     Fplenty of emotion and surprises
+OL,15,     Falong with inspirational stories
+OL,16,     Fof bravery, achievement and
+OL,17,     Fselflessness. Plus, stepping off
+OL,18,     Ftheir 25th Anniversary Tour for a
+OL,19,     Fspecial performance are boyband
+OL,20,     FBlue
+OL,21,G2205 ITV News at Ten; Weather
+OL,22,G2235 STV News; Weather
+OL,23,VppppppppppppppppppppppppppppppppppG7/11
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28108
+SC,0008
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1792646401
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G2250 Parking: Why Are We Paying So
+OL,6,G     Much? Tonight
+OL,7,     FLatest figures show the number of
+OL,8,     Fprivate parking tickets being
+OL,9,     Fgiven out has reached a record
+OL,10,     Fhigh, at nearly 17 million a year-
+OL,11,     Fthat's around 46,000 every day.
+OL,12,     FSo, with millions more being paid
+OL,13,     Fby drivers, are the current rules
+OL,14,     Ffair or are motorists being taken
+OL,15,     Ffor a ride? Paul Brand
+OL,16,     Finvestigates
+OL,23,VppppppppppppppppppppppppppppppppppG8/11
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28109
+SC,0009
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1792646401
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G2315 The Real Unforgotten
+OL,6,     FPart two of two. The detectives
+OL,7,     Funravel long-forgotten secrets and
+OL,8,     Fhave a potential circumstantial
+OL,9,     Fcase against two suspects, but
+OL,10,     Fthey need more to prove their case
+OL,11,     Fin court - fortunately, they get a
+OL,12,     Fbreakthrough after an appeal for
+OL,13,     Fnew witnesses with testimony that
+OL,14,     Fchanges everything. Can the
+OL,15,     Fdetectives finally uncover what
+OL,16,     Fhappened to Carol?
+OL,17,G0015 Shop on TV
+OL,23,VppppppppppppppppppppppppppppppppppG9/11
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28110
+SC,0010
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1792646401
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G0300 British Touring Car Championship
+OL,6,G     Highlights
+OL,7,     FNicki Shields presents action from
+OL,8,     Fthe 10th and final weekend of the
+OL,9,     Fseason from Brands Hatch,
+OL,10,     Ffeaturing the 28th, 29th and 30th
+OL,11,     Fraces of the campaign. In the
+OL,12,     Fprevious meeting at Silverstone,
+OL,13,     FAshley Sutton secured the
+OL,14,     Fchampionship in style, clinching
+OL,15,     Fan unprecedented fifth BTCC title
+OL,16,     Fwith four races to spare, but
+OL,17,     Fother titles were still to be
+OL,18,     Fdecided. With commentary by David
+OL,19,     FAddison and Tim Harvey
+OL,23,VpppppppppppppppppppppppppppppppppG10/11
+OL,24,ANext Page  BReg TV CClean Feed  FNat TV
+FL,282,260,140,200,0,100
+PN,28111
+SC,0011
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F281A1792646401
+OL,1,V7c#####5Wws"k#j 5
+OL,2,V5!     5W,. * ",!V,,,,,,,,,,,,$FCENTRAL
+OL,3,Vupppppp5CThursday
+OL,5,G0415 Unwind with STV
+OL,6,     FDaily escape designed to calm the
+OL,7,     Fmind and encourage relaxation and
+OL,8,     Freflection
+OL,9,G0505 Deal or No Deal
+OL,10,     FEllie joins Stephen Mulhern and
+OL,11,     Fgets her chance to open the iconic
+OL,12,     Fred boxes. Will she be swayed by
+OL,13,     Fone of the Banker's offers for her
+OL,14,     Fbox or resist for a shot at the
+OL,15,     Fjackpot?
+OL,23,VpppppppppppppppppppppppppppppppppG11/11
 OL,24,ANext Page  BReg TV CClean Feed  FNat TV
 FL,282,260,140,200,0,100
