@@ -1,27 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1792684585
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1792727262
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FStorm Austen
-OL,6,Fmoving east across southern areas
-OL,7,Fovernight with damaging winds possible
-OL,8,Fin Cornwall and west Devon later.
-OL,9,FHeavy rain sweeping north across most
-OL,10,Fareas with frequent squally showers
-OL,11,Ffollowing to the south. Drier with
-OL,12,Fsome frost in northeast Scotland.
-OL,13,
-OL,14,CFriday:FSevere gales in the south and
-OL,15,Fwest, these easing later. Winds
-OL,16,Fincreasing through the day elsewhere,
-OL,17,Fwith heavy rain or showers for many
-OL,18,Fbut brighter further west. Feeling
-OL,19,Frather cold.
+OL,5,CToday:FSevere gales in the south and
+OL,6,Fwest, as Storm Austen moves its way
+OL,7,Feastwards, these easing later. Winds
+OL,8,Fincreasing through the day elsewhere,
+OL,9,Fwith heavy rain or showers for many
+OL,10,Fbut turning drier in the west. Feeling
+OL,11,Frather cold.
+OL,12,
+OL,13,CTonight:FStorm Austen moves off
+OL,14,Ftowards the North Sea as winds slowly
+OL,15,Fease overnight. Much drier for all but
+OL,16,Frain and showers move into the west by
+OL,17,Fdawn. Staying rather cloudy.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1792727262
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FStorm Boelo moves into the
+OL,6,Fnorthwest, bringing widespread rain
+OL,7,Ffor all, heaviest in the west. Winds
+OL,8,Fstrengthen through the day with the
+OL,9,Fstrongest being in the north and west.
+OL,10,FMild.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
