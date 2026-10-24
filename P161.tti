@@ -1,27 +1,43 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1792768725
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1792811929
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FStorm Austen
-OL,6,Fclearing with winds easing this
-OL,7,Fevening. Showers continuing across
-OL,8,Fsome southwestern areas but most
-OL,9,Fplaces becoming dry with clear spells.
-OL,10,FCold and locally frosty in the
-OL,11,Fnortheast but rain and freshening
-OL,12,Fwinds arriving in the far west later.
-OL,13,
-OL,14,CSaturday:FAfter a bright start in some
-OL,15,Feastern areas, heavy rain and
-OL,16,Fstrengthening winds quickly sweeping
-OL,17,Feast as Storm Boelo arrives. Gales
-OL,18,Fdeveloping for many with damaging
-OL,19,Fwinds possible further north.
+OL,5,CToday:FAfter a bright start in some
+OL,6,Feastern areas, heavy rain and
+OL,7,Fstrengthening winds quickly sweeping
+OL,8,Feast as Storm Boelo arrives. Heaviest
+OL,9,Fof the rain in the west and north,
+OL,10,Fwith gales developing for many with
+OL,11,Fdamaging winds possible further north.
+OL,12,
+OL,13,CTonight:FMuch of the rain clears the
+OL,14,Fsoutheast through the night with some
+OL,15,Fheavy showers continuing in the north
+OL,16,Fwith Storm Boelo slowly tracking
+OL,17,Feastwards. Staying windy with gales
+OL,18,Ffurther north.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1792811929
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FStrong winds remain for many
+OL,6,Fwith gales in the northeast. Slowly
+OL,7,Feasing through the day as Storm Boelo
+OL,8,Fmoves off. Sunny spells in the south
+OL,9,Fwith showers in the north.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
