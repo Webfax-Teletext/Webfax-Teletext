@@ -2,26 +2,28 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1792853293
+OL,0,        ECIMSBWebfax 1   F206A1792855110
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday
-OL,5,G1545 Newswatch
-OL,6,     FShould government employees be
-OL,7,     Fworking on secondment for BBC
-OL,8,     FNews?
-OL,9,G1600 BBC News
-OL,10,G1630 Political Thinking with Nick
-OL,11,G     Robinson
-OL,12,     FKanishka Narayan's journey from a
-OL,13,     Fchildhood in India to his role as
-OL,14,     FAI minister.
-OL,15,G1700 BBC News
-OL,16,G1800 BBC News
-OL,17,G1830 BBC News
-OL,18,G1900 BBC News
-OL,19,G1930 BBC News
-OL,20,G2000 BBC News
+OL,5,G1600 BBC News
+OL,6,G1630 Political Thinking with Nick
+OL,7,G     Robinson
+OL,8,     FKanishka Narayan's journey from a
+OL,9,     Fchildhood in India to his role as
+OL,10,     FAI minister.
+OL,11,G1700 BBC News
+OL,12,G1800 BBC News
+OL,13,G1830 BBC News
+OL,14,G1900 BBC News
+OL,15,G1930 BBC News
+OL,16,G2000 BBC News
+OL,17,G2030 Newscast
+OL,18,     FLighthearted discussion of the
+OL,19,     Fday's news.
+OL,20,G2100 BBC News
+OL,21,G2200 BBC News
+OL,22,G2300 BBC News
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -29,27 +31,26 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1792853293
+OL,0,        ECIMSBWebfax 1   F206A1792855110
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday
-OL,5,G2030 Newscast
-OL,6,     FLighthearted discussion of the
-OL,7,     Fday's news.
-OL,8,G2100 BBC News
-OL,9,G2200 BBC News
-OL,10,G2300 BBC News
-OL,11,G2330 Talking Business
-OL,12,     FWhy are record amounts of money
-OL,13,     Fpouring into sport?
-OL,14,G0000 BBC News
-OL,15,G0030 Newsnight
-OL,16,G0100 BBC News
-OL,17,G0130 Unspun World with John Simpson
-OL,18,     FJohn Simpson analyses the toll on
-OL,19,     FSaudi Arabia of ongoing attacks by
-OL,20,     Fthe Houthis.
-OL,21,G0200 BBC News
+OL,5,G2330 Talking Business
+OL,6,     FWhy are record amounts of money
+OL,7,     Fpouring into sport?
+OL,8,G0000 BBC News
+OL,9,G0030 Newsnight
+OL,10,G0100 BBC News
+OL,11,G0130 Unspun World with John Simpson
+OL,12,     FJohn Simpson analyses the toll on
+OL,13,     FSaudi Arabia of ongoing attacks by
+OL,14,     Fthe Houthis.
+OL,15,G0200 BBC News
+OL,16,G0230 AI Decoded
+OL,17,     FMeta and Apple alliance raises one
+OL,18,     Fof the biggest questions facing
+OL,19,     Fthe AI industry.
+OL,20,G0300 BBC News
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -57,28 +58,23 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1792853293
+OL,0,        ECIMSBWebfax 1   F206A1792855110
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CSaturday
-OL,5,G0230 AI Decoded
-OL,6,     FMeta and Apple alliance raises one
-OL,7,     Fof the biggest questions facing
-OL,8,     Fthe AI industry.
-OL,9,G0300 BBC News
-OL,10,G0330 Global Eye
-OL,11,     FShaina Oppenheimer reports from
-OL,12,     FIsrael ahead of a closely fought
-OL,13,     Felection.
-OL,14,G0400 BBC News
-OL,15,G0430 Clive Myrie's African Adventure
-OL,16,     FClive gets a Ghanaian-style
-OL,17,     Fmakeover and discovers how to make
-OL,18,     Fa fantasy coffin.
-OL,19,G0500 BBC News
-OL,20,G0530 Talking Business
-OL,21,     FWhy are record amounts of money
-OL,22,     Fpouring into sport?
+OL,5,G0330 Global Eye
+OL,6,     FShaina Oppenheimer reports from
+OL,7,     FIsrael ahead of a closely fought
+OL,8,     Felection.
+OL,9,G0400 BBC News
+OL,10,G0430 Clive Myrie's African Adventure
+OL,11,     FClive gets a Ghanaian-style
+OL,12,     Fmakeover and discovers how to make
+OL,13,     Fa fantasy coffin.
+OL,14,G0500 BBC News
+OL,15,G0530 Talking Business
+OL,16,     FWhy are record amounts of money
+OL,17,     Fpouring into sport?
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
