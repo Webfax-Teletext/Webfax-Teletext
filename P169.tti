@@ -1,29 +1,49 @@
-PN,16900
-SC,0000
+PN,16901
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F169A1792856869
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F169A1792900081
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy and
-OL,6,Fwet during the first half of the
-OL,7,Fnight, with strong, blustery winds.
-OL,8,FClear and dry during the second half
-OL,9,Fof the night, but remaining windy.
+OL,5,CToday:FStaying largely dry with sunny
+OL,6,Fspells, but windy. The odd shower may
+OL,7,Faffect northern parts for a time.
+OL,8,FStrong winds throughout the day, with
+OL,9,Fcoastal gales. The wind starts to ease
+OL,10,Fovernight.
+OL,11,
+OL,12,CTonight:FClear and dry to start the
+OL,13,Fnight. Clouding over later, with light
+OL,14,Frain across western parts by Monday
+OL,15,Fmorning. The wind gradually eases to a
+OL,16,Fgentle breeze.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,170,160,301,260,100,100
+PN,16902
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F169A1792900081
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GEast
+OL,4,
+OL,5,CMonday:FRain soon moves in to affect
+OL,6,Fmost parts by late morning. Becoming
+OL,7,Fdry but remaining cloudy later in the
+OL,8,Fafternoon as the rain clears. Turning
+OL,9,Fbreezy, especially along coasts.
 OL,10,
-OL,11,CSunday:FAnother windy day, but
-OL,12,Fremaining dry in most places, with
-OL,13,Fsome sunny spells. The wind will be
-OL,14,Fparticularly strong along the coast.
-OL,15,
-OL,16,COutlook for Monday to Wednesday:
-OL,17,FRemaining breezy in the coming days,
-OL,18,Fwith bands of rain on Monday and
-OL,19,FTuesday, followed by sunny spells and
-OL,20,Fshowers. A drier and more settled day
-OL,21,Foverall by Wednesday.
+OL,11,COutlook for Tuesday to Thursday:FBreezy
+OL,12,Fwith rain and showers Tuesday morning,
+OL,13,Fclearing later. Mostly dry on
+OL,14,FWednesday, with the wind easing during
+OL,15,Fthe afternoon. Foggy Thursday morning,
+OL,16,Fwith brighter conditions later and
+OL,17,Flighter winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,170,160,301,260,100,100
