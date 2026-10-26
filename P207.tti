@@ -1,25 +1,41 @@
-PN,20700
-SC,0000
+PN,20701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F207A1793026107
+PS,c008
+OL,0,        ECIMSBWebfax 1   F207A1793029707
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
 OL,3,Vupppppp5CMonday
-OL,5,G1430 House of Commons
-OL,6,     FCoverage of questions to Shabana
-OL,7,     FMahmood on Monday 26 October.
-OL,8,G1530 House of Commons
-OL,9,     FCoverage of the day's proceedings
-OL,10,     Fin the House of Commons on Monday
-OL,11,     F26 October.
-OL,12,G2230 Lords Questions
-OL,13,     FQuestions in the House of Lords to
-OL,14,     Fgovernment ministers on Monday 26
-OL,15,     FOctober.
-OL,16,G2315 House of Lords
-OL,17,     FBusiness in the House of Lords on
-OL,18,     FMonday 26 October.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,5,G1530 House of Commons
+OL,6,     FCoverage of a government statement
+OL,7,     Fon civil service pensions, on
+OL,8,     FMonday 26 October.
+OL,9,G1630 House of Commons
+OL,10,     FCoverage of a statement on rough
+OL,11,     Fsleeping and Good Growth Fund
+OL,12,     Finitiatives to reduce it.
+OL,13,G1715 House of Commons
+OL,14,     FCoverage of the day's proceedings
+OL,15,     Fin the House of Commons on Monday
+OL,16,     F26 October.
+OL,17,G2230 Lords Questions
+OL,18,     FQuestions in the House of Lords to
+OL,19,     Fgovernment ministers on Monday 26
+OL,20,     FOctober.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,208,200,140,260,0,100
+PN,20702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F207A1793029707
+OL,1,V7c#####5Ww;js%7+ js5w{js%5
+OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
+OL,3,Vupppppp5CMonday
+OL,5,G2315 House of Lords
+OL,6,     FBusiness in the House of Lords on
+OL,7,     FMonday 26 October.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,208,200,140,260,0,100
