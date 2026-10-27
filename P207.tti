@@ -1,15 +1,56 @@
-PN,20700
-SC,0000
+PN,20701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F207A1793076458
+PS,c008
+OL,0,        ECIMSBWebfax 1   F207A1793081989
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
-OL,3,Vupppppp5CMonday
-OL,5,G0435 Select Committees
-OL,6,     FA select committee session on the
-OL,7,     Fmachinery of government, from
-OL,8,     FWednesday 21 October.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,Vupppppp5CTuesday
+OL,5,G0700 House of Commons
+OL,6,     FCoverage of questions to Shabana
+OL,7,     FMahmood on Monday 26 October.
+OL,8,G0815 Select Committees
+OL,9,     FCoverage of the Treasury select
+OL,10,     Fcommittee session on the Budget,
+OL,11,     Fon Tuesday 20 October.
+OL,12,G1000 Select Committees
+OL,13,     FThe Environment, Food and Rural
+OL,14,     FAffairs select committee session
+OL,15,     Fon the future of farming.
+OL,16,G1130 House of Commons
+OL,17,     FCoverage of questions to Ed
+OL,18,     FMiliband on Tuesday 27 October.
+OL,19,G1230 House of Commons
+OL,20,     FCoverage of the day's proceedings
+OL,21,     Fin the House of Commons on Tuesday
+OL,22,     F27 October.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,208,200,140,260,0,100
+PN,20702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F207A1793081989
+OL,1,V7c#####5Ww;js%7+ js5w{js%5
+OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
+OL,3,Vupppppp5CTuesday
+OL,5,G1930 House of Lords
+OL,6,     FCoverage of proceedings in the
+OL,7,     FHouse of Lords on Tuesday 27
+OL,8,     FOctober.
+OL,9,G2200 Scottish First Minister's
+OL,10,G     Questions
+OL,11,     FQuestions from backbench MSPs to
+OL,12,     FJohn Swinney, the first minister,
+OL,13,     Fon Tuesday 27 October.
+OL,14,G2230 Lords Questions
+OL,15,     FQuestions in the House of Lords to
+OL,16,     Fgovernment ministers on Tuesday 27
+OL,17,     FOctober.
+OL,18,G2315 House of Lords
+OL,19,     FBusiness in the House of Lords on
+OL,20,     FTuesday 27 October.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,208,200,140,260,0,100
