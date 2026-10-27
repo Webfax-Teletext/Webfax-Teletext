@@ -1,27 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1793033312
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1793076458
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FAnother band
-OL,6,Fof heavy rain moving into western
-OL,7,Fareas through the evening, spreading
-OL,8,Feastwards across the rest of the UK
-OL,9,Fovernight. Widely very windy, with
-OL,10,Fsevere gales across northwest
-OL,11,FScotland. A much milder night to come,
-OL,12,Fespecially in the east.
-OL,13,
-OL,14,CTuesday:FEarly rain clearing to sunny
-OL,15,Fspells and showers. Showers heaviest
-OL,16,Fand most frequent in the northwest.
-OL,17,FAnother windy day, with severe gales
-OL,18,Facross parts of Scotland in
-OL,19,Fparticular. Feeling cooler.
+OL,5,CToday:FSunny spells and showers today.
+OL,6,FShowers heaviest and most frequent
+OL,7,Facross the north of the UK. A rather
+OL,8,Fcool and windy day for all, but very
+OL,9,Fwindy across Scotland with severe
+OL,10,Fgales across northern Scotland. Large
+OL,11,Fwaves along the coasts.
+OL,12,
+OL,13,CTonight:FStaying windy across the
+OL,14,Fnorthwest of the UK, with further
+OL,15,Fshowers and perhaps some longer spells
+OL,16,Fof rain too. Drier towards the
+OL,17,Fsoutheast, with clear spells and winds
+OL,18,Feasing.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1793076458
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CWednesday:FShowers tending to become
+OL,6,Fconfined to Scotland as high pressure
+OL,7,Fbuilds from the south. Dry and bright
+OL,8,Ffor most, with sunny spells and
+OL,9,Flighter winds. Temperatures a little
+OL,10,Fabove average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
