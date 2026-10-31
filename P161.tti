@@ -1,28 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1793382475
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1793420368
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FTurning
-OL,6,Fchilly across England and Wales
-OL,7,Fovernight, with areas of fog
-OL,8,Freforming, becoming dense in places.
-OL,9,FFrost possible in the countryside.
-OL,10,FMilder in the northwest of the UK with
-OL,11,Fwinds easing, but some rain in
-OL,12,Fnorthwest Scotland and Northern
-OL,13,FIreland.
-OL,14,
-OL,15,CSaturday:FStarting murky for many with
-OL,16,Ffog and low cloud lingering well into
-OL,17,Fthe day in places. Turning sunnier for
-OL,18,Fmost but cloudier and occasionally
-OL,19,Fwetter in Scotland and Northern
-OL,20,FIreland.
+OL,5,CToday:FStarting murky for many with
+OL,6,Ffog and low cloud lingering well into
+OL,7,Fthe day in places. Turning sunnier for
+OL,8,Fmost but cloudier and occasionally
+OL,9,Fwetter in Scotland and Northern
+OL,10,FIreland. Feeling pleasant in the sunny
+OL,11,Fintervals and light winds.
+OL,12,
+OL,13,CTonight:FFog patches reforming tonight
+OL,14,Ffor England and parts of Wales.
+OL,15,FCloudier in the north with outbreaks
+OL,16,Fof light rain sinking into northern
+OL,17,FEngland and Wales. Showers behind and
+OL,18,Ffeeling colder.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1793420368
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FA foggy start for England and
+OL,6,FWales, slowly clearing during late
+OL,7,Fmorning for most. Cloudier for
+OL,8,Fnorthern England and Wales with rain
+OL,9,Fpushing southwards. Sunnier for
+OL,10,FScotland and Northern Ireland.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
