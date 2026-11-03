@@ -2,24 +2,23 @@ PN,22601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F226A1793744328
+OL,0,        ECIMSBWebfax 1   F226A1793747892
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
-OL,5,G2200 Call the Bailiffs: Time to...
-OL,6,     F...Pay Up! From early-morning
-OL,7,     Fstakeouts to high-value commercial
-OL,8,     Fdebts, agents track a debtor who
-OL,9,     Fowes service charges and help a
-OL,10,     Fhotel guest claim compensation for
-OL,11,     Flost luggage.
-OL,12,G2300 Skin A&E
-OL,13,     FDr Natalia Spierings tackles one
-OL,14,     Fof the biggest lipomas of her
-OL,15,     Fcareer, Dr Emma McMullen helps a
-OL,16,     Fbride six weeks before 'I do'; and
-OL,17,     FDr Adil Sheraz treats a patient
-OL,18,     Fwith a face cyst.
+OL,5,G2300 Skin A&E
+OL,6,     FDr Natalia Spierings tackles one
+OL,7,     Fof the biggest lipomas of her
+OL,8,     Fcareer, Dr Emma McMullen helps a
+OL,9,     Fbride six weeks before 'I do'; and
+OL,10,     FDr Adil Sheraz treats a patient
+OL,11,     Fwith a face cyst.
+OL,12,G0000 999: Emergency Call Out
+OL,13,     FThe Kent Joint Response Unit
+OL,14,     Farrives at the scene of a rollover
+OL,15,     Fin a residential area; a paramedic
+OL,16,     Fgets police protection when
+OL,17,     Ftreating a stabbing victim.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,227,200,140,260,0,100
@@ -27,23 +26,24 @@ PN,22602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F226A1793744328
+OL,0,        ECIMSBWebfax 1   F226A1793747892
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
-OL,5,G0000 999: Emergency Call Out
-OL,6,     FThe Kent Joint Response Unit
-OL,7,     Farrives at the scene of a rollover
-OL,8,     Fin a residential area; a paramedic
-OL,9,     Fgets police protection when
-OL,10,     Ftreating a stabbing victim.
-OL,11,G0100 Motorway Cops: Catching Britain's
-OL,12,G     Speeders
-OL,13,     FTraffic chaos in the Tyne Tunnel,
-OL,14,     Fand shocking driving as a car
-OL,15,     Freverses down a slip road with an
-OL,16,     Funlicensed driver at the wheel who
-OL,17,     Fhasn't even taken his test.
+OL,5,G0100 Motorway Cops: Catching Britain's
+OL,6,G     Speeders
+OL,7,     FTraffic chaos in the Tyne Tunnel,
+OL,8,     Fand shocking driving as a car
+OL,9,     Freverses down a slip road with an
+OL,10,     Funlicensed driver at the wheel who
+OL,11,     Fhasn't even taken his test.
+OL,12,G0200 Casualty 24/7: Every Second Counts
+OL,13,     FDocumentary series. Staffing
+OL,14,     Fproblems hit the department as
+OL,15,     Fseveral nurses call in sick. The
+OL,16,     Fpressure takes its toll on Sister
+OL,17,     FBenita, and she is herself
+OL,18,     Fadmitted for treatment.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,227,200,140,260,0,100
@@ -51,28 +51,21 @@ PN,22603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F226A1793744328
+OL,0,        ECIMSBWebfax 1   F226A1793747892
 OL,1,V7c#####5Wg3js1#7!w{js%
 OL,2,V5!     5W,&(,% % %** %V,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CTuesday
-OL,5,G0200 Casualty 24/7: Every Second Counts
-OL,6,     FDocumentary series. Staffing
-OL,7,     Fproblems hit the department as
-OL,8,     Fseveral nurses call in sick. The
-OL,9,     Fpressure takes its toll on Sister
-OL,10,     FBenita, and she is herself
-OL,11,     Fadmitted for treatment.
-OL,12,G0250 Skin A&E
-OL,13,     FDr Natalia Spierings helps Justin
-OL,14,     Fwho has a genetic condition which
-OL,15,     Fmeans his skin is covered in lumps
-OL,16,     Fmade up of nerves. Dr Dev Shah is
-OL,17,     Fasked to remove a cyst named
-OL,18,     FEgbert.
-OL,19,G0335 Home and Away
-OL,20,     FAmelia comes to Levi's aid. Lacey
-OL,21,     Fpanics. Remi plays mediator.
-OL,22,G0400 Teleshopping
+OL,5,G0250 Skin A&E
+OL,6,     FDr Natalia Spierings helps Justin
+OL,7,     Fwho has a genetic condition which
+OL,8,     Fmeans his skin is covered in lumps
+OL,9,     Fmade up of nerves. Dr Dev Shah is
+OL,10,     Fasked to remove a cyst named
+OL,11,     FEgbert.
+OL,12,G0335 Home and Away
+OL,13,     FAmelia comes to Levi's aid. Lacey
+OL,14,     Fpanics. Remi plays mediator.
+OL,15,G0400 Teleshopping
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,227,200,140,260,0,100
