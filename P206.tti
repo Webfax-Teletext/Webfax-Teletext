@@ -2,25 +2,26 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1794001679
+OL,0,        ECIMSBWebfax 1   F206A1794003497
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday
-OL,5,G2130 The Context
-OL,6,     FA regular panel of guests discuss
-OL,7,     Fthe biggest international stories
-OL,8,     Fof the day.
-OL,9,G2200 BBC News at Ten
-OL,10,G2230 Newsnight
-OL,11,G2300 BBC World News America
-OL,12,     FThe BBC presents in-depth reports
-OL,13,     Fon the major international and US
-OL,14,     Fnews of the day.
-OL,15,G2330 The President's Path
-OL,16,     FDemocrats have taken control of
-OL,17,     FCongress. What next for
-OL,18,     FRepublicans?
-OL,19,G0000 BBC News
+OL,5,G2200 BBC News at Ten
+OL,6,G2230 Newsnight
+OL,7,G2300 BBC World News America
+OL,8,     FThe BBC presents in-depth reports
+OL,9,     Fon the major international and US
+OL,10,     Fnews of the day.
+OL,11,G2330 The President's Path
+OL,12,     FDemocrats have taken control of
+OL,13,     FCongress. What next for
+OL,14,     FRepublicans?
+OL,15,G0000 BBC News
+OL,16,G0030 Tech Now
+OL,17,     FShiona McCallum visits Cairngorms
+OL,18,     FNational Park to see tech monitor
+OL,19,     Fwildfire damage.
+OL,20,G0100 BBC News
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -28,25 +29,28 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1794001679
+OL,0,        ECIMSBWebfax 1   F206A1794003497
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday
-OL,5,G0030 Tech Now
-OL,6,     FShiona McCallum visits Cairngorms
-OL,7,     FNational Park to see tech monitor
-OL,8,     Fwildfire damage.
-OL,9,G0100 BBC News
-OL,10,G0130 Clive Myrie's African Adventure
-OL,11,     FClive experiences the beauty of
-OL,12,     FNigerian art in one of the
-OL,13,     Fcontinent's largest cities.
-OL,14,G0200 BBC News
-OL,15,G0230 Africa: From Reparations to Action
-OL,16,     FAfrican leaders push to turn
-OL,17,     Freparations demands into action
-OL,18,     Fafter UN resolution.
-OL,19,G0300 BBC News
+OL,5,G0130 Clive Myrie's African Adventure
+OL,6,     FClive experiences the beauty of
+OL,7,     FNigerian art in one of the
+OL,8,     Fcontinent's largest cities.
+OL,9,G0200 BBC News
+OL,10,G0230 Africa: From Reparations to Action
+OL,11,     FAfrican leaders push to turn
+OL,12,     Freparations demands into action
+OL,13,     Fafter UN resolution.
+OL,14,G0300 BBC News
+OL,15,G0330 The Media Show
+OL,16,     FHow online platforms shaped unrest
+OL,17,     Fin Europe and the narratives that
+OL,18,     Ffollowed.
+OL,19,G0400 BBC News
+OL,20,G0430 The Travel Show
+OL,21,     FFood enthusiast and baker Briony
+OL,22,     FMay Williams travels to Italy.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
@@ -54,22 +58,14 @@ PN,20603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 1   F206A1794001679
+OL,0,        ECIMSBWebfax 1   F206A1794003497
 OL,1,V7c#####5Ww;js%7+ j#5wsj 5jjs1
 OL,2,V5!     5W-.*,%-. * %-,*,-.(,%V,,,,,,,,,
 OL,3,Vupppppp5CFriday
-OL,5,G0330 The Media Show
-OL,6,     FHow online platforms shaped unrest
-OL,7,     Fin Europe and the narratives that
-OL,8,     Ffollowed.
-OL,9,G0400 BBC News
-OL,10,G0430 The Travel Show
-OL,11,     FFood enthusiast and baker Briony
-OL,12,     FMay Williams travels to Italy.
-OL,13,G0500 BBC News
-OL,14,G0530 AI Decoded
-OL,15,     FWould you let AI walk around your
-OL,16,     Fhome?
+OL,5,G0500 BBC News
+OL,6,G0530 AI Decoded
+OL,7,     FWould you let AI walk around your
+OL,8,     Fhome?
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,207,200,140,260,0,100
