@@ -1,28 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1793902739
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1793939139
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FAway from
-OL,6,Fthe far northwest it will remain
-OL,7,Flargely cloudy with drizzly showers
-OL,8,Ffor the northeast and Northern
-OL,9,FIreland. Heavier showers for some,
-OL,10,Falong southwestern coasts. Fog and
-OL,11,Ffrost patches are most likely in
-OL,12,Fnorthwest Scotland. Temperatures near
-OL,13,Faverage.
-OL,14,
-OL,15,CFriday:FA cloudy, gloomy day for most,
-OL,16,Fparticularly for Wales and southern
-OL,17,FEngland under spells of rain. Drizzly
-OL,18,Fshowers in the northeast, and heavy
-OL,19,Fshowers in the far southwest. Feeling
-OL,20,Fchilly.
+OL,5,CToday:FA cloudy, gloomy day for most.
+OL,6,FWales seeing rain first thing, then
+OL,7,Feastern England later. Drizzly showers
+OL,8,Fin the northeast, and heavy showers in
+OL,9,Fthe far southwest. Feeling chilly but
+OL,10,Fwith much lighter winds than recent
+OL,11,Fdays.
+OL,12,
+OL,13,CTonight:FDamp for parts of eastern
+OL,14,FEngland, the Midlands and later into
+OL,15,Fnorthern England. Heavy showers still
+OL,16,Fpersisting in the far southwest.
+OL,17,FElsewhere, cloudy with a few drizzly
+OL,18,Fshowers.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1793939139
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FAny early mist and fog
+OL,6,Fpatches slowly clearing then brighter
+OL,7,Fspells developing for parts of England
+OL,8,Fand Wales by the afternoon. Dull and
+OL,9,Fdamp for northeastern England and
+OL,10,FNorthern Ireland.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
