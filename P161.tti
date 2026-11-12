@@ -1,27 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1794412591
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1794457154
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FBecoming
-OL,6,Fincreasingly clear in the south. Clear
-OL,7,Fspells and blustery showers along
-OL,8,Fexposed northern coasts, and wintry
-OL,9,Fshowers over Scottish hills. Fog
-OL,10,Flikely for some north England valleys.
-OL,11,FGales arriving in the far northeast.
-OL,12,FCold, with frost in the north.
-OL,13,
-OL,14,CThursday:FSunny with a chilly breeze
-OL,15,Ffor most. Spells of blustery showers
-OL,16,Fand strong winds along northern and
-OL,17,Feastern coasts, with snow for Scottish
-OL,18,Fhills, and gales for northeast
-OL,19,FScotland.
+OL,5,CToday:FDry with bright spells for many
+OL,6,Ftoday. Blustery showers continue
+OL,7,Facross northern and eastern Scotland,
+OL,8,Fwintry over higher ground, with a few
+OL,9,Fshowers possible in Northern Ireland
+OL,10,Fand later along North Sea coasts.
+OL,11,FFeeling cold in the wind.
+OL,12,
+OL,13,CTonight:FShowers linger around coasts,
+OL,14,Fmost frequent across northern Scotland
+OL,15,Fwhere they'll be wintry over hills.
+OL,16,FElsewhere, clear skies allow
+OL,17,Fwidespread frost, with a few fog
+OL,18,Fpatches possible in the west.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1794457154
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CFriday:FBright with sunny spells for
+OL,6,Fmany, especially across England and
+OL,7,FWales. Cloudier in the north and
+OL,8,Fnorthwest with some showers or rain,
+OL,9,Fmainly in Scotland. Feeling cold for
+OL,10,Fmost.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
