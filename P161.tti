@@ -1,27 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1794671295
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1794718064
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FDespite
-OL,6,Ftemperatures recovering slightly, it
-OL,7,Fwill be another cold, dry night for
-OL,8,FEngland and Wales with frost
-OL,9,Fdeveloping inland. Bands of rain over
-OL,10,Fcentral Scotland and Northern Ireland
-OL,11,Fwhere it will be chilly and damp but
-OL,12,Fnot frosty.
-OL,13,
-OL,14,CSunday:FFor Wales and southern
-OL,15,FEngland, passing showers, possibly
-OL,16,Fthundery in the southwest. Persistent
-OL,17,Frain at times for southern Scotland
-OL,18,Fand northern England. Brighter and
-OL,19,Fshowery in the north and west.
+OL,5,CToday:FFor Wales and southern England,
+OL,6,Fpassing showers, possibly thundery in
+OL,7,Fthe southwest. Persistent rain at
+OL,8,Ftimes for southern Scotland and
+OL,9,Fnorthern England. Brighter and showery
+OL,10,Fin the north and west. Rather cold in
+OL,11,Fthe north, but average in the south.
+OL,12,
+OL,13,CTonight:FMuch of the rain and showers
+OL,14,Fmove off to the east, leaving clear
+OL,15,Fspells, allowing temperatures to fall
+OL,16,Fway, below freezing in the north with
+OL,17,Fa widespread rural frost.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1794718064
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CMonday:FA mostly dry and bright day on
+OL,6,FMonday with sunny spells. Sunshine
+OL,7,Fturns hazy into the afternoon with
+OL,8,Frain moving into the southwest later.
+OL,9,FFeeling chilly in the east.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
