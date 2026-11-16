@@ -1,27 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1794764905
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1794804487
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRain and
-OL,6,Fshowers moving to the east this
-OL,7,Fevening, leaving clear spells and
-OL,8,Fwintry showers, these mostly in
-OL,9,Fnorthern Scotland. Temperatures
-OL,10,Ffalling way, below freezing in the
-OL,11,Fnorth with a widespread rural frost
-OL,12,Fand icy stretches.
-OL,13,
-OL,14,CMonday:FA cold start with showers in
-OL,15,Fthe north and east easing leaving
-OL,16,Fsunny spells. Sunshine turning hazy
-OL,17,Finto the afternoon with rain and
-OL,18,Fstronger winds moving into the
-OL,19,Fsouthwest later.
+OL,5,CToday:FA cold morning, with icy
+OL,6,Fstretches in the north potentially
+OL,7,Fdisrupting travel. Long sunny spells
+OL,8,Ffor many, but lingering cloud and
+OL,9,Fshowers in the east and wintry showers
+OL,10,Ffor northern Scotland. Cloudy in the
+OL,11,Fsouth and west, heavy rain later.
+OL,12,
+OL,13,CTonight:FWintry showers continue in
+OL,14,Fthe far northeast. Elsewhere there
+OL,15,Fwill be persistent rain, and snow for
+OL,16,Fnorthern hills. Generally breezy, but
+OL,17,Fstrong winds over hills and gales
+OL,18,Falong some coasts.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1794804487
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CTuesday:FWet and windy. Heavy,
+OL,6,Fpossibly thundery, showers for the
+OL,7,Fsouth with strong winds. Cold with
+OL,8,Fpersistent rain across the north
+OL,9,Fgenerally, though northern Scotland
+OL,10,Fwill be brighter and showery.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
