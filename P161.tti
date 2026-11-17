@@ -1,26 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1794851276
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1794889089
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FWet and
-OL,6,Fwindy in the south this evening with
-OL,7,Fheavy rain pushing northwards
-OL,8,Fovernight for Wales, northern England
-OL,9,Fand southern Scotland. Rain turning to
-OL,10,Fhill snow in the north, accompanied by
-OL,11,Fgales. Clearer to the south later with
-OL,12,Fblustery showers.
-OL,13,
-OL,14,CTuesday:FCold and windy with rain and
-OL,15,Fmorning hill snow across the north,
-OL,16,Fthough far northern Scotland will be
-OL,17,Fbrighter and showery. Heavy, possibly
-OL,18,Fthundery showers in the south.
+OL,5,CToday:FCold and windy across the north
+OL,6,Fwith persistent rain for most, except
+OL,7,Ffor the far north of Scotland which
+OL,8,Fwill be bright with light showers.
+OL,9,FWindy and showery across Wales and the
+OL,10,Fsouth, but milder there with
+OL,11,Foccasional sunny spells.
+OL,12,
+OL,13,CTonight:FFurther rain across the north
+OL,14,Fthough mostly dry for the far north of
+OL,15,FScotland. Scattered, heavy showers
+OL,16,Fcontinue in the south. Winds easing,
+OL,17,Fbut remaining strong along southern
+OL,18,Fcoasts.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1794889089
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CWednesday:FSimilar tomorrow, being
+OL,6,Fbright and dry for northern Scotland,
+OL,7,Fcold with patchy rain elsewhere in the
+OL,8,Fnorth, and milder with sunny spells
+OL,9,Fand scattered heavy showers across the
+OL,10,Fsouth.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
