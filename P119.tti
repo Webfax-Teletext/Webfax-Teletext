@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,GUK AND WORLDAfrom BBC News
@@ -35,17 +35,17 @@ OL,8,G
 OL,9,G303FBurnham promises to 'move quickly'
 OL,10,Fon Neets reportA18-Nov
 OL,11,G
-OL,12,G304FLammy urges Burnham to take UK back
-OL,13,Finto the EUA18-Nov
-OL,14,G
-OL,15,G305FHome secretary plans to tackle
-OL,16,F'corrosive' perception of two-tier
-OL,17,FpolicingA17-Nov
-OL,18,G
-OL,19,G306FMinister criticises media for
-OL,20,F'amplifying' Russell Brand's prison
-OL,21,FmessageA18-Nov
-OL,22,G
+OL,12,G304FHome secretary plans to tackle
+OL,13,F'corrosive' perception of two-tier
+OL,14,FpolicingA17-Nov
+OL,15,G
+OL,16,G305FMinister criticises media for
+OL,17,F'amplifying' Russell Brand's prison
+OL,18,FmessageA18-Nov
+OL,19,G
+OL,20,F
+OL,21,F
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/39
 OL,24,AFirst NewsB Reg NewsCNat TVF Clean Feed
 FL,302,301,200,140,0,100
@@ -53,7 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ATypical energy bill forecast to go up
@@ -80,7 +80,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ATypical energy bill forecast to go up
@@ -98,7 +98,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ABurnham promises to 'move quickly' on
@@ -124,7 +124,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,ABurnham promises to 'move quickly' on
@@ -141,97 +141,98 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ALammy urges Burnham to take UK back
-OL,4,Ainto the EU
-OL,5,
-OL,6,FDavid Lammy has urged Andy Burnham to
-OL,7,Ftake Labour into the next general
-OL,8,Felection with a pledge to rejoin the
-OL,9,FEuropean Union.
-OL,11,FThe former deputy prime minister's
-OL,12,Fintervention comes as Burnham prepares
-OL,13,Fto reopen a debate on the long-term
-OL,14,Frelationship with Europe in the wake of
-OL,15,Fa summit in Brussels this Friday.
-OL,17,FIt makes him the latest senior Labour
-OL,18,Ffigure to publicly support a future
-OL,19,Freversal of Brexit, after ex-chancellor
-OL,20,FRachel Reeves said she believed
-OL,21,FBritain's future lies in the bloc.
-OL,23,APub: 18-NovQppppppppppppppppppppppG7/39
+OL,3,AHome secretary plans to tackle
+OL,4,A'corrosive' perception of two-tier
+OL,5,Apolicing
+OL,6,
+OL,7,FHome Secretary Shabana Mahmood has
+OL,8,Fannounced stronger guidance on police
+OL,9,Fimpartiality to tackle what she called
+OL,10,Fthe "corrosive and growing perception
+OL,11,Fof two-tier policing".
+OL,13,FSpeaking at a conference of police
+OL,14,Fchiefs on Wednesday, she said "there
+OL,15,Fhave been examples of differential
+OL,16,Ftreatment" by officers that have
+OL,17,Fallowed "some to whip up the false idea
+OL,18,Fthat there is two-tier policing in this
+OL,19,Fcountry".
+OL,23,APub: 17-NovQppppppppppppppppppppppG7/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
 PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ALammy urges Burnham to take UK back
-OL,4,Ainto the EU
-OL,5,
-OL,6,FBurnham confirmed on Tuesday he plans
-OL,7,Fto set out options for a future
-OL,8,Frelationship next month, alongside his
-OL,9,Fblueprint to boost the British economy
-OL,10,Fover the next decade.
-OL,23,APub: 18-NovQppppppppppppppppppppppG8/39
+OL,3,AHome secretary plans to tackle
+OL,4,A'corrosive' perception of two-tier
+OL,5,Apolicing
+OL,6,
+OL,7,FRecent complaints about alleged
+OL,8,Ftwo-tier policing have mostly come from
+OL,9,Fthose on the right in politics.
+OL,11,FThey have pointed to the arrest of
+OL,12,FHenry Nowak as he was dying after being
+OL,13,Fstabbed by Vickrum Digwa who had
+OL,14,Faccused him of racism.
+OL,23,APub: 17-NovQppppppppppppppppppppppG8/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,305,300,200,140,0,100
 PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ANvidia says it won't reinstate Huang as
-OL,4,Ait reports soaring sales
+OL,3,AWilliam and Kate meet Indian Prime
+OL,4,AMinister Modi in New Delhi
 OL,5,
-OL,6,FNvidia has firmly ruled out letting
-OL,7,Fousted co-founder Jensen Huang return
-OL,8,Fas it revealed that sales doubled to
-OL,9,Fmore than $100bn.
-OL,11,FIn the company's first results since
-OL,12,FHuang's dramatic exit last week,
-OL,13,Fcovering the three month period just
-OL,14,Fbefore the recent scandal surfaced,
-OL,15,Finterim chief executive Colette Kress
-OL,16,Fsaid it was "business as usual". She
-OL,17,Ftold investors: "We've got this."
-OL,23,APub: 17-NovQppppppppppppppppppppppG9/39
+OL,6,FThe Prince and Princess of Wales have
+OL,7,Fmet Indian Prime Minister Narendra Modi
+OL,8,Fas part of their three-day visit to
+OL,9,FIndia.
+OL,11,FWilliam and Catherine arrived in New
+OL,12,FDehli on Wednesday for the final leg of
+OL,13,Ftheir first official oversees trip
+OL,14,Ftogether in four years.
+OL,16,FThe meeting was a late addition to the
+OL,17,Fcouple's schedule and came after Modi
+OL,18,Fconfirmed he would be back from a
+OL,19,Fscheduled trip to the Philippines in
+OL,20,Ftime to see the royals.
+OL,23,APub: 18-NovQppppppppppppppppppppppG9/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,313,300,200,140,0,100
 PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
-OL,3,ANvidia says it won't reinstate Huang as
-OL,4,Ait reports soaring sales
+OL,3,AWilliam and Kate meet Indian Prime
+OL,4,AMinister Modi in New Delhi
 OL,5,
-OL,6,FEarlier on Tuesday, Huang said he would
-OL,7,Fbe "honoured" to return and lead
-OL,8,FNvidia, having quit following alleged
-OL,9,Fextramarital affairs, including one
-OL,10,Fwith a suspected spy for China.
-OL,12,FBut Nvidia's chair Harvey Jones said:
-OL,13,F"The board does not intend to reinstate
-OL,14,Fhim."
-OL,23,APub: 17-NovQpppppppppppppppppppppG10/39
+OL,6,FIt comes a day after the royal couple
+OL,7,Fwere in Mumbai for the annual Earthshot
+OL,8,FPrize, which was founded by the prince
+OL,9,Fand remains one of his biggest personal
+OL,10,Fprojects.
+OL,23,APub: 18-NovQpppppppppppppppppppppG10/39
 OL,24,ANext PageB Nat NewsC Nat TVF Clean Feed
 FL,313,300,200,140,0,100
 PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AKuwait says it repelled first Iranian
@@ -259,7 +260,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AKuwait says it repelled first Iranian
@@ -278,7 +279,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AGhana's new $60m presidential jet
@@ -306,7 +307,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs15j 5ws
 OL,2,W//%*// //%Q%**,$-.,%,. (,,,,,,,,,,,,,,,
 OL,3,AGhana's new $60m presidential jet
@@ -324,15 +325,15 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q5 7575747575x0w1w1 w17571
 OL,2,W//%*// //%Q-$-%%%-!-%%%" ,%-$ -$%%-% ,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G321FDrug death numbers on the rise in
-OL,6,FKent, report saysA18-Nov
+OL,5,G321FMan who drove 139mph before fatal
+OL,6,Fcrash jailedA18-Nov
 OL,7,G
-OL,8,G322FCampaigner launches water
-OL,9,Fregulation legal challengeA18-Nov
+OL,8,G322FDrug death numbers on the rise in
+OL,9,FKent, report saysA18-Nov
 OL,10,G
 OL,11,G323FStrike to bring Piccadilly line
 OL,12,Fservices to a haltA18-Nov
@@ -353,7 +354,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q,. *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -382,7 +383,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q555pjsjjj js17kjc15 js57kj#4
 OL,2,W//%*// //%Q--% (.*.. *,$%**,%-,* %%**,!
 OL,3,GMAIN STORIESAfrom BBC News
@@ -411,7 +412,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(W)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -440,7 +441,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7+ js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-. *,$%**,%-,* %%**,! ,$A(E)
 OL,3,GMAIN STORIESAfrom BBC News
@@ -469,7 +470,7 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Qws js17kjc15 js57kj#4
 OL,2,W//%*// //%Q-, *,$%**,%-,* %%**,! ,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -498,7 +499,7 @@ PN,11921
 SC,0021
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Quzj#5w;jp%p05 jj#57+
 OL,2,W//%*// //%Q,.*,%%** %  -,** %-. (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -511,8 +512,8 @@ OL,10,G
 OL,11,G383FResidents forced to dodge 100 bins
 OL,12,Fleft on streetA18-Nov
 OL,13,G
-OL,14,G384FVisitors encouraged to 'discover
-OL,15,Fsomewhere new'A18-Nov
+OL,14,G384FMerchant seafarers' memorial to be
+OL,15,FrefurbishedA18-Nov
 OL,16,G
 OL,17,G385FConsultation starts into plans to
 OL,18,Fclose sixth formA18-Nov
@@ -527,7 +528,7 @@ PN,11922
 SC,0022
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kjs1 wsj#57sj  w{j#57i
 OL,2,W//%*// //%Q%**,$ -,* %-.*,$%** %-& (,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -556,7 +557,7 @@ PN,11923
 SC,0023
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7kj 5j js17kjc15 js57kj#4
 OL,2,W//%*// //%Q%**,-. *,$%**,%-,* %%**,! ,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -585,7 +586,7 @@ PN,11924
 SC,0024
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7k jjs%wsj  w{j#57i
 OL,2,W//%*// //%Q%* ** %-,*,$%** %-& (,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -614,12 +615,12 @@ PN,11925
 SC,0025
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Qwsj#%7k"k#j  w{j#57i
 OL,2,W//%*// //%Q,.*,%-. * *,$%** %-& (,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G421FWoman critical but stable after
-OL,6,Fbeing shot in 'targeted attack'A18-Nov
+OL,5,G421FPolice treating 'targeted' shooting
+OL,6,Fof woman as attempted murderA18-Nov
 OL,7,G
 OL,8,G422FBritish hacker who stole $11m
 OL,9,Fthrough text message scheme jailed for
@@ -643,7 +644,7 @@ PN,11926
 SC,0026
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q5j 5w{j  wsjs1
 OL,2,W//%*// //%Q-.,%%**,$-,(,% ,,,,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -672,7 +673,7 @@ PN,11927
 SC,0027
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q7+jp5w{j#57kjs15  jjs1
 OL,2,W//%*// //%Q-.* %%** %%**,$-, *(,% ,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -701,21 +702,21 @@ PN,11928
 SC,0028
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,W5j 5Q5wsj  ws jkjs j#7kjs57k
 OL,2,W//%*// //%Q%,.*,$-, *.*  * %** %%* (,,,
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G446FIsle of Man livestock worrying law
 OL,6,Fto be reviewedA18-Nov
 OL,7,G
-OL,8,G447FTall ship collides with bridge in
-OL,9,Fsevere galesA17-Nov
+OL,8,G447FTynwald members to see unredacted
+OL,9,Fwindfarm documentsA18-Nov
 OL,10,G
-OL,11,G448FSidecar competitors await TT update
-OL,12,A17-Nov
+OL,11,G448FTall ship collides with bridge in
+OL,12,Fsevere galesA17-Nov
 OL,13,G
-OL,14,G449FSchools to break up early ahead of
-OL,15,FIsland GamesA17-Nov
+OL,14,G449FSidecar competitors await TT update
+OL,15,A17-Nov
 OL,16,G
 OL,17,F
 OL,18,F
@@ -730,7 +731,7 @@ PN,11929
 SC,0029
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,V7c#####5Ww;js%7+ j#57kjs1
 OL,2,V5!     5W-.*,%-. *,%%**,$V,,,,,$ LONDON
 OL,3,Vupppppp5CWednesday
@@ -757,7 +758,7 @@ PN,11930
 SC,0030
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,V7c#####5Ww;js%7+ "k#j 5jj#5
 OL,2,V5!     5W-.*,%-.  * *,-.*,%V,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -783,7 +784,7 @@ PN,11931
 SC,0031
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,V7c#####5W5#7!5j "5
 OL,2,V5!     5W% % )&  %V,,,,,,,,,,,,$FLONDON
 OL,3,Vupppppp5CWednesday
@@ -812,7 +813,7 @@ PN,11932
 SC,0032
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,V7c#####5W7+jp5w{j#57kjs15  jp4
 OL,2,V5!     5W-.* %%** %%**,$-,   %V,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -837,7 +838,7 @@ PN,11933
 SC,0033
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,V7c#####5Wg3
 OL,2,V5!     5W,&V(,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -863,7 +864,7 @@ PN,11934
 SC,0034
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,V7c#####5W#7!w{j  u:jj#57c js557+js1
 OL,2,V5!     5W % %**,$%*** %-. *  %-.(,%V,,,
 OL,3,Vupppppp5CWednesday
@@ -890,7 +891,7 @@ PN,11935
 SC,0035
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,V7c#####5Ww;js15j 557kj#4 #7!5j
 OL,2,V5!     5W%**,$-.,%%%**,!  % )&V(,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -917,7 +918,7 @@ PN,11936
 SC,0036
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,V7c#####5Ww;"k#js1 7kj#5ws
 OL,2,V5!     5W%* * *,$ -.* %-,V(,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -942,7 +943,7 @@ PN,11937
 SC,0037
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,V7c#####5Ww;"k#js1 s{
 OL,2,V5!     5W%* * *,$ -,V(,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -970,7 +971,7 @@ PN,11938
 SC,0038
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,V7c#####5W#7!7c jp4
 OL,2,V5!     5W % -.   %V,,,,,,,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
@@ -993,7 +994,7 @@ PN,11939
 SC,0039
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 1   F119A1795015159
+OL,0,        ECIMSBWebfax 1   F119A1795015569
 OL,1,V7c#####5W5jj#7k j#57kjs1
 OL,2,V5!     5W)&* %* *,%%**,$V,,,,,,,,,,,,,,
 OL,3,Vupppppp5CWednesday
