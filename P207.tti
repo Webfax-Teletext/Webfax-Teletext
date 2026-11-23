@@ -1,29 +1,48 @@
-PN,20700
-SC,0000
+PN,20701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F207A1795445304
+PS,c008
+OL,0,        ECIMSBWebfax 1   F207A1795447136
 OL,1,V7c#####5Ww;js%7+ js5w{js%5
 OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
 OL,3,Vupppppp5CMonday
 OL,5,G1430 House of Commons
 OL,6,     FCoverage of questions to Pat
 OL,7,     FMcFadden on Monday 23 November.
-OL,8,G1530 House of Commons
-OL,9,     FCoverage of the day's proceedings
-OL,10,     Fin the House of Commons on Monday
-OL,11,     F23 November.
-OL,12,G2230 Northern Ireland Assembly
-OL,13,     FQuestions in the Northern Ireland
-OL,14,     FAssembly to the first minister,
-OL,15,     FMichelle O'Neill.
-OL,16,G2315 Lords Questions
-OL,17,     FQuestions in the House of Lords to
-OL,18,     Fgovernment ministers on Monday 23
-OL,19,     FNovember.
-OL,20,G0000 House of Lords
-OL,21,     FBusiness in the House of Lords on
-OL,22,     FMonday 23 November.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,8,G1540 House of Commons
+OL,9,     FThe prime minister's statement on
+OL,10,     Flast week's UK-EU summit, on
+OL,11,     FMonday 23 November.
+OL,12,G1720 House of Commons
+OL,13,     FStatement on the ICJ ruling that
+OL,14,     FMyanmar committed genocide against
+OL,15,     Fits Rohingya people.
+OL,16,G1750 House of Commons
+OL,17,     FCoverage of the day's proceedings
+OL,18,     Fin the House of Commons on Monday
+OL,19,     F23 November.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext Page  BNat TV CClean Feed  FReg TV
+FL,208,200,140,260,0,100
+PN,20702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F207A1795447136
+OL,1,V7c#####5Ww;js%7+ js5w{js%5
+OL,2,V5!     5W-.*,%-. *  %** %-,V(,,,,,,,,,,
+OL,3,Vupppppp5CMonday
+OL,5,G2230 Northern Ireland Assembly
+OL,6,     FQuestions in the Northern Ireland
+OL,7,     FAssembly to the first minister,
+OL,8,     FMichelle O'Neill.
+OL,9,G2315 Lords Questions
+OL,10,     FQuestions in the House of Lords to
+OL,11,     Fgovernment ministers on Monday 23
+OL,12,     FNovember.
+OL,13,G0000 House of Lords
+OL,14,     FBusiness in the House of Lords on
+OL,15,     FMonday 23 November.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,208,200,140,260,0,100
