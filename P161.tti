@@ -1,27 +1,42 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1795451202
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1795499276
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy with
-OL,6,Frain in the west this evening with
-OL,7,Fstrong winds towards the coast and
-OL,8,Fover hills, gale force at times.
-OL,9,FElsewhere, remaining dry with clear
-OL,10,Fspells developing in the east allowing
-OL,11,Ftemperatures to drop below freezing,
-OL,12,Fturning frosty.
-OL,13,
-OL,14,CTuesday:FA chilly start for most,
-OL,15,Ffrosty further north and east. Rain in
-OL,16,Fthe west, spreading across Scotland
-OL,17,Fturning to hill snow, with strong
-OL,18,Fcoastal winds, while sunshine favours
-OL,19,FEast Anglia.
+OL,5,CToday:FRain stalls over parts of the
+OL,6,Fwest and north, falling as snow over
+OL,7,Fhigh ground, and bringing some heavy
+OL,8,Fand persistent downpours particularly
+OL,9,Fto parts of Cornwall and
+OL,10,FPembrokeshire. Drier and brighter away
+OL,11,Ffrom these areas and feeling cold.
+OL,12,
+OL,13,CTonight:FRain and hill snow continues
+OL,14,Fin Scotland, but breaks up elsewhere
+OL,15,Fto leave a mostly dry night with some
+OL,16,Fclear spells. Winds ease and
+OL,17,Ftemperatures fall away quickly.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1795499276
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CWednesday:FA wet start for northern
+OL,6,FScotland and Northern Ireland before
+OL,7,Frain breaks up further through the
+OL,8,Fday. Dry with some sunny spells
+OL,9,Felsehwere, but continuing to feel cold.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
