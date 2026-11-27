@@ -1,28 +1,49 @@
-PN,16800
-SC,0000
+PN,16801
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F168A1795708130
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F168A1795747671
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FA cold night
-OL,6,Fto come, with cloudy skies. Rain,
-OL,7,Fperhaps with some sleet over hills at
-OL,8,Ffirst and stronger winds move into the
-OL,9,Ffar west of the region.
+OL,5,CToday:FIt will be a cloudy and breezy
+OL,6,Fmorning with outbreaks of rain, the
+OL,7,Frain locally heavy at first. During
+OL,8,Fthe afternoon the rain will tend to
+OL,9,Fpeter out, perhaps with a few brighter
+OL,10,Fbreaks developing. The winds will ease
+OL,11,Ftoo.
+OL,12,
+OL,13,CTonight:FIt will be a cloudy evening
+OL,14,Fwith the odd patch of light rain. The
+OL,15,Frain will become heavier and more
+OL,16,Fpersistent from the south overnight,
+OL,17,Fand it will turn breezy.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,169,160,301,260,100,100
+PN,16802
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F168A1795747671
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GWest Midlands
+OL,4,
+OL,5,CSaturday:FSaturday will be an
+OL,6,Funsettled day. It will be cloudy and
+OL,7,Fbreezy with outbreaks of rain, some of
+OL,8,Fwhich will be heavy, especially around
+OL,9,Fthe middle of the day.
 OL,10,
-OL,11,CFriday:FWidespread rain through much
-OL,12,Fof the day, particularly in the west,
-OL,13,Fwith some gusty winds at first.
-OL,14,
-OL,15,COutlook for Saturday to Monday:FWet
-OL,16,Fand windy on Saturday before clearing
-OL,17,Fto the east by the evening. Winds
-OL,18,Feasing into Sunday, where showers
-OL,19,Ffollow and turning milder. Turning wet
-OL,20,Fand windy again on Monday.
+OL,11,COutlook for Sunday to Tuesday:FSunday
+OL,12,Fwill be much brighter, though a few
+OL,13,Fshowers are possible. Monday looks
+OL,14,Fcloudier, with some wet and windy
+OL,15,Fweather developing into Tuesday.
+OL,16,FTurning milder at the same time.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,169,160,301,260,100,100
