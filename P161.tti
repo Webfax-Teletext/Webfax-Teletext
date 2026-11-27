@@ -1,27 +1,44 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1795717142
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1795755332
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FRain sweeps
-OL,6,Fin overnight, with heavy accumulations
-OL,7,Fin western areas. Wintry flurries and
-OL,8,Fsome ice in the north. In the
-OL,9,Fnorthwest, coastal gales, severe at
-OL,10,Ftimes. To the southeast, cloudy and
-OL,11,Fdry. Feeling chilly with patchy
-OL,12,Fovernight frost.
-OL,13,
-OL,14,CFriday:FThe rain and winds ease, with
-OL,15,Fa legacy of cloud through much of
-OL,16,FGreat Britain. To the west, sunny
-OL,17,Fspells. Temperatures recovering in the
-OL,18,Fsouth, but overnight frost further
-OL,19,Fnorth.
+OL,5,CToday:FA damp start across the spine
+OL,6,Fof the UK, with snow across northern
+OL,7,Fhills, turning patchier through the
+OL,8,Fafternoon. Brighter as it clears for
+OL,9,FNorthern Ireland and Scotland though
+OL,10,Fwith blustery showers. Staying dry but
+OL,11,Foften cloudy in the southeast.
+OL,12,
+OL,13,CTonight:FPatchy rain turns more
+OL,14,Fpersistent overnight, heaviest across
+OL,15,Fthe southwest. Clear spells across the
+OL,16,Ffar west, Northern Ireland and
+OL,17,FScotland bring a widespread frost.
+OL,18,FStaying dry in the southeast.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1795755332
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSaturday:FA wet day for most,
+OL,6,Fpartiularly across southern England
+OL,7,Fand Wales with strong winds developing
+OL,8,Ftowards high ground and the coasts,
+OL,9,Fpotentially gale force at times in the
+OL,10,Fnortheast.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
