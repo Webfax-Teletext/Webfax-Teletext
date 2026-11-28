@@ -1,25 +1,45 @@
-PN,16100
-SC,0000
+PN,16101
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 1   F161A1795803091
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1795843060
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GUK weather for today and tomorrow
 OL,4,
-OL,5,CThis Evening and Tonight:FLow cloud
-OL,6,Fand patchy rain linger through the
-OL,7,Fspine of Great Britain, with clear
-OL,8,Fspells in the northwest leading to an
-OL,9,Fearly overnight frost here. Heavy rain
-OL,10,Farrives in the south in the early
-OL,11,Fhours where it will feel milder.
-OL,12,
-OL,13,CSaturday:FA wet day for most, with
-OL,14,Fbands of heavy rain sweeping up
-OL,15,Fthrough the UK, strong winds over high
-OL,16,Fground and near coasts, with gales in
-OL,17,Fthe northeast. Feeling milder.
+OL,5,CToday:FRain, heavy at times in the
+OL,6,Fsouthwest, spreads northeast across
+OL,7,Fthe UK, with snow over Scottish
+OL,8,Fmountains. Brighter conditions follow
+OL,9,Ffrom the west later. Windy across
+OL,10,FEngland, Wales and northern coasts.
+OL,11,FMildest in the southwest, but colder
+OL,12,Fin Scotland.
+OL,13,
+OL,14,CTonight:FRain and mountain snow clear
+OL,15,Feastwards, leaving scattered blustery
+OL,16,Fshowers in the west, locally heavy
+OL,17,Fwith a small chance of thunder near
+OL,18,Fcoasts. Gales in the far northeast
+OL,19,Fsoon ease.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page  BWeather  CReg News  FReg TV
+FL,162,160,301,260,100,100
+PN,16102
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 1   F161A1795843060
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GUK weather for today and tomorrow
+OL,4,
+OL,5,CSunday:FCloud and rain clear southeast
+OL,6,FEngland, followed by sunshine and
+OL,7,Fshowers, mostly in the north and west.
+OL,8,FSome showers may be heavy with hail or
+OL,9,Fthunder. Breezy with average
+OL,10,Ftemperatures.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page  BWeather  CReg News  FReg TV
 FL,162,160,301,260,100,100
